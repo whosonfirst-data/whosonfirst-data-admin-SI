@@ -1,0 +1,76 @@
+{
+  "id": 1259348437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.03,45.71417,14.03,45.71417",
+    "geom:latitude":45.71417,
+    "geom:longitude":14.03,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Gabrce",
+    "gn:country_code":"SI",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200795,
+    "gn:latitude":45.71417,
+    "gn:longitude":14.03,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Gabr\u010de",
+    "gn:population":39,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gaber\u010de",
+        "Gabria",
+        "Gabr\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959845,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200795,
+        "wk:page":"Gabr%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"210ff125ed4f5fd444d9559c1eae6dd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959845,
+            "locality_id":1259348437,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1259348437,
+    "wof:lastmodified":1537700248,
+    "wof:name":"Gabrce",
+    "wof:parent_id":1108959845,
+    "wof:placetype":"locality",
+    "wof:population":39,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.03,
+    45.71417,
+    14.03,
+    45.71417
+],
+  "geometry": {"coordinates":[14.03,45.71417],"type":"Point"}
+}

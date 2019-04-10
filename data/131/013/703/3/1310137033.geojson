@@ -1,0 +1,76 @@
+{
+  "id": 1310137033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.35,46.06667,15.35,46.06667",
+    "geom:latitude":46.06667,
+    "geom:longitude":15.35,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Podgorje ob Sevnicni",
+    "gn:country_code":"SI",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193030,
+    "gn:latitude":46.06667,
+    "gn:longitude":15.35,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Podgorje ob Sevni\u010dni",
+    "gn:population":127,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Male Podgorje",
+        "Podgorje ob Sevni\u010dni",
+        "Podgorje pri Sevni\u010dni"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193030,
+        "wk:page":"Podgorje_ob_Sevni%C4%8Dni"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fd62c4840c4bf2925456a0d423c7eb2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1310137033,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1310137033,
+    "wof:lastmodified":1537700209,
+    "wof:name":"Podgorje ob Sevnicni",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":127,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.35,
+    46.06667,
+    15.35,
+    46.06667
+],
+  "geometry": {"coordinates":[15.35,46.06667],"type":"Point"}
+}

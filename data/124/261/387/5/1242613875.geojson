@@ -1,0 +1,80 @@
+{
+  "id": 1242613875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.90269,45.77974,13.90269,45.77974",
+    "geom:latitude":45.77974,
+    "geom:longitude":13.90269,
+    "gn:admin1_code":"B7",
+    "gn:asciiname":"Mahnici",
+    "gn:country_code":"SI",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989240,
+    "gn:latitude":45.77974,
+    "gn:longitude":13.90269,
+    "gn:modification_date":"2015-11-04",
+    "gn:name":"Mahni\u010di",
+    "gn:population":12,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Mahni\u010de"
+    ],
+    "name:slv_x_preferred":[
+        "Mahni\u010de"
+    ],
+    "name:und_x_variant":[
+        "Mahni\u010di"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959789,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989240,
+        "wk:page":"Mahni%C4%8Di"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e986e84ed8c2eda8fcb090c003845257",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959789,
+            "locality_id":1242613875,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1242613875,
+    "wof:lastmodified":1537700322,
+    "wof:name":"Mahnici",
+    "wof:parent_id":1108959789,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.90269,
+    45.77974,
+    13.90269,
+    45.77974
+],
+  "geometry": {"coordinates":[13.90269,45.77974],"type":"Point"}
+}

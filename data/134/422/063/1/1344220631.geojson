@@ -1,0 +1,74 @@
+{
+  "id": 1344220631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.14388,45.55547,15.14388,45.55547",
+    "geom:latitude":45.55547,
+    "geom:longitude":15.14388,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Doblice",
+    "gn:country_code":"SI",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201986,
+    "gn:latitude":45.55547,
+    "gn:longitude":15.14388,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Dobli\u010de",
+    "gn:population":186,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dobli\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959699,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201986,
+        "wk:page":"Dobli%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d4d3a1487f50047f05859cacab5f96b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959699,
+            "locality_id":1344220631,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1344220631,
+    "wof:lastmodified":1537700255,
+    "wof:name":"Doblice",
+    "wof:parent_id":1108959699,
+    "wof:placetype":"locality",
+    "wof:population":186,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.14388,
+    45.55547,
+    15.14388,
+    45.55547
+],
+  "geometry": {"coordinates":[15.14388,45.55547],"type":"Point"}
+}

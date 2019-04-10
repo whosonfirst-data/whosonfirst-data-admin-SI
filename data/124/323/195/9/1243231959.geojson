@@ -1,0 +1,74 @@
+{
+  "id": 1243231959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.99843,46.43783,15.99843,46.43783",
+    "geom:latitude":46.43783,
+    "geom:longitude":15.99843,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Strmec pri Polensaku",
+    "gn:country_code":"SI",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988382,
+    "gn:latitude":46.43783,
+    "gn:longitude":15.99843,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Strmec pri Polen\u0161aku",
+    "gn:population":53,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Strmec pri Polen\u0161aku"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959761,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988382,
+        "wk:page":"Strmec_pri_Polen%C5%A1aku"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"18436f72c7b09505718e7f0db773b0cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959761,
+            "locality_id":1243231959,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1243231959,
+    "wof:lastmodified":1537700305,
+    "wof:name":"Strmec pri Polensaku",
+    "wof:parent_id":1108959761,
+    "wof:placetype":"locality",
+    "wof:population":53,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.99843,
+    46.43783,
+    15.99843,
+    46.43783
+],
+  "geometry": {"coordinates":[15.99843,46.43783],"type":"Point"}
+}

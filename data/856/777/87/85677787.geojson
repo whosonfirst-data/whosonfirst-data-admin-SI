@@ -1,0 +1,169 @@
+{
+  "id": 85677787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.004653,
+    "geom:area_square_m":39811784.724863,
+    "geom:bbox":"15.0450561872,46.1843647317,15.1436031434,46.2576677523",
+    "geom:latitude":46.216173,
+    "geom:longitude":15.094646,
+    "iso:country":"SI",
+    "lbl:latitude":46.215953,
+    "lbl:longitude":15.094646,
+    "mps:latitude":46.215953,
+    "mps:longitude":15.094646,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:eng_x_preferred":[
+        "Prebold"
+    ],
+    "name:eng_x_variant":[
+        "Municipality of Prebold"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Prebold"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30ec\u30dc\u30eb\u30c9"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041f\u0440\u0435\u0431\u043e\u043b\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0435\u0431\u043e\u043b\u0434"
+    ],
+    "name:und_x_preferred":[
+        "Zalec"
+    ],
+    "name:unk_x_variant":[
+        "Ob\u010dina Prebold"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-243",
+    "ne:adm1_code":"SVN-243",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"10",
+    "ne:code_hasc":"SI.SA.PR",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"243",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SI00",
+    "ne:fips_alt":"SIK4",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.K4",
+    "ne:gn_id":"3344907",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Prebold",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI72",
+    "ne:gns_id":"9123403",
+    "ne:gns_lang":"kat",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Prebold, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"46.22140000000",
+    "ne:longitude":"15.09430000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Prebold",
+    "ne:name_alt":"",
+    "ne:name_len":7,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"PR",
+    "ne:provnum_ne":"109",
+    "ne:region":"Savinjska",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":-55848398,
+    "ne:woe_label":"",
+    "ne:woe_name":"",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Prebold",
+    "qs:a1_lc":"SVN-243",
+    "qs:a1r":"Savinjska",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "qs:woeid":55848398,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "unlc:subdivision":"SI-174",
+    "wd:wordcount":337,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SI00",
+        "gn:id":3344907,
+        "gp:id":-55848398,
+        "hasc:id":"SI.SA.PR",
+        "unlc:id":"SI-174",
+        "wd:id":"Q2749254"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"811f82e2adf73c7595296320cf17cc43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677787
+        }
+    ],
+    "wof:id":85677787,
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616732,
+    "wof:name":"Prebold",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:shortcode":"PR",
+    "wof:subdivision":"SI-174",
+    "wof:superseded_by":[
+        1108959713
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.04505618719332,
+    46.18436473174705,
+    15.1436031433704,
+    46.25766775226504
+],
+  "geometry": {"coordinates":[[[15.10401899607984,46.25500641551372],[15.12375939288171,46.24157054324604],[15.13771202998623,46.23598948822433],[15.14313805537699,46.23159699250726],[15.1436031433704,46.22996918453032],[15.14065758577902,46.23015005078429],[15.13802208834875,46.22983999332109],[15.13569664928099,46.22702362693889],[15.13430138530072,46.22214020390732],[15.13414635566983,46.20684398056528],[15.13244103422642,46.19839488411668],[15.13089074061526,46.19506175379695],[15.12841027191655,46.19242625636667],[15.12515465686198,46.1902041691871],[15.12158898344489,46.18865387647526],[15.11828169064756,46.18787873011934],[15.11099531418245,46.18731028933843],[15.07766401458264,46.18436473174705],[15.04505618719332,46.1933047555101],[15.05156741730252,46.20756745097714],[15.05249759328933,46.21133982996923],[15.05110232930912,46.2260934518514],[15.06660525912548,46.23051178599019],[15.095027297272,46.25766775226504],[15.10401899607984,46.25500641551372]]],"type":"Polygon"}
+}

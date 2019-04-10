@@ -1,0 +1,74 @@
+{
+  "id": 1344193481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.57439,45.84321,14.57439,45.84321",
+    "geom:latitude":45.84321,
+    "geom:longitude":14.57439,
+    "gn:admin1_code":"D8",
+    "gn:asciiname":"Gradisce",
+    "gn:country_code":"SI",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989649,
+    "gn:latitude":45.84321,
+    "gn:longitude":14.57439,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Gradi\u0161\u010de",
+    "gn:population":16,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gradi\u0161\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959859,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989649,
+        "wk:page":"Gradi%C5%A1%C4%8De%2C_Velike_La%C5%A1%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c91c59a01d909be70e380f66e9bea7cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959859,
+            "locality_id":1344193481,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1344193481,
+    "wof:lastmodified":1537700330,
+    "wof:name":"Gradisce",
+    "wof:parent_id":1108959859,
+    "wof:placetype":"locality",
+    "wof:population":16,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.57439,
+    45.84321,
+    14.57439,
+    45.84321
+],
+  "geometry": {"coordinates":[14.57439,45.84321],"type":"Point"}
+}

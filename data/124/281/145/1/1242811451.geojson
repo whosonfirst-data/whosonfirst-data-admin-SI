@@ -1,0 +1,74 @@
+{
+  "id": 1242811451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.17438,46.26584,15.17438,46.26584",
+    "geom:latitude":46.26584,
+    "geom:longitude":15.17438,
+    "gn:admin1_code":"N5",
+    "gn:asciiname":"Loznica pri Zalcu",
+    "gn:country_code":"SI",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986956,
+    "gn:latitude":46.26584,
+    "gn:longitude":15.17438,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Lo\u017enica pri \u017dalcu",
+    "gn:population":450,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lo\u017enica pri \u017dalcu"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959929,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986956,
+        "wk:page":"Lo%C5%BEnica_pri_%C5%BDalcu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9df455301bc1e3e030104f9beccefe04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959929,
+            "locality_id":1242811451,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1242811451,
+    "wof:lastmodified":1537700277,
+    "wof:name":"Loznica pri Zalcu",
+    "wof:parent_id":1108959929,
+    "wof:placetype":"locality",
+    "wof:population":450,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.17438,
+    46.26584,
+    15.17438,
+    46.26584
+],
+  "geometry": {"coordinates":[15.17438,46.26584],"type":"Point"}
+}

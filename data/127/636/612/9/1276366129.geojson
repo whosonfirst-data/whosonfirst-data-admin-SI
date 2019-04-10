@@ -1,0 +1,71 @@
+{
+  "id": 1276366129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.76477,46.11502,13.76477,46.11502",
+    "geom:latitude":46.11502,
+    "geom:longitude":13.76477,
+    "gn:admin1_code":"D2",
+    "gn:asciiname":"Kanalski Lom",
+    "gn:country_code":"SI",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987933,
+    "gn:latitude":46.11502,
+    "gn:longitude":13.76477,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kanalski Lom",
+    "gn:population":89,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959617,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987933,
+        "wk:page":"Kanalski_Lom"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"45d00d70b6469e03e0bd8d7d94b6aef7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959617,
+            "locality_id":1276366129,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1276366129,
+    "wof:lastmodified":1537573496,
+    "wof:name":"Kanalski Lom",
+    "wof:parent_id":1108959617,
+    "wof:placetype":"locality",
+    "wof:population":89,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.76477,
+    46.11502,
+    13.76477,
+    46.11502
+],
+  "geometry": {"coordinates":[13.76477,46.11502],"type":"Point"}
+}

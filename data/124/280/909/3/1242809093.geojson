@@ -1,0 +1,71 @@
+{
+  "id": 1242809093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.61231,46.12665,14.61231,46.12665",
+    "geom:latitude":46.12665,
+    "geom:longitude":14.61231,
+    "gn:admin1_code":"G7",
+    "gn:asciiname":"Prelog",
+    "gn:country_code":"SI",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986882,
+    "gn:latitude":46.12665,
+    "gn:longitude":14.61231,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Prelog",
+    "gn:population":656,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959799,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986882,
+        "wk:page":"Prelog%2C_Dom%C5%BEale"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"99b1d65e19ab228b6461e0c934b4ff91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959799,
+            "locality_id":1242809093,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1242809093,
+    "wof:lastmodified":1537573463,
+    "wof:name":"Prelog",
+    "wof:parent_id":1108959799,
+    "wof:placetype":"locality",
+    "wof:population":656,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.61231,
+    46.12665,
+    14.61231,
+    46.12665
+],
+  "geometry": {"coordinates":[14.61231,46.12665],"type":"Point"}
+}

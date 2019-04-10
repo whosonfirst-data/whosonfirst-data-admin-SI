@@ -1,0 +1,74 @@
+{
+  "id": 1326764163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.97301,45.95133,14.97301,45.95133",
+    "geom:latitude":45.95133,
+    "geom:longitude":14.97301,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Roje pri Catezu",
+    "gn:country_code":"SI",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989547,
+    "gn:latitude":45.95133,
+    "gn:longitude":14.97301,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Roje pri \u010cate\u017eu",
+    "gn:population":67,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Roje pri \u010cate\u017eu"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959839,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989547,
+        "wk:page":"Roje_pri_%C4%8Cate%C5%BEu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"24751a7bf8a890ed20256d5a651f445a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959839,
+            "locality_id":1326764163,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1326764163,
+    "wof:lastmodified":1537700328,
+    "wof:name":"Roje pri Catezu",
+    "wof:parent_id":1108959839,
+    "wof:placetype":"locality",
+    "wof:population":67,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.97301,
+    45.95133,
+    14.97301,
+    45.95133
+],
+  "geometry": {"coordinates":[14.97301,45.95133],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209349457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.5957,46.15659,14.5957,46.15659",
+    "geom:latitude":46.15659,
+    "geom:longitude":14.5957,
+    "gn:admin1_code":"G7",
+    "gn:asciiname":"Srednje Jarse",
+    "gn:country_code":"SI",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190125,
+    "gn:latitude":46.15659,
+    "gn:longitude":14.5957,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Srednje Jar\u0161e",
+    "gn:population":674,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Srednje Jar\u0161e"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190125,
+        "wk:page":"Srednje_Jar%C5%A1e"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8e7bac78161b7e54795a88141d03c0cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209349457
+        }
+    ],
+    "wof:id":1209349457,
+    "wof:lastmodified":1537700187,
+    "wof:name":"Srednje Jarse",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":674,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.5957,
+    46.15659,
+    14.5957,
+    46.15659
+],
+  "geometry": {"coordinates":[14.5957,46.15659],"type":"Point"}
+}

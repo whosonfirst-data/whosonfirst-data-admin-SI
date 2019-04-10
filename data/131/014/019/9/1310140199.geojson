@@ -1,0 +1,71 @@
+{
+  "id": 1310140199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.41646,45.94089,15.41646,45.94089",
+    "geom:latitude":45.94089,
+    "geom:longitude":15.41646,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Drenovec pri Leskovcu",
+    "gn:country_code":"SI",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988293,
+    "gn:latitude":45.94089,
+    "gn:longitude":15.41646,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Drenovec pri Leskovcu",
+    "gn:population":58,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988293,
+        "wk:page":"Drenovec_pri_Leskovcu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b2f32f4c6637d9d5fec7b3156a1f098b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1310140199,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1310140199,
+    "wof:lastmodified":1537573507,
+    "wof:name":"Drenovec pri Leskovcu",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":58,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.41646,
+    45.94089,
+    15.41646,
+    45.94089
+],
+  "geometry": {"coordinates":[15.41646,45.94089],"type":"Point"}
+}

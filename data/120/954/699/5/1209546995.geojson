@@ -1,0 +1,65 @@
+{
+  "id": 1209546995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.10556,46.54722,16.10556,46.54722",
+    "geom:latitude":46.54722,
+    "geom:longitude":16.10556,
+    "gn:admin1_code":"I1",
+    "gn:asciiname":"Logarovci",
+    "gn:country_code":"SI",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3196291,
+    "gn:latitude":46.54722,
+    "gn:longitude":16.10556,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Logarovci",
+    "gn:population":286,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196291,
+        "wk:page":"Logarovci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"10f6b9a080ecd235c7d17e7fcb10ed81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209546995
+        }
+    ],
+    "wof:id":1209546995,
+    "wof:lastmodified":1537573424,
+    "wof:name":"Logarovci",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":286,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.10556,
+    46.54722,
+    16.10556,
+    46.54722
+],
+  "geometry": {"coordinates":[16.10556,46.54722],"type":"Point"}
+}

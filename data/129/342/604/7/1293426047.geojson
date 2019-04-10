@@ -1,0 +1,71 @@
+{
+  "id": 1293426047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.16318,46.20944,14.16318,46.20944",
+    "geom:latitude":46.20944,
+    "geom:longitude":14.16318,
+    "gn:admin1_code":"F1",
+    "gn:asciiname":"Smoleva",
+    "gn:country_code":"SI",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988337,
+    "gn:latitude":46.20944,
+    "gn:longitude":14.16318,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Smoleva",
+    "gn:population":56,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959701,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988337,
+        "wk:page":"Smoleva"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"baf39f8260f7d0aebd934ea2271e9e38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959701,
+            "locality_id":1293426047,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1293426047,
+    "wof:lastmodified":1537573508,
+    "wof:name":"Smoleva",
+    "wof:parent_id":1108959701,
+    "wof:placetype":"locality",
+    "wof:population":56,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.16318,
+    46.20944,
+    14.16318,
+    46.20944
+],
+  "geometry": {"coordinates":[14.16318,46.20944],"type":"Point"}
+}

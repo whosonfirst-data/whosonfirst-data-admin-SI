@@ -1,0 +1,74 @@
+{
+  "id": 1343394975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.34287,46.05915,14.34287,46.05915",
+    "geom:latitude":46.05915,
+    "geom:longitude":14.34287,
+    "gn:admin1_code":"G4",
+    "gn:asciiname":"Dolenja Vas pri Polhovem Gradcu",
+    "gn:country_code":"SI",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987136,
+    "gn:latitude":46.05915,
+    "gn:longitude":14.34287,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Dolenja Vas pri Polhovem Gradcu",
+    "gn:population":246,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dolenja Vas pri Polh. Gradcu"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959847,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987136,
+        "wk:page":"Dolenja_Vas_pri_Polhovem_Gradcu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"98bb9fbce74e88eddb990aca7ea5bba6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959847,
+            "locality_id":1343394975,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1343394975,
+    "wof:lastmodified":1537700280,
+    "wof:name":"Dolenja Vas pri Polhovem Gradcu",
+    "wof:parent_id":1108959847,
+    "wof:placetype":"locality",
+    "wof:population":246,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.34287,
+    46.05915,
+    14.34287,
+    46.05915
+],
+  "geometry": {"coordinates":[14.34287,46.05915],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1360016747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.5,45.86667,15.5,45.86667",
+    "geom:latitude":45.86667,
+    "geom:longitude":15.5,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Gazice",
+    "gn:country_code":"SI",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200688,
+    "gn:latitude":45.86667,
+    "gn:longitude":15.5,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Gazice",
+    "gn:population":146,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200688,
+        "wk:page":"Gazice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b37713ebd6ff9b24543ed74773971216",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1360016747,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1360016747,
+    "wof:lastmodified":1537573441,
+    "wof:name":"Gazice",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":146,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.5,
+    45.86667,
+    15.5,
+    45.86667
+],
+  "geometry": {"coordinates":[15.5,45.86667],"type":"Point"}
+}

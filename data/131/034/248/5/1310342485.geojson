@@ -1,0 +1,71 @@
+{
+  "id": 1310342485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56667,46.18333,15.56667,46.18333",
+    "geom:latitude":46.18333,
+    "geom:longitude":15.56667,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Roginska Gorca",
+    "gn:country_code":"SI",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191573,
+    "gn:latitude":46.18333,
+    "gn:longitude":15.56667,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Roginska Gorca",
+    "gn:population":129,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959649,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191573,
+        "wk:page":"Roginska_Gorca"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3b299dbcb173935b79e0813859c7ec0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959649,
+            "locality_id":1310342485,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1310342485,
+    "wof:lastmodified":1537573405,
+    "wof:name":"Roginska Gorca",
+    "wof:parent_id":1108959649,
+    "wof:placetype":"locality",
+    "wof:population":129,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56667,
+    46.18333,
+    15.56667,
+    46.18333
+],
+  "geometry": {"coordinates":[15.56667,46.18333],"type":"Point"}
+}

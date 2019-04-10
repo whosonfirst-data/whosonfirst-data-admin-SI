@@ -1,0 +1,71 @@
+{
+  "id": 1310482769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.22936,46.26031,15.22936,46.26031",
+    "geom:latitude":46.26031,
+    "geom:longitude":15.22936,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Lopata",
+    "gn:country_code":"SI",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986889,
+    "gn:latitude":46.26031,
+    "gn:longitude":15.22936,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Lopata",
+    "gn:population":619,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959693,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986889,
+        "wk:page":"Lopata"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"aa1f75139543a64c0098d64101c81376",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959693,
+            "locality_id":1310482769,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1310482769,
+    "wof:lastmodified":1537573463,
+    "wof:name":"Lopata",
+    "wof:parent_id":1108959693,
+    "wof:placetype":"locality",
+    "wof:population":619,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.22936,
+    46.26031,
+    15.22936,
+    46.26031
+],
+  "geometry": {"coordinates":[15.22936,46.26031],"type":"Point"}
+}

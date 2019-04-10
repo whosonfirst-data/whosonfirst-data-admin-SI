@@ -1,0 +1,75 @@
+{
+  "id": 1310339399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.16333,46.38306,15.16333,46.38306",
+    "geom:latitude":46.38306,
+    "geom:longitude":15.16333,
+    "gn:admin1_code":"D7",
+    "gn:asciiname":"Paka pri Velenju",
+    "gn:country_code":"SI",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193719,
+    "gn:latitude":46.38306,
+    "gn:longitude":15.16333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Paka pri Velenju",
+    "gn:population":447,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paka",
+        "Paka pri Velenju"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959593,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193719,
+        "wk:page":"Paka_pri_Velenju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c958d2d235cb1d6874cfd62307d05abb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959593,
+            "locality_id":1310339399,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1310339399,
+    "wof:lastmodified":1537700212,
+    "wof:name":"Paka pri Velenju",
+    "wof:parent_id":1108959593,
+    "wof:placetype":"locality",
+    "wof:population":447,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.16333,
+    46.38306,
+    15.16333,
+    46.38306
+],
+  "geometry": {"coordinates":[15.16333,46.38306],"type":"Point"}
+}

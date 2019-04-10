@@ -1,0 +1,75 @@
+{
+  "id": 1276152493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.9325,45.88028,14.9325,45.88028",
+    "geom:latitude":45.88028,
+    "geom:longitude":14.9325,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Dolenje Kamenje pri Dobrnicu",
+    "gn:country_code":"SI",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201836,
+    "gn:latitude":45.88028,
+    "gn:longitude":14.9325,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Dolenje Kamenje pri Dobrni\u010du",
+    "gn:population":16,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dolenje Kamenje",
+        "Dolenje Kamenje pri Dobrni\u010du"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959839,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201836,
+        "wk:page":"Dolenje_Kamenje_pri_Dobrni%C4%8Du"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c17560be53f8556a81e94d3160ad41e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959839,
+            "locality_id":1276152493,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1276152493,
+    "wof:lastmodified":1537700253,
+    "wof:name":"Dolenje Kamenje pri Dobrnicu",
+    "wof:parent_id":1108959839,
+    "wof:placetype":"locality",
+    "wof:population":16,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.9325,
+    45.88028,
+    14.9325,
+    45.88028
+],
+  "geometry": {"coordinates":[14.9325,45.88028],"type":"Point"}
+}

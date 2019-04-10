@@ -1,0 +1,71 @@
+{
+  "id": 1276586201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.23333,46.36667,14.23333,46.36667",
+    "geom:latitude":46.36667,
+    "geom:longitude":14.23333,
+    "gn:admin1_code":"A3",
+    "gn:asciiname":"Srednja Vas",
+    "gn:country_code":"SI",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190135,
+    "gn:latitude":46.36667,
+    "gn:longitude":14.23333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Srednja Vas",
+    "gn:population":28,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959825,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190135,
+        "wk:page":"Srednja_Vas%2C_Radovljica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3f003d1bf3d06405d2ba4a071e431b31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959825,
+            "locality_id":1276586201,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1276586201,
+    "wof:lastmodified":1537573397,
+    "wof:name":"Srednja Vas",
+    "wof:parent_id":1108959825,
+    "wof:placetype":"locality",
+    "wof:population":28,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.23333,
+    46.36667,
+    14.23333,
+    46.36667
+],
+  "geometry": {"coordinates":[14.23333,46.36667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209291663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.53044,46.28678,14.53044,46.28678",
+    "geom:latitude":46.28678,
+    "geom:longitude":14.53044,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Ambroz pod Krvavcem",
+    "gn:country_code":"SI",
+    "gn:dem":1389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987911,
+    "gn:latitude":46.28678,
+    "gn:longitude":14.53044,
+    "gn:modification_date":"2014-09-11",
+    "gn:name":"Ambroz pod Krvavcem",
+    "gn:population":91,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambro\u017e Pod Krvavcem"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987911,
+        "wk:page":"Ambro%C5%BE_pod_Krvavcem"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ff820b31da7fe472ac1a28e690511d22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209291663
+        }
+    ],
+    "wof:id":1209291663,
+    "wof:lastmodified":1537700296,
+    "wof:name":"Ambroz pod Krvavcem",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":91,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.53044,
+    46.28678,
+    14.53044,
+    46.28678
+],
+  "geometry": {"coordinates":[14.53044,46.28678],"type":"Point"}
+}

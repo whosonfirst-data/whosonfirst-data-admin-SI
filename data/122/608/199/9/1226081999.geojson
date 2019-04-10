@@ -1,0 +1,79 @@
+{
+  "id": 1226081999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.64167,45.845,13.64167,45.845",
+    "geom:latitude":45.845,
+    "geom:longitude":13.64167,
+    "gn:admin1_code":"J5",
+    "gn:asciiname":"Kostanjevica na Krasu",
+    "gn:country_code":"SI",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197582,
+    "gn:latitude":45.845,
+    "gn:longitude":13.64167,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Kostanjevica na Krasu",
+    "gn:population":348,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Landstra\u00df"
+    ],
+    "name:und_x_variant":[
+        "Castagnevizza",
+        "Kostanjevica",
+        "Kostanjevica na Krasu"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959481,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197582,
+        "wk:page":"Kostanjevica_na_Krasu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fb5aea2f5f363f26503b68903621e3ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959481,
+            "locality_id":1226081999,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1226081999,
+    "wof:lastmodified":1537700230,
+    "wof:name":"Kostanjevica na Krasu",
+    "wof:parent_id":1108959481,
+    "wof:placetype":"locality",
+    "wof:population":348,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.64167,
+    45.845,
+    13.64167,
+    45.845
+],
+  "geometry": {"coordinates":[13.64167,45.845],"type":"Point"}
+}

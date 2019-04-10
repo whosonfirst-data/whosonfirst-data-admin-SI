@@ -1,0 +1,74 @@
+{
+  "id": 1226373517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8975,46.66417,15.8975,46.66417",
+    "geom:latitude":46.66417,
+    "geom:longitude":15.8975,
+    "gn:admin1_code":"N9",
+    "gn:asciiname":"Lesane",
+    "gn:country_code":"SI",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196653,
+    "gn:latitude":46.66417,
+    "gn:longitude":15.8975,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Le\u0161ane",
+    "gn:population":192,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Le\u0161ane"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959667,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196653,
+        "wk:page":"Le%C5%A1ane%2C_Apa%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1c72bf8b67483b8e7f36e1649f8540c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959667,
+            "locality_id":1226373517,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1226373517,
+    "wof:lastmodified":1537700225,
+    "wof:name":"Lesane",
+    "wof:parent_id":1108959667,
+    "wof:placetype":"locality",
+    "wof:population":192,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8975,
+    46.66417,
+    15.8975,
+    46.66417
+],
+  "geometry": {"coordinates":[15.8975,46.66417],"type":"Point"}
+}

@@ -1,0 +1,104 @@
+{
+  "id": 101857891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.831738,45.522894,13.831738,45.522894",
+    "geom:latitude":45.522894,
+    "geom:longitude":13.831738,
+    "iso:country":"SI",
+    "lbl:latitude":45.522894,
+    "lbl:longitude":13.831738,
+    "mps:latitude":45.522894,
+    "mps:longitude":13.831738,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0438 \u0410\u043d\u0442\u043e\u043d"
+    ],
+    "name:dut_x_preferred":[
+        "Sv. Anton"
+    ],
+    "name:eng_x_preferred":[
+        "Sveti Anton"
+    ],
+    "name:ita_x_preferred":[
+        "Sant'Antonio"
+    ],
+    "name:nld_x_preferred":[
+        "Sv. Anton"
+    ],
+    "name:ron_x_preferred":[
+        "Sveti Anton"
+    ],
+    "name:rum_x_preferred":[
+        "Sveti Anton"
+    ],
+    "name:slv_x_preferred":[
+        "Sveti Anton"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0438\u0439 \u0410\u043d\u0442\u043e\u043d"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Sv. Anton",
+    "qs:loc_alt":"Sv. Anton",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":228,
+    "wof:belongsto":[
+        102191581,
+        1108959527,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":531841,
+        "qs:id":9,
+        "wd:id":"Q1618559"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"827613872c19be20e927724fe4a80525",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959527,
+            "locality_id":101857891,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":101857891,
+    "wof:lastmodified":1544744130,
+    "wof:name":"Sv. Anton",
+    "wof:parent_id":1108959527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.831738,
+    45.522894,
+    13.831738,
+    45.522894
+],
+  "geometry": {"coordinates":[13.831738,45.522894],"type":"Point"}
+}

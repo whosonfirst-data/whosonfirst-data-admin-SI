@@ -1,0 +1,74 @@
+{
+  "id": 1309749029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.41667,46.18333,14.41667,46.18333",
+    "geom:latitude":46.18333,
+    "geom:longitude":14.41667,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Mose",
+    "gn:country_code":"SI",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194854,
+    "gn:latitude":46.18333,
+    "gn:longitude":14.41667,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Mo\u0161e",
+    "gn:population":235,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mo\u0161e"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959881,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194854,
+        "wk:page":"Mo%C5%A1e"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8c40961665bc108eaa5273ebd44862b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959881,
+            "locality_id":1309749029,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1309749029,
+    "wof:lastmodified":1537700217,
+    "wof:name":"Mose",
+    "wof:parent_id":1108959881,
+    "wof:placetype":"locality",
+    "wof:population":235,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.41667,
+    46.18333,
+    14.41667,
+    46.18333
+],
+  "geometry": {"coordinates":[14.41667,46.18333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260323907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.16864,45.66627,15.16864,45.66627",
+    "geom:latitude":45.66627,
+    "geom:longitude":15.16864,
+    "gn:admin1_code":"B1",
+    "gn:asciiname":"Preloge",
+    "gn:country_code":"SI",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989398,
+    "gn:latitude":45.66627,
+    "gn:longitude":15.16864,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Preloge",
+    "gn:population":2,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959601,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989398,
+        "wk:page":"Preloge%2C_Semi%C4%8D"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ee081c98dd43de0b00a20e4e16ebec1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959601,
+            "locality_id":1260323907,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1260323907,
+    "wof:lastmodified":1537573541,
+    "wof:name":"Preloge",
+    "wof:parent_id":1108959601,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.16864,
+    45.66627,
+    15.16864,
+    45.66627
+],
+  "geometry": {"coordinates":[15.16864,45.66627],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209251903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.22561,46.49635,16.22561,46.49635",
+    "geom:latitude":46.49635,
+    "geom:longitude":16.22561,
+    "gn:admin1_code":"I6",
+    "gn:asciiname":"Rincetova Graba",
+    "gn:country_code":"SI",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987770,
+    "gn:latitude":46.49635,
+    "gn:longitude":16.22561,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Rin\u010detova Graba",
+    "gn:population":105,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rin\u010detova Graba"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987770,
+        "wk:page":"Rin%C4%8Detova_Graba"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"74e35d248e6f8debd7f16f12ab9afc80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209251903
+        }
+    ],
+    "wof:id":1209251903,
+    "wof:lastmodified":1537700293,
+    "wof:name":"Rincetova Graba",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":105,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.22561,
+    46.49635,
+    16.22561,
+    46.49635
+],
+  "geometry": {"coordinates":[16.22561,46.49635],"type":"Point"}
+}

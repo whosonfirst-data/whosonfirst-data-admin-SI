@@ -1,0 +1,71 @@
+{
+  "id": 1343792343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23181,45.87779,15.23181,45.87779",
+    "geom:latitude":45.87779,
+    "geom:longitude":15.23181,
+    "gn:admin1_code":"P3",
+    "gn:asciiname":"Brezovica",
+    "gn:country_code":"SI",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989760,
+    "gn:latitude":45.87779,
+    "gn:longitude":15.23181,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Brezovica",
+    "gn:population":216,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959833,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989760,
+        "wk:page":"Brezovica%2C_%C5%A0marje%C5%A1ke_Toplice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"cffe421fdd4edd0d31645b47cba94f1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959833,
+            "locality_id":1343792343,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1343792343,
+    "wof:lastmodified":1537573551,
+    "wof:name":"Brezovica",
+    "wof:parent_id":1108959833,
+    "wof:placetype":"locality",
+    "wof:population":216,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23181,
+    45.87779000000001,
+    15.23181,
+    45.87779000000001
+],
+  "geometry": {"coordinates":[15.23181,45.87779000000001],"type":"Point"}
+}

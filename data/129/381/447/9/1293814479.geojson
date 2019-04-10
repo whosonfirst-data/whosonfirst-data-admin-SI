@@ -1,0 +1,67 @@
+{
+  "id": 1293814479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.66125,45.6173,14.66125,45.6173",
+    "geom:latitude":45.6173,
+    "geom:longitude":14.66125,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Safarje",
+    "gn:country_code":"SI",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10942280,
+    "gn:latitude":45.6173,
+    "gn:longitude":14.66125,
+    "gn:modification_date":"2015-11-20",
+    "gn:name":"\u0160afarje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959513,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10942280
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e09c77fb29d8608664a61e84a51787b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959513,
+            "locality_id":1293814479,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1293814479,
+    "wof:lastmodified":1536812300,
+    "wof:name":"Safarje",
+    "wof:parent_id":1108959513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.66125,
+    45.6173,
+    14.66125,
+    45.6173
+],
+  "geometry": {"coordinates":[14.66125,45.6173],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209978565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.73194,45.84972,14.73194,45.84972",
+    "geom:latitude":45.84972,
+    "geom:longitude":14.73194,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Zagorica",
+    "gn:country_code":"SI",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186920,
+    "gn:latitude":45.84972,
+    "gn:longitude":14.73194,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Zagorica",
+    "gn:population":245,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959575,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186920,
+        "wk:page":"Zagorica%2C_Dobrepolje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b7f49539334d3c505b9b2ffcd2807385",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959575,
+            "locality_id":1209978565,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1209978565,
+    "wof:lastmodified":1537573384,
+    "wof:name":"Zagorica",
+    "wof:parent_id":1108959575,
+    "wof:placetype":"locality",
+    "wof:population":245,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.73194,
+    45.84972,
+    14.73194,
+    45.84972
+],
+  "geometry": {"coordinates":[14.73194,45.84972],"type":"Point"}
+}

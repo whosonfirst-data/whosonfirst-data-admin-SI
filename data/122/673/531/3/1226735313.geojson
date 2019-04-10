@@ -1,0 +1,73 @@
+{
+  "id": 1226735313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.67457,45.98322,15.67457,45.98322",
+    "geom:latitude":45.98322,
+    "geom:longitude":15.67457,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sveti Duh",
+    "gn:country_code":"SI",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10794152,
+    "gn:latitude":45.98322,
+    "gn:longitude":15.67457,
+    "gn:modification_date":"2015-10-03",
+    "gn:name":"Sveti Duh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_historical":[
+        "Heiligengeist"
+    ],
+    "name:deu_x_preferred":[
+        "Heiligengeist"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10794152
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5cdf0a711f25854285cc30be4ce10b5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1226735313,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1226735313,
+    "wof:lastmodified":1537700336,
+    "wof:name":"Sveti Duh",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.67457,
+    45.98322,
+    15.67457,
+    45.98322
+],
+  "geometry": {"coordinates":[15.67457,45.98322],"type":"Point"}
+}

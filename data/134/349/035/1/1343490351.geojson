@@ -1,0 +1,75 @@
+{
+  "id": 1343490351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.39913,46.27317,14.39913,46.27317",
+    "geom:latitude":46.27317,
+    "geom:longitude":14.39913,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Suha pri Predosljah",
+    "gn:cc2":"SI",
+    "gn:country_code":"SI",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189560,
+    "gn:latitude":46.27317,
+    "gn:longitude":14.39913,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Suha pri Predosljah",
+    "gn:population":237,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Suha"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959933,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189560,
+        "wk:page":"Suha_pri_Predosljah"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6a36360e9b87d2e3ce66608d65f3637f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959933,
+            "locality_id":1343490351,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1343490351,
+    "wof:lastmodified":1537700184,
+    "wof:name":"Suha pri Predosljah",
+    "wof:parent_id":1108959933,
+    "wof:placetype":"locality",
+    "wof:population":237,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.39913,
+    46.27317,
+    14.39913,
+    46.27317
+],
+  "geometry": {"coordinates":[14.39913,46.27317],"type":"Point"}
+}

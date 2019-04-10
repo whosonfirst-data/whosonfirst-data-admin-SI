@@ -1,0 +1,71 @@
+{
+  "id": 1343989371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.44699,46.2567,13.44699,46.2567",
+    "geom:latitude":46.2567,
+    "geom:longitude":13.44699,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Homec",
+    "gn:country_code":"SI",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989292,
+    "gn:latitude":46.2567,
+    "gn:longitude":13.44699,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Homec",
+    "gn:population":9,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959523,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989292,
+        "wk:page":"Homec%2C_Kobarid"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a9cead960dfa0f3326fd3f41224f2109",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959523,
+            "locality_id":1343989371,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1343989371,
+    "wof:lastmodified":1537573537,
+    "wof:name":"Homec",
+    "wof:parent_id":1108959523,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.44699,
+    46.2567,
+    13.44699,
+    46.2567
+],
+  "geometry": {"coordinates":[13.44699,46.2567],"type":"Point"}
+}

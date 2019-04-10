@@ -1,0 +1,74 @@
+{
+  "id": 1343991863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.62495,46.65316,15.62495,46.65316",
+    "geom:latitude":46.65316,
+    "geom:longitude":15.62495,
+    "gn:admin1_code":"55",
+    "gn:asciiname":"Spodnje Vrtice",
+    "gn:country_code":"SI",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190205,
+    "gn:latitude":46.65316,
+    "gn:longitude":15.62495,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Spodnje Vrti\u010de",
+    "gn:population":175,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Spodnje Vrti\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959469,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190205,
+        "wk:page":"Spodnje_Vrti%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a008094bf28ec36f0d07cb2b296d8040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959469,
+            "locality_id":1343991863,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1343991863,
+    "wof:lastmodified":1537700188,
+    "wof:name":"Spodnje Vrtice",
+    "wof:parent_id":1108959469,
+    "wof:placetype":"locality",
+    "wof:population":175,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.62495,
+    46.65316,
+    15.62495,
+    46.65316
+],
+  "geometry": {"coordinates":[15.62495,46.65316],"type":"Point"}
+}

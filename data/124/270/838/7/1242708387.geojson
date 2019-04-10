@@ -1,0 +1,71 @@
+{
+  "id": 1242708387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.22303,45.98517,15.22303,45.98517",
+    "geom:latitude":45.98517,
+    "geom:longitude":15.22303,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Gabrje",
+    "gn:country_code":"SI",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988642,
+    "gn:latitude":45.98517,
+    "gn:longitude":15.22303,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Gabrje",
+    "gn:population":39,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988642,
+        "wk:page":"Gabrje%2C_Sevnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"954530100cf6147767476453651e02a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1242708387,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1242708387,
+    "wof:lastmodified":1537573518,
+    "wof:name":"Gabrje",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":39,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.22303,
+    45.98517,
+    15.22303,
+    45.98517
+],
+  "geometry": {"coordinates":[15.22303,45.98517],"type":"Point"}
+}

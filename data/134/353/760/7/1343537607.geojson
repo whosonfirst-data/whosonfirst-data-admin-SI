@@ -1,0 +1,74 @@
+{
+  "id": 1343537607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.17556,45.52083,15.17556,45.52083",
+    "geom:latitude":45.52083,
+    "geom:longitude":15.17556,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Dragatus",
+    "gn:country_code":"SI",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201314,
+    "gn:latitude":45.52083,
+    "gn:longitude":15.17556,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Dragatu\u0161",
+    "gn:population":251,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dragatu\u0161"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959699,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201314,
+        "wk:page":"Dragatu%C5%A1"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0f9e291647839b452e1738c7ff5ce21d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959699,
+            "locality_id":1343537607,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1343537607,
+    "wof:lastmodified":1537700250,
+    "wof:name":"Dragatus",
+    "wof:parent_id":1108959699,
+    "wof:placetype":"locality",
+    "wof:population":251,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.17556,
+    45.52083,
+    15.17556,
+    45.52083
+],
+  "geometry": {"coordinates":[15.17556,45.52083],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327125923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.50796,46.00709,13.50796,46.00709",
+    "geom:latitude":46.00709,
+    "geom:longitude":13.50796,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Brdice pri Neblem",
+    "gn:country_code":"SI",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988503,
+    "gn:latitude":46.00709,
+    "gn:longitude":13.50796,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Brdice pri Neblem",
+    "gn:population":46,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959811,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988503,
+        "wk:page":"Brdice_pri_Neblem"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"bfa9a4f6b5aa15dc0517a024f5ca54c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959811,
+            "locality_id":1327125923,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1327125923,
+    "wof:lastmodified":1537573514,
+    "wof:name":"Brdice pri Neblem",
+    "wof:parent_id":1108959811,
+    "wof:placetype":"locality",
+    "wof:population":46,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.50796,
+    46.00709000000001,
+    13.50796,
+    46.00709000000001
+],
+  "geometry": {"coordinates":[13.50796,46.00709000000001],"type":"Point"}
+}

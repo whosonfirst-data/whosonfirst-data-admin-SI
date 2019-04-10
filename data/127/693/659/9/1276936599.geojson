@@ -1,0 +1,71 @@
+{
+  "id": 1276936599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.64226,45.98406,14.64226,45.98406",
+    "geom:latitude":45.98406,
+    "geom:longitude":14.64226,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Zgornja Slivnica",
+    "gn:country_code":"SI",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987780,
+    "gn:latitude":45.98406,
+    "gn:longitude":14.64226,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Zgornja Slivnica",
+    "gn:population":104,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959533,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987780,
+        "wk:page":"Zgornja_Slivnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"26ec80576e4fc734c10b3336adb37d09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959533,
+            "locality_id":1276936599,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1276936599,
+    "wof:lastmodified":1537573491,
+    "wof:name":"Zgornja Slivnica",
+    "wof:parent_id":1108959533,
+    "wof:placetype":"locality",
+    "wof:population":104,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.64226,
+    45.98406,
+    14.64226,
+    45.98406
+],
+  "geometry": {"coordinates":[14.64226,45.98406],"type":"Point"}
+}

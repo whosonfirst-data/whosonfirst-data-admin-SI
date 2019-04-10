@@ -1,0 +1,126 @@
+{
+  "id": 85898211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.533147,46.102496,14.533147,46.102496",
+    "geom:latitude":46.102496,
+    "geom:longitude":14.533147,
+    "iso:country":"SI",
+    "lbl:latitude":46.102496,
+    "lbl:longitude":14.533147,
+    "mps:latitude":46.107694,
+    "mps:longitude":14.543245,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "\u010crnu\u010de"
+    ],
+    "name:pol_x_preferred":[
+        "\u010crnu\u010de"
+    ],
+    "name:slv_x_preferred":[
+        "\u010cetrtna skupnost \u010crnu\u010de"
+    ],
+    "name:slv_x_variant":[
+        "\u010crnu\u010de"
+    ],
+    "name:und_x_colloquial":[
+        "Crnuce"
+    ],
+    "name:und_x_preferred":[
+        "\u010crnu\u010de"
+    ],
+    "name:unk_x_variant":[
+        "\u010crnu\u010de",
+        "\u010crnu\u010de"
+    ],
+    "qs:gn_adm0_cc":"SI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3196359,
+    "qs:gn_nam_loc":"Ljubljana, Ljubljana, Ljubljana, SI",
+    "qs:gn_namadm1":"61",
+    "qs:gn_name":"\u010crnu\u010de",
+    "qs:local_max":13863,
+    "qs:local_sum":25230,
+    "qs:localhoods":13,
+    "qs:name":"\u010crnu\u010de",
+    "qs:name_adm0":"Slovenija",
+    "qs:name_adm1":"Ljubljana",
+    "qs:name_adm2":"Ljubljana",
+    "qs:name_local":"Ljubljana",
+    "qs:photo_max":84,
+    "qs:photo_sum":146,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":19,
+    "qs:woe_adm0":23424945,
+    "qs:woe_adm1":55848364,
+    "qs:woe_adm2":12591568,
+    "qs:woe_lau":0,
+    "qs:woe_local":530634,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":172,
+    "wof:belongsto":[
+        102191581,
+        1108959501,
+        85633779,
+        101752073,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202328,
+        "gp:id":529781,
+        "qs:id":222223,
+        "wd:id":"Q9009660",
+        "wk:page":"\u010crnu\u010de District"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"19c975ee3438fd8a88bc5e9952418bba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959501,
+            "locality_id":101752073,
+            "neighbourhood_id":85898211,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":85898211,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1536868707,
+    "wof:name":"Crnuce",
+    "wof:parent_id":101752073,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.533147,
+    46.102496,
+    14.533147,
+    46.102496
+],
+  "geometry": {"coordinates":[14.533147,46.102496],"type":"Point"}
+}

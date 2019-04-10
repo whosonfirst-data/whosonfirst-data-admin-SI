@@ -1,0 +1,71 @@
+{
+  "id": 1259820145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.93386,46.17819,14.93386,46.17819",
+    "geom:latitude":46.17819,
+    "geom:longitude":14.93386,
+    "gn:admin1_code":"E7",
+    "gn:asciiname":"Dobrljevo",
+    "gn:country_code":"SI",
+    "gn:dem":590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987862,
+    "gn:latitude":46.17819,
+    "gn:longitude":14.93386,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Dobrljevo",
+    "gn:population":96,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959683,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987862,
+        "wk:page":"Dobrljevo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"139a384efe4e8f7b8f51882bc1282af8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959683,
+            "locality_id":1259820145,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1259820145,
+    "wof:lastmodified":1537573494,
+    "wof:name":"Dobrljevo",
+    "wof:parent_id":1108959683,
+    "wof:placetype":"locality",
+    "wof:population":96,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.93386,
+    46.17819,
+    14.93386,
+    46.17819
+],
+  "geometry": {"coordinates":[14.93386,46.17819],"type":"Point"}
+}

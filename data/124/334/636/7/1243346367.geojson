@@ -1,0 +1,79 @@
+{
+  "id": 1243346367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.28861,46.54,16.28861,46.54",
+    "geom:latitude":46.54,
+    "geom:longitude":16.28861,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Dolnja Bistrica",
+    "gn:country_code":"SI",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3219941,
+    "gn:latitude":46.54,
+    "gn:longitude":16.28861,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Dolnja Bistrica",
+    "gn:population":612,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Als\u00f3-Bisztricze",
+        "Donja Bistrica",
+        "Als\u00f3beszterce",
+        "Als\u00f3besztercze",
+        "Dolenja Bistrica",
+        "Dolnja Bistrica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959823,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3219941,
+        "wk:page":"Dolnja_Bistrica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"78cef10c0feb1369de64c32fc19cb93e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959823,
+            "locality_id":1243346367,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1243346367,
+    "wof:lastmodified":1537700274,
+    "wof:name":"Dolnja Bistrica",
+    "wof:parent_id":1108959823,
+    "wof:placetype":"locality",
+    "wof:population":612,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.28861,
+    46.54,
+    16.28861,
+    46.54
+],
+  "geometry": {"coordinates":[16.28861,46.54],"type":"Point"}
+}

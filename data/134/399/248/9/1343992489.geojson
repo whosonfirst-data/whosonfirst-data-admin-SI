@@ -1,0 +1,74 @@
+{
+  "id": 1343992489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.29414,45.82001,15.29414,45.82001",
+    "geom:latitude":45.82001,
+    "geom:longitude":15.29414,
+    "gn:admin1_code":"B4",
+    "gn:asciiname":"Zapuze",
+    "gn:country_code":"SI",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988093,
+    "gn:latitude":45.82001,
+    "gn:longitude":15.29414,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Zapu\u017ee",
+    "gn:population":74,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zapu\u017ee"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959937,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988093,
+        "wk:page":"Zapu%C5%BEe%2C_%C5%A0entjernej"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3b1ddc4863bbaedefc58aae96a8354fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959937,
+            "locality_id":1343992489,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1343992489,
+    "wof:lastmodified":1537700299,
+    "wof:name":"Zapuze",
+    "wof:parent_id":1108959937,
+    "wof:placetype":"locality",
+    "wof:population":74,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.29414,
+    45.82001,
+    15.29414,
+    45.82001
+],
+  "geometry": {"coordinates":[15.29414,45.82001],"type":"Point"}
+}

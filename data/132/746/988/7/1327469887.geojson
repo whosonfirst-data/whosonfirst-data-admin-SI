@@ -1,0 +1,74 @@
+{
+  "id": 1327469887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.48583,46.15556,14.48583,46.15556",
+    "geom:latitude":46.15556,
+    "geom:longitude":14.48583,
+    "gn:admin1_code":"E3",
+    "gn:asciiname":"Skarucna",
+    "gn:country_code":"SI",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190740,
+    "gn:latitude":46.15556,
+    "gn:longitude":14.48583,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Skaru\u010dna",
+    "gn:population":306,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Skaru\u010dna"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959923,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190740,
+        "wk:page":"Skaru%C4%8Dna"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a116b8ae8ea636f0f4168aa5b2ae3a88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959923,
+            "locality_id":1327469887,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1327469887,
+    "wof:lastmodified":1537700193,
+    "wof:name":"Skarucna",
+    "wof:parent_id":1108959923,
+    "wof:placetype":"locality",
+    "wof:population":306,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.48583,
+    46.15556,
+    14.48583,
+    46.15556
+],
+  "geometry": {"coordinates":[14.48583,46.15556],"type":"Point"}
+}

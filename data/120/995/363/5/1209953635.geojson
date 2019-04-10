@@ -1,0 +1,75 @@
+{
+  "id": 1209953635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.48306,46.08389,15.48306,46.08389",
+    "geom:latitude":46.08389,
+    "geom:longitude":15.48306,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Zagorje",
+    "gn:country_code":"SI",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186908,
+    "gn:latitude":46.08389,
+    "gn:longitude":15.48306,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Zagorje",
+    "gn:population":190,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zagorje pri Pil\u0161tanju",
+        "Zagorje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959581,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186908,
+        "wk:page":"Zagorje%2C_Kozje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3c29a9d6cca23cdbe14def085f2a4fc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959581,
+            "locality_id":1209953635,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1209953635,
+    "wof:lastmodified":1537700171,
+    "wof:name":"Zagorje",
+    "wof:parent_id":1108959581,
+    "wof:placetype":"locality",
+    "wof:population":190,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.48306,
+    46.08389,
+    15.48306,
+    46.08389
+],
+  "geometry": {"coordinates":[15.48306,46.08389],"type":"Point"}
+}

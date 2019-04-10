@@ -1,0 +1,71 @@
+{
+  "id": 1293129655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.49602,46.38963,15.49602,46.38963",
+    "geom:latitude":46.38963,
+    "geom:longitude":15.49602,
+    "gn:admin1_code":"L8",
+    "gn:asciiname":"Gladomes",
+    "gn:country_code":"SI",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986976,
+    "gn:latitude":46.38963,
+    "gn:longitude":15.49602,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Gladomes",
+    "gn:population":397,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959641,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986976,
+        "wk:page":"Gladomes"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"51513649f38a0bf6097426b195ceeb36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959641,
+            "locality_id":1293129655,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1293129655,
+    "wof:lastmodified":1537573465,
+    "wof:name":"Gladomes",
+    "wof:parent_id":1108959641,
+    "wof:placetype":"locality",
+    "wof:population":397,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.49602,
+    46.38963,
+    15.49602,
+    46.38963
+],
+  "geometry": {"coordinates":[15.49602,46.38963],"type":"Point"}
+}

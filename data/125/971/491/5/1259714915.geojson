@@ -1,0 +1,71 @@
+{
+  "id": 1259714915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25,45.81667,15.25,45.81667",
+    "geom:latitude":45.81667,
+    "geom:longitude":15.25,
+    "gn:admin1_code":"J7",
+    "gn:asciiname":"Male Brusnice",
+    "gn:country_code":"SI",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195767,
+    "gn:latitude":45.81667,
+    "gn:longitude":15.25,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Male Brusnice",
+    "gn:population":48,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959465,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195767,
+        "wk:page":"Male_Brusnice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"21fe16a3df4810b19a4b6e3dae6921f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959465,
+            "locality_id":1259714915,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1259714915,
+    "wof:lastmodified":1537573422,
+    "wof:name":"Male Brusnice",
+    "wof:parent_id":1108959465,
+    "wof:placetype":"locality",
+    "wof:population":48,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25,
+    45.81667,
+    15.25,
+    45.81667
+],
+  "geometry": {"coordinates":[15.25,45.81667],"type":"Point"}
+}

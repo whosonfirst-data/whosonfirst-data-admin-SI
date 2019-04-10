@@ -1,0 +1,76 @@
+{
+  "id": 1225883155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.15194,45.60938,14.15194,45.60938",
+    "geom:latitude":45.60938,
+    "geom:longitude":14.15194,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Janezevo Brdo",
+    "gn:country_code":"SI",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198899,
+    "gn:latitude":45.60938,
+    "gn:longitude":14.15194,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Jane\u017eevo Brdo",
+    "gn:population":26,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ianezevo Brdo",
+        "San Giovanni Berdo",
+        "Jane\u017eevo Brdo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959873,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198899,
+        "wk:page":"Jane%C5%BEevo_Brdo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"bdcaf4ff475fa77fa6017f40f64ad944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959873,
+            "locality_id":1225883155,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1225883155,
+    "wof:lastmodified":1537700237,
+    "wof:name":"Janezevo Brdo",
+    "wof:parent_id":1108959873,
+    "wof:placetype":"locality",
+    "wof:population":26,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.15194,
+    45.60938,
+    14.15194,
+    45.60938
+],
+  "geometry": {"coordinates":[14.15194,45.60938],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259614291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.75066,46.66488,15.75066,46.66488",
+    "geom:latitude":46.66488,
+    "geom:longitude":15.75066,
+    "gn:admin1_code":"B3",
+    "gn:asciiname":"Zgornje Gradisce",
+    "gn:country_code":"SI",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987501,
+    "gn:latitude":46.66488,
+    "gn:longitude":15.75066,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Zgornje Gradi\u0161\u010de",
+    "gn:population":141,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zgornje Gradi\u0161\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959565,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987501,
+        "wk:page":"Zgornje_Gradi%C5%A1%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6412d851042962c145f52f6b7151e5ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959565,
+            "locality_id":1259614291,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1259614291,
+    "wof:lastmodified":1537700287,
+    "wof:name":"Zgornje Gradisce",
+    "wof:parent_id":1108959565,
+    "wof:placetype":"locality",
+    "wof:population":141,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.75066,
+    46.66488,
+    15.75066,
+    46.66488
+],
+  "geometry": {"coordinates":[15.75066,46.66488],"type":"Point"}
+}

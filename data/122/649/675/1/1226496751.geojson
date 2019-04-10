@@ -1,0 +1,71 @@
+{
+  "id": 1226496751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.15748,46.10085,14.15748,46.10085",
+    "geom:latitude":46.10085,
+    "geom:longitude":14.15748,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Dolenja Dobrava",
+    "gn:country_code":"SI",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989763,
+    "gn:latitude":46.10085,
+    "gn:longitude":14.15748,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Dolenja Dobrava",
+    "gn:population":198,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959897,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989763,
+        "wk:page":"Dolenja_Dobrava%2C_Gorenja_Vas%E2%80%93Poljane"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"cd2f4f18caa49f1a8512b5538c240005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959897,
+            "locality_id":1226496751,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1226496751,
+    "wof:lastmodified":1537573551,
+    "wof:name":"Dolenja Dobrava",
+    "wof:parent_id":1108959897,
+    "wof:placetype":"locality",
+    "wof:population":198,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.15748,
+    46.10085,
+    14.15748,
+    46.10085
+],
+  "geometry": {"coordinates":[14.15748,46.10085],"type":"Point"}
+}

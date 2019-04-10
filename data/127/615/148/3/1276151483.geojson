@@ -1,0 +1,71 @@
+{
+  "id": 1276151483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.98333,46.51667,15.98333,46.51667",
+    "geom:latitude":46.51667,
+    "geom:longitude":15.98333,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Zagorci",
+    "gn:country_code":"SI",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186921,
+    "gn:latitude":46.51667,
+    "gn:longitude":15.98333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Zagorci",
+    "gn:population":322,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959781,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186921,
+        "wk:page":"Zagorci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f0b01f1dc5f0e14795b7bfa32474b08d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959781,
+            "locality_id":1276151483,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1276151483,
+    "wof:lastmodified":1537573384,
+    "wof:name":"Zagorci",
+    "wof:parent_id":1108959781,
+    "wof:placetype":"locality",
+    "wof:population":322,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.98333,
+    46.51667,
+    15.98333,
+    46.51667
+],
+  "geometry": {"coordinates":[15.98333,46.51667],"type":"Point"}
+}

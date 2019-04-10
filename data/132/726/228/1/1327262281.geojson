@@ -1,0 +1,71 @@
+{
+  "id": 1327262281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.22382,45.89878,15.22382,45.89878",
+    "geom:latitude":45.89878,
+    "geom:longitude":15.22382,
+    "gn:admin1_code":"P3",
+    "gn:asciiname":"Sela pri Zburah",
+    "gn:country_code":"SI",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989627,
+    "gn:latitude":45.89878,
+    "gn:longitude":15.22382,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Sela pri Zburah",
+    "gn:population":24,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959833,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989627,
+        "wk:page":"Sela_pri_Zburah"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4b5210cd5b5c83b8faecfb4c732c2db3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959833,
+            "locality_id":1327262281,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1327262281,
+    "wof:lastmodified":1537573547,
+    "wof:name":"Sela pri Zburah",
+    "wof:parent_id":1108959833,
+    "wof:placetype":"locality",
+    "wof:population":24,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.22382,
+    45.89878,
+    15.22382,
+    45.89878
+],
+  "geometry": {"coordinates":[15.22382,45.89878],"type":"Point"}
+}

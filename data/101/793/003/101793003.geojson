@@ -1,0 +1,123 @@
+{
+  "id": 101793003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000088,
+    "geom:area_square_m":758205.033339,
+    "geom:bbox":"13.5989452947,45.8857443566,13.6162548124,45.8991084314",
+    "geom:latitude":45.891713,
+    "geom:longitude":13.608013,
+    "gn:population":1460,
+    "iso:country":"SI",
+    "lbl:latitude":45.892425,
+    "lbl:longitude":13.608603,
+    "mps:latitude":45.892425,
+    "mps:longitude":13.608603,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Miren"
+    ],
+    "name:dut_x_preferred":[
+        "Miren"
+    ],
+    "name:eng_x_preferred":[
+        "Miren"
+    ],
+    "name:hbs_x_preferred":[
+        "Miren"
+    ],
+    "name:ita_x_preferred":[
+        "Merna"
+    ],
+    "name:nld_x_preferred":[
+        "Miren"
+    ],
+    "name:ron_x_preferred":[
+        "Miren"
+    ],
+    "name:rum_x_preferred":[
+        "Miren"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0440\u0435\u043d"
+    ],
+    "name:slv_x_preferred":[
+        "Miren"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u0440\u0435\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0440\u0435\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Merna"
+    ],
+    "qs:a0":"Italia",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Italia",
+    "qs:la":"Savogna d'Isonzo",
+    "qs:la_lc":"*IT206031022",
+    "qs:level":"locality",
+    "qs:loc":"Miren",
+    "qs:loc_alt":"Miren",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":263,
+    "wof:belongsto":[
+        102191581,
+        1108959481,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195054,
+        "gp:id":530829,
+        "qs:id":147172,
+        "qs_pg:id":226842,
+        "wd:id":"Q2036306",
+        "wk:page":"Miren"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"684eb5613cb38ffb52cd3ece1b7eec00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959481,
+            "locality_id":101793003,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":101793003,
+    "wof:lastmodified":1531170230,
+    "wof:name":"Miren",
+    "wof:parent_id":1108959481,
+    "wof:placetype":"locality",
+    "wof:population":1460,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.59894529474866,
+    45.8857443565567,
+    13.61625481235973,
+    45.89910843137682
+],
+  "geometry": {"coordinates":[[[13.61012571704293,45.89902112011708],[13.60994627510291,45.89632215757706],[13.6112319517386,45.89627848114588],[13.61099264698998,45.89267986002619],[13.61484941113127,45.89254874753772],[13.61496918562898,45.8943480541829],[13.61625481235973,45.89430431726851],[13.61607509084473,45.8916053589827],[13.61478952774701,45.89164909338473],[13.61466976870588,45.88984978341779],[13.61338424615616,45.88989350060763],[13.61332439170639,45.8889938439566],[13.61203888849514,45.88903754477235],[13.61191922973245,45.88723822813552],[13.60806283613101,45.88736923234262],[13.60824213727238,45.89006821399204],[13.60438553601097,45.89019908588546],[13.60426612659239,45.88839976032824],[13.60298063152504,45.88844335154795],[13.60280160027497,45.8857443565567],[13.59894529474866,45.88587502948735],[13.59900490564979,45.88677469753975],[13.60029036389255,45.88673115459892],[13.60052891796948,45.89032981793957],[13.60181445917971,45.89028625612588],[13.60187412532264,45.89118591974346],[13.60315968587952,45.89114234155755],[13.60321937579937,45.89204200378742],[13.60450495570285,45.8919984092289],[13.60462438566958,45.89379773035921],[13.60591000613124,45.8937541185922],[13.60608923399116,45.896453093633],[13.60737491622842,45.8964094638207],[13.60755423087085,45.89910843137682],[13.61012571704293,45.89902112011708]]],"type":"Polygon"}
+}

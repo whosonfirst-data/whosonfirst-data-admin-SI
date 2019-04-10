@@ -1,0 +1,76 @@
+{
+  "id": 1343595115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.84361,45.82333,13.84361,45.82333",
+    "geom:latitude":45.82333,
+    "geom:longitude":13.84361,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Stanjel",
+    "gn:country_code":"SI",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190039,
+    "gn:latitude":45.82333,
+    "gn:longitude":13.84361,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160tanjel",
+    "gn:population":349,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Daniel",
+        "San Daniele del Carso",
+        "\u0160tanjel"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959539,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190039,
+        "wk:page":"%C5%A0tanjel"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3dc1fe63dbdf9f4c38c3c4589f677cbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959539,
+            "locality_id":1343595115,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1343595115,
+    "wof:lastmodified":1537700187,
+    "wof:name":"Stanjel",
+    "wof:parent_id":1108959539,
+    "wof:placetype":"locality",
+    "wof:population":349,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.84361,
+    45.82333,
+    13.84361,
+    45.82333
+],
+  "geometry": {"coordinates":[13.84361,45.82333],"type":"Point"}
+}

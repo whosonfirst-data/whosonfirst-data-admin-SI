@@ -1,0 +1,71 @@
+{
+  "id": 1277111345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.21967,45.89015,15.21967,45.89015",
+    "geom:latitude":45.89015,
+    "geom:longitude":15.21967,
+    "gn:admin1_code":"P3",
+    "gn:asciiname":"Koglo",
+    "gn:country_code":"SI",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988636,
+    "gn:latitude":45.89015,
+    "gn:longitude":15.21967,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Koglo",
+    "gn:population":40,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959833,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988636,
+        "wk:page":"Koglo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9114ca9b25b471a6ec5b8ca8ec91cb08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959833,
+            "locality_id":1277111345,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1277111345,
+    "wof:lastmodified":1537573518,
+    "wof:name":"Koglo",
+    "wof:parent_id":1108959833,
+    "wof:placetype":"locality",
+    "wof:population":40,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.21967,
+    45.89015,
+    15.21967,
+    45.89015
+],
+  "geometry": {"coordinates":[15.21967,45.89015],"type":"Point"}
+}

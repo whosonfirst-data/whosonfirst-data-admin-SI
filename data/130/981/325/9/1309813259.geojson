@@ -1,0 +1,71 @@
+{
+  "id": 1309813259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.92951,45.8719,13.92951,45.8719",
+    "geom:latitude":45.8719,
+    "geom:longitude":13.92951,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dolga Poljana",
+    "gn:country_code":"SI",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987013,
+    "gn:latitude":45.8719,
+    "gn:longitude":13.92951,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Dolga Poljana",
+    "gn:population":343,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959545,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987013,
+        "wk:page":"Dolga_Poljana"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b892a0afd4c81f9ac86eea9eb5a296c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959545,
+            "locality_id":1309813259,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1309813259,
+    "wof:lastmodified":1537573466,
+    "wof:name":"Dolga Poljana",
+    "wof:parent_id":1108959545,
+    "wof:placetype":"locality",
+    "wof:population":343,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.92951,
+    45.8719,
+    13.92951,
+    45.8719
+],
+  "geometry": {"coordinates":[13.92951,45.8719],"type":"Point"}
+}

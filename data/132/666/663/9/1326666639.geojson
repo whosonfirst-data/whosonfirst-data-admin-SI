@@ -1,0 +1,71 @@
+{
+  "id": 1326666639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.32293,46.1954,14.32293,46.1954",
+    "geom:latitude":46.1954,
+    "geom:longitude":14.32293,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Dorfarje",
+    "gn:country_code":"SI",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201357,
+    "gn:latitude":46.1954,
+    "gn:longitude":14.32293,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Dorfarje",
+    "gn:population":209,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959821,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201357,
+        "wk:page":"Dorfarje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"07f9ddecbf0061a27af4196d4916ec65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959821,
+            "locality_id":1326666639,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1326666639,
+    "wof:lastmodified":1537573443,
+    "wof:name":"Dorfarje",
+    "wof:parent_id":1108959821,
+    "wof:placetype":"locality",
+    "wof:population":209,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.32293,
+    46.1954,
+    14.32293,
+    46.1954
+],
+  "geometry": {"coordinates":[14.32293,46.1954],"type":"Point"}
+}

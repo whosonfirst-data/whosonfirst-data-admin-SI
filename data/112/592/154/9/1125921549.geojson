@@ -1,0 +1,104 @@
+{
+  "id": 1125921549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.285108,46.114512,14.285108,46.114512",
+    "geom:latitude":46.114512,
+    "geom:longitude":14.285108,
+    "gn:gn_country":null,
+    "iso:country":"SI",
+    "lbl:latitude":46.114512,
+    "lbl:longitude":14.285108,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Selo nad Polhovim Gradcem"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0435\u043b\u043e \u043d\u0430\u0434 \u041f\u043e\u043b\u0445\u043e\u0432\u0438\u043c \u0413\u0440\u0430\u0434\u0446\u0435\u043c"
+    ],
+    "name:dut_x_preferred":[
+        "Selo nad Polhovim Gradcem"
+    ],
+    "name:eng_x_preferred":[
+        "Selo nad Polhovim Gradcem"
+    ],
+    "name:rum_x_preferred":[
+        "Selo nad Polhovim Gradcem"
+    ],
+    "name:slv_x_preferred":[
+        "Selo nad Polhovim Gradcem"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043b\u043e-\u043d\u0430\u0434-\u041f\u043e\u043b\u0445\u043e\u0432\u0438\u043c \u0413\u0440\u0430\u0434\u0446\u0435\u043c"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Selo Nad Polhovim Gradcem",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Ljubljana",
+    "qs_pg:photos":126,
+    "qs_pg:photos_1k":26,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":126,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1135592,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":55848976,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Ljubljana",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959821,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55848976,
+        "qs_pg:id":1135592,
+        "wd:id":"Q1872266"
+    },
+    "wof:country":"SI",
+    "wof:created":1497296499,
+    "wof:geomhash":"1c7ef09a62425da2a89b57cf6e04a185",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959821,
+            "locality_id":1125921549,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1125921549,
+    "wof:lastmodified":1531171369,
+    "wof:name":"Selo Nad Polhovim Gradcem",
+    "wof:parent_id":1108959821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.285108,
+    46.114512,
+    14.285108,
+    46.114512
+],
+  "geometry": {"coordinates":[14.285108,46.114512],"type":"Point"}
+}

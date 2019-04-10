@@ -1,0 +1,83 @@
+{
+  "id": 1327025483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.57332,45.92067,15.57332,45.92067",
+    "geom:latitude":45.92067,
+    "geom:longitude":15.57332,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Gornji Lenart",
+    "gn:country_code":"SI",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987167,
+    "gn:latitude":45.92067,
+    "gn:longitude":15.57332,
+    "gn:modification_date":"2015-09-25",
+    "gn:name":"Gornji Lenart",
+    "gn:population":235,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_historical":[
+        "Tiergarten"
+    ],
+    "name:deu_x_preferred":[
+        "Tiergarten"
+    ],
+    "name:slv_x_historical":[
+        "Zverinjak"
+    ],
+    "name:slv_x_preferred":[
+        "Zverinjak"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987167,
+        "wk:page":"Gornji_Lenart"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5d5460973a0da1ce34641b4095b32f02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1327025483,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1327025483,
+    "wof:lastmodified":1537700280,
+    "wof:name":"Gornji Lenart",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:population":235,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.57332,
+    45.92067,
+    15.57332,
+    45.92067
+],
+  "geometry": {"coordinates":[15.57332,45.92067],"type":"Point"}
+}

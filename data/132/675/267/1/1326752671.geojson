@@ -1,0 +1,74 @@
+{
+  "id": 1326752671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.51987,45.86848,15.51987,45.86848",
+    "geom:latitude":45.86848,
+    "geom:longitude":15.51987,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Buseca Vas",
+    "gn:country_code":"SI",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989495,
+    "gn:latitude":45.86848,
+    "gn:longitude":15.51987,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Bu\u0161e\u010da Vas",
+    "gn:population":142,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bu\u0161e\u010da Vas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989495,
+        "wk:page":"Bu%C5%A1e%C4%8Da_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"37a5038ea872292ff9b164626bf458d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1326752671,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1326752671,
+    "wof:lastmodified":1537700327,
+    "wof:name":"Buseca Vas",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:population":142,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.51987,
+    45.86848,
+    15.51987,
+    45.86848
+],
+  "geometry": {"coordinates":[15.51987,45.86848],"type":"Point"}
+}

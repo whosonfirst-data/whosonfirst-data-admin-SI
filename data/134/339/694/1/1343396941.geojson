@@ -1,0 +1,75 @@
+{
+  "id": 1343396941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.31872,45.87452,15.31872,45.87452",
+    "geom:latitude":45.87452,
+    "geom:longitude":15.31872,
+    "gn:admin1_code":"B8",
+    "gn:asciiname":"Dobrava pri Skocjanu",
+    "gn:country_code":"SI",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201962,
+    "gn:latitude":45.87452,
+    "gn:longitude":15.31872,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Dobrava pri \u0160kocjanu",
+    "gn:population":197,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dobrava",
+        "Dobrava pri \u0160kocjanu"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959605,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201962,
+        "wk:page":"Dobrava_pri_%C5%A0kocjanu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a885b9570243dd7c19094832aacaf1da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959605,
+            "locality_id":1343396941,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1343396941,
+    "wof:lastmodified":1537700255,
+    "wof:name":"Dobrava pri Skocjanu",
+    "wof:parent_id":1108959605,
+    "wof:placetype":"locality",
+    "wof:population":197,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.31872,
+    45.87452,
+    15.31872,
+    45.87452
+],
+  "geometry": {"coordinates":[15.31872,45.87452],"type":"Point"}
+}

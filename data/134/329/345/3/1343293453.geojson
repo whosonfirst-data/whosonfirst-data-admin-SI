@@ -1,0 +1,71 @@
+{
+  "id": 1343293453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.21507,46.13438,14.21507,46.13438",
+    "geom:latitude":46.13438,
+    "geom:longitude":14.21507,
+    "gn:admin1_code":"B9",
+    "gn:asciiname":"Na Logu",
+    "gn:country_code":"SI",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987539,
+    "gn:latitude":46.13438,
+    "gn:longitude":14.21507,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Na Logu",
+    "gn:population":136,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959821,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987539,
+        "wk:page":"Na_Logu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"eb8d65944a8b755634caf4c73eabcfbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959821,
+            "locality_id":1343293453,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1343293453,
+    "wof:lastmodified":1537573483,
+    "wof:name":"Na Logu",
+    "wof:parent_id":1108959821,
+    "wof:placetype":"locality",
+    "wof:population":136,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.21507,
+    46.13438,
+    14.21507,
+    46.13438
+],
+  "geometry": {"coordinates":[14.21507,46.13438],"type":"Point"}
+}

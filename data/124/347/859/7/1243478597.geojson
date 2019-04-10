@@ -1,0 +1,74 @@
+{
+  "id": 1243478597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.98113,46.27092,13.98113,46.27092",
+    "geom:latitude":46.27092,
+    "geom:longitude":13.98113,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Nemski Rovt",
+    "gn:country_code":"SI",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194537,
+    "gn:latitude":46.27092,
+    "gn:longitude":13.98113,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Nem\u0161ki Rovt",
+    "gn:population":112,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nem\u0161ki Rovt"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959819,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194537,
+        "wk:page":"Nem%C5%A1ki_Rovt"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fb71f36b986d46078191c6b57632252d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959819,
+            "locality_id":1243478597,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1243478597,
+    "wof:lastmodified":1537700215,
+    "wof:name":"Nemski Rovt",
+    "wof:parent_id":1108959819,
+    "wof:placetype":"locality",
+    "wof:population":112,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.98113,
+    46.27092,
+    13.98113,
+    46.27092
+],
+  "geometry": {"coordinates":[13.98113,46.27092],"type":"Point"}
+}

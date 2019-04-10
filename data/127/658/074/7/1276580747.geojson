@@ -1,0 +1,74 @@
+{
+  "id": 1276580747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.991,46.03125,14.991,46.03125",
+    "geom:latitude":46.03125,
+    "geom:longitude":14.991,
+    "gn:admin1_code":"I5",
+    "gn:asciiname":"Prezenjske Njive",
+    "gn:country_code":"SI",
+    "gn:dem":620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989055,
+    "gn:latitude":46.03125,
+    "gn:longitude":14.991,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Pre\u017eenjske Njive",
+    "gn:population":20,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pre\u017eenjske Njive"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959907,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989055,
+        "wk:page":"Pre%C5%BEenjske_Njive"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"42a3b2835c94171ccb0233d4270854f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959907,
+            "locality_id":1276580747,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1276580747,
+    "wof:lastmodified":1537700319,
+    "wof:name":"Prezenjske Njive",
+    "wof:parent_id":1108959907,
+    "wof:placetype":"locality",
+    "wof:population":20,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.991,
+    46.03125,
+    14.991,
+    46.03125
+],
+  "geometry": {"coordinates":[14.991,46.03125],"type":"Point"}
+}

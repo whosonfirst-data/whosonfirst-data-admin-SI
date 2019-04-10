@@ -1,0 +1,71 @@
+{
+  "id": 1293048553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.19047,46.0696,14.19047,46.0696",
+    "geom:latitude":46.0696,
+    "geom:longitude":14.19047,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Prelesje",
+    "gn:country_code":"SI",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192534,
+    "gn:latitude":46.0696,
+    "gn:longitude":14.19047,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Prelesje",
+    "gn:population":65,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959897,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192534,
+        "wk:page":"Prelesje%2C_Gorenja_Vas%E2%80%93Poljane"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fda8b2794e592d5bc011309e10a95928",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959897,
+            "locality_id":1293048553,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1293048553,
+    "wof:lastmodified":1537573409,
+    "wof:name":"Prelesje",
+    "wof:parent_id":1108959897,
+    "wof:placetype":"locality",
+    "wof:population":65,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.19047,
+    46.0696,
+    14.19047,
+    46.0696
+],
+  "geometry": {"coordinates":[14.19047,46.0696],"type":"Point"}
+}

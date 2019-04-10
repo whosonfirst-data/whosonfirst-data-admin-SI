@@ -1,0 +1,67 @@
+{
+  "id": 1327082741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.6909,46.00984,13.6909,46.00984",
+    "geom:latitude":46.00984,
+    "geom:longitude":13.6909,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Fobca",
+    "gn:country_code":"SI",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10858878,
+    "gn:latitude":46.00984,
+    "gn:longitude":13.6909,
+    "gn:modification_date":"2015-10-15",
+    "gn:name":"Fobca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959487,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10858878
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"64cd264a52864893aa222a2d48386113",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959487,
+            "locality_id":1327082741,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1327082741,
+    "wof:lastmodified":1536688090,
+    "wof:name":"Fobca",
+    "wof:parent_id":1108959487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.6909,
+    46.00984,
+    13.6909,
+    46.00984
+],
+  "geometry": {"coordinates":[13.6909,46.00984],"type":"Point"}
+}

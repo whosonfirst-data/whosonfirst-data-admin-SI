@@ -1,0 +1,156 @@
+{
+  "id": 101845295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000201,
+    "geom:area_square_m":1715779.369957,
+    "geom:bbox":"15.0550777957,46.2699488053,15.0784488807,46.2900172758",
+    "geom:latitude":46.279799,
+    "geom:longitude":15.066999,
+    "gn:population":2380,
+    "iso:country":"SI",
+    "lbl:latitude":46.278441,
+    "lbl:longitude":15.06877,
+    "mps:latitude":46.278441,
+    "mps:longitude":15.06877,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Polzela"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u043b\u0437\u0435\u043b\u0430"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u010dina Polzela"
+    ],
+    "name:deu_x_preferred":[
+        "Polzela"
+    ],
+    "name:dut_x_preferred":[
+        "Polzela"
+    ],
+    "name:eng_x_preferred":[
+        "Polzela"
+    ],
+    "name:fra_x_preferred":[
+        "Polzela"
+    ],
+    "name:hbs_x_preferred":[
+        "Polzela"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Polzela"
+    ],
+    "name:ita_x_preferred":[
+        "Polzela"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30eb\u30bc\u30e9"
+    ],
+    "name:kor_x_preferred":[
+        "\ud3f4\uc824\ub77c"
+    ],
+    "name:nld_x_preferred":[
+        "Polzela"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Polzela"
+    ],
+    "name:por_x_preferred":[
+        "Polzela"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Polzela"
+    ],
+    "name:ron_x_variant":[
+        "Polzela"
+    ],
+    "name:rum_x_preferred":[
+        "Polzela"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u0437\u0435\u043b\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Polzela"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041f\u043e\u043b\u0437\u0435\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Polzela"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043b\u0437\u0435\u043b\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Polzela"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"Polzela",
+    "qs:la_lc":"*SI173000",
+    "qs:level":"locality",
+    "qs:loc":"Polzela",
+    "qs:loc_alt":"Polzela",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":257,
+    "wof:belongsto":[
+        102191581,
+        1108959635,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192762,
+        "gp:id":55850005,
+        "qs:id":147144,
+        "qs_pg:id":147144,
+        "wd:id":"Q2327227",
+        "wk:page":"Polzela"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ae46720020ba24057d4eac74c08b3605",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959635,
+            "locality_id":101845295,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":101845295,
+    "wof:lastmodified":1531170669,
+    "wof:name":"Polzela",
+    "wof:parent_id":1108959635,
+    "wof:placetype":"locality",
+    "wof:population":2380,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.05507779567671,
+    46.2699488052574,
+    15.07844888070576,
+    46.29001727584227
+],
+  "geometry": {"coordinates":[[[15.06506702089916,46.28989465440503],[15.0647275321154,46.28630160646532],[15.06860898896201,46.28611757124497],[15.06835421742107,46.2834227899088],[15.07352919771444,46.28317720491589],[15.07361420389429,46.28407546118899],[15.07490796377721,46.28401402465738],[15.0745678751353,46.28042100085202],[15.07844888070576,46.28023661169152],[15.07827872948394,46.27844010345336],[15.0769851066342,46.27850157976627],[15.07672997190753,46.2758068095074],[15.07543641086505,46.27586826661883],[15.07535139481274,46.27497000752152],[15.07276430768241,46.27509287246176],[15.07267933829604,46.27419461041069],[15.07138581220943,46.27425601824064],[15.07130086799316,46.27335775442441],[15.06871385078011,46.27348052080475],[15.06845916913505,46.27078571876655],[15.0671657209902,46.27084707494572],[15.06708085594704,46.2699488052574],[15.06578742661878,46.27001014461638],[15.06595711739988,46.271806685787],[15.06337016476942,46.27192932234533],[15.06387906734517,46.27731894621502],[15.05870461418323,46.27756406015106],[15.05895885706559,46.28025887850833],[15.05507779567671,46.28044256043222],[15.05516248614026,46.28134083561571],[15.05774990606977,46.28121839426922],[15.05791938400631,46.28301493816917],[15.05921313297188,46.28295369167046],[15.05955221889423,46.28654676780877],[15.0621398808492,46.28642421841573],[15.06247919757112,46.29001727584227],[15.06506702089916,46.28989465440503]]],"type":"Polygon"}
+}

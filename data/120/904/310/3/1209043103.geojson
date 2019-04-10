@@ -1,0 +1,66 @@
+{
+  "id": 1209043103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.07111,45.77056,14.07111,45.77056",
+    "geom:latitude":45.77056,
+    "geom:longitude":14.07111,
+    "gn:admin1_code":"94",
+    "gn:asciiname":"Veliko Ubeljsko",
+    "gn:country_code":"SI",
+    "gn:dem":632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3219002,
+    "gn:latitude":45.77056,
+    "gn:longitude":14.07111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Veliko Ubeljsko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Veliko",
+        "Veliko Ubeljsko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3219002,
+        "wk:page":"Veliko_Ubeljsko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"896d4a4e410a298808342db3672478d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209043103
+        }
+    ],
+    "wof:id":1209043103,
+    "wof:lastmodified":1537700273,
+    "wof:name":"Veliko Ubeljsko",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.07111,
+    45.77056,
+    14.07111,
+    45.77056
+],
+  "geometry": {"coordinates":[14.07111,45.77056],"type":"Point"}
+}

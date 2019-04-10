@@ -1,0 +1,71 @@
+{
+  "id": 1226577063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.24237,45.66831,15.24237,45.66831",
+    "geom:latitude":45.66831,
+    "geom:longitude":15.24237,
+    "gn:admin1_code":"B1",
+    "gn:asciiname":"Gradnik",
+    "gn:country_code":"SI",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988176,
+    "gn:latitude":45.66831,
+    "gn:longitude":15.24237,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Gradnik",
+    "gn:population":67,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959601,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988176,
+        "wk:page":"Gradnik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ef82d16796858b8d050d26dc182c910f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959601,
+            "locality_id":1226577063,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1226577063,
+    "wof:lastmodified":1537573504,
+    "wof:name":"Gradnik",
+    "wof:parent_id":1108959601,
+    "wof:placetype":"locality",
+    "wof:population":67,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.24237,
+    45.66831,
+    15.24237,
+    45.66831
+],
+  "geometry": {"coordinates":[15.24237,45.66831],"type":"Point"}
+}

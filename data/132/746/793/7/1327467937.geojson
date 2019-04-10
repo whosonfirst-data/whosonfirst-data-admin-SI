@@ -1,0 +1,71 @@
+{
+  "id": 1327467937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.96806,46.52583,15.96806,46.52583",
+    "geom:latitude":46.52583,
+    "geom:longitude":15.96806,
+    "gn:admin1_code":"M4",
+    "gn:asciiname":"Rjavci",
+    "gn:country_code":"SI",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217924,
+    "gn:latitude":46.52583,
+    "gn:longitude":15.96806,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Rjavci",
+    "gn:population":94,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959627,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217924,
+        "wk:page":"Rjavci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"bb039bb56e0b1e9d078c425208a0b521",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959627,
+            "locality_id":1327467937,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1327467937,
+    "wof:lastmodified":1537573458,
+    "wof:name":"Rjavci",
+    "wof:parent_id":1108959627,
+    "wof:placetype":"locality",
+    "wof:population":94,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.96806,
+    46.52583,
+    15.96806,
+    46.52583
+],
+  "geometry": {"coordinates":[15.96806,46.52583],"type":"Point"}
+}

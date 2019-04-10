@@ -1,0 +1,67 @@
+{
+  "id": 1276657447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.86278,46.2775,13.86278,46.2775",
+    "geom:latitude":46.2775,
+    "geom:longitude":13.86278,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sveti Duh",
+    "gn:country_code":"SI",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218206,
+    "gn:latitude":46.2775,
+    "gn:longitude":13.86278,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Sveti Duh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959819,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218206
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"cfe593c22d24913c5380b4b4af93229f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959819,
+            "locality_id":1276657447,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1276657447,
+    "wof:lastmodified":1536840387,
+    "wof:name":"Sveti Duh",
+    "wof:parent_id":1108959819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.86278,
+    46.2775,
+    13.86278,
+    46.2775
+],
+  "geometry": {"coordinates":[13.86278,46.2775],"type":"Point"}
+}

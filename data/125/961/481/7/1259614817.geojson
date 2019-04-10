@@ -1,0 +1,74 @@
+{
+  "id": 1259614817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.13391,46.44853,16.13391,46.44853",
+    "geom:latitude":46.44853,
+    "geom:longitude":16.13391,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Dobrovscak",
+    "gn:country_code":"SI",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989263,
+    "gn:latitude":46.44853,
+    "gn:longitude":16.13391,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Dobrov\u0161\u010dak",
+    "gn:population":11,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dobrov\u0161\u010dak"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959765,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989263,
+        "wk:page":"Dobrov%C5%A1%C4%8Dak"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"537ade4fd7107ce3364264af97a53b8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959765,
+            "locality_id":1259614817,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1259614817,
+    "wof:lastmodified":1537700323,
+    "wof:name":"Dobrovscak",
+    "wof:parent_id":1108959765,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.13391,
+    46.44853,
+    16.13391,
+    46.44853
+],
+  "geometry": {"coordinates":[16.13391,46.44853],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209749367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.5025,46.31583,15.5025,46.31583",
+    "geom:latitude":46.31583,
+    "geom:longitude":15.5025,
+    "gn:admin1_code":"C4",
+    "gn:asciiname":"Koble",
+    "gn:country_code":"SI",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197952,
+    "gn:latitude":46.31583,
+    "gn:longitude":15.5025,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Koble",
+    "gn:population":123,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959753,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197952,
+        "wk:page":"Koble%2C_Slovenske_Konjice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e1b937fd82536e06377455d7dc78f339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959753,
+            "locality_id":1209749367,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1209749367,
+    "wof:lastmodified":1537573430,
+    "wof:name":"Koble",
+    "wof:parent_id":1108959753,
+    "wof:placetype":"locality",
+    "wof:population":123,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.5025,
+    46.31583,
+    15.5025,
+    46.31583
+],
+  "geometry": {"coordinates":[15.5025,46.31583],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1360021945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.98023,46.11902,14.98023,46.11902",
+    "geom:latitude":46.11902,
+    "geom:longitude":14.98023,
+    "gn:admin1_code":"E7",
+    "gn:asciiname":"Druzina",
+    "gn:country_code":"SI",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989390,
+    "gn:latitude":46.11902,
+    "gn:longitude":14.98023,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Dru\u017eina",
+    "gn:population":3,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dru\u017eina"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959683,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989390,
+        "wk:page":"Dru%C5%BEina%2C_Zagorje_ob_Savi"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8ffed8e83c79e5503215ab9173a43685",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959683,
+            "locality_id":1360021945,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1360021945,
+    "wof:lastmodified":1537700325,
+    "wof:name":"Druzina",
+    "wof:parent_id":1108959683,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.98023,
+    46.11902,
+    14.98023,
+    46.11902
+],
+  "geometry": {"coordinates":[14.98023,46.11902],"type":"Point"}
+}

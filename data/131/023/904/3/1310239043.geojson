@@ -1,0 +1,74 @@
+{
+  "id": 1310239043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.7952,45.88597,14.7952,45.88597",
+    "geom:latitude":45.88597,
+    "geom:longitude":14.7952,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Krska Vas",
+    "gn:country_code":"SI",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987521,
+    "gn:latitude":45.88597,
+    "gn:longitude":14.7952,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kr\u0161ka Vas",
+    "gn:population":137,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kr\u0161ka Vas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959583,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987521,
+        "wk:page":"Kr%C5%A1ka_Vas%2C_Ivan%C4%8Dna_Gorica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3f56adc5eb8b3e2647bc2614d4b93727",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959583,
+            "locality_id":1310239043,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1310239043,
+    "wof:lastmodified":1537700288,
+    "wof:name":"Krska Vas",
+    "wof:parent_id":1108959583,
+    "wof:placetype":"locality",
+    "wof:population":137,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.7952,
+    45.88597,
+    14.7952,
+    45.88597
+],
+  "geometry": {"coordinates":[14.7952,45.88597],"type":"Point"}
+}

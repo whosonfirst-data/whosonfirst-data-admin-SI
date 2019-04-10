@@ -1,0 +1,77 @@
+{
+  "id": 1276160105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.20357,45.94216,15.20357,45.94216",
+    "geom:latitude":45.94216,
+    "geom:longitude":15.20357,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Pavla Vas",
+    "gn:country_code":"SI",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988368,
+    "gn:latitude":45.94216,
+    "gn:longitude":15.20357,
+    "gn:modification_date":"2015-12-03",
+    "gn:name":"Pavla Vas",
+    "gn:population":54,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Pavlja Vas"
+    ],
+    "name:slv_x_preferred":[
+        "Pavlja Vas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988368,
+        "wk:page":"Pavla_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ac4e65fa1e4772c799b0e5fd47500d95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1276160105,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1276160105,
+    "wof:lastmodified":1537700305,
+    "wof:name":"Pavla Vas",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":54,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.20357,
+    45.94216,
+    15.20357,
+    45.94216
+],
+  "geometry": {"coordinates":[15.20357,45.94216],"type":"Point"}
+}

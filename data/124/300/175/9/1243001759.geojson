@@ -1,0 +1,74 @@
+{
+  "id": 1243001759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56028,46.34861,15.56028,46.34861",
+    "geom:latitude":46.34861,
+    "geom:longitude":15.56028,
+    "gn:admin1_code":"L8",
+    "gn:asciiname":"Zabljek",
+    "gn:country_code":"SI",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3339121,
+    "gn:latitude":46.34861,
+    "gn:longitude":15.56028,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u017dabljek",
+    "gn:population":165,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017dabljek"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959641,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3339121,
+        "wk:page":"%C5%BDabljek"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c9e11b3215d59c9f9add327b3ea83edb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959641,
+            "locality_id":1243001759,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1243001759,
+    "wof:lastmodified":1537700274,
+    "wof:name":"Zabljek",
+    "wof:parent_id":1108959641,
+    "wof:placetype":"locality",
+    "wof:population":165,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56028,
+    46.34861,
+    15.56028,
+    46.34861
+],
+  "geometry": {"coordinates":[15.56028,46.34861],"type":"Point"}
+}

@@ -1,0 +1,124 @@
+{
+  "id": 101845279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00009,
+    "geom:area_square_m":768121.886396,
+    "geom:bbox":"15.5071529089,46.2254744214,15.5284715225,46.2348835269",
+    "geom:latitude":46.229887,
+    "geom:longitude":15.517285,
+    "gn:population":1779,
+    "iso:country":"SI",
+    "lbl:latitude":46.230453,
+    "lbl:longitude":15.518011,
+    "mps:latitude":46.230453,
+    "mps:longitude":15.518011,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "\u0160marje pri Jel\u0161ah"
+    ],
+    "name:dut_x_preferred":[
+        "\u0160marje pri Jel\u0161ah"
+    ],
+    "name:eng_x_preferred":[
+        "\u0160marje pri Jel\u0161ah"
+    ],
+    "name:hrv_x_preferred":[
+        "\u0160marje pri Jel\u0161ah"
+    ],
+    "name:rum_x_preferred":[
+        "\u0160marje pri Jel\u0161ah"
+    ],
+    "name:slv_x_preferred":[
+        "\u0160marje pri Jel\u0161ah"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u043c\u0430\u0440\u0458\u0435 \u043f\u0440\u0438 \u0408\u0435\u043b\u0448\u0430\u0445"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u043c\u0430\u0440\u0454-\u043f\u0440\u0438-\u0404\u043b\u0448\u0430\u0445"
+    ],
+    "name:und_x_colloquial":[
+        "Smarje Pri Jelsah"
+    ],
+    "name:und_x_preferred":[
+        "\u0160marje pri Jel\u0161ah"
+    ],
+    "name:und_x_variant":[
+        "Shmare",
+        "Smarije"
+    ],
+    "name:unk_x_variant":[
+        "Shmare"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:id":0,
+    "qs:la":"\u0160marje pri Jel\u0161ah",
+    "qs:la_lc":"*SI124000",
+    "qs:level":"locality",
+    "qs:loc":"\u0160marje pri Jel\u0161ah",
+    "qs:loc_alt":"Smarje pri Jelsah",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959607,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06f34a64-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3190510,
+        "gp:id":531586,
+        "qs:id":988371,
+        "qs_pg:id":988371,
+        "wd:id":"Q4489175"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"de39238f669f1fe0b57fad3e68034205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959607,
+            "locality_id":101845279,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":101845279,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531170670,
+    "wof:name":"\u0160marje pri Jel\u0161ah",
+    "wof:parent_id":1108959607,
+    "wof:placetype":"locality",
+    "wof:population":1779,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.50715290892185,
+    46.22547442142286,
+    15.52847152250655,
+    46.23488352690072
+],
+  "geometry": {"coordinates":[[[15.52210343217081,46.23385202771703],[15.52191868535385,46.23205634311142],[15.52708697812818,46.23178885572059],[15.52717943517149,46.23268669315928],[15.52847152250655,46.2326197809964],[15.5282865696027,46.23082410810366],[15.52699452508176,46.2308910176834],[15.52690207603206,46.22999317904726],[15.52561005001007,46.23006007172677],[15.52551762636182,46.22916223120075],[15.52422561883878,46.22922910698048],[15.52413322058993,46.22833126456499],[15.52284123156608,46.22839812344557],[15.52274885871464,46.22750027914071],[15.51499699202776,46.22790109691095],[15.51490475158869,46.22700324427126],[15.51361278505703,46.22706999131577],[15.5135205700081,46.22617213678939],[15.50964471723,46.22637228041054],[15.50955257037452,46.22547442142286],[15.50826063505599,46.22554110346033],[15.50844488994341,46.22733682341141],[15.50715290892185,46.22740349241451],[15.50733713693,46.22919921254658],[15.50862916076193,46.22913254096966],[15.50872130214606,46.23003039885157],[15.51001334448779,46.22996371037851],[15.51010551126245,46.23086156637521],[15.51268963006567,46.23072814002609],[15.51278184364077,46.23162599284916],[15.51536599366165,46.23149250148577],[15.51555051840859,46.23328820018355],[15.51942685013194,46.23308783833147],[15.51961151929669,46.23488352690072],[15.52090366688526,46.23481670581691],[15.52081130889644,46.23391886312129],[15.52210343217081,46.23385202771703]]],"type":"Polygon"}
+}

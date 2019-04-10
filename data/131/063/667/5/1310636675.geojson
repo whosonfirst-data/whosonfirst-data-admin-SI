@@ -1,0 +1,71 @@
+{
+  "id": 1310636675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.95483,46.40805,15.95483,46.40805",
+    "geom:latitude":46.40805,
+    "geom:longitude":15.95483,
+    "gn:admin1_code":"J3",
+    "gn:asciiname":"Prvenci",
+    "gn:country_code":"SI",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987172,
+    "gn:latitude":46.40805,
+    "gn:longitude":15.95483,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Prvenci",
+    "gn:population":233,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959779,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987172,
+        "wk:page":"Prvenci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"30395343d80295df2bc6c8736ff8e132",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959779,
+            "locality_id":1310636675,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1310636675,
+    "wof:lastmodified":1537573471,
+    "wof:name":"Prvenci",
+    "wof:parent_id":1108959779,
+    "wof:placetype":"locality",
+    "wof:population":233,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.95483,
+    46.40805,
+    15.95483,
+    46.40805
+],
+  "geometry": {"coordinates":[15.95483,46.40805],"type":"Point"}
+}

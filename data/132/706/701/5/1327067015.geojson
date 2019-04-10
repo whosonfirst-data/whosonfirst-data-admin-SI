@@ -1,0 +1,74 @@
+{
+  "id": 1327067015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.47972,46.315,15.47972,46.315",
+    "geom:latitude":46.315,
+    "geom:longitude":15.47972,
+    "gn:admin1_code":"C4",
+    "gn:asciiname":"Zice",
+    "gn:country_code":"SI",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186472,
+    "gn:latitude":46.315,
+    "gn:longitude":15.47972,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u017di\u010de",
+    "gn:population":568,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017di\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959753,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186472,
+        "wk:page":"%C5%BDi%C4%8De%2C_Slovenske_Konjice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2c7a87c3c3f6275db2a0098641c5274d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959753,
+            "locality_id":1327067015,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1327067015,
+    "wof:lastmodified":1537700167,
+    "wof:name":"Zice",
+    "wof:parent_id":1108959753,
+    "wof:placetype":"locality",
+    "wof:population":568,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.47972,
+    46.315,
+    15.47972,
+    46.315
+],
+  "geometry": {"coordinates":[15.47972,46.315],"type":"Point"}
+}

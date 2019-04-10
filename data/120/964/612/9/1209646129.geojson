@@ -1,0 +1,65 @@
+{
+  "id": 1209646129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.61667,46.05,14.61667,46.05",
+    "geom:latitude":46.05,
+    "geom:longitude":14.61667,
+    "gn:admin1_code":"61",
+    "gn:asciiname":"Spodnji Kaselj",
+    "gn:country_code":"SI",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190192,
+    "gn:latitude":46.05,
+    "gn:longitude":14.61667,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Spodnji Ka\u0161elj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Spodnji Ka\u0161elj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190192,
+        "wk:page":"Spodnji_Ka%C5%A1elj"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ff7da0b82261851f2aa7d97557f2a6aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209646129
+        }
+    ],
+    "wof:id":1209646129,
+    "wof:lastmodified":1537700188,
+    "wof:name":"Spodnji Kaselj",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.61667,
+    46.05,
+    14.61667,
+    46.05
+],
+  "geometry": {"coordinates":[14.61667,46.05],"type":"Point"}
+}

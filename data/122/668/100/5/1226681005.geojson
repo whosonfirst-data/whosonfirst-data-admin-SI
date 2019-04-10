@@ -1,0 +1,74 @@
+{
+  "id": 1226681005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.2634,45.77143,15.2634,45.77143",
+    "geom:latitude":45.77143,
+    "geom:longitude":15.2634,
+    "gn:admin1_code":"J7",
+    "gn:asciiname":"Pangrc Grm",
+    "gn:country_code":"SI",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988188,
+    "gn:latitude":45.77143,
+    "gn:longitude":15.2634,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Pangr\u010d Grm",
+    "gn:population":66,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pangr\u010d Grm"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959465,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988188,
+        "wk:page":"Pangr%C4%8D_Grm"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"21495e6991118d54b8bd3d1b5672e753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959465,
+            "locality_id":1226681005,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1226681005,
+    "wof:lastmodified":1537700301,
+    "wof:name":"Pangrc Grm",
+    "wof:parent_id":1108959465,
+    "wof:placetype":"locality",
+    "wof:population":66,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.2634,
+    45.77143,
+    15.2634,
+    45.77143
+],
+  "geometry": {"coordinates":[15.2634,45.77143],"type":"Point"}
+}

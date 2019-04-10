@@ -1,0 +1,74 @@
+{
+  "id": 1276693333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.19419,46.38837,14.19419,46.38837",
+    "geom:latitude":46.38837,
+    "geom:longitude":14.19419,
+    "gn:admin1_code":"A3",
+    "gn:asciiname":"Poljce",
+    "gn:country_code":"SI",
+    "gn:dem":848,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987211,
+    "gn:latitude":46.38837,
+    "gn:longitude":14.19419,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Polj\u010de",
+    "gn:population":217,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Polj\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959825,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987211,
+        "wk:page":"Polj%C4%8De%2C_Radovljica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"965af253d3e1f9f8aa58b6c177401d42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959825,
+            "locality_id":1276693333,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1276693333,
+    "wof:lastmodified":1537700281,
+    "wof:name":"Poljce",
+    "wof:parent_id":1108959825,
+    "wof:placetype":"locality",
+    "wof:population":217,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.19419,
+    46.38837,
+    14.19419,
+    46.38837
+],
+  "geometry": {"coordinates":[14.19419,46.38837],"type":"Point"}
+}

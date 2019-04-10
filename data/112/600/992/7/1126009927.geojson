@@ -1,0 +1,114 @@
+{
+  "id": 1126009927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.6,46.33333,14.6,46.33333",
+    "geom:latitude":46.33333,
+    "geom:longitude":14.6,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":23,
+    "iso:country":"SI",
+    "lbl:latitude":46.33333,
+    "lbl:longitude":14.6,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Kamni\u0161ka Bistrica"
+    ],
+    "name:dut_x_preferred":[
+        "Kamni\u0161ka Bistrica"
+    ],
+    "name:eng_x_preferred":[
+        "Kamni\u0161ka Bistrica"
+    ],
+    "name:rum_x_preferred":[
+        "Kamni\u0161ka Bistrica"
+    ],
+    "name:slv_x_preferred":[
+        "Kamni\u0161ka Bistrica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043c\u043d\u0438\u0448\u043a\u0430 \u0411\u0438\u0441\u0442\u0440\u0438\u0446\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Dom v Kamni\u0161koj-Bistrici"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3198362,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kamni\u00b5ka Bistrica",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Kamnik",
+    "qs_pg:photos":144,
+    "qs_pg:photos_1k":29,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":144,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":302479,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":530378,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Kamnik",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959941,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198362,
+        "gp:id":530378,
+        "qs_pg:id":302479,
+        "wd:id":"Q12793311"
+    },
+    "wof:country":"SI",
+    "wof:created":1497300203,
+    "wof:geomhash":"614c25aa7640206b61962e959adc5e64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959941,
+            "locality_id":1126009927,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1126009927,
+    "wof:lastmodified":1553816696,
+    "wof:name":"Kamni\u00b5ka Bistrica",
+    "wof:parent_id":1108959941,
+    "wof:placetype":"locality",
+    "wof:population":23,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.6,
+    46.33333,
+    14.6,
+    46.33333
+],
+  "geometry": {"coordinates":[14.6,46.33333],"type":"Point"}
+}

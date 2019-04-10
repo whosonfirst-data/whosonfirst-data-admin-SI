@@ -1,0 +1,73 @@
+{
+  "id": 1360120583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.71,45.54556,13.71,45.54556",
+    "geom:latitude":45.54556,
+    "geom:longitude":13.71,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Zusterna",
+    "gn:country_code":"SI",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216105,
+    "gn:latitude":45.54556,
+    "gn:longitude":13.71,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u017dusterna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Podmarkovac",
+        "Giusterna",
+        "Podmarkovec",
+        "\u017dusterna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959527,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216105
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"289980074d2697b5b78a173f26c49d91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959527,
+            "locality_id":1360120583,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1360120583,
+    "wof:lastmodified":1537700269,
+    "wof:name":"Zusterna",
+    "wof:parent_id":1108959527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.71,
+    45.54556,
+    13.71,
+    45.54556
+],
+  "geometry": {"coordinates":[13.71,45.54556],"type":"Point"}
+}

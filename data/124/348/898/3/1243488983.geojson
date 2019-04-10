@@ -1,0 +1,67 @@
+{
+  "id": 1243488983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.03333,45.9,15.03333,45.9",
+    "geom:latitude":45.9,
+    "geom:longitude":15.03333,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Kamna Gorica",
+    "gn:country_code":"SI",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198369,
+    "gn:latitude":45.9,
+    "gn:longitude":15.03333,
+    "gn:modification_date":"2008-11-25",
+    "gn:name":"Kamna Gorica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959839,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198369
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"19dab74c10a6d6a869adbfe24f5e62df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959839,
+            "locality_id":1243488983,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1243488983,
+    "wof:lastmodified":1536743886,
+    "wof:name":"Kamna Gorica",
+    "wof:parent_id":1108959839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.03333,
+    45.9,
+    15.03333,
+    45.9
+],
+  "geometry": {"coordinates":[15.03333,45.9],"type":"Point"}
+}

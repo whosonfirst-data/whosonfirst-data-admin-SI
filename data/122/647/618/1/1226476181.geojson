@@ -1,0 +1,74 @@
+{
+  "id": 1226476181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.72765,46.15946,14.72765,46.15946",
+    "geom:latitude":46.15946,
+    "geom:longitude":14.72765,
+    "gn:admin1_code":"77",
+    "gn:asciiname":"Vinje pri Moravcah",
+    "gn:country_code":"SI",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989538,
+    "gn:latitude":46.15946,
+    "gn:longitude":14.72765,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Vinje pri Morav\u010dah",
+    "gn:population":76,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vinje pri Morav\u010dah"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959515,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989538,
+        "wk:page":"Vinje_pri_Morav%C4%8Dah"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ed7aac01fba9b4ecefebbe8e2c936ea2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959515,
+            "locality_id":1226476181,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1226476181,
+    "wof:lastmodified":1537700328,
+    "wof:name":"Vinje pri Moravcah",
+    "wof:parent_id":1108959515,
+    "wof:placetype":"locality",
+    "wof:population":76,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.72765,
+    46.15946,
+    14.72765,
+    46.15946
+],
+  "geometry": {"coordinates":[14.72765,46.15946],"type":"Point"}
+}

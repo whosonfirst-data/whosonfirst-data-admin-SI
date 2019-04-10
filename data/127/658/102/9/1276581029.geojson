@@ -1,0 +1,74 @@
+{
+  "id": 1276581029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.072,46.46675,16.072,46.46675",
+    "geom:latitude":46.46675,
+    "geom:longitude":16.072,
+    "gn:admin1_code":"P8",
+    "gn:asciiname":"Mala Vas pri Ormozu",
+    "gn:country_code":"SI",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987694,
+    "gn:latitude":46.46675,
+    "gn:longitude":16.072,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Mala Vas pri Ormo\u017eu",
+    "gn:population":113,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mala Vas pri Ormo\u017eu"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959931,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987694,
+        "wk:page":"Mala_Vas_pri_Ormo%C5%BEu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"63bc0287f4528394c0ceeb6ae056d9a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959931,
+            "locality_id":1276581029,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1276581029,
+    "wof:lastmodified":1537700291,
+    "wof:name":"Mala Vas pri Ormozu",
+    "wof:parent_id":1108959931,
+    "wof:placetype":"locality",
+    "wof:population":113,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.072,
+    46.46675,
+    16.072,
+    46.46675
+],
+  "geometry": {"coordinates":[16.072,46.46675],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1309948979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.60785,45.88996,14.60785,45.88996",
+    "geom:latitude":45.88996,
+    "geom:longitude":14.60785,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Mali Locnik",
+    "gn:country_code":"SI",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195676,
+    "gn:latitude":45.88996,
+    "gn:longitude":14.60785,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Mali Lo\u010dnik",
+    "gn:population":54,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mali Lo\u010dnik"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959859,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195676,
+        "wk:page":"Mali_Lo%C4%8Dnik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1349fd937813be3c32d08c61a5661044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959859,
+            "locality_id":1309948979,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1309948979,
+    "wof:lastmodified":1537700220,
+    "wof:name":"Mali Locnik",
+    "wof:parent_id":1108959859,
+    "wof:placetype":"locality",
+    "wof:population":54,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.60785,
+    45.88996,
+    14.60785,
+    45.88996
+],
+  "geometry": {"coordinates":[14.60785,45.88996],"type":"Point"}
+}

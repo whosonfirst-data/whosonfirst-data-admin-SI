@@ -1,0 +1,74 @@
+{
+  "id": 1293525131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.39975,46.41041,15.39975,46.41041",
+    "geom:latitude":46.41041,
+    "geom:longitude":15.39975,
+    "gn:admin1_code":"F3",
+    "gn:asciiname":"Koroska Vas na Pohorju",
+    "gn:country_code":"SI",
+    "gn:dem":717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987716,
+    "gn:latitude":46.41041,
+    "gn:longitude":15.39975,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Koro\u0161ka Vas na Pohorju",
+    "gn:population":111,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koro\u0161ka Vas na Pohorju"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959671,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987716,
+        "wk:page":"Koro%C5%A1ka_Vas_na_Pohorju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6cbc02d836d6c486b1a13aa21029f84e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959671,
+            "locality_id":1293525131,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1293525131,
+    "wof:lastmodified":1537700292,
+    "wof:name":"Koroska Vas na Pohorju",
+    "wof:parent_id":1108959671,
+    "wof:placetype":"locality",
+    "wof:population":111,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.39975,
+    46.41041,
+    15.39975,
+    46.41041
+],
+  "geometry": {"coordinates":[15.39975,46.41041],"type":"Point"}
+}

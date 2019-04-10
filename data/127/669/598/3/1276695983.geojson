@@ -1,0 +1,74 @@
+{
+  "id": 1276695983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.34531,45.70704,15.34531,45.70704",
+    "geom:latitude":45.70704,
+    "geom:longitude":15.34531,
+    "gn:admin1_code":"73",
+    "gn:asciiname":"Krasnji Vrh",
+    "gn:country_code":"SI",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988952,
+    "gn:latitude":45.70704,
+    "gn:longitude":15.34531,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kra\u0161nji Vrh",
+    "gn:population":25,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kra\u0161nji Vrh"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959909,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988952,
+        "wk:page":"Kra%C5%A1nji_Vrh"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"01ee24bf627ddc0a9283e7419f3ac6c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959909,
+            "locality_id":1276695983,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1276695983,
+    "wof:lastmodified":1537700317,
+    "wof:name":"Krasnji Vrh",
+    "wof:parent_id":1108959909,
+    "wof:placetype":"locality",
+    "wof:population":25,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.34531,
+    45.70704,
+    15.34531,
+    45.70704
+],
+  "geometry": {"coordinates":[15.34531,45.70704],"type":"Point"}
+}

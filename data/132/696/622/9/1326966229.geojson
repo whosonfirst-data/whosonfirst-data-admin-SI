@@ -1,0 +1,71 @@
+{
+  "id": 1326966229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.2965,46.17481,14.2965,46.17481",
+    "geom:latitude":46.17481,
+    "geom:longitude":14.2965,
+    "gn:admin1_code":"B9",
+    "gn:asciiname":"Binkelj",
+    "gn:country_code":"SI",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987323,
+    "gn:latitude":46.17481,
+    "gn:longitude":14.2965,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Binkelj",
+    "gn:population":175,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959821,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987323,
+        "wk:page":"Binkelj"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"53e518c360134841cb73aa8857a9dd52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959821,
+            "locality_id":1326966229,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1326966229,
+    "wof:lastmodified":1537573476,
+    "wof:name":"Binkelj",
+    "wof:parent_id":1108959821,
+    "wof:placetype":"locality",
+    "wof:population":175,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.2965,
+    46.17481,
+    14.2965,
+    46.17481
+],
+  "geometry": {"coordinates":[14.2965,46.17481],"type":"Point"}
+}

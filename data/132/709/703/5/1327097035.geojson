@@ -1,0 +1,75 @@
+{
+  "id": 1327097035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.02833,45.76056,14.02833,45.76056",
+    "geom:latitude":45.76056,
+    "geom:longitude":14.02833,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Otosce",
+    "gn:country_code":"SI",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3219003,
+    "gn:latitude":45.76056,
+    "gn:longitude":14.02833,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Oto\u0161\u010de",
+    "gn:population":21,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vrtov\u0161\u010de",
+        "Oto\u0161\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959845,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3219003,
+        "wk:page":"Oto%C5%A1%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4dc1f23948822bf67c1e589f527356d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959845,
+            "locality_id":1327097035,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1327097035,
+    "wof:lastmodified":1537700273,
+    "wof:name":"Otosce",
+    "wof:parent_id":1108959845,
+    "wof:placetype":"locality",
+    "wof:population":21,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.02833,
+    45.76056,
+    14.02833,
+    45.76056
+],
+  "geometry": {"coordinates":[14.02833,45.76056],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1242814811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.31503,46.76821,16.31503,46.76821",
+    "geom:latitude":46.76821,
+    "geom:longitude":16.31503,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Sredisce",
+    "gn:cc2":"SI",
+    "gn:country_code":"SI",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190151,
+    "gn:latitude":46.76821,
+    "gn:longitude":16.31503,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Sredi\u0161\u010de",
+    "gn:population":51,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kisszerdahely",
+        "Szerdahely",
+        "Sredi\u0161\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959925,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190151,
+        "wk:page":"Sredi%C5%A1%C4%8De%2C_Moravske_Toplice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d102ce7bccbe313013d1ae8968aef8e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959925,
+            "locality_id":1242814811,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1242814811,
+    "wof:lastmodified":1537700188,
+    "wof:name":"Sredisce",
+    "wof:parent_id":1108959925,
+    "wof:placetype":"locality",
+    "wof:population":51,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.31503,
+    46.76821,
+    16.31503,
+    46.76821
+],
+  "geometry": {"coordinates":[16.31503,46.76821],"type":"Point"}
+}

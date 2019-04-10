@@ -1,0 +1,68 @@
+{
+  "id": 1209549219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.43906,45.97161,15.43906,45.97161",
+    "geom:latitude":45.97161,
+    "geom:longitude":15.43906,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Senozete",
+    "gn:country_code":"SI",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989054,
+    "gn:latitude":45.97161,
+    "gn:longitude":15.43906,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Seno\u017eete",
+    "gn:population":20,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seno\u017eete"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989054,
+        "wk:page":"Seno%C5%BEete%2C_Kr%C5%A1ko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"85fcd15f70aa656349d3b9760e3e8eb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209549219
+        }
+    ],
+    "wof:id":1209549219,
+    "wof:lastmodified":1537700319,
+    "wof:name":"Senozete",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":20,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.43906,
+    45.97161,
+    15.43906,
+    45.97161
+],
+  "geometry": {"coordinates":[15.43906,45.97161],"type":"Point"}
+}

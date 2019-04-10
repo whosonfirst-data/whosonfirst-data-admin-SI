@@ -1,0 +1,77 @@
+{
+  "id": 1293420349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25,46.6,15.25,46.6",
+    "geom:latitude":46.6,
+    "geom:longitude":15.25,
+    "gn:admin1_code":"A2",
+    "gn:asciiname":"Spodnja Vizinga",
+    "gn:country_code":"SI",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190231,
+    "gn:latitude":46.6,
+    "gn:longitude":15.25,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Spodnja Vi\u017einga",
+    "gn:population":319,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sveta Vi\u017einga",
+        "Unter Feising",
+        "Spodnja",
+        "Spodnja Vi\u017einga"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959557,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190231,
+        "wk:page":"Spodnja_Vi%C5%BEinga"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c2ccb7782ce0e4bc1561ce2c646dde87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959557,
+            "locality_id":1293420349,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1293420349,
+    "wof:lastmodified":1537700189,
+    "wof:name":"Spodnja Vizinga",
+    "wof:parent_id":1108959557,
+    "wof:placetype":"locality",
+    "wof:population":319,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25,
+    46.6,
+    15.25,
+    46.6
+],
+  "geometry": {"coordinates":[15.25,46.6],"type":"Point"}
+}

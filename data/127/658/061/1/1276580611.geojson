@@ -1,0 +1,67 @@
+{
+  "id": 1276580611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.17917,46.25417,14.17917,46.25417",
+    "geom:latitude":46.25417,
+    "geom:longitude":14.17917,
+    "gn:admin1_code":"F1",
+    "gn:asciiname":"Na Peceh",
+    "gn:country_code":"SI",
+    "gn:dem":965,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215716,
+    "gn:latitude":46.25417,
+    "gn:longitude":14.17917,
+    "gn:modification_date":"2008-11-25",
+    "gn:name":"Na Pe\u010deh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959701,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215716
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"452b158584ae6236cb2f88fa0007ffbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959701,
+            "locality_id":1276580611,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1276580611,
+    "wof:lastmodified":1536945528,
+    "wof:name":"Na Peceh",
+    "wof:parent_id":1108959701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.17917,
+    46.25417,
+    14.17917,
+    46.25417
+],
+  "geometry": {"coordinates":[14.17917,46.25417],"type":"Point"}
+}

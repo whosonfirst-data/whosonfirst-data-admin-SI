@@ -1,0 +1,67 @@
+{
+  "id": 1209363241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.71094,46.05096,13.71094,46.05096",
+    "geom:latitude":46.05096,
+    "geom:longitude":13.71094,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Raven",
+    "gn:country_code":"SI",
+    "gn:dem":704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10794054,
+    "gn:latitude":46.05096,
+    "gn:longitude":13.71094,
+    "gn:modification_date":"2015-10-02",
+    "gn:name":"Raven",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Ravna"
+    ],
+    "name:slv_x_preferred":[
+        "Ravna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10794054
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a00ce8455d115e71b6572764295ac9f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209363241
+        }
+    ],
+    "wof:id":1209363241,
+    "wof:lastmodified":1537700336,
+    "wof:name":"Raven",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.71094,
+    46.05096,
+    13.71094,
+    46.05096
+],
+  "geometry": {"coordinates":[13.71094,46.05096],"type":"Point"}
+}

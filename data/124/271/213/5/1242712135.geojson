@@ -1,0 +1,75 @@
+{
+  "id": 1242712135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.0875,45.655,14.0875,45.655",
+    "geom:latitude":45.655,
+    "geom:longitude":14.0875,
+    "gn:admin1_code":"91",
+    "gn:asciiname":"Buje",
+    "gn:country_code":"SI",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203089,
+    "gn:latitude":45.655,
+    "gn:longitude":14.0875,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Buje",
+    "gn:population":47,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buie del Timavo",
+        "Buje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959587,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203089,
+        "wk:page":"Buje%2C_Pivka"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7c9c771cf0c406fbce4ab8491d4288ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959587,
+            "locality_id":1242712135,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1242712135,
+    "wof:lastmodified":1537700260,
+    "wof:name":"Buje",
+    "wof:parent_id":1108959587,
+    "wof:placetype":"locality",
+    "wof:population":47,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.0875,
+    45.655,
+    14.0875,
+    45.655
+],
+  "geometry": {"coordinates":[14.0875,45.655],"type":"Point"}
+}

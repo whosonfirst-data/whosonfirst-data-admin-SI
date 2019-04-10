@@ -1,0 +1,71 @@
+{
+  "id": 1293420941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25368,46.57535,15.25368,46.57535",
+    "geom:latitude":46.57535,
+    "geom:longitude":15.25368,
+    "gn:admin1_code":"L2",
+    "gn:asciiname":"Spodnja Orlica",
+    "gn:country_code":"SI",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193996,
+    "gn:latitude":46.57535,
+    "gn:longitude":15.25368,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Spodnja Orlica",
+    "gn:population":101,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959557,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193996,
+        "wk:page":"Spodnja_Orlica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e4dbe95a90f36a61b3e675246d23935d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959557,
+            "locality_id":1293420941,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1293420941,
+    "wof:lastmodified":1537573416,
+    "wof:name":"Spodnja Orlica",
+    "wof:parent_id":1108959557,
+    "wof:placetype":"locality",
+    "wof:population":101,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25368,
+    46.57535,
+    15.25368,
+    46.57535
+],
+  "geometry": {"coordinates":[15.25368,46.57535],"type":"Point"}
+}

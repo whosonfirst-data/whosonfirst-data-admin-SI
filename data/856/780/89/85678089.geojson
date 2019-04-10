@@ -1,0 +1,186 @@
+{
+  "id": 85678089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.013486,
+    "geom:area_square_m":114895686.211595,
+    "geom:bbox":"15.1236043642,46.388434964,15.327002801,46.510908108",
+    "geom:latitude":46.44995,
+    "geom:longitude":15.222179,
+    "iso:country":"SI",
+    "lbl:latitude":46.446159,
+    "lbl:longitude":15.213704,
+    "mps:latitude":46.446159,
+    "mps:longitude":15.213704,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:bos_x_preferred":[
+        "Mislinja"
+    ],
+    "name:eng_x_preferred":[
+        "Mislinja"
+    ],
+    "name:hbs_x_preferred":[
+        "Mislinja"
+    ],
+    "name:hrv_x_preferred":[
+        "Mislinja"
+    ],
+    "name:hrv_x_variant":[
+        "Op\u0107ina Mislinja"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30b9\u30ea\u30cb\u30e3"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Mislinja"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0441\u043b\u0438\u043d\u044c\u044f"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0438\u0441\u043b\u0438\u043d\u044f"
+    ],
+    "name:slv_x_preferred":[
+        "Mislinja"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u0441\u043b\u0438\u045a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0438\u0441\u043b\u0438\u043d\u044f"
+    ],
+    "name:und_x_preferred":[
+        "Slovenske Konjice"
+    ],
+    "name:unk_x_variant":[
+        "Ob\u010dina Mislinja"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-971",
+    "ne:adm1_code":"SVN-971",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SI.KO.MI",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"971",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SI76",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.76",
+    "ne:gn_id":"3239207",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Mislinja",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI76",
+    "ne:gns_id":"243898",
+    "ne:gns_lang":"slv",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Mislinja, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"46.44420000000",
+    "ne:longitude":"15.22530000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Mislinja",
+    "ne:name_alt":"",
+    "ne:name_len":8,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"MI",
+    "ne:provnum_ne":"118",
+    "ne:region":"Koro\u0161ka",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":-55848389,
+    "ne:woe_label":"",
+    "ne:woe_name":"",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Mislinja",
+    "qs:a1_lc":"SVN-971",
+    "qs:a1r":"Koro\u0161ka",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "qs:woeid":55848389,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "unlc:subdivision":"SI-076",
+    "wd:wordcount":31,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SI76",
+        "gn:id":3239207,
+        "gp:id":-55848389,
+        "hasc:id":"SI.KO.MI",
+        "unlc:id":"SI-076"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d354b801ebae3fb3917f051c90be006c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85678089
+        }
+    ],
+    "wof:id":85678089,
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616734,
+    "wof:name":"Mislinja",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:shortcode":"MI",
+    "wof:subdivision":"SI-076",
+    "wof:superseded_by":[
+        1108959467
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.12360436415014,
+    46.38843496400244,
+    15.32700280103847,
+    46.51090810802282
+],
+  "geometry": {"coordinates":[[[15.23827436686861,46.49463003185053],[15.25842817571976,46.49558604625906],[15.31211998884646,46.49245962241372],[15.31568566316287,46.48217601241311],[15.31770104296879,46.4697219920763],[15.32452233233982,46.46305573233622],[15.32700280103847,46.4585340445106],[15.32483239070234,46.45124766714616],[15.29801232301037,46.44992991843105],[15.28106245326967,46.44672597932055],[15.2734660166434,46.44328949621331],[15.26710981616515,46.4372691925193],[15.25393232631586,46.41406647418847],[15.23248660717121,46.39251740225637],[15.1903186383945,46.38843496400244],[15.17584923735245,46.39401601812477],[15.17553917809067,46.3980984563787],[15.17615929481565,46.40236176178593],[15.17553917809067,46.4091055358918],[15.16995812306897,46.41091421192141],[15.16174157061704,46.41251618147663],[15.15507531087695,46.41277456299576],[15.12360436415014,46.42199880580029],[15.13492150202575,46.44390961383766],[15.13972741069148,46.44465892177186],[15.14267296738359,46.44437470183107],[15.14453331935727,46.44512400976527],[15.14949425585525,46.44972321195672],[15.15119957909735,46.46023936595401],[15.16220665861044,46.46780996415856],[15.18613284735306,46.49186534321109],[15.19574466288594,46.51090810802282],[15.22271976110812,46.49695547091829],[15.23827436686861,46.49463003185053]]],"type":"Polygon"}
+}

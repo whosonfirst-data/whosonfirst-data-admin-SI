@@ -1,0 +1,74 @@
+{
+  "id": 1309782419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.43335,45.82528,14.43335,45.82528",
+    "geom:latitude":45.82528,
+    "geom:longitude":14.43335,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Krusce",
+    "gn:country_code":"SI",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989346,
+    "gn:latitude":45.82528,
+    "gn:longitude":14.43335,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kru\u0161\u010de",
+    "gn:population":6,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kru\u0161\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959905,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989346,
+        "wk:page":"Kru%C5%A1%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"74c05e1972e3e2f4922c4e65d93ac59f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959905,
+            "locality_id":1309782419,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1309782419,
+    "wof:lastmodified":1537700324,
+    "wof:name":"Krusce",
+    "wof:parent_id":1108959905,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.43335,
+    45.82528,
+    14.43335,
+    45.82528
+],
+  "geometry": {"coordinates":[14.43335,45.82528],"type":"Point"}
+}

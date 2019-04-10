@@ -1,0 +1,113 @@
+{
+  "id": 101845337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000056,
+    "geom:area_square_m":478811.536898,
+    "geom:bbox":"16.2678110324,46.5192054189,16.2887943121,46.5254834026",
+    "geom:latitude":46.521545,
+    "geom:longitude":16.279211,
+    "gn:population":252,
+    "iso:country":"SI",
+    "lbl:latitude":46.522114,
+    "lbl:longitude":16.278496,
+    "mps:latitude":46.522114,
+    "mps:longitude":16.278496,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Razkri\u017eje"
+    ],
+    "name:ces_x_preferred":[
+        "Razkri\u017eje"
+    ],
+    "name:deu_x_preferred":[
+        "Razkri\u017eje"
+    ],
+    "name:epo_x_preferred":[
+        "Razkri\u017eje"
+    ],
+    "name:fra_x_preferred":[
+        "Razkri\u017eje"
+    ],
+    "name:hrv_x_preferred":[
+        "Razkri\u017eje"
+    ],
+    "name:hun_x_preferred":[
+        "R\u00e1ckanizsa"
+    ],
+    "name:ita_x_preferred":[
+        "Razkri\u017eje"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30b9\u30af\u30ea\u30b8\u30a4\u30a7"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\uc988\ud06c\ub9ac\uc81c"
+    ],
+    "name:unk_x_variant":[
+        "V\u00e9gfalva"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"Razkri\u017eje",
+    "qs:la_lc":"*SI176000",
+    "qs:level":"locality",
+    "qs:loc":"Razkri\u017eje",
+    "qs:loc_alt":"Razkrizje",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959853,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215453,
+        "gp:id":55851499,
+        "qs:id":9,
+        "wd:id":"Q908023",
+        "wk:page":"Razkri\u017eje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"762aaf609985f67e1ad3a7da87e2c0e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959853,
+            "locality_id":101845337,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":101845337,
+    "wof:lastmodified":1531170195,
+    "wof:name":"Razkri\u017eje",
+    "wof:parent_id":1108959853,
+    "wof:placetype":"locality",
+    "wof:population":252,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.26781103237556,
+    46.51920541891855,
+    16.28879431207622,
+    46.52548340263598
+],
+  "geometry": {"coordinates":[[[16.28879431207622,46.52105901873955],[16.28858215309231,46.51926533981259],[16.27430209975125,46.52010227558128],[16.27419626507231,46.51920541891855],[16.27289807992213,46.51928140840238],[16.27300389297255,46.5201782665427],[16.26781103237556,46.52048207353772],[16.26791676350217,46.52137893697102],[16.27440793902798,46.52099913162846],[16.27493720438821,46.52548340263598],[16.27623553760748,46.52540738711974],[16.27612965370332,46.52451053562714],[16.28132286652328,46.52420632261322],[16.28111093945915,46.52241262961502],[16.28630392556374,46.5221081774655],[16.28619788241735,46.52121133596381],[16.28879431207622,46.52105901873955]]],"type":"Polygon"}
+}

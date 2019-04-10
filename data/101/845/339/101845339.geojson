@@ -1,0 +1,119 @@
+{
+  "id": 101845339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00009,
+    "geom:area_square_m":768056.1045,
+    "geom:bbox":"16.155996807,46.5780806341,16.170399189,46.5889187133",
+    "geom:latitude":46.583212,
+    "geom:longitude":16.162667,
+    "gn:population":903,
+    "iso:country":"SI",
+    "lbl:latitude":46.583255,
+    "lbl:longitude":16.162776,
+    "mps:latitude":46.583255,
+    "mps:longitude":16.162776,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Ver\u017eej"
+    ],
+    "name:dut_x_preferred":[
+        "Ver\u017eej"
+    ],
+    "name:eng_x_preferred":[
+        "Ver\u017eej"
+    ],
+    "name:epo_x_preferred":[
+        "Ver\u017eej"
+    ],
+    "name:hbs_x_preferred":[
+        "Ver\u017eej"
+    ],
+    "name:hrv_x_preferred":[
+        "Ver\u017eej"
+    ],
+    "name:hun_x_preferred":[
+        "Ver\u017eej"
+    ],
+    "name:ron_x_preferred":[
+        "Ver\u017eej"
+    ],
+    "name:rum_x_preferred":[
+        "Ver\u017eej"
+    ],
+    "name:slv_x_preferred":[
+        "Ver\u017eej"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u0440\u0436\u0435\u0458"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0440\u0436\u0435\u0439"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"Ver\u017eej",
+    "qs:la_lc":"*SI188000",
+    "qs:level":"locality",
+    "qs:loc":"Ver\u017eej",
+    "qs:loc_alt":"Verzej",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959771,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187840,
+        "gp:id":532061,
+        "qs:id":581577,
+        "qs_pg:id":581577,
+        "wd:id":"Q3443700",
+        "wk:page":"Ver\u017eej"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"76c44cac40575632a52b9be12ca2cc14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959771,
+            "locality_id":101845339,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":101845339,
+    "wof:lastmodified":1531170197,
+    "wof:name":"Ver\u017eej",
+    "wof:parent_id":1108959771,
+    "wof:placetype":"locality",
+    "wof:population":903,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.15599680701814,
+    46.5780806340606,
+    16.1703991889882,
+    46.58891871334765
+],
+  "geometry": {"coordinates":[[[16.16582506841132,46.58779773035531],[16.16572085187494,46.58690078468754],[16.16702080332169,46.58682607686592],[16.16660389567693,46.58323829395232],[16.16790375698406,46.58316357624369],[16.16779951970142,46.58226663045457],[16.1703991889882,46.58211715082143],[16.17019064120774,46.58032326324752],[16.16889085162597,46.58039800800617],[16.16878660624263,46.57950106185251],[16.1648872827821,46.5797251975103],[16.16478310704133,46.57882824638324],[16.16218358495968,46.57897758870359],[16.16207945715496,46.5780806340606],[16.15947996527439,46.57822991063961],[16.15979223205585,46.58092078147405],[16.15719259675313,46.58107000394222],[16.15729665132449,46.58196696258148],[16.15599680701814,46.58204155170517],[16.15651703923686,46.58652634307526],[16.16041688789102,46.58630250677038],[16.16052101304984,46.58719945886469],[16.16182097771053,46.58712481388682],[16.16202928504458,46.58891871334765],[16.16462929130677,46.58876937043874],[16.16452509194869,46.58787242392168],[16.16582506841132,46.58779773035531]]],"type":"Polygon"}
+}

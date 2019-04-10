@@ -1,0 +1,74 @@
+{
+  "id": 1226477265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.5228,45.80413,14.5228,45.80413",
+    "geom:latitude":45.80413,
+    "geom:longitude":14.5228,
+    "gn:admin1_code":"F6",
+    "gn:asciiname":"Skufce",
+    "gn:country_code":"SI",
+    "gn:dem":768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989271,
+    "gn:latitude":45.80413,
+    "gn:longitude":14.5228,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160kuf\u010de",
+    "gn:population":11,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160kuf\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959893,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989271,
+        "wk:page":"%C5%A0kuf%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"82779152fe1ab304221730fb5e05520b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959893,
+            "locality_id":1226477265,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1226477265,
+    "wof:lastmodified":1537700323,
+    "wof:name":"Skufce",
+    "wof:parent_id":1108959893,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.5228,
+    45.80413,
+    14.5228,
+    45.80413
+],
+  "geometry": {"coordinates":[14.5228,45.80413],"type":"Point"}
+}

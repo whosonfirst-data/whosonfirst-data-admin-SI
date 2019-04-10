@@ -1,0 +1,74 @@
+{
+  "id": 1276694009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.61427,46.10047,14.61427,46.10047",
+    "geom:latitude":46.10047,
+    "geom:longitude":14.61427,
+    "gn:admin1_code":"G7",
+    "gn:asciiname":"Bisce",
+    "gn:country_code":"SI",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987224,
+    "gn:latitude":46.10047,
+    "gn:longitude":14.61427,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Bi\u0161\u010de",
+    "gn:population":213,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bi\u0161\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959799,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987224,
+        "wk:page":"Bi%C5%A1%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b3806ab19b999d893f8b639bc3e3d250",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959799,
+            "locality_id":1276694009,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1276694009,
+    "wof:lastmodified":1537700282,
+    "wof:name":"Bisce",
+    "wof:parent_id":1108959799,
+    "wof:placetype":"locality",
+    "wof:population":213,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.61427,
+    46.10047,
+    14.61427,
+    46.10047
+],
+  "geometry": {"coordinates":[14.61427,46.10047],"type":"Point"}
+}

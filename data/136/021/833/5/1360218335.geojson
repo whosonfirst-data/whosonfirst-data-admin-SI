@@ -1,0 +1,75 @@
+{
+  "id": 1360218335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.76417,45.91833,14.76417,45.91833",
+    "geom:latitude":45.91833,
+    "geom:longitude":14.76417,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Male Vrhe",
+    "gn:country_code":"SI",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195744,
+    "gn:latitude":45.91833,
+    "gn:longitude":14.76417,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Male Vrhe",
+    "gn:population":26,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mali Vrhi",
+        "Male Vrhe"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959583,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195744,
+        "wk:page":"Male_Vrhe"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"eac3f6359a1babfb3265c98a9922d944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959583,
+            "locality_id":1360218335,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1360218335,
+    "wof:lastmodified":1537700220,
+    "wof:name":"Male Vrhe",
+    "wof:parent_id":1108959583,
+    "wof:placetype":"locality",
+    "wof:population":26,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.76417,
+    45.91833,
+    14.76417,
+    45.91833
+],
+  "geometry": {"coordinates":[14.76417,45.91833],"type":"Point"}
+}

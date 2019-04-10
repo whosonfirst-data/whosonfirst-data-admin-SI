@@ -1,0 +1,76 @@
+{
+  "id": 1292941715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.00472,46.73083,16.00472,46.73083",
+    "geom:latitude":46.73083,
+    "geom:longitude":16.00472,
+    "gn:admin1_code":"F8",
+    "gn:asciiname":"Korovci",
+    "gn:country_code":"SI",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197650,
+    "gn:latitude":46.73083,
+    "gn:longitude":16.00472,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Korovci",
+    "gn:population":181,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karlsdorf",
+        "K\u00e1rolyfa",
+        "Korovci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959707,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197650,
+        "wk:page":"Korovci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"46be65bf56350bfc4fa610142c383119",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959707,
+            "locality_id":1292941715,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1292941715,
+    "wof:lastmodified":1537700230,
+    "wof:name":"Korovci",
+    "wof:parent_id":1108959707,
+    "wof:placetype":"locality",
+    "wof:population":181,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.00472,
+    46.73083,
+    16.00472,
+    46.73083
+],
+  "geometry": {"coordinates":[16.00472,46.73083],"type":"Point"}
+}

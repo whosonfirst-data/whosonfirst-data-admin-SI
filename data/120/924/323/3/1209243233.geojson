@@ -1,0 +1,65 @@
+{
+  "id": 1209243233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.23091,45.97203,14.23091,45.97203",
+    "geom:latitude":45.97203,
+    "geom:longitude":14.23091,
+    "gn:admin1_code":"E5",
+    "gn:asciiname":"Zaplana",
+    "gn:country_code":"SI",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3186788,
+    "gn:latitude":45.97203,
+    "gn:longitude":14.23091,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Zaplana",
+    "gn:population":114,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186788,
+        "wk:page":"Zaplana%2C_Vrhnika"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e4c4106ba68caa5beff849e43c4410f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209243233
+        }
+    ],
+    "wof:id":1209243233,
+    "wof:lastmodified":1537573383,
+    "wof:name":"Zaplana",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":114,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.23091,
+    45.97203,
+    14.23091,
+    45.97203
+],
+  "geometry": {"coordinates":[14.23091,45.97203],"type":"Point"}
+}

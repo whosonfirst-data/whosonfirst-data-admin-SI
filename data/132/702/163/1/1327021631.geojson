@@ -1,0 +1,71 @@
+{
+  "id": 1327021631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.52566,46.03323,13.52566,46.03323",
+    "geom:latitude":46.03323,
+    "geom:longitude":13.52566,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Belo",
+    "gn:country_code":"SI",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989288,
+    "gn:latitude":46.03323,
+    "gn:longitude":13.52566,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Belo",
+    "gn:population":9,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959811,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989288,
+        "wk:page":"Belo%2C_Brda"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7c9fb41042fc7449a28ca453fa0c8034",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959811,
+            "locality_id":1327021631,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1327021631,
+    "wof:lastmodified":1537573537,
+    "wof:name":"Belo",
+    "wof:parent_id":1108959811,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.52566,
+    46.03323,
+    13.52566,
+    46.03323
+],
+  "geometry": {"coordinates":[13.52566,46.03323],"type":"Point"}
+}

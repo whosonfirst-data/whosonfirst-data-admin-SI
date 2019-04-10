@@ -1,0 +1,74 @@
+{
+  "id": 1243203293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.67712,46.25833,14.67712,46.25833",
+    "geom:latitude":46.25833,
+    "geom:longitude":14.67712,
+    "gn:admin1_code":"H6",
+    "gn:asciiname":"Smrecje v Crni",
+    "gn:country_code":"SI",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988943,
+    "gn:latitude":46.25833,
+    "gn:longitude":14.67712,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Smre\u010dje v \u010crni",
+    "gn:population":25,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Smre\u010dje v \u010crni"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959941,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988943,
+        "wk:page":"Smre%C4%8Dje_v_%C4%8Crni"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3b23c7e426138ac8c67fd70591499097",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959941,
+            "locality_id":1243203293,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1243203293,
+    "wof:lastmodified":1537700316,
+    "wof:name":"Smrecje v Crni",
+    "wof:parent_id":1108959941,
+    "wof:placetype":"locality",
+    "wof:population":25,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.67712,
+    46.25833,
+    14.67712,
+    46.25833
+],
+  "geometry": {"coordinates":[14.67712,46.25833],"type":"Point"}
+}

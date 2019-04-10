@@ -1,0 +1,71 @@
+{
+  "id": 1226473717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.22372,45.94135,15.22372,45.94135",
+    "geom:latitude":45.94135,
+    "geom:longitude":15.22372,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Krsinji Vrh",
+    "gn:country_code":"SI",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197149,
+    "gn:latitude":45.94135,
+    "gn:longitude":15.22372,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Krsinji Vrh",
+    "gn:population":34,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197149,
+        "wk:page":"Krsinji_Vrh"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ada35f3029f6d1be5f8aa51246f30fb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1226473717,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1226473717,
+    "wof:lastmodified":1537573427,
+    "wof:name":"Krsinji Vrh",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":34,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.22372,
+    45.94135,
+    15.22372,
+    45.94135
+],
+  "geometry": {"coordinates":[15.22372,45.94135],"type":"Point"}
+}

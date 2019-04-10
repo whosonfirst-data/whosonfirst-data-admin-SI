@@ -1,0 +1,74 @@
+{
+  "id": 1326967087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.50642,46.21904,14.50642,46.21904",
+    "geom:latitude":46.21904,
+    "geom:longitude":14.50642,
+    "gn:admin1_code":"H8",
+    "gn:asciiname":"Lahovce",
+    "gn:country_code":"SI",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196800,
+    "gn:latitude":46.21904,
+    "gn:longitude":14.50642,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Lahov\u010de",
+    "gn:population":443,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lahovi\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959493,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196800,
+        "wk:page":"Lahov%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"526959613fd1292ce5b5213f9fb0d665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959493,
+            "locality_id":1326967087,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1326967087,
+    "wof:lastmodified":1537700227,
+    "wof:name":"Lahovce",
+    "wof:parent_id":1108959493,
+    "wof:placetype":"locality",
+    "wof:population":443,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.50642,
+    46.21904,
+    14.50642,
+    46.21904
+],
+  "geometry": {"coordinates":[14.50642,46.21904],"type":"Point"}
+}

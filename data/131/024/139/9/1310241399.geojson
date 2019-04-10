@@ -1,0 +1,74 @@
+{
+  "id": 1310241399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.81528,45.99667,14.81528,45.99667",
+    "geom:latitude":45.99667,
+    "geom:longitude":14.81528,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Debece",
+    "gn:country_code":"SI",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202164,
+    "gn:latitude":45.99667,
+    "gn:longitude":14.81528,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Debe\u010de",
+    "gn:population":30,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Debe\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959583,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202164,
+        "wk:page":"Debe%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"bd756ee4d53572be646f2bab7282e5d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959583,
+            "locality_id":1310241399,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1310241399,
+    "wof:lastmodified":1537700256,
+    "wof:name":"Debece",
+    "wof:parent_id":1108959583,
+    "wof:placetype":"locality",
+    "wof:population":30,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.81528,
+    45.99667,
+    14.81528,
+    45.99667
+],
+  "geometry": {"coordinates":[14.81528,45.99667],"type":"Point"}
+}

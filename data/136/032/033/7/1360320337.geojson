@@ -1,0 +1,74 @@
+{
+  "id": 1360320337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.33278,45.99778,14.33278,45.99778",
+    "geom:latitude":45.99778,
+    "geom:longitude":14.33278,
+    "gn:admin1_code":"E5",
+    "gn:asciiname":"Drenov Gric",
+    "gn:country_code":"SI",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201204,
+    "gn:latitude":45.99778,
+    "gn:longitude":14.33278,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Drenov Gri\u010d",
+    "gn:population":914,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Drenov Gri\u010d"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959851,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201204,
+        "wk:page":"Drenov_Gri%C4%8D"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"cea75556931f853d6814f229c6050768",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959851,
+            "locality_id":1360320337,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1360320337,
+    "wof:lastmodified":1537700250,
+    "wof:name":"Drenov Gric",
+    "wof:parent_id":1108959851,
+    "wof:placetype":"locality",
+    "wof:population":914,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.33278,
+    45.99778,
+    14.33278,
+    45.99778
+],
+  "geometry": {"coordinates":[14.33278,45.99778],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343595265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.72594,46.06318,13.72594,46.06318",
+    "geom:latitude":46.06318,
+    "geom:longitude":13.72594,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Bahovsce",
+    "gn:country_code":"SI",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10858783,
+    "gn:latitude":46.06318,
+    "gn:longitude":13.72594,
+    "gn:modification_date":"2015-10-13",
+    "gn:name":"Bahov\u0161\u010de",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Bavhu\u0161ce"
+    ],
+    "name:slv_x_preferred":[
+        "Bavhu\u0161ce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959537,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10858783
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"da47ef371f665ac82045f582ba563269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959537,
+            "locality_id":1343595265,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1343595265,
+    "wof:lastmodified":1537700336,
+    "wof:name":"Bahovsce",
+    "wof:parent_id":1108959537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.72594,
+    46.06318,
+    13.72594,
+    46.06318
+],
+  "geometry": {"coordinates":[13.72594,46.06318],"type":"Point"}
+}

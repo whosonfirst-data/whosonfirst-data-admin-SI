@@ -1,0 +1,65 @@
+{
+  "id": 1209451353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.59369,45.82126,14.59369,45.82126",
+    "geom:latitude":45.82126,
+    "geom:longitude":14.59369,
+    "gn:admin1_code":"D8",
+    "gn:asciiname":"Kaplanovo",
+    "gn:country_code":"SI",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988933,
+    "gn:latitude":45.82126,
+    "gn:longitude":14.59369,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kaplanovo",
+    "gn:population":26,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988933,
+        "wk:page":"Kaplanovo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c63de2a29e1dfb070773369840b3c3fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209451353
+        }
+    ],
+    "wof:id":1209451353,
+    "wof:lastmodified":1537573527,
+    "wof:name":"Kaplanovo",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":26,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.59369,
+    45.82126,
+    14.59369,
+    45.82126
+],
+  "geometry": {"coordinates":[14.59369,45.82126],"type":"Point"}
+}

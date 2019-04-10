@@ -1,0 +1,110 @@
+{
+  "id": 101845349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000055,
+    "geom:area_square_m":468837.896407,
+    "geom:bbox":"15.8897016654,46.368808333,15.9036503792,46.3770989298",
+    "geom:latitude":46.372639,
+    "geom:longitude":15.89756,
+    "gn:population":471,
+    "iso:country":"SI",
+    "lbl:latitude":46.371319,
+    "lbl:longitude":15.897455,
+    "mps:latitude":46.371319,
+    "mps:longitude":15.897455,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Sankt Veit \u00fcber Pettau"
+    ],
+    "name:deu_x_variant":[
+        "Treun \u00fcber Pettau"
+    ],
+    "name:hbs_x_preferred":[
+        "Videm pri Ptuju"
+    ],
+    "name:nld_x_preferred":[
+        "Videm pri Ptuju"
+    ],
+    "name:ron_x_preferred":[
+        "Videm pri Ptuju"
+    ],
+    "name:slv_x_preferred":[
+        "Videm pri Ptuju"
+    ],
+    "name:slv_x_variant":[
+        "Sveti Vid pri Ptuju"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0434\u0435\u043c \u043f\u0440\u0438 \u041f\u0442\u0443\u0458\u0443"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u0434\u0435\u043c-\u043f\u0440\u0438-\u041f\u0442\u0443\u044e"
+    ],
+    "name:unk_x_variant":[
+        "Videm"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"Videm pri Ptuju",
+    "qs:la_lc":"*SI135000",
+    "qs:level":"locality",
+    "qs:loc":"Videm pri Ptuju",
+    "qs:loc_alt":"Videm pri Ptuju",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":237,
+    "wof:belongsto":[
+        102191581,
+        1108959747,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3339111,
+        "gp:id":55871561,
+        "qs:id":2,
+        "wd:id":"Q3162598"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5168baccb33f4c122f59f138bc18f9f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959747,
+            "locality_id":101845349,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":101845349,
+    "wof:lastmodified":1531170946,
+    "wof:name":"Videm pri Ptuju",
+    "wof:parent_id":1108959747,
+    "wof:placetype":"locality",
+    "wof:population":471,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.889701665377,
+    46.36880833300188,
+    15.90365037916229,
+    46.37709892984788
+],
+  "geometry": {"coordinates":[[[15.90285107176669,46.37598721196974],[15.90265277033205,46.37419249586782],[15.9013576738995,46.3742639609406],[15.90106031851758,46.37157187808441],[15.90365037916229,46.37142894060014],[15.90345207766313,46.36963422120056],[15.90215709193029,46.36970569499653],[15.90205796913637,46.36880833300188],[15.89946803131591,46.36895123088971],[15.89956711108539,46.36984859565246],[15.89179709356813,46.37027692212951],[15.89229191135632,46.3747637783357],[15.889701665377,46.37490644248163],[15.88980059876258,46.37580381466853],[15.89498116430855,46.3755184182582],[15.89468411879648,46.37282631646724],[15.89856931650314,46.3726121173118],[15.8990647365855,46.37709892984788],[15.90165506794222,46.37695603833771],[15.90155593229849,46.37605867981188],[15.90285107176669,46.37598721196974]]],"type":"Polygon"}
+}

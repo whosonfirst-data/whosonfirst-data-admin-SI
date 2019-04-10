@@ -1,0 +1,68 @@
+{
+  "id": 1209263797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.7087,45.92111,14.7087,45.92111",
+    "geom:latitude":45.92111,
+    "geom:longitude":14.7087,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Plesivica pri Zalni",
+    "gn:country_code":"SI",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987424,
+    "gn:latitude":45.92111,
+    "gn:longitude":14.7087,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ple\u0161ivica pri \u017dalni",
+    "gn:population":155,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ple\u0161ivica pri \u017dalni"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987424,
+        "wk:page":"Ple%C5%A1ivica_pri_%C5%BDalni"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6c3a46f05a13c4b1cde7a2da02cab4aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209263797
+        }
+    ],
+    "wof:id":1209263797,
+    "wof:lastmodified":1537700286,
+    "wof:name":"Plesivica pri Zalni",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":155,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.7087,
+    45.92111,
+    14.7087,
+    45.92111
+],
+  "geometry": {"coordinates":[14.7087,45.92111],"type":"Point"}
+}

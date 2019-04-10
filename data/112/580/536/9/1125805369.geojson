@@ -1,0 +1,114 @@
+{
+  "id": 1125805369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.50083,46.29389,13.50083,46.29389",
+    "geom:latitude":46.29389,
+    "geom:longitude":13.50083,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":185,
+    "iso:country":"SI",
+    "lbl:latitude":46.29389,
+    "lbl:longitude":13.50083,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Srpenica"
+    ],
+    "name:eng_x_preferred":[
+        "Srpenica"
+    ],
+    "name:ita_x_preferred":[
+        "Serpenizza"
+    ],
+    "name:rum_x_preferred":[
+        "Srpenica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0440\u043f\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Srpenica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0440\u043f\u0435\u043d\u0456\u0446\u0430"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3190079,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Srpenica",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Tolmin",
+    "qs_pg:photos":1424,
+    "qs_pg:photos_1k":289,
+    "qs_pg:photos_9k":6,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1424,
+    "qs_pg:photos_sr":12,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1082845,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":531744,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Tolmin",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959541,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190079,
+        "gp:id":531744,
+        "qs_pg:id":1082845,
+        "wd:id":"Q2662212"
+    },
+    "wof:country":"SI",
+    "wof:created":1497291440,
+    "wof:geomhash":"25afcaaad6b1ae6ee33a8da4b253c048",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959541,
+            "locality_id":1125805369,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1125805369,
+    "wof:lastmodified":1531170228,
+    "wof:name":"Srpenica",
+    "wof:parent_id":1108959541,
+    "wof:placetype":"locality",
+    "wof:population":185,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.50083,
+    46.29389,
+    13.50083,
+    46.29389
+],
+  "geometry": {"coordinates":[13.50083,46.29389],"type":"Point"}
+}

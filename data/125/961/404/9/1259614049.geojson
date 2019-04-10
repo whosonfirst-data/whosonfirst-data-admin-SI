@@ -1,0 +1,75 @@
+{
+  "id": 1259614049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.99778,45.7825,13.99778,45.7825",
+    "geom:latitude":45.7825,
+    "geom:longitude":13.99778,
+    "gn:admin1_code":"E1",
+    "gn:asciiname":"Lozice",
+    "gn:country_code":"SI",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196158,
+    "gn:latitude":45.7825,
+    "gn:longitude":13.99778,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Lozice",
+    "gn:population":195,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Losizze",
+        "Lozice"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959623,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196158,
+        "wk:page":"Lozice%2C_Vipava"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d97942204cb1d235ff5e7ebb2b02e748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959623,
+            "locality_id":1259614049,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1259614049,
+    "wof:lastmodified":1537700222,
+    "wof:name":"Lozice",
+    "wof:parent_id":1108959623,
+    "wof:placetype":"locality",
+    "wof:population":195,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.99778,
+    45.7825,
+    13.99778,
+    45.7825
+],
+  "geometry": {"coordinates":[13.99778,45.7825],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226377457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.13028,45.74083,14.13028,45.74083",
+    "geom:latitude":45.74083,
+    "geom:longitude":14.13028,
+    "gn:admin1_code":"94",
+    "gn:asciiname":"Rakulik",
+    "gn:country_code":"SI",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191984,
+    "gn:latitude":45.74083,
+    "gn:longitude":14.13028,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Rakulik",
+    "gn:population":20,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Raccolico",
+        "Rakulik"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959559,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191984,
+        "wk:page":"Rakulik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"af8f2c52af7e3f8489d0f1c68ba0405b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959559,
+            "locality_id":1226377457,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1226377457,
+    "wof:lastmodified":1537700201,
+    "wof:name":"Rakulik",
+    "wof:parent_id":1108959559,
+    "wof:placetype":"locality",
+    "wof:population":20,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.13028,
+    45.74083,
+    14.13028,
+    45.74083
+],
+  "geometry": {"coordinates":[14.13028,45.74083],"type":"Point"}
+}

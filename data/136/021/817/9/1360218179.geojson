@@ -1,0 +1,71 @@
+{
+  "id": 1360218179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.88806,45.50528,14.88806,45.50528",
+    "geom:latitude":45.50528,
+    "geom:longitude":14.88806,
+    "gn:admin1_code":"H9",
+    "gn:asciiname":"Nova Sela",
+    "gn:country_code":"SI",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194411,
+    "gn:latitude":45.50528,
+    "gn:longitude":14.88806,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Nova Sela",
+    "gn:population":28,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959711,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194411,
+        "wk:page":"Nova_Sela%2C_Kostel"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0420da17b7ca5843d8d50362c18b85ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959711,
+            "locality_id":1360218179,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1360218179,
+    "wof:lastmodified":1537573417,
+    "wof:name":"Nova Sela",
+    "wof:parent_id":1108959711,
+    "wof:placetype":"locality",
+    "wof:population":28,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.88806,
+    45.50528,
+    14.88806,
+    45.50528
+],
+  "geometry": {"coordinates":[14.88806,45.50528],"type":"Point"}
+}

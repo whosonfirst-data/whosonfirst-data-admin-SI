@@ -1,0 +1,74 @@
+{
+  "id": 1292942017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.78114,46.02655,14.78114,46.02655",
+    "geom:latitude":46.02655,
+    "geom:longitude":14.78114,
+    "gn:admin1_code":"L9",
+    "gn:asciiname":"Scit",
+    "gn:country_code":"SI",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989065,
+    "gn:latitude":46.02655,
+    "gn:longitude":14.78114,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160\u010dit",
+    "gn:population":20,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160\u010dit"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959745,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989065,
+        "wk:page":"%C5%A0%C4%8Dit%2C_%C5%A0martno_pri_Litiji"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d4c142321dcca02fbeb82a8e343d4ce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959745,
+            "locality_id":1292942017,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1292942017,
+    "wof:lastmodified":1537700319,
+    "wof:name":"Scit",
+    "wof:parent_id":1108959745,
+    "wof:placetype":"locality",
+    "wof:population":20,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.78114,
+    46.02655,
+    14.78114,
+    46.02655
+],
+  "geometry": {"coordinates":[14.78114,46.02655],"type":"Point"}
+}

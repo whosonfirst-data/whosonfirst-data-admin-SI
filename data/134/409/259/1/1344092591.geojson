@@ -1,0 +1,74 @@
+{
+  "id": 1344092591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.02059,45.94581,15.02059,45.94581",
+    "geom:latitude":45.94581,
+    "geom:longitude":15.02059,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Skrjance",
+    "gn:country_code":"SI",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988912,
+    "gn:latitude":45.94581,
+    "gn:longitude":15.02059,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160krjan\u010de",
+    "gn:population":27,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160krjan\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959869,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988912,
+        "wk:page":"%C5%A0krjan%C4%8De%2C_Mirna"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e3363972c69d74d552b755445002b356",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959869,
+            "locality_id":1344092591,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1344092591,
+    "wof:lastmodified":1537700316,
+    "wof:name":"Skrjance",
+    "wof:parent_id":1108959869,
+    "wof:placetype":"locality",
+    "wof:population":27,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.02059,
+    45.94581,
+    15.02059,
+    45.94581
+],
+  "geometry": {"coordinates":[15.02059,45.94581],"type":"Point"}
+}

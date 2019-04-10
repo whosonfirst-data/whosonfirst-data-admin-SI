@@ -1,0 +1,110 @@
+{
+  "id": 1125975481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.20694,45.85051,15.20694,45.85051",
+    "geom:latitude":45.85051,
+    "geom:longitude":15.20694,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":33,
+    "gn:population":38,
+    "iso:country":"SI",
+    "lbl:latitude":45.85051,
+    "lbl:longitude":15.20694,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Zagrad pri Oto\u010dcu"
+    ],
+    "name:eng_x_preferred":[
+        "Zagrad pri Oto\u010dcu"
+    ],
+    "name:hrv_x_preferred":[
+        "Zagrad pri Oto\u010dcu"
+    ],
+    "name:rum_x_preferred":[
+        "Zagrad pri Oto\u010dcu"
+    ],
+    "name:slv_x_preferred":[
+        "Zagrad pri Oto\u010dcu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u0433\u0440\u0430\u0434-\u043f\u0440\u0438-\u041e\u0442\u043e\u0447\u0446\u0443"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u06af\u0631\u0627\u0688 \u067e\u0631 \u0648\u0679\u0648\u0686\u06a9\u0648"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7780540,
+    "qs_pg:gn_pop":33,
+    "qs_pg:name":"Zagrad Pri Otoccu",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Novo Mesto",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":529208,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":55850789,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Novo Mesto",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959465,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7780540,
+        "gp:id":55850789,
+        "qs_pg:id":529208,
+        "wd:id":"Q1970637"
+    },
+    "wof:country":"SI",
+    "wof:created":1497298329,
+    "wof:geomhash":"d922a417188fd98cf34f42bb56d8cb9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959465,
+            "locality_id":1125975481,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1125975481,
+    "wof:lastmodified":1531170063,
+    "wof:name":"Zagrad Pri Otoccu",
+    "wof:parent_id":1108959465,
+    "wof:placetype":"locality",
+    "wof:population":38,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.20694,
+    45.85051,
+    15.20694,
+    45.85051
+],
+  "geometry": {"coordinates":[15.20694,45.85051],"type":"Point"}
+}

@@ -1,0 +1,152 @@
+{
+  "id": 85677913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.012475,
+    "geom:area_square_m":107105378.227885,
+    "geom:bbox":"14.7313285656,45.9629828972,14.954467401,46.0729945575",
+    "geom:latitude":46.025699,
+    "geom:longitude":14.845794,
+    "gn:population":14863,
+    "iso:country":"SI",
+    "lbl:latitude":46.036477,
+    "lbl:longitude":14.847484,
+    "mps:latitude":46.036477,
+    "mps:longitude":14.847484,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0644\u064a\u062a\u064a\u062c\u0627"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u010dina Litija"
+    ],
+    "name:deu_x_preferred":[
+        "Litija"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u062a\u06cc\u06cc\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Litija"
+    ],
+    "name:hbs_x_preferred":[
+        "Litija"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Litija"
+    ],
+    "name:ita_x_preferred":[
+        "Litija"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30c6\u30a3\u30e4"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9ac\ud2f0\uc57c"
+    ],
+    "name:nld_x_preferred":[
+        "Litija"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Litija"
+    ],
+    "name:por_x_preferred":[
+        "Litija"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Litija"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0442\u0438\u044f"
+    ],
+    "name:slk_x_preferred":[
+        "Litija"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Litija"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041b\u0438\u0442\u0438\u0458\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u0442\u0456\u044f"
+    ],
+    "name:und_x_preferred":[
+        "Litija"
+    ],
+    "name:vie_x_preferred":[
+        "Litija"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u8482\u4e9e"
+    ],
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"\u0160martno in Litiji",
+    "qs:a1_lc":"SVN-5885",
+    "qs:a1r":"Osrednjeslovenska",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":149,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196424,
+        "gp:id":55848363,
+        "qs:id":989632,
+        "wd:id":"Q15891",
+        "wk:page":"Municipality of Litija"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"61ff839b252e8ab1c6ababf874633ded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677913
+        }
+    ],
+    "wof:id":85677913,
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1531169556,
+    "wof:name":"\u0160martno in Litiji",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:population":14863,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[
+        1108959745
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.73132856556089,
+    45.96298289724297,
+    14.95446740104978,
+    46.07299455745294
+],
+  "geometry": {"coordinates":[[[14.95446740104978,45.97507518237381],[14.93953291201433,45.96618683545415],[14.92728559725253,45.96298289724297],[14.90558149568955,45.97290477203768],[14.87746951680481,46.00210195654012],[14.8714233737897,46.00525421790786],[14.86568729003648,46.00644277631312],[14.86367190933117,46.00432404192105],[14.86289676297525,46.00078420692569],[14.85592044397333,45.99998322214805],[14.84305301338588,46.00062917729474],[14.81091027219134,46.00776052502829],[14.78140302932638,46.00853567228353],[14.77520185668038,46.00628774758155],[14.77272138798173,46.00453074839538],[14.74962202333774,46.00295461726182],[14.74776167226344,46.02261749879858],[14.7513273447812,46.02814687787617],[14.74869184735093,46.03421885841362],[14.74373090995357,46.04018748616363],[14.73752973820689,46.04489004204186],[14.73132856556089,46.0506778017392],[14.73318891843388,46.05383006400632],[14.73318891843388,46.0581192078352],[14.73613447422667,46.06561229077465],[14.75185068995745,46.06634254836996],[14.80580588033718,46.05969053838771],[14.84423971379181,46.07299455745294],[14.86567396747967,46.0700381090715],[14.88932555722874,46.05451675304579],[14.91297714787714,46.03308249935793],[14.935889625306,46.01830025565232],[14.94993275759072,45.99390955358308],[14.95446740104978,45.97507518237381]]],"type":"Polygon"}
+}

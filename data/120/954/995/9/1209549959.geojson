@@ -1,0 +1,68 @@
+{
+  "id": 1209549959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7075,46.54778,15.7075,46.54778",
+    "geom:latitude":46.54778,
+    "geom:longitude":15.7075,
+    "gn:admin1_code":"J2",
+    "gn:asciiname":"Zrkovci",
+    "gn:country_code":"SI",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186341,
+    "gn:latitude":46.54778,
+    "gn:longitude":15.7075,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Zrkovci",
+    "gn:population":629,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zrkorci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186341,
+        "wk:page":"Zrkovci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f8ca840300eb108a87d46bc5000e043e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209549959
+        }
+    ],
+    "wof:id":1209549959,
+    "wof:lastmodified":1537700166,
+    "wof:name":"Zrkovci",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":629,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7075,
+    46.54778,
+    15.7075,
+    46.54778
+],
+  "geometry": {"coordinates":[15.7075,46.54778],"type":"Point"}
+}

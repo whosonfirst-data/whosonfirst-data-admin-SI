@@ -1,0 +1,71 @@
+{
+  "id": 1343692515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.70403,45.74113,14.70403,45.74113",
+    "geom:latitude":45.74113,
+    "geom:longitude":14.70403,
+    "gn:admin1_code":"L1",
+    "gn:asciiname":"Sajevec",
+    "gn:country_code":"SI",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987472,
+    "gn:latitude":45.74113,
+    "gn:longitude":14.70403,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Sajevec",
+    "gn:population":145,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959599,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987472,
+        "wk:page":"Sajevec"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9250772cb7ca06bc13b2e1d532746f01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959599,
+            "locality_id":1343692515,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1343692515,
+    "wof:lastmodified":1537573481,
+    "wof:name":"Sajevec",
+    "wof:parent_id":1108959599,
+    "wof:placetype":"locality",
+    "wof:population":145,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.70403,
+    45.74113,
+    14.70403,
+    45.74113
+],
+  "geometry": {"coordinates":[14.70403,45.74113],"type":"Point"}
+}

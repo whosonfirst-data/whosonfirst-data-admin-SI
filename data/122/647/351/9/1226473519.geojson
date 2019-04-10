@@ -1,0 +1,71 @@
+{
+  "id": 1226473519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.39014,45.94271,15.39014,45.94271",
+    "geom:latitude":45.94271,
+    "geom:longitude":15.39014,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Pijana Gora",
+    "gn:country_code":"SI",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989211,
+    "gn:latitude":45.94271,
+    "gn:longitude":15.39014,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Pijana Gora",
+    "gn:population":13,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989211,
+        "wk:page":"Pijana_Gora"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8aee09f1fb7eab4702a92ba3f09d901f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1226473519,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1226473519,
+    "wof:lastmodified":1537573535,
+    "wof:name":"Pijana Gora",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":13,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.39014,
+    45.94271,
+    15.39014,
+    45.94271
+],
+  "geometry": {"coordinates":[15.39014,45.94271],"type":"Point"}
+}

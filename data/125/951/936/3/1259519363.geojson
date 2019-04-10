@@ -1,0 +1,74 @@
+{
+  "id": 1259519363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.61161,46.33838,15.61161,46.33838",
+    "geom:latitude":46.33838,
+    "geom:longitude":15.61161,
+    "gn:admin1_code":"L8",
+    "gn:asciiname":"Kocno ob Loznici",
+    "gn:country_code":"SI",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987340,
+    "gn:latitude":46.33838,
+    "gn:longitude":15.61161,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ko\u010dno ob Lo\u017enici",
+    "gn:population":170,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ko\u010dno ob Lo\u017enici"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959641,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987340,
+        "wk:page":"Ko%C4%8Dno_ob_Lo%C5%BEnici"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d0385bdf1310b6402c24b38173c07d7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959641,
+            "locality_id":1259519363,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1259519363,
+    "wof:lastmodified":1537700284,
+    "wof:name":"Kocno ob Loznici",
+    "wof:parent_id":1108959641,
+    "wof:placetype":"locality",
+    "wof:population":170,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.61161,
+    46.33838,
+    15.61161,
+    46.33838
+],
+  "geometry": {"coordinates":[15.61161,46.33838],"type":"Point"}
+}

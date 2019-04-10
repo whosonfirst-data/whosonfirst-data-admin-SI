@@ -1,0 +1,71 @@
+{
+  "id": 1209850681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.8007,46.00212,14.8007,46.00212",
+    "geom:latitude":46.00212,
+    "geom:longitude":14.8007,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Planina",
+    "gn:country_code":"SI",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989291,
+    "gn:latitude":46.00212,
+    "gn:longitude":14.8007,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Planina",
+    "gn:population":9,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959583,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989291,
+        "wk:page":"Planina%2C_Ivan%C4%8Dna_Gorica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2a66983f5c6a992c1dced0304ae7cc34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959583,
+            "locality_id":1209850681,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1209850681,
+    "wof:lastmodified":1537573537,
+    "wof:name":"Planina",
+    "wof:parent_id":1108959583,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.8007,
+    46.00212,
+    14.8007,
+    46.00212
+],
+  "geometry": {"coordinates":[14.8007,46.00212],"type":"Point"}
+}

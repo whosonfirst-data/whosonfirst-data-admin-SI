@@ -1,0 +1,75 @@
+{
+  "id": 1309891175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.6459,46.0031,15.6459,46.0031",
+    "geom:latitude":46.0031,
+    "geom:longitude":15.6459,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Pisece",
+    "gn:country_code":"SI",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193320,
+    "gn:latitude":46.0031,
+    "gn:longitude":15.6459,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Pi\u0161ece",
+    "gn:population":345,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Piscchalz",
+        "Pi\u0161ece"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193320,
+        "wk:page":"Pi%C5%A1ece"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8651a9cdcbeeba4b3a15f5f19ff4584b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1309891175,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1309891175,
+    "wof:lastmodified":1537700210,
+    "wof:name":"Pisece",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:population":345,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.6459,
+    46.0031,
+    15.6459,
+    46.0031
+],
+  "geometry": {"coordinates":[15.6459,46.0031],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1225878475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.47931,46.0335,15.47931,46.0335",
+    "geom:latitude":46.0335,
+    "geom:longitude":15.47931,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Restanj",
+    "gn:cc2":"SI",
+    "gn:country_code":"SI",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191709,
+    "gn:latitude":46.0335,
+    "gn:longitude":15.47931,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Re\u0161tanj",
+    "gn:population":242,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Reichenstein"
+    ],
+    "name:und_x_variant":[
+        "Ra\u0161tanj"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191709,
+        "wk:page":"Re%C5%A1tanj"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5cf867e09c219cce6f2d812dc14d1707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1225878475,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1225878475,
+    "wof:lastmodified":1537700200,
+    "wof:name":"Restanj",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":242,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.47931,
+    46.0335,
+    15.47931,
+    46.0335
+],
+  "geometry": {"coordinates":[15.47931,46.0335],"type":"Point"}
+}

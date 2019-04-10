@@ -1,0 +1,67 @@
+{
+  "id": 1310143945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.72967,45.93578,13.72967,45.93578",
+    "geom:latitude":45.93578,
+    "geom:longitude":13.72967,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Otava",
+    "gn:country_code":"SI",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10859152,
+    "gn:latitude":45.93578,
+    "gn:longitude":13.72967,
+    "gn:modification_date":"2015-10-21",
+    "gn:name":"Otava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959487,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10859152
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"508b8e1010b941f9ebda1a926483a149",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959487,
+            "locality_id":1310143945,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1310143945,
+    "wof:lastmodified":1536941672,
+    "wof:name":"Otava",
+    "wof:parent_id":1108959487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.72967,
+    45.93578,
+    13.72967,
+    45.93578
+],
+  "geometry": {"coordinates":[13.72967,45.93578],"type":"Point"}
+}

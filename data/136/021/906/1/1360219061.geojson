@@ -1,0 +1,81 @@
+{
+  "id": 1360219061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.14917,45.7775,14.14917,45.7775",
+    "geom:latitude":45.7775,
+    "geom:longitude":14.14917,
+    "gn:admin1_code":"94",
+    "gn:asciiname":"Hrasce",
+    "gn:country_code":"SI",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199321,
+    "gn:latitude":45.7775,
+    "gn:longitude":14.14917,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Hra\u0161\u010de",
+    "gn:population":429,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Hra\u0161e"
+    ],
+    "name:slv_x_preferred":[
+        "Hra\u0161e"
+    ],
+    "name:und_x_variant":[
+        "Crastie",
+        "Hra\u0161\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959559,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199321,
+        "wk:page":"Hra%C5%A1%C4%8De%2C_Postojna"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"74bfe22e24511f1238723b6c33190793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959559,
+            "locality_id":1360219061,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1360219061,
+    "wof:lastmodified":1537700239,
+    "wof:name":"Hrasce",
+    "wof:parent_id":1108959559,
+    "wof:placetype":"locality",
+    "wof:population":429,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.14917,
+    45.7775,
+    14.14917,
+    45.7775
+],
+  "geometry": {"coordinates":[14.14917,45.7775],"type":"Point"}
+}

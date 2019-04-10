@@ -1,0 +1,71 @@
+{
+  "id": 1327061095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.82686,45.84032,13.82686,45.84032",
+    "geom:latitude":45.84032,
+    "geom:longitude":13.82686,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Lisjaki",
+    "gn:country_code":"SI",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988562,
+    "gn:latitude":45.84032,
+    "gn:longitude":13.82686,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Lisjaki",
+    "gn:population":43,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959539,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988562,
+        "wk:page":"Lisjaki"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f3e8ee82409a584f79327cbbbe584d39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959539,
+            "locality_id":1327061095,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1327061095,
+    "wof:lastmodified":1537573515,
+    "wof:name":"Lisjaki",
+    "wof:parent_id":1108959539,
+    "wof:placetype":"locality",
+    "wof:population":43,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.82686,
+    45.84032,
+    13.82686,
+    45.84032
+],
+  "geometry": {"coordinates":[13.82686,45.84032],"type":"Point"}
+}

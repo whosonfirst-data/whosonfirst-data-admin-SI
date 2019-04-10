@@ -1,0 +1,68 @@
+{
+  "id": 1225907911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0953,45.56172,15.0953,45.56172",
+    "geom:latitude":45.56172,
+    "geom:longitude":15.0953,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Miklarji",
+    "gn:country_code":"SI",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989421,
+    "gn:latitude":45.56172,
+    "gn:longitude":15.0953,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Miklarji",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959699,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989421,
+        "wk:page":"Miklarji"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"390c62088d0684f0b70d4b4c1e2afdca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959699,
+            "locality_id":1225907911,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1225907911,
+    "wof:lastmodified":1537573542,
+    "wof:name":"Miklarji",
+    "wof:parent_id":1108959699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0953,
+    45.56172,
+    15.0953,
+    45.56172
+],
+  "geometry": {"coordinates":[15.0953,45.56172],"type":"Point"}
+}

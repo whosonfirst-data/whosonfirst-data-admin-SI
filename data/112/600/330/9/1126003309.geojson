@@ -1,0 +1,101 @@
+{
+  "id": 1126003309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.332079,46.45675,15.332079,46.45675",
+    "geom:latitude":46.45675,
+    "geom:longitude":15.332079,
+    "gn:gn_country":null,
+    "iso:country":"SI",
+    "lbl:latitude":46.45675,
+    "lbl:longitude":15.332079,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Rogla"
+    ],
+    "name:dut_x_preferred":[
+        "Rogla"
+    ],
+    "name:eng_x_preferred":[
+        "Rogla"
+    ],
+    "name:hrv_x_preferred":[
+        "Rogla"
+    ],
+    "name:rum_x_preferred":[
+        "Rogla"
+    ],
+    "name:slv_x_preferred":[
+        "Rogla"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Rogla",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Slovenske Konjice",
+    "qs_pg:photos":135,
+    "qs_pg:photos_1k":27,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":135,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":47746,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":55850985,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Slovenske Konjice",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959671,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55850985,
+        "qs_pg:id":47746,
+        "wd:id":"Q16832848"
+    },
+    "wof:country":"SI",
+    "wof:created":1497299783,
+    "wof:geomhash":"63ee849f5815c839feb1496fa3bfeb15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959671,
+            "locality_id":1126003309,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1126003309,
+    "wof:lastmodified":1531170668,
+    "wof:name":"Rogla",
+    "wof:parent_id":1108959671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.332079,
+    46.45675,
+    15.332079,
+    46.45675
+],
+  "geometry": {"coordinates":[15.332079,46.45675],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1260016679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.33333,45.98333,15.33333,45.98333",
+    "geom:latitude":45.98333,
+    "geom:longitude":15.33333,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Gornje Orle",
+    "gn:country_code":"SI",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200105,
+    "gn:latitude":45.98333,
+    "gn:longitude":15.33333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Gornje Orle",
+    "gn:population":50,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gornje Orlje",
+        "Gornje Orle"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200105,
+        "wk:page":"Gornje_Orle"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fc12f36006b930823b333ba62089492c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1260016679,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1260016679,
+    "wof:lastmodified":1537700243,
+    "wof:name":"Gornje Orle",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":50,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.33333,
+    45.98333,
+    15.33333,
+    45.98333
+],
+  "geometry": {"coordinates":[15.33333,45.98333],"type":"Point"}
+}

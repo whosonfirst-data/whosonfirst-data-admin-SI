@@ -1,0 +1,77 @@
+{
+  "id": 1360316741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3,45.96667,15.3,45.96667",
+    "geom:latitude":45.96667,
+    "geom:longitude":15.3,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Velika Hubajnica",
+    "gn:country_code":"SI",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188235,
+    "gn:latitude":45.96667,
+    "gn:longitude":15.3,
+    "gn:modification_date":"2015-11-30",
+    "gn:name":"Velika Hubajnica",
+    "gn:population":25,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Velika Hubanjica"
+    ],
+    "name:slv_x_preferred":[
+        "Velika Hubanjica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188235,
+        "wk:page":"Velika_Hubajnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b52cb3d66cb35f94d220235b09176eae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1360316741,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1360316741,
+    "wof:lastmodified":1537700178,
+    "wof:name":"Velika Hubajnica",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":25,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3,
+    45.96667,
+    15.3,
+    45.96667
+],
+  "geometry": {"coordinates":[15.3,45.96667],"type":"Point"}
+}

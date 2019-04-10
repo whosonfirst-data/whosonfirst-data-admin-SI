@@ -1,0 +1,71 @@
+{
+  "id": 1343592313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.93441,46.12303,14.93441,46.12303",
+    "geom:latitude":46.12303,
+    "geom:longitude":14.93441,
+    "gn:admin1_code":"E7",
+    "gn:asciiname":"Borje",
+    "gn:country_code":"SI",
+    "gn:dem":727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988630,
+    "gn:latitude":46.12303,
+    "gn:longitude":14.93441,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Borje",
+    "gn:population":40,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959683,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988630,
+        "wk:page":"Borje%2C_Zagorje_ob_Savi"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e3e123d40bc0fb5d18f744d106bfe61c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959683,
+            "locality_id":1343592313,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1343592313,
+    "wof:lastmodified":1537573518,
+    "wof:name":"Borje",
+    "wof:parent_id":1108959683,
+    "wof:placetype":"locality",
+    "wof:population":40,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.93441,
+    46.12303,
+    14.93441,
+    46.12303
+],
+  "geometry": {"coordinates":[14.93441,46.12303],"type":"Point"}
+}

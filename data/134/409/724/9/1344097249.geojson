@@ -1,0 +1,70 @@
+{
+  "id": 1344097249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.05158,45.60961,14.05158,45.60961",
+    "geom:latitude":45.60961,
+    "geom:longitude":14.05158,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Ostrovica",
+    "gn:country_code":"SI",
+    "gn:dem":673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989107,
+    "gn:latitude":45.60961,
+    "gn:longitude":14.05158,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ostrovica",
+    "gn:population":17,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959549,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989107
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e224d1f1bb9f779b5d58fad88ef19a16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959549,
+            "locality_id":1344097249,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1344097249,
+    "wof:lastmodified":1536821622,
+    "wof:name":"Ostrovica",
+    "wof:parent_id":1108959549,
+    "wof:placetype":"locality",
+    "wof:population":17,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.05158,
+    45.60961,
+    14.05158,
+    45.60961
+],
+  "geometry": {"coordinates":[14.05158,45.60961],"type":"Point"}
+}

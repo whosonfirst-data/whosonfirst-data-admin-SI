@@ -1,0 +1,74 @@
+{
+  "id": 1310139687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.98686,45.9198,14.98686,45.9198",
+    "geom:latitude":45.9198,
+    "geom:longitude":14.98686,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Gorenja Nemska Vas",
+    "gn:country_code":"SI",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989507,
+    "gn:latitude":45.9198,
+    "gn:longitude":14.98686,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Gorenja Nem\u0161ka Vas",
+    "gn:population":114,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gorenja Nem\u0161ka Vas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959839,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989507,
+        "wk:page":"Gorenja_Nem%C5%A1ka_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b9c04fde0c0ecf16cb04a699cf36cb56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959839,
+            "locality_id":1310139687,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1310139687,
+    "wof:lastmodified":1537700327,
+    "wof:name":"Gorenja Nemska Vas",
+    "wof:parent_id":1108959839,
+    "wof:placetype":"locality",
+    "wof:population":114,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.98686,
+    45.9198,
+    14.98686,
+    45.9198
+],
+  "geometry": {"coordinates":[14.98686,45.9198],"type":"Point"}
+}

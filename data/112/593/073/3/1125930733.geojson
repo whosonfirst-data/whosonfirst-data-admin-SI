@@ -1,0 +1,130 @@
+{
+  "id": 1125930733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.25111,46.6325,16.25111,46.6325",
+    "geom:latitude":46.6325,
+    "geom:longitude":16.25111,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1006,
+    "gn:population":1027,
+    "iso:country":"SI",
+    "lbl:latitude":46.6325,
+    "lbl:longitude":16.25111,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Gan\u010dani"
+    ],
+    "name:dut_x_preferred":[
+        "Gan\u010dani"
+    ],
+    "name:eng_x_preferred":[
+        "Gan\u010dani"
+    ],
+    "name:epo_x_preferred":[
+        "Gan\u010dani"
+    ],
+    "name:hrv_x_preferred":[
+        "Gan\u010dani"
+    ],
+    "name:hun_x_preferred":[
+        "Lendvar\u00f3zsav\u00f6lgy"
+    ],
+    "name:ita_x_preferred":[
+        "Gan\u010dani"
+    ],
+    "name:pol_x_preferred":[
+        "Gan\u010dani"
+    ],
+    "name:rum_x_preferred":[
+        "Gan\u010dani"
+    ],
+    "name:sco_x_preferred":[
+        "Gan\u010dani"
+    ],
+    "name:slv_x_preferred":[
+        "Gan\u010dani"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u043d\u0447\u0430\u043d\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Lendvar\u00f3zsav\u00f6lgy"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3200721,
+    "qs_pg:gn_pop":1006,
+    "qs_pg:name":"Gan\u010dani",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Murska Sobota",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":13,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1270105,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":530013,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Murska Sobota",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959517,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200721,
+        "gp:id":530013,
+        "qs_pg:id":1270105,
+        "wd:id":"Q519824"
+    },
+    "wof:country":"SI",
+    "wof:created":1497296796,
+    "wof:geomhash":"b41351be0f9d06dcdb26042162bf4308",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959517,
+            "locality_id":1125930733,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1125930733,
+    "wof:lastmodified":1531170196,
+    "wof:name":"Gan\u010dani",
+    "wof:parent_id":1108959517,
+    "wof:placetype":"locality",
+    "wof:population":1027,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.25111,
+    46.6325,
+    16.25111,
+    46.6325
+],
+  "geometry": {"coordinates":[16.25111,46.6325],"type":"Point"}
+}

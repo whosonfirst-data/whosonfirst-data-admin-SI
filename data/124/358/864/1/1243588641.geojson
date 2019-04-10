@@ -1,0 +1,71 @@
+{
+  "id": 1243588641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.74492,46.25106,15.74492,46.25106",
+    "geom:latitude":46.25106,
+    "geom:longitude":15.74492,
+    "gn:admin1_code":"A8",
+    "gn:asciiname":"Sv. Jurij",
+    "gn:country_code":"SI",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987564,
+    "gn:latitude":46.25106,
+    "gn:longitude":15.74492,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Sv. Jurij",
+    "gn:population":131,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959609,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987564,
+        "wk:page":"Sveti_Jurij%2C_Rogatec"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4ff0ca367d87bdfa2414b5d2310b4a4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959609,
+            "locality_id":1243588641,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1243588641,
+    "wof:lastmodified":1537573484,
+    "wof:name":"Sv. Jurij",
+    "wof:parent_id":1108959609,
+    "wof:placetype":"locality",
+    "wof:population":131,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.74492,
+    46.25106,
+    15.74492,
+    46.25106
+],
+  "geometry": {"coordinates":[15.74492,46.25106],"type":"Point"}
+}

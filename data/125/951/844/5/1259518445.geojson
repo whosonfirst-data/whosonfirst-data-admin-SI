@@ -1,0 +1,71 @@
+{
+  "id": 1259518445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.03333,46.18333,15.03333,46.18333",
+    "geom:latitude":46.18333,
+    "geom:longitude":15.03333,
+    "gn:admin1_code":"D3",
+    "gn:asciiname":"Knezdol",
+    "gn:country_code":"SI",
+    "gn:dem":599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198001,
+    "gn:latitude":46.18333,
+    "gn:longitude":15.03333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Knezdol",
+    "gn:population":245,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959911,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198001,
+        "wk:page":"Knezdol"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"01691be66e9e82b40e797359cafe29bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959911,
+            "locality_id":1259518445,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1259518445,
+    "wof:lastmodified":1537573430,
+    "wof:name":"Knezdol",
+    "wof:parent_id":1108959911,
+    "wof:placetype":"locality",
+    "wof:population":245,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.03333,
+    46.18333,
+    15.03333,
+    46.18333
+],
+  "geometry": {"coordinates":[15.03333,46.18333],"type":"Point"}
+}

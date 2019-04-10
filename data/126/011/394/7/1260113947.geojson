@@ -1,0 +1,74 @@
+{
+  "id": 1260113947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.77166,45.58468,13.77166,45.58468",
+    "geom:latitude":45.58468,
+    "geom:longitude":13.77166,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Premancan",
+    "gn:country_code":"SI",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987322,
+    "gn:latitude":45.58468,
+    "gn:longitude":13.77166,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Preman\u010dan",
+    "gn:population":175,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Preman\u010dan"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959527,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987322,
+        "wk:page":"Preman%C4%8Dan"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"494a5b00d974bb0beb6f17aad6f20212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959527,
+            "locality_id":1260113947,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1260113947,
+    "wof:lastmodified":1537700284,
+    "wof:name":"Premancan",
+    "wof:parent_id":1108959527,
+    "wof:placetype":"locality",
+    "wof:population":175,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.77166,
+    45.58468,
+    13.77166,
+    45.58468
+],
+  "geometry": {"coordinates":[13.77166,45.58468],"type":"Point"}
+}

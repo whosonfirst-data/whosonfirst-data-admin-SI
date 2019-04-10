@@ -1,0 +1,73 @@
+{
+  "id": 1343906475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.802,46.06984,13.802,46.06984",
+    "geom:latitude":46.06984,
+    "geom:longitude":13.802,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Podcepovan",
+    "gn:country_code":"SI",
+    "gn:dem":678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10858868,
+    "gn:latitude":46.06984,
+    "gn:longitude":13.802,
+    "gn:modification_date":"2015-10-15",
+    "gn:name":"Pod\u010depovan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Pod\u010depovna"
+    ],
+    "name:slv_x_preferred":[
+        "Pod\u010depovna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959487,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10858868
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"852c7136cdaa10a33f5c3484d490972a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959487,
+            "locality_id":1343906475,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1343906475,
+    "wof:lastmodified":1537700337,
+    "wof:name":"Podcepovan",
+    "wof:parent_id":1108959487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.802,
+    46.06984,
+    13.802,
+    46.06984
+],
+  "geometry": {"coordinates":[13.802,46.06984],"type":"Point"}
+}

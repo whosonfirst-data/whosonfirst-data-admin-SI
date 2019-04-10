@@ -1,0 +1,74 @@
+{
+  "id": 1310036993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.76498,45.95102,14.76498,45.95102",
+    "geom:latitude":45.95102,
+    "geom:longitude":14.76498,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Podsmreka pri Visnji Gori",
+    "gn:country_code":"SI",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989596,
+    "gn:latitude":45.95102,
+    "gn:longitude":14.76498,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Podsmreka pri Vi\u0161nji Gori",
+    "gn:population":33,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Podsmreka pri Vi\u0161nji Gori"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959583,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989596,
+        "wk:page":"Podsmreka_pri_Vi%C5%A1nji_Gori"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2982c798a89d09026e1c70501bef18ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959583,
+            "locality_id":1310036993,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1310036993,
+    "wof:lastmodified":1537700329,
+    "wof:name":"Podsmreka pri Visnji Gori",
+    "wof:parent_id":1108959583,
+    "wof:placetype":"locality",
+    "wof:population":33,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.76498,
+    45.95102,
+    14.76498,
+    45.95102
+],
+  "geometry": {"coordinates":[14.76498,45.95102],"type":"Point"}
+}

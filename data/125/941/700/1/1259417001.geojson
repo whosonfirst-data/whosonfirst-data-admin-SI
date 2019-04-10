@@ -1,0 +1,74 @@
+{
+  "id": 1259417001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.16872,45.84596,15.16872,45.84596",
+    "geom:latitude":45.84596,
+    "geom:longitude":15.16872,
+    "gn:admin1_code":"J7",
+    "gn:asciiname":"Zdinja Vas",
+    "gn:country_code":"SI",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987244,
+    "gn:latitude":45.84596,
+    "gn:longitude":15.16872,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u017ddinja Vas",
+    "gn:population":207,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017ddinja Vas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959465,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987244,
+        "wk:page":"%C5%BDdinja_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"854da96f3385b647d2f7b2c52f145dbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959465,
+            "locality_id":1259417001,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1259417001,
+    "wof:lastmodified":1537700282,
+    "wof:name":"Zdinja Vas",
+    "wof:parent_id":1108959465,
+    "wof:placetype":"locality",
+    "wof:population":207,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.16872,
+    45.84596,
+    15.16872,
+    45.84596
+],
+  "geometry": {"coordinates":[15.16872,45.84596],"type":"Point"}
+}

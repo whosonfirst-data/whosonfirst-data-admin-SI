@@ -1,0 +1,71 @@
+{
+  "id": 1242909965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.03126,46.55034,16.03126,46.55034",
+    "geom:latitude":46.55034,
+    "geom:longitude":16.03126,
+    "gn:admin1_code":"D1",
+    "gn:asciiname":"Stara Gora",
+    "gn:country_code":"SI",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988119,
+    "gn:latitude":46.55034,
+    "gn:longitude":16.03126,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Stara Gora",
+    "gn:population":72,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959591,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988119,
+        "wk:page":"Stara_Gora%2C_Sveti_Jurij_ob_%C5%A0%C4%8Davnici"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"13614cdc536787740750f207449a3a7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959591,
+            "locality_id":1242909965,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1242909965,
+    "wof:lastmodified":1537573502,
+    "wof:name":"Stara Gora",
+    "wof:parent_id":1108959591,
+    "wof:placetype":"locality",
+    "wof:population":72,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.03126,
+    46.55034000000001,
+    16.03126,
+    46.55034000000001
+],
+  "geometry": {"coordinates":[16.03126,46.55034000000001],"type":"Point"}
+}

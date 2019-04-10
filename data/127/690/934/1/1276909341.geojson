@@ -1,0 +1,71 @@
+{
+  "id": 1276909341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.50972,46.26639,15.50972,46.26639",
+    "geom:latitude":46.26639,
+    "geom:longitude":15.50972,
+    "gn:admin1_code":"C5",
+    "gn:asciiname":"Bobovo pri Ponikvi",
+    "gn:country_code":"SI",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217079,
+    "gn:latitude":46.26639,
+    "gn:longitude":15.50972,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Bobovo pri Ponikvi",
+    "gn:population":71,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959607,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217079,
+        "wk:page":"Bobovo_pri_Ponikvi"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"aab7c754ab23ccaffeaba2e53ad8c0ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959607,
+            "locality_id":1276909341,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1276909341,
+    "wof:lastmodified":1537573457,
+    "wof:name":"Bobovo pri Ponikvi",
+    "wof:parent_id":1108959607,
+    "wof:placetype":"locality",
+    "wof:population":71,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.50972,
+    46.26639,
+    15.50972,
+    46.26639
+],
+  "geometry": {"coordinates":[15.50972,46.26639],"type":"Point"}
+}

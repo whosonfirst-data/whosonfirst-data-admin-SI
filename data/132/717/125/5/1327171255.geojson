@@ -1,0 +1,74 @@
+{
+  "id": 1327171255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.40865,46.16989,15.40865,46.16989",
+    "geom:latitude":46.16989,
+    "geom:longitude":15.40865,
+    "gn:admin1_code":"L7",
+    "gn:asciiname":"Trska Gorca",
+    "gn:country_code":"SI",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988584,
+    "gn:latitude":46.16989,
+    "gn:longitude":15.40865,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Tr\u0161ka Gorca",
+    "gn:population":42,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tr\u0161ka Gorca"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959791,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988584,
+        "wk:page":"Tr%C5%A1ka_Gorca"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6c1b285bd104c544efcfd7b54f84e7c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959791,
+            "locality_id":1327171255,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1327171255,
+    "wof:lastmodified":1537700309,
+    "wof:name":"Trska Gorca",
+    "wof:parent_id":1108959791,
+    "wof:placetype":"locality",
+    "wof:population":42,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.40865,
+    46.16989,
+    15.40865,
+    46.16989
+],
+  "geometry": {"coordinates":[15.40865,46.16989],"type":"Point"}
+}

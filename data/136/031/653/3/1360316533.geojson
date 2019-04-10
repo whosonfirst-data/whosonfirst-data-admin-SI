@@ -1,0 +1,71 @@
+{
+  "id": 1360316533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.76346,45.97001,14.76346,45.97001",
+    "geom:latitude":45.97001,
+    "geom:longitude":14.76346,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Kamno Brdo",
+    "gn:country_code":"SI",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989070,
+    "gn:latitude":45.97001,
+    "gn:longitude":14.76346,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kamno Brdo",
+    "gn:population":19,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959583,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989070,
+        "wk:page":"Kamno_Brdo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c742940735ed20882367788faed4f5e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959583,
+            "locality_id":1360316533,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1360316533,
+    "wof:lastmodified":1537573531,
+    "wof:name":"Kamno Brdo",
+    "wof:parent_id":1108959583,
+    "wof:placetype":"locality",
+    "wof:population":19,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.76346,
+    45.97001,
+    14.76346,
+    45.97001
+],
+  "geometry": {"coordinates":[14.76346,45.97001],"type":"Point"}
+}

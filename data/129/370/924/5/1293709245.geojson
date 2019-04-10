@@ -1,0 +1,71 @@
+{
+  "id": 1293709245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.62278,45.984,15.62278,45.984",
+    "geom:latitude":45.984,
+    "geom:longitude":15.62278,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Blatno",
+    "gn:country_code":"SI",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203944,
+    "gn:latitude":45.984,
+    "gn:longitude":15.62278,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Blatno",
+    "gn:population":156,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203944,
+        "wk:page":"Blatno%2C_Bre%C5%BEice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6769ad00e285676be63b151adda7aee6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1293709245,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1293709245,
+    "wof:lastmodified":1537573452,
+    "wof:name":"Blatno",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:population":156,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.62278,
+    45.984,
+    15.62278,
+    45.984
+],
+  "geometry": {"coordinates":[15.62278,45.984],"type":"Point"}
+}

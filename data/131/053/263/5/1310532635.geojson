@@ -1,0 +1,75 @@
+{
+  "id": 1310532635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.63333,46.06667,15.63333,46.06667",
+    "geom:latitude":46.06667,
+    "geom:longitude":15.63333,
+    "gn:admin1_code":"F5",
+    "gn:asciiname":"Hrastje ob Bistrici",
+    "gn:country_code":"SI",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199301,
+    "gn:latitude":46.06667,
+    "gn:longitude":15.63333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Hrastje ob Bistrici",
+    "gn:population":148,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hrastje",
+        "Hrastje ob Bistrici"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959915,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199301,
+        "wk:page":"Hrastje_ob_Bistrici"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3e39f3cb56123d9495a4b272cf13fcc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959915,
+            "locality_id":1310532635,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1310532635,
+    "wof:lastmodified":1537700239,
+    "wof:name":"Hrastje ob Bistrici",
+    "wof:parent_id":1108959915,
+    "wof:placetype":"locality",
+    "wof:population":148,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.63333,
+    46.06667,
+    15.63333,
+    46.06667
+],
+  "geometry": {"coordinates":[15.63333,46.06667],"type":"Point"}
+}

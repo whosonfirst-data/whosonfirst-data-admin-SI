@@ -1,0 +1,115 @@
+{
+  "id": 1125928385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.63222,45.89444,13.63222,45.89444",
+    "geom:latitude":45.89444,
+    "geom:longitude":13.63222,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1100,
+    "gn:population":1191,
+    "iso:country":"SI",
+    "lbl:latitude":45.89444,
+    "lbl:longitude":13.63222,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Bilje"
+    ],
+    "name:dut_x_preferred":[
+        "Bilje"
+    ],
+    "name:eng_x_preferred":[
+        "Bilje"
+    ],
+    "name:ita_x_preferred":[
+        "Biglia"
+    ],
+    "name:rum_x_preferred":[
+        "Bilje"
+    ],
+    "name:slv_x_preferred":[
+        "Bilje"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0456\u043b\u0454"
+    ],
+    "name:unk_x_variant":[
+        "Biglia"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3204144,
+    "qs_pg:gn_pop":1100,
+    "qs_pg:name":"Bilje",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Nova Gorica",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":16,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":216480,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":529539,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Nova Gorica",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959481,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204144,
+        "gp:id":529539,
+        "qs_pg:id":216480,
+        "wd:id":"Q2085029"
+    },
+    "wof:country":"SI",
+    "wof:created":1497296723,
+    "wof:geomhash":"f04afaabe35c292813145d8f426da951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959481,
+            "locality_id":1125928385,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1125928385,
+    "wof:lastmodified":1531170230,
+    "wof:name":"Bilje",
+    "wof:parent_id":1108959481,
+    "wof:placetype":"locality",
+    "wof:population":1191,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.63222,
+    45.89444,
+    13.63222,
+    45.89444
+],
+  "geometry": {"coordinates":[13.63222,45.89444],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1327165519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.10167,46.68278,16.10167,46.68278",
+    "geom:latitude":46.68278,
+    "geom:longitude":16.10167,
+    "gn:admin1_code":"M6",
+    "gn:asciiname":"Borejci",
+    "gn:country_code":"SI",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203723,
+    "gn:latitude":46.68278,
+    "gn:longitude":16.10167,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Borejci",
+    "gn:population":248,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Borhida",
+        "Borejci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959519,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203723,
+        "wk:page":"Borejci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1aa462cc25fc0560d57173a6f5bdea2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959519,
+            "locality_id":1327165519,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1327165519,
+    "wof:lastmodified":1537700263,
+    "wof:name":"Borejci",
+    "wof:parent_id":1108959519,
+    "wof:placetype":"locality",
+    "wof:population":248,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.10167,
+    46.68278,
+    16.10167,
+    46.68278
+],
+  "geometry": {"coordinates":[16.10167,46.68278],"type":"Point"}
+}

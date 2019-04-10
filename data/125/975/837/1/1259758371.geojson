@@ -1,0 +1,77 @@
+{
+  "id": 1259758371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.98,45.6775,13.98,45.6775",
+    "geom:latitude":45.6775,
+    "geom:longitude":13.98,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Dolnje Lezece",
+    "gn:country_code":"SI",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201774,
+    "gn:latitude":45.6775,
+    "gn:longitude":13.98,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Dolnje Le\u017ee\u010de",
+    "gn:population":227,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Lesecce di San Canziano"
+    ],
+    "name:und_x_variant":[
+        "Dolnje Le\u017ee\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959845,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201774,
+        "wk:page":"Dolnje_Le%C5%BEe%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"edbb5cb3b7e50cab065d79e1658e9825",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959845,
+            "locality_id":1259758371,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1259758371,
+    "wof:lastmodified":1537700251,
+    "wof:name":"Dolnje Lezece",
+    "wof:parent_id":1108959845,
+    "wof:placetype":"locality",
+    "wof:population":227,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.98,
+    45.6775,
+    13.98,
+    45.6775
+],
+  "geometry": {"coordinates":[13.98,45.6775],"type":"Point"}
+}

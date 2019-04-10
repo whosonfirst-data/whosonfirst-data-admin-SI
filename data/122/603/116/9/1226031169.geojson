@@ -1,0 +1,71 @@
+{
+  "id": 1226031169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.43097,45.80831,14.43097,45.80831",
+    "geom:latitude":45.80831,
+    "geom:longitude":14.43097,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Mahneti",
+    "gn:country_code":"SI",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989083,
+    "gn:latitude":45.80831,
+    "gn:longitude":14.43097,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Mahneti",
+    "gn:population":18,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959905,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989083,
+        "wk:page":"Mahneti"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ec4d13990bdb094e620c8a0a36c336f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959905,
+            "locality_id":1226031169,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1226031169,
+    "wof:lastmodified":1537573531,
+    "wof:name":"Mahneti",
+    "wof:parent_id":1108959905,
+    "wof:placetype":"locality",
+    "wof:population":18,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.43097,
+    45.80831,
+    14.43097,
+    45.80831
+],
+  "geometry": {"coordinates":[14.43097,45.80831],"type":"Point"}
+}

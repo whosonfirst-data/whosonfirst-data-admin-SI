@@ -1,0 +1,74 @@
+{
+  "id": 1276588421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.9126,45.4561,13.9126,45.4561",
+    "geom:latitude":45.4561,
+    "geom:longitude":13.9126,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Marsici",
+    "gn:country_code":"SI",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989071,
+    "gn:latitude":45.4561,
+    "gn:longitude":13.9126,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Mar\u0161i\u010di",
+    "gn:population":19,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mar\u0161i\u010di"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959527,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989071,
+        "wk:page":"Mar%C5%A1i%C4%8Di%2C_Koper"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"28f7c156ea4cda7b14502eba92a493e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959527,
+            "locality_id":1276588421,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1276588421,
+    "wof:lastmodified":1537700319,
+    "wof:name":"Marsici",
+    "wof:parent_id":1108959527,
+    "wof:placetype":"locality",
+    "wof:population":19,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.9126,
+    45.4561,
+    13.9126,
+    45.4561
+],
+  "geometry": {"coordinates":[13.9126,45.4561],"type":"Point"}
+}

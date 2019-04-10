@@ -1,0 +1,117 @@
+{
+  "id": 1125934853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.61222,46.17361,14.61222,46.17361",
+    "geom:latitude":46.17361,
+    "geom:longitude":14.61222,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1569,
+    "gn:population":1674,
+    "iso:country":"SI",
+    "lbl:latitude":46.17361,
+    "lbl:longitude":14.61222,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Radomlje"
+    ],
+    "name:dut_x_preferred":[
+        "Radomlje"
+    ],
+    "name:eng_x_preferred":[
+        "Radomlje"
+    ],
+    "name:fre_x_preferred":[
+        "Radomlje"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30c9\u30e0\u30ea\u30a7"
+    ],
+    "name:rum_x_preferred":[
+        "Radomlje"
+    ],
+    "name:slv_x_preferred":[
+        "Radomlje"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0434\u043e\u043c\u043b\u0454"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3192098,
+    "qs_pg:gn_pop":1569,
+    "qs_pg:name":"Radomlje",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Domzale",
+    "qs_pg:photos":1860,
+    "qs_pg:photos_1k":377,
+    "qs_pg:photos_9k":8,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":1860,
+    "qs_pg:photos_sr":15,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1043959,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":531302,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Domzale",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959799,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192098,
+        "gp:id":531302,
+        "qs_pg:id":1043959,
+        "wd:id":"Q2181301"
+    },
+    "wof:country":"SI",
+    "wof:created":1497296932,
+    "wof:geomhash":"db335df37f84b67bb14f285d6090a6ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959799,
+            "locality_id":1125934853,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1125934853,
+    "wof:lastmodified":1531170278,
+    "wof:name":"Radomlje",
+    "wof:parent_id":1108959799,
+    "wof:placetype":"locality",
+    "wof:population":1674,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.61222,
+    46.17361,
+    14.61222,
+    46.17361
+],
+  "geometry": {"coordinates":[14.61222,46.17361],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259468621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.53874,45.8735,15.53874,45.8735",
+    "geom:latitude":45.8735,
+    "geom:longitude":15.53874,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Gorenja Pirosica",
+    "gn:country_code":"SI",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200388,
+    "gn:latitude":45.8735,
+    "gn:longitude":15.53874,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Gorenja Piro\u0161ica",
+    "gn:population":134,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gorenja Piro\u0161ica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200388,
+        "wk:page":"Gorenja_Piro%C5%A1ica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c7154fd53a5fbc5f17d8b9dff5f055e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1259468621,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1259468621,
+    "wof:lastmodified":1537700246,
+    "wof:name":"Gorenja Pirosica",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:population":134,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.53874,
+    45.8735,
+    15.53874,
+    45.8735
+],
+  "geometry": {"coordinates":[15.53874,45.8735],"type":"Point"}
+}

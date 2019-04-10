@@ -1,0 +1,74 @@
+{
+  "id": 1310339327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.81834,46.11213,13.81834,46.11213",
+    "geom:latitude":46.11213,
+    "geom:longitude":13.81834,
+    "gn:admin1_code":"D2",
+    "gn:asciiname":"Roce",
+    "gn:country_code":"SI",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988209,
+    "gn:latitude":46.11213,
+    "gn:longitude":13.81834,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ro\u010de",
+    "gn:population":64,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ro\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959617,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988209,
+        "wk:page":"Ro%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"93b98caa583ae5fb698e60977e5363a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959617,
+            "locality_id":1310339327,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1310339327,
+    "wof:lastmodified":1537700302,
+    "wof:name":"Roce",
+    "wof:parent_id":1108959617,
+    "wof:placetype":"locality",
+    "wof:population":64,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.81834,
+    46.11213,
+    13.81834,
+    46.11213
+],
+  "geometry": {"coordinates":[13.81834,46.11213],"type":"Point"}
+}

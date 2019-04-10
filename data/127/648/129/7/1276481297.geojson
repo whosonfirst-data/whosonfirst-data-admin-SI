@@ -1,0 +1,71 @@
+{
+  "id": 1276481297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.82945,46.38163,15.82945,46.38163",
+    "geom:latitude":46.38163,
+    "geom:longitude":15.82945,
+    "gn:admin1_code":"N2",
+    "gn:asciiname":"Sela",
+    "gn:country_code":"SI",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191148,
+    "gn:latitude":46.38163,
+    "gn:longitude":15.82945,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Sela",
+    "gn:population":194,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959747,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191148,
+        "wk:page":"Sela%2C_Videm"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"12613357ceaea53015dad08c6156a497",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959747,
+            "locality_id":1276481297,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1276481297,
+    "wof:lastmodified":1537573403,
+    "wof:name":"Sela",
+    "wof:parent_id":1108959747,
+    "wof:placetype":"locality",
+    "wof:population":194,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.82945,
+    46.38163,
+    15.82945,
+    46.38163
+],
+  "geometry": {"coordinates":[15.82945,46.38163],"type":"Point"}
+}

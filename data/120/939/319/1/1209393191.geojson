@@ -1,0 +1,65 @@
+{
+  "id": 1209393191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23316,46.31391,15.23316,46.31391",
+    "geom:latitude":46.31391,
+    "geom:longitude":15.23316,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rupe",
+    "gn:country_code":"SI",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988100,
+    "gn:latitude":46.31391,
+    "gn:longitude":15.23316,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Rupe",
+    "gn:population":73,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988100,
+        "wk:page":"Rupe%2C_Celje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"24b81dbb0e33890e4056bf901193161b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209393191
+        }
+    ],
+    "wof:id":1209393191,
+    "wof:lastmodified":1537573501,
+    "wof:name":"Rupe",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":73,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23316,
+    46.31391,
+    15.23316,
+    46.31391
+],
+  "geometry": {"coordinates":[15.23316,46.31391],"type":"Point"}
+}

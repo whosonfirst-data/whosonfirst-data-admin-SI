@@ -1,0 +1,74 @@
+{
+  "id": 1260111485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.06396,46.59188,16.06396,46.59188",
+    "geom:latitude":46.59188,
+    "geom:longitude":16.06396,
+    "gn:admin1_code":"A1",
+    "gn:asciiname":"Murscak",
+    "gn:country_code":"SI",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987370,
+    "gn:latitude":46.59188,
+    "gn:longitude":16.06396,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Mur\u0161\u010dak",
+    "gn:population":164,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mur\u0161\u010dak"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959569,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987370,
+        "wk:page":"Mur%C5%A1%C4%8Dak"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4bd4f1c08023593bc75dd0c25e640226",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959569,
+            "locality_id":1260111485,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1260111485,
+    "wof:lastmodified":1537700285,
+    "wof:name":"Murscak",
+    "wof:parent_id":1108959569,
+    "wof:placetype":"locality",
+    "wof:population":164,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.06396,
+    46.59188,
+    16.06396,
+    46.59188
+],
+  "geometry": {"coordinates":[16.06396,46.59188],"type":"Point"}
+}

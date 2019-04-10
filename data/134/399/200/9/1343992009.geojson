@@ -1,0 +1,74 @@
+{
+  "id": 1343992009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.42957,46.02886,15.42957,46.02886",
+    "geom:latitude":46.02886,
+    "geom:longitude":15.42957,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Kalisovec",
+    "gn:country_code":"SI",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988510,
+    "gn:latitude":46.02886,
+    "gn:longitude":15.42957,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kali\u0161ovec",
+    "gn:population":46,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kali\u0161ovec"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988510,
+        "wk:page":"Kali%C5%A1ovec"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"858a20e695025da228ef40c833496fe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1343992009,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1343992009,
+    "wof:lastmodified":1537700308,
+    "wof:name":"Kalisovec",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":46,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.42957,
+    46.02886,
+    15.42957,
+    46.02886
+],
+  "geometry": {"coordinates":[15.42957,46.02886],"type":"Point"}
+}

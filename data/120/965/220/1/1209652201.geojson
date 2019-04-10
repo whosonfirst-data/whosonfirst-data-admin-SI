@@ -1,0 +1,65 @@
+{
+  "id": 1209652201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.41229,46.01151,15.41229,46.01151",
+    "geom:latitude":46.01151,
+    "geom:longitude":15.41229,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Selce nad Blanco",
+    "gn:country_code":"SI",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989853,
+    "gn:latitude":46.01151,
+    "gn:longitude":15.41229,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Selce nad Blanco",
+    "gn:population":54,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989853,
+        "wk:page":"Selce_nad_Blanco"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"696f6f1302da9fdbb0906a658045689a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209652201
+        }
+    ],
+    "wof:id":1209652201,
+    "wof:lastmodified":1537573554,
+    "wof:name":"Selce nad Blanco",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":54,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.41229,
+    46.01151,
+    15.41229,
+    46.01151
+],
+  "geometry": {"coordinates":[15.41229,46.01151],"type":"Point"}
+}

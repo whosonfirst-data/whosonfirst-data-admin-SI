@@ -1,0 +1,74 @@
+{
+  "id": 1260220539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.51286,46.41592,15.51286,46.41592",
+    "geom:latitude":46.41592,
+    "geom:longitude":15.51286,
+    "gn:admin1_code":"L8",
+    "gn:asciiname":"Turiska Vas na Pohorju",
+    "gn:country_code":"SI",
+    "gn:dem":674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988092,
+    "gn:latitude":46.41592,
+    "gn:longitude":15.51286,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Turi\u0161ka Vas na Pohorju",
+    "gn:population":74,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Turi\u0161ka Vas na Pohorju"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959641,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988092,
+        "wk:page":"Turi%C5%A1ka_Vas_na_Pohorju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a3fc4f471e600832ac7ea05e7f16b587",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959641,
+            "locality_id":1260220539,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1260220539,
+    "wof:lastmodified":1537700299,
+    "wof:name":"Turiska Vas na Pohorju",
+    "wof:parent_id":1108959641,
+    "wof:placetype":"locality",
+    "wof:population":74,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.51286,
+    46.41592,
+    15.51286,
+    46.41592
+],
+  "geometry": {"coordinates":[15.51286,46.41592],"type":"Point"}
+}

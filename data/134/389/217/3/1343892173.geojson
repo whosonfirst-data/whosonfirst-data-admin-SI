@@ -1,0 +1,74 @@
+{
+  "id": 1343892173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.18333,45.9,15.18333,45.9",
+    "geom:latitude":45.9,
+    "geom:longitude":15.18333,
+    "gn:admin1_code":"O7",
+    "gn:asciiname":"Jelsevec",
+    "gn:country_code":"SI",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198669,
+    "gn:latitude":45.9,
+    "gn:longitude":15.18333,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Jel\u0161evec",
+    "gn:population":39,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jel\u0161evec"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959913,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198669,
+        "wk:page":"Jel%C5%A1evec%2C_Mokronog%E2%80%93Trebelno"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f4d32113d7e8f7ba29d8255c662d6609",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959913,
+            "locality_id":1343892173,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1343892173,
+    "wof:lastmodified":1537700236,
+    "wof:name":"Jelsevec",
+    "wof:parent_id":1108959913,
+    "wof:placetype":"locality",
+    "wof:population":39,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.18333,
+    45.9,
+    15.18333,
+    45.9
+],
+  "geometry": {"coordinates":[15.18333,45.9],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243587965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.5168,46.23499,15.5168,46.23499",
+    "geom:latitude":46.23499,
+    "geom:longitude":15.5168,
+    "gn:admin1_code":"C5",
+    "gn:asciiname":"Zastranje",
+    "gn:country_code":"SI",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989620,
+    "gn:latitude":46.23499,
+    "gn:longitude":15.5168,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Zastranje",
+    "gn:population":26,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959607,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989620,
+        "wk:page":"Zastranje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"30253292187044f9b828168afdf52d95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959607,
+            "locality_id":1243587965,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1243587965,
+    "wof:lastmodified":1537573547,
+    "wof:name":"Zastranje",
+    "wof:parent_id":1108959607,
+    "wof:placetype":"locality",
+    "wof:population":26,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.5168,
+    46.23499,
+    15.5168,
+    46.23499
+],
+  "geometry": {"coordinates":[15.5168,46.23499],"type":"Point"}
+}

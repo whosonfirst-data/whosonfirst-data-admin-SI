@@ -1,0 +1,71 @@
+{
+  "id": 1259911435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.2182,46.0773,14.2182,46.0773",
+    "geom:latitude":46.0773,
+    "geom:longitude":14.2182,
+    "gn:admin1_code":"G4",
+    "gn:asciiname":"Rovt",
+    "gn:country_code":"SI",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988356,
+    "gn:latitude":46.0773,
+    "gn:longitude":14.2182,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Rovt",
+    "gn:population":54,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959847,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988356,
+        "wk:page":"Rovt%2C_Dobrova%E2%80%93Polhov_Gradec"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7942a2246c703ea33dff72d15fcd14a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959847,
+            "locality_id":1259911435,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1259911435,
+    "wof:lastmodified":1537573509,
+    "wof:name":"Rovt",
+    "wof:parent_id":1108959847,
+    "wof:placetype":"locality",
+    "wof:population":54,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.2182,
+    46.0773,
+    14.2182,
+    46.0773
+],
+  "geometry": {"coordinates":[14.2182,46.0773],"type":"Point"}
+}

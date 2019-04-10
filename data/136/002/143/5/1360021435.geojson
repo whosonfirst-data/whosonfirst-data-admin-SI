@@ -1,0 +1,74 @@
+{
+  "id": 1360021435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.5874,45.92215,14.5874,45.92215",
+    "geom:latitude":45.92215,
+    "geom:longitude":14.5874,
+    "gn:admin1_code":"C1",
+    "gn:asciiname":"Gradisce",
+    "gn:country_code":"SI",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986874,
+    "gn:latitude":45.92215,
+    "gn:longitude":14.5874,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Gradi\u0161\u010de",
+    "gn:population":752,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gradi\u008a\u010ce"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959891,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986874,
+        "wk:page":"Gradi%C5%A1%C4%8De%2C_%C5%A0kofljica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"dbbf7f8d72662b4782bba349403f7b3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959891,
+            "locality_id":1360021435,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1360021435,
+    "wof:lastmodified":1537700275,
+    "wof:name":"Gradisce",
+    "wof:parent_id":1108959891,
+    "wof:placetype":"locality",
+    "wof:population":752,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.5874,
+    45.92215,
+    14.5874,
+    45.92215
+],
+  "geometry": {"coordinates":[14.5874,45.92215],"type":"Point"}
+}

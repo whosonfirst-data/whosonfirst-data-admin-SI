@@ -1,0 +1,75 @@
+{
+  "id": 1277019867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.65415,46.23972,14.65415,46.23972",
+    "geom:latitude":46.23972,
+    "geom:longitude":14.65415,
+    "gn:admin1_code":"H6",
+    "gn:asciiname":"Hrib pri Kamniku",
+    "gn:country_code":"SI",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199266,
+    "gn:latitude":46.23972,
+    "gn:longitude":14.65415,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Hrib pri Kamniku",
+    "gn:population":66,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hrib",
+        "Hrib pri Kamniku"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959941,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199266,
+        "wk:page":"Hrib_pri_Kamniku"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a3a6c43dff97e0094c99f3df2a085791",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959941,
+            "locality_id":1277019867,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1277019867,
+    "wof:lastmodified":1537700239,
+    "wof:name":"Hrib pri Kamniku",
+    "wof:parent_id":1108959941,
+    "wof:placetype":"locality",
+    "wof:population":66,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.65415,
+    46.23972,
+    14.65415,
+    46.23972
+],
+  "geometry": {"coordinates":[14.65415,46.23972],"type":"Point"}
+}

@@ -1,0 +1,131 @@
+{
+  "id": 101845315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000118,
+    "geom:area_square_m":1007495.667746,
+    "geom:bbox":"15.9233708876,46.3799731555,15.9451926463,46.3988540678",
+    "geom:latitude":46.388018,
+    "geom:longitude":15.932525,
+    "gn:population":462,
+    "iso:country":"SI",
+    "lbl:latitude":46.38662,
+    "lbl:longitude":15.931781,
+    "mps:latitude":46.38662,
+    "mps:longitude":15.931781,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Ob\u010dina Markovci"
+    ],
+    "name:deu_x_preferred":[
+        "Markovci"
+    ],
+    "name:fra_x_preferred":[
+        "Markovci"
+    ],
+    "name:hbs_x_preferred":[
+        "Markovci"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Markovci"
+    ],
+    "name:ita_x_preferred":[
+        "Markovci"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30eb\u30b3\u30d5\u30c4\u30a3"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ub974\ucf54\ube0c\uce58"
+    ],
+    "name:nld_x_preferred":[
+        "Markovci"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Markovci"
+    ],
+    "name:por_x_preferred":[
+        "Markovci"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Markovci"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Markovci"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041c\u0430\u0440\u043a\u043e\u0432\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u043e\u0432\u0446\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Sveti Marko"
+    ],
+    "name:vie_x_preferred":[
+        "Markovci"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"Markovci",
+    "qs:la_lc":"*SI168000",
+    "qs:level":"locality",
+    "qs:loc":"Markovci",
+    "qs:loc_alt":"Markovci",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959779,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195460,
+        "gp:id":530783,
+        "qs:id":6,
+        "wd:id":"Q1008095",
+        "wk:page":"Markovci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"113a883fc1d73be355fdde49c5ca3318",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959779,
+            "locality_id":101845315,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":101845315,
+    "wof:lastmodified":1531170950,
+    "wof:name":"Markovci",
+    "wof:parent_id":1108959779,
+    "wof:placetype":"locality",
+    "wof:population":462,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.92337088757802,
+    46.37997315550001,
+    15.94519264633891,
+    46.3988540678248
+],
+  "geometry": {"coordinates":[[[15.93273923642812,46.39871041547559],[15.93234037701757,46.39512116300932],[15.93104480830249,46.39519299144109],[15.93064610418639,46.39160372369815],[15.93194158676664,46.39153190083567],[15.93164253945383,46.38883994783293],[15.93423336599454,46.38869626350748],[15.93393422840268,46.38600431339523],[15.93782025087006,46.38578868206469],[15.93772048240777,46.38489136832476],[15.9416064119697,46.38467560032893],[15.94130693882369,46.38198366800725],[15.94519264633891,46.38176777172043],[15.94499289008792,46.37997315550001],[15.94240250763926,46.38011709642763],[15.94250234056216,46.38101440763091],[15.93732145179797,46.38130210728934],[15.93722170495391,46.38040479051131],[15.93463128472786,46.38054854366629],[15.9347309885311,46.38144586323017],[15.93343575217881,46.38151771772783],[15.93353543878214,46.38241503807615],[15.93224017776299,46.38248687831799],[15.93233984716375,46.38338419945097],[15.93104456147739,46.38345602543592],[15.93114421367426,46.38435334735351],[15.92984890331945,46.38442515908093],[15.92994853831073,46.38532248178291],[15.92865320328752,46.38539427925241],[15.92885244317307,46.38718892561764],[15.92496629008434,46.38740423247248],[15.92526498853641,46.39009620998729],[15.92396953330035,46.39016795180902],[15.92406908655187,46.39106527782451],[15.92536456331953,46.39099353461205],[15.92546414241878,46.39189085863018],[15.92805512959046,46.39174732246801],[15.92845366143462,46.39533660134532],[15.92715808328319,46.395408382818],[15.92725770550601,46.39630570241229],[15.92337088757802,46.39652095708362],[15.92347044950634,46.39741828024478],[15.9299485713542,46.39705943723527],[15.93014792355189,46.3988540678248],[15.93273923642812,46.39871041547559]]],"type":"Polygon"}
+}

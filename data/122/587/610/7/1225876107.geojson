@@ -1,0 +1,71 @@
+{
+  "id": 1225876107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.65459,46.6567,15.65459,46.6567",
+    "geom:latitude":46.6567,
+    "geom:longitude":15.65459,
+    "gn:admin1_code":"B3",
+    "gn:asciiname":"Cirknica",
+    "gn:country_code":"SI",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202573,
+    "gn:latitude":46.6567,
+    "gn:longitude":15.65459,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Cirknica",
+    "gn:population":112,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959565,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202573,
+        "wk:page":"Cirknica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"102325ca2aa141fe9671b0f78e80ce18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959565,
+            "locality_id":1225876107,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1225876107,
+    "wof:lastmodified":1537573448,
+    "wof:name":"Cirknica",
+    "wof:parent_id":1108959565,
+    "wof:placetype":"locality",
+    "wof:population":112,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.65459,
+    46.6567,
+    15.65459,
+    46.6567
+],
+  "geometry": {"coordinates":[15.65459,46.6567],"type":"Point"}
+}

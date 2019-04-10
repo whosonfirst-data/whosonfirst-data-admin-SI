@@ -1,0 +1,71 @@
+{
+  "id": 1276912127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.20559,46.45178,16.20559,46.45178",
+    "geom:latitude":46.45178,
+    "geom:longitude":16.20559,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Vinski Vrh",
+    "gn:country_code":"SI",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987113,
+    "gn:latitude":46.45178,
+    "gn:longitude":16.20559,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Vinski Vrh",
+    "gn:population":267,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959765,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987113,
+        "wk:page":"Vinski_Vrh%2C_Ormo%C5%BE"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b9a16a490225ffd527149473662372f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959765,
+            "locality_id":1276912127,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1276912127,
+    "wof:lastmodified":1537573469,
+    "wof:name":"Vinski Vrh",
+    "wof:parent_id":1108959765,
+    "wof:placetype":"locality",
+    "wof:population":267,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.20559,
+    46.45178,
+    16.20559,
+    46.45178
+],
+  "geometry": {"coordinates":[16.20559,46.45178],"type":"Point"}
+}

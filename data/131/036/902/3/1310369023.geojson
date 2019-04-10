@@ -1,0 +1,74 @@
+{
+  "id": 1310369023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23273,45.45859,15.23273,45.45859",
+    "geom:latitude":45.45859,
+    "geom:longitude":15.23273,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Secje Selo",
+    "gn:country_code":"SI",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987675,
+    "gn:latitude":45.45859,
+    "gn:longitude":15.23273,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Se\u010dje Selo",
+    "gn:population":115,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Se\u010dje Selo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959699,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987675,
+        "wk:page":"Se%C4%8Dje_Selo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4b6c16653d27f07bca2b188eb9549ed7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959699,
+            "locality_id":1310369023,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1310369023,
+    "wof:lastmodified":1537700291,
+    "wof:name":"Secje Selo",
+    "wof:parent_id":1108959699,
+    "wof:placetype":"locality",
+    "wof:population":115,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23273,
+    45.45859,
+    15.23273,
+    45.45859
+],
+  "geometry": {"coordinates":[15.23273,45.45859],"type":"Point"}
+}

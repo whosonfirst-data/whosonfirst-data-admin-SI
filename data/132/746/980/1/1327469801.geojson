@@ -1,0 +1,74 @@
+{
+  "id": 1327469801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.42638,46.18111,14.42638,46.18111",
+    "geom:latitude":46.18111,
+    "geom:longitude":14.42638,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Dragocajna",
+    "gn:country_code":"SI",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987243,
+    "gn:latitude":46.18111,
+    "gn:longitude":14.42638,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Drago\u010dajna",
+    "gn:population":207,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Drago\u010dajna"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959881,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987243,
+        "wk:page":"Drago%C4%8Dajna"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d3c1d943908577fc5345d60ef221e664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959881,
+            "locality_id":1327469801,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1327469801,
+    "wof:lastmodified":1537700282,
+    "wof:name":"Dragocajna",
+    "wof:parent_id":1108959881,
+    "wof:placetype":"locality",
+    "wof:population":207,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.42638,
+    46.18111,
+    14.42638,
+    46.18111
+],
+  "geometry": {"coordinates":[14.42638,46.18111],"type":"Point"}
+}

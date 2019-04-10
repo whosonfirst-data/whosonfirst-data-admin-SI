@@ -1,0 +1,65 @@
+{
+  "id": 1209449867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.85402,46.16006,14.85402,46.16006",
+    "geom:latitude":46.16006,
+    "geom:longitude":14.85402,
+    "gn:admin1_code":"E7",
+    "gn:asciiname":"Medija",
+    "gn:country_code":"SI",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195324,
+    "gn:latitude":46.16006,
+    "gn:longitude":14.85402,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Medija",
+    "gn:population":53,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195324,
+        "wk:page":"Medija"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f08c35c03d3897c346783ac25b145b33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209449867
+        }
+    ],
+    "wof:id":1209449867,
+    "wof:lastmodified":1537573421,
+    "wof:name":"Medija",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":53,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.85402,
+    46.16006,
+    14.85402,
+    46.16006
+],
+  "geometry": {"coordinates":[14.85402,46.16006],"type":"Point"}
+}

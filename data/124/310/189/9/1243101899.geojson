@@ -1,0 +1,71 @@
+{
+  "id": 1243101899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.00428,45.91763,15.00428,45.91763",
+    "geom:latitude":45.91763,
+    "geom:longitude":15.00428,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Pekel",
+    "gn:country_code":"SI",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988146,
+    "gn:latitude":45.91763,
+    "gn:longitude":15.00428,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Pekel",
+    "gn:population":70,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959839,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988146,
+        "wk:page":"Pekel%2C_Trebnje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9d207dc284f8b300362964fa6102dc07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959839,
+            "locality_id":1243101899,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1243101899,
+    "wof:lastmodified":1537573503,
+    "wof:name":"Pekel",
+    "wof:parent_id":1108959839,
+    "wof:placetype":"locality",
+    "wof:population":70,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.00428,
+    45.91763,
+    15.00428,
+    45.91763
+],
+  "geometry": {"coordinates":[15.00428,45.91763],"type":"Point"}
+}

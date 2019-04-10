@@ -1,0 +1,71 @@
+{
+  "id": 1226081257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.14618,46.64592,15.14618,46.64592",
+    "geom:latitude":46.64592,
+    "geom:longitude":15.14618,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Sv. Jernej nad Muto",
+    "gn:country_code":"SI",
+    "gn:dem":894,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989789,
+    "gn:latitude":46.64592,
+    "gn:longitude":15.14618,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Sv. Jernej nad Muto",
+    "gn:population":125,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959727,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989789,
+        "wk:page":"Sveti_Jernej_nad_Muto"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7d97e53dad89ded7963de99ed546845d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959727,
+            "locality_id":1226081257,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1226081257,
+    "wof:lastmodified":1537573552,
+    "wof:name":"Sv. Jernej nad Muto",
+    "wof:parent_id":1108959727,
+    "wof:placetype":"locality",
+    "wof:population":125,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.14618,
+    46.64592,
+    15.14618,
+    46.64592
+],
+  "geometry": {"coordinates":[15.14618,46.64592],"type":"Point"}
+}

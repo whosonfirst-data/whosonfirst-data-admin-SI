@@ -1,0 +1,68 @@
+{
+  "id": 1293426685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.83917,45.72722,14.83917,45.72722",
+    "geom:latitude":45.72722,
+    "geom:longitude":14.83917,
+    "gn:admin1_code":"H7",
+    "gn:asciiname":"Vrbovec",
+    "gn:country_code":"SI",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187268,
+    "gn:latitude":45.72722,
+    "gn:longitude":14.83917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Vrbovec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959919,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187268,
+        "wk:page":"Vrbovec%2C_Ko%C4%8Devje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ea22fb9c9617c93c7a99e75292b4021c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959919,
+            "locality_id":1293426685,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1293426685,
+    "wof:lastmodified":1537573386,
+    "wof:name":"Vrbovec",
+    "wof:parent_id":1108959919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.83917,
+    45.72722,
+    14.83917,
+    45.72722
+],
+  "geometry": {"coordinates":[14.83917,45.72722],"type":"Point"}
+}

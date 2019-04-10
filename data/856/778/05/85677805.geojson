@@ -1,0 +1,113 @@
+{
+  "id": 85677805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.005994,
+    "geom:area_square_m":51711154.063987,
+    "geom:bbox":"14.5533032573,45.707494615,14.6781018413,45.7934325221",
+    "geom:latitude":45.754399,
+    "geom:longitude":14.619035,
+    "iso:country":"SI",
+    "lbl:latitude":45.754509,
+    "lbl:longitude":14.619035,
+    "mps:latitude":45.754509,
+    "mps:longitude":14.619035,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:bos_x_preferred":[
+        "Sodra\u017eica"
+    ],
+    "name:hbs_x_preferred":[
+        "Sodra\u017eica"
+    ],
+    "name:hrv_x_preferred":[
+        "Sodra\u017eica"
+    ],
+    "name:nld_x_preferred":[
+        "Sodra\u017eica"
+    ],
+    "name:ron_x_preferred":[
+        "Sodra\u017eica"
+    ],
+    "name:slv_x_preferred":[
+        "Sodra\u017eica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043e\u0434\u0440\u0430\u0436\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u0434\u0440\u0430\u0436\u0438\u0446\u044f"
+    ],
+    "name:und_x_preferred":[
+        "Ribnica"
+    ],
+    "name:vie_x_preferred":[
+        "Sodra\u017eica"
+    ],
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Sodra\u017eica",
+    "qs:a1_lc":"SVN-248",
+    "qs:a1r":"Jugovzhodna Slovenija",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "qs:woeid":55848381,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "unlc:subdivision":"SI-179",
+    "wd:wordcount":159,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55848381,
+        "unlc:id":"SI-179",
+        "wd:id":"Q2135530"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5c04dddaa4f4ba0301658c9b11ead2df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677805
+        }
+    ],
+    "wof:id":85677805,
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1531169464,
+    "wof:name":"Sodra\u017eica",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:subdivision":"SI-179",
+    "wof:superseded_by":[
+        1108959805
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.55330325733951,
+    45.70749461498457,
+    14.67810184132696,
+    45.79343252209327
+],
+  "geometry": {"coordinates":[[[14.64626915939425,45.70749461498457],[14.63464196135749,45.720387884893],[14.62968102396013,45.72457367593444],[14.61960412043385,45.7288886581851],[14.59893354674585,45.72953461423111],[14.57614423956505,45.73532237392845],[14.5697880390868,45.7521430533593],[14.56963301035518,45.75948110576849],[14.56606733603877,45.76676748313287],[14.55330325733951,45.78128856101836],[14.56420698406509,45.79007355425119],[14.5869962912459,45.79343252209327],[14.59955366437015,45.78555186642552],[14.60916547990303,45.78190867774333],[14.61397138766944,45.78077179618151],[14.62347985221345,45.77953156183219],[14.64378868979622,45.77454478601311],[14.66301232266062,45.77203847889274],[14.66859337678295,45.77028147970657],[14.67515628373553,45.76764598227629],[14.67810184132696,45.75953278351119],[14.67748172370261,45.75064443569221],[14.66378746901654,45.72315257443182],[14.65758629726986,45.71457428587462],[14.64626915939425,45.70749461498457]]],"type":"Polygon"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209035975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.03111,45.74856,15.03111,45.74856",
+    "geom:latitude":45.74856,
+    "geom:longitude":15.03111,
+    "gn:admin1_code":"G6",
+    "gn:asciiname":"Obrh",
+    "gn:country_code":"SI",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988039,
+    "gn:latitude":45.74856,
+    "gn:longitude":15.03111,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Obrh",
+    "gn:population":79,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988039,
+        "wk:page":"Obrh%2C_Dolenjske_Toplice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f2d252d2c88eb9586114508d1a1256c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209035975
+        }
+    ],
+    "wof:id":1209035975,
+    "wof:lastmodified":1537573499,
+    "wof:name":"Obrh",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":79,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.03111,
+    45.74856,
+    15.03111,
+    45.74856
+],
+  "geometry": {"coordinates":[15.03111,45.74856],"type":"Point"}
+}

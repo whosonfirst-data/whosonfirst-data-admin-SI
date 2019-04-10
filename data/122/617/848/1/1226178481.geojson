@@ -1,0 +1,74 @@
+{
+  "id": 1226178481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.68476,46.13114,14.68476,46.13114",
+    "geom:latitude":46.13114,
+    "geom:longitude":14.68476,
+    "gn:admin1_code":"G7",
+    "gn:asciiname":"Kokosnje",
+    "gn:country_code":"SI",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987720,
+    "gn:latitude":46.13114,
+    "gn:longitude":14.68476,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Koko\u0161nje",
+    "gn:population":110,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koko\u0161nje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959799,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987720,
+        "wk:page":"Koko%C5%A1nje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7c04dd0f5abb8a95d16030c353bdb80c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959799,
+            "locality_id":1226178481,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1226178481,
+    "wof:lastmodified":1537700292,
+    "wof:name":"Kokosnje",
+    "wof:parent_id":1108959799,
+    "wof:placetype":"locality",
+    "wof:population":110,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.68476,
+    46.13114,
+    14.68476,
+    46.13114
+],
+  "geometry": {"coordinates":[14.68476,46.13114],"type":"Point"}
+}

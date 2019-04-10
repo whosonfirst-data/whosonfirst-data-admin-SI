@@ -1,0 +1,65 @@
+{
+  "id": 1209348185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.83077,46.18698,13.83077,46.18698",
+    "geom:latitude":46.18698,
+    "geom:longitude":13.83077,
+    "gn:admin1_code":"D2",
+    "gn:asciiname":"Loje",
+    "gn:country_code":"SI",
+    "gn:dem":746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989280,
+    "gn:latitude":46.18698,
+    "gn:longitude":13.83077,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Loje",
+    "gn:population":10,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989280,
+        "wk:page":"Loje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"03d08543a6b9e12ca0f165886c59a6ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209348185
+        }
+    ],
+    "wof:id":1209348185,
+    "wof:lastmodified":1537573537,
+    "wof:name":"Loje",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.83077,
+    46.18698,
+    13.83077,
+    46.18698
+],
+  "geometry": {"coordinates":[13.83077,46.18698],"type":"Point"}
+}

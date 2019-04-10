@@ -1,0 +1,74 @@
+{
+  "id": 1210047709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.33688,46.28456,15.33688,46.28456",
+    "geom:latitude":46.28456,
+    "geom:longitude":15.33688,
+    "gn:admin1_code":"N3",
+    "gn:asciiname":"Gradisce pri Vojniku",
+    "gn:country_code":"SI",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988428,
+    "gn:latitude":46.28456,
+    "gn:longitude":15.33688,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Gradi\u0161\u010de pri Vojniku",
+    "gn:population":51,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gradi\u0161\u010de pri Vojniku"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959653,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988428,
+        "wk:page":"Gradi%C5%A1%C4%8De_pri_Vojniku"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3b3437b3ff61e785596813711bf9e611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959653,
+            "locality_id":1210047709,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1210047709,
+    "wof:lastmodified":1537700306,
+    "wof:name":"Gradisce pri Vojniku",
+    "wof:parent_id":1108959653,
+    "wof:placetype":"locality",
+    "wof:population":51,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.33688,
+    46.28456,
+    15.33688,
+    46.28456
+],
+  "geometry": {"coordinates":[15.33688,46.28456],"type":"Point"}
+}

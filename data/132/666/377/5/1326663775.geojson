@@ -1,0 +1,74 @@
+{
+  "id": 1326663775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.19141,45.77582,15.19141,45.77582",
+    "geom:latitude":45.77582,
+    "geom:longitude":15.19141,
+    "gn:admin1_code":"J7",
+    "gn:asciiname":"Crmosnjice pri Stopicah",
+    "gn:country_code":"SI",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986975,
+    "gn:latitude":45.77582,
+    "gn:longitude":15.19141,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"\u010crmo\u0161njice pri Stopi\u010dah",
+    "gn:population":399,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010crmo\u0161njice pri Stopi\u010dah"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959465,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986975,
+        "wk:page":"%C4%8Crmo%C5%A1njice_pri_Stopi%C4%8Dah"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3ad189abe5cffe3ce3228aa2b27bada6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959465,
+            "locality_id":1326663775,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1326663775,
+    "wof:lastmodified":1537700277,
+    "wof:name":"Crmosnjice pri Stopicah",
+    "wof:parent_id":1108959465,
+    "wof:placetype":"locality",
+    "wof:population":399,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.19141,
+    45.77582,
+    15.19141,
+    45.77582
+],
+  "geometry": {"coordinates":[15.19141,45.77582],"type":"Point"}
+}

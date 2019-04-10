@@ -1,0 +1,74 @@
+{
+  "id": 1193171321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3895,45.96024,15.3895,45.96024",
+    "geom:latitude":45.96024,
+    "geom:longitude":15.3895,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Ardro pod Velikim Trnom",
+    "gn:country_code":"SI",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988897,
+    "gn:latitude":45.96024,
+    "gn:longitude":15.3895,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Ardro pod Velikim Trnom",
+    "gn:population":27,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ardro Pod Velikim Trnom"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988897,
+        "wk:page":"Ardro_pod_Velikim_Trnom"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9d80ce8b2615cbe51cf039689584536a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1193171321,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1193171321,
+    "wof:lastmodified":1537700316,
+    "wof:name":"Ardro pod Velikim Trnom",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":27,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3895,
+    45.96024,
+    15.3895,
+    45.96024
+],
+  "geometry": {"coordinates":[15.3895,45.96024],"type":"Point"}
+}

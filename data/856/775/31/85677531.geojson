@@ -1,0 +1,181 @@
+{
+  "id": 85677531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003256,
+    "geom:area_square_m":27743796.670192,
+    "geom:bbox":"15.9430375509,46.4166502966,16.0400342144,46.4907026232",
+    "geom:latitude":46.44659,
+    "geom:longitude":15.997195,
+    "iso:country":"SI",
+    "lbl:latitude":46.45373,
+    "lbl:longitude":16.018137,
+    "mps:latitude":46.45373,
+    "mps:longitude":16.018137,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u0440\u043d\u0430\u0432\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Dornava"
+    ],
+    "name:eng_x_variant":[
+        "Municipality of Dornava"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Dornava"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30eb\u30ca\u30f4\u30a1"
+    ],
+    "name:kor_x_preferred":[
+        "\ub3c4\ub974\ub098\ubc14"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Dornava"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Dornava"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0414\u043e\u0440\u043d\u0430\u0432\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u0440\u043d\u0430\u0432\u0430"
+    ],
+    "name:und_x_preferred":[
+        "Ptuj"
+    ],
+    "name:unk_x_variant":[
+        "Ob\u010dina Dornava"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-1040",
+    "ne:adm1_code":"SVN-1040",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"11",
+    "ne:code_hasc":"SI.PD.DO",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"1040",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SI24",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.24",
+    "ne:gn_id":"3239248",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Dornava",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI24",
+    "ne:gns_id":"243983",
+    "ne:gns_lang":"slv",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Dornava, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"46.44060000000",
+    "ne:longitude":"15.99150000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Dornava",
+    "ne:name_alt":"",
+    "ne:name_len":7,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"DO",
+    "ne:provnum_ne":"41",
+    "ne:region":"Podravska",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":-55848377,
+    "ne:woe_label":"",
+    "ne:woe_name":"",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Dornava",
+    "qs:a1_lc":"SVN-1040",
+    "qs:a1r":"Podravska",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "qs:woeid":55848377,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "unlc:subdivision":"SI-024",
+    "wd:wordcount":181,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SI24",
+        "gn:id":3239248,
+        "gp:id":-55848377,
+        "hasc:id":"SI.PD.DO",
+        "unlc:id":"SI-024",
+        "wd:id":"Q2979890"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0461c665996281140d603a8b6a3b86e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677531
+        }
+    ],
+    "wof:id":85677531,
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616730,
+    "wof:name":"Dornava",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:shortcode":"DO",
+    "wof:subdivision":"SI-024",
+    "wof:superseded_by":[
+        1108959761
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.94303755094228,
+    46.41665029657401,
+    16.04003421440751,
+    46.49070262322755
+],
+  "geometry": {"coordinates":[[[16.02608157730299,46.43230825512194],[16.01192223462346,46.43494375345153],[15.99548912882028,46.42882009517132],[15.99130333777885,46.42553864169503],[15.98308678622624,46.41665029657401],[15.94303755094228,46.42052602835361],[15.95311445536788,46.45096344720537],[15.97719567194275,46.44631256817053],[15.99672936406893,46.45866323482051],[16.00401574143336,46.4666214057533],[16.00835656120637,46.47375275348685],[16.02096561027474,46.49070262322755],[16.04003421440751,46.4686367864586],[16.0391040384207,46.44925812396332],[16.02608157730299,46.43230825512194]]],"type":"Polygon"}
+}

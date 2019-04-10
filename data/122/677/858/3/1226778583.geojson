@@ -1,0 +1,74 @@
+{
+  "id": 1226778583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.53333,46.2,15.53333,46.2",
+    "geom:latitude":46.2,
+    "geom:longitude":15.53333,
+    "gn:admin1_code":"C5",
+    "gn:asciiname":"Skofija",
+    "gn:country_code":"SI",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190719,
+    "gn:latitude":46.2,
+    "gn:longitude":15.53333,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160kofija",
+    "gn:population":121,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160kofija"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959607,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190719,
+        "wk:page":"%C5%A0kofija%2C_%C5%A0marje_pri_Jel%C5%A1ah"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d3bc5a4d80060fafa322128dc785d582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959607,
+            "locality_id":1226778583,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1226778583,
+    "wof:lastmodified":1537700193,
+    "wof:name":"Skofija",
+    "wof:parent_id":1108959607,
+    "wof:placetype":"locality",
+    "wof:population":121,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.53333,
+    46.2,
+    15.53333,
+    46.2
+],
+  "geometry": {"coordinates":[15.53333,46.2],"type":"Point"}
+}

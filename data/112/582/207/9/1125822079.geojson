@@ -1,0 +1,98 @@
+{
+  "id": 1125822079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.826778,46.538891,15.826778,46.538891",
+    "geom:latitude":46.538891,
+    "geom:longitude":15.826778,
+    "gn:gn_country":null,
+    "iso:country":"SI",
+    "lbl:latitude":46.538891,
+    "lbl:longitude":15.826778,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Zavrh"
+    ],
+    "name:eng_x_preferred":[
+        "Zavrh"
+    ],
+    "name:rum_x_preferred":[
+        "Zavrh"
+    ],
+    "name:slv_x_preferred":[
+        "Zavrh"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u0432\u0440\u0445"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Zavrh",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Lenart",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":136333,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":55852511,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Lenart",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959477,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55852511,
+        "qs_pg:id":136333,
+        "wd:id":"Q2267076"
+    },
+    "wof:country":"SI",
+    "wof:created":1497292113,
+    "wof:geomhash":"3a660d9e2b876e71e5469692a02d8289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959477,
+            "locality_id":1125822079,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1125822079,
+    "wof:lastmodified":1531170946,
+    "wof:name":"Zavrh",
+    "wof:parent_id":1108959477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.826778,
+    46.538891,
+    15.826778,
+    46.538891
+],
+  "geometry": {"coordinates":[15.826778,46.538891],"type":"Point"}
+}

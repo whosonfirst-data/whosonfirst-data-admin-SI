@@ -1,0 +1,75 @@
+{
+  "id": 1276534749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.4066,45.80816,14.4066,45.80816",
+    "geom:latitude":45.80816,
+    "geom:longitude":14.4066,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Topol pri Begunjah",
+    "gn:country_code":"SI",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188973,
+    "gn:latitude":45.80816,
+    "gn:longitude":14.4066,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Topol pri Begunjah",
+    "gn:population":72,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Topol",
+        "Topol pri Begunjah"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959905,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188973,
+        "wk:page":"Topol_pri_Begunjah"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1b1e30d31dbfc7d4bfedf628fba71ba6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959905,
+            "locality_id":1276534749,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1276534749,
+    "wof:lastmodified":1537700181,
+    "wof:name":"Topol pri Begunjah",
+    "wof:parent_id":1108959905,
+    "wof:placetype":"locality",
+    "wof:population":72,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.4066,
+    45.80816,
+    14.4066,
+    45.80816
+],
+  "geometry": {"coordinates":[14.4066,45.80816],"type":"Point"}
+}

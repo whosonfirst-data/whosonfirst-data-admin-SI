@@ -1,0 +1,71 @@
+{
+  "id": 1293820311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.04134,46.28314,15.04134,46.28314",
+    "geom:latitude":46.28314,
+    "geom:longitude":15.04134,
+    "gn:admin1_code":"F7",
+    "gn:asciiname":"Rakovlje",
+    "gn:country_code":"SI",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986989,
+    "gn:latitude":46.28314,
+    "gn:longitude":15.04134,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Rakovlje",
+    "gn:population":374,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959855,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986989,
+        "wk:page":"Rakovlje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c6fcc921abd1720fde1eaa560148588a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959855,
+            "locality_id":1293820311,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1293820311,
+    "wof:lastmodified":1537573466,
+    "wof:name":"Rakovlje",
+    "wof:parent_id":1108959855,
+    "wof:placetype":"locality",
+    "wof:population":374,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.04134,
+    46.28314,
+    15.04134,
+    46.28314
+],
+  "geometry": {"coordinates":[15.04134,46.28314],"type":"Point"}
+}

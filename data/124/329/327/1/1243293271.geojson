@@ -1,0 +1,71 @@
+{
+  "id": 1243293271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.47519,46.36277,15.47519,46.36277",
+    "geom:latitude":46.36277,
+    "geom:longitude":15.47519,
+    "gn:admin1_code":"J8",
+    "gn:asciiname":"Dobrova pri Prihovi",
+    "gn:country_code":"SI",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988353,
+    "gn:latitude":46.36277,
+    "gn:longitude":15.47519,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Dobrova pri Prihovi",
+    "gn:population":55,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959737,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988353,
+        "wk:page":"Dobrova_pri_Prihovi"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d9d17a2103852c8e62f7e7281ce3245a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959737,
+            "locality_id":1243293271,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1243293271,
+    "wof:lastmodified":1537573509,
+    "wof:name":"Dobrova pri Prihovi",
+    "wof:parent_id":1108959737,
+    "wof:placetype":"locality",
+    "wof:population":55,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.47519,
+    46.36277000000001,
+    15.47519,
+    46.36277000000001
+],
+  "geometry": {"coordinates":[15.47519,46.36277000000001],"type":"Point"}
+}

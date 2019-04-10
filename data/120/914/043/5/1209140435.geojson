@@ -1,0 +1,68 @@
+{
+  "id": 1209140435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.36385,46.20306,15.36385,46.20306",
+    "geom:latitude":46.20306,
+    "geom:longitude":15.36385,
+    "gn:admin1_code":"L7",
+    "gn:asciiname":"Krajncica",
+    "gn:country_code":"SI",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987194,
+    "gn:latitude":46.20306,
+    "gn:longitude":15.36385,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Krajn\u010dica",
+    "gn:population":225,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Krajn\u010dica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987194,
+        "wk:page":"Krajn%C4%8Dica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a9a46f5c2ee5ce7f4ee5656d1230bcbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209140435
+        }
+    ],
+    "wof:id":1209140435,
+    "wof:lastmodified":1537700281,
+    "wof:name":"Krajncica",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":225,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.36385,
+    46.20306,
+    15.36385,
+    46.20306
+],
+  "geometry": {"coordinates":[15.36385,46.20306],"type":"Point"}
+}

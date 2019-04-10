@@ -1,0 +1,67 @@
+{
+  "id": 1327463329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.47,46.38417,14.47,46.38417",
+    "geom:latitude":46.38417,
+    "geom:longitude":14.47,
+    "gn:admin1_code":"H5",
+    "gn:asciiname":"Podlog",
+    "gn:country_code":"SI",
+    "gn:dem":753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217692,
+    "gn:latitude":46.38417,
+    "gn:longitude":14.47,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Podlog",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959625,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217692
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a99d2175cf39ddd11712197e26fa714f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959625,
+            "locality_id":1327463329,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1327463329,
+    "wof:lastmodified":1536634908,
+    "wof:name":"Podlog",
+    "wof:parent_id":1108959625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.47,
+    46.38417000000001,
+    14.47,
+    46.38417000000001
+],
+  "geometry": {"coordinates":[14.47,46.38417000000001],"type":"Point"}
+}

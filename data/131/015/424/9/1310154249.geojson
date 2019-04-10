@@ -1,0 +1,67 @@
+{
+  "id": 1310154249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.69278,46.07127,13.69278,46.07127",
+    "geom:latitude":46.07127,
+    "geom:longitude":13.69278,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Luzarji",
+    "gn:country_code":"SI",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10794060,
+    "gn:latitude":46.07127,
+    "gn:longitude":13.69278,
+    "gn:modification_date":"2015-10-02",
+    "gn:name":"Lu\u017earji",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959487,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10794060
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8f4c431616ec080a6ac867bc30d8436a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959487,
+            "locality_id":1310154249,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1310154249,
+    "wof:lastmodified":1536927069,
+    "wof:name":"Luzarji",
+    "wof:parent_id":1108959487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.69278,
+    46.07127,
+    13.69278,
+    46.07127
+],
+  "geometry": {"coordinates":[13.69278,46.07127],"type":"Point"}
+}

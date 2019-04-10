@@ -1,0 +1,75 @@
+{
+  "id": 1344192515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.63333,46.23333,14.63333,46.23333",
+    "geom:latitude":46.23333,
+    "geom:longitude":14.63333,
+    "gn:admin1_code":"H6",
+    "gn:asciiname":"Vrhpolje pri Kamniku",
+    "gn:country_code":"SI",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187183,
+    "gn:latitude":46.23333,
+    "gn:longitude":14.63333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Vrhpolje pri Kamniku",
+    "gn:population":737,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vrhpolje",
+        "Vrhpolje pri Kamniku"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959941,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187183,
+        "wk:page":"Vrhpolje_pri_Kamniku"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0fc7613d6ce5241941f6d6883774eeff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959941,
+            "locality_id":1344192515,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1344192515,
+    "wof:lastmodified":1537700173,
+    "wof:name":"Vrhpolje pri Kamniku",
+    "wof:parent_id":1108959941,
+    "wof:placetype":"locality",
+    "wof:population":737,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.63333,
+    46.23333,
+    14.63333,
+    46.23333
+],
+  "geometry": {"coordinates":[14.63333,46.23333],"type":"Point"}
+}

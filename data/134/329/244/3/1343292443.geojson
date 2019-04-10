@@ -1,0 +1,71 @@
+{
+  "id": 1343292443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.61037,45.80595,14.61037,45.80595",
+    "geom:latitude":45.80595,
+    "geom:longitude":14.61037,
+    "gn:admin1_code":"D8",
+    "gn:asciiname":"Poznikovo",
+    "gn:country_code":"SI",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989047,
+    "gn:latitude":45.80595,
+    "gn:longitude":14.61037,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Poznikovo",
+    "gn:population":21,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959859,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989047,
+        "wk:page":"Poznikovo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4cd9f301d66ede8974e7db749cfcd5ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959859,
+            "locality_id":1343292443,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1343292443,
+    "wof:lastmodified":1537573530,
+    "wof:name":"Poznikovo",
+    "wof:parent_id":1108959859,
+    "wof:placetype":"locality",
+    "wof:population":21,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.61037,
+    45.80595,
+    14.61037,
+    45.80595
+],
+  "geometry": {"coordinates":[14.61037,45.80595],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226078803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.19537,45.86987,15.19537,45.86987",
+    "geom:latitude":45.86987,
+    "geom:longitude":15.19537,
+    "gn:admin1_code":"J7",
+    "gn:asciiname":"Stravberk",
+    "gn:country_code":"SI",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988818,
+    "gn:latitude":45.86987,
+    "gn:longitude":15.19537,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160travberk",
+    "gn:population":31,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160travberk"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959465,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988818,
+        "wk:page":"%C5%A0travberk"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"03ed2413293a19f2939d17f4ca2aa453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959465,
+            "locality_id":1226078803,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1226078803,
+    "wof:lastmodified":1537700314,
+    "wof:name":"Stravberk",
+    "wof:parent_id":1108959465,
+    "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.19537,
+    45.86987,
+    15.19537,
+    45.86987
+],
+  "geometry": {"coordinates":[15.19537,45.86987],"type":"Point"}
+}

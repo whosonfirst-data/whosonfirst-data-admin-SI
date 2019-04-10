@@ -1,0 +1,74 @@
+{
+  "id": 1344093301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.63394,45.79758,14.63394,45.79758",
+    "geom:latitude":45.79758,
+    "geom:longitude":14.63394,
+    "gn:admin1_code":"L1",
+    "gn:asciiname":"Juncje",
+    "gn:country_code":"SI",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988929,
+    "gn:latitude":45.79758,
+    "gn:longitude":14.63394,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Jun\u010dje",
+    "gn:population":26,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jun\u010dje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959599,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988929,
+        "wk:page":"Jun%C4%8Dje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"555b0db199bcc7cf1e4e987ed1c49a0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959599,
+            "locality_id":1344093301,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1344093301,
+    "wof:lastmodified":1537700316,
+    "wof:name":"Juncje",
+    "wof:parent_id":1108959599,
+    "wof:placetype":"locality",
+    "wof:population":26,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.63394,
+    45.79758,
+    14.63394,
+    45.79758
+],
+  "geometry": {"coordinates":[14.63394,45.79758],"type":"Point"}
+}

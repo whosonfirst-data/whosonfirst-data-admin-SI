@@ -1,0 +1,76 @@
+{
+  "id": 1242713177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.51889,46.0375,15.51889,46.0375",
+    "geom:latitude":46.0375,
+    "geom:longitude":15.51889,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Veliki Kamen",
+    "gn:country_code":"SI",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188063,
+    "gn:latitude":46.0375,
+    "gn:longitude":15.51889,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Veliki Kamen",
+    "gn:population":227,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kamen",
+        "Grosser Steinbach",
+        "Veliki Kamen"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188063,
+        "wk:page":"Veliki_Kamen"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"52a1040982a88d82ac3be8a8b23b328c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1242713177,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1242713177,
+    "wof:lastmodified":1537700177,
+    "wof:name":"Veliki Kamen",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":227,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.51889,
+    46.0375,
+    15.51889,
+    46.0375
+],
+  "geometry": {"coordinates":[15.51889,46.0375],"type":"Point"}
+}

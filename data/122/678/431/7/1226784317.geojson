@@ -1,0 +1,71 @@
+{
+  "id": 1226784317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.91667,46.56667,15.91667,46.56667",
+    "geom:latitude":46.56667,
+    "geom:longitude":15.91667,
+    "gn:admin1_code":"F9",
+    "gn:asciiname":"Brengova",
+    "gn:country_code":"SI",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203457,
+    "gn:latitude":46.56667,
+    "gn:longitude":15.91667,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Brengova",
+    "gn:population":270,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959703,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203457,
+        "wk:page":"Brengova"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"eaef8fe28f9f870891ff8219b7477e5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959703,
+            "locality_id":1226784317,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1226784317,
+    "wof:lastmodified":1537573451,
+    "wof:name":"Brengova",
+    "wof:parent_id":1108959703,
+    "wof:placetype":"locality",
+    "wof:population":270,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.91667,
+    46.56667,
+    15.91667,
+    46.56667
+],
+  "geometry": {"coordinates":[15.91667,46.56667],"type":"Point"}
+}

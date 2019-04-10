@@ -1,0 +1,65 @@
+{
+  "id": 1209040797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.8261,45.95367,14.8261,45.95367",
+    "geom:latitude":45.95367,
+    "geom:longitude":14.8261,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Pristavlja Vas",
+    "gn:country_code":"SI",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988469,
+    "gn:latitude":45.95367,
+    "gn:longitude":14.8261,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Pristavlja Vas",
+    "gn:population":48,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988469,
+        "wk:page":"Pristavlja_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"366c5a51b3f7c7c76da5c922b7959d10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209040797
+        }
+    ],
+    "wof:id":1209040797,
+    "wof:lastmodified":1537573512,
+    "wof:name":"Pristavlja Vas",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":48,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.8261,
+    45.95367,
+    14.8261,
+    45.95367
+],
+  "geometry": {"coordinates":[14.8261,45.95367],"type":"Point"}
+}

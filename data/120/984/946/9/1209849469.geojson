@@ -1,0 +1,77 @@
+{
+  "id": 1209849469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.115,45.87583,15.115,45.87583",
+    "geom:latitude":45.87583,
+    "geom:longitude":15.115,
+    "gn:admin1_code":"J6",
+    "gn:asciiname":"Sentjurij na Dolenjskem",
+    "gn:country_code":"SI",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191030,
+    "gn:latitude":45.87583,
+    "gn:longitude":15.115,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160entjurij na Dolenjskem",
+    "gn:population":98,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160entjurij",
+        "Sentjurje",
+        "\u0160enturje",
+        "\u0160entjur na Dolenjskem"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959751,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191030,
+        "wk:page":"%C5%A0entjurij_na_Dolenjskem"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"59d4764082ea27127ed365cf9bbd9e71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959751,
+            "locality_id":1209849469,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1209849469,
+    "wof:lastmodified":1537700195,
+    "wof:name":"Sentjurij na Dolenjskem",
+    "wof:parent_id":1108959751,
+    "wof:placetype":"locality",
+    "wof:population":98,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.115,
+    45.87583,
+    15.115,
+    45.87583
+],
+  "geometry": {"coordinates":[15.115,45.87583],"type":"Point"}
+}

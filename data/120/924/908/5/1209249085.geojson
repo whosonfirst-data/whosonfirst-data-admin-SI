@@ -1,0 +1,68 @@
+{
+  "id": 1209249085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.05848,45.76711,15.05848,45.76711",
+    "geom:latitude":45.76711,
+    "geom:longitude":15.05848,
+    "gn:admin1_code":"G6",
+    "gn:asciiname":"Gorenje Gradisce",
+    "gn:country_code":"SI",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200371,
+    "gn:latitude":45.76711,
+    "gn:longitude":15.05848,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Gorenje Gradi\u0161\u010de",
+    "gn:population":86,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gorenje Gradi\u0161\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200371,
+        "wk:page":"Gorenje_Gradi%C5%A1%C4%8De%2C_Dolenjske_Toplice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f952eaaa7ed0cbe963666fee81d66fbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209249085
+        }
+    ],
+    "wof:id":1209249085,
+    "wof:lastmodified":1537700245,
+    "wof:name":"Gorenje Gradisce",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":86,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.05848,
+    45.76711,
+    15.05848,
+    45.76711
+],
+  "geometry": {"coordinates":[15.05848,45.76711],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276694191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.83028,45.49472,13.83028,45.49472",
+    "geom:latitude":45.49472,
+    "geom:longitude":13.83028,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Bocaji",
+    "gn:country_code":"SI",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343507,
+    "gn:latitude":45.49472,
+    "gn:longitude":13.83028,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Bo\u010daji",
+    "gn:population":24,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bo\u010daji"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959527,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343507,
+        "wk:page":"Bo%C4%8Daji"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"84dc1d06420e412fdbbe975bb50f02a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959527,
+            "locality_id":1276694191,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1276694191,
+    "wof:lastmodified":1537700274,
+    "wof:name":"Bocaji",
+    "wof:parent_id":1108959527,
+    "wof:placetype":"locality",
+    "wof:population":24,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.83028,
+    45.49472,
+    13.83028,
+    45.49472
+],
+  "geometry": {"coordinates":[13.83028,45.49472],"type":"Point"}
+}

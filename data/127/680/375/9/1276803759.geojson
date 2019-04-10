@@ -1,0 +1,71 @@
+{
+  "id": 1276803759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.32528,45.81699,15.32528,45.81699",
+    "geom:latitude":45.81699,
+    "geom:longitude":15.32528,
+    "gn:admin1_code":"B4",
+    "gn:asciiname":"Gorenje Vrhpolje",
+    "gn:country_code":"SI",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989475,
+    "gn:latitude":45.81699,
+    "gn:longitude":15.32528,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Gorenje Vrhpolje",
+    "gn:population":324,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959937,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989475,
+        "wk:page":"Gorenje_Vrhpolje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"13e3c4350fbc2e90d71d50713e9da509",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959937,
+            "locality_id":1276803759,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1276803759,
+    "wof:lastmodified":1537573542,
+    "wof:name":"Gorenje Vrhpolje",
+    "wof:parent_id":1108959937,
+    "wof:placetype":"locality",
+    "wof:population":324,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.32528,
+    45.81699,
+    15.32528,
+    45.81699
+],
+  "geometry": {"coordinates":[15.32528,45.81699],"type":"Point"}
+}

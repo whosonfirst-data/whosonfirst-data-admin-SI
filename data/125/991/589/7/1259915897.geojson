@@ -1,0 +1,74 @@
+{
+  "id": 1259915897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.18139,46.1825,15.18139,46.1825",
+    "geom:latitude":46.1825,
+    "geom:longitude":15.18139,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Smohor",
+    "gn:country_code":"SI",
+    "gn:dem":774,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3190472,
+    "gn:latitude":46.1825,
+    "gn:longitude":15.18139,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160mohor",
+    "gn:population":22,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160mohor"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959879,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190472,
+        "wk:page":"%C5%A0mohor"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ae2950cccc5ff626216dbe2679731272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959879,
+            "locality_id":1259915897,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1259915897,
+    "wof:lastmodified":1537700190,
+    "wof:name":"Smohor",
+    "wof:parent_id":1108959879,
+    "wof:placetype":"locality",
+    "wof:population":22,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.18139,
+    46.1825,
+    15.18139,
+    46.1825
+],
+  "geometry": {"coordinates":[15.18139,46.1825],"type":"Point"}
+}

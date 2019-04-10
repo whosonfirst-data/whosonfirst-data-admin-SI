@@ -1,0 +1,75 @@
+{
+  "id": 1243102003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.01056,45.99222,15.01056,45.99222",
+    "geom:latitude":45.99222,
+    "geom:longitude":15.01056,
+    "gn:admin1_code":"I5",
+    "gn:asciiname":"Tihaboj",
+    "gn:country_code":"SI",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189129,
+    "gn:latitude":45.99222,
+    "gn:longitude":15.01056,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Tihaboj",
+    "gn:population":95,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tinaboj",
+        "Tihaboj"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959907,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189129,
+        "wk:page":"Tihaboj"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5c4efa8feaf276fad2cde1ef151f30ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959907,
+            "locality_id":1243102003,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1243102003,
+    "wof:lastmodified":1537700182,
+    "wof:name":"Tihaboj",
+    "wof:parent_id":1108959907,
+    "wof:placetype":"locality",
+    "wof:population":95,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.01056,
+    45.99222,
+    15.01056,
+    45.99222
+],
+  "geometry": {"coordinates":[15.01056,45.99222],"type":"Point"}
+}

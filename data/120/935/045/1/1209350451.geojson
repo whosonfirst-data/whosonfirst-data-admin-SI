@@ -1,0 +1,68 @@
+{
+  "id": 1209350451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.76917,45.88806,14.76917,45.88806",
+    "geom:latitude":45.88806,
+    "geom:longitude":14.76917,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Gradicek",
+    "gn:country_code":"SI",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199733,
+    "gn:latitude":45.88806,
+    "gn:longitude":14.76917,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Gradi\u010dek",
+    "gn:population":28,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gradi\u010dek"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199733,
+        "wk:page":"Gradi%C4%8Dek"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7f05effe7786db02119936b1e894636a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209350451
+        }
+    ],
+    "wof:id":1209350451,
+    "wof:lastmodified":1537700242,
+    "wof:name":"Gradicek",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":28,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.76917,
+    45.88806,
+    14.76917,
+    45.88806
+],
+  "geometry": {"coordinates":[14.76917,45.88806],"type":"Point"}
+}

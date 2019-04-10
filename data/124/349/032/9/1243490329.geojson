@@ -1,0 +1,71 @@
+{
+  "id": 1243490329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.00861,46.34694,15.00861,46.34694",
+    "geom:latitude":46.34694,
+    "geom:longitude":15.00861,
+    "gn:admin1_code":"C6",
+    "gn:asciiname":"Gorenje",
+    "gn:country_code":"SI",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200374,
+    "gn:latitude":46.34694,
+    "gn:longitude":15.00861,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Gorenje",
+    "gn:population":173,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959729,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200374,
+        "wk:page":"Gorenje%2C_%C5%A0martno_ob_Paki"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"432e761c6ae8bc7d7614d5e9cafece42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959729,
+            "locality_id":1243490329,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1243490329,
+    "wof:lastmodified":1537573439,
+    "wof:name":"Gorenje",
+    "wof:parent_id":1108959729,
+    "wof:placetype":"locality",
+    "wof:population":173,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.00861,
+    46.34694,
+    15.00861,
+    46.34694
+],
+  "geometry": {"coordinates":[15.00861,46.34694],"type":"Point"}
+}

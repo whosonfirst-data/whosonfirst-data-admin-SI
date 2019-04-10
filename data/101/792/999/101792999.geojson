@@ -1,0 +1,116 @@
+{
+  "id": 101792999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000058,
+    "geom:area_square_m":498807.630489,
+    "geom:bbox":"14.2874532633,46.0193514806,14.3070616377,46.0255929215",
+    "geom:latitude":46.022013,
+    "geom:longitude":14.29814,
+    "gn:population":1329,
+    "iso:country":"SI",
+    "lbl:latitude":46.021868,
+    "lbl:longitude":14.296358,
+    "mps:latitude":46.021868,
+    "mps:longitude":14.296358,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Horjul"
+    ],
+    "name:dut_x_preferred":[
+        "Horjul"
+    ],
+    "name:eng_x_preferred":[
+        "Horjul"
+    ],
+    "name:hbs_x_preferred":[
+        "Horjul"
+    ],
+    "name:ron_x_preferred":[
+        "Horjul"
+    ],
+    "name:rum_x_preferred":[
+        "Horjul"
+    ],
+    "name:slv_x_preferred":[
+        "Horjul"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0440\u0458\u0443\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Horjul"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u043e\u0440\u044e\u043b"
+    ],
+    "name:vie_x_preferred":[
+        "Horjul"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"Horjul",
+    "qs:la_lc":"*SI162000",
+    "qs:level":"locality",
+    "qs:loc":"Horjul",
+    "qs:loc_alt":"Horjul",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959865,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199347,
+        "gp:id":55848683,
+        "qs:id":1044046,
+        "qs_pg:id":1044046,
+        "wd:id":"Q5903623",
+        "wk:page":"Horjul, Horjul"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5f79a6519638e1bcdd6a52000bc276ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959865,
+            "locality_id":101792999,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":101792999,
+    "wof:lastmodified":1531170277,
+    "wof:name":"Horjul",
+    "wof:parent_id":1108959865,
+    "wof:placetype":"locality",
+    "wof:population":1329,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.28745326334035,
+    46.01935148063194,
+    14.30706163772766,
+    46.02559292149459
+],
+  "geometry": {"coordinates":[[[14.30591664646835,46.02554082748298],[14.30577344058531,46.02374268594241],[14.30706163772766,46.02369057836353],[14.30699001811911,46.02279150774524],[14.30570184227332,46.02284361432316],[14.30563024704736,46.02194454213793],[14.30434209025583,46.02199663214668],[14.30427051941092,46.02109755839467],[14.30298238167347,46.02114963183499],[14.30283929182633,46.01935148063194],[14.29382256309236,46.01971554482265],[14.29396535481641,46.02151371001219],[14.29010088118571,46.02166950999367],[14.29002954767202,46.02077042468915],[14.28745326334035,46.02087421150776],[14.2875958482565,46.02267238553873],[14.2914603991822,46.02251667597636],[14.29153176014358,46.02341575915227],[14.29410815885058,46.02331187293851],[14.2941795654848,46.02421095355305],[14.29804421066768,46.02405500447043],[14.2979727401397,46.02315592685153],[14.30183730128653,46.02299984064604],[14.30190883570685,46.0238989152665],[14.30319703957417,46.02384685439387],[14.30326859837646,46.02474592744829],[14.30455682130071,46.02469385000654],[14.30462840448666,46.02559292149459],[14.30591664646835,46.02554082748298]]],"type":"Polygon"}
+}

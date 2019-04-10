@@ -1,0 +1,74 @@
+{
+  "id": 1293725215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.38327,46.1974,15.38327,46.1974",
+    "geom:latitude":46.1974,
+    "geom:longitude":15.38327,
+    "gn:admin1_code":"L7",
+    "gn:asciiname":"Sibenik",
+    "gn:country_code":"SI",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987685,
+    "gn:latitude":46.1974,
+    "gn:longitude":15.38327,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160ibenik",
+    "gn:population":114,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160ibenik"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959791,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987685,
+        "wk:page":"%C5%A0ibenik%2C_%C5%A0entjur"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"44ab4feee13ea42a2f7023b300ecde0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959791,
+            "locality_id":1293725215,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1293725215,
+    "wof:lastmodified":1537700291,
+    "wof:name":"Sibenik",
+    "wof:parent_id":1108959791,
+    "wof:placetype":"locality",
+    "wof:population":114,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.38327,
+    46.1974,
+    15.38327,
+    46.1974
+],
+  "geometry": {"coordinates":[15.38327,46.1974],"type":"Point"}
+}

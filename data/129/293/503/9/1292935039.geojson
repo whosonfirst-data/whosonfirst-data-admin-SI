@@ -1,0 +1,71 @@
+{
+  "id": 1292935039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.26285,46.03544,14.26285,46.03544",
+    "geom:latitude":46.03544,
+    "geom:longitude":14.26285,
+    "gn:admin1_code":"H3",
+    "gn:asciiname":"Samotorica",
+    "gn:country_code":"SI",
+    "gn:dem":713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988193,
+    "gn:latitude":46.03544,
+    "gn:longitude":14.26285,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Samotorica",
+    "gn:population":66,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959865,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988193,
+        "wk:page":"Samotorica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"374a658f694e6a0b785bad29167732b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959865,
+            "locality_id":1292935039,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1292935039,
+    "wof:lastmodified":1537573504,
+    "wof:name":"Samotorica",
+    "wof:parent_id":1108959865,
+    "wof:placetype":"locality",
+    "wof:population":66,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.26285,
+    46.03544,
+    14.26285,
+    46.03544
+],
+  "geometry": {"coordinates":[14.26285,46.03544],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310041909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.22175,45.6232,15.22175,45.6232",
+    "geom:latitude":45.6232,
+    "geom:longitude":15.22175,
+    "gn:admin1_code":"B1",
+    "gn:asciiname":"Stranska Vas pri Semicu",
+    "gn:country_code":"SI",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988270,
+    "gn:latitude":45.6232,
+    "gn:longitude":15.22175,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Stranska Vas pri Semi\u010du",
+    "gn:population":60,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stranska Vas pri Semi\u010du"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959601,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988270,
+        "wk:page":"Stranska_Vas_pri_Semi%C4%8Du"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e59700b3a8542be26f5c58329f492e5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959601,
+            "locality_id":1310041909,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1310041909,
+    "wof:lastmodified":1537700303,
+    "wof:name":"Stranska Vas pri Semicu",
+    "wof:parent_id":1108959601,
+    "wof:placetype":"locality",
+    "wof:population":60,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.22175,
+    45.6232,
+    15.22175,
+    45.6232
+],
+  "geometry": {"coordinates":[15.22175,45.6232],"type":"Point"}
+}

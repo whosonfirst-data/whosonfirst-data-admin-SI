@@ -1,0 +1,71 @@
+{
+  "id": 1259517691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.73083,46.48861,15.73083,46.48861",
+    "geom:latitude":46.48861,
+    "geom:longitude":15.73083,
+    "gn:admin1_code":"C8",
+    "gn:asciiname":"Loka",
+    "gn:country_code":"SI",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196274,
+    "gn:latitude":46.48861,
+    "gn:longitude":15.73083,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Loka",
+    "gn:population":287,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959783,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196274,
+        "wk:page":"Loka%2C_Star%C5%A1e"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a74cb4f2434a8e7a4f4ae5e0971a8b70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959783,
+            "locality_id":1259517691,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1259517691,
+    "wof:lastmodified":1537573424,
+    "wof:name":"Loka",
+    "wof:parent_id":1108959783,
+    "wof:placetype":"locality",
+    "wof:population":287,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.73083,
+    46.48861,
+    15.73083,
+    46.48861
+],
+  "geometry": {"coordinates":[15.73083,46.48861],"type":"Point"}
+}

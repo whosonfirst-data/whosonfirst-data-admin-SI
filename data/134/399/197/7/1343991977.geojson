@@ -1,0 +1,74 @@
+{
+  "id": 1343991977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.22053,46.28767,14.22053,46.28767",
+    "geom:latitude":46.28767,
+    "geom:longitude":14.22053,
+    "gn:admin1_code":"A3",
+    "gn:asciiname":"Cesnjica pri Kropi",
+    "gn:country_code":"SI",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987708,
+    "gn:latitude":46.28767,
+    "gn:longitude":14.22053,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u010ce\u0161njica pri Kropi",
+    "gn:population":111,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010ce\u0161njica pri Kropi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959825,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987708,
+        "wk:page":"%C4%8Ce%C5%A1njica_pri_Kropi"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fea28e2783625f4a129ffe91225180db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959825,
+            "locality_id":1343991977,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1343991977,
+    "wof:lastmodified":1537700291,
+    "wof:name":"Cesnjica pri Kropi",
+    "wof:parent_id":1108959825,
+    "wof:placetype":"locality",
+    "wof:population":111,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.22053,
+    46.28767,
+    14.22053,
+    46.28767
+],
+  "geometry": {"coordinates":[14.22053,46.28767],"type":"Point"}
+}

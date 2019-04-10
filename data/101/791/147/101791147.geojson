@@ -1,0 +1,119 @@
+{
+  "id": 101791147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00011,
+    "geom:area_square_m":937614.462179,
+    "geom:bbox":"16.3056735105,46.6140769899,16.325523262,46.63113641",
+    "geom:latitude":46.624399,
+    "geom:longitude":16.316613,
+    "gn:population":1509,
+    "iso:country":"SI",
+    "lbl:latitude":46.626445,
+    "lbl:longitude":16.316463,
+    "mps:latitude":46.626445,
+    "mps:longitude":16.316463,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0648\u0631\u0646\u064a\u062a\u0634\u064a"
+    ],
+    "name:bos_x_preferred":[
+        "Turni\u0161\u010de"
+    ],
+    "name:deu_x_preferred":[
+        "Turnischa"
+    ],
+    "name:epo_x_preferred":[
+        "Turni\u0161\u010de"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0631\u0646\u06cc\u0634\u0686\u0647"
+    ],
+    "name:hbs_x_preferred":[
+        "Turni\u0161\u010de"
+    ],
+    "name:hrv_x_preferred":[
+        "Turni\u0161\u010de"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00e1ntornya"
+    ],
+    "name:ron_x_preferred":[
+        "Turni\u0161\u010de"
+    ],
+    "name:slv_x_preferred":[
+        "Turni\u0161\u010de"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0443\u0440\u043d\u0438\u0448\u0447\u0435"
+    ],
+    "name:unk_x_variant":[
+        "B\u00e1ntornya"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"Turni\u0161\u010de",
+    "qs:la_lc":"*SI132000",
+    "qs:level":"locality",
+    "qs:loc":"Turni\u0161\u010de",
+    "qs:loc_alt":"Turnisce",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959603,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188606,
+        "gp:id":531960,
+        "qs:id":147098,
+        "qs_pg:id":147098,
+        "wd:id":"Q279490",
+        "wk:page":"Turni\u0161\u010de"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"093593ce5a4b038060b9180442cb3fcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959603,
+            "locality_id":101791147,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":101791147,
+    "wof:lastmodified":1531170199,
+    "wof:name":"Turni\u0161\u010de",
+    "wof:parent_id":1108959603,
+    "wof:placetype":"locality",
+    "wof:population":1509,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.30567351053952,
+    46.61407698991064,
+    16.32552326196213,
+    46.63113640997511
+],
+  "geometry": {"coordinates":[[[16.32106948934103,46.6275282020535],[16.32064166564811,46.62394122560681],[16.32454367771982,46.62371140776258],[16.32422266325358,46.62102118245127],[16.32552326196213,46.62094454954962],[16.32530923214887,46.6191510659379],[16.32270811825003,46.61930431004629],[16.32260115378398,46.61840756433412],[16.32130061347084,46.61848416131909],[16.32087288905905,46.61489716637482],[16.31957243225366,46.61497374167004],[16.31946553450808,46.61407698991064],[16.31816509603419,46.6141535479976],[16.31902023447674,46.62132755688071],[16.31771961880008,46.6214041111935],[16.31793340647846,46.62319761028226],[16.31663274394737,46.62327415186263],[16.31673962303375,46.62417090198267],[16.31283754989482,46.62440043688861],[16.31273073600875,46.62350368229198],[16.3114300599164,46.62358016099768],[16.3115368520688,46.62447691708587],[16.31023615085377,46.62455338156383],[16.31044970563494,46.62634689488976],[16.30784820609824,46.62649978265176],[16.30816844270652,46.62919005700513],[16.30686762264185,46.6292664817783],[16.30697435573211,46.6301632401653],[16.30567351053952,46.63023965070812],[16.30578022653572,46.63113640997511],[16.31228452732131,46.63075419259366],[16.31217770262077,46.62985744078253],[16.31477935572616,46.62970444676506],[16.31467249219747,46.62880769732732],[16.31857488120141,46.62857809287385],[16.31846795711192,46.62768134730379],[16.32106948934103,46.6275282020535]]],"type":"Polygon"}
+}

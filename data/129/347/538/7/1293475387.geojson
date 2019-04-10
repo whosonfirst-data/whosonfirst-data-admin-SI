@@ -1,0 +1,67 @@
+{
+  "id": 1293475387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.61775,45.95127,15.61775,45.95127",
+    "geom:latitude":45.95127,
+    "geom:longitude":15.61775,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Trebez",
+    "gn:country_code":"SI",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":10794174,
+    "gn:latitude":45.95127,
+    "gn:longitude":15.61775,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Trebe\u017e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10794174
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8ccce26d3e2a5c78606495afb0a5c14e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1293475387,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1293475387,
+    "wof:lastmodified":1536804440,
+    "wof:name":"Trebez",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.61775,
+    45.95127,
+    15.61775,
+    45.95127
+],
+  "geometry": {"coordinates":[15.61775,45.95127],"type":"Point"}
+}

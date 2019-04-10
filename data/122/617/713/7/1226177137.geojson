@@ -1,0 +1,77 @@
+{
+  "id": 1226177137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.96965,45.51076,14.96965,45.51076",
+    "geom:latitude":45.51076,
+    "geom:longitude":14.96965,
+    "gn:admin1_code":"H7",
+    "gn:asciiname":"Spodnja Bilpa",
+    "gn:country_code":"SI",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989326,
+    "gn:latitude":45.51076,
+    "gn:longitude":14.96965,
+    "gn:modification_date":"2015-11-20",
+    "gn:name":"Spodnja Bilpa",
+    "gn:population":7,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Dolenja Bilpa"
+    ],
+    "name:slv_x_preferred":[
+        "Dolenja Bilpa"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959919,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989326,
+        "wk:page":"Spodnja_Bilpa"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"495e3b264575a15ea247c14e262acd0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959919,
+            "locality_id":1226177137,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1226177137,
+    "wof:lastmodified":1537700324,
+    "wof:name":"Spodnja Bilpa",
+    "wof:parent_id":1108959919,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.96965,
+    45.51076,
+    14.96965,
+    45.51076
+],
+  "geometry": {"coordinates":[14.96965,45.51076],"type":"Point"}
+}

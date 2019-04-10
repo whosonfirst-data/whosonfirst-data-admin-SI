@@ -1,0 +1,74 @@
+{
+  "id": 1276387613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.5959,45.9717,14.5959,45.9717",
+    "geom:latitude":45.9717,
+    "geom:longitude":14.5959,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Gajnice",
+    "gn:country_code":"SI",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988576,
+    "gn:latitude":45.9717,
+    "gn:longitude":14.5959,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Gajni\u010de",
+    "gn:population":42,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gajni\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959533,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988576,
+        "wk:page":"Gajni%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"683fc1b98507694430fe63f12791d76b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959533,
+            "locality_id":1276387613,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1276387613,
+    "wof:lastmodified":1537700309,
+    "wof:name":"Gajnice",
+    "wof:parent_id":1108959533,
+    "wof:placetype":"locality",
+    "wof:population":42,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.5959,
+    45.9717,
+    14.5959,
+    45.9717
+],
+  "geometry": {"coordinates":[14.5959,45.9717],"type":"Point"}
+}

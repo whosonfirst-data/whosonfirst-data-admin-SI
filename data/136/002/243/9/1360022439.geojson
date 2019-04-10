@@ -1,0 +1,74 @@
+{
+  "id": 1360022439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.03333,46.1,15.03333,46.1",
+    "geom:latitude":46.1,
+    "geom:longitude":15.03333,
+    "gn:admin1_code":"D3",
+    "gn:asciiname":"Zavrsje",
+    "gn:country_code":"SI",
+    "gn:dem":853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186699,
+    "gn:latitude":46.1,
+    "gn:longitude":15.03333,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Zavr\u0161je",
+    "gn:population":47,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zavr\u0161je"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959911,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186699,
+        "wk:page":"Zavr%C5%A1je%2C_Trbovlje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0831de7b0eff521ac693c36e69e19928",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959911,
+            "locality_id":1360022439,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1360022439,
+    "wof:lastmodified":1537700170,
+    "wof:name":"Zavrsje",
+    "wof:parent_id":1108959911,
+    "wof:placetype":"locality",
+    "wof:population":47,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.03333,
+    46.1,
+    15.03333,
+    46.1
+],
+  "geometry": {"coordinates":[15.03333,46.1],"type":"Point"}
+}

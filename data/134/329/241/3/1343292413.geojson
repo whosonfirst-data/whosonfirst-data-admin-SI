@@ -1,0 +1,71 @@
+{
+  "id": 1343292413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.40226,45.95049,15.40226,45.95049",
+    "geom:latitude":45.95049,
+    "geom:longitude":15.40226,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Nova Gora",
+    "gn:country_code":"SI",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989553,
+    "gn:latitude":45.95049,
+    "gn:longitude":15.40226,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Nova Gora",
+    "gn:population":62,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989553,
+        "wk:page":"Nova_Gora%2C_Kr%C5%A1ko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a42226290eebc882511f2f677d7311b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1343292413,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1343292413,
+    "wof:lastmodified":1537573545,
+    "wof:name":"Nova Gora",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":62,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.40226,
+    45.95049,
+    15.40226,
+    45.95049
+],
+  "geometry": {"coordinates":[15.40226,45.95049],"type":"Point"}
+}

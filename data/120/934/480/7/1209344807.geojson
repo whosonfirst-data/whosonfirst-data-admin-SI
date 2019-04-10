@@ -1,0 +1,65 @@
+{
+  "id": 1209344807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.49223,46.14782,14.49223,46.14782",
+    "geom:latitude":46.14782,
+    "geom:longitude":14.49223,
+    "gn:admin1_code":"E3",
+    "gn:asciiname":"Vojsko",
+    "gn:country_code":"SI",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987526,
+    "gn:latitude":46.14782,
+    "gn:longitude":14.49223,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Vojsko",
+    "gn:population":137,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987526,
+        "wk:page":"Vojsko%2C_Vodice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4847434bcfb2312ff377e4a3f16c2165",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209344807
+        }
+    ],
+    "wof:id":1209344807,
+    "wof:lastmodified":1537573483,
+    "wof:name":"Vojsko",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":137,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.49223,
+    46.14782,
+    14.49223,
+    46.14782
+],
+  "geometry": {"coordinates":[14.49223,46.14782],"type":"Point"}
+}

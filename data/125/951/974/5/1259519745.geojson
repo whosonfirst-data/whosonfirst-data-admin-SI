@@ -1,0 +1,74 @@
+{
+  "id": 1259519745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.44469,46.22239,15.44469,46.22239",
+    "geom:latitude":46.22239,
+    "geom:longitude":15.44469,
+    "gn:admin1_code":"C5",
+    "gn:asciiname":"Zavrse pri Grobelnem",
+    "gn:country_code":"SI",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989496,
+    "gn:latitude":46.22239,
+    "gn:longitude":15.44469,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Zavr\u0161e pri Grobelnem",
+    "gn:population":140,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zavr\u0161e pri Grobelnem"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959607,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989496,
+        "wk:page":"Zavr%C5%A1e_pri_Grobelnem"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"575f6143bdb9bf65691cbef9915aaecd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959607,
+            "locality_id":1259519745,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1259519745,
+    "wof:lastmodified":1537700327,
+    "wof:name":"Zavrse pri Grobelnem",
+    "wof:parent_id":1108959607,
+    "wof:placetype":"locality",
+    "wof:population":140,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.44469,
+    46.22239,
+    15.44469,
+    46.22239
+],
+  "geometry": {"coordinates":[15.44469,46.22239],"type":"Point"}
+}

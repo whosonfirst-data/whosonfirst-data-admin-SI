@@ -1,0 +1,70 @@
+{
+  "id": 1209071837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.01278,45.73361,14.01278,45.73361",
+    "geom:latitude":45.73361,
+    "geom:longitude":14.01278,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Dolenja Vas",
+    "gn:country_code":"SI",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201848,
+    "gn:latitude":45.73361,
+    "gn:longitude":14.01278,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Dolenja Vas",
+    "gn:population":163,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Villabassa",
+        "Dolenja Vac",
+        "Dolenja Vas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201848,
+        "wk:page":"Dolenja_Vas%2C_Diva%C4%8Da"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ee61191d6153a5314c033fafba5c40c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209071837
+        }
+    ],
+    "wof:id":1209071837,
+    "wof:lastmodified":1537700253,
+    "wof:name":"Dolenja Vas",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":163,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.01278,
+    45.73361,
+    14.01278,
+    45.73361
+],
+  "geometry": {"coordinates":[14.01278,45.73361],"type":"Point"}
+}

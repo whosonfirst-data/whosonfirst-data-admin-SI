@@ -1,0 +1,67 @@
+{
+  "id": 1209042709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.59072,46.09676,13.59072,46.09676",
+    "geom:latitude":46.09676,
+    "geom:longitude":13.59072,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Fili",
+    "gn:country_code":"SI",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10794020,
+    "gn:latitude":46.09676,
+    "gn:longitude":13.59072,
+    "gn:modification_date":"2015-10-01",
+    "gn:name":"Fili",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Fileji"
+    ],
+    "name:slv_x_preferred":[
+        "Fileji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10794020
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9aaf2bbf23191bfffe3e736152dd8f2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209042709
+        }
+    ],
+    "wof:id":1209042709,
+    "wof:lastmodified":1537700336,
+    "wof:name":"Fili",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.59072,
+    46.09676,
+    13.59072,
+    46.09676
+],
+  "geometry": {"coordinates":[13.59072,46.09676],"type":"Point"}
+}

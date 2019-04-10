@@ -1,0 +1,71 @@
+{
+  "id": 1293864995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.22466,46.24577,15.22466,46.24577",
+    "geom:latitude":46.24577,
+    "geom:longitude":15.22466,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Medlog",
+    "gn:country_code":"SI",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987093,
+    "gn:latitude":46.24577,
+    "gn:longitude":15.22466,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Medlog",
+    "gn:population":281,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959693,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987093,
+        "wk:page":"Medlog"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b191665937ec2bff4ff288fcc1d317e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959693,
+            "locality_id":1293864995,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1293864995,
+    "wof:lastmodified":1537573468,
+    "wof:name":"Medlog",
+    "wof:parent_id":1108959693,
+    "wof:placetype":"locality",
+    "wof:population":281,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.22466,
+    46.24577,
+    15.22466,
+    46.24577
+],
+  "geometry": {"coordinates":[15.22466,46.24577],"type":"Point"}
+}

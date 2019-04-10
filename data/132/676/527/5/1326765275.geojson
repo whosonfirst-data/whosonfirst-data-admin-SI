@@ -1,0 +1,71 @@
+{
+  "id": 1326765275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.63066,46.24848,15.63066,46.24848",
+    "geom:latitude":46.24848,
+    "geom:longitude":15.63066,
+    "gn:admin1_code":"A7",
+    "gn:asciiname":"Ratanska Vas",
+    "gn:country_code":"SI",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987996,
+    "gn:latitude":46.24848,
+    "gn:longitude":15.63066,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ratanska Vas",
+    "gn:population":83,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959803,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987996,
+        "wk:page":"Ratanska_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3c0170e748865757067f2cbf6f9acd54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959803,
+            "locality_id":1326765275,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1326765275,
+    "wof:lastmodified":1537573498,
+    "wof:name":"Ratanska Vas",
+    "wof:parent_id":1108959803,
+    "wof:placetype":"locality",
+    "wof:population":83,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.63066,
+    46.24848,
+    15.63066,
+    46.24848
+],
+  "geometry": {"coordinates":[15.63066,46.24848],"type":"Point"}
+}

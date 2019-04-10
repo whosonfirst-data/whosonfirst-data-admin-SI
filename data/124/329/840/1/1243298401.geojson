@@ -1,0 +1,74 @@
+{
+  "id": 1243298401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.87965,46.31004,15.87965,46.31004",
+    "geom:latitude":46.31004,
+    "geom:longitude":15.87965,
+    "gn:admin1_code":"K1",
+    "gn:asciiname":"Sedlasek",
+    "gn:country_code":"SI",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987152,
+    "gn:latitude":46.31004,
+    "gn:longitude":15.87965,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Sedla\u0161ek",
+    "gn:population":242,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sedla\u0161ek"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959757,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987152,
+        "wk:page":"Sedla%C5%A1ek"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d466b12b36565e7db5208c14529c5f30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959757,
+            "locality_id":1243298401,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1243298401,
+    "wof:lastmodified":1537700280,
+    "wof:name":"Sedlasek",
+    "wof:parent_id":1108959757,
+    "wof:placetype":"locality",
+    "wof:population":242,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.87965,
+    46.31004,
+    15.87965,
+    46.31004
+],
+  "geometry": {"coordinates":[15.87965,46.31004],"type":"Point"}
+}

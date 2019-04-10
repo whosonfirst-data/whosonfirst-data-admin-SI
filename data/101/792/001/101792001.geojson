@@ -1,0 +1,145 @@
+{
+  "id": 101792001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000249,
+    "geom:area_square_m":2114659.677675,
+    "geom:bbox":"14.9380803706,46.5337589164,14.9764987087,46.5493303149",
+    "geom:latitude":46.542719,
+    "geom:longitude":14.960538,
+    "gn:population":6979,
+    "iso:country":"SI",
+    "lbl:latitude":46.542438,
+    "lbl:longitude":14.960539,
+    "mps:latitude":46.542438,
+    "mps:longitude":14.960539,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0627\u0641\u0646\u0647 \u0646\u0627\u062f \u0643\u0631\u0648\u0634\u0643\u064a\u0645"
+    ],
+    "name:bos_x_preferred":[
+        "Ravne na Koro\u0161kem"
+    ],
+    "name:dan_x_preferred":[
+        "Ravne na Koro\u0161kem"
+    ],
+    "name:deu_x_historical":[
+        "Gutenstein"
+    ],
+    "name:deu_x_preferred":[
+        "Gutenstein"
+    ],
+    "name:deu_x_variant":[
+        "Gutenstein in K\u00e4rnten"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u0648\u0646\u0647 \u0646\u0627\u062f \u06a9\u0631\u0634\u06a9\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Ravne na Koro\u0161kem"
+    ],
+    "name:hrv_x_preferred":[
+        "Ravne na Koro\u0161kem"
+    ],
+    "name:hun_x_preferred":[
+        "Ravne na Koro\u0161kem"
+    ],
+    "name:ind_x_preferred":[
+        "Ravne na Koro\u0161kem"
+    ],
+    "name:ita_x_preferred":[
+        "Ravne na Koro\u0161kem"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30f4\u30cd\u30fb\u30ca\u30fb\u30b3\u30ed\u30b7\u30e5\u30b1\u30e0"
+    ],
+    "name:slv_x_historical":[
+        "Gu\u0161tanj"
+    ],
+    "name:slv_x_preferred":[
+        "Gu\u0161tanj"
+    ],
+    "name:slv_x_variant":[
+        "Ravne na Koro\u0161kem"
+    ],
+    "name:und_x_preferred":[
+        "Ravne"
+    ],
+    "name:unk_x_variant":[
+        "Ravne"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"Ravne na Koro\u0161kem",
+    "qs:la_lc":"*SI103000",
+    "qs:level":"locality",
+    "qs:loc":"Ravne na Koro\u0161kem",
+    "qs:loc_alt":"Ravne na Koroskem",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:elevation":410.0,
+    "wd:latitude":46.543736,
+    "wd:longitude":14.964233,
+    "wd:wordcount":513,
+    "wof:belongsto":[
+        102191581,
+        1108959643,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06f09076-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3191845,
+        "gp:id":55852054,
+        "qs:id":312663,
+        "qs_pg:id":529444,
+        "wd:id":"Q15911",
+        "wk:page":"Ravne na Koro\u0161kem"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e2d0f96af0dd3d84cfdcbef0954775cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959643,
+            "locality_id":101792001,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":101792001,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531170445,
+    "wof:name":"Ravne na Koro\u0161kem",
+    "wof:parent_id":1108959643,
+    "wof:placetype":"locality",
+    "wof:population":6979,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.93808037055123,
+    46.53375891640746,
+    14.97649870868656,
+    46.54933031487178
+],
+  "geometry": {"coordinates":[[[14.95498349601002,46.5467546534303],[14.96278478734706,46.54639413329784],[14.96286859054572,46.54729234993772],[14.9719701286586,46.54687101921149],[14.97180222090992,46.54507460179349],[14.97310238642365,46.54501435111933],[14.97285048685808,46.5423197243278],[14.97415058436172,46.54225946144743],[14.97406660336816,46.54136125257446],[14.97536667642805,46.54130097514053],[14.97519868184838,46.53950455806751],[14.97649870868656,46.5394442672557],[14.97633068517553,46.53764785029705],[14.97503070189111,46.5377081387598],[14.97511469004235,46.53860634869307],[14.96991464317153,46.53884734997564],[14.96974684473594,46.5370509201606],[14.96844686991818,46.5371111288182],[14.96827912963732,46.53531469442305],[14.96307937798088,46.53555536241345],[14.96291182648713,46.53375891640746],[14.96031202181302,46.53387915136329],[14.96039575218958,46.53477737698751],[14.9616956776282,46.53471726620148],[14.96203072268088,46.53831015843161],[14.95423060760277,46.53867061534908],[14.95431424730663,46.53956884403357],[14.95171414416228,46.53968887286118],[14.9520485651293,46.5432817913757],[14.94684797851392,46.54352167899498],[14.94718210913203,46.54711460728709],[14.93808037055123,46.54753383772857],[14.93824715261906,46.54933031487178],[14.94994975631471,46.54879114171746],[14.94986616735355,46.54789291393149],[14.95506716848519,46.54765287709591],[14.95498349601002,46.5467546534303]]],"type":"Polygon"}
+}

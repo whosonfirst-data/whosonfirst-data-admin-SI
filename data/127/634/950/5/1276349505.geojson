@@ -1,0 +1,67 @@
+{
+  "id": 1276349505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.90809,45.84952,13.90809,45.84952",
+    "geom:latitude":45.84952,
+    "geom:longitude":13.90809,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Koboli",
+    "gn:country_code":"SI",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10860672,
+    "gn:latitude":45.84952,
+    "gn:longitude":13.90809,
+    "gn:modification_date":"2015-11-04",
+    "gn:name":"Koboli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959545,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10860672
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"57d9b2e7a881189982c9155a1a196926",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959545,
+            "locality_id":1276349505,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1276349505,
+    "wof:lastmodified":1536756841,
+    "wof:name":"Koboli",
+    "wof:parent_id":1108959545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.90809,
+    45.84952,
+    13.90809,
+    45.84952
+],
+  "geometry": {"coordinates":[13.90809,45.84952],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310077021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.06111,45.52389,15.06111,45.52389",
+    "geom:latitude":45.52389,
+    "geom:longitude":15.06111,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Zagozdac",
+    "gn:country_code":"SI",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186903,
+    "gn:latitude":45.52389,
+    "gn:longitude":15.06111,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Zagozdac",
+    "gn:population":21,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959699,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186903,
+        "wk:page":"Zagozdac"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d4122f3cc73bbf7d0f2ab80886887e1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959699,
+            "locality_id":1310077021,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1310077021,
+    "wof:lastmodified":1537573384,
+    "wof:name":"Zagozdac",
+    "wof:parent_id":1108959699,
+    "wof:placetype":"locality",
+    "wof:population":21,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.06111,
+    45.52389,
+    15.06111,
+    45.52389
+],
+  "geometry": {"coordinates":[15.06111,45.52389],"type":"Point"}
+}

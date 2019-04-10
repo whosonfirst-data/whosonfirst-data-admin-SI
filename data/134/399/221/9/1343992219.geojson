@@ -1,0 +1,74 @@
+{
+  "id": 1343992219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.00337,46.08351,15.00337,46.08351",
+    "geom:latitude":46.08351,
+    "geom:longitude":15.00337,
+    "gn:admin1_code":"E7",
+    "gn:asciiname":"Rodez",
+    "gn:country_code":"SI",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988538,
+    "gn:latitude":46.08351,
+    "gn:longitude":15.00337,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Rode\u017e",
+    "gn:population":45,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rode\u017e"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959683,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988538,
+        "wk:page":"Rode%C5%BE"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ea2f8a95c55b63a990b50b9f23255ec0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959683,
+            "locality_id":1343992219,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1343992219,
+    "wof:lastmodified":1537700308,
+    "wof:name":"Rodez",
+    "wof:parent_id":1108959683,
+    "wof:placetype":"locality",
+    "wof:population":45,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.00337,
+    46.08351,
+    15.00337,
+    46.08351
+],
+  "geometry": {"coordinates":[15.00337,46.08351],"type":"Point"}
+}

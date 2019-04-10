@@ -1,0 +1,71 @@
+{
+  "id": 1327015501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.62861,45.955,15.62861,45.955",
+    "geom:latitude":45.955,
+    "geom:longitude":15.62861,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Globoko",
+    "gn:country_code":"SI",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200582,
+    "gn:latitude":45.955,
+    "gn:longitude":15.62861,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Globoko",
+    "gn:population":323,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200582,
+        "wk:page":"Globoko%2C_Bre%C5%BEice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c780af6882a3d95fb70b96bbd72f81c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1327015501,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1327015501,
+    "wof:lastmodified":1537573441,
+    "wof:name":"Globoko",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:population":323,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.62861,
+    45.955,
+    15.62861,
+    45.955
+],
+  "geometry": {"coordinates":[15.62861,45.955],"type":"Point"}
+}

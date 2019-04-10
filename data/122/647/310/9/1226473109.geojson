@@ -1,0 +1,74 @@
+{
+  "id": 1226473109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.48324,46.28404,15.48324,46.28404",
+    "geom:latitude":46.28404,
+    "geom:longitude":15.48324,
+    "gn:admin1_code":"C4",
+    "gn:asciiname":"Ostrozno pri Locah",
+    "gn:country_code":"SI",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989161,
+    "gn:latitude":46.28404,
+    "gn:longitude":15.48324,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ostro\u017eno pri Lo\u010dah",
+    "gn:population":15,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ostro\u017eno pri Lo\u010dah"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959753,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989161,
+        "wk:page":"Ostro%C5%BEno_pri_Lo%C4%8Dah"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8b5fe3d1ff18134b2131a2941a4a1e2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959753,
+            "locality_id":1226473109,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1226473109,
+    "wof:lastmodified":1537700321,
+    "wof:name":"Ostrozno pri Locah",
+    "wof:parent_id":1108959753,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.48324,
+    46.28404000000001,
+    15.48324,
+    46.28404000000001
+],
+  "geometry": {"coordinates":[15.48324,46.28404000000001],"type":"Point"}
+}

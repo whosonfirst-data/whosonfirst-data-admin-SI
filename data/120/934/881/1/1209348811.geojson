@@ -1,0 +1,67 @@
+{
+  "id": 1209348811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.30383,46.24484,14.30383,46.24484",
+    "geom:latitude":46.24484,
+    "geom:longitude":14.30383,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Sveti Jost nad Kranjem",
+    "gn:country_code":"SI",
+    "gn:dem":751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198572,
+    "gn:latitude":46.24484,
+    "gn:longitude":14.30383,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Sveti Jo\u0161t nad Kranjem",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sveti Jo\u0161t",
+        "\u0160entjo\u0161t",
+        "Jo\u0161t nad Kranjem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198572,
+        "wk:page":"Sveti_Jo%C5%A1t_nad_Kranjem"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"92f4464957eefd6dd47b39996b34042d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209348811
+        }
+    ],
+    "wof:id":1209348811,
+    "wof:lastmodified":1537700235,
+    "wof:name":"Sveti Jost nad Kranjem",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.30383,
+    46.24484,
+    14.30383,
+    46.24484
+],
+  "geometry": {"coordinates":[14.30383,46.24484],"type":"Point"}
+}

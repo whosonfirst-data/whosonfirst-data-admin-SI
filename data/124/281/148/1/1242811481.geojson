@@ -1,0 +1,71 @@
+{
+  "id": 1242811481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.1938,46.13917,15.1938,46.13917",
+    "geom:latitude":46.13917,
+    "geom:longitude":15.1938,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Sevce",
+    "gn:country_code":"SI",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988052,
+    "gn:latitude":46.13917,
+    "gn:longitude":15.1938,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Sevce",
+    "gn:population":77,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959879,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988052,
+        "wk:page":"Sevce"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"43545fe499631d7cd2d266d84cce6149",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959879,
+            "locality_id":1242811481,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1242811481,
+    "wof:lastmodified":1537573500,
+    "wof:name":"Sevce",
+    "wof:parent_id":1108959879,
+    "wof:placetype":"locality",
+    "wof:population":77,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.1938,
+    46.13917,
+    15.1938,
+    46.13917
+],
+  "geometry": {"coordinates":[15.1938,46.13917],"type":"Point"}
+}

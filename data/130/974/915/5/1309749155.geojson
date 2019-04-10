@@ -1,0 +1,74 @@
+{
+  "id": 1309749155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.59468,46.05508,15.59468,46.05508",
+    "geom:latitude":46.05508,
+    "geom:longitude":15.59468,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Gradisce",
+    "gn:country_code":"SI",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988545,
+    "gn:latitude":46.05508,
+    "gn:longitude":15.59468,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Gradi\u0161\u010de",
+    "gn:population":44,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gradi\u0161\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959581,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988545,
+        "wk:page":"Gradi%C5%A1%C4%8De%2C_Kozje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"23aa62075aa3f941dcc7d9f4719c2ef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959581,
+            "locality_id":1309749155,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1309749155,
+    "wof:lastmodified":1537700308,
+    "wof:name":"Gradisce",
+    "wof:parent_id":1108959581,
+    "wof:placetype":"locality",
+    "wof:population":44,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.59468,
+    46.05508,
+    15.59468,
+    46.05508
+],
+  "geometry": {"coordinates":[15.59468,46.05508],"type":"Point"}
+}

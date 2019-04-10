@@ -1,0 +1,71 @@
+{
+  "id": 1292992521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.52033,46.008,13.52033,46.008",
+    "geom:latitude":46.008,
+    "geom:longitude":13.52033,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kozarno",
+    "gn:country_code":"SI",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988592,
+    "gn:latitude":46.008,
+    "gn:longitude":13.52033,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kozarno",
+    "gn:population":41,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959811,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988592,
+        "wk:page":"Kozarno"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c7b06a5d2753b2d9a6d080ec42ba5209",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959811,
+            "locality_id":1292992521,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1292992521,
+    "wof:lastmodified":1537573516,
+    "wof:name":"Kozarno",
+    "wof:parent_id":1108959811,
+    "wof:placetype":"locality",
+    "wof:population":41,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.52033,
+    46.008,
+    13.52033,
+    46.008
+],
+  "geometry": {"coordinates":[13.52033,46.008],"type":"Point"}
+}

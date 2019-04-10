@@ -1,0 +1,65 @@
+{
+  "id": 1209345217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.51862,46.30951,15.51862,46.30951",
+    "geom:latitude":46.30951,
+    "geom:longitude":15.51862,
+    "gn:admin1_code":"C4",
+    "gn:asciiname":"Spodnji Jernej",
+    "gn:country_code":"SI",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988766,
+    "gn:latitude":46.30951,
+    "gn:longitude":15.51862,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Spodnji Jernej",
+    "gn:population":33,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988766,
+        "wk:page":"Spodnji_Jernej"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d81ce5006e8dfb9dcde92bc388e72f9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209345217
+        }
+    ],
+    "wof:id":1209345217,
+    "wof:lastmodified":1537573522,
+    "wof:name":"Spodnji Jernej",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":33,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.51862,
+    46.30951,
+    15.51862,
+    46.30951
+],
+  "geometry": {"coordinates":[15.51862,46.30951],"type":"Point"}
+}

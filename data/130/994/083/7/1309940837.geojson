@@ -1,0 +1,74 @@
+{
+  "id": 1309940837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3389,45.88249,15.3389,45.88249",
+    "geom:latitude":45.88249,
+    "geom:longitude":15.3389,
+    "gn:admin1_code":"B8",
+    "gn:asciiname":"Cucja Mlaka",
+    "gn:country_code":"SI",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989045,
+    "gn:latitude":45.88249,
+    "gn:longitude":15.3389,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u010cu\u010dja Mlaka",
+    "gn:population":21,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010cu\u010dja Mlaka"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959605,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989045,
+        "wk:page":"%C4%8Cu%C4%8Dja_Mlaka"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"010ee531dc6d159ad81cb9eadd2dd695",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959605,
+            "locality_id":1309940837,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1309940837,
+    "wof:lastmodified":1537700318,
+    "wof:name":"Cucja Mlaka",
+    "wof:parent_id":1108959605,
+    "wof:placetype":"locality",
+    "wof:population":21,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3389,
+    45.88249,
+    15.3389,
+    45.88249
+],
+  "geometry": {"coordinates":[15.3389,45.88249],"type":"Point"}
+}

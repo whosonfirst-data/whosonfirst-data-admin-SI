@@ -1,0 +1,74 @@
+{
+  "id": 1276266307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.43333,46.28333,14.43333,46.28333",
+    "geom:latitude":46.28333,
+    "geom:longitude":14.43333,
+    "gn:admin1_code":"B2",
+    "gn:asciiname":"Tupalice",
+    "gn:country_code":"SI",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188645,
+    "gn:latitude":46.28333,
+    "gn:longitude":14.43333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Tupali\u010de",
+    "gn:population":408,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tupali\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959647,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188645,
+        "wk:page":"Tupali%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"125cd7599d6138b73414af6ad05adfa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959647,
+            "locality_id":1276266307,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1276266307,
+    "wof:lastmodified":1537700180,
+    "wof:name":"Tupalice",
+    "wof:parent_id":1108959647,
+    "wof:placetype":"locality",
+    "wof:population":408,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.43333,
+    46.28333,
+    14.43333,
+    46.28333
+],
+  "geometry": {"coordinates":[14.43333,46.28333],"type":"Point"}
+}

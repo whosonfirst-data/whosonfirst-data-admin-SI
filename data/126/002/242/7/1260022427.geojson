@@ -1,0 +1,75 @@
+{
+  "id": 1260022427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.08519,45.5771,14.08519,45.5771",
+    "geom:latitude":45.5771,
+    "geom:longitude":14.08519,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Brezovo Brdo",
+    "gn:country_code":"SI",
+    "gn:dem":641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203328,
+    "gn:latitude":45.5771,
+    "gn:longitude":14.08519,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Brezovo Brdo",
+    "gn:population":31,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bresovoberdo",
+        "Brezovo Brdo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959549,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203328,
+        "wk:page":"Brezovo_Brdo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"29a996027589ed8ab90276e5462d8ffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959549,
+            "locality_id":1260022427,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1260022427,
+    "wof:lastmodified":1537700260,
+    "wof:name":"Brezovo Brdo",
+    "wof:parent_id":1108959549,
+    "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.08519,
+    45.5771,
+    14.08519,
+    45.5771
+],
+  "geometry": {"coordinates":[14.08519,45.5771],"type":"Point"}
+}

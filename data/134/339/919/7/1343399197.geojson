@@ -1,0 +1,73 @@
+{
+  "id": 1343399197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.79482,46.05704,13.79482,46.05704",
+    "geom:latitude":46.05704,
+    "geom:longitude":13.79482,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Drage",
+    "gn:country_code":"SI",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10858866,
+    "gn:latitude":46.05704,
+    "gn:longitude":13.79482,
+    "gn:modification_date":"2015-10-15",
+    "gn:name":"Drage",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Draga"
+    ],
+    "name:slv_x_preferred":[
+        "Draga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959487,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10858866
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2028b4285019174046a5ab80468672b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959487,
+            "locality_id":1343399197,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1343399197,
+    "wof:lastmodified":1537700337,
+    "wof:name":"Drage",
+    "wof:parent_id":1108959487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.79482,
+    46.05704,
+    13.79482,
+    46.05704
+],
+  "geometry": {"coordinates":[13.79482,46.05704],"type":"Point"}
+}

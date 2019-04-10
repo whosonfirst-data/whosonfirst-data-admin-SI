@@ -1,0 +1,174 @@
+{
+  "id": 85677569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.006208,
+    "geom:area_square_m":52775668.04478,
+    "geom:bbox":"15.9685140324,46.5112956808,16.0903153828,46.606251126",
+    "geom:latitude":46.564855,
+    "geom:longitude":16.030296,
+    "iso:country":"SI",
+    "lbl:latitude":46.563043,
+    "lbl:longitude":16.021068,
+    "mps:latitude":46.563043,
+    "mps:longitude":16.021068,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:bos_x_preferred":[
+        "Sveti Jurij"
+    ],
+    "name:eng_x_preferred":[
+        "Sveti Jurij"
+    ],
+    "name:hbs_x_preferred":[
+        "Sveti Jurij"
+    ],
+    "name:ita_x_preferred":[
+        "Sveti Jurij"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30f4\u30a7\u30c6\u30a3\u30fb\u30e6\u30ea\u30a4"
+    ],
+    "name:nld_x_preferred":[
+        "Sveti Jurij"
+    ],
+    "name:ron_x_preferred":[
+        "Sveti Jurij"
+    ],
+    "name:slv_x_preferred":[
+        "Sveti Jurij"
+    ],
+    "name:und_x_preferred":[
+        "Ljutomer"
+    ],
+    "name:unk_x_variant":[
+        "Ob\u010dina Sveti Jurij"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-1048",
+    "ne:adm1_code":"SVN-1048",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SI.PM.SJ",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"1048",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SID1",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.D1",
+    "ne:gn_id":"3239259",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Sveti Jurij ob Scavnici",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI42",
+    "ne:gns_id":"243994",
+    "ne:gns_lang":"slv",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Sveti Jurij ob Scavnici, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"46.56290000000",
+    "ne:longitude":"16.02940000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Sveti Jurij",
+    "ne:name_alt":"",
+    "ne:name_len":11,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"SJ",
+    "ne:provnum_ne":"38",
+    "ne:region":"Pomurska",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":-55848365,
+    "ne:woe_label":"",
+    "ne:woe_name":"",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Sveti Jurij",
+    "qs:a1_lc":"SVN-1048",
+    "qs:a1r":"Pomurska",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "qs:woeid":55848365,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "unlc:subdivision":"SI-116",
+    "wd:wordcount":143,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SID1",
+        "gn:id":3239259,
+        "gp:id":-55848365,
+        "hasc:id":"SI.PM.SJ",
+        "unlc:id":"SI-116"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2d6b69448a993fa0ac0cc70019c888fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677569
+        }
+    ],
+    "wof:id":85677569,
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616730,
+    "wof:name":"Sveti Jurij",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:shortcode":"SJ",
+    "wof:subdivision":"SI-116",
+    "wof:superseded_by":[
+        1108959591
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.96851403239674,
+    46.51129568075112,
+    16.0903153828487,
+    46.60625112598871
+],
+  "geometry": {"coordinates":[[[16.06964481005997,46.58728587554276],[16.07228030838957,46.58806102189868],[16.07930830243623,46.59315115050526],[16.0903153828487,46.56963837291261],[16.08923017723095,46.564083157212],[16.07775800972439,46.54186229081211],[16.04561526942916,46.54527293639694],[16.04096439039438,46.54237905474963],[16.03429812975492,46.53914927811672],[16.02825198673986,46.53328400315428],[16.02685672365891,46.53090688724308],[16.02825198673986,46.52837474170104],[16.02670169402802,46.52475739233984],[16.02654666529639,46.52155345322933],[16.02034549265039,46.51129568075112],[16.00742638521956,46.52439565713394],[15.986652458744,46.54666819947789],[15.96851403239674,46.56615021386131],[15.97828087666119,46.58596812592833],[16.01362755696624,46.59369375286445],[16.02732181165231,46.58955963776714],[16.03104251470035,46.5927119000342],[16.03693362808451,46.59648427992562],[16.04887088358447,46.60625112598871],[16.05584720168707,46.6057860379953],[16.06096316871532,46.60201365810389],[16.06607913574356,46.59079987211646],[16.06964481005997,46.58728587554276]]],"type":"Polygon"}
+}

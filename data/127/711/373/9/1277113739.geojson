@@ -1,0 +1,71 @@
+{
+  "id": 1277113739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.45201,45.94412,15.45201,45.94412",
+    "geom:latitude":45.94412,
+    "geom:longitude":15.45201,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Selce pri Leskovcu",
+    "gn:country_code":"SI",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989861,
+    "gn:latitude":45.94412,
+    "gn:longitude":15.45201,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Selce pri Leskovcu",
+    "gn:population":48,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989861,
+        "wk:page":"Selce_pri_Leskovcu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"65efba132b50afcbc19f1f8db23bb065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1277113739,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1277113739,
+    "wof:lastmodified":1537573554,
+    "wof:name":"Selce pri Leskovcu",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":48,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.45201,
+    45.94412,
+    15.45201,
+    45.94412
+],
+  "geometry": {"coordinates":[15.45201,45.94412],"type":"Point"}
+}

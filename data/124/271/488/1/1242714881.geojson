@@ -1,0 +1,75 @@
+{
+  "id": 1242714881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.41215,45.92159,15.41215,45.92159",
+    "geom:latitude":45.92159,
+    "geom:longitude":15.41215,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Straza pri Raki",
+    "gn:country_code":"SI",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189765,
+    "gn:latitude":45.92159,
+    "gn:longitude":15.41215,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Stra\u017ea pri Raki",
+    "gn:population":167,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stra\u017ea",
+        "Stra\u017ea pri Raki"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189765,
+        "wk:page":"Stra%C5%BEa_pri_Raki"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"af6509cf1b79314139b319bb2c9a1b79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1242714881,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1242714881,
+    "wof:lastmodified":1537700185,
+    "wof:name":"Straza pri Raki",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":167,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.41215,
+    45.92159,
+    15.41215,
+    45.92159
+],
+  "geometry": {"coordinates":[15.41215,45.92159],"type":"Point"}
+}

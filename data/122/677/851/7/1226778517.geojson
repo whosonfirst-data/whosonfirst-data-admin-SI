@@ -1,0 +1,78 @@
+{
+  "id": 1226778517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.00049,46.78488,16.00049,46.78488",
+    "geom:latitude":46.78488,
+    "geom:longitude":16.00049,
+    "gn:admin1_code":"A6",
+    "gn:asciiname":"Fiksinci",
+    "gn:country_code":"SI",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200848,
+    "gn:latitude":46.78488,
+    "gn:longitude":16.00049,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Fik\u0161inci",
+    "gn:population":173,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kism\u00e1riahavas",
+        "F\u00fcxlinc",
+        "F\u00fcxlinci",
+        "F\u00fcchselsdorf",
+        "Fik\u0161inci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959655,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200848,
+        "wk:page":"Fik%C5%A1inci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5d3be48e4d26b562ffada3c9d42cb18d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959655,
+            "locality_id":1226778517,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1226778517,
+    "wof:lastmodified":1537700249,
+    "wof:name":"Fiksinci",
+    "wof:parent_id":1108959655,
+    "wof:placetype":"locality",
+    "wof:population":173,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.00049,
+    46.78488,
+    16.00049,
+    46.78488
+],
+  "geometry": {"coordinates":[16.00049,46.78488],"type":"Point"}
+}

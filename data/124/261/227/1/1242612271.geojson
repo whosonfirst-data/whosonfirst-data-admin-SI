@@ -1,0 +1,80 @@
+{
+  "id": 1242612271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.16539,45.97674,15.16539,45.97674",
+    "geom:latitude":45.97674,
+    "geom:longitude":15.16539,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Spodnje Mladetice",
+    "gn:country_code":"SI",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989575,
+    "gn:latitude":45.97674,
+    "gn:longitude":15.16539,
+    "gn:modification_date":"2015-12-13",
+    "gn:name":"Spodnje Mladeti\u010de",
+    "gn:population":47,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Dolenje Mladati\u010de"
+    ],
+    "name:slv_x_preferred":[
+        "Dolenje Mladati\u010de"
+    ],
+    "name:und_x_variant":[
+        "Spodnje Mladeti\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989575,
+        "wk:page":"Spodnje_Mladeti%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7c51ed21885f1e0cefffec756998f46a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1242612271,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1242612271,
+    "wof:lastmodified":1537700329,
+    "wof:name":"Spodnje Mladetice",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":47,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.16539,
+    45.97674,
+    15.16539,
+    45.97674
+],
+  "geometry": {"coordinates":[15.16539,45.97674],"type":"Point"}
+}

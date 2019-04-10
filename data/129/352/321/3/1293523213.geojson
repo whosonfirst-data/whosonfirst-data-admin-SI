@@ -1,0 +1,71 @@
+{
+  "id": 1293523213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.85533,46.47488,15.85533,46.47488",
+    "geom:latitude":46.47488,
+    "geom:longitude":15.85533,
+    "gn:admin1_code":"G1",
+    "gn:asciiname":"Drstelja",
+    "gn:country_code":"SI",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987169,
+    "gn:latitude":46.47488,
+    "gn:longitude":15.85533,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Drstelja",
+    "gn:population":233,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959755,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987169,
+        "wk:page":"Drstelja"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d717cafc8b23a756af5c87f0764a2181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959755,
+            "locality_id":1293523213,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1293523213,
+    "wof:lastmodified":1537573470,
+    "wof:name":"Drstelja",
+    "wof:parent_id":1108959755,
+    "wof:placetype":"locality",
+    "wof:population":233,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.85533,
+    46.47488,
+    15.85533,
+    46.47488
+],
+  "geometry": {"coordinates":[15.85533,46.47488],"type":"Point"}
+}

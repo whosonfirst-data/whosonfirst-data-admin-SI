@@ -1,0 +1,121 @@
+{
+  "id": 101792037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000052,
+    "geom:area_square_m":448908.819182,
+    "geom:bbox":"14.9230473297,46.148309309,14.9339240105,46.1602874615",
+    "geom:latitude":46.153783,
+    "geom:longitude":14.928824,
+    "gn:population":1181,
+    "iso:country":"SI",
+    "lbl:latitude":46.153956,
+    "lbl:longitude":14.928907,
+    "mps:latitude":46.153956,
+    "mps:longitude":14.928907,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0418\u0437\u043b\u0430\u043a\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Izlake"
+    ],
+    "name:eng_x_preferred":[
+        "Izlake"
+    ],
+    "name:fre_x_preferred":[
+        "Izlake"
+    ],
+    "name:ita_x_preferred":[
+        "Izlake"
+    ],
+    "name:nld_x_preferred":[
+        "Izlake"
+    ],
+    "name:ron_x_preferred":[
+        "Izlake"
+    ],
+    "name:rum_x_preferred":[
+        "Izlake"
+    ],
+    "name:slv_x_preferred":[
+        "Izlake"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0437\u043b\u0430\u043a\u0435"
+    ],
+    "name:und_x_preferred":[
+        "Izlake"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"Zagorje ob Savi",
+    "qs:la_lc":"*SI142000",
+    "qs:level":"locality",
+    "qs:loc":"Izlake",
+    "qs:loc_alt":"Izlake",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":278,
+    "wof:belongsto":[
+        102191581,
+        1108959683,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06f289b2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3199020,
+        "gp:id":530287,
+        "qs:id":147247,
+        "qs_pg:id":147247,
+        "wd:id":"Q1753813",
+        "wk:page":"Izlake"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"32c6931dabb60184eee100395ab2719c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959683,
+            "locality_id":101792037,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":101792037,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531170967,
+    "wof:name":"Izlake",
+    "wof:parent_id":1108959683,
+    "wof:placetype":"locality",
+    "wof:population":1181,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.92304732967546,
+    46.14830930903906,
+    14.93392401045924,
+    46.16028746150715
+],
+  "geometry": {"coordinates":[[[14.93304498470536,46.15441951370201],[14.93296264757799,46.15352105428349],[14.93167188364833,46.1535807512642],[14.93142495773964,46.15088536607732],[14.93271565753219,46.15082567254757],[14.93263333462829,46.14992721080876],[14.93392401045924,46.14986750283242],[14.93384166973442,46.14896904166386],[14.9286790364107,46.14920777538765],[14.92859678474372,46.14830930903906],[14.92601549533629,46.14842858002237],[14.92609770425116,46.14932704866925],[14.92738837162199,46.14926741982708],[14.9276350838046,46.15196281884079],[14.92634435229996,46.15202245113028],[14.92683774428485,46.1574132403988],[14.92425601694464,46.15753247197057],[14.92433821860345,46.158430937118],[14.92304732967546,46.15849053065295],[14.92321170087178,46.16028746150715],[14.92450263257393,46.16022786567493],[14.92442042381322,46.15932940168619],[14.92571133154667,46.15926979140238],[14.92562910495025,46.15837132798316],[14.93079262450817,46.15813273544507],[14.93054570941888,46.1554373555054],[14.93183651869668,46.15537767182229],[14.93175419939473,46.1544792118334],[14.93304498470536,46.15441951370201]]],"type":"Polygon"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1360169083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.40305,46.00155,14.40305,46.00155",
+    "geom:latitude":46.00155,
+    "geom:longitude":14.40305,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Zabnica",
+    "gn:country_code":"SI",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987039,
+    "gn:latitude":46.00155,
+    "gn:longitude":14.40305,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"\u017dabnica",
+    "gn:population":299,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017dabnica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959895,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987039,
+        "wk:page":"%C5%BDabnica%2C_Brezovica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d6aab42ed1e0f509e7b49e6eb9124f7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959895,
+            "locality_id":1360169083,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1360169083,
+    "wof:lastmodified":1537700278,
+    "wof:name":"Zabnica",
+    "wof:parent_id":1108959895,
+    "wof:placetype":"locality",
+    "wof:population":299,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.40305,
+    46.00155,
+    14.40305,
+    46.00155
+],
+  "geometry": {"coordinates":[14.40305,46.00155],"type":"Point"}
+}

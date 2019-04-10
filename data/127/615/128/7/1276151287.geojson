@@ -1,0 +1,74 @@
+{
+  "id": 1276151287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.97226,46.04605,14.97226,46.04605",
+    "geom:latitude":46.04605,
+    "geom:longitude":14.97226,
+    "gn:admin1_code":"I5",
+    "gn:asciiname":"Borovak pri Polsniku",
+    "gn:country_code":"SI",
+    "gn:dem":752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989007,
+    "gn:latitude":46.04605,
+    "gn:longitude":14.97226,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Borovak pri Pol\u0161niku",
+    "gn:population":22,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Borovak pri Pol\u0161niku"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959907,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989007,
+        "wk:page":"Borovak_pri_Pol%C5%A1niku"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"be4fb93e16b492badbd08465f7d1d6d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959907,
+            "locality_id":1276151287,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1276151287,
+    "wof:lastmodified":1537700318,
+    "wof:name":"Borovak pri Polsniku",
+    "wof:parent_id":1108959907,
+    "wof:placetype":"locality",
+    "wof:population":22,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.97226,
+    46.04605,
+    14.97226,
+    46.04605
+],
+  "geometry": {"coordinates":[14.97226,46.04605],"type":"Point"}
+}

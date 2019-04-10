@@ -1,0 +1,74 @@
+{
+  "id": 1242608015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.24977,46.20759,14.24977,46.20759",
+    "geom:latitude":46.20759,
+    "geom:longitude":14.24977,
+    "gn:admin1_code":"B9",
+    "gn:asciiname":"Sevlje",
+    "gn:country_code":"SI",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987203,
+    "gn:latitude":46.20759,
+    "gn:longitude":14.24977,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160evlje",
+    "gn:population":221,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160evlje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959821,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987203,
+        "wk:page":"%C5%A0evlje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"37e7ea03baf786b7266341f0e7802737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959821,
+            "locality_id":1242608015,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1242608015,
+    "wof:lastmodified":1537700281,
+    "wof:name":"Sevlje",
+    "wof:parent_id":1108959821,
+    "wof:placetype":"locality",
+    "wof:population":221,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.24977,
+    46.20759,
+    14.24977,
+    46.20759
+],
+  "geometry": {"coordinates":[14.24977,46.20759],"type":"Point"}
+}

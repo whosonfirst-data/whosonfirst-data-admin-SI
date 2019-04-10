@@ -1,0 +1,65 @@
+{
+  "id": 1209506793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.54785,46.05265,13.54785,46.05265",
+    "geom:latitude":46.05265,
+    "geom:longitude":13.54785,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Brezovk",
+    "gn:country_code":"SI",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989343,
+    "gn:latitude":46.05265,
+    "gn:longitude":13.54785,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Brezovk",
+    "gn:population":6,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989343,
+        "wk:page":"Brezovk"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5f5a99485de0e7377a96f406a2b0ff68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209506793
+        }
+    ],
+    "wof:id":1209506793,
+    "wof:lastmodified":1537573539,
+    "wof:name":"Brezovk",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.54785,
+    46.05265,
+    13.54785,
+    46.05265
+],
+  "geometry": {"coordinates":[13.54785,46.05265],"type":"Point"}
+}

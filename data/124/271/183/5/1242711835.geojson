@@ -1,0 +1,71 @@
+{
+  "id": 1242711835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.61618,46.05913,13.61618,46.05913",
+    "geom:latitude":46.05913,
+    "geom:longitude":13.61618,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Robidni Breg",
+    "gn:country_code":"SI",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988714,
+    "gn:latitude":46.05913,
+    "gn:longitude":13.61618,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Robidni Breg",
+    "gn:population":35,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959537,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988714,
+        "wk:page":"Robidni_Breg"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"09e0007bcabe844e00fc5371273d3870",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959537,
+            "locality_id":1242711835,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1242711835,
+    "wof:lastmodified":1537573520,
+    "wof:name":"Robidni Breg",
+    "wof:parent_id":1108959537,
+    "wof:placetype":"locality",
+    "wof:population":35,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.61618,
+    46.05913,
+    13.61618,
+    46.05913
+],
+  "geometry": {"coordinates":[13.61618,46.05913],"type":"Point"}
+}

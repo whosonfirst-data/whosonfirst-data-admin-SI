@@ -1,0 +1,71 @@
+{
+  "id": 1327066619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.9164,46.31492,14.9164,46.31492",
+    "geom:latitude":46.31492,
+    "geom:longitude":14.9164,
+    "gn:admin1_code":"O9",
+    "gn:asciiname":"Nizka",
+    "gn:country_code":"SI",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987292,
+    "gn:latitude":46.31492,
+    "gn:longitude":14.9164,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Nizka",
+    "gn:population":186,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959809,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987292,
+        "wk:page":"Nizka"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8bcaf2cbb272c82dfaa325309a384858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959809,
+            "locality_id":1327066619,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1327066619,
+    "wof:lastmodified":1537573475,
+    "wof:name":"Nizka",
+    "wof:parent_id":1108959809,
+    "wof:placetype":"locality",
+    "wof:population":186,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.9164,
+    46.31492,
+    14.9164,
+    46.31492
+],
+  "geometry": {"coordinates":[14.9164,46.31492],"type":"Point"}
+}

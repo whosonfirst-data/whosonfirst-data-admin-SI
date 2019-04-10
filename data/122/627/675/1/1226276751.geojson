@@ -1,0 +1,74 @@
+{
+  "id": 1226276751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.78608,46.21839,14.78608,46.21839",
+    "geom:latitude":46.21839,
+    "geom:longitude":14.78608,
+    "gn:admin1_code":"H6",
+    "gn:asciiname":"Cirkuse v Tuhinju",
+    "gn:country_code":"SI",
+    "gn:dem":572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988102,
+    "gn:latitude":46.21839,
+    "gn:longitude":14.78608,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Cirku\u0161e v Tuhinju",
+    "gn:population":73,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cirku\u0161e v Tuhinju"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959941,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988102,
+        "wk:page":"Cirku%C5%A1e_v_Tuhinju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6b9a05fe979a2547b3b979648c323d6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959941,
+            "locality_id":1226276751,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1226276751,
+    "wof:lastmodified":1537700299,
+    "wof:name":"Cirkuse v Tuhinju",
+    "wof:parent_id":1108959941,
+    "wof:placetype":"locality",
+    "wof:population":73,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.78608,
+    46.21839,
+    14.78608,
+    46.21839
+],
+  "geometry": {"coordinates":[14.78608,46.21839],"type":"Point"}
+}

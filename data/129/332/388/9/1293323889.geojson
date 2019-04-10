@@ -1,0 +1,74 @@
+{
+  "id": 1293323889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.13491,45.77969,15.13491,45.77969",
+    "geom:latitude":45.77969,
+    "geom:longitude":15.13491,
+    "gn:admin1_code":"J7",
+    "gn:asciiname":"Boricevo",
+    "gn:country_code":"SI",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988716,
+    "gn:latitude":45.77969,
+    "gn:longitude":15.13491,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Bori\u010devo",
+    "gn:population":35,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bori\u010devo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959465,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988716,
+        "wk:page":"Bori%C4%8Devo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"30d983c6d826f6d8d130f5e12274122b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959465,
+            "locality_id":1293323889,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1293323889,
+    "wof:lastmodified":1537700312,
+    "wof:name":"Boricevo",
+    "wof:parent_id":1108959465,
+    "wof:placetype":"locality",
+    "wof:population":35,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.13491,
+    45.77969,
+    15.13491,
+    45.77969
+],
+  "geometry": {"coordinates":[15.13491,45.77969],"type":"Point"}
+}

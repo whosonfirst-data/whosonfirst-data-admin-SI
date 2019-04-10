@@ -1,0 +1,73 @@
+{
+  "id": 1260089819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.94006,45.86473,13.94006,45.86473",
+    "geom:latitude":45.86473,
+    "geom:longitude":13.94006,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Log",
+    "gn:country_code":"SI",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10860666,
+    "gn:latitude":45.86473,
+    "gn:longitude":13.94006,
+    "gn:modification_date":"2015-11-04",
+    "gn:name":"Log",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_historical":[
+        "Maria Au"
+    ],
+    "name:deu_x_preferred":[
+        "Maria Au"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959545,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10860666
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a6e6995df6a4b0aa5d3a3db6bacc1b33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959545,
+            "locality_id":1260089819,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1260089819,
+    "wof:lastmodified":1537700338,
+    "wof:name":"Log",
+    "wof:parent_id":1108959545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.94006,
+    45.86473,
+    13.94006,
+    45.86473
+],
+  "geometry": {"coordinates":[13.94006,45.86473],"type":"Point"}
+}

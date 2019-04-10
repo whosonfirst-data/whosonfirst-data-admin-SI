@@ -1,0 +1,71 @@
+{
+  "id": 1243590415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.58547,45.79833,14.58547,45.79833",
+    "geom:latitude":45.79833,
+    "geom:longitude":14.58547,
+    "gn:admin1_code":"D8",
+    "gn:asciiname":"Borovec pri Karlovici",
+    "gn:country_code":"SI",
+    "gn:dem":669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989666,
+    "gn:latitude":45.79833,
+    "gn:longitude":14.58547,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Borovec pri Karlovici",
+    "gn:population":8,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959859,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989666,
+        "wk:page":"Borovec_pri_Karlovici"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fd8919cd4ca050981cfcefe2fafb5408",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959859,
+            "locality_id":1243590415,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1243590415,
+    "wof:lastmodified":1537573549,
+    "wof:name":"Borovec pri Karlovici",
+    "wof:parent_id":1108959859,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.58547,
+    45.79833,
+    14.58547,
+    45.79833
+],
+  "geometry": {"coordinates":[14.58547,45.79833],"type":"Point"}
+}

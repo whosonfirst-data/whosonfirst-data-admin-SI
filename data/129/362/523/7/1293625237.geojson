@@ -1,0 +1,71 @@
+{
+  "id": 1293625237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.20917,46.32374,14.20917,46.32374",
+    "geom:latitude":46.32374,
+    "geom:longitude":14.20917,
+    "gn:admin1_code":"A3",
+    "gn:asciiname":"Globoko",
+    "gn:country_code":"SI",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988702,
+    "gn:latitude":46.32374,
+    "gn:longitude":14.20917,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Globoko",
+    "gn:population":36,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959825,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988702,
+        "wk:page":"Globoko%2C_Radovljica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"eac7f9bacde3ee17d3981efb3d586fd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959825,
+            "locality_id":1293625237,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1293625237,
+    "wof:lastmodified":1537573520,
+    "wof:name":"Globoko",
+    "wof:parent_id":1108959825,
+    "wof:placetype":"locality",
+    "wof:population":36,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.20917,
+    46.32374,
+    14.20917,
+    46.32374
+],
+  "geometry": {"coordinates":[14.20917,46.32374],"type":"Point"}
+}

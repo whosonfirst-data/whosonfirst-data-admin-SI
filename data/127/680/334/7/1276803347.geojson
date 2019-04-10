@@ -1,0 +1,74 @@
+{
+  "id": 1276803347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.08272,46.41323,14.08272,46.41323",
+    "geom:latitude":46.41323,
+    "geom:longitude":14.08272,
+    "gn:admin1_code":"H4",
+    "gn:asciiname":"Kocna",
+    "gn:country_code":"SI",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987207,
+    "gn:latitude":46.41323,
+    "gn:longitude":14.08272,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ko\u010dna",
+    "gn:population":218,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ko\u010dna"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959875,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987207,
+        "wk:page":"Ko%C4%8Dna%2C_Jesenice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"44b2d18b5a159db7e746fd165b88dae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959875,
+            "locality_id":1276803347,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1276803347,
+    "wof:lastmodified":1537700281,
+    "wof:name":"Kocna",
+    "wof:parent_id":1108959875,
+    "wof:placetype":"locality",
+    "wof:population":218,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.08272,
+    46.41323,
+    14.08272,
+    46.41323
+],
+  "geometry": {"coordinates":[14.08272,46.41323],"type":"Point"}
+}

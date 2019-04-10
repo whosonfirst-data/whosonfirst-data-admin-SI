@@ -1,0 +1,74 @@
+{
+  "id": 1360319017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.58424,45.86172,14.58424,45.86172",
+    "geom:latitude":45.86172,
+    "geom:longitude":14.58424,
+    "gn:admin1_code":"D8",
+    "gn:asciiname":"Skamevec",
+    "gn:country_code":"SI",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989298,
+    "gn:latitude":45.86172,
+    "gn:longitude":14.58424,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160kamevec",
+    "gn:population":9,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160kamevec"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959859,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989298,
+        "wk:page":"%C5%A0kamevec"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"70a1601d17bc55de9df904891ba0ca62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959859,
+            "locality_id":1360319017,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1360319017,
+    "wof:lastmodified":1537700323,
+    "wof:name":"Skamevec",
+    "wof:parent_id":1108959859,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.58424,
+    45.86172,
+    14.58424,
+    45.86172
+],
+  "geometry": {"coordinates":[14.58424,45.86172],"type":"Point"}
+}

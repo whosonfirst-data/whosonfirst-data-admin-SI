@@ -1,0 +1,75 @@
+{
+  "id": 1276679893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.50183,46.00567,13.50183,46.00567",
+    "geom:latitude":46.00567,
+    "geom:longitude":13.50183,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Neblo",
+    "gn:country_code":"SI",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194568,
+    "gn:latitude":46.00567,
+    "gn:longitude":13.50183,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Neblo",
+    "gn:population":213,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nebola",
+        "Neblo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959811,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194568,
+        "wk:page":"Neblo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"46aba9d8758ab60a1f84fcdbdb90e5ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959811,
+            "locality_id":1276679893,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1276679893,
+    "wof:lastmodified":1537700216,
+    "wof:name":"Neblo",
+    "wof:parent_id":1108959811,
+    "wof:placetype":"locality",
+    "wof:population":213,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.50183,
+    46.00567,
+    13.50183,
+    46.00567
+],
+  "geometry": {"coordinates":[13.50183,46.00567],"type":"Point"}
+}

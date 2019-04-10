@@ -1,0 +1,125 @@
+{
+  "id": 101845263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000074,
+    "geom:area_square_m":638482.587215,
+    "geom:bbox":"14.7971868052,45.9355635472,14.8157465731,45.9442595918",
+    "geom:latitude":45.939756,
+    "geom:longitude":14.808014,
+    "gn:population":1988,
+    "iso:country":"SI",
+    "lbl:latitude":45.940363,
+    "lbl:longitude":14.809561,
+    "mps:latitude":45.940363,
+    "mps:longitude":14.809561,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Ob\u010dina Ivan\u010dna Gorica"
+    ],
+    "name:deu_x_preferred":[
+        "Ivan\u010dna Gorica"
+    ],
+    "name:eng_x_preferred":[
+        "Ivan\u010dna Gorica"
+    ],
+    "name:fra_x_preferred":[
+        "Ivan\u010dna Gorica"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Ivan\u010dna Gorica"
+    ],
+    "name:ita_x_preferred":[
+        "Ivan\u010dna Gorica"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30f4\u30a1\u30f3\u30c1\u30e5\u30ca\u30fb\u30b4\u30ea\u30c4\u30a1"
+    ],
+    "name:kor_x_preferred":[
+        "\uc774\ubc18\uce58\ub098\uace0\ub9ac\ucc28"
+    ],
+    "name:lit_x_preferred":[
+        "Ivan\u010dna Gorica"
+    ],
+    "name:nld_x_preferred":[
+        "Ivan\u010dna Gorica"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Ivan\u010dna Gorica"
+    ],
+    "name:ron_x_preferred":[
+        "Ivan\u010dna Gorica"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Ivan\u010dna Gorica"
+    ],
+    "name:swe_x_preferred":[
+        "Ivan\u010dna Gorica"
+    ],
+    "name:unk_x_variant":[
+        "Hudo"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"Ivan\u010dna Gorica",
+    "qs:la_lc":"*SI039000",
+    "qs:level":"locality",
+    "qs:loc":"Ivan\u010dna Gorica",
+    "qs:loc_alt":"Ivancna Gorica",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959583,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199078,
+        "gp:id":530278,
+        "qs:id":1078925,
+        "wd:id":"Q1008048",
+        "wk:page":"Ivan\u010dna Gorica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"acda3d3cf4cbbd3a96d08204a2eb4cfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959583,
+            "locality_id":101845263,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":101845263,
+    "wof:lastmodified":1531170279,
+    "wof:name":"Ivan\u010dna Gorica",
+    "wof:parent_id":1108959583,
+    "wof:placetype":"locality",
+    "wof:population":1988,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.7971868051722,
+    45.9355635471756,
+    14.81574657310091,
+    45.9442595917738
+],
+  "geometry": {"coordinates":[[[14.81574657310091,45.94414311854774],[14.81526731826654,45.93875099891341],[14.8139815526211,45.93880923659759],[14.81382187083562,45.93701185644761],[14.81253614503817,45.93707007637158],[14.81261596304353,45.93796876785603],[14.80618719082423,45.9382596401091],[14.80594806465473,45.9355635471756],[14.80337666535746,45.93567978068944],[14.80345632831336,45.93657848114879],[14.80088487672515,45.9366946547724],[14.80096450076621,45.93759335686877],[14.79839299688916,45.93770947059932],[14.79847258201113,45.93860817433205],[14.7971868051722,45.93866620901457],[14.797345943339,45.94046361693995],[14.79863176252559,45.94040558003383],[14.79855217055666,45.93950687747702],[14.8024095496757,45.93933267691267],[14.80248920516573,45.94023137613243],[14.80377501440421,45.94017327710424],[14.80385469449482,45.94107197462313],[14.80642634785318,45.94095572774881],[14.80650607372121,45.94185442245271],[14.8077919178404,45.94179627460562],[14.80787166831362,45.94269496760757],[14.81172924924817,45.94252042753789],[14.81180906668101,45.94341911660774],[14.81309494318316,45.94336090440731],[14.81317478522635,45.9442595917738],[14.81574657310091,45.94414311854774]]],"type":"Polygon"}
+}

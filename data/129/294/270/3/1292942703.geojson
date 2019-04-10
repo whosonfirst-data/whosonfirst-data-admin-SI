@@ -1,0 +1,74 @@
+{
+  "id": 1292942703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.21977,46.45829,16.21977,46.45829",
+    "geom:latitude":46.45829,
+    "geom:longitude":16.21977,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Kajzar",
+    "gn:country_code":"SI",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987417,
+    "gn:latitude":46.45829,
+    "gn:longitude":16.21977,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kaj\u017ear",
+    "gn:population":156,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaj\u017ear"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959765,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987417,
+        "wk:page":"Kaj%C5%BEar"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"39d8f96c45c043308463bf5fde9f9642",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959765,
+            "locality_id":1292942703,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1292942703,
+    "wof:lastmodified":1537700286,
+    "wof:name":"Kajzar",
+    "wof:parent_id":1108959765,
+    "wof:placetype":"locality",
+    "wof:population":156,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.21977,
+    46.45829000000001,
+    16.21977,
+    46.45829000000001
+],
+  "geometry": {"coordinates":[16.21977,46.45829000000001],"type":"Point"}
+}

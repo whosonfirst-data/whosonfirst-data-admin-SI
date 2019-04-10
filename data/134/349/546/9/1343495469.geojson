@@ -1,0 +1,71 @@
+{
+  "id": 1343495469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.13976,46.02201,14.13976,46.02201",
+    "geom:latitude":46.02201,
+    "geom:longitude":14.13976,
+    "gn:admin1_code":"F2",
+    "gn:asciiname":"Opale",
+    "gn:country_code":"SI",
+    "gn:dem":691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988798,
+    "gn:latitude":46.02201,
+    "gn:longitude":14.13976,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Opale",
+    "gn:population":32,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959673,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988798,
+        "wk:page":"Opale"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e637d3806e1b06a942f64a5623f90bbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959673,
+            "locality_id":1343495469,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1343495469,
+    "wof:lastmodified":1537573523,
+    "wof:name":"Opale",
+    "wof:parent_id":1108959673,
+    "wof:placetype":"locality",
+    "wof:population":32,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.13976,
+    46.02201,
+    14.13976,
+    46.02201
+],
+  "geometry": {"coordinates":[14.13976,46.02201],"type":"Point"}
+}

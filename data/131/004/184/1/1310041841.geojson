@@ -1,0 +1,77 @@
+{
+  "id": 1310041841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.61083,46.27111,13.61083,46.27111",
+    "geom:latitude":46.27111,
+    "geom:longitude":13.61083,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Drezniske Ravne",
+    "gn:country_code":"SI",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201192,
+    "gn:latitude":46.27111,
+    "gn:longitude":13.61083,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Dre\u017eni\u0161ke Ravne",
+    "gn:population":143,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rauna di Dresenza",
+        "Dre\u017eni\u0161ke Ravni",
+        "Ravne",
+        "Dre\u017eni\u0161ke Ravne"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959523,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201192,
+        "wk:page":"Dre%C5%BEni%C5%A1ke_Ravne"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"cd9bc6b2a0f75abe217d3412216af401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959523,
+            "locality_id":1310041841,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1310041841,
+    "wof:lastmodified":1537700250,
+    "wof:name":"Drezniske Ravne",
+    "wof:parent_id":1108959523,
+    "wof:placetype":"locality",
+    "wof:population":143,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.61083,
+    46.27111,
+    13.61083,
+    46.27111
+],
+  "geometry": {"coordinates":[13.61083,46.27111],"type":"Point"}
+}

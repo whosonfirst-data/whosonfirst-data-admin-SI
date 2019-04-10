@@ -1,0 +1,74 @@
+{
+  "id": 1343994393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.28452,45.82373,15.28452,45.82373",
+    "geom:latitude":45.82373,
+    "geom:longitude":15.28452,
+    "gn:admin1_code":"B4",
+    "gn:asciiname":"Pristava pri Sentjerneju",
+    "gn:country_code":"SI",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989560,
+    "gn:latitude":45.82373,
+    "gn:longitude":15.28452,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Pristava pri \u0160entjerneju",
+    "gn:population":57,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pristava pri \u0160entjerneju"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959937,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989560,
+        "wk:page":"Pristava_pri_%C5%A0entjerneju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a6d736807f975bfe72a35998d9b441c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959937,
+            "locality_id":1343994393,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1343994393,
+    "wof:lastmodified":1537700328,
+    "wof:name":"Pristava pri Sentjerneju",
+    "wof:parent_id":1108959937,
+    "wof:placetype":"locality",
+    "wof:population":57,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.28452,
+    45.82373,
+    15.28452,
+    45.82373
+],
+  "geometry": {"coordinates":[15.28452,45.82373],"type":"Point"}
+}

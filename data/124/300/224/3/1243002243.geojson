@@ -1,0 +1,71 @@
+{
+  "id": 1243002243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.18839,46.63736,15.18839,46.63736",
+    "geom:latitude":46.63736,
+    "geom:longitude":15.18839,
+    "gn:admin1_code":"A2",
+    "gn:asciiname":"Sv. Trije Kralji",
+    "gn:country_code":"SI",
+    "gn:dem":772,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987186,
+    "gn:latitude":46.63736,
+    "gn:longitude":15.18839,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Sv. Trije Kralji",
+    "gn:population":227,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959557,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987186,
+        "wk:page":"Sveti_Trije_Kralji%2C_Radlje_ob_Dravi"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7eb46b7ff04edc9ecb639a3fb7d1919c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959557,
+            "locality_id":1243002243,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1243002243,
+    "wof:lastmodified":1537573471,
+    "wof:name":"Sv. Trije Kralji",
+    "wof:parent_id":1108959557,
+    "wof:placetype":"locality",
+    "wof:population":227,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.18839,
+    46.63736,
+    15.18839,
+    46.63736
+],
+  "geometry": {"coordinates":[15.18839,46.63736],"type":"Point"}
+}

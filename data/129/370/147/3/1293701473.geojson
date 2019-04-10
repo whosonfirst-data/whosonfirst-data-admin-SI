@@ -1,0 +1,65 @@
+{
+  "id": 1293701473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.26667,44.08333,15.26667,44.08333",
+    "geom:latitude":44.08333,
+    "geom:longitude":15.26667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Lonici",
+    "gn:country_code":"SI",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196218,
+    "gn:latitude":44.08333,
+    "gn:longitude":15.26667,
+    "gn:modification_date":"1993-11-01",
+    "gn:name":"Loni\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196218
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f48e6816bb5664d896cfb1d62a5920d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293701473,
+            "region_id":85684785
+        }
+    ],
+    "wof:id":1293701473,
+    "wof:lastmodified":1536975285,
+    "wof:name":"Lonici",
+    "wof:parent_id":85684785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.26667,
+    44.08333,
+    15.26667,
+    44.08333
+],
+  "geometry": {"coordinates":[15.26667,44.08333],"type":"Point"}
+}

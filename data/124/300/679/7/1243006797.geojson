@@ -1,0 +1,71 @@
+{
+  "id": 1243006797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.94729,45.99413,14.94729,45.99413",
+    "geom:latitude":45.99413,
+    "geom:longitude":14.94729,
+    "gn:admin1_code":"I5",
+    "gn:asciiname":"Kamni Vrh",
+    "gn:country_code":"SI",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988546,
+    "gn:latitude":45.99413,
+    "gn:longitude":14.94729,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kamni Vrh",
+    "gn:population":44,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959907,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988546,
+        "wk:page":"Kamni_Vrh%2C_Litija"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5f20f6b3ddfc3b7bd03494b6810a7eb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959907,
+            "locality_id":1243006797,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1243006797,
+    "wof:lastmodified":1537573515,
+    "wof:name":"Kamni Vrh",
+    "wof:parent_id":1108959907,
+    "wof:placetype":"locality",
+    "wof:population":44,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.94729,
+    45.99413,
+    14.94729,
+    45.99413
+],
+  "geometry": {"coordinates":[14.94729,45.99413],"type":"Point"}
+}

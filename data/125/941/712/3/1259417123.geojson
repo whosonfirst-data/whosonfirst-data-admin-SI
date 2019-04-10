@@ -1,0 +1,71 @@
+{
+  "id": 1259417123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.32655,46.39771,15.32655,46.39771",
+    "geom:latitude":46.39771,
+    "geom:longitude":15.32655,
+    "gn:admin1_code":"E2",
+    "gn:asciiname":"Vitanjsko Skomarje",
+    "gn:country_code":"SI",
+    "gn:dem":739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989813,
+    "gn:latitude":46.39771,
+    "gn:longitude":15.32655,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Vitanjsko Skomarje",
+    "gn:population":85,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959681,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989813,
+        "wk:page":"Vitanjsko_Skomarje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fbe9841448a069ab59cf0c9265f37ad1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959681,
+            "locality_id":1259417123,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1259417123,
+    "wof:lastmodified":1537573553,
+    "wof:name":"Vitanjsko Skomarje",
+    "wof:parent_id":1108959681,
+    "wof:placetype":"locality",
+    "wof:population":85,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.32655,
+    46.39771,
+    15.32655,
+    46.39771
+],
+  "geometry": {"coordinates":[15.32655,46.39771],"type":"Point"}
+}

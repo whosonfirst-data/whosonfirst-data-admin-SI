@@ -1,0 +1,74 @@
+{
+  "id": 1226173065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.72744,45.9519,14.72744,45.9519",
+    "geom:latitude":45.9519,
+    "geom:longitude":14.72744,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Pescenik",
+    "gn:country_code":"SI",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988086,
+    "gn:latitude":45.9519,
+    "gn:longitude":14.72744,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Pe\u0161\u010denik",
+    "gn:population":74,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pe\u0161\u010denik"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959583,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988086,
+        "wk:page":"Pe%C5%A1%C4%8Denik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"11da8abfe108a9647f6c87d292eea571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959583,
+            "locality_id":1226173065,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1226173065,
+    "wof:lastmodified":1537700299,
+    "wof:name":"Pescenik",
+    "wof:parent_id":1108959583,
+    "wof:placetype":"locality",
+    "wof:population":74,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.72744,
+    45.9519,
+    14.72744,
+    45.9519
+],
+  "geometry": {"coordinates":[14.72744,45.9519],"type":"Point"}
+}

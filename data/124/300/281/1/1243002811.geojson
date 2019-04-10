@@ -1,0 +1,71 @@
+{
+  "id": 1243002811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.5298,46.21769,15.5298,46.21769",
+    "geom:latitude":46.21769,
+    "geom:longitude":15.5298,
+    "gn:admin1_code":"C5",
+    "gn:asciiname":"Brecljevo",
+    "gn:country_code":"SI",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987382,
+    "gn:latitude":46.21769,
+    "gn:longitude":15.5298,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Brecljevo",
+    "gn:population":163,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959607,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987382,
+        "wk:page":"Brecljevo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a77a4d5846c8ad01f8cb686818024b8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959607,
+            "locality_id":1243002811,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1243002811,
+    "wof:lastmodified":1537573478,
+    "wof:name":"Brecljevo",
+    "wof:parent_id":1108959607,
+    "wof:placetype":"locality",
+    "wof:population":163,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.5298,
+    46.21769000000001,
+    15.5298,
+    46.21769000000001
+],
+  "geometry": {"coordinates":[15.5298,46.21769000000001],"type":"Point"}
+}

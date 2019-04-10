@@ -1,0 +1,67 @@
+{
+  "id": 1260156027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.97417,45.65083,13.97417,45.65083",
+    "geom:latitude":45.65083,
+    "geom:longitude":13.97417,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Pared",
+    "gn:country_code":"SI",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343532,
+    "gn:latitude":45.65083,
+    "gn:longitude":13.97417,
+    "gn:modification_date":"2008-11-05",
+    "gn:name":"Pared",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959845,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343532
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4df30295cabe1b964f06de6471ecde17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959845,
+            "locality_id":1260156027,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1260156027,
+    "wof:lastmodified":1536885132,
+    "wof:name":"Pared",
+    "wof:parent_id":1108959845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.97417,
+    45.65083,
+    13.97417,
+    45.65083
+],
+  "geometry": {"coordinates":[13.97417,45.65083],"type":"Point"}
+}

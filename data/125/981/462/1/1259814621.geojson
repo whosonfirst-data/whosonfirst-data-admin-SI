@@ -1,0 +1,74 @@
+{
+  "id": 1259814621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.98333,46.55,15.98333,46.55",
+    "geom:latitude":46.55,
+    "geom:longitude":15.98333,
+    "gn:admin1_code":"D1",
+    "gn:asciiname":"Galusak",
+    "gn:country_code":"SI",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200724,
+    "gn:latitude":46.55,
+    "gn:longitude":15.98333,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Galu\u0161ak",
+    "gn:population":67,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Galu\u0161ak"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959591,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200724,
+        "wk:page":"Galu%C5%A1ak"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8829040c8142cd802f3d148c0ea54a49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959591,
+            "locality_id":1259814621,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1259814621,
+    "wof:lastmodified":1537700247,
+    "wof:name":"Galusak",
+    "wof:parent_id":1108959591,
+    "wof:placetype":"locality",
+    "wof:population":67,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.98333,
+    46.55,
+    15.98333,
+    46.55
+],
+  "geometry": {"coordinates":[15.98333,46.55],"type":"Point"}
+}

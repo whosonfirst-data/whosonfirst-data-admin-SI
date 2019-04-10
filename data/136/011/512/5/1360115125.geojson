@@ -1,0 +1,74 @@
+{
+  "id": 1360115125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.17768,46.51057,16.17768,46.51057",
+    "geom:latitude":46.51057,
+    "geom:longitude":16.17768,
+    "gn:admin1_code":"I6",
+    "gn:asciiname":"Spodnji Kamenscak",
+    "gn:country_code":"SI",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190193,
+    "gn:latitude":46.51057,
+    "gn:longitude":16.17768,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Spodnji Kamen\u0161\u010dak",
+    "gn:population":408,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Spodnji Kamen\u0161\u010dak"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959499,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190193,
+        "wk:page":"Spodnji_Kamen%C5%A1%C4%8Dak"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"054b2f467dec8ae7c9588e57713388f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959499,
+            "locality_id":1360115125,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1360115125,
+    "wof:lastmodified":1537700188,
+    "wof:name":"Spodnji Kamenscak",
+    "wof:parent_id":1108959499,
+    "wof:placetype":"locality",
+    "wof:population":408,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.17768,
+    46.51057,
+    16.17768,
+    46.51057
+],
+  "geometry": {"coordinates":[16.17768,46.51057],"type":"Point"}
+}

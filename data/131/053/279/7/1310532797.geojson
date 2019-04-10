@@ -1,0 +1,74 @@
+{
+  "id": 1310532797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.4735,46.5407,15.4735,46.5407",
+    "geom:latitude":46.5407,
+    "geom:longitude":15.4735,
+    "gn:admin1_code":"L5",
+    "gn:asciiname":"Cresnjevec ob Dravi",
+    "gn:country_code":"SI",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218217,
+    "gn:latitude":46.5407,
+    "gn:longitude":15.4735,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"\u010cre\u0161njevec ob Dravi",
+    "gn:population":250,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010cre\u0161njevec ob Dravi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959661,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218217,
+        "wk:page":"%C4%8Cre%C5%A1njevec_ob_Dravi"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"379eb8423f1ca29612ff6c3668b90820",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959661,
+            "locality_id":1310532797,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1310532797,
+    "wof:lastmodified":1537700272,
+    "wof:name":"Cresnjevec ob Dravi",
+    "wof:parent_id":1108959661,
+    "wof:placetype":"locality",
+    "wof:population":250,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.4735,
+    46.5407,
+    15.4735,
+    46.5407
+],
+  "geometry": {"coordinates":[15.4735,46.5407],"type":"Point"}
+}

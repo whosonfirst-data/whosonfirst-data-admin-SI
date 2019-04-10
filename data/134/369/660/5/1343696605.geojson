@@ -1,0 +1,71 @@
+{
+  "id": 1343696605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.26373,46.05893,15.26373,46.05893",
+    "geom:latitude":46.05893,
+    "geom:longitude":15.26373,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Razbor",
+    "gn:country_code":"SI",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191790,
+    "gn:latitude":46.05893,
+    "gn:longitude":15.26373,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Razbor",
+    "gn:population":150,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191790,
+        "wk:page":"Razbor"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4f563c2fff6e4158f2672c2ccb948761",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1343696605,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1343696605,
+    "wof:lastmodified":1537573406,
+    "wof:name":"Razbor",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":150,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.26373,
+    46.05893,
+    15.26373,
+    46.05893
+],
+  "geometry": {"coordinates":[15.26373,46.05893],"type":"Point"}
+}

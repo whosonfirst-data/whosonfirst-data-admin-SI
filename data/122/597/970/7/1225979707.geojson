@@ -1,0 +1,74 @@
+{
+  "id": 1225979707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.85947,46.19215,14.85947,46.19215",
+    "geom:latitude":46.19215,
+    "geom:longitude":14.85947,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Brslenovica",
+    "gn:country_code":"SI",
+    "gn:dem":750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988901,
+    "gn:latitude":46.19215,
+    "gn:longitude":14.85947,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Br\u0161lenovica",
+    "gn:population":27,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Br\u0161lenovica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959807,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988901,
+        "wk:page":"Br%C5%A1lenovica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"cb4230582eefd16fca6180b9fe3cd153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959807,
+            "locality_id":1225979707,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1225979707,
+    "wof:lastmodified":1537700316,
+    "wof:name":"Brslenovica",
+    "wof:parent_id":1108959807,
+    "wof:placetype":"locality",
+    "wof:population":27,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.85947,
+    46.19215,
+    14.85947,
+    46.19215
+],
+  "geometry": {"coordinates":[14.85947,46.19215],"type":"Point"}
+}

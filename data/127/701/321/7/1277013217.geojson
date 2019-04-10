@@ -1,0 +1,74 @@
+{
+  "id": 1277013217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.81667,46.15,14.81667,46.15",
+    "geom:latitude":46.15,
+    "geom:longitude":14.81667,
+    "gn:admin1_code":"77",
+    "gn:asciiname":"Pece",
+    "gn:country_code":"SI",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193551,
+    "gn:latitude":46.15,
+    "gn:longitude":14.81667,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Pe\u010de",
+    "gn:population":213,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pe\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959515,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193551,
+        "wk:page":"Pe%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"02e289fad851dbbeec4378fc3e472769",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959515,
+            "locality_id":1277013217,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1277013217,
+    "wof:lastmodified":1537700211,
+    "wof:name":"Pece",
+    "wof:parent_id":1108959515,
+    "wof:placetype":"locality",
+    "wof:population":213,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.81667,
+    46.15,
+    14.81667,
+    46.15
+],
+  "geometry": {"coordinates":[14.81667,46.15],"type":"Point"}
+}

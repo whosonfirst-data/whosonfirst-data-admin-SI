@@ -1,0 +1,71 @@
+{
+  "id": 1293725099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.36377,46.27628,15.36377,46.27628",
+    "geom:latitude":46.27628,
+    "geom:longitude":15.36377,
+    "gn:admin1_code":"L7",
+    "gn:asciiname":"Marija Dobje",
+    "gn:country_code":"SI",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987336,
+    "gn:latitude":46.27628,
+    "gn:longitude":15.36377,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Marija Dobje",
+    "gn:population":171,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959791,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987336,
+        "wk:page":"Marija_Dobje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a56482aeb789cb40ed80c96f995b9863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959791,
+            "locality_id":1293725099,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1293725099,
+    "wof:lastmodified":1537573476,
+    "wof:name":"Marija Dobje",
+    "wof:parent_id":1108959791,
+    "wof:placetype":"locality",
+    "wof:population":171,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.36377,
+    46.27628,
+    15.36377,
+    46.27628
+],
+  "geometry": {"coordinates":[15.36377,46.27628],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242904377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.20056,46.56611,16.20056,46.56611",
+    "geom:latitude":46.56611,
+    "geom:longitude":16.20056,
+    "gn:admin1_code":"I6",
+    "gn:asciiname":"Gornje Krapje",
+    "gn:country_code":"SI",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215441,
+    "gn:latitude":46.56611,
+    "gn:longitude":16.20056,
+    "gn:modification_date":"2008-11-25",
+    "gn:name":"Gornje Krapje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959499,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215441
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"98143987aebd96c73f9c8131104b17cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959499,
+            "locality_id":1242904377,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1242904377,
+    "wof:lastmodified":1537086913,
+    "wof:name":"Gornje Krapje",
+    "wof:parent_id":1108959499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.20056,
+    46.56611,
+    16.20056,
+    46.56611
+],
+  "geometry": {"coordinates":[16.20056,46.56611],"type":"Point"}
+}

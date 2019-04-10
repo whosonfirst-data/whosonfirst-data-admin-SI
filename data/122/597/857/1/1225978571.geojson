@@ -1,0 +1,75 @@
+{
+  "id": 1225978571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.73333,46.43333,15.73333,46.43333",
+    "geom:latitude":46.43333,
+    "geom:longitude":15.73333,
+    "gn:admin1_code":"C8",
+    "gn:asciiname":"Brunsvik",
+    "gn:country_code":"SI",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203199,
+    "gn:latitude":46.43333,
+    "gn:longitude":15.73333,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Brun\u0161vik",
+    "gn:population":418,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Prun\u0161vig",
+        "Brun\u0161vik"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959783,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203199,
+        "wk:page":"Brun%C5%A1vik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"81fe17b648972c8c294344c5462e9272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959783,
+            "locality_id":1225978571,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1225978571,
+    "wof:lastmodified":1537700260,
+    "wof:name":"Brunsvik",
+    "wof:parent_id":1108959783,
+    "wof:placetype":"locality",
+    "wof:population":418,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.73333,
+    46.43333,
+    15.73333,
+    46.43333
+],
+  "geometry": {"coordinates":[15.73333,46.43333],"type":"Point"}
+}

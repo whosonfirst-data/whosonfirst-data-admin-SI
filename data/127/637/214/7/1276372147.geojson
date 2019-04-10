@@ -1,0 +1,74 @@
+{
+  "id": 1276372147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.60792,45.8271,14.60792,45.8271",
+    "geom:latitude":45.8271,
+    "geom:longitude":14.60792,
+    "gn:admin1_code":"D8",
+    "gn:asciiname":"Podsmreka pri Velikih Lascah",
+    "gn:country_code":"SI",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989018,
+    "gn:latitude":45.8271,
+    "gn:longitude":14.60792,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Podsmreka pri Velikih La\u0161\u010dah",
+    "gn:population":22,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Podsmreka pri Velikih La\u0161\u010dah"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959859,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989018,
+        "wk:page":"Podsmreka_pri_Velikih_La%C5%A1%C4%8Dah"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"259d8a6a062c2d7a6d30bd0b3c4e4144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959859,
+            "locality_id":1276372147,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1276372147,
+    "wof:lastmodified":1537700318,
+    "wof:name":"Podsmreka pri Velikih Lascah",
+    "wof:parent_id":1108959859,
+    "wof:placetype":"locality",
+    "wof:population":22,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.60792,
+    45.8271,
+    14.60792,
+    45.8271
+],
+  "geometry": {"coordinates":[14.60792,45.8271],"type":"Point"}
+}

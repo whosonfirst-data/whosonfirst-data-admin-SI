@@ -1,0 +1,71 @@
+{
+  "id": 1193171851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.16118,45.75314,15.16118,45.75314",
+    "geom:latitude":45.75314,
+    "geom:longitude":15.16118,
+    "gn:admin1_code":"J7",
+    "gn:asciiname":"Jama",
+    "gn:country_code":"SI",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988904,
+    "gn:latitude":45.75314,
+    "gn:longitude":15.16118,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Jama",
+    "gn:population":27,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959465,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988904,
+        "wk:page":"Jama%2C_Novo_Mesto"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"70f7a7b0f646f6cd7144923320402507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959465,
+            "locality_id":1193171851,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1193171851,
+    "wof:lastmodified":1537573526,
+    "wof:name":"Jama",
+    "wof:parent_id":1108959465,
+    "wof:placetype":"locality",
+    "wof:population":27,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.16118,
+    45.75314,
+    15.16118,
+    45.75314
+],
+  "geometry": {"coordinates":[15.16118,45.75314],"type":"Point"}
+}

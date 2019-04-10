@@ -1,0 +1,75 @@
+{
+  "id": 1276260583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.66306,45.74778,14.66306,45.74778",
+    "geom:latitude":45.74778,
+    "geom:longitude":14.66306,
+    "gn:admin1_code":"M1",
+    "gn:asciiname":"Lipovsica",
+    "gn:country_code":"SI",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196487,
+    "gn:latitude":45.74778,
+    "gn:longitude":14.66306,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Lipov\u0161ica",
+    "gn:population":54,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lipov\u0161\u010dica",
+        "Lipov\u0161ica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959805,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196487,
+        "wk:page":"Lipov%C5%A1ica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fe0d99c58c533b05bdf1cca0955c1902",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959805,
+            "locality_id":1276260583,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1276260583,
+    "wof:lastmodified":1537700224,
+    "wof:name":"Lipovsica",
+    "wof:parent_id":1108959805,
+    "wof:placetype":"locality",
+    "wof:population":54,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.66306,
+    45.74778,
+    14.66306,
+    45.74778
+],
+  "geometry": {"coordinates":[14.66306,45.74778],"type":"Point"}
+}

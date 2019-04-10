@@ -1,0 +1,71 @@
+{
+  "id": 1326464579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.00639,46.22306,15.00639,46.22306",
+    "geom:latitude":46.22306,
+    "geom:longitude":15.00639,
+    "gn:admin1_code":"M5",
+    "gn:asciiname":"Loke",
+    "gn:country_code":"SI",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196264,
+    "gn:latitude":46.22306,
+    "gn:longitude":15.00639,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Loke",
+    "gn:population":150,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959715,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196264,
+        "wk:page":"Loke%2C_Tabor"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f45a8094ef90738d971dc5753bcc65d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959715,
+            "locality_id":1326464579,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1326464579,
+    "wof:lastmodified":1537573424,
+    "wof:name":"Loke",
+    "wof:parent_id":1108959715,
+    "wof:placetype":"locality",
+    "wof:population":150,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.00639,
+    46.22306,
+    15.00639,
+    46.22306
+],
+  "geometry": {"coordinates":[15.00639,46.22306],"type":"Point"}
+}

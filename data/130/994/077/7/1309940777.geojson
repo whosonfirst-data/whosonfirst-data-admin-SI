@@ -1,0 +1,71 @@
+{
+  "id": 1309940777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.65594,46.18299,14.65594,46.18299",
+    "geom:latitude":46.18299,
+    "geom:longitude":14.65594,
+    "gn:admin1_code":"G7",
+    "gn:asciiname":"Zagorica pri Rovah",
+    "gn:country_code":"SI",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988481,
+    "gn:latitude":46.18299,
+    "gn:longitude":14.65594,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Zagorica pri Rovah",
+    "gn:population":47,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959799,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988481,
+        "wk:page":"Zagorica_pri_Rovah"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"cc461f102b700fa9d432969fe42cf212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959799,
+            "locality_id":1309940777,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1309940777,
+    "wof:lastmodified":1537573513,
+    "wof:name":"Zagorica pri Rovah",
+    "wof:parent_id":1108959799,
+    "wof:placetype":"locality",
+    "wof:population":47,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.65594,
+    46.18299,
+    14.65594,
+    46.18299
+],
+  "geometry": {"coordinates":[14.65594,46.18299],"type":"Point"}
+}

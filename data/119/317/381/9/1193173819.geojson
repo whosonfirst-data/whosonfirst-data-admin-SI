@@ -1,0 +1,75 @@
+{
+  "id": 1193173819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.44083,46.25472,13.44083,46.25472",
+    "geom:latitude":46.25472,
+    "geom:longitude":13.44083,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Sedlo",
+    "gn:country_code":"SI",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191176,
+    "gn:latitude":46.25472,
+    "gn:longitude":13.44083,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Sedlo",
+    "gn:population":81,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sedula",
+        "Sedlo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959523,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191176,
+        "wk:page":"Sedlo%2C_Kobarid"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e54b43b7e3f0ba7ccbdeb41505e491bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959523,
+            "locality_id":1193173819,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1193173819,
+    "wof:lastmodified":1537700197,
+    "wof:name":"Sedlo",
+    "wof:parent_id":1108959523,
+    "wof:placetype":"locality",
+    "wof:population":81,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.44083,
+    46.25472,
+    13.44083,
+    46.25472
+],
+  "geometry": {"coordinates":[13.44083,46.25472],"type":"Point"}
+}

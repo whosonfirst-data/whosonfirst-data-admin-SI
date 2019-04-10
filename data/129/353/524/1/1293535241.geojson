@@ -1,0 +1,71 @@
+{
+  "id": 1293535241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.67179,45.97507,14.67179,45.97507",
+    "geom:latitude":45.97507,
+    "geom:longitude":14.67179,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Mala Stara Vas",
+    "gn:country_code":"SI",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195790,
+    "gn:latitude":45.97507,
+    "gn:longitude":14.67179,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Mala Stara Vas",
+    "gn:population":99,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959533,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195790,
+        "wk:page":"Mala_Stara_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9ca23a7fcedba92b0dcec5cf3ae6c136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959533,
+            "locality_id":1293535241,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1293535241,
+    "wof:lastmodified":1537573422,
+    "wof:name":"Mala Stara Vas",
+    "wof:parent_id":1108959533,
+    "wof:placetype":"locality",
+    "wof:population":99,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.67179,
+    45.97507,
+    14.67179,
+    45.97507
+],
+  "geometry": {"coordinates":[14.67179,45.97507],"type":"Point"}
+}

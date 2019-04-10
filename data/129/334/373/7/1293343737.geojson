@@ -1,0 +1,76 @@
+{
+  "id": 1293343737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.06472,45.55083,14.06472,45.55083",
+    "geom:latitude":45.55083,
+    "geom:longitude":14.06472,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Gradisce pri Materiji",
+    "gn:country_code":"SI",
+    "gn:dem":594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199687,
+    "gn:latitude":45.55083,
+    "gn:longitude":14.06472,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Gradi\u0161\u010de pri Materiji",
+    "gn:population":144,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gradi\u0161\u010de",
+        "Gradischie di Castelnuovo",
+        "Gradi\u0161\u010de pri Materiji"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959549,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199687,
+        "wk:page":"Gradi%C5%A1%C4%8De_pri_Materiji"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1e6a4b2a6d2b0320da7b0a7f1b445b6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959549,
+            "locality_id":1293343737,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1293343737,
+    "wof:lastmodified":1537700241,
+    "wof:name":"Gradisce pri Materiji",
+    "wof:parent_id":1108959549,
+    "wof:placetype":"locality",
+    "wof:population":144,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.06472,
+    45.55083,
+    14.06472,
+    45.55083
+],
+  "geometry": {"coordinates":[14.06472,45.55083],"type":"Point"}
+}

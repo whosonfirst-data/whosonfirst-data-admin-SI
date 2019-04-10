@@ -1,0 +1,74 @@
+{
+  "id": 1259354449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.15694,45.56396,15.15694,45.56396",
+    "geom:latitude":45.56396,
+    "geom:longitude":15.15694,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Blatnik pri Crnomlju",
+    "gn:country_code":"SI",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987433,
+    "gn:latitude":45.56396,
+    "gn:longitude":15.15694,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Blatnik pri \u010crnomlju",
+    "gn:population":153,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Blatnik pri \u010crnomlju"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959699,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987433,
+        "wk:page":"Blatnik_pri_%C4%8Crnomlju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6f49d797e5efb71ccce42b4ef4206c26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959699,
+            "locality_id":1259354449,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1259354449,
+    "wof:lastmodified":1537700286,
+    "wof:name":"Blatnik pri Crnomlju",
+    "wof:parent_id":1108959699,
+    "wof:placetype":"locality",
+    "wof:population":153,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.15694,
+    45.56396,
+    15.15694,
+    45.56396
+],
+  "geometry": {"coordinates":[15.15694,45.56396],"type":"Point"}
+}

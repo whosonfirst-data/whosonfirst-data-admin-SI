@@ -1,0 +1,75 @@
+{
+  "id": 1326783919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.99111,45.58917,13.99111,45.58917",
+    "geom:latitude":45.58917,
+    "geom:longitude":13.99111,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Rozice",
+    "gn:country_code":"SI",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191497,
+    "gn:latitude":45.58917,
+    "gn:longitude":13.99111,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ro\u017eice",
+    "gn:population":59,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rosizze",
+        "Ro\u017eice"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959549,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191497,
+        "wk:page":"Ro%C5%BEice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"58bbe420779a693d0bcbffb296deeab6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959549,
+            "locality_id":1326783919,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1326783919,
+    "wof:lastmodified":1537700198,
+    "wof:name":"Rozice",
+    "wof:parent_id":1108959549,
+    "wof:placetype":"locality",
+    "wof:population":59,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.99111,
+    45.58917,
+    13.99111,
+    45.58917
+],
+  "geometry": {"coordinates":[13.99111,45.58917],"type":"Point"}
+}

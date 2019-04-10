@@ -1,0 +1,126 @@
+{
+  "id": 1125841469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.20417,46.65167,16.20417,46.65167",
+    "geom:latitude":46.65167,
+    "geom:longitude":16.20417,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1545,
+    "gn:population":1560,
+    "iso:country":"SI",
+    "lbl:latitude":46.65167,
+    "lbl:longitude":16.20417,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Raki\u010dan"
+    ],
+    "name:dut_x_preferred":[
+        "Raki\u010dan"
+    ],
+    "name:eng_x_preferred":[
+        "Raki\u010dan"
+    ],
+    "name:epo_x_preferred":[
+        "Raki\u010dan"
+    ],
+    "name:hrv_x_preferred":[
+        "Raki\u010dan"
+    ],
+    "name:hun_x_preferred":[
+        "Batty\u00e1nfalva"
+    ],
+    "name:ita_x_preferred":[
+        "Raki\u010dan"
+    ],
+    "name:rum_x_preferred":[
+        "Raki\u010dan"
+    ],
+    "name:slv_x_preferred":[
+        "Raki\u010dan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u043a\u0438\u0447\u0430\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Batty\u00e1nfalva"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3192019,
+    "qs_pg:gn_pop":1545,
+    "qs_pg:name":"Raki\u010dan",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Murska Sobota",
+    "qs_pg:photos":66,
+    "qs_pg:photos_1k":13,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":66,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":900725,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":531318,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Murska Sobota",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959483,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192019,
+        "gp:id":531318,
+        "qs_pg:id":900725,
+        "wd:id":"Q769661"
+    },
+    "wof:country":"SI",
+    "wof:created":1497292954,
+    "wof:geomhash":"8cf21635b358b878e266d28c9f3e99fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959483,
+            "locality_id":1125841469,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1125841469,
+    "wof:lastmodified":1531170197,
+    "wof:name":"Raki\u010dan",
+    "wof:parent_id":1108959483,
+    "wof:placetype":"locality",
+    "wof:population":1560,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.20417,
+    46.65167,
+    16.20417,
+    46.65167
+],
+  "geometry": {"coordinates":[16.20417,46.65167],"type":"Point"}
+}

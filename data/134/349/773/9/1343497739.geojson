@@ -1,0 +1,71 @@
+{
+  "id": 1343497739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.45579,46.40488,15.45579,46.40488",
+    "geom:latitude":46.40488,
+    "geom:longitude":15.45579,
+    "gn:admin1_code":"L8",
+    "gn:asciiname":"Kebelj",
+    "gn:country_code":"SI",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198180,
+    "gn:latitude":46.40488,
+    "gn:longitude":15.45579,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Kebelj",
+    "gn:population":155,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959641,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198180,
+        "wk:page":"Kebelj"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5c1774213b6e1c27899cd75bc173b8e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959641,
+            "locality_id":1343497739,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1343497739,
+    "wof:lastmodified":1537573431,
+    "wof:name":"Kebelj",
+    "wof:parent_id":1108959641,
+    "wof:placetype":"locality",
+    "wof:population":155,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.45579,
+    46.40488,
+    15.45579,
+    46.40488
+],
+  "geometry": {"coordinates":[15.45579,46.40488],"type":"Point"}
+}

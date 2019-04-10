@@ -1,0 +1,74 @@
+{
+  "id": 1259411867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.28856,45.96198,15.28856,45.96198",
+    "geom:latitude":45.96198,
+    "geom:longitude":15.28856,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Cesnjice",
+    "gn:country_code":"SI",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989190,
+    "gn:latitude":45.96198,
+    "gn:longitude":15.28856,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u010ce\u0161njice",
+    "gn:population":14,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010ce\u0161njice"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989190,
+        "wk:page":"%C4%8Ce%C5%A1njice%2C_Sevnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6f0ece578566336b3838fb8e8f936fc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1259411867,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1259411867,
+    "wof:lastmodified":1537700321,
+    "wof:name":"Cesnjice",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":14,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.28856,
+    45.96198,
+    15.28856,
+    45.96198
+],
+  "geometry": {"coordinates":[15.28856,45.96198],"type":"Point"}
+}

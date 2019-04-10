@@ -1,0 +1,71 @@
+{
+  "id": 1276264331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.84833,45.65028,14.84833,45.65028",
+    "geom:latitude":45.65028,
+    "geom:longitude":14.84833,
+    "gn:admin1_code":"H7",
+    "gn:asciiname":"Mahovnik",
+    "gn:country_code":"SI",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195923,
+    "gn:latitude":45.65028,
+    "gn:longitude":14.84833,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Mahovnik",
+    "gn:population":336,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959919,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195923,
+        "wk:page":"Mahovnik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d0fd7a9b2f6aa4c0fb2fb497c878b1a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959919,
+            "locality_id":1276264331,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1276264331,
+    "wof:lastmodified":1537573423,
+    "wof:name":"Mahovnik",
+    "wof:parent_id":1108959919,
+    "wof:placetype":"locality",
+    "wof:population":336,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.84833,
+    45.65028,
+    14.84833,
+    45.65028
+],
+  "geometry": {"coordinates":[14.84833,45.65028],"type":"Point"}
+}

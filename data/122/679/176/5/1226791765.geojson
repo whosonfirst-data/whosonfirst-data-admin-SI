@@ -1,0 +1,75 @@
+{
+  "id": 1226791765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.80194,46.00611,13.80194,46.00611",
+    "geom:latitude":46.00611,
+    "geom:longitude":13.80194,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Lokve",
+    "gn:country_code":"SI",
+    "gn:dem":1023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196249,
+    "gn:latitude":46.00611,
+    "gn:longitude":13.80194,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Lokve",
+    "gn:population":104,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loqua",
+        "Lokve"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959487,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196249,
+        "wk:page":"Lokve%2C_Nova_Gorica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"eeadc09f4381233dc27a4f3b16888357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959487,
+            "locality_id":1226791765,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1226791765,
+    "wof:lastmodified":1537700223,
+    "wof:name":"Lokve",
+    "wof:parent_id":1108959487,
+    "wof:placetype":"locality",
+    "wof:population":104,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.80194,
+    46.00611,
+    13.80194,
+    46.00611
+],
+  "geometry": {"coordinates":[13.80194,46.00611],"type":"Point"}
+}

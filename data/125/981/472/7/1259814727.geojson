@@ -1,0 +1,75 @@
+{
+  "id": 1259814727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.915,46.47833,13.915,46.47833",
+    "geom:latitude":46.47833,
+    "geom:longitude":13.915,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Belca",
+    "gn:country_code":"SI",
+    "gn:dem":860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204338,
+    "gn:latitude":46.47833,
+    "gn:longitude":13.915,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Belca",
+    "gn:population":170,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Belica",
+        "Belca"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959843,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204338,
+        "wk:page":"Belca"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"948e200b561fa34514b01fd065e10a1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959843,
+            "locality_id":1259814727,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1259814727,
+    "wof:lastmodified":1537700265,
+    "wof:name":"Belca",
+    "wof:parent_id":1108959843,
+    "wof:placetype":"locality",
+    "wof:population":170,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.915,
+    46.47833,
+    13.915,
+    46.47833
+],
+  "geometry": {"coordinates":[13.915,46.47833],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327060145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0156,45.90083,15.0156,45.90083",
+    "geom:latitude":45.90083,
+    "geom:longitude":15.0156,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Odrga",
+    "gn:country_code":"SI",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218235,
+    "gn:latitude":45.90083,
+    "gn:longitude":15.0156,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Odrga",
+    "gn:population":138,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959839,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218235,
+        "wk:page":"Odrga"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f96617250612bb956ec9e599ae3fb5b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959839,
+            "locality_id":1327060145,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1327060145,
+    "wof:lastmodified":1537573459,
+    "wof:name":"Odrga",
+    "wof:parent_id":1108959839,
+    "wof:placetype":"locality",
+    "wof:population":138,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0156,
+    45.90083,
+    15.0156,
+    45.90083
+],
+  "geometry": {"coordinates":[15.0156,45.90083],"type":"Point"}
+}

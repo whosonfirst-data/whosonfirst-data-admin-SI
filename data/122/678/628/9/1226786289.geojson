@@ -1,0 +1,75 @@
+{
+  "id": 1226786289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.88528,45.7975,13.88528,45.7975",
+    "geom:latitude":45.7975,
+    "geom:longitude":13.88528,
+    "gn:admin1_code":"B7",
+    "gn:asciiname":"Ravnje",
+    "gn:country_code":"SI",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216545,
+    "gn:latitude":45.7975,
+    "gn:longitude":13.88528,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Ravnje",
+    "gn:population":48,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ravne",
+        "Ravnje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959789,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216545,
+        "wk:page":"Ravnje%2C_Slovenia"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9988df22b493f72f9d3cf2f95038cc30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959789,
+            "locality_id":1226786289,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1226786289,
+    "wof:lastmodified":1537700270,
+    "wof:name":"Ravnje",
+    "wof:parent_id":1108959789,
+    "wof:placetype":"locality",
+    "wof:population":48,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.88528,
+    45.7975,
+    13.88528,
+    45.7975
+],
+  "geometry": {"coordinates":[13.88528,45.7975],"type":"Point"}
+}

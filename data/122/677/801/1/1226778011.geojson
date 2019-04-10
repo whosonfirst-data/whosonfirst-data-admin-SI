@@ -1,0 +1,74 @@
+{
+  "id": 1226778011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.0795,46.06378,14.0795,46.06378",
+    "geom:latitude":46.06378,
+    "geom:longitude":14.0795,
+    "gn:admin1_code":"F2",
+    "gn:asciiname":"Jarcja Dolina",
+    "gn:country_code":"SI",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988073,
+    "gn:latitude":46.06378,
+    "gn:longitude":14.0795,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Jar\u010dja Dolina",
+    "gn:population":76,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jar\u010dja Dolina"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959673,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988073,
+        "wk:page":"Jar%C4%8Dja_Dolina"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5c43cca6df84bff390faca11730c7baa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959673,
+            "locality_id":1226778011,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1226778011,
+    "wof:lastmodified":1537700299,
+    "wof:name":"Jarcja Dolina",
+    "wof:parent_id":1108959673,
+    "wof:placetype":"locality",
+    "wof:population":76,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.0795,
+    46.06378,
+    14.0795,
+    46.06378
+],
+  "geometry": {"coordinates":[14.0795,46.06378],"type":"Point"}
+}

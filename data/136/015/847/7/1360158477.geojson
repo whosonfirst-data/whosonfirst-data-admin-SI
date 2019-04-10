@@ -1,0 +1,71 @@
+{
+  "id": 1360158477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.98063,46.14926,13.98063,46.14926",
+    "geom:latitude":46.14926,
+    "geom:longitude":13.98063,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Laznica",
+    "gn:country_code":"SI",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988463,
+    "gn:latitude":46.14926,
+    "gn:longitude":13.98063,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Laznica",
+    "gn:population":48,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959577,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988463,
+        "wk:page":"Laznica%2C_Cerkno"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"83bf64803a7b954fd268d7ae7fd590ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959577,
+            "locality_id":1360158477,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1360158477,
+    "wof:lastmodified":1537573512,
+    "wof:name":"Laznica",
+    "wof:parent_id":1108959577,
+    "wof:placetype":"locality",
+    "wof:population":48,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.98063,
+    46.14926,
+    13.98063,
+    46.14926
+],
+  "geometry": {"coordinates":[13.98063,46.14926],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1360016661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.5373,46.21093,15.5373,46.21093",
+    "geom:latitude":46.21093,
+    "geom:longitude":15.5373,
+    "gn:admin1_code":"C5",
+    "gn:asciiname":"Dragomilo",
+    "gn:country_code":"SI",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988664,
+    "gn:latitude":46.21093,
+    "gn:longitude":15.5373,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Dragomilo",
+    "gn:population":38,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959607,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988664,
+        "wk:page":"Dragomilo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"bd6678969e9ece4dc0d4888aba050209",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959607,
+            "locality_id":1360016661,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1360016661,
+    "wof:lastmodified":1537573519,
+    "wof:name":"Dragomilo",
+    "wof:parent_id":1108959607,
+    "wof:placetype":"locality",
+    "wof:population":38,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.5373,
+    46.21093,
+    15.5373,
+    46.21093
+],
+  "geometry": {"coordinates":[15.5373,46.21093],"type":"Point"}
+}

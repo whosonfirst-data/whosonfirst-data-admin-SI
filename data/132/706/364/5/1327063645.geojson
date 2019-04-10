@@ -1,0 +1,74 @@
+{
+  "id": 1327063645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.45866,45.8285,15.45866,45.8285",
+    "geom:latitude":45.8285,
+    "geom:longitude":15.45866,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Crneca Vas",
+    "gn:country_code":"SI",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202444,
+    "gn:latitude":45.8285,
+    "gn:longitude":15.45866,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"\u010crne\u010da Vas",
+    "gn:population":123,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010crne\u010da Vas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959835,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202444,
+        "wk:page":"%C4%8Crne%C4%8Da_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6835dc82cd5b3c4a4536799bbfbd4a76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959835,
+            "locality_id":1327063645,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1327063645,
+    "wof:lastmodified":1537700256,
+    "wof:name":"Crneca Vas",
+    "wof:parent_id":1108959835,
+    "wof:placetype":"locality",
+    "wof:population":123,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.45866,
+    45.8285,
+    15.45866,
+    45.8285
+],
+  "geometry": {"coordinates":[15.45866,45.8285],"type":"Point"}
+}

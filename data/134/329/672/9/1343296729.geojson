@@ -1,0 +1,74 @@
+{
+  "id": 1343296729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.63154,46.13457,14.63154,46.13457",
+    "geom:latitude":46.13457,
+    "geom:longitude":14.63154,
+    "gn:admin1_code":"G7",
+    "gn:asciiname":"Gorjusa",
+    "gn:country_code":"SI",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987406,
+    "gn:latitude":46.13457,
+    "gn:longitude":14.63154,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Gorju\u0161a",
+    "gn:population":158,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gorju\u0161a"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959799,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987406,
+        "wk:page":"Gorju%C5%A1a"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"186bd3a1c7d466ca735516be6a70007a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959799,
+            "locality_id":1343296729,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1343296729,
+    "wof:lastmodified":1537700286,
+    "wof:name":"Gorjusa",
+    "wof:parent_id":1108959799,
+    "wof:placetype":"locality",
+    "wof:population":158,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.63154,
+    46.13457,
+    14.63154,
+    46.13457
+],
+  "geometry": {"coordinates":[14.63154,46.13457],"type":"Point"}
+}

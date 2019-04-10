@@ -1,0 +1,71 @@
+{
+  "id": 1242713037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.2137,45.96257,15.2137,45.96257",
+    "geom:latitude":45.96257,
+    "geom:longitude":15.2137,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Spodnje Vodale",
+    "gn:country_code":"SI",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190206,
+    "gn:latitude":45.96257,
+    "gn:longitude":15.2137,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Spodnje Vodale",
+    "gn:population":118,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190206,
+        "wk:page":"Spodnje_Vodale"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2a8b2dfb8a13de90d50bd3fc182a6735",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1242713037,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1242713037,
+    "wof:lastmodified":1537573398,
+    "wof:name":"Spodnje Vodale",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":118,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.2137,
+    45.96257,
+    15.2137,
+    45.96257
+],
+  "geometry": {"coordinates":[15.2137,45.96257],"type":"Point"}
+}

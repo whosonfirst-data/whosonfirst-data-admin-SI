@@ -1,0 +1,74 @@
+{
+  "id": 1209752123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.65544,46.32743,15.65544,46.32743",
+    "geom:latitude":46.32743,
+    "geom:longitude":15.65544,
+    "gn:admin1_code":"O5",
+    "gn:asciiname":"Statenberg",
+    "gn:country_code":"SI",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3339123,
+    "gn:latitude":46.32743,
+    "gn:longitude":15.65544,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"\u0160tatenberg",
+    "gn:population":183,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160tatenberg"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959773,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3339123,
+        "wk:page":"%C5%A0tatenberg"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"282a1236391aad1e434279e1991cd981",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959773,
+            "locality_id":1209752123,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1209752123,
+    "wof:lastmodified":1537700274,
+    "wof:name":"Statenberg",
+    "wof:parent_id":1108959773,
+    "wof:placetype":"locality",
+    "wof:population":183,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.65544,
+    46.32743,
+    15.65544,
+    46.32743
+],
+  "geometry": {"coordinates":[15.65544,46.32743],"type":"Point"}
+}

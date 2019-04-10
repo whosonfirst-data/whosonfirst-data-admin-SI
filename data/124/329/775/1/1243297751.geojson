@@ -1,0 +1,71 @@
+{
+  "id": 1243297751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.86961,45.99974,14.86961,45.99974",
+    "geom:latitude":45.99974,
+    "geom:longitude":14.86961,
+    "gn:admin1_code":"L9",
+    "gn:asciiname":"Pusti Javor",
+    "gn:country_code":"SI",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192191,
+    "gn:latitude":45.99974,
+    "gn:longitude":14.86961,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Pusti Javor",
+    "gn:population":18,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959583,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192191,
+        "wk:page":"Pusti_Javor"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"388e5d74794f0eda6febad87ea8e9e57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959583,
+            "locality_id":1243297751,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1243297751,
+    "wof:lastmodified":1537573407,
+    "wof:name":"Pusti Javor",
+    "wof:parent_id":1108959583,
+    "wof:placetype":"locality",
+    "wof:population":18,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.86961,
+    45.99974,
+    14.86961,
+    45.99974
+],
+  "geometry": {"coordinates":[14.86961,45.99974],"type":"Point"}
+}

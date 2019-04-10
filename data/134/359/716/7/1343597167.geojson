@@ -1,0 +1,67 @@
+{
+  "id": 1343597167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.00695,46.51506,15.00695,46.51506",
+    "geom:latitude":46.51506,
+    "geom:longitude":15.00695,
+    "gn:admin1_code":"K8",
+    "gn:asciiname":"Sele - Del",
+    "gn:country_code":"SI",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989916,
+    "gn:latitude":46.51506,
+    "gn:longitude":15.00695,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Sele - Del",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959643,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989916
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7a7df5316986582086ba4d0603c247e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959643,
+            "locality_id":1343597167,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1343597167,
+    "wof:lastmodified":1537044473,
+    "wof:name":"Sele - Del",
+    "wof:parent_id":1108959643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.00695,
+    46.51506,
+    15.00695,
+    46.51506
+],
+  "geometry": {"coordinates":[15.00695,46.51506],"type":"Point"}
+}

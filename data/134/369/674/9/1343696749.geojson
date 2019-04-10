@@ -1,0 +1,75 @@
+{
+  "id": 1343696749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.38417,45.92972,15.38417,45.92972",
+    "geom:latitude":45.92972,
+    "geom:longitude":15.38417,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Raka",
+    "gn:country_code":"SI",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192023,
+    "gn:latitude":45.92972,
+    "gn:longitude":15.38417,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Raka",
+    "gn:population":311,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Raku",
+        "Raka"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192023,
+        "wk:page":"Raka%2C_Kr%C5%A1ko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e46ec5a591bc27b33609150544c5b8e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1343696749,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1343696749,
+    "wof:lastmodified":1537700201,
+    "wof:name":"Raka",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":311,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.38417,
+    45.92972,
+    15.38417,
+    45.92972
+],
+  "geometry": {"coordinates":[15.38417,45.92972],"type":"Point"}
+}

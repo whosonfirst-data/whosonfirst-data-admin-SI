@@ -1,0 +1,71 @@
+{
+  "id": 1310395231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.41889,45.95694,14.41889,45.95694",
+    "geom:latitude":45.95694,
+    "geom:longitude":14.41889,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Preserje",
+    "gn:country_code":"SI",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192504,
+    "gn:latitude":45.95694,
+    "gn:longitude":14.41889,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Preserje",
+    "gn:population":336,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959895,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192504,
+        "wk:page":"Preserje%2C_Brezovica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"178952d96166b8c5f0e54656745eb587",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959895,
+            "locality_id":1310395231,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1310395231,
+    "wof:lastmodified":1537573409,
+    "wof:name":"Preserje",
+    "wof:parent_id":1108959895,
+    "wof:placetype":"locality",
+    "wof:population":336,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.41889,
+    45.95694,
+    14.41889,
+    45.95694
+],
+  "geometry": {"coordinates":[14.41889,45.95694],"type":"Point"}
+}

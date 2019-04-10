@@ -1,0 +1,77 @@
+{
+  "id": 1344090551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.96777,45.53072,14.96777,45.53072",
+    "geom:latitude":45.53072,
+    "geom:longitude":14.96777,
+    "gn:admin1_code":"H7",
+    "gn:asciiname":"Podlesje",
+    "gn:country_code":"SI",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989383,
+    "gn:latitude":45.53072,
+    "gn:longitude":14.96777,
+    "gn:modification_date":"2015-11-16",
+    "gn:name":"Podlesje",
+    "gn:population":3,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_historical":[
+        "Verdreng"
+    ],
+    "name:deu_x_preferred":[
+        "Verdreng"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959919,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989383,
+        "wk:page":"Podlesje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"eda327fb91092d9959b4396b460b6882",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959919,
+            "locality_id":1344090551,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1344090551,
+    "wof:lastmodified":1537700325,
+    "wof:name":"Podlesje",
+    "wof:parent_id":1108959919,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.96777,
+    45.53072,
+    14.96777,
+    45.53072
+],
+  "geometry": {"coordinates":[14.96777,45.53072],"type":"Point"}
+}

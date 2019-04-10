@@ -1,0 +1,65 @@
+{
+  "id": 1209348561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3676,46.32277,15.3676,46.32277",
+    "geom:latitude":46.32277,
+    "geom:longitude":15.3676,
+    "gn:admin1_code":"C4",
+    "gn:asciiname":"Sojek",
+    "gn:country_code":"SI",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987709,
+    "gn:latitude":46.32277,
+    "gn:longitude":15.3676,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Sojek",
+    "gn:population":111,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987709,
+        "wk:page":"Sojek"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e93a7352bcad560a6f66efc722630a8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209348561
+        }
+    ],
+    "wof:id":1209348561,
+    "wof:lastmodified":1537573489,
+    "wof:name":"Sojek",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":111,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3676,
+    46.32277,
+    15.3676,
+    46.32277
+],
+  "geometry": {"coordinates":[15.3676,46.32277],"type":"Point"}
+}

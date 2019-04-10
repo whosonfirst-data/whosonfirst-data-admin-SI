@@ -1,0 +1,68 @@
+{
+  "id": 1209545957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7,46.61667,15.7,46.61667",
+    "geom:latitude":46.61667,
+    "geom:longitude":15.7,
+    "gn:admin1_code":"89",
+    "gn:asciiname":"Gacnik",
+    "gn:country_code":"SI",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200767,
+    "gn:latitude":46.61667,
+    "gn:longitude":15.7,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Ga\u010dnik",
+    "gn:population":520,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ga\u010dnik"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200767,
+        "wk:page":"Ga%C4%8Dnik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f2b957b6e54af2d90a50e9028d663baf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209545957
+        }
+    ],
+    "wof:id":1209545957,
+    "wof:lastmodified":1537700247,
+    "wof:name":"Gacnik",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":520,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7,
+    46.61667,
+    15.7,
+    46.61667
+],
+  "geometry": {"coordinates":[15.7,46.61667],"type":"Point"}
+}

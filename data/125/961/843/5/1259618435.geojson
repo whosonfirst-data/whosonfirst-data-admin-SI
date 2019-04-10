@@ -1,0 +1,75 @@
+{
+  "id": 1259618435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.35,46.06667,14.35,46.06667",
+    "geom:latitude":46.06667,
+    "geom:longitude":14.35,
+    "gn:admin1_code":"G4",
+    "gn:asciiname":"Dvor pri Polhovem Gradcu",
+    "gn:country_code":"SI",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200908,
+    "gn:latitude":46.06667,
+    "gn:longitude":14.35,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Dvor pri Polhovem Gradcu",
+    "gn:population":130,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dvor",
+        "Dvor pri Polhovem Gradcu"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959847,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200908,
+        "wk:page":"Dvor_pri_Polhovem_Gradcu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7c5b95e61ecc5e48f64e9e676f3d1333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959847,
+            "locality_id":1259618435,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1259618435,
+    "wof:lastmodified":1537700249,
+    "wof:name":"Dvor pri Polhovem Gradcu",
+    "wof:parent_id":1108959847,
+    "wof:placetype":"locality",
+    "wof:population":130,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.35,
+    46.06667,
+    14.35,
+    46.06667
+],
+  "geometry": {"coordinates":[14.35,46.06667],"type":"Point"}
+}

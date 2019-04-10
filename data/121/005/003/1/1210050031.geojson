@@ -1,0 +1,71 @@
+{
+  "id": 1210050031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.34183,45.83296,15.34183,45.83296",
+    "geom:latitude":45.83296,
+    "geom:longitude":15.34183,
+    "gn:admin1_code":"B4",
+    "gn:asciiname":"Dolenja Brezovica",
+    "gn:country_code":"SI",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989490,
+    "gn:latitude":45.83296,
+    "gn:longitude":15.34183,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Dolenja Brezovica",
+    "gn:population":156,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959937,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989490,
+        "wk:page":"Dolenja_Brezovica%2C_%C5%A0entjernej"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b67889368927741c057a890f5b652838",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959937,
+            "locality_id":1210050031,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1210050031,
+    "wof:lastmodified":1537573543,
+    "wof:name":"Dolenja Brezovica",
+    "wof:parent_id":1108959937,
+    "wof:placetype":"locality",
+    "wof:population":156,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.34183,
+    45.83296,
+    15.34183,
+    45.83296
+],
+  "geometry": {"coordinates":[15.34183,45.83296],"type":"Point"}
+}

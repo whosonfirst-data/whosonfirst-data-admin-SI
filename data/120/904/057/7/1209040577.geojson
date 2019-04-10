@@ -1,0 +1,61 @@
+{
+  "id": 1209040577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.28917,46.81111,16.28917,46.81111",
+    "geom:latitude":46.81111,
+    "geom:longitude":16.28917,
+    "gn:admin1_code":"L4",
+    "gn:asciiname":"Salovski Breg",
+    "gn:country_code":"SI",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3214790,
+    "gn:latitude":46.81111,
+    "gn:longitude":16.28917,
+    "gn:modification_date":"2008-11-25",
+    "gn:name":"Salovski Breg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3214790
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"eb9665a07d8fe2091e74e5aa52d8f952",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209040577
+        }
+    ],
+    "wof:id":1209040577,
+    "wof:lastmodified":1536299558,
+    "wof:name":"Salovski Breg",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.289170000000002,
+    46.81111,
+    16.289170000000002,
+    46.81111
+],
+  "geometry": {"coordinates":[16.28917,46.81111],"type":"Point"}
+}

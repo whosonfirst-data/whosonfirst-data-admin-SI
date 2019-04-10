@@ -1,0 +1,75 @@
+{
+  "id": 1343795941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.6,46.45,15.6,46.45",
+    "geom:latitude":46.45,
+    "geom:longitude":15.6,
+    "gn:admin1_code":"98",
+    "gn:asciiname":"Loka pri Framu",
+    "gn:country_code":"SI",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196272,
+    "gn:latitude":46.45,
+    "gn:longitude":15.6,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Loka pri Framu",
+    "gn:population":162,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loka",
+        "Loka pri Framu"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959589,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196272,
+        "wk:page":"Loka_pri_Framu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"da410aa2ca04d27bc405ca36006c7b30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959589,
+            "locality_id":1343795941,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1343795941,
+    "wof:lastmodified":1537700223,
+    "wof:name":"Loka pri Framu",
+    "wof:parent_id":1108959589,
+    "wof:placetype":"locality",
+    "wof:population":162,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.6,
+    46.45,
+    15.6,
+    46.45
+],
+  "geometry": {"coordinates":[15.6,46.45],"type":"Point"}
+}

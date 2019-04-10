@@ -1,0 +1,243 @@
+{
+  "id": 1125993765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.30626,46.16551,14.30626,46.16551",
+    "geom:latitude":46.16551,
+    "geom:longitude":14.30626,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":12012,
+    "gn:population":11969,
+    "iso:country":"SI",
+    "lbl:latitude":46.16551,
+    "lbl:longitude":14.30626,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0634\u0643\u0648\u0641\u062c\u0627 \u0644\u0648\u0643\u0627"
+    ],
+    "name:baq_x_preferred":[
+        "\u0160kofja Loka"
+    ],
+    "name:bos_x_preferred":[
+        "\u0160kofja Loka"
+    ],
+    "name:bul_x_preferred":[
+        "\u0428\u043a\u043e\u0444\u044f \u041b\u043e\u043a\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "\u0160kofja Loka"
+    ],
+    "name:chi_x_preferred":[
+        "\u4ec0\u79d1\u83f2\u4e9e\u6d1b\u5361"
+    ],
+    "name:cze_x_preferred":[
+        "\u0160kofja Loka"
+    ],
+    "name:dan_x_preferred":[
+        "\u0160kofja Loka"
+    ],
+    "name:deu_x_preferred":[
+        "\u0160kofja Loka"
+    ],
+    "name:dut_x_preferred":[
+        "\u0160kofja Loka"
+    ],
+    "name:eng_x_preferred":[
+        "\u0160kofja Loka"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u06a9\u0641\u06cc\u0627 \u0644\u06a9\u0627"
+    ],
+    "name:fre_x_preferred":[
+        "\u0160kofja Loka"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e8\u10d9\u10dd\u10e4\u10d8\u10d0-\u10da\u10dd\u10d9\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "\u0160kofja Loka"
+    ],
+    "name:glg_x_preferred":[
+        "\u0160kofja Loka"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05e7\u05d5\u05e4\u05d9\u05d4 \u05dc\u05d5\u05e7\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "\u0160kofja Loka"
+    ],
+    "name:hun_x_preferred":[
+        "\u0160kofja Loka"
+    ],
+    "name:ind_x_preferred":[
+        "\u0160kofja Loka"
+    ],
+    "name:ita_x_preferred":[
+        "\u0160kofja Loka"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e5\u30b3\u30fc\u30d5\u30a3\u30a2\u30fb\u30ed\u30ab"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d9\u10dd\u10e4\u10d8\u10d0-\u10da\u10dd\u10d9\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\uc288\ucf54\ud344\ub85c\uce74"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160kofja Loka"
+    ],
+    "name:ltz_x_preferred":[
+        "\u0160kofja Loka"
+    ],
+    "name:mac_x_preferred":[
+        "\u0428\u043a\u043e\u0444\u0458\u0430 \u041b\u043e\u043a\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0428\u043a\u043e\u0444\u0458\u0430 \u041b\u043e\u043a\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "\u0160kofja Loka"
+    ],
+    "name:nno_x_preferred":[
+        "\u0160kofja Loka"
+    ],
+    "name:nob_x_preferred":[
+        "\u0160kofja Loka"
+    ],
+    "name:oci_x_preferred":[
+        "\u0160kofja Loka"
+    ],
+    "name:per_x_preferred":[
+        "\u0634\u06a9\u0641\u06cc\u0627 \u0644\u06a9\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina \u0160kofja Loka"
+    ],
+    "name:por_x_preferred":[
+        "\u0160kofja Loka"
+    ],
+    "name:ron_x_preferred":[
+        "\u0160kofja Loka"
+    ],
+    "name:rum_x_preferred":[
+        "\u0160kofja Loka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u043a\u043e\u0444\u044c\u044f-\u041b\u043e\u043a\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "\u0160kofja Loka"
+    ],
+    "name:slo_x_preferred":[
+        "\u0160kofja Loka"
+    ],
+    "name:slv_x_preferred":[
+        "\u0160kofja Loka"
+    ],
+    "name:spa_x_preferred":[
+        "\u0160kofja Loka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u043a\u043e\u0444\u0458\u0430 \u041b\u043e\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "\u0160kofja Loka"
+    ],
+    "name:tat_x_preferred":[
+        "\u0428\u043a\u043e\u0444\u044c\u044f-\u041b\u043e\u043a\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "\u0160kofja Loka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u043a\u043e\u0444\u044f \u041b\u043e\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Bischoflack"
+    ],
+    "name:vie_x_preferred":[
+        "\u0160kofja Loka"
+    ],
+    "name:zho_x_preferred":[
+        "\u4ec0\u79d1\u83f2\u4e9e\u6d1b\u5361"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3190717,
+    "qs_pg:gn_pop":12012,
+    "qs_pg:name":"\u00c5 Kofja Loka",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Skofja Loka",
+    "qs_pg:photos":1705,
+    "qs_pg:photos_1k":345,
+    "qs_pg:photos_9k":8,
+    "qs_pg:photos_9r":8,
+    "qs_pg:photos_all":1705,
+    "qs_pg:photos_sr":14,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":489931,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":531542,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Skofja Loka",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959821,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190717,
+        "gp:id":531542,
+        "qs_pg:id":489931,
+        "wd:id":"Q15922"
+    },
+    "wof:country":"SI",
+    "wof:created":1497299188,
+    "wof:geomhash":"fb4d95d84f6f578f26807d2217ecdbb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959821,
+            "locality_id":1125993765,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1125993765,
+    "wof:lastmodified":1531171370,
+    "wof:name":"\u00c5 Kofja Loka",
+    "wof:parent_id":1108959821,
+    "wof:placetype":"locality",
+    "wof:population":11969,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.30626,
+    46.16551,
+    14.30626,
+    46.16551
+],
+  "geometry": {"coordinates":[14.30626,46.16551],"type":"Point"}
+}

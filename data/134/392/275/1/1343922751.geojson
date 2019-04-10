@@ -1,0 +1,67 @@
+{
+  "id": 1343922751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.66667,45.86667,14.66667,45.86667",
+    "geom:latitude":45.86667,
+    "geom:longitude":14.66667,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Spodnja Ribnica",
+    "gn:country_code":"SI",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3209351,
+    "gn:latitude":45.86667,
+    "gn:longitude":14.66667,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Spodnja Ribnica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959575,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3209351
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"dfc15103c42cb85701204657f2c71578",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959575,
+            "locality_id":1343922751,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1343922751,
+    "wof:lastmodified":1537071453,
+    "wof:name":"Spodnja Ribnica",
+    "wof:parent_id":1108959575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.66667,
+    45.86667,
+    14.66667,
+    45.86667
+],
+  "geometry": {"coordinates":[14.66667,45.86667],"type":"Point"}
+}

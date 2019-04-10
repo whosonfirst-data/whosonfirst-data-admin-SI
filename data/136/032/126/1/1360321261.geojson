@@ -1,0 +1,71 @@
+{
+  "id": 1360321261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.64424,46.31415,15.64424,46.31415",
+    "geom:latitude":46.31415,
+    "geom:longitude":15.64424,
+    "gn:admin1_code":"O8",
+    "gn:asciiname":"Globoko ob Dravinji",
+    "gn:country_code":"SI",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200581,
+    "gn:latitude":46.31415,
+    "gn:longitude":15.64424,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Globoko ob Dravinji",
+    "gn:population":92,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959721,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200581,
+        "wk:page":"Globoko_ob_Dravinji"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a2ca33e2c21ce59bb149a497ea90227d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959721,
+            "locality_id":1360321261,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1360321261,
+    "wof:lastmodified":1537573441,
+    "wof:name":"Globoko ob Dravinji",
+    "wof:parent_id":1108959721,
+    "wof:placetype":"locality",
+    "wof:population":92,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.64424,
+    46.31415,
+    15.64424,
+    46.31415
+],
+  "geometry": {"coordinates":[15.64424,46.31415],"type":"Point"}
+}

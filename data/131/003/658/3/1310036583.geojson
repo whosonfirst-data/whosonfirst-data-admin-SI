@@ -1,0 +1,71 @@
+{
+  "id": 1310036583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.7225,45.54028,13.7225,45.54028",
+    "geom:latitude":45.54028,
+    "geom:longitude":13.7225,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Semedela",
+    "gn:country_code":"SI",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216102,
+    "gn:latitude":45.54028,
+    "gn:longitude":13.7225,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Semedela",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Semedella",
+        "Semedela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959527,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216102
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1471a77bd658c9fabc36edd43ff3a98e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959527,
+            "locality_id":1310036583,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1310036583,
+    "wof:lastmodified":1537700269,
+    "wof:name":"Semedela",
+    "wof:parent_id":1108959527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.7225,
+    45.54028,
+    13.7225,
+    45.54028
+],
+  "geometry": {"coordinates":[13.7225,45.54028],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226579231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.89472,45.46444,13.89472,45.46444",
+    "geom:latitude":45.46444,
+    "geom:longitude":13.89472,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Socerga",
+    "gn:country_code":"SI",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190401,
+    "gn:latitude":45.46444,
+    "gn:longitude":13.89472,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"So\u010derga",
+    "gn:population":66,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Quirico",
+        "So\u010derga"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959527,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190401,
+        "wk:page":"So%C4%8Derga"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"21dab688c16c7f2629f1bf2e0445a1e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959527,
+            "locality_id":1226579231,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1226579231,
+    "wof:lastmodified":1537700190,
+    "wof:name":"Socerga",
+    "wof:parent_id":1108959527,
+    "wof:placetype":"locality",
+    "wof:population":66,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.89472,
+    45.46444,
+    13.89472,
+    45.46444
+],
+  "geometry": {"coordinates":[13.89472,45.46444],"type":"Point"}
+}

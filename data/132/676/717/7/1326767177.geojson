@@ -1,0 +1,73 @@
+{
+  "id": 1326767177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.94315,46.10143,14.94315,46.10143",
+    "geom:latitude":46.10143,
+    "geom:longitude":14.94315,
+    "gn:admin1_code":"E7",
+    "gn:asciiname":"Spital",
+    "gn:country_code":"SI",
+    "gn:dem":688,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988977,
+    "gn:latitude":46.10143,
+    "gn:longitude":14.94315,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160pital",
+    "gn:population":24,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160pital"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959683,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988977
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d3001ff956d7e65d7b747599bd9a824e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959683,
+            "locality_id":1326767177,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1326767177,
+    "wof:lastmodified":1537700317,
+    "wof:name":"Spital",
+    "wof:parent_id":1108959683,
+    "wof:placetype":"locality",
+    "wof:population":24,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.94315,
+    46.10143,
+    14.94315,
+    46.10143
+],
+  "geometry": {"coordinates":[14.94315,46.10143],"type":"Point"}
+}

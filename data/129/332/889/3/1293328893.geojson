@@ -1,0 +1,74 @@
+{
+  "id": 1293328893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.88886,46.48453,15.88886,46.48453",
+    "geom:latitude":46.48453,
+    "geom:longitude":15.88886,
+    "gn:admin1_code":"G1",
+    "gn:asciiname":"Dolic",
+    "gn:country_code":"SI",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987366,
+    "gn:latitude":46.48453,
+    "gn:longitude":15.88886,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Doli\u010d",
+    "gn:population":164,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doli\u010d"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959755,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987366,
+        "wk:page":"Doli%C4%8D%2C_Destrnik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"bec13a7ec201bba58b21ce86f801853d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959755,
+            "locality_id":1293328893,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1293328893,
+    "wof:lastmodified":1537700285,
+    "wof:name":"Dolic",
+    "wof:parent_id":1108959755,
+    "wof:placetype":"locality",
+    "wof:population":164,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.88886,
+    46.48453,
+    15.88886,
+    46.48453
+],
+  "geometry": {"coordinates":[15.88886,46.48453],"type":"Point"}
+}

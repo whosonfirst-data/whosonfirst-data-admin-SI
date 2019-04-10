@@ -1,0 +1,73 @@
+{
+  "id": 1309939971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.71351,46.08475,13.71351,46.08475",
+    "geom:latitude":46.08475,
+    "geom:longitude":13.71351,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Krajc",
+    "gn:country_code":"SI",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10858804,
+    "gn:latitude":46.08475,
+    "gn:longitude":13.71351,
+    "gn:modification_date":"2015-10-13",
+    "gn:name":"Krajc",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Krajec"
+    ],
+    "name:slv_x_preferred":[
+        "Krajec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959537,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10858804
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4325dcb645a91e83caccc9eca631d573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959537,
+            "locality_id":1309939971,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1309939971,
+    "wof:lastmodified":1537700337,
+    "wof:name":"Krajc",
+    "wof:parent_id":1108959537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.71351,
+    46.08475,
+    13.71351,
+    46.08475
+],
+  "geometry": {"coordinates":[13.71351,46.08475],"type":"Point"}
+}

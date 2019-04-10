@@ -1,0 +1,71 @@
+{
+  "id": 1310442365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.05722,46.11306,15.05722,46.11306",
+    "geom:latitude":46.11306,
+    "geom:longitude":15.05722,
+    "gn:admin1_code":"D3",
+    "gn:asciiname":"Dobovec",
+    "gn:country_code":"SI",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201978,
+    "gn:latitude":46.11306,
+    "gn:longitude":15.05722,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Dobovec",
+    "gn:population":170,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959911,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201978,
+        "wk:page":"Dobovec%2C_Trbovlje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5c1b8b92e517d2deaf939832f0a3a834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959911,
+            "locality_id":1310442365,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1310442365,
+    "wof:lastmodified":1537573446,
+    "wof:name":"Dobovec",
+    "wof:parent_id":1108959911,
+    "wof:placetype":"locality",
+    "wof:population":170,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.05722,
+    46.11306,
+    15.05722,
+    46.11306
+],
+  "geometry": {"coordinates":[15.05722,46.11306],"type":"Point"}
+}

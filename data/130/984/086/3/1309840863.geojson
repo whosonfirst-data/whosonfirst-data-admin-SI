@@ -1,0 +1,71 @@
+{
+  "id": 1309840863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.94261,46.54326,14.94261,46.54326",
+    "geom:latitude":46.54326,
+    "geom:longitude":14.94261,
+    "gn:admin1_code":"K8",
+    "gn:asciiname":"Dobja Vas",
+    "gn:country_code":"SI",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986878,
+    "gn:latitude":46.54326,
+    "gn:longitude":14.94261,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Dobja Vas",
+    "gn:population":700,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959643,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986878,
+        "wk:page":"Dobja_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f4f614d0b99d2dc08c70627f1f436863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959643,
+            "locality_id":1309840863,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1309840863,
+    "wof:lastmodified":1537573463,
+    "wof:name":"Dobja Vas",
+    "wof:parent_id":1108959643,
+    "wof:placetype":"locality",
+    "wof:population":700,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.94261,
+    46.54326,
+    14.94261,
+    46.54326
+],
+  "geometry": {"coordinates":[14.94261,46.54326],"type":"Point"}
+}

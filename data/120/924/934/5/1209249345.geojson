@@ -1,0 +1,68 @@
+{
+  "id": 1209249345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.07156,45.86999,15.07156,45.86999",
+    "geom:latitude":45.86999,
+    "geom:longitude":15.07156,
+    "gn:admin1_code":"J6",
+    "gn:asciiname":"Biska Vas",
+    "gn:country_code":"SI",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987647,
+    "gn:latitude":45.86999,
+    "gn:longitude":15.07156,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Bi\u0161ka Vas",
+    "gn:population":119,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bi\u0161ka Vas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987647,
+        "wk:page":"Bi%C5%A1ka_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"34bd9eb1c8a9ebfd370fe1ef660176a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209249345
+        }
+    ],
+    "wof:id":1209249345,
+    "wof:lastmodified":1537700290,
+    "wof:name":"Biska Vas",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":119,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.07156,
+    45.86999,
+    15.07156,
+    45.86999
+],
+  "geometry": {"coordinates":[15.07156,45.86999],"type":"Point"}
+}

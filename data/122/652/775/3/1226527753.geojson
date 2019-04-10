@@ -1,0 +1,67 @@
+{
+  "id": 1226527753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.69389,46.01028,15.69389,46.01028",
+    "geom:latitude":46.01028,
+    "geom:longitude":15.69389,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Spodnja Susica",
+    "gn:country_code":"SI",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216459,
+    "gn:latitude":46.01028,
+    "gn:longitude":15.69389,
+    "gn:modification_date":"2008-11-03",
+    "gn:name":"Spodnja Su\u0161ica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216459
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4da99b75b3a2434cd6977c08f9a7265d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1226527753,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1226527753,
+    "wof:lastmodified":1537022991,
+    "wof:name":"Spodnja Susica",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.69389,
+    46.01028,
+    15.69389,
+    46.01028
+],
+  "geometry": {"coordinates":[15.69389,46.01028],"type":"Point"}
+}

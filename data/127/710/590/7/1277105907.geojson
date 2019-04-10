@@ -1,0 +1,74 @@
+{
+  "id": 1277105907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.69028,46.59583,15.69028,46.59583",
+    "geom:latitude":46.59583,
+    "geom:longitude":15.69028,
+    "gn:admin1_code":"89",
+    "gn:asciiname":"Pesniski Dvor",
+    "gn:country_code":"SI",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3339142,
+    "gn:latitude":46.59583,
+    "gn:longitude":15.69028,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Pesni\u0161ki Dvor",
+    "gn:population":83,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pesni\u0161ki Dvor"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959553,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3339142,
+        "wk:page":"Pesni%C5%A1ki_Dvor"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"543d93e38839c20b42014b160d27be22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959553,
+            "locality_id":1277105907,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1277105907,
+    "wof:lastmodified":1537700274,
+    "wof:name":"Pesniski Dvor",
+    "wof:parent_id":1108959553,
+    "wof:placetype":"locality",
+    "wof:population":83,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.69028,
+    46.59583,
+    15.69028,
+    46.59583
+],
+  "geometry": {"coordinates":[15.69028,46.59583],"type":"Point"}
+}

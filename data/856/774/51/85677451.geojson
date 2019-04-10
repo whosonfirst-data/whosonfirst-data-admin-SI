@@ -1,0 +1,185 @@
+{
+  "id": 85677451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.016802,
+    "geom:area_square_m":143303390.971344,
+    "geom:bbox":"14.2381803726,46.3189818395,14.4371447525,46.4409907023",
+    "geom:latitude":46.387745,
+    "geom:longitude":14.329341,
+    "gn:population":15207,
+    "iso:country":"SI",
+    "lbl:latitude":46.384131,
+    "lbl:longitude":14.317688,
+    "mps:latitude":46.384131,
+    "mps:longitude":14.317688,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u062a\u0631\u064a\u062c\u064a\u0643"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u010dina Tr\u017ei\u010d"
+    ],
+    "name:deu_x_preferred":[
+        "Tr\u017ei\u010d"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u0698\u06cc\u0686"
+    ],
+    "name:fra_x_preferred":[
+        "Tr\u017ei\u010d"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Tr\u017ei\u010d"
+    ],
+    "name:ita_x_preferred":[
+        "Tr\u017ei\u010d"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30eb\u30b8\u30c3\u30c1"
+    ],
+    "name:kor_x_preferred":[
+        "\ud2b8\ub974\uc9c0\uce58"
+    ],
+    "name:nld_x_preferred":[
+        "Tr\u017ei\u010d"
+    ],
+    "name:und_x_preferred":[
+        "Trzic"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Tr\u017ei\u010d"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-1019",
+    "ne:adm1_code":"SVN-1019",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SI.GO.TR",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"1019",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SID5",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.D5",
+    "ne:gn_id":"3188687",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Trzic",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI00",
+    "ne:gns_id":"-98897",
+    "ne:gns_lang":"sqi",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Trzic, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"46.38830000000",
+    "ne:longitude":"14.33770000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Tr\u017ei\u010d",
+    "ne:name_alt":"",
+    "ne:name_len":5,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"TR",
+    "ne:provnum_ne":"80",
+    "ne:region":"Gorenjska",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":55848394,
+    "ne:woe_label":"Trzic, SI, Slovenia",
+    "ne:woe_name":"Tr\u017ei\u010d",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Tr\u017ei\u010d",
+    "qs:a1_lc":"SVN-1019",
+    "qs:a1r":"Gorenjska",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":392,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SID5",
+        "gn:id":3188687,
+        "gp:id":55848394,
+        "hasc:id":"SI.GO.TR",
+        "qs:id":56147,
+        "wd:id":"Q15927",
+        "wk:page":"Tr\u017ei\u010d"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4ff446c52eb550c7cf4eaaf2cf1feb26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677451
+        }
+    ],
+    "wof:id":85677451,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616729,
+    "wof:name":"Tr\u017ei\u010d",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:population":15207,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[
+        1108959917
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.23818037262612,
+    46.3189818395403,
+    14.43714475252835,
+    46.44099070225917
+],
+  "geometry": {"coordinates":[[[14.43714475252835,46.41888413339609],[14.43429243304939,46.41608185489372],[14.42266523591195,46.39647064930108],[14.41878950413235,46.38696218475707],[14.40824751081402,46.37303538697358],[14.40855757007586,46.36412120253152],[14.40545698375286,46.35164134377305],[14.35951663598399,46.35081452147307],[14.35052493717615,46.34838572871848],[14.33812259278346,46.3401691762665],[14.33031945238088,46.33681020842442],[14.32628869007107,46.32135895455218],[14.3007088558291,46.3189818395403],[14.29512780080739,46.31970530905284],[14.28923668832255,46.3223924833265],[14.26717085065428,46.32613902389687],[14.26019453255168,46.33035065425935],[14.25631880077208,46.33750784041456],[14.258334180578,46.34223623291587],[14.25306318481819,46.34440664325206],[14.25042768738791,46.34750722957506],[14.24856733631356,46.35334666611578],[14.25523359515432,46.39019196228929],[14.25290815608656,46.41349803340756],[14.23818037262612,46.42525442175423],[14.24205610530504,46.43711416288835],[14.24221113493599,46.43752757403837],[14.24232322193922,46.43823746198933],[14.36215132672243,46.43587473613024],[14.39584436152813,46.44099070225917],[14.40648970493601,46.43933705765915],[14.4112439367583,46.43463450268018],[14.4144478758688,46.42900176991583],[14.42002893089051,46.42435089267963],[14.43714475252835,46.41888413339609]]],"type":"Polygon"}
+}

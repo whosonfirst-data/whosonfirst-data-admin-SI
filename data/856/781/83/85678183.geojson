@@ -1,0 +1,189 @@
+{
+  "id": 85678183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.012904,
+    "geom:area_square_m":110415487.210623,
+    "geom:bbox":"15.44709883,46.1551675481,15.6132902356,46.2777440459",
+    "geom:latitude":46.213479,
+    "geom:longitude":15.529841,
+    "gn:population":10154,
+    "iso:country":"SI",
+    "lbl:latitude":46.213383,
+    "lbl:longitude":15.536568,
+    "mps:latitude":46.213383,
+    "mps:longitude":15.536568,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ces_x_preferred":[
+        "Ob\u010dina \u0160marje pri Jel\u0161ah"
+    ],
+    "name:deu_x_preferred":[
+        "\u0160marje pri Jel\u0161ah"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160marje pri Jel\u0161ah"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina \u0160marje pri Jel\u0161ah"
+    ],
+    "name:ita_x_preferred":[
+        "\u0160marje pri Jel\u0161ah"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e5\u30de\u30ea\u30a7\u30fb\u30d7\u30ea\u30fb\u30a4\u30a7\u30eb\u30b7\u30e3\u30d5"
+    ],
+    "name:kor_x_preferred":[
+        "\uc288\ub9c8\ub808\ud504\ub9ac\uc610\uc0e4\ud750"
+    ],
+    "name:nld_x_preferred":[
+        "\u0160marje pri Jel\u0161ah"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina \u0160marje pri Jel\u0161ah"
+    ],
+    "name:por_x_preferred":[
+        "\u0160marje pri Jel\u0161ah"
+    ],
+    "name:und_x_preferred":[
+        "Smarje Pri Jelsah"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina \u0160marje pri Jel\u0161ah"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-993",
+    "ne:adm1_code":"SVN-993",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SI.SA.SJ",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"993",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SIC5",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.C5",
+    "ne:gn_id":"3190509",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Smarje pri Jelsah",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI25",
+    "ne:gns_id":"-96126",
+    "ne:gns_lang":"sqi",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Smarje pri Jelsah, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"46.21880000000",
+    "ne:longitude":"15.53020000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"\u0160marje pri Jel\u0161ah",
+    "ne:name_alt":"",
+    "ne:name_len":17,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"SJ",
+    "ne:provnum_ne":"46",
+    "ne:region":"Savinjska",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":55848390,
+    "ne:woe_label":"Smarje Pri Jelsah, SI, Slovenia",
+    "ne:woe_name":"\u0160marje pri Jel\u0161ah",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"\u0160marje pri Jel\u0161ah",
+    "qs:a1_lc":"SVN-993",
+    "qs:a1r":"Savinjska",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "unlc:subdivision":"SI-124",
+    "wd:wordcount":197,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SIC5",
+        "gn:id":3190509,
+        "gp:id":55848390,
+        "hasc:id":"SI.SA.SJ",
+        "qs:id":1311392,
+        "unlc:id":"SI-124",
+        "wd:id":"Q392173",
+        "wk:page":"\u0160marje pri Jel\u0161ah"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2abc5353efb20a021fea5310678e6faa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85678183
+        }
+    ],
+    "wof:id":85678183,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616734,
+    "wof:name":"\u0160marje pri Jel\u0161ah",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:population":10154,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:shortcode":"SJ",
+    "wof:subdivision":"SI-124",
+    "wof:superseded_by":[
+        1108959607
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.44709883004703,
+    46.15516754814388,
+    15.61329023555595,
+    46.27774404585108
+],
+  "geometry": {"coordinates":[[[15.5657995950753,46.27366160669783],[15.585850051139,46.23598948822433],[15.5968571306521,46.22544749580533],[15.60398847838565,46.22260529190078],[15.60708906380927,46.2199697944705],[15.61329023555595,46.20426015907913],[15.57871870340551,46.17922292719641],[15.56750491741803,46.16472768773264],[15.54549075659321,46.15516754814388],[15.53200320838141,46.161420396734],[15.52642215335976,46.16012848644056],[15.51650027766573,46.1594050160287],[15.50513146294668,46.15697622327411],[15.49117882674153,46.16080027910965],[15.48358239101458,46.1659162461379],[15.47846642398633,46.17333181381218],[15.47614098491857,46.17906789846478],[15.45831261603445,46.19839488411668],[15.45004438583976,46.2130968291554],[15.44709883004703,46.22146841123822],[15.44787397640295,46.2260934518514],[15.4503544451016,46.22849640618426],[15.45872602718447,46.23474925387501],[15.47629601365014,46.24348257116378],[15.48776818205602,46.2472549510552],[15.50280602387897,46.25425710757952],[15.51494998495389,46.26500580557354],[15.520996127969,46.26885569893142],[15.524096714292,46.27213715330703],[15.52998782677685,46.27663300181166],[15.55246707469581,46.27774404585108],[15.5657995950753,46.27366160669783]]],"type":"Polygon"}
+}

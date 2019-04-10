@@ -1,0 +1,74 @@
+{
+  "id": 1259720155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.87201,45.86518,14.87201,45.86518",
+    "geom:latitude":45.86518,
+    "geom:longitude":14.87201,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Valicna Vas",
+    "gn:country_code":"SI",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988075,
+    "gn:latitude":45.86518,
+    "gn:longitude":14.87201,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Vali\u010dna Vas",
+    "gn:population":75,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vali\u010dna Vas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959583,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988075,
+        "wk:page":"Vali%C4%8Dna_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a4e8794ee87877ccd811605884cfcd0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959583,
+            "locality_id":1259720155,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1259720155,
+    "wof:lastmodified":1537700299,
+    "wof:name":"Valicna Vas",
+    "wof:parent_id":1108959583,
+    "wof:placetype":"locality",
+    "wof:population":75,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.87201,
+    45.86518,
+    14.87201,
+    45.86518
+],
+  "geometry": {"coordinates":[14.87201,45.86518],"type":"Point"}
+}

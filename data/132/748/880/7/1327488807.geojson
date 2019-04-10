@@ -1,0 +1,75 @@
+{
+  "id": 1327488807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.03889,46.56111,15.03889,46.56111",
+    "geom:latitude":46.56111,
+    "geom:longitude":15.03889,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Sentjanz pri Dravogradu",
+    "gn:country_code":"SI",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191034,
+    "gn:latitude":46.56111,
+    "gn:longitude":15.03889,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160entjan\u017e pri Dravogradu",
+    "gn:population":543,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160ent Jan\u017e",
+        "\u0160entjan\u017e pri Dravogradu"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959495,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191034,
+        "wk:page":"%C5%A0entjan%C5%BE_pri_Dravogradu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c2bf6e9a8f64b4648eb99b0a5db01d3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959495,
+            "locality_id":1327488807,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1327488807,
+    "wof:lastmodified":1537700195,
+    "wof:name":"Sentjanz pri Dravogradu",
+    "wof:parent_id":1108959495,
+    "wof:placetype":"locality",
+    "wof:population":543,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.03889,
+    46.56111,
+    15.03889,
+    46.56111
+],
+  "geometry": {"coordinates":[15.03889,46.56111],"type":"Point"}
+}

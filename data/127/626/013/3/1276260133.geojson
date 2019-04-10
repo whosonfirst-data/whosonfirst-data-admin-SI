@@ -1,0 +1,71 @@
+{
+  "id": 1276260133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.97515,46.13716,14.97515,46.13716",
+    "geom:latitude":46.13716,
+    "geom:longitude":14.97515,
+    "gn:admin1_code":"E7",
+    "gn:asciiname":"Podkraj pri Zagorju",
+    "gn:country_code":"SI",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989576,
+    "gn:latitude":46.13716,
+    "gn:longitude":14.97515,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Podkraj pri Zagorju",
+    "gn:population":47,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959683,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989576,
+        "wk:page":"Podkraj_pri_Zagorju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d6067de977ad465882614ccf7eb880f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959683,
+            "locality_id":1276260133,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1276260133,
+    "wof:lastmodified":1537573546,
+    "wof:name":"Podkraj pri Zagorju",
+    "wof:parent_id":1108959683,
+    "wof:placetype":"locality",
+    "wof:population":47,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.97515,
+    46.13716,
+    14.97515,
+    46.13716
+],
+  "geometry": {"coordinates":[14.97515,46.13716],"type":"Point"}
+}

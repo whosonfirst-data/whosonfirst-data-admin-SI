@@ -1,0 +1,75 @@
+{
+  "id": 1343798979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.75861,46.59556,15.75861,46.59556",
+    "geom:latitude":46.59556,
+    "geom:longitude":15.75861,
+    "gn:admin1_code":"P7",
+    "gn:asciiname":"Zgornje Partinje",
+    "gn:country_code":"SI",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3193619,
+    "gn:latitude":46.59556,
+    "gn:longitude":15.75861,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Zgornje Partinje",
+    "gn:population":569,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Partinje",
+        "Zgornje Partinje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959815,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193619,
+        "wk:page":"Zgornje_Partinje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c82f841c96961aeb32e93da0f87d0a88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959815,
+            "locality_id":1343798979,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1343798979,
+    "wof:lastmodified":1537700212,
+    "wof:name":"Zgornje Partinje",
+    "wof:parent_id":1108959815,
+    "wof:placetype":"locality",
+    "wof:population":569,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.75861,
+    46.59556,
+    15.75861,
+    46.59556
+],
+  "geometry": {"coordinates":[15.75861,46.59556],"type":"Point"}
+}

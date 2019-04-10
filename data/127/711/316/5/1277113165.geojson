@@ -1,0 +1,71 @@
+{
+  "id": 1277113165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.54461,46.20823,14.54461,46.20823",
+    "geom:latitude":46.20823,
+    "geom:longitude":14.54461,
+    "gn:admin1_code":"H8",
+    "gn:asciiname":"Gmajnica",
+    "gn:country_code":"SI",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200546,
+    "gn:latitude":46.20823,
+    "gn:longitude":14.54461,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Gmajnica",
+    "gn:population":407,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959837,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200546,
+        "wk:page":"Gmajnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a08af11e945e61257841ea61ff1ecd5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959837,
+            "locality_id":1277113165,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1277113165,
+    "wof:lastmodified":1537573441,
+    "wof:name":"Gmajnica",
+    "wof:parent_id":1108959837,
+    "wof:placetype":"locality",
+    "wof:population":407,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.54461,
+    46.20823,
+    14.54461,
+    46.20823
+],
+  "geometry": {"coordinates":[14.54461,46.20823],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1327462649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.51422,45.63946,14.51422,45.63946",
+    "geom:latitude":45.63946,
+    "geom:longitude":14.51422,
+    "gn:admin1_code":"I7",
+    "gn:asciiname":"Babna Polica",
+    "gn:country_code":"SI",
+    "gn:dem":898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204698,
+    "gn:latitude":45.63946,
+    "gn:longitude":14.51422,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Babna Polica",
+    "gn:population":13,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Babina Polica",
+        "Babna Polica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959863,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204698,
+        "wk:page":"Babna_Polica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"604e87036a8b52ba7e100f8ba32302f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959863,
+            "locality_id":1327462649,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1327462649,
+    "wof:lastmodified":1537700266,
+    "wof:name":"Babna Polica",
+    "wof:parent_id":1108959863,
+    "wof:placetype":"locality",
+    "wof:population":13,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.51422,
+    45.63946,
+    14.51422,
+    45.63946
+],
+  "geometry": {"coordinates":[14.51422,45.63946],"type":"Point"}
+}

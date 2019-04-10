@@ -1,0 +1,76 @@
+{
+  "id": 1226677463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.55605,46.30905,15.55605,46.30905",
+    "geom:latitude":46.30905,
+    "geom:longitude":15.55605,
+    "gn:admin1_code":"O8",
+    "gn:asciiname":"Lusecka Vas",
+    "gn:country_code":"SI",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196014,
+    "gn:latitude":46.30905,
+    "gn:longitude":15.55605,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Lu\u0161e\u010dka Vas",
+    "gn:population":271,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Luxend",
+        "Luksendorf",
+        "Lu\u0161e\u010dka Vas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959721,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196014,
+        "wk:page":"Lu%C5%A1e%C4%8Dka_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a971e538439c35d355f1967a2b360bf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959721,
+            "locality_id":1226677463,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1226677463,
+    "wof:lastmodified":1537700222,
+    "wof:name":"Lusecka Vas",
+    "wof:parent_id":1108959721,
+    "wof:placetype":"locality",
+    "wof:population":271,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.55605,
+    46.30905,
+    15.55605,
+    46.30905
+],
+  "geometry": {"coordinates":[15.55605,46.30905],"type":"Point"}
+}

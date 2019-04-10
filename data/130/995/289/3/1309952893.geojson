@@ -1,0 +1,71 @@
+{
+  "id": 1309952893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.95,46.61667,15.95,46.61667",
+    "geom:latitude":46.61667,
+    "geom:longitude":15.95,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Radvenci",
+    "gn:country_code":"SI",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192044,
+    "gn:latitude":46.61667,
+    "gn:longitude":15.95,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Radvenci",
+    "gn:population":132,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959817,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192044,
+        "wk:page":"Radvenci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0d7fb09a4351fe40204a52e74c707db2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959817,
+            "locality_id":1309952893,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1309952893,
+    "wof:lastmodified":1537573407,
+    "wof:name":"Radvenci",
+    "wof:parent_id":1108959817,
+    "wof:placetype":"locality",
+    "wof:population":132,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.95,
+    46.61667,
+    15.95,
+    46.61667
+],
+  "geometry": {"coordinates":[15.95,46.61667],"type":"Point"}
+}

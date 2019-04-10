@@ -1,0 +1,71 @@
+{
+  "id": 1326564807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.83333,46.13333,14.83333,46.13333",
+    "geom:latitude":46.13333,
+    "geom:longitude":14.83333,
+    "gn:admin1_code":"I5",
+    "gn:asciiname":"Kandrse",
+    "gn:country_code":"SI",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198349,
+    "gn:latitude":46.13333,
+    "gn:longitude":14.83333,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kandr\u0161e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kandr\u0161e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959907,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198349,
+        "wk:page":"Kandr%C5%A1e%2C_Litija"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c287a43a6ec9555e0493c53a5a6eb947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959907,
+            "locality_id":1326564807,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1326564807,
+    "wof:lastmodified":1537700233,
+    "wof:name":"Kandrse",
+    "wof:parent_id":1108959907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.83333,
+    46.13333,
+    14.83333,
+    46.13333
+],
+  "geometry": {"coordinates":[14.83333,46.13333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343697823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.85483,45.55215,13.85483,45.55215",
+    "geom:latitude":45.55215,
+    "geom:longitude":13.85483,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Stepani",
+    "gn:country_code":"SI",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989182,
+    "gn:latitude":45.55215,
+    "gn:longitude":13.85483,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Stepani",
+    "gn:population":14,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959527,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989182,
+        "wk:page":"Stepani"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e892674d5896d6ede22381e1ecd558ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959527,
+            "locality_id":1343697823,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1343697823,
+    "wof:lastmodified":1537573534,
+    "wof:name":"Stepani",
+    "wof:parent_id":1108959527,
+    "wof:placetype":"locality",
+    "wof:population":14,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.85483,
+    45.55215,
+    13.85483,
+    45.55215
+],
+  "geometry": {"coordinates":[13.85483,45.55215],"type":"Point"}
+}

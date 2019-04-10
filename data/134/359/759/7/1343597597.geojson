@@ -1,0 +1,81 @@
+{
+  "id": 1343597597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.19605,45.68981,14.19605,45.68981",
+    "geom:latitude":45.68981,
+    "geom:longitude":14.19605,
+    "gn:admin1_code":"91",
+    "gn:asciiname":"Petelinje",
+    "gn:country_code":"SI",
+    "gn:dem":546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193451,
+    "gn:latitude":45.68981,
+    "gn:longitude":14.19605,
+    "gn:modification_date":"2015-10-22",
+    "gn:name":"Petelinje",
+    "gn:population":292,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Peteline"
+    ],
+    "name:slv_x_preferred":[
+        "Peteline"
+    ],
+    "name:und_x_variant":[
+        "Petteline",
+        "Petelinje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959587,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193451,
+        "wk:page":"Petelinje%2C_Pivka"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b1923941af310a55dde83a53befaa0f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959587,
+            "locality_id":1343597597,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1343597597,
+    "wof:lastmodified":1537700211,
+    "wof:name":"Petelinje",
+    "wof:parent_id":1108959587,
+    "wof:placetype":"locality",
+    "wof:population":292,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.19605,
+    45.68981,
+    14.19605,
+    45.68981
+],
+  "geometry": {"coordinates":[14.19605,45.68981],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209249437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.32252,45.78472,15.32252,45.78472",
+    "geom:latitude":45.78472,
+    "geom:longitude":15.32252,
+    "gn:admin1_code":"B4",
+    "gn:asciiname":"Cerov Log",
+    "gn:country_code":"SI",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987187,
+    "gn:latitude":45.78472,
+    "gn:longitude":15.32252,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Cerov Log",
+    "gn:population":227,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987187,
+        "wk:page":"Cerov_Log"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b32a8c6f7ec0b17cbcb9d775cef0d312",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209249437
+        }
+    ],
+    "wof:id":1209249437,
+    "wof:lastmodified":1537573471,
+    "wof:name":"Cerov Log",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":227,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.32252,
+    45.78472,
+    15.32252,
+    45.78472
+],
+  "geometry": {"coordinates":[15.32252,45.78472],"type":"Point"}
+}

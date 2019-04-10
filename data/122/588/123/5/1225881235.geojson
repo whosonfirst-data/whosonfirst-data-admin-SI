@@ -1,0 +1,71 @@
+{
+  "id": 1225881235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.98991,46.46482,14.98991,46.46482",
+    "geom:latitude":46.46482,
+    "geom:longitude":14.98991,
+    "gn:admin1_code":"C2",
+    "gn:asciiname":"Zgornji Razbor",
+    "gn:country_code":"SI",
+    "gn:dem":937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186484,
+    "gn:latitude":46.46482,
+    "gn:longitude":14.98991,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Zgornji Razbor",
+    "gn:population":129,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959645,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186484,
+        "wk:page":"Zgornji_Razbor"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d19f0bd99a73a78d8673f452a37087be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959645,
+            "locality_id":1225881235,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1225881235,
+    "wof:lastmodified":1537573380,
+    "wof:name":"Zgornji Razbor",
+    "wof:parent_id":1108959645,
+    "wof:placetype":"locality",
+    "wof:population":129,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.98991,
+    46.46482,
+    14.98991,
+    46.46482
+],
+  "geometry": {"coordinates":[14.98991,46.46482],"type":"Point"}
+}

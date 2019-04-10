@@ -1,0 +1,74 @@
+{
+  "id": 1259419955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.59582,45.99871,14.59582,45.99871",
+    "geom:latitude":45.99871,
+    "geom:longitude":14.59582,
+    "gn:admin1_code":"C1",
+    "gn:asciiname":"Dole pri Skofljici",
+    "gn:country_code":"SI",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989867,
+    "gn:latitude":45.99871,
+    "gn:longitude":14.59582,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Dole pri \u0160kofljici",
+    "gn:population":45,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dole pri \u0160kofljici"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959891,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989867,
+        "wk:page":"Dole_pri_%C5%A0kofljici"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"962f0ed8dcee7c9f32bb1274dccdea37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959891,
+            "locality_id":1259419955,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1259419955,
+    "wof:lastmodified":1537700334,
+    "wof:name":"Dole pri Skofljici",
+    "wof:parent_id":1108959891,
+    "wof:placetype":"locality",
+    "wof:population":45,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.59582,
+    45.99871,
+    14.59582,
+    45.99871
+],
+  "geometry": {"coordinates":[14.59582,45.99871],"type":"Point"}
+}

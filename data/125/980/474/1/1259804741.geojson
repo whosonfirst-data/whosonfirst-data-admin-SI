@@ -1,0 +1,74 @@
+{
+  "id": 1259804741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.50456,46.01799,13.50456,46.01799",
+    "geom:latitude":46.01799,
+    "geom:longitude":13.50456,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Hrusevlje",
+    "gn:country_code":"SI",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987602,
+    "gn:latitude":46.01799,
+    "gn:longitude":13.50456,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Hru\u0161evlje",
+    "gn:population":124,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hru\u0161evlje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959811,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987602,
+        "wk:page":"Hru%C5%A1evlje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3e65b7a80d416a3925b0be22d44011de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959811,
+            "locality_id":1259804741,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1259804741,
+    "wof:lastmodified":1537700289,
+    "wof:name":"Hrusevlje",
+    "wof:parent_id":1108959811,
+    "wof:placetype":"locality",
+    "wof:population":124,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.50456,
+    46.01799000000001,
+    13.50456,
+    46.01799000000001
+],
+  "geometry": {"coordinates":[13.50456,46.01799000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226082193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.37252,46.08646,14.37252,46.08646",
+    "geom:latitude":46.08646,
+    "geom:longitude":14.37252,
+    "gn:admin1_code":"G4",
+    "gn:asciiname":"Osredek pri Dobrovi",
+    "gn:country_code":"SI",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988101,
+    "gn:latitude":46.08646,
+    "gn:longitude":14.37252,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Osredek pri Dobrovi",
+    "gn:population":73,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959847,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988101,
+        "wk:page":"Osredek_pri_Dobrovi"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2426353c8b8f4ace555353cc72868107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959847,
+            "locality_id":1226082193,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1226082193,
+    "wof:lastmodified":1537573501,
+    "wof:name":"Osredek pri Dobrovi",
+    "wof:parent_id":1108959847,
+    "wof:placetype":"locality",
+    "wof:population":73,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.37252,
+    46.08646,
+    14.37252,
+    46.08646
+],
+  "geometry": {"coordinates":[14.37252,46.08646],"type":"Point"}
+}

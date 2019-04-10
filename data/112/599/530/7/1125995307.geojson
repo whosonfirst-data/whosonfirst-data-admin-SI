@@ -1,0 +1,154 @@
+{
+  "id": 1125995307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2208,46.68313,16.2208,46.68313",
+    "geom:latitude":46.68313,
+    "geom:longitude":16.2208,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":700,
+    "gn:population":735,
+    "iso:country":"SI",
+    "lbl:latitude":46.68313,
+    "lbl:longitude":16.2208,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "name:dut_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "name:eng_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "name:epo_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "name:fre_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "name:ger_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "name:hrv_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "name:hun_x_preferred":[
+        "Als\u00f3mar\u00e1c"
+    ],
+    "name:ita_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30e9\u30d5\u30b9\u30b1\u30fb\u30c8\u30d7\u30ea\u30c4\u30a7"
+    ],
+    "name:kor_x_preferred":[
+        "\ubaa8\ub77c\ube0c\uc2a4\ucf00\ud1a0\ud50c\ub9ac\uccb4"
+    ],
+    "name:por_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "name:rum_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "name:slv_x_preferred":[
+        "Moravske-Toplice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u0440\u0430\u0432\u0441\u043a\u0435 \u0422\u043e\u043f\u043b\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0440\u0430\u0432\u0441\u044c\u043a\u0435 \u0422\u043e\u043f\u043b\u0438\u0446\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Moravci"
+    ],
+    "name:vie_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3194871,
+    "qs_pg:gn_pop":700,
+    "qs_pg:name":"Moravske Toplice",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Murska Sobota",
+    "qs_pg:photos":102,
+    "qs_pg:photos_1k":21,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":102,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1000583,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":15001052,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Murska Sobota",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959925,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194871,
+        "gp:id":15001052,
+        "qs_pg:id":1000583,
+        "wd:id":"Q678429"
+    },
+    "wof:country":"SI",
+    "wof:created":1497299291,
+    "wof:geomhash":"a8f3db9268801de1df00cb8803cb2167",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959925,
+            "locality_id":1125995307,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1125995307,
+    "wof:lastmodified":1534379460,
+    "wof:name":"Moravske Toplice",
+    "wof:parent_id":1108959925,
+    "wof:placetype":"locality",
+    "wof:population":735,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[
+        101791991
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2208,
+    46.68313,
+    16.2208,
+    46.68313
+],
+  "geometry": {"coordinates":[16.2208,46.68313],"type":"Point"}
+}

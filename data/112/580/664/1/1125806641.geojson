@@ -1,0 +1,114 @@
+{
+  "id": 1125806641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.76667,46.13333,13.76667,46.13333",
+    "geom:latitude":46.13333,
+    "geom:longitude":13.76667,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":135,
+    "iso:country":"SI",
+    "lbl:latitude":46.13333,
+    "lbl:longitude":13.76667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u0447\u0430 \u043f\u0440\u0438 \u041c\u043e\u0434\u0440\u0435\u044e"
+    ],
+    "name:dut_x_preferred":[
+        "Ba\u010da pri Modreju"
+    ],
+    "name:eng_x_preferred":[
+        "Ba\u010da pri Modreju"
+    ],
+    "name:rum_x_preferred":[
+        "Ba\u010da pri Modreju"
+    ],
+    "name:slv_x_preferred":[
+        "Ba\u010da pri Modreju"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0447\u0430 \u043f\u0440\u0438 \u041c\u043e\u0434\u0440\u0435\u044e"
+    ],
+    "name:unk_x_variant":[
+        "Ba\u010da"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3204688,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ba\u010da Pri Modreju",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Tolmin",
+    "qs_pg:photos":13,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":13,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":496123,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":529504,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Tolmin",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959617,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204688,
+        "gp:id":529504,
+        "qs_pg:id":496123,
+        "wd:id":"Q2618049"
+    },
+    "wof:country":"SI",
+    "wof:created":1497291492,
+    "wof:geomhash":"2d202a9690f192d322109fc938e27a1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959617,
+            "locality_id":1125806641,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1125806641,
+    "wof:lastmodified":1531170230,
+    "wof:name":"Ba\u010da Pri Modreju",
+    "wof:parent_id":1108959617,
+    "wof:placetype":"locality",
+    "wof:population":135,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.76667,
+    46.13333,
+    13.76667,
+    46.13333
+],
+  "geometry": {"coordinates":[13.76667,46.13333],"type":"Point"}
+}

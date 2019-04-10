@@ -1,0 +1,112 @@
+{
+  "id": 1125803273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.36111,46.27028,14.36111,46.27028",
+    "geom:latitude":46.27028,
+    "geom:longitude":14.36111,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1607,
+    "gn:population":1646,
+    "iso:country":"SI",
+    "lbl:latitude":46.27028,
+    "lbl:longitude":14.36111,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Kokrica"
+    ],
+    "name:dut_x_preferred":[
+        "Kokrica"
+    ],
+    "name:eng_x_preferred":[
+        "Kokrica"
+    ],
+    "name:hrv_x_preferred":[
+        "Kokrica"
+    ],
+    "name:rum_x_preferred":[
+        "Kokrica"
+    ],
+    "name:slv_x_preferred":[
+        "Kokrica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043a\u0440\u0438\u0446\u044f"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3197904,
+    "qs_pg:gn_pop":1607,
+    "qs_pg:name":"Kokrica",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Kranj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":196365,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":530431,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Kranj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959933,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197904,
+        "gp:id":530431,
+        "qs_pg:id":196365,
+        "wd:id":"Q2409882"
+    },
+    "wof:country":"SI",
+    "wof:created":1497291359,
+    "wof:geomhash":"f35166ecd9040c1e3b319fcd895bb392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959933,
+            "locality_id":1125803273,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1125803273,
+    "wof:lastmodified":1531171362,
+    "wof:name":"Kokrica",
+    "wof:parent_id":1108959933,
+    "wof:placetype":"locality",
+    "wof:population":1646,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.36111,
+    46.27028,
+    14.36111,
+    46.27028
+],
+  "geometry": {"coordinates":[14.36111,46.27028],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326565663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.2,45.8,15.2,45.8",
+    "geom:latitude":45.8,
+    "geom:longitude":15.2,
+    "gn:admin1_code":"J7",
+    "gn:asciiname":"Velika Cikava",
+    "gn:country_code":"SI",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188262,
+    "gn:latitude":45.8,
+    "gn:longitude":15.2,
+    "gn:modification_date":"2008-11-25",
+    "gn:name":"Velika Cikava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959465,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188262
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ee34f9e38841582c0692aea75ece2824",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959465,
+            "locality_id":1326565663,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1326565663,
+    "wof:lastmodified":1536936520,
+    "wof:name":"Velika Cikava",
+    "wof:parent_id":1108959465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.2,
+    45.8,
+    15.2,
+    45.8
+],
+  "geometry": {"coordinates":[15.2,45.8],"type":"Point"}
+}

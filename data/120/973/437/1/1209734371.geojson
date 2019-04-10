@@ -1,0 +1,69 @@
+{
+  "id": 1209734371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.65275,46.07422,15.65275,46.07422",
+    "geom:latitude":46.07422,
+    "geom:longitude":15.65275,
+    "gn:asciiname":"Ples",
+    "gn:country_code":"SI",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989830,
+    "gn:latitude":46.07422,
+    "gn:longitude":15.65275,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Ples",
+    "gn:population":72,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959915,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989830
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"739eef36d5b53b6e776609b0e844735d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959915,
+            "locality_id":1209734371,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1209734371,
+    "wof:lastmodified":1536375287,
+    "wof:name":"Ples",
+    "wof:parent_id":1108959915,
+    "wof:placetype":"locality",
+    "wof:population":72,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.65275,
+    46.07422,
+    15.65275,
+    46.07422
+],
+  "geometry": {"coordinates":[15.65275,46.07422],"type":"Point"}
+}

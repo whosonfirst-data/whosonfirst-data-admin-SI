@@ -1,0 +1,71 @@
+{
+  "id": 1310635487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.78241,46.63609,15.78241,46.63609",
+    "geom:latitude":46.63609,
+    "geom:longitude":15.78241,
+    "gn:admin1_code":"P7",
+    "gn:asciiname":"Zgornji Gasteraj",
+    "gn:country_code":"SI",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186492,
+    "gn:latitude":46.63609,
+    "gn:longitude":15.78241,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Zgornji Gasteraj",
+    "gn:population":126,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959815,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186492,
+        "wk:page":"Zgornji_Gasteraj"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0411b070b65ac6d59f9d95e09ab0d71b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959815,
+            "locality_id":1310635487,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1310635487,
+    "wof:lastmodified":1537573381,
+    "wof:name":"Zgornji Gasteraj",
+    "wof:parent_id":1108959815,
+    "wof:placetype":"locality",
+    "wof:population":126,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.78241,
+    46.63609,
+    15.78241,
+    46.63609
+],
+  "geometry": {"coordinates":[15.78241,46.63609],"type":"Point"}
+}

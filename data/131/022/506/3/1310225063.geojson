@@ -1,0 +1,74 @@
+{
+  "id": 1310225063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.66667,45.9,15.66667,45.9",
+    "geom:latitude":45.9,
+    "geom:longitude":15.66667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Veliki Obrez",
+    "gn:country_code":"SI",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188031,
+    "gn:latitude":45.9,
+    "gn:longitude":15.66667,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Veliki Obre\u017e",
+    "gn:population":284,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Veliki Obre\u017e"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188031,
+        "wk:page":"Veliki_Obre%C5%BE"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9c47c0bcdc0274acb52bb4ad45ff4f46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1310225063,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1310225063,
+    "wof:lastmodified":1537700177,
+    "wof:name":"Veliki Obrez",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:population":284,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.66667,
+    45.9,
+    15.66667,
+    45.9
+],
+  "geometry": {"coordinates":[15.66667,45.9],"type":"Point"}
+}

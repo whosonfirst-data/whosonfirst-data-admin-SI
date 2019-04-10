@@ -1,0 +1,71 @@
+{
+  "id": 1343991913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.84861,46.12338,14.84861,46.12338",
+    "geom:latitude":46.12338,
+    "geom:longitude":14.84861,
+    "gn:admin1_code":"I5",
+    "gn:asciiname":"Klenik",
+    "gn:country_code":"SI",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988343,
+    "gn:latitude":46.12338,
+    "gn:longitude":14.84861,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Klenik",
+    "gn:population":55,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959907,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988343,
+        "wk:page":"Klenik%2C_Litija"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"735fa6d8f46372a7998a362fadb19ca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959907,
+            "locality_id":1343991913,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1343991913,
+    "wof:lastmodified":1537573509,
+    "wof:name":"Klenik",
+    "wof:parent_id":1108959907,
+    "wof:placetype":"locality",
+    "wof:population":55,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.84861,
+    46.12338,
+    14.84861,
+    46.12338
+],
+  "geometry": {"coordinates":[14.84861,46.12338],"type":"Point"}
+}

@@ -1,0 +1,187 @@
+{
+  "id": 85677977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.036144,
+    "geom:area_square_m":313168647.159417,
+    "geom:bbox":"15.0661282344,45.4256004856,15.3613668209,45.6174225946",
+    "geom:latitude":45.516105,
+    "geom:longitude":15.195076,
+    "gn:population":14717,
+    "iso:country":"SI",
+    "lbl:latitude":45.51458,
+    "lbl:longitude":15.207019,
+    "mps:latitude":45.51458,
+    "mps:longitude":15.207019,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u062a\u0634\u0631\u0646\u0645\u0644\u064a"
+    ],
+    "name:bos_x_preferred":[
+        "\u010crnomelj"
+    ],
+    "name:ces_x_preferred":[
+        "\u010crnomelj"
+    ],
+    "name:deu_x_preferred":[
+        "\u010crnomelj"
+    ],
+    "name:eng_x_preferred":[
+        "Crnomelj"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0631\u0646\u0645\u0644\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "\u010crnomelj"
+    ],
+    "name:hrv_x_preferred":[
+        "\u010crnomelj"
+    ],
+    "name:ita_x_preferred":[
+        "\u010crnomelj"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e5\u30eb\u30ce\u30e1\u30ea"
+    ],
+    "name:kor_x_preferred":[
+        "\uce58\ub974\ub178\uba5c"
+    ],
+    "name:und_x_preferred":[
+        "Crnomelj"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina \u010crnomelj"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-945",
+    "ne:adm1_code":"SVN-945",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SI.DO.CR",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"945",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SI17",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.17",
+    "ne:gn_id":"3202332",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Crnomelj",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI17",
+    "ne:gns_id":"-77855",
+    "ne:gns_lang":"srp",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Crnomelj, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"45.52290000000",
+    "ne:longitude":"15.21350000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Crnomelj",
+    "ne:name_alt":"",
+    "ne:name_len":8,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"CR",
+    "ne:provnum_ne":"57",
+    "ne:region":"Jugovzhodna Slovenija",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":55848345,
+    "ne:woe_label":"Crnomelj, SI, Slovenia",
+    "ne:woe_name":"Crnomelj",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Crnomelj",
+    "qs:a1_lc":"SVN-945",
+    "qs:a1r":"Jugovzhodna Slovenija",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SI17",
+        "gn:id":3202332,
+        "gp:id":55848345,
+        "hasc:id":"SI.DO.CR",
+        "qs:id":1293113,
+        "wd:id":"Q15861",
+        "wk:page":"\u010crnomelj"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3700560bc9c653f71ba94d53f924d7af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677977
+        }
+    ],
+    "wof:id":85677977,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616733,
+    "wof:name":"Crnomelj",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:population":14717,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[
+        1108959699
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.06612823443055,
+    45.42560048557402,
+    15.36136682092211,
+    45.61742259457714
+],
+  "geometry": {"coordinates":[[[15.22504520017588,45.60827586523902],[15.22364993709499,45.59995595999959],[15.23904951322453,45.5963902865825],[15.24897138801919,45.59819896081342],[15.25315717906062,45.59680369683321],[15.25284712069811,45.59421987624637],[15.25594770702111,45.58920726200557],[15.26137373241187,45.58238597353392],[15.27083051921312,45.57623647683198],[15.2801322772828,45.57318756825174],[15.28163089405058,45.5719473330031],[15.28217858207597,45.57149407469183],[15.28261193839029,45.57060455345743],[15.28860640546128,45.54455963212138],[15.29666792828232,45.52295888334584],[15.31103397743618,45.50590565991831],[15.36136682092211,45.48203114891845],[15.35175500448992,45.47614003643361],[15.33387495966173,45.45851837222517],[15.32519331831702,45.45283396441596],[15.31403120917304,45.4505085253482],[15.28157841051529,45.45097361244234],[15.22584915181693,45.43644969359855],[15.18422001094478,45.42560048557402],[15.13926151510691,45.43004465813453],[15.06612823443055,45.47393372336268],[15.07487348842079,45.48895498348577],[15.08665571518918,45.49918691754226],[15.09285688603649,45.50244253169751],[15.10370893681801,45.50639577874227],[15.11812666191594,45.50874705713102],[15.12127892418306,45.51164093697969],[15.12076216024553,45.51649852069022],[15.11301069488769,45.52032257742508],[15.10153852738119,45.51944407828165],[15.09053144696873,45.51644684474616],[15.07967939618726,45.51453481682836],[15.07301313644712,45.51706696237045],[15.06975752139255,45.52285472296717],[15.07316816607806,45.53422353768616],[15.08184980562407,45.54244009103741],[15.08681074392075,45.5443521189552],[15.09006635897532,45.54641917650383],[15.09394209165424,45.54616079408544],[15.09719770670887,45.54492055883679],[15.10060835139433,45.54608327882033],[15.10060835139433,45.55063080506767],[15.08898115425689,45.55851146073536],[15.08355512886618,45.56357575092022],[15.08371015759775,45.57473786096358],[15.07905927856291,45.58398794218982],[15.07998945544904,45.58987905557399],[15.07363325407147,45.60194550228317],[15.10541426006012,45.59450409618717],[15.13321617968302,45.5963386088398],[15.14127770430264,45.59835399044437],[15.14608361206911,45.60067943041145],[15.14747887515,45.60284983984826],[15.15073449110395,45.60636383732128],[15.15585045723287,45.610523789941],[15.17398888537883,45.61742259457714],[15.18861331515239,45.6170091825278],[15.20675174329835,45.61458038977321],[15.22504520017588,45.60827586523902]]],"type":"Polygon"}
+}

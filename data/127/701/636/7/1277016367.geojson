@@ -1,0 +1,74 @@
+{
+  "id": 1277016367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.55148,46.33871,15.55148,46.33871",
+    "geom:latitude":46.33871,
+    "geom:longitude":15.55148,
+    "gn:admin1_code":"L8",
+    "gn:asciiname":"Razgor pri Zabljeku",
+    "gn:country_code":"SI",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987844,
+    "gn:latitude":46.33871,
+    "gn:longitude":15.55148,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Razgor pri \u017dabljeku",
+    "gn:population":98,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Razgor pri \u017dabljeku"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959641,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987844,
+        "wk:page":"Razgor_pri_%C5%BDabljeku"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"43bea3b40b645e4bc2805f2aaa40da0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959641,
+            "locality_id":1277016367,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1277016367,
+    "wof:lastmodified":1537700294,
+    "wof:name":"Razgor pri Zabljeku",
+    "wof:parent_id":1108959641,
+    "wof:placetype":"locality",
+    "wof:population":98,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.55148,
+    46.33871,
+    15.55148,
+    46.33871
+],
+  "geometry": {"coordinates":[15.55148,46.33871],"type":"Point"}
+}

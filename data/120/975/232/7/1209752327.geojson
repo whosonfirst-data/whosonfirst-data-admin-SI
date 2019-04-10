@@ -1,0 +1,71 @@
+{
+  "id": 1209752327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.39596,46.1248,15.39596,46.1248",
+    "geom:latitude":46.1248,
+    "geom:longitude":15.39596,
+    "gn:admin1_code":"G2",
+    "gn:asciiname":"Brezje pri Dobjem",
+    "gn:country_code":"SI",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989820,
+    "gn:latitude":46.1248,
+    "gn:longitude":15.39596,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Brezje pri Dobjem",
+    "gn:population":80,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959685,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989820,
+        "wk:page":"Brezje_pri_Dobjem"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8daa3bd89d2ec7b41ae705e4474c6216",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959685,
+            "locality_id":1209752327,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1209752327,
+    "wof:lastmodified":1537573553,
+    "wof:name":"Brezje pri Dobjem",
+    "wof:parent_id":1108959685,
+    "wof:placetype":"locality",
+    "wof:population":80,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.39596,
+    46.1248,
+    15.39596,
+    46.1248
+],
+  "geometry": {"coordinates":[15.39596,46.1248],"type":"Point"}
+}

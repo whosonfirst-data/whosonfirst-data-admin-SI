@@ -1,0 +1,75 @@
+{
+  "id": 1310280221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.01972,45.64806,14.01972,45.64806",
+    "geom:latitude":45.64806,
+    "geom:longitude":14.01972,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Zavrhek",
+    "gn:country_code":"SI",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3219011,
+    "gn:latitude":45.64806,
+    "gn:longitude":14.01972,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Zavrhek",
+    "gn:population":48,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zavrhnek",
+        "Zavrhek"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959845,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3219011,
+        "wk:page":"Zavrhek"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1417dfd157762a277e329b29cc2b06a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959845,
+            "locality_id":1310280221,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1310280221,
+    "wof:lastmodified":1537700273,
+    "wof:name":"Zavrhek",
+    "wof:parent_id":1108959845,
+    "wof:placetype":"locality",
+    "wof:population":48,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.01972,
+    45.64806,
+    14.01972,
+    45.64806
+],
+  "geometry": {"coordinates":[14.01972,45.64806],"type":"Point"}
+}

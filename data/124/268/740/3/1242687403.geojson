@@ -1,0 +1,75 @@
+{
+  "id": 1242687403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.92972,45.91389,13.92972,45.91389",
+    "geom:latitude":45.91389,
+    "geom:longitude":13.92972,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kovk",
+    "gn:country_code":"SI",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3197501,
+    "gn:latitude":45.91389,
+    "gn:longitude":13.92972,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Kovk",
+    "gn:population":134,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kolk",
+        "Kovk"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959545,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197501,
+        "wk:page":"Kovk%2C_Ajdov%C5%A1%C4%8Dina"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"cf9fcd01407c898ed1fe936b0b01eeac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959545,
+            "locality_id":1242687403,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1242687403,
+    "wof:lastmodified":1537700230,
+    "wof:name":"Kovk",
+    "wof:parent_id":1108959545,
+    "wof:placetype":"locality",
+    "wof:population":134,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.92972,
+    45.91389,
+    13.92972,
+    45.91389
+],
+  "geometry": {"coordinates":[13.92972,45.91389],"type":"Point"}
+}

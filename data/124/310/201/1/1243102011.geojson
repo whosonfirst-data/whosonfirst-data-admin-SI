@@ -1,0 +1,75 @@
+{
+  "id": 1243102011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.18467,46.04057,15.18467,46.04057",
+    "geom:latitude":46.04057,
+    "geom:longitude":15.18467,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Brunk",
+    "gn:country_code":"SI",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203201,
+    "gn:latitude":46.04057,
+    "gn:longitude":15.18467,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Brunk",
+    "gn:population":11,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brunik",
+        "Brunk"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959883,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203201,
+        "wk:page":"Brunk%2C_Rade%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5f6e132cfb06a8223b96164ef90b8db6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959883,
+            "locality_id":1243102011,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1243102011,
+    "wof:lastmodified":1537700260,
+    "wof:name":"Brunk",
+    "wof:parent_id":1108959883,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.18467,
+    46.04057,
+    15.18467,
+    46.04057
+],
+  "geometry": {"coordinates":[15.18467,46.04057],"type":"Point"}
+}

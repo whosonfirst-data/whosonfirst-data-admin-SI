@@ -1,0 +1,71 @@
+{
+  "id": 1209952803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.78275,46.57898,15.78275,46.57898",
+    "geom:latitude":46.57898,
+    "geom:longitude":15.78275,
+    "gn:admin1_code":"I3",
+    "gn:asciiname":"Spodnje Partinje",
+    "gn:country_code":"SI",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989784,
+    "gn:latitude":46.57898,
+    "gn:longitude":15.78275,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Spodnje Partinje",
+    "gn:population":134,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959477,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989784,
+        "wk:page":"Spodnje_Partinje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"52c30d0b5c3cff0c6c27113a99a52d5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959477,
+            "locality_id":1209952803,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1209952803,
+    "wof:lastmodified":1537573552,
+    "wof:name":"Spodnje Partinje",
+    "wof:parent_id":1108959477,
+    "wof:placetype":"locality",
+    "wof:population":134,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.78275,
+    46.57898,
+    15.78275,
+    46.57898
+],
+  "geometry": {"coordinates":[15.78275,46.57898],"type":"Point"}
+}

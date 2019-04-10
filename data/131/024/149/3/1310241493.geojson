@@ -1,0 +1,74 @@
+{
+  "id": 1310241493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.46492,45.80931,14.46492,45.80931",
+    "geom:latitude":45.80931,
+    "geom:longitude":14.46492,
+    "gn:admin1_code":"F6",
+    "gn:asciiname":"Rozance",
+    "gn:country_code":"SI",
+    "gn:dem":729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989300,
+    "gn:latitude":45.80931,
+    "gn:longitude":14.46492,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ro\u017ean\u010de",
+    "gn:population":9,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ro\u017ean\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959893,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989300,
+        "wk:page":"Ro%C5%BEan%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c946678ed5eed5fce7326efde94fbef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959893,
+            "locality_id":1310241493,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1310241493,
+    "wof:lastmodified":1537700324,
+    "wof:name":"Rozance",
+    "wof:parent_id":1108959893,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.46492,
+    45.80931,
+    14.46492,
+    45.80931
+],
+  "geometry": {"coordinates":[14.46492,45.80931],"type":"Point"}
+}

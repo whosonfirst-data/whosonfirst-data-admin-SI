@@ -1,0 +1,74 @@
+{
+  "id": 1259925713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.63083,45.98583,14.63083,45.98583",
+    "geom:latitude":45.98583,
+    "geom:longitude":14.63083,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Repce",
+    "gn:country_code":"SI",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191730,
+    "gn:latitude":45.98583,
+    "gn:longitude":14.63083,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Rep\u010de",
+    "gn:population":70,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rep\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959533,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191730,
+        "wk:page":"Rep%C4%8De%2C_Ljubljana"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"14b53b21a3ec0c077e218e5cc9d7107e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959533,
+            "locality_id":1259925713,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1259925713,
+    "wof:lastmodified":1537700200,
+    "wof:name":"Repce",
+    "wof:parent_id":1108959533,
+    "wof:placetype":"locality",
+    "wof:population":70,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.63083,
+    45.98583,
+    14.63083,
+    45.98583
+],
+  "geometry": {"coordinates":[14.63083,45.98583],"type":"Point"}
+}

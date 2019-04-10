@@ -1,0 +1,68 @@
+{
+  "id": 1209351571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.20614,45.78583,15.20614,45.78583",
+    "geom:latitude":45.78583,
+    "geom:longitude":15.20614,
+    "gn:admin1_code":"J7",
+    "gn:asciiname":"Sentjost",
+    "gn:country_code":"SI",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987771,
+    "gn:latitude":45.78583,
+    "gn:longitude":15.20614,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160entjo\u0161t",
+    "gn:population":105,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160entjo\u0161t"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987771,
+        "wk:page":"%C5%A0entjo%C5%A1t%2C_Novo_Mesto"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"13d24591ff00c494a0c1a5df652af022",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209351571
+        }
+    ],
+    "wof:id":1209351571,
+    "wof:lastmodified":1537700293,
+    "wof:name":"Sentjost",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":105,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.20614,
+    45.78583,
+    15.20614,
+    45.78583
+],
+  "geometry": {"coordinates":[15.20614,45.78583],"type":"Point"}
+}

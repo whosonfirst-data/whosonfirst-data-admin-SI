@@ -1,0 +1,115 @@
+{
+  "id": 1126040991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.10333,46.43028,14.10333,46.43028",
+    "geom:latitude":46.43028,
+    "geom:longitude":14.10333,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2212,
+    "gn:population":2160,
+    "iso:country":"SI",
+    "lbl:latitude":46.43028,
+    "lbl:longitude":14.10333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Koro\u0161ka Bela"
+    ],
+    "name:dut_x_preferred":[
+        "Koro\u0161ka Bela"
+    ],
+    "name:eng_x_preferred":[
+        "Koro\u0161ka Bela"
+    ],
+    "name:hrv_x_preferred":[
+        "Koro\u0161ka Bela"
+    ],
+    "name:rum_x_preferred":[
+        "Koro\u0161ka Bela"
+    ],
+    "name:slv_x_preferred":[
+        "Koro\u0161ka Bela"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0440\u043e\u0448\u043a\u0430 \u0411\u0435\u043b\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Koro\u0161ka-Bela"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3217862,
+    "qs_pg:gn_pop":2212,
+    "qs_pg:name":"Koroska Bela",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Jesenice",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":263885,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":55849704,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Jesenice",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959875,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217862,
+        "gp:id":55849704,
+        "qs_pg:id":263885,
+        "wd:id":"Q2142859"
+    },
+    "wof:country":"SI",
+    "wof:created":1497302158,
+    "wof:geomhash":"b525f1833364908e83ec204729af5e61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959875,
+            "locality_id":1126040991,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1126040991,
+    "wof:lastmodified":1531171366,
+    "wof:name":"Koroska Bela",
+    "wof:parent_id":1108959875,
+    "wof:placetype":"locality",
+    "wof:population":2160,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.10333,
+    46.43028,
+    14.10333,
+    46.43028
+],
+  "geometry": {"coordinates":[14.10333,46.43028],"type":"Point"}
+}

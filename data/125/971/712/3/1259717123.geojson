@@ -1,0 +1,71 @@
+{
+  "id": 1259717123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.35407,45.83837,15.35407,45.83837",
+    "geom:latitude":45.83837,
+    "geom:longitude":15.35407,
+    "gn:admin1_code":"B4",
+    "gn:asciiname":"Dolenja Stara Vas",
+    "gn:country_code":"SI",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987381,
+    "gn:latitude":45.83837,
+    "gn:longitude":15.35407,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Dolenja Stara Vas",
+    "gn:population":163,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959937,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987381,
+        "wk:page":"Dolenja_Stara_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d82489a27f14f11303dd077294119a70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959937,
+            "locality_id":1259717123,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1259717123,
+    "wof:lastmodified":1537573478,
+    "wof:name":"Dolenja Stara Vas",
+    "wof:parent_id":1108959937,
+    "wof:placetype":"locality",
+    "wof:population":163,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.35407,
+    45.83837,
+    15.35407,
+    45.83837
+],
+  "geometry": {"coordinates":[15.35407,45.83837],"type":"Point"}
+}

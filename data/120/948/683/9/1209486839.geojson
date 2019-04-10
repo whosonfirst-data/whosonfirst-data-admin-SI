@@ -1,0 +1,68 @@
+{
+  "id": 1209486839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.09832,45.58509,15.09832,45.58509",
+    "geom:latitude":45.58509,
+    "geom:longitude":15.09832,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Rozic Vrh",
+    "gn:country_code":"SI",
+    "gn:dem":676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988465,
+    "gn:latitude":45.58509,
+    "gn:longitude":15.09832,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ro\u017ei\u010d Vrh",
+    "gn:population":48,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ro\u017ei\u010d Vrh"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988465,
+        "wk:page":"Ro%C5%BEi%C4%8D_Vrh"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5d833c22281f32406974e7fb2c5bedbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209486839
+        }
+    ],
+    "wof:id":1209486839,
+    "wof:lastmodified":1537700307,
+    "wof:name":"Rozic Vrh",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":48,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.09832,
+    45.58509,
+    15.09832,
+    45.58509
+],
+  "geometry": {"coordinates":[15.09832,45.58509],"type":"Point"}
+}

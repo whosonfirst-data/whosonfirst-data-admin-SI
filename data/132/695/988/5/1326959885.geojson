@@ -1,0 +1,71 @@
+{
+  "id": 1326959885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.22598,46.32118,14.22598,46.32118",
+    "geom:latitude":46.32118,
+    "geom:longitude":14.22598,
+    "gn:admin1_code":"A3",
+    "gn:asciiname":"Dobro Polje",
+    "gn:country_code":"SI",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987525,
+    "gn:latitude":46.32118,
+    "gn:longitude":14.22598,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Dobro Polje",
+    "gn:population":137,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959825,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987525,
+        "wk:page":"Dobro_Polje%2C_Radovljica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"dadf9583f9ffcef3ba819716d6625f25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959825,
+            "locality_id":1326959885,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1326959885,
+    "wof:lastmodified":1537573482,
+    "wof:name":"Dobro Polje",
+    "wof:parent_id":1108959825,
+    "wof:placetype":"locality",
+    "wof:population":137,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.22598,
+    46.32118,
+    14.22598,
+    46.32118
+],
+  "geometry": {"coordinates":[14.22598,46.32118],"type":"Point"}
+}

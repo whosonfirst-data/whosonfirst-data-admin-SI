@@ -1,0 +1,75 @@
+{
+  "id": 1309850189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.06028,45.92861,14.06028,45.92861",
+    "geom:latitude":45.92861,
+    "geom:longitude":14.06028,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Predgrize",
+    "gn:country_code":"SI",
+    "gn:dem":677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192557,
+    "gn:latitude":45.92861,
+    "gn:longitude":14.06028,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Predgri\u017ee",
+    "gn:population":154,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pregrise",
+        "Predgri\u017ee"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959535,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192557,
+        "wk:page":"Predgri%C5%BEe"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"57afa34210120990c1e4aed132249ce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959535,
+            "locality_id":1309850189,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1309850189,
+    "wof:lastmodified":1537700205,
+    "wof:name":"Predgrize",
+    "wof:parent_id":1108959535,
+    "wof:placetype":"locality",
+    "wof:population":154,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.06028,
+    45.92861,
+    14.06028,
+    45.92861
+],
+  "geometry": {"coordinates":[14.06028,45.92861],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1360320369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.47051,46.10831,15.47051,46.10831",
+    "geom:latitude":46.10831,
+    "geom:longitude":15.47051,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Bistrica",
+    "gn:country_code":"SI",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988324,
+    "gn:latitude":46.10831,
+    "gn:longitude":15.47051,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Bistrica",
+    "gn:population":56,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959581,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988324,
+        "wk:page":"Bistrica%2C_Kozje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a95b44cdf0416a636efc0185269f1308",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959581,
+            "locality_id":1360320369,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1360320369,
+    "wof:lastmodified":1537573508,
+    "wof:name":"Bistrica",
+    "wof:parent_id":1108959581,
+    "wof:placetype":"locality",
+    "wof:population":56,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.47051,
+    46.10831,
+    15.47051,
+    46.10831
+],
+  "geometry": {"coordinates":[15.47051,46.10831],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108943327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.6659755606,45.9929520125,14.6659755606,45.9929520125",
+    "geom:latitude":45.992952,
+    "geom:longitude":14.665976,
+    "iso:country":"SI",
+    "lbl:latitude":45.992952,
+    "lbl:longitude":14.665976,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        1108959949,
+        102191581,
+        1108959501,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"SI",
+    "wof:created":1491363660,
+    "wof:geomhash":"f4686789a9c5575ff779531f427d73a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959501,
+            "locality_id":-1,
+            "neighbourhood_id":1108943327,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1108943327,
+    "wof:lastmodified":1531170289,
+    "wof:name":"Pance",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.66597556061462,
+    45.99295201253712,
+    14.66597556061462,
+    45.99295201253712
+],
+  "geometry": {"coordinates":[14.66597556061462,45.99295201253712],"type":"Point"}
+}

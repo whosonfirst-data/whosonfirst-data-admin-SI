@@ -1,0 +1,74 @@
+{
+  "id": 1360115641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.95986,46.27333,14.95986,46.27333",
+    "geom:latitude":46.27333,
+    "geom:longitude":14.95986,
+    "gn:admin1_code":"N4",
+    "gn:asciiname":"Creta",
+    "gn:country_code":"SI",
+    "gn:dem":857,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989654,
+    "gn:latitude":46.27333,
+    "gn:longitude":14.95986,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"\u010creta",
+    "gn:population":15,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010creta"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959827,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989654,
+        "wk:page":"%C4%8Creta%2C_Vransko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f1547a367569203d64675995c2b3144b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959827,
+            "locality_id":1360115641,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1360115641,
+    "wof:lastmodified":1537700330,
+    "wof:name":"Creta",
+    "wof:parent_id":1108959827,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.95986,
+    46.27333,
+    14.95986,
+    46.27333
+],
+  "geometry": {"coordinates":[14.95986,46.27333],"type":"Point"}
+}

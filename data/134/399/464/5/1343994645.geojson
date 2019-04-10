@@ -1,0 +1,71 @@
+{
+  "id": 1343994645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.91639,46.59861,14.91639,46.59861",
+    "geom:latitude":46.59861,
+    "geom:longitude":14.91639,
+    "gn:admin1_code":"K8",
+    "gn:asciiname":"Strojna",
+    "gn:country_code":"SI",
+    "gn:dem":923,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189689,
+    "gn:latitude":46.59861,
+    "gn:longitude":14.91639,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Strojna",
+    "gn:population":111,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959643,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189689,
+        "wk:page":"Strojna"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"49145433d5a1141c9c993d69a929abf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959643,
+            "locality_id":1343994645,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1343994645,
+    "wof:lastmodified":1537573394,
+    "wof:name":"Strojna",
+    "wof:parent_id":1108959643,
+    "wof:placetype":"locality",
+    "wof:population":111,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.91639,
+    46.59861,
+    14.91639,
+    46.59861
+],
+  "geometry": {"coordinates":[14.91639,46.59861],"type":"Point"}
+}

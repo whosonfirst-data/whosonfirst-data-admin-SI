@@ -1,0 +1,73 @@
+{
+  "id": 1277105279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.24593,46.18596,14.24593,46.18596",
+    "geom:latitude":46.18596,
+    "geom:longitude":14.24593,
+    "gn:admin1_code":"B9",
+    "gn:asciiname":"Sv. Tomaz",
+    "gn:country_code":"SI",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988394,
+    "gn:latitude":46.18596,
+    "gn:longitude":14.24593,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Sv. Toma\u017e",
+    "gn:population":53,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sv. Toma\u017e"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959821,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988394
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"222f0d8590962d866b003f20fe135218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959821,
+            "locality_id":1277105279,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1277105279,
+    "wof:lastmodified":1537700305,
+    "wof:name":"Sv. Tomaz",
+    "wof:parent_id":1108959821,
+    "wof:placetype":"locality",
+    "wof:population":53,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.24593,
+    46.18596,
+    14.24593,
+    46.18596
+],
+  "geometry": {"coordinates":[14.24593,46.18596],"type":"Point"}
+}

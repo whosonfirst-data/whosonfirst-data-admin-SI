@@ -1,0 +1,71 @@
+{
+  "id": 1243203459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.41887,46.14699,14.41887,46.14699",
+    "geom:latitude":46.14699,
+    "geom:longitude":14.41887,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Verje",
+    "gn:country_code":"SI",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986912,
+    "gn:latitude":46.14699,
+    "gn:longitude":14.41887,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Verje",
+    "gn:population":517,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959881,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986912,
+        "wk:page":"Verje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"68f9d1cf464a6e7d542787db7efafb71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959881,
+            "locality_id":1243203459,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1243203459,
+    "wof:lastmodified":1537573464,
+    "wof:name":"Verje",
+    "wof:parent_id":1108959881,
+    "wof:placetype":"locality",
+    "wof:population":517,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.41887,
+    46.14699,
+    14.41887,
+    46.14699
+],
+  "geometry": {"coordinates":[14.41887,46.14699],"type":"Point"}
+}

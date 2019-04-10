@@ -1,0 +1,74 @@
+{
+  "id": 1276490347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.07247,45.55882,14.07247,45.55882",
+    "geom:latitude":45.55882,
+    "geom:longitude":14.07247,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Ritomece",
+    "gn:country_code":"SI",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988578,
+    "gn:latitude":45.55882,
+    "gn:longitude":14.07247,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ritome\u010de",
+    "gn:population":42,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ritome\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959549,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988578,
+        "wk:page":"Ritome%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"613642217b901de1c82a92df138738d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959549,
+            "locality_id":1276490347,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1276490347,
+    "wof:lastmodified":1537700309,
+    "wof:name":"Ritomece",
+    "wof:parent_id":1108959549,
+    "wof:placetype":"locality",
+    "wof:population":42,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.07247,
+    45.55882,
+    14.07247,
+    45.55882
+],
+  "geometry": {"coordinates":[14.07247,45.55882],"type":"Point"}
+}

@@ -1,0 +1,110 @@
+{
+  "id": 1126022185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.915,46.4125,15.915,46.4125",
+    "geom:latitude":46.4125,
+    "geom:longitude":15.915,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":812,
+    "gn:population":893,
+    "iso:country":"SI",
+    "lbl:latitude":46.4125,
+    "lbl:longitude":15.915,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Spuhlja"
+    ],
+    "name:dut_x_preferred":[
+        "Spuhlja"
+    ],
+    "name:eng_x_preferred":[
+        "Spuhlja"
+    ],
+    "name:rum_x_preferred":[
+        "Spuhlja"
+    ],
+    "name:slv_x_preferred":[
+        "Spuhlja"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043f\u0443\u0445\u043b\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Pichldorf"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3190179,
+    "qs_pg:gn_pop":812,
+    "qs_pg:name":"Spuhlja",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Ptuj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":312757,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":531717,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Ptuj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959659,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190179,
+        "gp:id":531717,
+        "qs_pg:id":312757,
+        "wd:id":"Q2069613"
+    },
+    "wof:country":"SI",
+    "wof:created":1497300899,
+    "wof:geomhash":"c8101076a1837b320f35305858208f48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959659,
+            "locality_id":1126022185,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1126022185,
+    "wof:lastmodified":1531170948,
+    "wof:name":"Spuhlja",
+    "wof:parent_id":1108959659,
+    "wof:placetype":"locality",
+    "wof:population":893,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.915,
+    46.4125,
+    15.915,
+    46.4125
+],
+  "geometry": {"coordinates":[15.915,46.4125],"type":"Point"}
+}

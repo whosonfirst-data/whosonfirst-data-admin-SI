@@ -1,0 +1,71 @@
+{
+  "id": 1242907589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.55198,46.09056,15.55198,46.09056",
+    "geom:latitude":46.09056,
+    "geom:longitude":15.55198,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Zdole",
+    "gn:country_code":"SI",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186663,
+    "gn:latitude":46.09056,
+    "gn:longitude":15.55198,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Zdole",
+    "gn:population":135,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959581,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186663,
+        "wk:page":"Zdole%2C_Kozje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"103bfe612291af480766fdd388d8d9f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959581,
+            "locality_id":1242907589,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1242907589,
+    "wof:lastmodified":1537573383,
+    "wof:name":"Zdole",
+    "wof:parent_id":1108959581,
+    "wof:placetype":"locality",
+    "wof:population":135,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.55198,
+    46.09056,
+    15.55198,
+    46.09056
+],
+  "geometry": {"coordinates":[15.55198,46.09056],"type":"Point"}
+}

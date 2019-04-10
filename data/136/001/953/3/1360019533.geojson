@@ -1,0 +1,74 @@
+{
+  "id": 1360019533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.28111,46.33167,14.28111,46.33167",
+    "geom:latitude":46.33167,
+    "geom:longitude":14.28111,
+    "gn:admin1_code":"D5",
+    "gn:asciiname":"Zvirce",
+    "gn:country_code":"SI",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217742,
+    "gn:latitude":46.33167,
+    "gn:longitude":14.28111,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Zvir\u010de",
+    "gn:population":389,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zvir\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959917,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217742,
+        "wk:page":"Zvir%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"df92c35e20c8d425aecc70dc79728439",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959917,
+            "locality_id":1360019533,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1360019533,
+    "wof:lastmodified":1537700271,
+    "wof:name":"Zvirce",
+    "wof:parent_id":1108959917,
+    "wof:placetype":"locality",
+    "wof:population":389,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.28111,
+    46.33167,
+    14.28111,
+    46.33167
+],
+  "geometry": {"coordinates":[14.28111,46.33167],"type":"Point"}
+}

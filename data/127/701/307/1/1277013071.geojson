@@ -1,0 +1,75 @@
+{
+  "id": 1277013071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.23139,46.455,16.23139,46.455",
+    "geom:latitude":46.455,
+    "geom:longitude":16.23139,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Zasavci",
+    "gn:country_code":"SI",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186756,
+    "gn:latitude":46.455,
+    "gn:longitude":16.23139,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Zasavci",
+    "gn:population":58,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zasavec",
+        "Zasavci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959765,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186756,
+        "wk:page":"Zasavci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d80afd9d3976ff07cf5b3648f754b720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959765,
+            "locality_id":1277013071,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1277013071,
+    "wof:lastmodified":1537700170,
+    "wof:name":"Zasavci",
+    "wof:parent_id":1108959765,
+    "wof:placetype":"locality",
+    "wof:population":58,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.23139,
+    46.455,
+    16.23139,
+    46.455
+],
+  "geometry": {"coordinates":[16.23139,46.455],"type":"Point"}
+}

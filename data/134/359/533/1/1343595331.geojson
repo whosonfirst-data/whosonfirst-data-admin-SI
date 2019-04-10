@@ -1,0 +1,73 @@
+{
+  "id": 1343595331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.12582,46.29379,15.12582,46.29379",
+    "geom:latitude":46.29379,
+    "geom:longitude":15.12582,
+    "gn:admin1_code":"N5",
+    "gn:asciiname":"Grce",
+    "gn:country_code":"SI",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987935,
+    "gn:latitude":46.29379,
+    "gn:longitude":15.12582,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Gr\u010de",
+    "gn:population":89,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gr\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959929,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987935
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ba7cf1c3b42c018edc747d3055d0b298",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959929,
+            "locality_id":1343595331,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1343595331,
+    "wof:lastmodified":1537700296,
+    "wof:name":"Grce",
+    "wof:parent_id":1108959929,
+    "wof:placetype":"locality",
+    "wof:population":89,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.12582,
+    46.29379,
+    15.12582,
+    46.29379
+],
+  "geometry": {"coordinates":[15.12582,46.29379],"type":"Point"}
+}

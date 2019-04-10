@@ -1,0 +1,74 @@
+{
+  "id": 1344092693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.75621,45.92984,14.75621,45.92984",
+    "geom:latitude":45.92984,
+    "geom:longitude":14.75621,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Zavrtace",
+    "gn:country_code":"SI",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988985,
+    "gn:latitude":45.92984,
+    "gn:longitude":14.75621,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Zavrta\u010de",
+    "gn:population":23,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zavrta\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959583,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988985,
+        "wk:page":"Zavrta%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"87032342984ab48e71c201910aea7d92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959583,
+            "locality_id":1344092693,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1344092693,
+    "wof:lastmodified":1537700317,
+    "wof:name":"Zavrtace",
+    "wof:parent_id":1108959583,
+    "wof:placetype":"locality",
+    "wof:population":23,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.75621,
+    45.92984000000001,
+    14.75621,
+    45.92984000000001
+],
+  "geometry": {"coordinates":[14.75621,45.92984000000001],"type":"Point"}
+}

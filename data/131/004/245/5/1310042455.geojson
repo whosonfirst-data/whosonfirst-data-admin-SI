@@ -1,0 +1,74 @@
+{
+  "id": 1310042455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.60282,46.07964,15.60282,46.07964",
+    "geom:latitude":46.07964,
+    "geom:longitude":15.60282,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Lastnic",
+    "gn:country_code":"SI",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987335,
+    "gn:latitude":46.07964,
+    "gn:longitude":15.60282,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Lastni\u010d",
+    "gn:population":171,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lastni\u010d"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959649,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987335,
+        "wk:page":"Lastni%C4%8D"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d89a9b1ca8ec29291abbd3225c17a1ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959649,
+            "locality_id":1310042455,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1310042455,
+    "wof:lastmodified":1537700284,
+    "wof:name":"Lastnic",
+    "wof:parent_id":1108959649,
+    "wof:placetype":"locality",
+    "wof:population":171,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.60282,
+    46.07964000000001,
+    15.60282,
+    46.07964000000001
+],
+  "geometry": {"coordinates":[15.60282,46.07964000000001],"type":"Point"}
+}

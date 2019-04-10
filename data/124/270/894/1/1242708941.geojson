@@ -1,0 +1,74 @@
+{
+  "id": 1242708941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.33993,46.33184,15.33993,46.33184",
+    "geom:latitude":46.33184,
+    "geom:longitude":15.33993,
+    "gn:admin1_code":"N3",
+    "gn:asciiname":"Podgorje pod Cerinom",
+    "gn:country_code":"SI",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987832,
+    "gn:latitude":46.33184,
+    "gn:longitude":15.33993,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Podgorje pod \u010cerinom",
+    "gn:population":99,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Podgorje Pod \u010cerinom"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959653,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987832,
+        "wk:page":"Podgorje_pod_%C4%8Cerinom"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f4b9a597af5b355606436cb73cdfec59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959653,
+            "locality_id":1242708941,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1242708941,
+    "wof:lastmodified":1537700294,
+    "wof:name":"Podgorje pod Cerinom",
+    "wof:parent_id":1108959653,
+    "wof:placetype":"locality",
+    "wof:population":99,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.33993,
+    46.33184,
+    15.33993,
+    46.33184
+],
+  "geometry": {"coordinates":[15.33993,46.33184],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293237281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3,45.85,15.3,45.85",
+    "geom:latitude":45.85,
+    "geom:longitude":15.3,
+    "gn:admin1_code":"B4",
+    "gn:asciiname":"Dolenji Maharovec",
+    "gn:country_code":"SI",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201822,
+    "gn:latitude":45.85,
+    "gn:longitude":15.3,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Dolenji Maharovec",
+    "gn:population":127,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959937,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201822,
+        "wk:page":"Dolenji_Maharovec"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4000563657e4fc70d7db59b4e581248c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959937,
+            "locality_id":1293237281,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1293237281,
+    "wof:lastmodified":1537573445,
+    "wof:name":"Dolenji Maharovec",
+    "wof:parent_id":1108959937,
+    "wof:placetype":"locality",
+    "wof:population":127,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3,
+    45.85,
+    15.3,
+    45.85
+],
+  "geometry": {"coordinates":[15.3,45.85],"type":"Point"}
+}

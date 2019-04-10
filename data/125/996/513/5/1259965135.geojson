@@ -1,0 +1,71 @@
+{
+  "id": 1259965135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.70306,46.00562,15.70306,46.00562",
+    "geom:latitude":46.00562,
+    "geom:longitude":15.70306,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Nova Vas ob Sotli",
+    "gn:country_code":"SI",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988279,
+    "gn:latitude":46.00562,
+    "gn:longitude":15.70306,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Nova Vas ob Sotli",
+    "gn:population":59,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988279,
+        "wk:page":"Nova_Vas_ob_Sotli"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"609bd5a94021eb62b52483ab988e436e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1259965135,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1259965135,
+    "wof:lastmodified":1537573507,
+    "wof:name":"Nova Vas ob Sotli",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:population":59,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.70306,
+    46.00562,
+    15.70306,
+    46.00562
+],
+  "geometry": {"coordinates":[15.70306,46.00562],"type":"Point"}
+}

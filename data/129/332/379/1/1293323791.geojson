@@ -1,0 +1,74 @@
+{
+  "id": 1293323791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.85765,46.11514,14.85765,46.11514",
+    "geom:latitude":46.11514,
+    "geom:longitude":14.85765,
+    "gn:admin1_code":"I5",
+    "gn:asciiname":"Potok pri Vacah",
+    "gn:country_code":"SI",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988363,
+    "gn:latitude":46.11514,
+    "gn:longitude":14.85765,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Potok pri Va\u010dah",
+    "gn:population":54,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Potok pri Va\u010dah"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959907,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988363,
+        "wk:page":"Potok_pri_Va%C4%8Dah"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"22b3157d2b5b66bf760582db49387de1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959907,
+            "locality_id":1293323791,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1293323791,
+    "wof:lastmodified":1537700305,
+    "wof:name":"Potok pri Vacah",
+    "wof:parent_id":1108959907,
+    "wof:placetype":"locality",
+    "wof:population":54,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.85765,
+    46.11514,
+    14.85765,
+    46.11514
+],
+  "geometry": {"coordinates":[14.85765,46.11514],"type":"Point"}
+}

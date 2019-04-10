@@ -1,0 +1,75 @@
+{
+  "id": 1327270627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.69108,46.22289,14.69108,46.22289",
+    "geom:latitude":46.22289,
+    "geom:longitude":14.69108,
+    "gn:admin1_code":"H6",
+    "gn:asciiname":"Loke v Tuhinju",
+    "gn:country_code":"SI",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196260,
+    "gn:latitude":46.22289,
+    "gn:longitude":14.69108,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Loke v Tuhinju",
+    "gn:population":217,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loke",
+        "Loke v Tuhinju"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959941,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196260,
+        "wk:page":"Loke_v_Tuhinju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3a87a060c59a931ac0d69c8c3ebd3e7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959941,
+            "locality_id":1327270627,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1327270627,
+    "wof:lastmodified":1537700223,
+    "wof:name":"Loke v Tuhinju",
+    "wof:parent_id":1108959941,
+    "wof:placetype":"locality",
+    "wof:population":217,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.69108,
+    46.22289,
+    14.69108,
+    46.22289
+],
+  "geometry": {"coordinates":[14.69108,46.22289],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209752151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.5582,46.6385,15.5582,46.6385",
+    "geom:latitude":46.6385,
+    "geom:longitude":15.5582,
+    "gn:admin1_code":"55",
+    "gn:asciiname":"Pesnica",
+    "gn:country_code":"SI",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989492,
+    "gn:latitude":46.6385,
+    "gn:longitude":15.5582,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Pesnica",
+    "gn:population":153,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959469,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989492,
+        "wk:page":"Pesnica%2C_Kungota"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"23fc20a2d5655f41ecb730a8b4f6b159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959469,
+            "locality_id":1209752151,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1209752151,
+    "wof:lastmodified":1537573543,
+    "wof:name":"Pesnica",
+    "wof:parent_id":1108959469,
+    "wof:placetype":"locality",
+    "wof:population":153,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.5582,
+    46.6385,
+    15.5582,
+    46.6385
+],
+  "geometry": {"coordinates":[15.5582,46.6385],"type":"Point"}
+}

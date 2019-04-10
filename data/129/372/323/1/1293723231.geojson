@@ -1,0 +1,75 @@
+{
+  "id": 1293723231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.94861,46.22611,14.94861,46.22611",
+    "geom:latitude":46.22611,
+    "geom:longitude":14.94861,
+    "gn:admin1_code":"N4",
+    "gn:asciiname":"Locica pri Vranskem",
+    "gn:country_code":"SI",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196296,
+    "gn:latitude":46.22611,
+    "gn:longitude":14.94861,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Lo\u010dica pri Vranskem",
+    "gn:population":169,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lo\u010dica",
+        "Lo\u010dica pri Vranskem"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959827,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196296,
+        "wk:page":"Lo%C4%8Dica_pri_Vranskem"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e1d08672facd93a2082bee15a23f1229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959827,
+            "locality_id":1293723231,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1293723231,
+    "wof:lastmodified":1537700224,
+    "wof:name":"Locica pri Vranskem",
+    "wof:parent_id":1108959827,
+    "wof:placetype":"locality",
+    "wof:population":169,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.94861,
+    46.22611,
+    14.94861,
+    46.22611
+],
+  "geometry": {"coordinates":[14.94861,46.22611],"type":"Point"}
+}

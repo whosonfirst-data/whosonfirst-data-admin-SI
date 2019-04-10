@@ -1,0 +1,71 @@
+{
+  "id": 1309740755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.16445,46.04328,15.16445,46.04328",
+    "geom:latitude":46.04328,
+    "geom:longitude":15.16445,
+    "gn:admin1_code":"99",
+    "gn:asciiname":"Rudna Vas",
+    "gn:country_code":"SI",
+    "gn:dem":581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989635,
+    "gn:latitude":46.04328,
+    "gn:longitude":15.16445,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Rudna Vas",
+    "gn:population":21,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959883,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989635,
+        "wk:page":"Rudna_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0c44ce566df53def0cadb57679a2fa2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959883,
+            "locality_id":1309740755,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1309740755,
+    "wof:lastmodified":1537573548,
+    "wof:name":"Rudna Vas",
+    "wof:parent_id":1108959883,
+    "wof:placetype":"locality",
+    "wof:population":21,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.16445,
+    46.04328,
+    15.16445,
+    46.04328
+],
+  "geometry": {"coordinates":[15.16445,46.04328],"type":"Point"}
+}

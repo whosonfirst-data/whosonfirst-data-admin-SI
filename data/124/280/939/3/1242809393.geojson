@@ -1,0 +1,71 @@
+{
+  "id": 1242809393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.70248,46.14327,14.70248,46.14327",
+    "geom:latitude":46.14327,
+    "geom:longitude":14.70248,
+    "gn:admin1_code":"77",
+    "gn:asciiname":"Imenje",
+    "gn:country_code":"SI",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987759,
+    "gn:latitude":46.14327,
+    "gn:longitude":14.70248,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Imenje",
+    "gn:population":106,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959515,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987759,
+        "wk:page":"Imenje%2C_Morav%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a9c939b9e538a7e66e329daa64fbba30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959515,
+            "locality_id":1242809393,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1242809393,
+    "wof:lastmodified":1537573490,
+    "wof:name":"Imenje",
+    "wof:parent_id":1108959515,
+    "wof:placetype":"locality",
+    "wof:population":106,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.70248,
+    46.14327,
+    14.70248,
+    46.14327
+],
+  "geometry": {"coordinates":[14.70248,46.14327],"type":"Point"}
+}

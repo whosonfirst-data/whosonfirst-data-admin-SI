@@ -1,0 +1,74 @@
+{
+  "id": 1293917515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.26762,46.37066,14.26762,46.37066",
+    "geom:latitude":46.37066,
+    "geom:longitude":14.26762,
+    "gn:admin1_code":"D5",
+    "gn:asciiname":"Visoce",
+    "gn:country_code":"SI",
+    "gn:dem":1100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987934,
+    "gn:latitude":46.37066,
+    "gn:longitude":14.26762,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Viso\u010de",
+    "gn:population":89,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Viso\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959917,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987934,
+        "wk:page":"Viso%C4%8De%2C_Tr%C5%BEi%C4%8D"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3c62146495dce3012a0008c7bc659d3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959917,
+            "locality_id":1293917515,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1293917515,
+    "wof:lastmodified":1537700296,
+    "wof:name":"Visoce",
+    "wof:parent_id":1108959917,
+    "wof:placetype":"locality",
+    "wof:population":89,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.26762,
+    46.37066,
+    14.26762,
+    46.37066
+],
+  "geometry": {"coordinates":[14.26762,46.37066],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293625437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.14139,46.68417,16.14139,46.68417",
+    "geom:latitude":46.68417,
+    "geom:longitude":16.14139,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Polana",
+    "gn:country_code":"SI",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192844,
+    "gn:latitude":46.68417,
+    "gn:longitude":16.14139,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Polana",
+    "gn:population":209,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vaspolony",
+        "Polana"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959483,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192844,
+        "wk:page":"Polana%2C_Murska_Sobota"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d2fd0dd817d2bf14cd5a2429118b978b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959483,
+            "locality_id":1293625437,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1293625437,
+    "wof:lastmodified":1537700207,
+    "wof:name":"Polana",
+    "wof:parent_id":1108959483,
+    "wof:placetype":"locality",
+    "wof:population":209,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.14139,
+    46.68417,
+    16.14139,
+    46.68417
+],
+  "geometry": {"coordinates":[16.14139,46.68417],"type":"Point"}
+}

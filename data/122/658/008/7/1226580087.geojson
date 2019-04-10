@@ -1,0 +1,92 @@
+{
+  "id": 1226580087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.91005,45.50842,14.91005,45.50842",
+    "geom:latitude":45.50842,
+    "geom:longitude":14.91005,
+    "gn:admin1_code":"H9",
+    "gn:asciiname":"Kostel",
+    "gn:country_code":"SI",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":8358613,
+    "gn:latitude":45.50842,
+    "gn:longitude":14.91005,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Kostel",
+    "gn:population":12,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Municipality of Kostel"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Kostel"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Kostel"
+    ],
+    "name:sco_x_preferred":[
+        "Municipality o Kostel"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041a\u043e\u0441\u0442\u0435\u043b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0435\u043b"
+    ],
+    "name:und_x_variant":[
+        "Ob\u010dina Kostel"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959711,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8358613,
+        "wk:page":"Municipality_of_Kostel"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b62c20f0d3f510ccaf235b9daffb6087",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959711,
+            "locality_id":1226580087,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1226580087,
+    "wof:lastmodified":1537700275,
+    "wof:name":"Kostel",
+    "wof:parent_id":1108959711,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.91005,
+    45.50842,
+    14.91005,
+    45.50842
+],
+  "geometry": {"coordinates":[14.91005,45.50842],"type":"Point"}
+}

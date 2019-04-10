@@ -1,0 +1,71 @@
+{
+  "id": 1293524079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.20159,46.13386,15.20159,46.13386",
+    "geom:latitude":46.13386,
+    "geom:longitude":15.20159,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Strensko",
+    "gn:country_code":"SI",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988362,
+    "gn:latitude":46.13386,
+    "gn:longitude":15.20159,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Strensko",
+    "gn:population":54,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959879,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988362,
+        "wk:page":"Strensko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"66bfeb5a6df65c77dee562415c7243da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959879,
+            "locality_id":1293524079,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1293524079,
+    "wof:lastmodified":1537573509,
+    "wof:name":"Strensko",
+    "wof:parent_id":1108959879,
+    "wof:placetype":"locality",
+    "wof:population":54,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.20159,
+    46.13386,
+    15.20159,
+    46.13386
+],
+  "geometry": {"coordinates":[15.20159,46.13386],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343795849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.17431,45.94327,15.17431,45.94327",
+    "geom:latitude":45.94327,
+    "geom:longitude":15.17431,
+    "gn:admin1_code":"O7",
+    "gn:asciiname":"Sv. Vrh",
+    "gn:country_code":"SI",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987768,
+    "gn:latitude":45.94327,
+    "gn:longitude":15.17431,
+    "gn:modification_date":"2015-12-03",
+    "gn:name":"Sv. Vrh",
+    "gn:population":106,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_preferred":[
+        "Sveti Vrh"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959913,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987768,
+        "wk:page":"Sveti_Vrh"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6faa0ca5ce988086dbb9afed8a0f828a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959913,
+            "locality_id":1343795849,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1343795849,
+    "wof:lastmodified":1537700293,
+    "wof:name":"Sv. Vrh",
+    "wof:parent_id":1108959913,
+    "wof:placetype":"locality",
+    "wof:population":106,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.17431,
+    45.94327,
+    15.17431,
+    45.94327
+],
+  "geometry": {"coordinates":[15.17431,45.94327],"type":"Point"}
+}

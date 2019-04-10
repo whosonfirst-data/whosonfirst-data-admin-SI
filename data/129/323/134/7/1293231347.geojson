@@ -1,0 +1,76 @@
+{
+  "id": 1293231347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.50222,45.83111,14.50222,45.83111",
+    "geom:latitude":45.83111,
+    "geom:longitude":14.50222,
+    "gn:admin1_code":"F6",
+    "gn:asciiname":"Zavrh",
+    "gn:country_code":"SI",
+    "gn:dem":778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186704,
+    "gn:latitude":45.83111,
+    "gn:longitude":14.50222,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Zavrh",
+    "gn:population":12,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zavrn",
+        "Zaver",
+        "Zavrh"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959893,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186704,
+        "wk:page":"Zavrh%2C_Bloke"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1ce7fec2fcbbc3a75ef309d4c9ee7335",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959893,
+            "locality_id":1293231347,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1293231347,
+    "wof:lastmodified":1537700170,
+    "wof:name":"Zavrh",
+    "wof:parent_id":1108959893,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.50222,
+    45.83111,
+    14.50222,
+    45.83111
+],
+  "geometry": {"coordinates":[14.50222,45.83111],"type":"Point"}
+}

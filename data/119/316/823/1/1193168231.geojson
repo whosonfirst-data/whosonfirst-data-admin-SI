@@ -1,0 +1,78 @@
+{
+  "id": 1193168231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.39889,46.58694,15.39889,46.58694",
+    "geom:latitude":46.58694,
+    "geom:longitude":15.39889,
+    "gn:admin1_code":"K2",
+    "gn:asciiname":"Ozbalt",
+    "gn:country_code":"SI",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193751,
+    "gn:latitude":46.58694,
+    "gn:longitude":15.39889,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"O\u017ebalt",
+    "gn:population":264,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sveti O\u017ebalt",
+        "O\u017ebald",
+        "\u0160ent Ozbolt",
+        "Sveti O\u017ebolt",
+        "O\u017ebalt"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959555,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193751,
+        "wk:page":"O%C5%BEbalt"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d9a117f94656c420a6ffed933eab0bb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959555,
+            "locality_id":1193168231,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1193168231,
+    "wof:lastmodified":1537700212,
+    "wof:name":"Ozbalt",
+    "wof:parent_id":1108959555,
+    "wof:placetype":"locality",
+    "wof:population":264,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.39889,
+    46.58694000000001,
+    15.39889,
+    46.58694000000001
+],
+  "geometry": {"coordinates":[15.39889,46.58694000000001],"type":"Point"}
+}

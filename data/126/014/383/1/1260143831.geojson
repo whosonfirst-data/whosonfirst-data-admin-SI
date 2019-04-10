@@ -1,0 +1,71 @@
+{
+  "id": 1260143831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.27431,45.5398,15.27431,45.5398",
+    "geom:latitude":45.5398,
+    "geom:longitude":15.27431,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Bedenj",
+    "gn:country_code":"SI",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204380,
+    "gn:latitude":45.5398,
+    "gn:longitude":15.27431,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Bedenj",
+    "gn:population":62,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959699,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204380,
+        "wk:page":"Bedenj"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c898cde03b2dbae0b9622e0c2cba6baf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959699,
+            "locality_id":1260143831,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1260143831,
+    "wof:lastmodified":1537573453,
+    "wof:name":"Bedenj",
+    "wof:parent_id":1108959699,
+    "wof:placetype":"locality",
+    "wof:population":62,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.27431,
+    45.5398,
+    15.27431,
+    45.5398
+],
+  "geometry": {"coordinates":[15.27431,45.5398],"type":"Point"}
+}

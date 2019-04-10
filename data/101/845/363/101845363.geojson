@@ -1,0 +1,120 @@
+{
+  "id": 101845363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000029,
+    "geom:area_square_m":249385.56029,
+    "geom:bbox":"14.8015444086,46.2910651013,14.8110070756,46.2982530744",
+    "geom:latitude":46.295208,
+    "geom:longitude":14.805819,
+    "gn:population":1048,
+    "iso:country":"SI",
+    "lbl:latitude":46.295985,
+    "lbl:longitude":14.805748,
+    "mps:latitude":46.295985,
+    "mps:longitude":14.805748,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Gornji Grad"
+    ],
+    "name:deu_x_preferred":[
+        "Oberburg in Steiermark"
+    ],
+    "name:dut_x_preferred":[
+        "Gornji Grad"
+    ],
+    "name:eng_x_preferred":[
+        "Gornji Grad"
+    ],
+    "name:hbs_x_preferred":[
+        "Gornji Grad"
+    ],
+    "name:hrv_x_preferred":[
+        "Gornji Grad"
+    ],
+    "name:nld_x_preferred":[
+        "Gornji Grad"
+    ],
+    "name:ron_x_preferred":[
+        "Gornji Grad"
+    ],
+    "name:rum_x_preferred":[
+        "Gornji Grad"
+    ],
+    "name:slv_x_preferred":[
+        "Gornji Grad"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0438 \u0413\u0440\u0430\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0456\u0439 \u0413\u0440\u0430\u0434"
+    ],
+    "name:vie_x_preferred":[
+        "Gornji Grad"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"Gornji Grad",
+    "qs:la_lc":"*SI030000",
+    "qs:level":"locality",
+    "qs:loc":"Gornji Grad",
+    "qs:loc_alt":"Gornji Grad",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":629,
+    "wof:belongsto":[
+        102191581,
+        1108959547,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200016,
+        "gp:id":530133,
+        "qs:id":3,
+        "wd:id":"Q2262884",
+        "wk:page":"Gornji Grad, Gornji Grad"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"770ceb01c7b5bba2a56b18864813daf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959547,
+            "locality_id":101845363,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":101845363,
+    "wof:lastmodified":1531170666,
+    "wof:name":"Gornji Grad",
+    "wof:parent_id":1108959547,
+    "wof:placetype":"locality",
+    "wof:population":1048,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.80154440857297,
+    46.29106510134847,
+    14.81100707561563,
+    46.2982530743775
+],
+  "geometry": {"coordinates":[[[14.80979338488174,46.2980784257756],[14.80971276179343,46.29717993451078],[14.81100707561563,46.29712168813876],[14.81092643448164,46.29622319743402],[14.80963214219781,46.29628144267906],[14.80955152609454,46.29538295028021],[14.80696297697955,46.29549939157079],[14.80680184139396,46.29370240056608],[14.80550760609992,46.29376059548656],[14.80526599349639,46.29106510134847],[14.80397182026701,46.29112327724368],[14.80405233277958,46.29202177698227],[14.80275813547917,46.29207993835598],[14.80283862994463,46.29297843865288],[14.80154440857297,46.29303658550413],[14.80170536489237,46.29483358664777],[14.80299962933623,46.29477543754621],[14.80308013426287,46.29567393614263],[14.80437441770687,46.29561577026732],[14.80453548109949,46.29741276350865],[14.80582980508245,46.29735457973294],[14.80591036355202,46.2982530743775],[14.80979338488174,46.2980784257756]]],"type":"Polygon"}
+}

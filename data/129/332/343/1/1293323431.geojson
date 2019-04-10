@@ -1,0 +1,71 @@
+{
+  "id": 1293323431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.45546,45.80132,14.45546,45.80132",
+    "geom:latitude":45.80132,
+    "geom:longitude":14.45546,
+    "gn:admin1_code":"F6",
+    "gn:asciiname":"Sleme",
+    "gn:country_code":"SI",
+    "gn:dem":789,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989270,
+    "gn:latitude":45.80132,
+    "gn:longitude":14.45546,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Sleme",
+    "gn:population":11,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959893,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989270,
+        "wk:page":"Sleme%2C_Bloke"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"083d4e8d57ad01408993474fda267d10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959893,
+            "locality_id":1293323431,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1293323431,
+    "wof:lastmodified":1537573537,
+    "wof:name":"Sleme",
+    "wof:parent_id":1108959893,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.45546,
+    45.80132,
+    14.45546,
+    45.80132
+],
+  "geometry": {"coordinates":[14.45546,45.80132],"type":"Point"}
+}

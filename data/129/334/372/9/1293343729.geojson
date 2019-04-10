@@ -1,0 +1,75 @@
+{
+  "id": 1293343729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.0,45.6,14.0,45.6",
+    "geom:latitude":45.6,
+    "geom:longitude":14.0,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Brezovica",
+    "gn:country_code":"SI",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203346,
+    "gn:latitude":45.6,
+    "gn:longitude":14.0,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Brezovica",
+    "gn:population":89,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bresovizza Marenzi",
+        "Brezovica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959549,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203346,
+        "wk:page":"Brezovica%2C_Hrpelje%E2%80%93Kozina"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"44fbf68926b5d2ddefce4b5a6339c0a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959549,
+            "locality_id":1293343729,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1293343729,
+    "wof:lastmodified":1537700261,
+    "wof:name":"Brezovica",
+    "wof:parent_id":1108959549,
+    "wof:placetype":"locality",
+    "wof:population":89,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.0,
+    45.6,
+    14.0,
+    45.6
+],
+  "geometry": {"coordinates":[14.0,45.6],"type":"Point"}
+}

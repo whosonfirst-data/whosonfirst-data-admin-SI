@@ -1,0 +1,75 @@
+{
+  "id": 1293326239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.11889,46.62955,16.11889,46.62955",
+    "geom:latitude":46.62955,
+    "geom:longitude":16.11889,
+    "gn:admin1_code":"M6",
+    "gn:asciiname":"Satahovci",
+    "gn:country_code":"SI",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191251,
+    "gn:latitude":46.62955,
+    "gn:longitude":16.11889,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Satahovci",
+    "gn:population":299,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muraszentes",
+        "Satahovci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959483,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191251,
+        "wk:page":"Satahovci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"051362ed6ec4abff2e337c38c62d1857",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959483,
+            "locality_id":1293326239,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1293326239,
+    "wof:lastmodified":1537700197,
+    "wof:name":"Satahovci",
+    "wof:parent_id":1108959483,
+    "wof:placetype":"locality",
+    "wof:population":299,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.11889,
+    46.62955,
+    16.11889,
+    46.62955
+],
+  "geometry": {"coordinates":[16.11889,46.62955],"type":"Point"}
+}

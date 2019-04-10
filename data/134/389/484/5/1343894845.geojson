@@ -1,0 +1,75 @@
+{
+  "id": 1343894845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.24694,46.6825,16.24694,46.6825",
+    "geom:latitude":46.6825,
+    "geom:longitude":16.24694,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Tesanovci",
+    "gn:country_code":"SI",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189145,
+    "gn:latitude":46.6825,
+    "gn:longitude":16.24694,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Te\u0161anovci",
+    "gn:population":371,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mez\u0151v\u00e1r",
+        "Te\u0161anovci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959925,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189145,
+        "wk:page":"Te%C5%A1anovci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d51ac9ae908277bd4cbfb963859b86fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959925,
+            "locality_id":1343894845,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1343894845,
+    "wof:lastmodified":1537700182,
+    "wof:name":"Tesanovci",
+    "wof:parent_id":1108959925,
+    "wof:placetype":"locality",
+    "wof:population":371,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.24694,
+    46.6825,
+    16.24694,
+    46.6825
+],
+  "geometry": {"coordinates":[16.24694,46.6825],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1242904997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.05563,46.38283,14.05563,46.38283",
+    "geom:latitude":46.38283,
+    "geom:longitude":14.05563,
+    "gn:admin1_code":"O2",
+    "gn:asciiname":"Grabce",
+    "gn:country_code":"SI",
+    "gn:dem":724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987901,
+    "gn:latitude":46.38283,
+    "gn:longitude":14.05563,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Grab\u010de",
+    "gn:population":93,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grab\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959735,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987901,
+        "wk:page":"Grab%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7613419c70168c6a66b0ffa5ce3b6a82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959735,
+            "locality_id":1242904997,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1242904997,
+    "wof:lastmodified":1537700295,
+    "wof:name":"Grabce",
+    "wof:parent_id":1108959735,
+    "wof:placetype":"locality",
+    "wof:population":93,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.05563,
+    46.38283,
+    14.05563,
+    46.38283
+],
+  "geometry": {"coordinates":[14.05563,46.38283],"type":"Point"}
+}

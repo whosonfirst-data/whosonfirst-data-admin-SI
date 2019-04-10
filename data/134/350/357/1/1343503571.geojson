@@ -1,0 +1,83 @@
+{
+  "id": 1343503571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.73694,45.88972,13.73694,45.88972",
+    "geom:latitude":45.88972,
+    "geom:longitude":13.73694,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Dornberk",
+    "gn:country_code":"SI",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201354,
+    "gn:latitude":45.88972,
+    "gn:longitude":13.73694,
+    "gn:modification_date":"2015-10-15",
+    "gn:name":"Dornberk",
+    "gn:population":798,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_historical":[
+        "Dornberg"
+    ],
+    "name:deu_x_preferred":[
+        "Dornberg"
+    ],
+    "name:und_x_variant":[
+        "Zali Haib",
+        "Montespino",
+        "Dorinbergo",
+        "Dornberk"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959487,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201354,
+        "wk:page":"Dornberk"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b1db1517d18fce9212df19aeccae4e0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959487,
+            "locality_id":1343503571,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1343503571,
+    "wof:lastmodified":1537700250,
+    "wof:name":"Dornberk",
+    "wof:parent_id":1108959487,
+    "wof:placetype":"locality",
+    "wof:population":798,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.73694,
+    45.88972,
+    13.73694,
+    45.88972
+],
+  "geometry": {"coordinates":[13.73694,45.88972],"type":"Point"}
+}

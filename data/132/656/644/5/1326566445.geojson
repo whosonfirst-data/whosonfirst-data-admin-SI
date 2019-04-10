@@ -1,0 +1,77 @@
+{
+  "id": 1326566445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3079,45.99317,15.3079,45.99317",
+    "geom:latitude":45.99317,
+    "geom:longitude":15.3079,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Lukovec",
+    "gn:country_code":"SI",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196050,
+    "gn:latitude":45.99317,
+    "gn:longitude":15.3079,
+    "gn:modification_date":"2015-11-30",
+    "gn:name":"Lukovec",
+    "gn:population":186,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Lukovica"
+    ],
+    "name:slv_x_preferred":[
+        "Lukovica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196050,
+        "wk:page":"Lukovec%2C_Sevnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f1cd86ba0c79db9e669280f0b4724a55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1326566445,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1326566445,
+    "wof:lastmodified":1537700222,
+    "wof:name":"Lukovec",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":186,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3079,
+    45.99317,
+    15.3079,
+    45.99317
+],
+  "geometry": {"coordinates":[15.3079,45.99317],"type":"Point"}
+}

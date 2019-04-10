@@ -1,0 +1,69 @@
+{
+  "id": 1209649151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.91667,46.46667,15.91667,46.46667",
+    "geom:latitude":46.46667,
+    "geom:longitude":15.91667,
+    "gn:admin1_code":"K7",
+    "gn:asciiname":"Spodnji Velovlek",
+    "gn:country_code":"SI",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190184,
+    "gn:latitude":46.46667,
+    "gn:longitude":15.91667,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Spodnji Velovlek",
+    "gn:population":212,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Spodnji Velovlak",
+        "Spodnji Velovlek"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190184,
+        "wk:page":"Spodnji_Velovlek"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"14e4ed3ff08a55faccef8b2f9761d4ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209649151
+        }
+    ],
+    "wof:id":1209649151,
+    "wof:lastmodified":1537700188,
+    "wof:name":"Spodnji Velovlek",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":212,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.91667,
+    46.46667,
+    15.91667,
+    46.46667
+],
+  "geometry": {"coordinates":[15.91667,46.46667],"type":"Point"}
+}

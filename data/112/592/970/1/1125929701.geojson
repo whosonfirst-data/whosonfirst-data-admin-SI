@@ -1,0 +1,120 @@
+{
+  "id": 1125929701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.59694,46.40194,13.59694,46.40194",
+    "geom:latitude":46.40194,
+    "geom:longitude":13.59694,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":137,
+    "iso:country":"SI",
+    "lbl:latitude":46.40194,
+    "lbl:longitude":13.59694,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Log pod Mangartom"
+    ],
+    "name:eng_x_preferred":[
+        "Log pod Mangartom"
+    ],
+    "name:hun_x_preferred":[
+        "Log pod Mangartom"
+    ],
+    "name:ita_x_preferred":[
+        "Bretto"
+    ],
+    "name:rum_x_preferred":[
+        "Log pod Mangartom"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0433-\u043f\u043e\u0434-\u041c\u0430\u043d\u0433\u0430\u0440\u0442\u043e\u043c"
+    ],
+    "name:slv_x_preferred":[
+        "Log pod Mangartom"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0433 \u043f\u043e\u0434 \u041c\u0430\u043d\u0433\u0430\u0440\u0442\u043e\u043c"
+    ],
+    "name:unk_x_variant":[
+        "Bretto di Sotto"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3196282,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Log Pod Mangartom",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Tolmin",
+    "qs_pg:photos":383,
+    "qs_pg:photos_1k":78,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":383,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":489930,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":530647,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Tolmin",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959541,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196282,
+        "gp:id":530647,
+        "qs_pg:id":489930,
+        "wd:id":"Q2472054"
+    },
+    "wof:country":"SI",
+    "wof:created":1497296762,
+    "wof:geomhash":"f7cc9caa3eef67ece4e25e01bbe44d99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959541,
+            "locality_id":1125929701,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1125929701,
+    "wof:lastmodified":1531170228,
+    "wof:name":"Log Pod Mangartom",
+    "wof:parent_id":1108959541,
+    "wof:placetype":"locality",
+    "wof:population":137,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.59694,
+    46.40194,
+    13.59694,
+    46.40194
+],
+  "geometry": {"coordinates":[13.59694,46.40194],"type":"Point"}
+}

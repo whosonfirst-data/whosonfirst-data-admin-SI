@@ -1,0 +1,71 @@
+{
+  "id": 1293424469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.21173,46.35287,14.21173,46.35287",
+    "geom:latitude":46.35287,
+    "geom:longitude":14.21173,
+    "gn:admin1_code":"A3",
+    "gn:asciiname":"Zgornji Otok",
+    "gn:country_code":"SI",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186486,
+    "gn:latitude":46.35287,
+    "gn:longitude":14.21173,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Zgornji Otok",
+    "gn:population":64,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959825,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186486,
+        "wk:page":"Zgornji_Otok"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"49fd79a356dd937b09cbf16a849ae216",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959825,
+            "locality_id":1293424469,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1293424469,
+    "wof:lastmodified":1537573381,
+    "wof:name":"Zgornji Otok",
+    "wof:parent_id":1108959825,
+    "wof:placetype":"locality",
+    "wof:population":64,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.21173,
+    46.35287,
+    14.21173,
+    46.35287
+],
+  "geometry": {"coordinates":[14.21173,46.35287],"type":"Point"}
+}

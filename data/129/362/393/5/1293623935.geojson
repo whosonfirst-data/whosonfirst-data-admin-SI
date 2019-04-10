@@ -1,0 +1,73 @@
+{
+  "id": 1293623935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.2,46.13333,15.2,46.13333",
+    "geom:latitude":46.13333,
+    "geom:longitude":15.2,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Smarjeta pri Celju",
+    "gn:country_code":"SI",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190505,
+    "gn:latitude":46.13333,
+    "gn:longitude":15.2,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0160marjeta pri Celju",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sankt Margarethen",
+        "\u0160marjeta",
+        "Sveta Marjeta",
+        "\u0160marjeta pri Celju"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959879,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190505
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"325ed8a5e271391cda870f378f11553a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959879,
+            "locality_id":1293623935,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1293623935,
+    "wof:lastmodified":1537700191,
+    "wof:name":"Smarjeta pri Celju",
+    "wof:parent_id":1108959879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.2,
+    46.13333,
+    15.2,
+    46.13333
+],
+  "geometry": {"coordinates":[15.2,46.13333],"type":"Point"}
+}

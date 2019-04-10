@@ -1,0 +1,71 @@
+{
+  "id": 1276479463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.62452,45.86896,14.62452,45.86896",
+    "geom:latitude":45.86896,
+    "geom:longitude":14.62452,
+    "gn:admin1_code":"D8",
+    "gn:asciiname":"Laporje",
+    "gn:country_code":"SI",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988627,
+    "gn:latitude":45.86896,
+    "gn:longitude":14.62452,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Laporje",
+    "gn:population":40,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959859,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988627,
+        "wk:page":"Laporje%2C_Velike_La%C5%A1%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"796f7306ad062ed00c72d3320f6da24c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959859,
+            "locality_id":1276479463,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1276479463,
+    "wof:lastmodified":1537573518,
+    "wof:name":"Laporje",
+    "wof:parent_id":1108959859,
+    "wof:placetype":"locality",
+    "wof:population":40,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.62452,
+    45.86896,
+    14.62452,
+    45.86896
+],
+  "geometry": {"coordinates":[14.62452,45.86896],"type":"Point"}
+}

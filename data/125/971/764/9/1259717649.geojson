@@ -1,0 +1,67 @@
+{
+  "id": 1259717649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.31361,46.11111,14.31361,46.11111",
+    "geom:latitude":46.11111,
+    "geom:longitude":14.31361,
+    "gn:admin1_code":"B9",
+    "gn:asciiname":"Vodnik",
+    "gn:country_code":"SI",
+    "gn:dem":593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3214825,
+    "gn:latitude":46.11111,
+    "gn:longitude":14.31361,
+    "gn:modification_date":"2008-11-25",
+    "gn:name":"Vodnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959821,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3214825
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5a1b7ef7ecab29ae6dad1ad7137a30e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959821,
+            "locality_id":1259717649,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1259717649,
+    "wof:lastmodified":1537017151,
+    "wof:name":"Vodnik",
+    "wof:parent_id":1108959821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.31361,
+    46.11111,
+    14.31361,
+    46.11111
+],
+  "geometry": {"coordinates":[14.31361,46.11111],"type":"Point"}
+}

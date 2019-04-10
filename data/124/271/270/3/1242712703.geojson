@@ -1,0 +1,71 @@
+{
+  "id": 1242712703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.04196,45.77339,15.04196,45.77339",
+    "geom:latitude":45.77339,
+    "geom:longitude":15.04196,
+    "gn:admin1_code":"G6",
+    "gn:asciiname":"Gorenje Polje",
+    "gn:country_code":"SI",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987978,
+    "gn:latitude":45.77339,
+    "gn:longitude":15.04196,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Gorenje Polje",
+    "gn:population":85,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959675,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987978,
+        "wk:page":"Gorenje_Polje%2C_Dolenjske_Toplice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"be3a93d34a16a2888b7096658d0061d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959675,
+            "locality_id":1242712703,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1242712703,
+    "wof:lastmodified":1537573497,
+    "wof:name":"Gorenje Polje",
+    "wof:parent_id":1108959675,
+    "wof:placetype":"locality",
+    "wof:population":85,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.04196,
+    45.77339,
+    15.04196,
+    45.77339
+],
+  "geometry": {"coordinates":[15.04196,45.77339],"type":"Point"}
+}

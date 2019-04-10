@@ -1,0 +1,74 @@
+{
+  "id": 1343821461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.20392,45.46083,15.20392,45.46083",
+    "geom:latitude":45.46083,
+    "geom:longitude":15.20392,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Dreznik",
+    "gn:country_code":"SI",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988612,
+    "gn:latitude":45.46083,
+    "gn:longitude":15.20392,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Dre\u017enik",
+    "gn:population":40,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dre\u017enik"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959699,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988612,
+        "wk:page":"Dre%C5%BEnik%2C_%C4%8Crnomelj"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"bdbf63c21de57a012d11d9280a246b6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959699,
+            "locality_id":1343821461,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1343821461,
+    "wof:lastmodified":1537700310,
+    "wof:name":"Dreznik",
+    "wof:parent_id":1108959699,
+    "wof:placetype":"locality",
+    "wof:population":40,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.20392,
+    45.46083,
+    15.20392,
+    45.46083
+],
+  "geometry": {"coordinates":[15.20392,45.46083],"type":"Point"}
+}

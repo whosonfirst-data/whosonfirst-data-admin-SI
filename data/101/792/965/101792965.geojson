@@ -1,0 +1,117 @@
+{
+  "id": 101792965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000042,
+    "geom:area_square_m":359138.636646,
+    "geom:bbox":"14.3789786523,46.0159875266,14.3880675898,46.0233387349",
+    "geom:latitude":46.019665,
+    "geom:longitude":14.383597,
+    "gn:population":1446,
+    "iso:country":"SI",
+    "lbl:latitude":46.019643,
+    "lbl:longitude":14.384138,
+    "mps:latitude":46.019643,
+    "mps:longitude":14.384138,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Dragomer"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u043e\u043c\u0435\u0440"
+    ],
+    "name:dut_x_preferred":[
+        "Dragomer"
+    ],
+    "name:eng_x_preferred":[
+        "Dragomer"
+    ],
+    "name:hbs_x_preferred":[
+        "Dragomer"
+    ],
+    "name:nld_x_preferred":[
+        "Dragomer"
+    ],
+    "name:ron_x_preferred":[
+        "Dragomer"
+    ],
+    "name:rum_x_preferred":[
+        "Dragomer"
+    ],
+    "name:slv_x_preferred":[
+        "Dragomer"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u043e\u043c\u0435\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u043e\u043c\u0435\u0440"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"Dragomer",
+    "qs:la_lc":"*SI208000",
+    "qs:level":"locality",
+    "qs:loc":"Dragomer",
+    "qs:loc_alt":"Dragomer",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":102,
+    "wof:belongsto":[
+        102191581,
+        1108959877,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201294,
+        "gp:id":529940,
+        "qs:id":216504,
+        "qs_pg:id":216504,
+        "wd:id":"Q630081",
+        "wk:page":"Dragomer"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8e7cf0bd49c6561c5fca0946e7468dfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959877,
+            "locality_id":101792965,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":101792965,
+    "wof:lastmodified":1531508742,
+    "wof:name":"Dragomer",
+    "wof:parent_id":1108959877,
+    "wof:placetype":"locality",
+    "wof:population":1446,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.37897865232168,
+    46.01598752658259,
+    14.38806758984111,
+    46.02333873488993
+],
+  "geometry": {"coordinates":[[[14.38707134302484,46.02222751876013],[14.38677957785922,46.018631487981],[14.38806758984111,46.01857840169794],[14.38799463512328,46.01767939360025],[14.38670664442679,46.01773247886393],[14.38663371413725,46.01683346917787],[14.38534574244227,46.01688653785709],[14.3852728365801,46.01598752658259],[14.38398488388663,46.01604057867826],[14.3840577684648,46.01693959097133],[14.38019383284393,46.01709865692499],[14.38026665670787,46.01799767170422],[14.37897865232168,46.01805066357679],[14.37919707888312,46.02074770755519],[14.38177321310002,46.02064170213742],[14.38199179564657,46.02333873488993],[14.38585617146839,46.02317960084758],[14.38578324360748,46.02228059355537],[14.38707134302484,46.02222751876013]]],"type":"Polygon"}
+}

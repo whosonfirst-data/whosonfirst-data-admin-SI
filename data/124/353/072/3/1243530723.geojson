@@ -1,0 +1,74 @@
+{
+  "id": 1243530723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3588,45.49291,15.3588,45.49291",
+    "geom:latitude":45.49291,
+    "geom:longitude":15.3588,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Milici",
+    "gn:country_code":"SI",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989701,
+    "gn:latitude":45.49291,
+    "gn:longitude":15.3588,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Mili\u010di",
+    "gn:population":19,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mili\u010di"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959699,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989701,
+        "wk:page":"Mili%C4%8Di"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0e4fb9c354725dcb94b233573d335d8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959699,
+            "locality_id":1243530723,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1243530723,
+    "wof:lastmodified":1537700331,
+    "wof:name":"Milici",
+    "wof:parent_id":1108959699,
+    "wof:placetype":"locality",
+    "wof:population":19,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3588,
+    45.49291,
+    15.3588,
+    45.49291
+],
+  "geometry": {"coordinates":[15.3588,45.49291],"type":"Point"}
+}

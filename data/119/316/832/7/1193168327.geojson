@@ -1,0 +1,71 @@
+{
+  "id": 1193168327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.30441,46.17182,15.30441,46.17182",
+    "geom:latitude":46.17182,
+    "geom:longitude":15.30441,
+    "gn:admin1_code":"C9",
+    "gn:asciiname":"Kanjuce",
+    "gn:country_code":"SI",
+    "gn:dem":687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987783,
+    "gn:latitude":46.17182,
+    "gn:longitude":15.30441,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kanjuce",
+    "gn:population":104,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959631,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987783,
+        "wk:page":"Kanjuce"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"39b3e7d0f043fc46f0679128ea299e56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959631,
+            "locality_id":1193168327,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1193168327,
+    "wof:lastmodified":1537573491,
+    "wof:name":"Kanjuce",
+    "wof:parent_id":1108959631,
+    "wof:placetype":"locality",
+    "wof:population":104,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.30441,
+    46.17182,
+    15.30441,
+    46.17182
+],
+  "geometry": {"coordinates":[15.30441,46.17182],"type":"Point"}
+}

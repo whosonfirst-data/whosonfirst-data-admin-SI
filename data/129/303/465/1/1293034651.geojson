@@ -1,0 +1,71 @@
+{
+  "id": 1293034651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.96327,45.94115,14.96327,45.94115",
+    "geom:latitude":45.94115,
+    "geom:longitude":14.96327,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Mala Loka",
+    "gn:country_code":"SI",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988534,
+    "gn:latitude":45.94115,
+    "gn:longitude":14.96327,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Mala Loka",
+    "gn:population":45,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959839,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988534,
+        "wk:page":"Mala_Loka%2C_Trebnje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1f0b89c0043062d46545f3c2bbcf58fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959839,
+            "locality_id":1293034651,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1293034651,
+    "wof:lastmodified":1537573515,
+    "wof:name":"Mala Loka",
+    "wof:parent_id":1108959839,
+    "wof:placetype":"locality",
+    "wof:population":45,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.96327,
+    45.94115,
+    14.96327,
+    45.94115
+],
+  "geometry": {"coordinates":[14.96327,45.94115],"type":"Point"}
+}

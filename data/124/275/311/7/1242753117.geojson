@@ -1,0 +1,74 @@
+{
+  "id": 1242753117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.04698,45.62267,14.04698,45.62267",
+    "geom:latitude":45.62267,
+    "geom:longitude":14.04698,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Mislice",
+    "gn:country_code":"SI",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988594,
+    "gn:latitude":45.62267,
+    "gn:longitude":14.04698,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Misli\u010de",
+    "gn:population":41,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Misli\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959845,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988594,
+        "wk:page":"Misli%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d993bfc4f5e4b8dfe0cc9fe47d625646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959845,
+            "locality_id":1242753117,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1242753117,
+    "wof:lastmodified":1537700309,
+    "wof:name":"Mislice",
+    "wof:parent_id":1108959845,
+    "wof:placetype":"locality",
+    "wof:population":41,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.04698,
+    45.62267,
+    14.04698,
+    45.62267
+],
+  "geometry": {"coordinates":[14.04698,45.62267],"type":"Point"}
+}

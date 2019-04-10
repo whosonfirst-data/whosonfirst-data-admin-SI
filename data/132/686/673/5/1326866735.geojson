@@ -1,0 +1,74 @@
+{
+  "id": 1326866735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.61466,45.49584,13.61466,45.49584",
+    "geom:latitude":45.49584,
+    "geom:longitude":13.61466,
+    "gn:admin1_code":"J9",
+    "gn:asciiname":"Seca",
+    "gn:country_code":"SI",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986862,
+    "gn:latitude":45.49584,
+    "gn:longitude":13.61466,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Se\u010da",
+    "gn:population":1210,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Se\u010da"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959613,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986862,
+        "wk:page":"Se%C4%8Da"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2ebd9bb95829c87b893615bf452d6deb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959613,
+            "locality_id":1326866735,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1326866735,
+    "wof:lastmodified":1537700275,
+    "wof:name":"Seca",
+    "wof:parent_id":1108959613,
+    "wof:placetype":"locality",
+    "wof:population":1210,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.61466,
+    45.49584,
+    13.61466,
+    45.49584
+],
+  "geometry": {"coordinates":[13.61466,45.49584],"type":"Point"}
+}

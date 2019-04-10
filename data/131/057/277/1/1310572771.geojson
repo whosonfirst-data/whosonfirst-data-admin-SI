@@ -1,0 +1,71 @@
+{
+  "id": 1310572771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.2008,45.50315,15.2008,45.50315",
+    "geom:latitude":45.50315,
+    "geom:longitude":15.2008,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Mala Lahinja",
+    "gn:country_code":"SI",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988918,
+    "gn:latitude":45.50315,
+    "gn:longitude":15.2008,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Mala Lahinja",
+    "gn:population":26,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959699,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988918,
+        "wk:page":"Mala_Lahinja"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1350d389533d1e6365503ee541ca45ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959699,
+            "locality_id":1310572771,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1310572771,
+    "wof:lastmodified":1537573526,
+    "wof:name":"Mala Lahinja",
+    "wof:parent_id":1108959699,
+    "wof:placetype":"locality",
+    "wof:population":26,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.2008,
+    45.50315,
+    15.2008,
+    45.50315
+],
+  "geometry": {"coordinates":[15.2008,45.50315],"type":"Point"}
+}

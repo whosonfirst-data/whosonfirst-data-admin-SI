@@ -1,0 +1,71 @@
+{
+  "id": 1276694587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.02023,46.33155,15.02023,46.33155",
+    "geom:latitude":46.33155,
+    "geom:longitude":15.02023,
+    "gn:admin1_code":"C6",
+    "gn:asciiname":"Slatina",
+    "gn:country_code":"SI",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987208,
+    "gn:latitude":46.33155,
+    "gn:longitude":15.02023,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Slatina",
+    "gn:population":218,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959729,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987208,
+        "wk:page":"Slatina%2C_%C5%A0martno_ob_Paki"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"23ab6f393f2177a4e1a150fdb45c7d5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959729,
+            "locality_id":1276694587,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1276694587,
+    "wof:lastmodified":1537573472,
+    "wof:name":"Slatina",
+    "wof:parent_id":1108959729,
+    "wof:placetype":"locality",
+    "wof:population":218,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.02023,
+    46.33155,
+    15.02023,
+    46.33155
+],
+  "geometry": {"coordinates":[15.02023,46.33155],"type":"Point"}
+}

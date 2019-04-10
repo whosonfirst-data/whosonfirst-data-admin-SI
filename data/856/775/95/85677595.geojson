@@ -1,0 +1,211 @@
+{
+  "id": 85677595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.004664,
+    "geom:area_square_m":39584200.496166,
+    "geom:bbox":"15.7925041031,46.6073363307,15.8885705906,46.6997596304",
+    "geom:latitude":46.653097,
+    "geom:longitude":15.840113,
+    "iso:country":"SI",
+    "lbl:latitude":46.653129,
+    "lbl:longitude":15.843388,
+    "mps:latitude":46.653129,
+    "mps:longitude":15.843388,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:bos_x_preferred":[
+        "Sveta Ana"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u010dina Sveta Ana"
+    ],
+    "name:deu_x_preferred":[
+        "Sveta Ana"
+    ],
+    "name:eng_x_preferred":[
+        "Sveta Ana"
+    ],
+    "name:fra_x_preferred":[
+        "Sveta Ana"
+    ],
+    "name:hbs_x_preferred":[
+        "Sveta Ana"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Sveta Ana"
+    ],
+    "name:ita_x_preferred":[
+        "Sveta Ana"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30f4\u30a7\u30bf\u30fb\u30a2\u30ca"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2a4\ubca0\ud0c0\uc544\ub098"
+    ],
+    "name:nld_x_preferred":[
+        "Sveta Ana"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Sveta Ana"
+    ],
+    "name:por_x_preferred":[
+        "Sveta Ana"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Sveta Ana"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Sveta Ana"
+    ],
+    "name:spa_x_preferred":[
+        "Sveta Ana"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0421\u0432\u0435\u0442\u0430 \u0410\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Sveta Ana"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0430 \u0410\u043d\u0430"
+    ],
+    "name:und_x_preferred":[
+        "Lenart"
+    ],
+    "name:unk_x_variant":[
+        "Ob\u010dina Sveta Ana"
+    ],
+    "name:vie_x_preferred":[
+        "Sveta Ana"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-200",
+    "ne:adm1_code":"SVN-200",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"10",
+    "ne:code_hasc":"SI.PD.SA",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"200",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SI00",
+    "ne:fips_alt":"SIM3",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.M3",
+    "ne:gn_id":"3344931",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Sveta Ana",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI72",
+    "ne:gns_id":"9123451",
+    "ne:gns_lang":"kat",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Sveta Ana, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"46.64590000000",
+    "ne:longitude":"15.84050000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Sveta Ana",
+    "ne:name_alt":"",
+    "ne:name_len":9,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"SA",
+    "ne:provnum_ne":"143",
+    "ne:region":"Podravska",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":-55848361,
+    "ne:woe_label":"",
+    "ne:woe_name":"",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Sveta Ana",
+    "qs:a1_lc":"SVN-200",
+    "qs:a1r":"Podravska",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "qs:woeid":55848361,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "unlc:subdivision":"SI-181",
+    "wd:wordcount":129,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SI00",
+        "gn:id":3344931,
+        "gp:id":-55848361,
+        "hasc:id":"SI.PD.SA",
+        "unlc:id":"SI-181",
+        "wd:id":"Q990063"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"464a65b34a5918e186a24708596992e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677595
+        }
+    ],
+    "wof:id":85677595,
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616730,
+    "wof:name":"Sveta Ana",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:shortcode":"SA",
+    "wof:subdivision":"SI-181",
+    "wof:superseded_by":[
+        1108959709
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.79250410308197,
+    46.60733633070714,
+    15.88857059056033,
+    46.6997596304027
+],
+  "geometry": {"coordinates":[[[15.88857059056033,46.66278514301996],[15.88810550256693,46.64588694922338],[15.87477298308676,46.63643016242213],[15.86578128427891,46.62325267257285],[15.8628357275868,46.61095368096767],[15.85678958457174,46.60733633070714],[15.85177697123027,46.60749136033809],[15.84480065312766,46.6091708442591],[15.83456871907117,46.61493276643409],[15.82929772331136,46.61898936626631],[15.82914269368041,46.62376943651032],[15.82852257695544,46.62749013955835],[15.82526696100149,46.63637848647801],[15.82340660992713,46.6401508654701],[15.81829064289889,46.64544770055102],[15.80015221475298,46.64686880115431],[15.79441613099971,46.65472361929966],[15.79250410308197,46.66087311510222],[15.79281416234375,46.66567902286869],[15.79906701003455,46.67048493153442],[15.79999718602136,46.67627269123176],[15.80387291780096,46.68252553982188],[15.80433800579436,46.6997596304027],[15.81829064289889,46.69616811856389],[15.82728234170673,46.68637543407908],[15.85880496617631,46.6715959737752],[15.876788363792,46.66836619714235],[15.88857059056033,46.66278514301996]]],"type":"Polygon"}
+}

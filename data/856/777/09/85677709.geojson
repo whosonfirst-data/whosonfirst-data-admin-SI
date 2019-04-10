@@ -1,0 +1,199 @@
+{
+  "id": 85677709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003017,
+    "geom:area_square_m":25814382.376979,
+    "geom:bbox":"14.5006966489,46.1741844754,14.5826554697,46.2431983512",
+    "geom:latitude":46.205274,
+    "geom:longitude":14.542476,
+    "iso:country":"SI",
+    "lbl:latitude":46.204568,
+    "lbl:longitude":14.543097,
+    "mps:latitude":46.204568,
+    "mps:longitude":14.543097,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:bos_x_preferred":[
+        "Komenda"
+    ],
+    "name:eng_x_preferred":[
+        "Komenda"
+    ],
+    "name:eng_x_variant":[
+        "Municipality of Komenda"
+    ],
+    "name:hbs_x_preferred":[
+        "Komenda"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Komenda"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30e1\u30f3\u30c0"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf54\uba58\ub2e4"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Komenda"
+    ],
+    "name:ron_x_preferred":[
+        "Komenda"
+    ],
+    "name:ron_x_variant":[
+        "Comuna Komenda"
+    ],
+    "name:slv_x_preferred":[
+        "Komenda"
+    ],
+    "name:spa_x_preferred":[
+        "Komenda"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043c\u0435\u043d\u0434\u0430"
+    ],
+    "name:srp_x_variant":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041a\u043e\u043c\u0435\u043d\u0434\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043c\u0435\u043d\u0434\u0430"
+    ],
+    "name:und_x_preferred":[
+        "Domzale"
+    ],
+    "name:unk_x_variant":[
+        "Ob\u010dina Komenda"
+    ],
+    "name:vie_x_preferred":[
+        "Komenda"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-225",
+    "ne:adm1_code":"SVN-225",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"10",
+    "ne:code_hasc":"SI.LJ.KM",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"225",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SI00",
+    "ne:fips_alt":"SIH8",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.H8",
+    "ne:gn_id":"3344896",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Komenda",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI72",
+    "ne:gns_id":"9123302",
+    "ne:gns_lang":"kat",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Komenda, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"46.20550000000",
+    "ne:longitude":"14.54170000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Komenda",
+    "ne:name_alt":"",
+    "ne:name_len":7,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"KM",
+    "ne:provnum_ne":"181",
+    "ne:region":"Osrednjeslovenska",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":-55848346,
+    "ne:woe_label":"",
+    "ne:woe_name":"",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Komenda",
+    "qs:a1_lc":"SVN-225",
+    "qs:a1r":"Osrednjeslovenska",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "qs:woeid":55848346,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "unlc:subdivision":"SI-164",
+    "wd:wordcount":528,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SI00",
+        "gn:id":3344896,
+        "gp:id":-55848346,
+        "hasc:id":"SI.LJ.KM",
+        "unlc:id":"SI-164",
+        "wd:id":"Q2917822"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"125059c064099519fee26a298ea08bbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677709
+        }
+    ],
+    "wof:id":85677709,
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616731,
+    "wof:name":"Komenda",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:shortcode":"KM",
+    "wof:subdivision":"SI-164",
+    "wof:superseded_by":[
+        1108959837
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.50069664893124,
+    46.17418447543326,
+    14.58265546967425,
+    46.24319835122299
+],
+  "geometry": {"coordinates":[[[14.58265546967425,46.19805898733244],[14.53780032662382,46.17418447543326],[14.52462283677454,46.17707835528194],[14.50069664893124,46.20286489509886],[14.55252811008427,46.24319835122299],[14.56544721841442,46.22810883255664],[14.56994306781837,46.21485382744225],[14.58265546967425,46.19805898733244]]],"type":"Polygon"}
+}

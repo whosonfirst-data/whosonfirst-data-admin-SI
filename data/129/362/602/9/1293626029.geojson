@@ -1,0 +1,71 @@
+{
+  "id": 1293626029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25678,45.8243,15.25678,45.8243",
+    "geom:latitude":45.8243,
+    "geom:longitude":15.25678,
+    "gn:admin1_code":"J7",
+    "gn:asciiname":"Brezje",
+    "gn:country_code":"SI",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989114,
+    "gn:latitude":45.8243,
+    "gn:longitude":15.25678,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Brezje",
+    "gn:population":17,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959465,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989114,
+        "wk:page":"Brezje%2C_Novo_Mesto"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"eb82a3e28d421e25c928c580cba81ec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959465,
+            "locality_id":1293626029,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1293626029,
+    "wof:lastmodified":1537573532,
+    "wof:name":"Brezje",
+    "wof:parent_id":1108959465,
+    "wof:placetype":"locality",
+    "wof:population":17,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25678,
+    45.8243,
+    15.25678,
+    45.8243
+],
+  "geometry": {"coordinates":[15.25678,45.8243],"type":"Point"}
+}

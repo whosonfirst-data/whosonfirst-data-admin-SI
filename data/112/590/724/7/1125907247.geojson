@@ -1,0 +1,114 @@
+{
+  "id": 1125907247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.50111,46.30694,14.50111,46.30694",
+    "geom:latitude":46.30694,
+    "geom:longitude":14.50111,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":264,
+    "iso:country":"SI",
+    "lbl:latitude":46.30694,
+    "lbl:longitude":14.50111,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Kokra"
+    ],
+    "name:eng_x_preferred":[
+        "Kokra"
+    ],
+    "name:hrv_x_preferred":[
+        "Kokra"
+    ],
+    "name:rum_x_preferred":[
+        "Kokra"
+    ],
+    "name:slv_x_preferred":[
+        "Kokra"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043a\u0440\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Kanker"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3197906,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kokra",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Kranj",
+    "qs_pg:photos":30,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":30,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":475636,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":530430,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Kranj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959657,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197906,
+        "gp:id":530430,
+        "qs_pg:id":475636,
+        "wd:id":"Q2626823"
+    },
+    "wof:country":"SI",
+    "wof:created":1497296028,
+    "wof:geomhash":"ecf22d5d862bcc8e863d93fea7c77451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959657,
+            "locality_id":1125907247,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1125907247,
+    "wof:lastmodified":1553816617,
+    "wof:name":"Kokra",
+    "wof:parent_id":1108959657,
+    "wof:placetype":"locality",
+    "wof:population":264,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.50111,
+    46.30694,
+    14.50111,
+    46.30694
+],
+  "geometry": {"coordinates":[14.50111,46.30694],"type":"Point"}
+}

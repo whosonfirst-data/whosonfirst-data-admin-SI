@@ -1,0 +1,71 @@
+{
+  "id": 1293752555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.63632,46.08338,14.63632,46.08338",
+    "geom:latitude":46.08338,
+    "geom:longitude":14.63632,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Videm",
+    "gn:country_code":"SI",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986875,
+    "gn:latitude":46.08338,
+    "gn:longitude":14.63632,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Videm",
+    "gn:population":740,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959861,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986875,
+        "wk:page":"Videm%2C_Dol_pri_Ljubljani"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5f4fea457f0cd217a2430346e1186944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959861,
+            "locality_id":1293752555,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1293752555,
+    "wof:lastmodified":1537573463,
+    "wof:name":"Videm",
+    "wof:parent_id":1108959861,
+    "wof:placetype":"locality",
+    "wof:population":740,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.63632,
+    46.08338,
+    14.63632,
+    46.08338
+],
+  "geometry": {"coordinates":[14.63632,46.08338],"type":"Point"}
+}

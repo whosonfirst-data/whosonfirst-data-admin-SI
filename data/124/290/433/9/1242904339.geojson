@@ -1,0 +1,71 @@
+{
+  "id": 1242904339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.88968,46.59216,15.88968,46.59216",
+    "geom:latitude":46.59216,
+    "geom:longitude":15.88968,
+    "gn:admin1_code":"F4",
+    "gn:asciiname":"Obrat",
+    "gn:country_code":"SI",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987888,
+    "gn:latitude":46.59216,
+    "gn:longitude":15.88968,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Obrat",
+    "gn:population":94,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959829,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987888,
+        "wk:page":"Obrat"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7f1ee561138dfb9c7724661b78888743",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959829,
+            "locality_id":1242904339,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1242904339,
+    "wof:lastmodified":1537573495,
+    "wof:name":"Obrat",
+    "wof:parent_id":1108959829,
+    "wof:placetype":"locality",
+    "wof:population":94,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.88968,
+    46.59216,
+    15.88968,
+    46.59216
+],
+  "geometry": {"coordinates":[15.88968,46.59216],"type":"Point"}
+}

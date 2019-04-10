@@ -1,0 +1,71 @@
+{
+  "id": 1360079699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.50788,46.05205,13.50788,46.05205",
+    "geom:latitude":46.05205,
+    "geom:longitude":13.50788,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Breg pri Golem Brdu",
+    "gn:country_code":"SI",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988865,
+    "gn:latitude":46.05205,
+    "gn:longitude":13.50788,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Breg pri Golem Brdu",
+    "gn:population":28,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959811,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988865,
+        "wk:page":"Breg_pri_Golem_Brdu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"61009491b6a5a5ddfb76ae1f638d0220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959811,
+            "locality_id":1360079699,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1360079699,
+    "wof:lastmodified":1537573525,
+    "wof:name":"Breg pri Golem Brdu",
+    "wof:parent_id":1108959811,
+    "wof:placetype":"locality",
+    "wof:population":28,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.50788,
+    46.05205,
+    13.50788,
+    46.05205
+],
+  "geometry": {"coordinates":[13.50788,46.05205],"type":"Point"}
+}

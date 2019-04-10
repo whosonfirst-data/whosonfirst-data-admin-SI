@@ -1,0 +1,77 @@
+{
+  "id": 1343697995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.83389,45.78167,13.83389,45.78167",
+    "geom:latitude":45.78167,
+    "geom:longitude":13.83389,
+    "gn:admin1_code":"B7",
+    "gn:asciiname":"Kopriva",
+    "gn:country_code":"SI",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197738,
+    "gn:latitude":45.78167,
+    "gn:longitude":13.83389,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Kopriva",
+    "gn:population":175,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Capriva nel Carso",
+        "Capriva del Carso",
+        "Copriva",
+        "Kopriva"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959789,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197738,
+        "wk:page":"Kopriva%2C_Se%C5%BEana"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ee2b5b2e0909e7c78b1fef111014d636",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959789,
+            "locality_id":1343697995,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1343697995,
+    "wof:lastmodified":1537700231,
+    "wof:name":"Kopriva",
+    "wof:parent_id":1108959789,
+    "wof:placetype":"locality",
+    "wof:population":175,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.83389,
+    45.78167,
+    13.83389,
+    45.78167
+],
+  "geometry": {"coordinates":[13.83389,45.78167],"type":"Point"}
+}

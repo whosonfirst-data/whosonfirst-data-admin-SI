@@ -1,0 +1,61 @@
+{
+  "id": 1209549723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.68444,46.4025,14.68444,46.4025",
+    "geom:latitude":46.4025,
+    "geom:longitude":14.68444,
+    "gn:admin1_code":"M2",
+    "gn:asciiname":"Haudi",
+    "gn:country_code":"SI",
+    "gn:dem":1170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217501,
+    "gn:latitude":46.4025,
+    "gn:longitude":14.68444,
+    "gn:modification_date":"2008-11-25",
+    "gn:name":"Haudi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217501
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c8cae14b0668e69137aa3fef65756715",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209549723
+        }
+    ],
+    "wof:id":1209549723,
+    "wof:lastmodified":1536283733,
+    "wof:name":"Haudi",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.68444,
+    46.4025,
+    14.68444,
+    46.4025
+],
+  "geometry": {"coordinates":[14.68444,46.4025],"type":"Point"}
+}

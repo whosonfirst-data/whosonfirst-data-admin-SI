@@ -1,0 +1,74 @@
+{
+  "id": 1343497749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.67707,46.13423,14.67707,46.13423",
+    "geom:latitude":46.13423,
+    "geom:longitude":14.67707,
+    "gn:admin1_code":"G7",
+    "gn:asciiname":"Zalog pod Sv. Trojico",
+    "gn:country_code":"SI",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987837,
+    "gn:latitude":46.13423,
+    "gn:longitude":14.67707,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Zalog pod Sv. Trojico",
+    "gn:population":98,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zalog Pod Sv. Trojico"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959799,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987837,
+        "wk:page":"Zalog_pod_Sveto_Trojico"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1725a5abcf1a38cc398641d7246fea6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959799,
+            "locality_id":1343497749,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1343497749,
+    "wof:lastmodified":1537700294,
+    "wof:name":"Zalog pod Sv. Trojico",
+    "wof:parent_id":1108959799,
+    "wof:placetype":"locality",
+    "wof:population":98,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.67707,
+    46.13423,
+    14.67707,
+    46.13423
+],
+  "geometry": {"coordinates":[14.67707,46.13423],"type":"Point"}
+}

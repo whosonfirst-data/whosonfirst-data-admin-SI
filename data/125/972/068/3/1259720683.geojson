@@ -1,0 +1,74 @@
+{
+  "id": 1259720683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3935,45.89821,15.3935,45.89821",
+    "geom:latitude":45.89821,
+    "geom:longitude":15.3935,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Krzisce",
+    "gn:country_code":"SI",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988386,
+    "gn:latitude":45.89821,
+    "gn:longitude":15.3935,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kr\u017ei\u0161\u010de",
+    "gn:population":53,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kr\u017ei\u0161\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988386,
+        "wk:page":"Kr%C5%BEi%C5%A1%C4%8De%2C_Kr%C5%A1ko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ab69d49194e134cc0bb789a21dd228ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1259720683,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1259720683,
+    "wof:lastmodified":1537700305,
+    "wof:name":"Krzisce",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":53,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3935,
+    45.89821,
+    15.3935,
+    45.89821
+],
+  "geometry": {"coordinates":[15.3935,45.89821],"type":"Point"}
+}

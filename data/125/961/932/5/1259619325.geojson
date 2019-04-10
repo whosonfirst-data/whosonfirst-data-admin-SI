@@ -1,0 +1,76 @@
+{
+  "id": 1259619325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.03333,46.21667,14.03333,46.21667",
+    "geom:latitude":46.21667,
+    "geom:longitude":14.03333,
+    "gn:admin1_code":"F1",
+    "gn:asciiname":"Spodnja Sorica",
+    "gn:country_code":"SI",
+    "gn:dem":759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190233,
+    "gn:latitude":46.21667,
+    "gn:longitude":14.03333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Spodnja Sorica",
+    "gn:population":93,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sorica",
+        "Zraz",
+        "Spodnja Sorica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959701,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190233,
+        "wk:page":"Spodnja_Sorica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e4f223216847ec5e619119c07f189080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959701,
+            "locality_id":1259619325,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1259619325,
+    "wof:lastmodified":1537700189,
+    "wof:name":"Spodnja Sorica",
+    "wof:parent_id":1108959701,
+    "wof:placetype":"locality",
+    "wof:population":93,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.03333,
+    46.21667,
+    14.03333,
+    46.21667
+],
+  "geometry": {"coordinates":[14.03333,46.21667],"type":"Point"}
+}

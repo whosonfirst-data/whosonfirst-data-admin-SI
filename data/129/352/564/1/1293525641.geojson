@@ -1,0 +1,71 @@
+{
+  "id": 1293525641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.73458,46.17848,14.73458,46.17848",
+    "geom:latitude":46.17848,
+    "geom:longitude":14.73458,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Koreno",
+    "gn:country_code":"SI",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988076,
+    "gn:latitude":46.17848,
+    "gn:longitude":14.73458,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Koreno",
+    "gn:population":75,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959807,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988076,
+        "wk:page":"Koreno%2C_Lukovica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d9076ba406404556f47c34f9695e927b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959807,
+            "locality_id":1293525641,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1293525641,
+    "wof:lastmodified":1537573501,
+    "wof:name":"Koreno",
+    "wof:parent_id":1108959807,
+    "wof:placetype":"locality",
+    "wof:population":75,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.73458,
+    46.17848,
+    14.73458,
+    46.17848
+],
+  "geometry": {"coordinates":[14.73458,46.17848],"type":"Point"}
+}

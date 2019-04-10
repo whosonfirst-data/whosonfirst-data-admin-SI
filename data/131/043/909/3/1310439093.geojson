@@ -1,0 +1,70 @@
+{
+  "id": 1310439093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.54381,46.41261,15.54381,46.41261",
+    "geom:latitude":46.41261,
+    "geom:longitude":15.54381,
+    "gn:admin1_code":"L8",
+    "gn:asciiname":"Nova Gora nad Slov. Bistrico",
+    "gn:country_code":"SI",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987443,
+    "gn:latitude":46.41261,
+    "gn:longitude":15.54381,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Nova Gora nad Slov. Bistrico",
+    "gn:population":152,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959641,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987443
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1c093ad45be10963737163129060247b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959641,
+            "locality_id":1310439093,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1310439093,
+    "wof:lastmodified":1537012150,
+    "wof:name":"Nova Gora nad Slov. Bistrico",
+    "wof:parent_id":1108959641,
+    "wof:placetype":"locality",
+    "wof:population":152,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.54381,
+    46.41261,
+    15.54381,
+    46.41261
+],
+  "geometry": {"coordinates":[15.54381,46.41261],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1242811637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3109,46.02829,15.3109,46.02829",
+    "geom:latitude":46.02829,
+    "geom:longitude":15.3109,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Drozanje",
+    "gn:country_code":"SI",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987534,
+    "gn:latitude":46.02829,
+    "gn:longitude":15.3109,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Dro\u017eanje",
+    "gn:population":136,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dro\u017eanje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987534,
+        "wk:page":"Dro%C5%BEanje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"df6f649e235e20242c1dac75443024c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1242811637,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1242811637,
+    "wof:lastmodified":1537700288,
+    "wof:name":"Drozanje",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":136,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3109,
+    46.02829000000001,
+    15.3109,
+    46.02829000000001
+],
+  "geometry": {"coordinates":[15.3109,46.02829000000001],"type":"Point"}
+}

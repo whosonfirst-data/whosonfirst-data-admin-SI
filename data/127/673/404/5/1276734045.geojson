@@ -1,0 +1,74 @@
+{
+  "id": 1276734045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.10752,45.50089,15.10752,45.50089",
+    "geom:latitude":45.50089,
+    "geom:longitude":15.10752,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Mocile",
+    "gn:country_code":"SI",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989176,
+    "gn:latitude":45.50089,
+    "gn:longitude":15.10752,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Mo\u010dile",
+    "gn:population":14,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mo\u010dile"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959699,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989176,
+        "wk:page":"Mo%C4%8Dile%2C_%C4%8Crnomelj"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4af7f8539430757ce3abfca987216bc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959699,
+            "locality_id":1276734045,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1276734045,
+    "wof:lastmodified":1537700321,
+    "wof:name":"Mocile",
+    "wof:parent_id":1108959699,
+    "wof:placetype":"locality",
+    "wof:population":14,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.10752,
+    45.50089000000001,
+    15.10752,
+    45.50089000000001
+],
+  "geometry": {"coordinates":[15.10752,45.50089000000001],"type":"Point"}
+}

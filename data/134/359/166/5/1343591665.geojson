@@ -1,0 +1,75 @@
+{
+  "id": 1343591665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.59389,46.2693,13.59389,46.2693",
+    "geom:latitude":46.2693,
+    "geom:longitude":13.59389,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Magozd",
+    "gn:country_code":"SI",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195934,
+    "gn:latitude":46.2693,
+    "gn:longitude":13.59389,
+    "gn:modification_date":"2017-03-18",
+    "gn:name":"Magozd",
+    "gn:population":72,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Magosti",
+        "Magozd"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959523,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195934,
+        "wk:page":"Magozd"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"41ade45af3c8a90afb9560ce3c4fb19b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959523,
+            "locality_id":1343591665,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1343591665,
+    "wof:lastmodified":1537700221,
+    "wof:name":"Magozd",
+    "wof:parent_id":1108959523,
+    "wof:placetype":"locality",
+    "wof:population":72,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.59389,
+    46.2693,
+    13.59389,
+    46.2693
+],
+  "geometry": {"coordinates":[13.59389,46.2693],"type":"Point"}
+}

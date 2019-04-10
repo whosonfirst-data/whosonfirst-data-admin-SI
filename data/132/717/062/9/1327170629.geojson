@@ -1,0 +1,74 @@
+{
+  "id": 1327170629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.81667,46.1,14.81667,46.1",
+    "geom:latitude":46.1,
+    "geom:longitude":14.81667,
+    "gn:admin1_code":"I5",
+    "gn:asciiname":"Zgornji Hotic",
+    "gn:country_code":"SI",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186491,
+    "gn:latitude":46.1,
+    "gn:longitude":14.81667,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Zgornji Hoti\u010d",
+    "gn:population":252,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zgornji Hoti\u010d"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959907,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186491,
+        "wk:page":"Zgornji_Hoti%C4%8D"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b4f453e38040b4de796bac9f2d7e2d63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959907,
+            "locality_id":1327170629,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1327170629,
+    "wof:lastmodified":1537700168,
+    "wof:name":"Zgornji Hotic",
+    "wof:parent_id":1108959907,
+    "wof:placetype":"locality",
+    "wof:population":252,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.81667,
+    46.1,
+    14.81667,
+    46.1
+],
+  "geometry": {"coordinates":[14.81667,46.1],"type":"Point"}
+}

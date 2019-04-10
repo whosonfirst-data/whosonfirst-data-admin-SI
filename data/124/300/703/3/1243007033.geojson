@@ -1,0 +1,74 @@
+{
+  "id": 1243007033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.19205,46.3477,15.19205,46.3477",
+    "geom:latitude":46.3477,
+    "geom:longitude":15.19205,
+    "gn:admin1_code":"D7",
+    "gn:asciiname":"Janskovo Selo",
+    "gn:country_code":"SI",
+    "gn:dem":741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987396,
+    "gn:latitude":46.3477,
+    "gn:longitude":15.19205,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Jan\u0161kovo Selo",
+    "gn:population":160,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jan\u0161kovo Selo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959593,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987396,
+        "wk:page":"Jan%C5%A1kovo_Selo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5b03aca45af2e7bae27537129b8e64c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959593,
+            "locality_id":1243007033,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1243007033,
+    "wof:lastmodified":1537700285,
+    "wof:name":"Janskovo Selo",
+    "wof:parent_id":1108959593,
+    "wof:placetype":"locality",
+    "wof:population":160,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.19205,
+    46.3477,
+    15.19205,
+    46.3477
+],
+  "geometry": {"coordinates":[15.19205,46.3477],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276366447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.73118,46.39988,15.73118,46.39988",
+    "geom:latitude":46.39988,
+    "geom:longitude":15.73118,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Cirkovce",
+    "gn:country_code":"SI",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202572,
+    "gn:latitude":46.39988,
+    "gn:longitude":15.73118,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Cirkovce",
+    "gn:population":418,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cirkovci",
+        "Cirkovce"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959739,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202572,
+        "wk:page":"Cirkovce"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8d497a617895f865cfdd5d042afdf3f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959739,
+            "locality_id":1276366447,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1276366447,
+    "wof:lastmodified":1537700257,
+    "wof:name":"Cirkovce",
+    "wof:parent_id":1108959739,
+    "wof:placetype":"locality",
+    "wof:population":418,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.73118,
+    46.39988,
+    15.73118,
+    46.39988
+],
+  "geometry": {"coordinates":[15.73118,46.39988],"type":"Point"}
+}

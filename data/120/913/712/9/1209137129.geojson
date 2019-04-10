@@ -1,0 +1,65 @@
+{
+  "id": 1209137129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.09299,45.77966,15.09299,45.77966",
+    "geom:latitude":45.77966,
+    "geom:longitude":15.09299,
+    "gn:admin1_code":"P5",
+    "gn:asciiname":"Jurka Vas",
+    "gn:country_code":"SI",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987344,
+    "gn:latitude":45.77966,
+    "gn:longitude":15.09299,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Jurka Vas",
+    "gn:population":169,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987344,
+        "wk:page":"Jurka_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c395ff6c309e1ec8904a316e3d86b7b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209137129
+        }
+    ],
+    "wof:id":1209137129,
+    "wof:lastmodified":1537573476,
+    "wof:name":"Jurka Vas",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":169,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.09299,
+    45.77966,
+    15.09299,
+    45.77966
+],
+  "geometry": {"coordinates":[15.09299,45.77966],"type":"Point"}
+}

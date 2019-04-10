@@ -1,0 +1,74 @@
+{
+  "id": 1242611699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.87401,45.91575,14.87401,45.91575",
+    "geom:latitude":45.91575,
+    "geom:longitude":14.87401,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Podborst",
+    "gn:country_code":"SI",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987664,
+    "gn:latitude":45.91575,
+    "gn:longitude":14.87401,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Podbor\u0161t",
+    "gn:population":116,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Podbor\u0161t"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959583,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987664,
+        "wk:page":"Podbor%C5%A1t%2C_Ivan%C4%8Dna_Gorica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fc69a48ba88b8bcb2c319770f06611e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959583,
+            "locality_id":1242611699,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1242611699,
+    "wof:lastmodified":1537700291,
+    "wof:name":"Podborst",
+    "wof:parent_id":1108959583,
+    "wof:placetype":"locality",
+    "wof:population":116,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.87401,
+    45.91575,
+    14.87401,
+    45.91575
+],
+  "geometry": {"coordinates":[14.87401,45.91575],"type":"Point"}
+}

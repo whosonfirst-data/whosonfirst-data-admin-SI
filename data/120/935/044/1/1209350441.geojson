@@ -1,0 +1,68 @@
+{
+  "id": 1209350441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.75055,46.69083,15.75055,46.69083",
+    "geom:latitude":46.69083,
+    "geom:longitude":15.75055,
+    "gn:admin1_code":"B3",
+    "gn:asciiname":"Svecane",
+    "gn:country_code":"SI",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987234,
+    "gn:latitude":46.69083,
+    "gn:longitude":15.75055,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Sve\u010dane",
+    "gn:population":211,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sve\u010dane"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987234,
+        "wk:page":"Sve%C4%8Dane"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"33f7cd4b4e26d7e2d9b57ff7cf54af8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209350441
+        }
+    ],
+    "wof:id":1209350441,
+    "wof:lastmodified":1537700282,
+    "wof:name":"Svecane",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":211,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.75055,
+    46.69083,
+    15.75055,
+    46.69083
+],
+  "geometry": {"coordinates":[15.75055,46.69083],"type":"Point"}
+}

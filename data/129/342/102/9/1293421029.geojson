@@ -1,0 +1,67 @@
+{
+  "id": 1293421029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.20972,46.56111,16.20972,46.56111",
+    "geom:latitude":46.56111,
+    "geom:longitude":16.20972,
+    "gn:admin1_code":"I6",
+    "gn:asciiname":"Spodnje Krapje",
+    "gn:country_code":"SI",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215443,
+    "gn:latitude":46.56111,
+    "gn:longitude":16.20972,
+    "gn:modification_date":"2008-11-25",
+    "gn:name":"Spodnje Krapje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959499,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215443
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"69f771496d68adc5960df57597e192b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959499,
+            "locality_id":1293421029,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1293421029,
+    "wof:lastmodified":1536882267,
+    "wof:name":"Spodnje Krapje",
+    "wof:parent_id":1108959499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.20972,
+    46.56111,
+    16.20972,
+    46.56111
+],
+  "geometry": {"coordinates":[16.20972,46.56111],"type":"Point"}
+}

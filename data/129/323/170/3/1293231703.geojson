@@ -1,0 +1,71 @@
+{
+  "id": 1293231703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.74292,46.3295,15.74292,46.3295",
+    "geom:latitude":46.3295,
+    "geom:longitude":15.74292,
+    "gn:admin1_code":"J1",
+    "gn:asciiname":"Skrblje",
+    "gn:country_code":"SI",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988221,
+    "gn:latitude":46.3295,
+    "gn:longitude":15.74292,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Skrblje",
+    "gn:population":63,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959491,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988221,
+        "wk:page":"Skrblje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"11ca0c1e4d789d492a90789076e5289f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959491,
+            "locality_id":1293231703,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1293231703,
+    "wof:lastmodified":1537573505,
+    "wof:name":"Skrblje",
+    "wof:parent_id":1108959491,
+    "wof:placetype":"locality",
+    "wof:population":63,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.74292,
+    46.3295,
+    15.74292,
+    46.3295
+],
+  "geometry": {"coordinates":[15.74292,46.3295],"type":"Point"}
+}

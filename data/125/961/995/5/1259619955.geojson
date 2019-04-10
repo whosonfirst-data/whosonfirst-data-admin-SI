@@ -1,0 +1,74 @@
+{
+  "id": 1259619955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.59512,46.16232,14.59512,46.16232",
+    "geom:latitude":46.16232,
+    "geom:longitude":14.59512,
+    "gn:admin1_code":"G7",
+    "gn:asciiname":"Zgornje Jarse",
+    "gn:country_code":"SI",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186510,
+    "gn:latitude":46.16232,
+    "gn:longitude":14.59512,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Zgornje Jar\u0161e",
+    "gn:population":385,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zgornje Jar\u0161e"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959799,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186510,
+        "wk:page":"Zgornje_Jar%C5%A1e%2C_Dom%C5%BEale"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1ecf6c2fcfdc0dc7587c384c878836cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959799,
+            "locality_id":1259619955,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1259619955,
+    "wof:lastmodified":1537700168,
+    "wof:name":"Zgornje Jarse",
+    "wof:parent_id":1108959799,
+    "wof:placetype":"locality",
+    "wof:population":385,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.59512,
+    46.16232,
+    14.59512,
+    46.16232
+],
+  "geometry": {"coordinates":[14.59512,46.16232],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327061455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.43054,46.05141,14.43054,46.05141",
+    "geom:latitude":46.05141,
+    "geom:longitude":14.43054,
+    "gn:admin1_code":"G4",
+    "gn:asciiname":"Razori",
+    "gn:country_code":"SI",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987751,
+    "gn:latitude":46.05141,
+    "gn:longitude":14.43054,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Razori",
+    "gn:population":107,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959847,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987751,
+        "wk:page":"Razori"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9bc49789a44b43609f1bc1fc15086aa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959847,
+            "locality_id":1327061455,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1327061455,
+    "wof:lastmodified":1537573490,
+    "wof:name":"Razori",
+    "wof:parent_id":1108959847,
+    "wof:placetype":"locality",
+    "wof:population":107,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.43054,
+    46.05141,
+    14.43054,
+    46.05141
+],
+  "geometry": {"coordinates":[14.43054,46.05141],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309834901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.67608,46.14196,14.67608,46.14196",
+    "geom:latitude":46.14196,
+    "geom:longitude":14.67608,
+    "gn:admin1_code":"G7",
+    "gn:asciiname":"Studenec pri Krtini",
+    "gn:country_code":"SI",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988199,
+    "gn:latitude":46.14196,
+    "gn:longitude":14.67608,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Studenec pri Krtini",
+    "gn:population":65,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959799,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988199,
+        "wk:page":"Studenec_pri_Krtini"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7bc08f9fd843fa2afb43c574a6113c47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959799,
+            "locality_id":1309834901,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1309834901,
+    "wof:lastmodified":1537573505,
+    "wof:name":"Studenec pri Krtini",
+    "wof:parent_id":1108959799,
+    "wof:placetype":"locality",
+    "wof:population":65,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.67608,
+    46.14196,
+    14.67608,
+    46.14196
+],
+  "geometry": {"coordinates":[14.67608,46.14196],"type":"Point"}
+}

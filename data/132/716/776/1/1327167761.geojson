@@ -1,0 +1,71 @@
+{
+  "id": 1327167761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.4222,45.96813,15.4222,45.96813",
+    "geom:latitude":45.96813,
+    "geom:longitude":15.4222,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Dolenja Lepa Vas",
+    "gn:country_code":"SI",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201856,
+    "gn:latitude":45.96813,
+    "gn:longitude":15.4222,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Dolenja Lepa Vas",
+    "gn:population":15,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201856,
+        "wk:page":"Dolenja_Lepa_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"72e88f05974a282cefa827f08c47793c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1327167761,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1327167761,
+    "wof:lastmodified":1537573445,
+    "wof:name":"Dolenja Lepa Vas",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.4222,
+    45.96813,
+    15.4222,
+    45.96813
+],
+  "geometry": {"coordinates":[15.4222,45.96813],"type":"Point"}
+}

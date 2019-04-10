@@ -1,0 +1,71 @@
+{
+  "id": 1242708367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.71628,46.6523,15.71628,46.6523",
+    "geom:latitude":46.6523,
+    "geom:longitude":15.71628,
+    "gn:admin1_code":"89",
+    "gn:asciiname":"Zgornji Jakobski Dol",
+    "gn:country_code":"SI",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186490,
+    "gn:latitude":46.6523,
+    "gn:longitude":15.71628,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Zgornji Jakobski Dol",
+    "gn:population":332,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959553,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186490,
+        "wk:page":"Zgornji_Jakobski_Dol"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ec5f33b0fddd2844bc7ddbe34ecffcfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959553,
+            "locality_id":1242708367,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1242708367,
+    "wof:lastmodified":1537573381,
+    "wof:name":"Zgornji Jakobski Dol",
+    "wof:parent_id":1108959553,
+    "wof:placetype":"locality",
+    "wof:population":332,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.71628,
+    46.6523,
+    15.71628,
+    46.6523
+],
+  "geometry": {"coordinates":[15.71628,46.6523],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1277017539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.12611,46.69639,16.12611,46.69639",
+    "geom:latitude":46.69639,
+    "geom:longitude":16.12611,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Predanovci",
+    "gn:country_code":"SI",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192564,
+    "gn:latitude":46.69639,
+    "gn:longitude":16.12611,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Predanovci",
+    "gn:population":183,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00f3naf\u0151",
+        "Predanovci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959935,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192564,
+        "wk:page":"Predanovci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f4a7a6d4336df776082414f6f4664f19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959935,
+            "locality_id":1277017539,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1277017539,
+    "wof:lastmodified":1537700205,
+    "wof:name":"Predanovci",
+    "wof:parent_id":1108959935,
+    "wof:placetype":"locality",
+    "wof:population":183,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.12611,
+    46.69639,
+    16.12611,
+    46.69639
+],
+  "geometry": {"coordinates":[16.12611,46.69639],"type":"Point"}
+}

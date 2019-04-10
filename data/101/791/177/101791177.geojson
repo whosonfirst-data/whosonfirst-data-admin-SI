@@ -1,0 +1,141 @@
+{
+  "id": 101791177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000167,
+    "geom:area_square_m":1416468.507,
+    "geom:bbox":"15.1939236013,46.61056887,15.233413469,46.6205597277",
+    "geom:latitude":46.615311,
+    "geom:longitude":15.215475,
+    "gn:population":2811,
+    "iso:country":"SI",
+    "lbl:latitude":46.614308,
+    "lbl:longitude":15.223702,
+    "mps:latitude":46.614308,
+    "mps:longitude":15.223702,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Radlje ob Dravi"
+    ],
+    "name:chi_x_preferred":[
+        "\u5fb7\u62c9\u74e6\u6cb3\u7554\u62c9\u5fb7\u5217"
+    ],
+    "name:dut_x_preferred":[
+        "Radlje ob Dravi"
+    ],
+    "name:eng_x_preferred":[
+        "Radlje ob Dravi"
+    ],
+    "name:fre_x_preferred":[
+        "Radlje ob Dravi"
+    ],
+    "name:ita_x_preferred":[
+        "Radlje ob Dravi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30c9\u30ea\u30a7\u30fb\u30aa\u30d6\u30fb\u30c9\u30e9\u30f4\u30a3"
+    ],
+    "name:nld_x_preferred":[
+        "Radlje ob Dravi"
+    ],
+    "name:ron_x_preferred":[
+        "Radlje ob Dravi"
+    ],
+    "name:rum_x_preferred":[
+        "Radlje ob Dravi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0434\u043b\u0435-\u043e\u0431-\u0414\u0440\u0430\u0432\u044b"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Radlje ob Dravi"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0434\u0459\u0435 \u043e\u0431 \u0414\u0440\u0430\u0432\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Radlje ob Dravi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0434\u043b\u0454-\u043e\u0431-\u0414\u0440\u0430\u0432\u0456"
+    ],
+    "name:und_x_preferred":[
+        "Radlje Ob Dravi"
+    ],
+    "name:und_x_variant":[
+        "Marenberg",
+        "Mariberg"
+    ],
+    "name:unk_x_variant":[
+        "Marenberg"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"Radlje ob Dravi",
+    "qs:la_lc":"*SI101000",
+    "qs:level":"locality",
+    "qs:loc":"Radlje ob Dravi",
+    "qs:loc_alt":"Radlje ob Dravi",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959557,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06f31d64-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3192121,
+        "gp:id":531296,
+        "qs:id":312656,
+        "qs_pg:id":312656,
+        "wd:id":"Q6565933"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"bbc46f6f19301f11d2db37ee73a7fc0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959557,
+            "locality_id":101791177,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":101791177,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531170444,
+    "wof:name":"Radlje ob Dravi",
+    "wof:parent_id":1108959557,
+    "wof:placetype":"locality",
+    "wof:population":2811,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.1939236013464,
+    46.61056886996994,
+    15.23341346900781,
+    46.62055972773538
+],
+  "geometry": {"coordinates":[[[15.21154974126188,46.61940927283501],[15.21128519157003,46.61671544489457],[15.22169859964754,46.61620970170037],[15.22178695373833,46.61710763503766],[15.22439032137891,46.61698103929757],[15.22447872299614,46.61787896959976],[15.22578042444178,46.61781564687294],[15.22569200098712,46.61691771780676],[15.22959702295549,46.61672765885237],[15.22968551192218,46.61762558420833],[15.23098720212778,46.61756219849229],[15.23089869132428,46.61666427437376],[15.23220035688098,46.61660087414839],[15.2321118280986,46.61570295070328],[15.23341346900781,46.61563953596885],[15.23305930512061,46.61204784149777],[15.23175775154476,46.61211125128114],[15.23166924204867,46.611213325015],[15.22646308696261,46.61146680174778],[15.22637466864495,46.61056886996994],[15.22377161791036,46.61069551139371],[15.22385999256625,46.61159344564334],[15.22125688694132,46.61172002655758],[15.22134522178368,46.61261796271413],[15.22004364292974,46.61268123078793],[15.22013195978775,46.6135791676154],[15.19800431943287,46.61465233667411],[15.19782843194554,46.61285642056157],[15.1939236013464,46.61304532355967],[15.19418724179258,46.61573920794672],[15.19939393904889,46.61548729103788],[15.19965787604275,46.61818115560715],[15.20095960888978,46.61811813332093],[15.20104761739725,46.61901608582156],[15.2062546081832,46.61876383427193],[15.20643081144283,46.62055972773538],[15.21033615619581,46.62037036632353],[15.21024798712057,46.61947242357013],[15.21154974126188,46.61940927283501]]],"type":"Polygon"}
+}

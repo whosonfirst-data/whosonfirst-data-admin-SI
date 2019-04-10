@@ -1,0 +1,74 @@
+{
+  "id": 1276693607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.40212,46.28692,15.40212,46.28692",
+    "geom:latitude":46.28692,
+    "geom:longitude":15.40212,
+    "gn:admin1_code":"L7",
+    "gn:asciiname":"Zalog pod Ursulo",
+    "gn:country_code":"SI",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988497,
+    "gn:latitude":46.28692,
+    "gn:longitude":15.40212,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Zalog pod Ursulo",
+    "gn:population":47,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zalog Pod Ur\u0161ulo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959791,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988497,
+        "wk:page":"Zalog_pod_Ur%C5%A1ulo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2b382d6bbebca8daf6f1d0a72cedf196",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959791,
+            "locality_id":1276693607,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1276693607,
+    "wof:lastmodified":1537700307,
+    "wof:name":"Zalog pod Ursulo",
+    "wof:parent_id":1108959791,
+    "wof:placetype":"locality",
+    "wof:population":47,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.40212,
+    46.28692,
+    15.40212,
+    46.28692
+],
+  "geometry": {"coordinates":[15.40212,46.28692],"type":"Point"}
+}

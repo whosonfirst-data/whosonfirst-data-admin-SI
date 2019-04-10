@@ -1,0 +1,71 @@
+{
+  "id": 1226272939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.41667,46.16667,14.41667,46.16667",
+    "geom:latitude":46.16667,
+    "geom:longitude":14.41667,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Zbilje",
+    "gn:country_code":"SI",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186686,
+    "gn:latitude":46.16667,
+    "gn:longitude":14.41667,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Zbilje",
+    "gn:population":837,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959933,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186686,
+        "wk:page":"Zbilje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1ec2bc28a98ff4f7bef14bc62127a17d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959933,
+            "locality_id":1226272939,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1226272939,
+    "wof:lastmodified":1537573383,
+    "wof:name":"Zbilje",
+    "wof:parent_id":1108959933,
+    "wof:placetype":"locality",
+    "wof:population":837,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.41667,
+    46.16667,
+    14.41667,
+    46.16667
+],
+  "geometry": {"coordinates":[14.41667,46.16667],"type":"Point"}
+}

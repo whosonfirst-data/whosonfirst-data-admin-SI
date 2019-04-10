@@ -1,0 +1,71 @@
+{
+  "id": 1310236471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.88437,45.82451,13.88437,45.82451",
+    "geom:latitude":45.82451,
+    "geom:longitude":13.88437,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Dolanci",
+    "gn:country_code":"SI",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988946,
+    "gn:latitude":45.82451,
+    "gn:longitude":13.88437,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Dolanci",
+    "gn:population":25,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959539,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988946,
+        "wk:page":"Dolanci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"69449039ad5ede391228649aed0e1779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959539,
+            "locality_id":1310236471,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1310236471,
+    "wof:lastmodified":1537573527,
+    "wof:name":"Dolanci",
+    "wof:parent_id":1108959539,
+    "wof:placetype":"locality",
+    "wof:population":25,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.88437,
+    45.82451,
+    13.88437,
+    45.82451
+],
+  "geometry": {"coordinates":[13.88437,45.82451],"type":"Point"}
+}

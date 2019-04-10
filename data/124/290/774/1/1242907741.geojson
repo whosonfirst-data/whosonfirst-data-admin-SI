@@ -1,0 +1,71 @@
+{
+  "id": 1242907741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.10402,45.96442,15.10402,45.96442",
+    "geom:latitude":45.96442,
+    "geom:longitude":15.10402,
+    "gn:admin1_code":"P2",
+    "gn:asciiname":"Prelesje",
+    "gn:country_code":"SI",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987674,
+    "gn:latitude":45.96442,
+    "gn:longitude":15.10402,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Prelesje",
+    "gn:population":116,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959841,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987674,
+        "wk:page":"Prelesje%2C_%C5%A0entrupert"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9b880ebda4732af38cc653780d084565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959841,
+            "locality_id":1242907741,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1242907741,
+    "wof:lastmodified":1537573487,
+    "wof:name":"Prelesje",
+    "wof:parent_id":1108959841,
+    "wof:placetype":"locality",
+    "wof:population":116,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.10402,
+    45.96442,
+    15.10402,
+    45.96442
+],
+  "geometry": {"coordinates":[15.10402,45.96442],"type":"Point"}
+}

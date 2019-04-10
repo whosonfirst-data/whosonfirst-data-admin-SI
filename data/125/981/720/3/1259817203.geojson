@@ -1,0 +1,74 @@
+{
+  "id": 1259817203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.57579,46.33686,15.57579,46.33686",
+    "geom:latitude":46.33686,
+    "geom:longitude":15.57579,
+    "gn:admin1_code":"L8",
+    "gn:asciiname":"Zgornja Breznica",
+    "gn:country_code":"SI",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186546,
+    "gn:latitude":46.33686,
+    "gn:longitude":15.57579,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Zgornja Bre\u017enica",
+    "gn:population":76,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zgornja Bre\u017enica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959641,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186546,
+        "wk:page":"Zgornja_Bre%C5%BEnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fb38e4be900f7a7a0aee0b08c82aaf76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959641,
+            "locality_id":1259817203,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1259817203,
+    "wof:lastmodified":1537700169,
+    "wof:name":"Zgornja Breznica",
+    "wof:parent_id":1108959641,
+    "wof:placetype":"locality",
+    "wof:population":76,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.57579,
+    46.33686,
+    15.57579,
+    46.33686
+],
+  "geometry": {"coordinates":[15.57579,46.33686],"type":"Point"}
+}

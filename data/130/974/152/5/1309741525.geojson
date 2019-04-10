@@ -1,0 +1,71 @@
+{
+  "id": 1309741525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.09646,45.99959,15.09646,45.99959",
+    "geom:latitude":45.99959,
+    "geom:longitude":15.09646,
+    "gn:admin1_code":"P2",
+    "gn:asciiname":"Hom",
+    "gn:country_code":"SI",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199355,
+    "gn:latitude":45.99959,
+    "gn:longitude":15.09646,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Hom",
+    "gn:population":83,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959841,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199355,
+        "wk:page":"Hom%2C_%C5%A0entrupert"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"31ca2cdd86fda03fe4bd7498fa95f285",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959841,
+            "locality_id":1309741525,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1309741525,
+    "wof:lastmodified":1537573436,
+    "wof:name":"Hom",
+    "wof:parent_id":1108959841,
+    "wof:placetype":"locality",
+    "wof:population":83,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.09646,
+    45.99959000000001,
+    15.09646,
+    45.99959000000001
+],
+  "geometry": {"coordinates":[15.09646,45.99959000000001],"type":"Point"}
+}

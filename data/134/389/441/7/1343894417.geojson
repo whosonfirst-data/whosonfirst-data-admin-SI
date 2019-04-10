@@ -1,0 +1,71 @@
+{
+  "id": 1343894417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.85583,45.53278,14.85583,45.53278",
+    "geom:latitude":45.53278,
+    "geom:longitude":14.85583,
+    "gn:admin1_code":"H9",
+    "gn:asciiname":"Ajbelj",
+    "gn:country_code":"SI",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204858,
+    "gn:latitude":45.53278,
+    "gn:longitude":14.85583,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Ajbelj",
+    "gn:population":9,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959711,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204858,
+        "wk:page":"Ajbelj"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c566a9c150957950b16da1fa44221be3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959711,
+            "locality_id":1343894417,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1343894417,
+    "wof:lastmodified":1537573454,
+    "wof:name":"Ajbelj",
+    "wof:parent_id":1108959711,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.85583,
+    45.53278,
+    14.85583,
+    45.53278
+],
+  "geometry": {"coordinates":[14.85583,45.53278],"type":"Point"}
+}

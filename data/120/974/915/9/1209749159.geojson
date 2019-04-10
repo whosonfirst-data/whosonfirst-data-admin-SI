@@ -1,0 +1,76 @@
+{
+  "id": 1209749159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.01082,46.37733,15.01082,46.37733",
+    "geom:latitude":46.37733,
+    "geom:longitude":15.01082,
+    "gn:admin1_code":"C7",
+    "gn:asciiname":"Skorno pri Sostanju",
+    "gn:country_code":"SI",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189349,
+    "gn:latitude":46.37733,
+    "gn:longitude":15.01082,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Skorno pri \u0160o\u0161tanju",
+    "gn:population":383,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160ent Florijan",
+        "Sveti Florijan",
+        "Sveti Florijan pri \u0160o\u0161tanju"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959731,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189349,
+        "wk:page":"Skorno_pri_%C5%A0o%C5%A1tanju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"15d78b44c110134eeb0155396fb47cfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959731,
+            "locality_id":1209749159,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1209749159,
+    "wof:lastmodified":1537700183,
+    "wof:name":"Skorno pri Sostanju",
+    "wof:parent_id":1108959731,
+    "wof:placetype":"locality",
+    "wof:population":383,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.01082,
+    46.37733,
+    15.01082,
+    46.37733
+],
+  "geometry": {"coordinates":[15.01082,46.37733],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1293421213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.13944,46.78167,16.13944,46.78167",
+    "geom:latitude":46.78167,
+    "geom:longitude":16.13944,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Prosecka Vas",
+    "gn:country_code":"SI",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192300,
+    "gn:latitude":46.78167,
+    "gn:longitude":16.13944,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Prose\u010dka Vas",
+    "gn:population":128,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00f6lesv\u00f6ly",
+        "Prese\u010dkaves",
+        "Prose\u010dka Ves",
+        "Prose\u010dka Vas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959935,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192300,
+        "wk:page":"Prose%C4%8Dka_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"074df368535a6a6c7d20ba2661dd74f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959935,
+            "locality_id":1293421213,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1293421213,
+    "wof:lastmodified":1537700203,
+    "wof:name":"Prosecka Vas",
+    "wof:parent_id":1108959935,
+    "wof:placetype":"locality",
+    "wof:population":128,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.13944,
+    46.78167,
+    16.13944,
+    46.78167
+],
+  "geometry": {"coordinates":[16.13944,46.78167],"type":"Point"}
+}

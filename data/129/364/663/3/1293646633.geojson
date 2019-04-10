@@ -1,0 +1,71 @@
+{
+  "id": 1293646633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.05934,46.62756,15.05934,46.62756",
+    "geom:latitude":46.62756,
+    "geom:longitude":15.05934,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Velka",
+    "gn:country_code":"SI",
+    "gn:dem":873,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988560,
+    "gn:latitude":46.62756,
+    "gn:longitude":15.05934,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Velka",
+    "gn:population":43,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959495,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988560,
+        "wk:page":"Velka"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f9bbfd4e9fa531d4830f34b609d920cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959495,
+            "locality_id":1293646633,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1293646633,
+    "wof:lastmodified":1537573515,
+    "wof:name":"Velka",
+    "wof:parent_id":1108959495,
+    "wof:placetype":"locality",
+    "wof:population":43,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.05934,
+    46.62756,
+    15.05934,
+    46.62756
+],
+  "geometry": {"coordinates":[15.05934,46.62756],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310338903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.18957,46.07,15.18957,46.07",
+    "geom:latitude":46.07,
+    "geom:longitude":15.18957,
+    "gn:admin1_code":"99",
+    "gn:asciiname":"Obrezje",
+    "gn:country_code":"SI",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987358,
+    "gn:latitude":46.07,
+    "gn:longitude":15.18957,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Obre\u017eje",
+    "gn:population":167,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Obre\u017eje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959883,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987358,
+        "wk:page":"Obre%C5%BEje%2C_Rade%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"59a8135ae979a2142dd3499e37338aff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959883,
+            "locality_id":1310338903,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1310338903,
+    "wof:lastmodified":1537700285,
+    "wof:name":"Obrezje",
+    "wof:parent_id":1108959883,
+    "wof:placetype":"locality",
+    "wof:population":167,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.18957,
+    46.07,
+    15.18957,
+    46.07
+],
+  "geometry": {"coordinates":[15.18957,46.07],"type":"Point"}
+}

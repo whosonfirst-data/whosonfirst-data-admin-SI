@@ -1,0 +1,75 @@
+{
+  "id": 1209749327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3,46.0,15.3,46.0",
+    "geom:latitude":46.0,
+    "geom:longitude":15.3,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Konjsko",
+    "gn:country_code":"SI",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197776,
+    "gn:latitude":46.0,
+    "gn:longitude":15.3,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Konjsko",
+    "gn:population":75,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Konjisko",
+        "Konjsko"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197776,
+        "wk:page":"Konjsko%2C_Sevnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5c34aa324d3e48555d3fba629245912c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1209749327,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1209749327,
+    "wof:lastmodified":1537700231,
+    "wof:name":"Konjsko",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":75,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3,
+    46.0,
+    15.3,
+    46.0
+],
+  "geometry": {"coordinates":[15.3,46.0],"type":"Point"}
+}

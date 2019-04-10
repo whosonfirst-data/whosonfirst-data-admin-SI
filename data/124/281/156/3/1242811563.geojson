@@ -1,0 +1,74 @@
+{
+  "id": 1242811563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.43861,46.13472,14.43861,46.13472",
+    "geom:latitude":46.13472,
+    "geom:longitude":14.43861,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Spodnje Pirnice",
+    "gn:country_code":"SI",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190213,
+    "gn:latitude":46.13472,
+    "gn:longitude":14.43861,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Spodnje Pirni\u010de",
+    "gn:population":796,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Spodnje Pirni\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959881,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190213,
+        "wk:page":"Spodnje_Pirni%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f9dd027a6dadd0219c10a15d86efb201",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959881,
+            "locality_id":1242811563,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1242811563,
+    "wof:lastmodified":1537700188,
+    "wof:name":"Spodnje Pirnice",
+    "wof:parent_id":1108959881,
+    "wof:placetype":"locality",
+    "wof:population":796,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.43861,
+    46.13472,
+    14.43861,
+    46.13472
+],
+  "geometry": {"coordinates":[14.43861,46.13472],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310436133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0875,46.52944,15.0875,46.52944",
+    "geom:latitude":46.52944,
+    "geom:longitude":15.0875,
+    "gn:admin1_code":"C2",
+    "gn:asciiname":"Troblje",
+    "gn:country_code":"SI",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188765,
+    "gn:latitude":46.52944,
+    "gn:longitude":15.0875,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Troblje",
+    "gn:population":311,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959645,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188765,
+        "wk:page":"Troblje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"026ab3909970c11831269183f32d5ae6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959645,
+            "locality_id":1310436133,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1310436133,
+    "wof:lastmodified":1537573391,
+    "wof:name":"Troblje",
+    "wof:parent_id":1108959645,
+    "wof:placetype":"locality",
+    "wof:population":311,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0875,
+    46.52944,
+    15.0875,
+    46.52944
+],
+  "geometry": {"coordinates":[15.0875,46.52944],"type":"Point"}
+}

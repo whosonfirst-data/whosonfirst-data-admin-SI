@@ -1,0 +1,71 @@
+{
+  "id": 1260116519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.97958,46.03822,14.97958,46.03822",
+    "geom:latitude":46.03822,
+    "geom:longitude":14.97958,
+    "gn:admin1_code":"I5",
+    "gn:asciiname":"Mala Goba",
+    "gn:country_code":"SI",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195856,
+    "gn:latitude":46.03822,
+    "gn:longitude":14.97958,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Mala Goba",
+    "gn:population":25,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959907,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195856,
+        "wk:page":"Mala_Goba"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d785d123e7efb0ad8900080106a01c08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959907,
+            "locality_id":1260116519,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1260116519,
+    "wof:lastmodified":1537573423,
+    "wof:name":"Mala Goba",
+    "wof:parent_id":1108959907,
+    "wof:placetype":"locality",
+    "wof:population":25,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.97958,
+    46.03822,
+    14.97958,
+    46.03822
+],
+  "geometry": {"coordinates":[14.97958,46.03822],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327164941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.77083,46.40368,15.77083,46.40368",
+    "geom:latitude":46.40368,
+    "geom:longitude":15.77083,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Strnisce",
+    "gn:country_code":"SI",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989510,
+    "gn:latitude":46.40368,
+    "gn:longitude":15.77083,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Strni\u0161\u010de",
+    "gn:population":110,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Strni\u0161\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959739,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989510,
+        "wk:page":"Strni%C5%A1%C4%8De%2C_Kidri%C4%8Devo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"633c250a8aa74e663247da4ab60e8563",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959739,
+            "locality_id":1327164941,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1327164941,
+    "wof:lastmodified":1537700327,
+    "wof:name":"Strnisce",
+    "wof:parent_id":1108959739,
+    "wof:placetype":"locality",
+    "wof:population":110,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.77083,
+    46.40368,
+    15.77083,
+    46.40368
+],
+  "geometry": {"coordinates":[15.77083,46.40368],"type":"Point"}
+}

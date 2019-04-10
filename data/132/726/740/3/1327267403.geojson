@@ -1,0 +1,77 @@
+{
+  "id": 1327267403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.22189,45.70658,14.22189,45.70658",
+    "geom:latitude":45.70658,
+    "geom:longitude":14.22189,
+    "gn:admin1_code":"91",
+    "gn:asciiname":"Slovenska Vas",
+    "gn:country_code":"SI",
+    "gn:dem":579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988565,
+    "gn:latitude":45.70658,
+    "gn:longitude":14.22189,
+    "gn:modification_date":"2015-10-22",
+    "gn:name":"Slovenska Vas",
+    "gn:population":43,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Nem\u0161ka vas"
+    ],
+    "name:slv_x_preferred":[
+        "Nem\u0161ka vas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959587,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988565,
+        "wk:page":"Slovenska_Vas%2C_Pivka"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"bac1076c79054b9d69311e54af03ca26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959587,
+            "locality_id":1327267403,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1327267403,
+    "wof:lastmodified":1537700309,
+    "wof:name":"Slovenska Vas",
+    "wof:parent_id":1108959587,
+    "wof:placetype":"locality",
+    "wof:population":43,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.22189,
+    45.70658,
+    14.22189,
+    45.70658
+],
+  "geometry": {"coordinates":[14.22189,45.70658],"type":"Point"}
+}

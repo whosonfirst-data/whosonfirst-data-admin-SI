@@ -1,0 +1,67 @@
+{
+  "id": 1276796543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.6256,46.11626,13.6256,46.11626",
+    "geom:latitude":46.11626,
+    "geom:longitude":13.6256,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Greben",
+    "gn:country_code":"SI",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10793989,
+    "gn:latitude":46.11626,
+    "gn:longitude":13.6256,
+    "gn:modification_date":"2015-10-01",
+    "gn:name":"Greben",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959537,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10793989
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d426f6cbc0b0cdf234a41c54469ed793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959537,
+            "locality_id":1276796543,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1276796543,
+    "wof:lastmodified":1536655338,
+    "wof:name":"Greben",
+    "wof:parent_id":1108959537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.6256,
+    46.11626,
+    13.6256,
+    46.11626
+],
+  "geometry": {"coordinates":[13.6256,46.11626],"type":"Point"}
+}

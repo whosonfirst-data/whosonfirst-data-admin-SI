@@ -1,0 +1,71 @@
+{
+  "id": 1276159749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.44946,46.19223,15.44946,46.19223",
+    "geom:latitude":46.19223,
+    "geom:longitude":15.44946,
+    "gn:admin1_code":"L7",
+    "gn:asciiname":"Tratna ob Voglajni",
+    "gn:country_code":"SI",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989044,
+    "gn:latitude":46.19223,
+    "gn:longitude":15.44946,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Tratna ob Voglajni",
+    "gn:population":21,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959791,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989044,
+        "wk:page":"Tratna_ob_Voglajni"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"961543267c45463c6f89365009be0196",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959791,
+            "locality_id":1276159749,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1276159749,
+    "wof:lastmodified":1537573530,
+    "wof:name":"Tratna ob Voglajni",
+    "wof:parent_id":1108959791,
+    "wof:placetype":"locality",
+    "wof:population":21,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.44946,
+    46.19223,
+    15.44946,
+    46.19223
+],
+  "geometry": {"coordinates":[15.44946,46.19223],"type":"Point"}
+}

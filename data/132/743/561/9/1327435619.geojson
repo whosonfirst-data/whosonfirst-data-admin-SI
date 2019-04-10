@@ -1,0 +1,76 @@
+{
+  "id": 1327435619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.98056,45.91861,13.98056,45.91861",
+    "geom:latitude":45.91861,
+    "geom:longitude":13.98056,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Krizna Gora",
+    "gn:country_code":"SI",
+    "gn:dem":1013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3197215,
+    "gn:latitude":45.91861,
+    "gn:longitude":13.98056,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kri\u017ena Gora",
+    "gn:population":10,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Crisna Gora",
+        "Kreuzberg",
+        "Kri\u017ena Gora"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959545,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197215,
+        "wk:page":"Kri%C5%BEna_Gora%2C_Ajdov%C5%A1%C4%8Dina"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2e16ea28aea4f02b73908f8b0da974ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959545,
+            "locality_id":1327435619,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1327435619,
+    "wof:lastmodified":1537700228,
+    "wof:name":"Krizna Gora",
+    "wof:parent_id":1108959545,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.98056,
+    45.91861,
+    13.98056,
+    45.91861
+],
+  "geometry": {"coordinates":[13.98056,45.91861],"type":"Point"}
+}

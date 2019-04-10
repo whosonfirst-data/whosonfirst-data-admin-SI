@@ -1,0 +1,74 @@
+{
+  "id": 1310136719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.80553,45.9625,14.80553,45.9625",
+    "geom:latitude":45.9625,
+    "geom:longitude":14.80553,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Gabrje pri Sticni",
+    "gn:country_code":"SI",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989485,
+    "gn:latitude":45.9625,
+    "gn:longitude":14.80553,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Gabrje pri Sti\u010dni",
+    "gn:population":179,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gabrje pri Sti\u010dni"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959583,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989485,
+        "wk:page":"Gabrje_pri_Sti%C4%8Dni"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c7c246eacb74d7e039bdf5ef3cc316a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959583,
+            "locality_id":1310136719,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1310136719,
+    "wof:lastmodified":1537700327,
+    "wof:name":"Gabrje pri Sticni",
+    "wof:parent_id":1108959583,
+    "wof:placetype":"locality",
+    "wof:population":179,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.80553,
+    45.9625,
+    14.80553,
+    45.9625
+],
+  "geometry": {"coordinates":[14.80553,45.9625],"type":"Point"}
+}

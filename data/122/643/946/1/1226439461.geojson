@@ -1,0 +1,73 @@
+{
+  "id": 1226439461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.69732,46.01529,15.69732,46.01529",
+    "geom:latitude":46.01529,
+    "geom:longitude":15.69732,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sveti Lovrenc",
+    "gn:country_code":"SI",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10793930,
+    "gn:latitude":46.01529,
+    "gn:longitude":15.69732,
+    "gn:modification_date":"2015-09-29",
+    "gn:name":"Sveti Lovrenc",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_historical":[
+        "Sankt Lorenzen"
+    ],
+    "name:deu_x_preferred":[
+        "Sankt Lorenzen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10793930
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"384ddfb9a5f0b6a51f6a11dda3f99a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1226439461,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1226439461,
+    "wof:lastmodified":1537700335,
+    "wof:name":"Sveti Lovrenc",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.69732,
+    46.01529,
+    15.69732,
+    46.01529
+],
+  "geometry": {"coordinates":[15.69732,46.01529],"type":"Point"}
+}

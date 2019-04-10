@@ -1,0 +1,71 @@
+{
+  "id": 1277030937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.67722,46.09194,14.67722,46.09194",
+    "geom:latitude":46.09194,
+    "geom:longitude":14.67722,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Dolsko",
+    "gn:country_code":"SI",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201747,
+    "gn:latitude":46.09194,
+    "gn:longitude":14.67722,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Dolsko",
+    "gn:population":595,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959861,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201747,
+        "wk:page":"Dolsko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e2b9da7f9ea16b052788f37f3d2bafce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959861,
+            "locality_id":1277030937,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1277030937,
+    "wof:lastmodified":1537573443,
+    "wof:name":"Dolsko",
+    "wof:parent_id":1108959861,
+    "wof:placetype":"locality",
+    "wof:population":595,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.67722,
+    46.09194,
+    14.67722,
+    46.09194
+],
+  "geometry": {"coordinates":[14.67722,46.09194],"type":"Point"}
+}

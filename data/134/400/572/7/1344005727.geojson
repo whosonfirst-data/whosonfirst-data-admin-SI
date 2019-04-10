@@ -1,0 +1,71 @@
+{
+  "id": 1344005727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.08333,46.15,14.08333,46.15",
+    "geom:latitude":46.15,
+    "geom:longitude":14.08333,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Leskovica",
+    "gn:country_code":"SI",
+    "gn:dem":868,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196640,
+    "gn:latitude":46.15,
+    "gn:longitude":14.08333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Leskovica",
+    "gn:population":105,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959897,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196640,
+        "wk:page":"Leskovica%2C_Gorenja_Vas%E2%80%93Poljane"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a8865972d742d45a58e1df71b27219a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959897,
+            "locality_id":1344005727,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1344005727,
+    "wof:lastmodified":1537573426,
+    "wof:name":"Leskovica",
+    "wof:parent_id":1108959897,
+    "wof:placetype":"locality",
+    "wof:population":105,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.08333,
+    46.15,
+    14.08333,
+    46.15
+],
+  "geometry": {"coordinates":[14.08333,46.15],"type":"Point"}
+}

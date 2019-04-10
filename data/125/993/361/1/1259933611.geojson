@@ -1,0 +1,75 @@
+{
+  "id": 1259933611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.93111,45.63,13.93111,45.63",
+    "geom:latitude":45.63,
+    "geom:longitude":13.93111,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Vrhpolje",
+    "gn:country_code":"SI",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187185,
+    "gn:latitude":45.63,
+    "gn:longitude":13.93111,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Vrhpolje",
+    "gn:population":68,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Verpoglie",
+        "Vrhpolje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959549,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187185,
+        "wk:page":"Vrhpolje%2C_Hrpelje%E2%80%93Kozina"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"103dec97fc1c26e6cc33ea5f8e79fbb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959549,
+            "locality_id":1259933611,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1259933611,
+    "wof:lastmodified":1537700173,
+    "wof:name":"Vrhpolje",
+    "wof:parent_id":1108959549,
+    "wof:placetype":"locality",
+    "wof:population":68,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.93111,
+    45.63,
+    13.93111,
+    45.63
+],
+  "geometry": {"coordinates":[13.93111,45.63],"type":"Point"}
+}

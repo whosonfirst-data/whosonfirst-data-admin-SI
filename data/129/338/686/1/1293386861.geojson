@@ -1,0 +1,74 @@
+{
+  "id": 1293386861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.56469,46.01073,13.56469,46.01073",
+    "geom:latitude":46.01073,
+    "geom:longitude":13.56469,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Gonjace",
+    "gn:country_code":"SI",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987330,
+    "gn:latitude":46.01073,
+    "gn:longitude":13.56469,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Gonja\u010de",
+    "gn:population":172,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gonja\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959811,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987330,
+        "wk:page":"Gonja%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"75476ed8c08629ce0eb0b552b6c57614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959811,
+            "locality_id":1293386861,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1293386861,
+    "wof:lastmodified":1537700284,
+    "wof:name":"Gonjace",
+    "wof:parent_id":1108959811,
+    "wof:placetype":"locality",
+    "wof:population":172,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.56469,
+    46.01073,
+    13.56469,
+    46.01073
+],
+  "geometry": {"coordinates":[13.56469,46.01073],"type":"Point"}
+}

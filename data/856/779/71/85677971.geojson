@@ -1,0 +1,177 @@
+{
+  "id": 85677971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.018545,
+    "geom:area_square_m":157945041.864006,
+    "geom:bbox":"14.6725458405,46.4214562043,14.9656295102,46.5194009475",
+    "geom:latitude":46.46641,
+    "geom:longitude":14.828929,
+    "iso:country":"SI",
+    "lbl:latitude":46.470641,
+    "lbl:longitude":14.817066,
+    "mps:latitude":46.470641,
+    "mps:longitude":14.817066,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ces_x_preferred":[
+        "Ob\u010dina \u010crna na Koro\u0161kem"
+    ],
+    "name:deu_x_preferred":[
+        "\u010crna na Koro\u0161kem"
+    ],
+    "name:fra_x_preferred":[
+        "\u010crna na Koro\u0161kem"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina \u010crna na Koro\u0161kem"
+    ],
+    "name:hun_x_preferred":[
+        "\u010crna na Koro\u0161kem"
+    ],
+    "name:ita_x_preferred":[
+        "\u010crna na Koro\u0161kem"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e5\u30eb\u30ca\u30fb\u30ca\u30fb\u30b3\u30ed\u30b7\u30e5\u30b1\u30e0"
+    ],
+    "name:kor_x_preferred":[
+        "\uce58\ub974\ub098\ub098\ucf54\ub85c\uc288\ucf10"
+    ],
+    "name:nld_x_preferred":[
+        "\u010crna na Koro\u0161kem"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina \u010crna na Koro\u0161kem"
+    ],
+    "name:und_x_preferred":[
+        "Ravne Na Koroskem"
+    ],
+    "name:unk_x_variant":[
+        "Ob\u010dina \u010crna na Koro\u0161kem"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-944",
+    "ne:adm1_code":"SVN-944",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SI.KO.CK",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"944",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SI16",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.16",
+    "ne:gn_id":"3239181",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Crna na Koroskem",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI16",
+    "ne:gns_id":"243850",
+    "ne:gns_lang":"slv",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Crna na Koroskem, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"46.47040000000",
+    "ne:longitude":"14.81900000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"\u010crna na Koro\u0161kem",
+    "ne:name_alt":"",
+    "ne:name_len":16,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"CK",
+    "ne:provnum_ne":"64",
+    "ne:region":"Koro\u0161ka",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":-55848380,
+    "ne:woe_label":"",
+    "ne:woe_name":"",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"\u010crna na Koro\u0161kem",
+    "qs:a1_lc":"SVN-944",
+    "qs:a1r":"Koro\u0161ka",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "qs:woeid":55848380,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":166,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SI16",
+        "gn:id":3239181,
+        "gp:id":-55848380,
+        "hasc:id":"SI.KO.CK",
+        "wd:id":"Q279072"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6a8f5444c20ee15e5daed41614ffaa54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677971
+        }
+    ],
+    "wof:id":85677971,
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616733,
+    "wof:name":"\u010crna na Koro\u0161kem",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[
+        1108959573
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.67254584051818,
+    46.42145620434042,
+    14.96562951019376,
+    46.5194009474958
+],
+  "geometry": {"coordinates":[[[14.88615115725014,46.49649038292489],[14.8946777689639,46.49773061817353],[14.89953535267443,46.50444855385774],[14.92402998219796,46.50478445154124],[14.94061811673276,46.49240794557028],[14.94340864379393,46.49080597601505],[14.96562951019376,46.48946238887822],[14.95632775212414,46.45985179322571],[14.95586266413068,46.44724274415739],[14.94201338071298,46.44000804273702],[14.89173221227185,46.42354909941145],[14.80408898282036,46.42512523054501],[14.77566694467379,46.4318948430726],[14.76993086092057,46.43127472634762],[14.75458296073509,46.42145620434042],[14.73365400642729,46.44238515954754],[14.72213016117803,46.44799205209159],[14.67577640135988,46.45434825346916],[14.67254584051818,46.45979050622691],[14.6799613848101,46.45887074798668],[14.68709273344297,46.4712214164353],[14.69877160742379,46.48096242317735],[14.70373254392183,46.48775787412666],[14.7097270100935,46.492512105949],[14.72636682147169,46.49770558734303],[14.73525516749203,46.49333892824899],[14.76088667767806,46.4962844849411],[14.78300419129044,46.50326080394302],[14.78858524541278,46.50664561020682],[14.79666250367166,46.5194009474958],[14.81292565289664,46.51721263345632],[14.83137413940506,46.51354360635241],[14.85157962420033,46.50227814442087],[14.87343875539432,46.49731720612419],[14.88615115725014,46.49649038292489]]],"type":"Polygon"}
+}

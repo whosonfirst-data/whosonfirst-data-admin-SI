@@ -1,0 +1,71 @@
+{
+  "id": 1310142331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.35,46.33333,14.35,46.33333",
+    "geom:latitude":46.33333,
+    "geom:longitude":14.35,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Zalog",
+    "gn:country_code":"SI",
+    "gn:dem":687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186829,
+    "gn:latitude":46.33333,
+    "gn:longitude":14.35,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Zalog",
+    "gn:population":112,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959933,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186829,
+        "wk:page":"Zalog%2C_Kranj"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9c9c559a3c163f7eb743bd14d9611cce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959933,
+            "locality_id":1310142331,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1310142331,
+    "wof:lastmodified":1537573384,
+    "wof:name":"Zalog",
+    "wof:parent_id":1108959933,
+    "wof:placetype":"locality",
+    "wof:population":112,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.35,
+    46.33333,
+    14.35,
+    46.33333
+],
+  "geometry": {"coordinates":[14.35,46.33333],"type":"Point"}
+}

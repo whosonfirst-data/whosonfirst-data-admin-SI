@@ -1,0 +1,71 @@
+{
+  "id": 1226476171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.37117,46.40099,15.37117,46.40099",
+    "geom:latitude":46.40099,
+    "geom:longitude":15.37117,
+    "gn:admin1_code":"F3",
+    "gn:asciiname":"Boharina",
+    "gn:country_code":"SI",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203811,
+    "gn:latitude":46.40099,
+    "gn:longitude":15.37117,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Boharina",
+    "gn:population":227,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959671,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203811,
+        "wk:page":"Boharina"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"df9399a02e083d74bd5baddede7f5da0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959671,
+            "locality_id":1226476171,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1226476171,
+    "wof:lastmodified":1537573452,
+    "wof:name":"Boharina",
+    "wof:parent_id":1108959671,
+    "wof:placetype":"locality",
+    "wof:population":227,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.37117,
+    46.40099,
+    15.37117,
+    46.40099
+],
+  "geometry": {"coordinates":[15.37117,46.40099],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293577325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.32778,46.26825,15.32778,46.26825",
+    "geom:latitude":46.26825,
+    "geom:longitude":15.32778,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Smiklavz pri Skofji Vasi",
+    "gn:country_code":"SI",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987216,
+    "gn:latitude":46.26825,
+    "gn:longitude":15.32778,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160miklav\u017e pri \u0160kofji Vasi",
+    "gn:population":215,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160miklav\u017e pri \u0160kofji Vasi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959693,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987216,
+        "wk:page":"%C5%A0miklav%C5%BE_pri_%C5%A0kofji_Vasi"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"dd36c5d7d4d2de1a4143c5f5c303fb45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959693,
+            "locality_id":1293577325,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1293577325,
+    "wof:lastmodified":1537700282,
+    "wof:name":"Smiklavz pri Skofji Vasi",
+    "wof:parent_id":1108959693,
+    "wof:placetype":"locality",
+    "wof:population":215,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.32778,
+    46.26825,
+    15.32778,
+    46.26825
+],
+  "geometry": {"coordinates":[15.32778,46.26825],"type":"Point"}
+}

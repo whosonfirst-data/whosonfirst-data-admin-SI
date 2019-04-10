@@ -1,0 +1,76 @@
+{
+  "id": 1192979639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.99583,46.65472,15.99583,46.65472",
+    "geom:latitude":46.65472,
+    "geom:longitude":15.99583,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Cresnjevci",
+    "gn:country_code":"SI",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202518,
+    "gn:latitude":46.65472,
+    "gn:longitude":15.99583,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u010cre\u0161njevci",
+    "gn:population":817,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010crenjevci",
+        "\u010cre\u0161novci",
+        "\u010cre\u0161njevci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959817,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202518,
+        "wk:page":"%C4%8Cre%C5%A1njevci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"94b5ed090acb0bc4ddf0d3b997e839a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959817,
+            "locality_id":1192979639,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1192979639,
+    "wof:lastmodified":1537700257,
+    "wof:name":"Cresnjevci",
+    "wof:parent_id":1108959817,
+    "wof:placetype":"locality",
+    "wof:population":817,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.99583,
+    46.65472000000001,
+    15.99583,
+    46.65472000000001
+],
+  "geometry": {"coordinates":[15.99583,46.65472000000001],"type":"Point"}
+}

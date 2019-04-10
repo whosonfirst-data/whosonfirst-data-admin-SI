@@ -1,0 +1,65 @@
+{
+  "id": 1209102925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.65969,45.97539,15.65969,45.97539",
+    "geom:latitude":45.97539,
+    "geom:longitude":15.65969,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Brezje pri Bojsnem",
+    "gn:country_code":"SI",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988149,
+    "gn:latitude":45.97539,
+    "gn:longitude":15.65969,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Brezje pri Bojsnem",
+    "gn:population":69,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988149,
+        "wk:page":"Brezje_pri_Bojsnem"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"37590cc0a5df2960198437ead2ba517f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209102925
+        }
+    ],
+    "wof:id":1209102925,
+    "wof:lastmodified":1537573503,
+    "wof:name":"Brezje pri Bojsnem",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":69,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.65969,
+    45.97539,
+    15.65969,
+    45.97539
+],
+  "geometry": {"coordinates":[15.65969,45.97539],"type":"Point"}
+}

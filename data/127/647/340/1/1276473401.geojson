@@ -1,0 +1,74 @@
+{
+  "id": 1276473401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.96895,46.32229,15.96895,46.32229",
+    "geom:latitude":46.32229,
+    "geom:longitude":15.96895,
+    "gn:admin1_code":"N2",
+    "gn:asciiname":"Mali Okic",
+    "gn:country_code":"SI",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987809,
+    "gn:latitude":46.32229,
+    "gn:longitude":15.96895,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Mali Oki\u010d",
+    "gn:population":102,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mali Oki\u010d"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959747,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987809,
+        "wk:page":"Mali_Oki%C4%8D"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"cd0d7dc87e366b2c7b51d5870d1f9a65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959747,
+            "locality_id":1276473401,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1276473401,
+    "wof:lastmodified":1537700294,
+    "wof:name":"Mali Okic",
+    "wof:parent_id":1108959747,
+    "wof:placetype":"locality",
+    "wof:population":102,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.96895,
+    46.32229,
+    15.96895,
+    46.32229
+],
+  "geometry": {"coordinates":[15.96895,46.32229],"type":"Point"}
+}

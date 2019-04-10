@@ -1,0 +1,108 @@
+{
+  "id": 1125994161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.76667,46.48333,14.76667,46.48333",
+    "geom:latitude":46.48333,
+    "geom:longitude":14.76667,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":33,
+    "iso:country":"SI",
+    "lbl:latitude":46.48333,
+    "lbl:longitude":14.76667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Topla"
+    ],
+    "name:eng_x_preferred":[
+        "Topla"
+    ],
+    "name:rum_x_preferred":[
+        "Topla"
+    ],
+    "name:slv_x_preferred":[
+        "Topla"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u043f\u043b\u0430"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3188993,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Topla",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Ravne Na Koroskem",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1189386,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":531895,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Ravne Na Koroskem",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959573,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188993,
+        "gp:id":531895,
+        "qs_pg:id":1189386,
+        "wd:id":"Q6509063"
+    },
+    "wof:country":"SI",
+    "wof:created":1497299206,
+    "wof:geomhash":"94c29b3b7a8e24c2c9039f9acc97c73f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959573,
+            "locality_id":1125994161,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1125994161,
+    "wof:lastmodified":1531170445,
+    "wof:name":"Topla",
+    "wof:parent_id":1108959573,
+    "wof:placetype":"locality",
+    "wof:population":33,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.76667,
+    46.48333,
+    14.76667,
+    46.48333
+],
+  "geometry": {"coordinates":[14.76667,46.48333],"type":"Point"}
+}

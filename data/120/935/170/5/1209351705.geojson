@@ -1,0 +1,65 @@
+{
+  "id": 1209351705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.16846,45.63492,15.16846,45.63492",
+    "geom:latitude":45.63492,
+    "geom:longitude":15.16846,
+    "gn:admin1_code":"B1",
+    "gn:asciiname":"Trebnji Vrh",
+    "gn:country_code":"SI",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989217,
+    "gn:latitude":45.63492,
+    "gn:longitude":15.16846,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Trebnji Vrh",
+    "gn:population":13,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989217,
+        "wk:page":"Trebnji_Vrh"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d987092d4edb098bcaa3b7386aa55557",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209351705
+        }
+    ],
+    "wof:id":1209351705,
+    "wof:lastmodified":1537573535,
+    "wof:name":"Trebnji Vrh",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":13,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.16846,
+    45.63492,
+    15.16846,
+    45.63492
+],
+  "geometry": {"coordinates":[15.16846,45.63492],"type":"Point"}
+}

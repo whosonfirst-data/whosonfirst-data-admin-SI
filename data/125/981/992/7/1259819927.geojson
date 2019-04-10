@@ -1,0 +1,75 @@
+{
+  "id": 1259819927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.12551,45.71888,15.12551,45.71888",
+    "geom:latitude":45.71888,
+    "geom:longitude":15.12551,
+    "gn:admin1_code":"J7",
+    "gn:asciiname":"Ursna Sela",
+    "gn:country_code":"SI",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188469,
+    "gn:latitude":45.71888,
+    "gn:longitude":15.12551,
+    "gn:modification_date":"2016-02-26",
+    "gn:name":"Ur\u0161na Sela",
+    "gn:population":626,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vr\u0161na Sela",
+        "Ur\u0161na Sela"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959465,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188469,
+        "wk:page":"Ur%C5%A1na_Sela"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c4f040f41025be28a1af9c1fff80afbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959465,
+            "locality_id":1259819927,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1259819927,
+    "wof:lastmodified":1537700180,
+    "wof:name":"Ursna Sela",
+    "wof:parent_id":1108959465,
+    "wof:placetype":"locality",
+    "wof:population":626,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.12551,
+    45.71888,
+    15.12551,
+    45.71888
+],
+  "geometry": {"coordinates":[15.12551,45.71888],"type":"Point"}
+}

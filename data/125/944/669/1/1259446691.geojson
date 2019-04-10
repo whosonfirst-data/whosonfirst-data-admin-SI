@@ -1,0 +1,74 @@
+{
+  "id": 1259446691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.15456,45.57194,15.15456,45.57194",
+    "geom:latitude":45.57194,
+    "geom:longitude":15.15456,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Jelsevnik",
+    "gn:country_code":"SI",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987631,
+    "gn:latitude":45.57194,
+    "gn:longitude":15.15456,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Jel\u0161evnik",
+    "gn:population":121,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jel\u0161evnik"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959699,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987631,
+        "wk:page":"Jel%C5%A1evnik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8ca2c9d138c1949ca506ccd752c0fc74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959699,
+            "locality_id":1259446691,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1259446691,
+    "wof:lastmodified":1537700290,
+    "wof:name":"Jelsevnik",
+    "wof:parent_id":1108959699,
+    "wof:placetype":"locality",
+    "wof:population":121,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.15456,
+    45.57194000000001,
+    15.15456,
+    45.57194000000001
+],
+  "geometry": {"coordinates":[15.15456,45.57194000000001],"type":"Point"}
+}

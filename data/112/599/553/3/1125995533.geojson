@@ -1,0 +1,110 @@
+{
+  "id": 1125995533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.871955,45.960219,13.871955,45.960219",
+    "geom:latitude":45.960219,
+    "geom:longitude":13.871955,
+    "gn:gn_country":null,
+    "iso:country":"SI",
+    "lbl:latitude":45.960219,
+    "lbl:longitude":13.871955,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Predmeja"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0440\u0435\u0434\u043c\u0435\u044f"
+    ],
+    "name:dut_x_preferred":[
+        "Predmeja"
+    ],
+    "name:eng_x_preferred":[
+        "Predmeja"
+    ],
+    "name:hun_x_preferred":[
+        "Predmeja"
+    ],
+    "name:pol_x_preferred":[
+        "Predmeja"
+    ],
+    "name:rum_x_preferred":[
+        "Predmeja"
+    ],
+    "name:slv_x_preferred":[
+        "Predmeja"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0435\u0434\u043c\u0435\u044f"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Predmeja",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Ajdovscina",
+    "qs_pg:photos":71,
+    "qs_pg:photos_1k":14,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":71,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1327061,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":531226,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Ajdovscina",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959545,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":531226,
+        "qs_pg:id":1327061,
+        "wd:id":"Q2668944"
+    },
+    "wof:country":"SI",
+    "wof:created":1497299306,
+    "wof:geomhash":"3aca7b3a40bf89f169af4182faeb5757",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959545,
+            "locality_id":1125995533,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1125995533,
+    "wof:lastmodified":1531170229,
+    "wof:name":"Predmeja",
+    "wof:parent_id":1108959545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.871955,
+    45.960219,
+    13.871955,
+    45.960219
+],
+  "geometry": {"coordinates":[13.871955,45.960219],"type":"Point"}
+}

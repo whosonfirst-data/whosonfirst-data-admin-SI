@@ -1,0 +1,71 @@
+{
+  "id": 1293619515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.18618,46.29065,15.18618,46.29065",
+    "geom:latitude":46.29065,
+    "geom:longitude":15.18618,
+    "gn:admin1_code":"N5",
+    "gn:asciiname":"Pernovo",
+    "gn:country_code":"SI",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986915,
+    "gn:latitude":46.29065,
+    "gn:longitude":15.18618,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Pernovo",
+    "gn:population":507,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959929,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986915,
+        "wk:page":"Pernovo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"976d434b1357fa26e97003327a233243",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959929,
+            "locality_id":1293619515,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1293619515,
+    "wof:lastmodified":1537573464,
+    "wof:name":"Pernovo",
+    "wof:parent_id":1108959929,
+    "wof:placetype":"locality",
+    "wof:population":507,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.18618,
+    46.29065,
+    15.18618,
+    46.29065
+],
+  "geometry": {"coordinates":[15.18618,46.29065],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1193054807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.61159,46.24758,15.61159,46.24758",
+    "geom:latitude":46.24758,
+    "geom:longitude":15.61159,
+    "gn:admin1_code":"A7",
+    "gn:asciiname":"Gradiski Dol",
+    "gn:country_code":"SI",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988819,
+    "gn:latitude":46.24758,
+    "gn:longitude":15.61159,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Gradi\u0161ki Dol",
+    "gn:population":31,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gradi\u0161ki Dol"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959803,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988819,
+        "wk:page":"Gradi%C5%A1ki_Dol"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d4173aa8167edd1ee5bd8ae0135e6ed9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959803,
+            "locality_id":1193054807,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1193054807,
+    "wof:lastmodified":1537700314,
+    "wof:name":"Gradiski Dol",
+    "wof:parent_id":1108959803,
+    "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.61159,
+    46.24758,
+    15.61159,
+    46.24758
+],
+  "geometry": {"coordinates":[15.61159,46.24758],"type":"Point"}
+}

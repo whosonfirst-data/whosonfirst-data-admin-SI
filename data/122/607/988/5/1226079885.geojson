@@ -1,0 +1,75 @@
+{
+  "id": 1226079885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.9125,45.50139,13.9125,45.50139",
+    "geom:latitude":45.50139,
+    "geom:longitude":13.9125,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Dol pri Hrastovljah",
+    "gn:country_code":"SI",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201749,
+    "gn:latitude":45.50139,
+    "gn:longitude":13.9125,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Dol pri Hrastovljah",
+    "gn:population":107,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dol",
+        "Dol pri Hrastovljah"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959527,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201749,
+        "wk:page":"Dol_pri_Hrastovljah"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"22126b58ab068119dbf45bd3bbaa043c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959527,
+            "locality_id":1226079885,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1226079885,
+    "wof:lastmodified":1537700251,
+    "wof:name":"Dol pri Hrastovljah",
+    "wof:parent_id":1108959527,
+    "wof:placetype":"locality",
+    "wof:population":107,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.9125,
+    45.50139,
+    13.9125,
+    45.50139
+],
+  "geometry": {"coordinates":[13.9125,45.50139],"type":"Point"}
+}

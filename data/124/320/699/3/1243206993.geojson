@@ -1,0 +1,75 @@
+{
+  "id": 1243206993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.99513,45.97936,14.99513,45.97936",
+    "geom:latitude":45.97936,
+    "geom:longitude":14.99513,
+    "gn:admin1_code":"I5",
+    "gn:asciiname":"Brezje pri Kumpolju",
+    "gn:country_code":"SI",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203389,
+    "gn:latitude":45.97936,
+    "gn:longitude":14.99513,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Brezje pri Kumpolju",
+    "gn:population":10,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brezje",
+        "Brezje pri Kumpolju"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959907,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203389,
+        "wk:page":"Brezje_pri_Kumpolju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"927255bbb666d03f51bc22dbbc9824f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959907,
+            "locality_id":1243206993,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1243206993,
+    "wof:lastmodified":1537700262,
+    "wof:name":"Brezje pri Kumpolju",
+    "wof:parent_id":1108959907,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.99513,
+    45.97936,
+    14.99513,
+    45.97936
+],
+  "geometry": {"coordinates":[14.99513,45.97936],"type":"Point"}
+}

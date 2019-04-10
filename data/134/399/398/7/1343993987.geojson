@@ -1,0 +1,74 @@
+{
+  "id": 1343993987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.98521,45.87825,14.98521,45.87825",
+    "geom:latitude":45.87825,
+    "geom:longitude":14.98521,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Lokve pri Dobrnicu",
+    "gn:country_code":"SI",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989621,
+    "gn:latitude":45.87825,
+    "gn:longitude":14.98521,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Lokve pri Dobrni\u010du",
+    "gn:population":26,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lokve pri Dobrni\u010du"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959839,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989621,
+        "wk:page":"Lokve_pri_Dobrni%C4%8Du"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c682e85fabc04044181735619c206fe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959839,
+            "locality_id":1343993987,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1343993987,
+    "wof:lastmodified":1537700330,
+    "wof:name":"Lokve pri Dobrnicu",
+    "wof:parent_id":1108959839,
+    "wof:placetype":"locality",
+    "wof:population":26,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.98521,
+    45.87825,
+    14.98521,
+    45.87825
+],
+  "geometry": {"coordinates":[14.98521,45.87825],"type":"Point"}
+}

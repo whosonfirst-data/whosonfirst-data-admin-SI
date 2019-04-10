@@ -1,0 +1,110 @@
+{
+  "id": 1125946991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.54033,46.03535,15.54033,46.03535",
+    "geom:latitude":46.03535,
+    "geom:longitude":15.54033,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":144,
+    "gn:population":142,
+    "iso:country":"SI",
+    "lbl:latitude":46.03535,
+    "lbl:longitude":15.54033,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Koprivnica"
+    ],
+    "name:eng_x_preferred":[
+        "Koprivnica"
+    ],
+    "name:hrv_x_preferred":[
+        "Koprivnica"
+    ],
+    "name:pol_x_preferred":[
+        "Koprivnica"
+    ],
+    "name:rum_x_preferred":[
+        "Koprivnica"
+    ],
+    "name:slv_x_preferred":[
+        "Koprivnica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043f\u0440\u0438\u0432\u043d\u0438\u0446\u044f"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6956392,
+    "qs_pg:gn_pop":144,
+    "qs_pg:name":"Koprivnica",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Krsko",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":497340,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":15001048,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Krsko",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6956392,
+        "gp:id":15001048,
+        "qs_pg:id":497340,
+        "wd:id":"Q3440579"
+    },
+    "wof:country":"SI",
+    "wof:created":1497297320,
+    "wof:geomhash":"ae2020137a83b48293db0f3cbe8bd9c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1125946991,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1125946991,
+    "wof:lastmodified":1531170979,
+    "wof:name":"Koprivnica",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":142,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.54033,
+    46.03535,
+    15.54033,
+    46.03535
+],
+  "geometry": {"coordinates":[15.54033,46.03535],"type":"Point"}
+}

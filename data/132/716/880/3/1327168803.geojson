@@ -1,0 +1,72 @@
+{
+  "id": 1327168803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.6,46.05,14.6,46.05",
+    "geom:latitude":46.05,
+    "geom:longitude":14.6,
+    "gn:admin1_code":"61",
+    "gn:asciiname":"Vevce",
+    "gn:country_code":"SI",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187823,
+    "gn:latitude":46.05,
+    "gn:longitude":14.6,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Vev\u010de",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vel\u010de",
+        "Vev\u010de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959501,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187823,
+        "wk:page":"Vev%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"321dcd7f53fd35297128700d8ce7da39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959501,
+            "locality_id":1327168803,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1327168803,
+    "wof:lastmodified":1537700176,
+    "wof:name":"Vevce",
+    "wof:parent_id":1108959501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.6,
+    46.05,
+    14.6,
+    46.05
+],
+  "geometry": {"coordinates":[14.6,46.05],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276767607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.37411,45.90144,14.37411,45.90144",
+    "geom:latitude":45.90144,
+    "geom:longitude":14.37411,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ohonica",
+    "gn:country_code":"SI",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988021,
+    "gn:latitude":45.90144,
+    "gn:longitude":14.37411,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ohonica",
+    "gn:population":80,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959871,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988021,
+        "wk:page":"Ohonica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"62e8e77f72c0aff1cba4aad1407dcd92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959871,
+            "locality_id":1276767607,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1276767607,
+    "wof:lastmodified":1537573499,
+    "wof:name":"Ohonica",
+    "wof:parent_id":1108959871,
+    "wof:placetype":"locality",
+    "wof:population":80,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.37411,
+    45.90144,
+    14.37411,
+    45.90144
+],
+  "geometry": {"coordinates":[14.37411,45.90144],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1360121739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.2747,45.91906,15.2747,45.91906",
+    "geom:latitude":45.91906,
+    "geom:longitude":15.2747,
+    "gn:admin1_code":"B8",
+    "gn:asciiname":"Goriska Vas pri Skocjanu",
+    "gn:country_code":"SI",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988273,
+    "gn:latitude":45.91906,
+    "gn:longitude":15.2747,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Gori\u0161ka Vas pri \u0160kocjanu",
+    "gn:population":60,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gori\u0161ka Vas pri \u0160kocjanu"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959605,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988273,
+        "wk:page":"Gori%C5%A1ka_Vas_pri_%C5%A0kocjanu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ad24c287b6f447a9eaed3e5922212562",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959605,
+            "locality_id":1360121739,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1360121739,
+    "wof:lastmodified":1537700303,
+    "wof:name":"Goriska Vas pri Skocjanu",
+    "wof:parent_id":1108959605,
+    "wof:placetype":"locality",
+    "wof:population":60,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.2747,
+    45.91906,
+    15.2747,
+    45.91906
+],
+  "geometry": {"coordinates":[15.2747,45.91906],"type":"Point"}
+}

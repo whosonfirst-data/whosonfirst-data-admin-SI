@@ -1,0 +1,74 @@
+{
+  "id": 1243002363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.25784,46.52166,16.25784,46.52166",
+    "geom:latitude":46.52166,
+    "geom:longitude":16.25784,
+    "gn:admin1_code":"K9",
+    "gn:asciiname":"Vescica",
+    "gn:country_code":"SI",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987001,
+    "gn:latitude":46.52166,
+    "gn:longitude":16.25784,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Ve\u0161\u010dica",
+    "gn:population":357,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ve\u0161\u010dica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959853,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987001,
+        "wk:page":"Ve%C5%A1%C4%8Dica%2C_Razkri%C5%BEje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f58fb88579685ca66a3f3df4b7ac85b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959853,
+            "locality_id":1243002363,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1243002363,
+    "wof:lastmodified":1537700278,
+    "wof:name":"Vescica",
+    "wof:parent_id":1108959853,
+    "wof:placetype":"locality",
+    "wof:population":357,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.25784,
+    46.52166,
+    16.25784,
+    46.52166
+],
+  "geometry": {"coordinates":[16.25784,46.52166],"type":"Point"}
+}

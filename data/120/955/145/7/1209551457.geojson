@@ -1,0 +1,68 @@
+{
+  "id": 1209551457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.88694,46.5275,15.88694,46.5275",
+    "geom:latitude":46.5275,
+    "geom:longitude":15.88694,
+    "gn:admin1_code":"M7",
+    "gn:asciiname":"Bis",
+    "gn:country_code":"SI",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204107,
+    "gn:latitude":46.5275,
+    "gn:longitude":15.88694,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Bi\u0161",
+    "gn:population":329,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bi\u0161"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204107,
+        "wk:page":"Bi%C5%A1"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3268a6bd222370cc371e6dc2b703f38b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209551457
+        }
+    ],
+    "wof:id":1209551457,
+    "wof:lastmodified":1537700265,
+    "wof:name":"Bis",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":329,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.88694,
+    46.5275,
+    15.88694,
+    46.5275
+],
+  "geometry": {"coordinates":[15.88694,46.5275],"type":"Point"}
+}

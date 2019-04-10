@@ -1,0 +1,71 @@
+{
+  "id": 1343591515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.23694,46.52417,16.23694,46.52417",
+    "geom:latitude":46.52417,
+    "geom:longitude":16.23694,
+    "gn:admin1_code":"I6",
+    "gn:asciiname":"Pristava",
+    "gn:country_code":"SI",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192358,
+    "gn:latitude":46.52417,
+    "gn:longitude":16.23694,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Pristava",
+    "gn:population":275,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959499,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192358,
+        "wk:page":"Pristava%2C_Ljutomer"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a41c599c16b63b59a13dab1fdcc35e13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959499,
+            "locality_id":1343591515,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1343591515,
+    "wof:lastmodified":1537573408,
+    "wof:name":"Pristava",
+    "wof:parent_id":1108959499,
+    "wof:placetype":"locality",
+    "wof:population":275,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.23694,
+    46.52417,
+    16.23694,
+    46.52417
+],
+  "geometry": {"coordinates":[16.23694,46.52417],"type":"Point"}
+}

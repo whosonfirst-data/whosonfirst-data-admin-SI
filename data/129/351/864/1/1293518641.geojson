@@ -1,0 +1,74 @@
+{
+  "id": 1293518641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.15518,46.00623,14.15518,46.00623",
+    "geom:latitude":46.00623,
+    "geom:longitude":14.15518,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Hlevise",
+    "gn:country_code":"SI",
+    "gn:dem":719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988186,
+    "gn:latitude":46.00623,
+    "gn:longitude":14.15518,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Hlevi\u0161e",
+    "gn:population":66,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hlevi\u0161e"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959889,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988186,
+        "wk:page":"Hlevi%C5%A1e"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"bb20d6cb3c2e813f7ba0316690110a8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959889,
+            "locality_id":1293518641,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1293518641,
+    "wof:lastmodified":1537700301,
+    "wof:name":"Hlevise",
+    "wof:parent_id":1108959889,
+    "wof:placetype":"locality",
+    "wof:population":66,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.15518,
+    46.00623,
+    14.15518,
+    46.00623
+],
+  "geometry": {"coordinates":[14.15518,46.00623],"type":"Point"}
+}

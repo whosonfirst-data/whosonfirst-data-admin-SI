@@ -1,0 +1,75 @@
+{
+  "id": 1226378503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.17972,46.53944,16.17972,46.53944",
+    "geom:latitude":46.53944,
+    "geom:longitude":16.17972,
+    "gn:admin1_code":"I6",
+    "gn:asciiname":"Norsinci pri Ljutomeru",
+    "gn:country_code":"SI",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194467,
+    "gn:latitude":46.53944,
+    "gn:longitude":16.17972,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Nor\u0161inci pri Ljutomeru",
+    "gn:population":225,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nor\u0161inci",
+        "Nor\u0161inci pri Ljutomeru"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959499,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194467,
+        "wk:page":"Nor%C5%A1inci_pri_Ljutomeru"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ca0424d4991665d733b9ff6fc979629e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959499,
+            "locality_id":1226378503,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1226378503,
+    "wof:lastmodified":1537700215,
+    "wof:name":"Norsinci pri Ljutomeru",
+    "wof:parent_id":1108959499,
+    "wof:placetype":"locality",
+    "wof:population":225,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.17972,
+    46.53944,
+    16.17972,
+    46.53944
+],
+  "geometry": {"coordinates":[16.17972,46.53944],"type":"Point"}
+}

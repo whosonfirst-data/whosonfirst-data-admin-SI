@@ -1,0 +1,75 @@
+{
+  "id": 1293725559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.96833,45.81861,14.96833,45.81861",
+    "geom:latitude":45.81861,
+    "geom:longitude":14.96833,
+    "gn:admin1_code":"N8",
+    "gn:asciiname":"Mackovec pri Dvoru",
+    "gn:country_code":"SI",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195969,
+    "gn:latitude":45.81861,
+    "gn:longitude":14.96833,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Ma\u010dkovec pri Dvoru",
+    "gn:population":107,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u010dkovec",
+        "Ma\u010dkovec pri Dvoru"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959787,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195969,
+        "wk:page":"Ma%C4%8Dkovec_pri_Dvoru"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4dd35d0d0f15c194010752be87637667",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959787,
+            "locality_id":1293725559,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1293725559,
+    "wof:lastmodified":1537700221,
+    "wof:name":"Mackovec pri Dvoru",
+    "wof:parent_id":1108959787,
+    "wof:placetype":"locality",
+    "wof:population":107,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.96833,
+    45.81861,
+    14.96833,
+    45.81861
+],
+  "geometry": {"coordinates":[14.96833,45.81861],"type":"Point"}
+}

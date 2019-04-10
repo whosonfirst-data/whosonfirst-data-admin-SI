@@ -1,0 +1,71 @@
+{
+  "id": 1209870471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.09969,46.13353,14.09969,46.13353",
+    "geom:latitude":46.13353,
+    "geom:longitude":14.09969,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Debeni",
+    "gn:country_code":"SI",
+    "gn:dem":657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988802,
+    "gn:latitude":46.13353,
+    "gn:longitude":14.09969,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Debeni",
+    "gn:population":31,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959897,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988802,
+        "wk:page":"Debeni"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"378075213d2f412676cbdf79a5e4efe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959897,
+            "locality_id":1209870471,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1209870471,
+    "wof:lastmodified":1537573523,
+    "wof:name":"Debeni",
+    "wof:parent_id":1108959897,
+    "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.09969,
+    46.13353,
+    14.09969,
+    46.13353
+],
+  "geometry": {"coordinates":[14.09969,46.13353],"type":"Point"}
+}

@@ -1,0 +1,129 @@
+{
+  "id": 1125800491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.73889,46.14694,13.73889,46.14694",
+    "geom:latitude":46.14694,
+    "geom:longitude":13.73889,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":434,
+    "iso:country":"SI",
+    "lbl:latitude":46.14694,
+    "lbl:longitude":13.73889,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u0441\u0442 \u043d\u0430 \u0421\u043e\u0447\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Most na So\u010di"
+    ],
+    "name:eng_x_preferred":[
+        "Most na So\u010di"
+    ],
+    "name:fin_x_preferred":[
+        "Most na So\u010di"
+    ],
+    "name:ger_x_preferred":[
+        "Most na So\u010di"
+    ],
+    "name:hun_x_preferred":[
+        "Most na So\u010di"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Lucia d'Isonzo"
+    ],
+    "name:rum_x_preferred":[
+        "Most na So\u010di"
+    ],
+    "name:slv_x_preferred":[
+        "Most na So\u010di"
+    ],
+    "name:swe_x_preferred":[
+        "Most na So\u010di"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0441\u0442 \u043d\u0430 \u0421\u043e\u0447\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Sveta Lucija"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3194818,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Most Na So\u010di",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Tolmin",
+    "qs_pg:photos":359,
+    "qs_pg:photos_1k":73,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":359,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":489919,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":530858,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Tolmin",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959617,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194818,
+        "gp:id":530858,
+        "qs_pg:id":489919,
+        "wd:id":"Q2398575"
+    },
+    "wof:country":"SI",
+    "wof:created":1497291238,
+    "wof:geomhash":"2aec8fba52594900b5a71d8de7ffdad0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959617,
+            "locality_id":1125800491,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1125800491,
+    "wof:lastmodified":1531170229,
+    "wof:name":"Most Na So\u010di",
+    "wof:parent_id":1108959617,
+    "wof:placetype":"locality",
+    "wof:population":434,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.73889,
+    46.14694,
+    13.73889,
+    46.14694
+],
+  "geometry": {"coordinates":[13.73889,46.14694],"type":"Point"}
+}

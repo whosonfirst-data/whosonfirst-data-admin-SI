@@ -1,0 +1,127 @@
+{
+  "id": 101857903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.083954,45.860402,15.083954,45.860402",
+    "geom:latitude":45.860402,
+    "geom:longitude":15.083954,
+    "gn:population":990,
+    "iso:country":"SI",
+    "lbl:latitude":45.860402,
+    "lbl:longitude":15.083954,
+    "mps:latitude":45.860402,
+    "mps:longitude":15.083954,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Mirna Pe\u010d"
+    ],
+    "name:dut_x_preferred":[
+        "Mirna Pe\u010d"
+    ],
+    "name:eng_x_preferred":[
+        "Mirna Pe\u010d"
+    ],
+    "name:hbs_x_preferred":[
+        "Mirna Pe\u010d"
+    ],
+    "name:hrv_x_preferred":[
+        "Mirna Pe\u010d"
+    ],
+    "name:ita_x_preferred":[
+        "Mirna Pe\u010d"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30eb\u30ca\u30fb\u30da\u30c1"
+    ],
+    "name:nld_x_preferred":[
+        "Mirna Pe\u010d"
+    ],
+    "name:por_x_preferred":[
+        "Mirna Pe\u010d"
+    ],
+    "name:ron_x_preferred":[
+        "Mirna Pe\u010d"
+    ],
+    "name:rum_x_preferred":[
+        "Mirna Pe\u010d"
+    ],
+    "name:slv_x_preferred":[
+        "Mirna Pe\u010d"
+    ],
+    "name:slv_x_variant":[
+        "Ob\u010dina Mirna Pe\u010d"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u0440\u043d\u0430 \u041f\u0435\u0447"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0438\u0440\u043d\u0430 \u041f\u0435\u0447"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mirna Pe\u010d",
+    "qs:loc_alt":"Mirna Pec",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959751,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195036,
+        "gp:id":55850275,
+        "qs:id":1,
+        "wd:id":"Q3444661",
+        "wk:page":"Mirna Pe\u010d"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d36029d3221cba877a96ed2446179611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959751,
+            "locality_id":101857903,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":101857903,
+    "wof:lastmodified":1544744137,
+    "wof:name":"Mirna Pe\u010d",
+    "wof:parent_id":1108959751,
+    "wof:placetype":"locality",
+    "wof:population":990,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.083954,
+    45.860402,
+    15.083954,
+    45.860402
+],
+  "geometry": {"coordinates":[15.083954,45.860402],"type":"Point"}
+}

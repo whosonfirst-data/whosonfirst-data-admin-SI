@@ -1,0 +1,75 @@
+{
+  "id": 1360121027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.92917,45.73861,13.92917,45.73861",
+    "geom:latitude":45.73861,
+    "geom:longitude":13.92917,
+    "gn:admin1_code":"B7",
+    "gn:asciiname":"Storje",
+    "gn:country_code":"SI",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189797,
+    "gn:latitude":45.73861,
+    "gn:longitude":13.92917,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160torje",
+    "gn:population":325,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Storie",
+        "\u0160torje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959789,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189797,
+        "wk:page":"%C5%A0torje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2f2be30e81fbc5c41ea01e8b140e81c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959789,
+            "locality_id":1360121027,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1360121027,
+    "wof:lastmodified":1537700185,
+    "wof:name":"Storje",
+    "wof:parent_id":1108959789,
+    "wof:placetype":"locality",
+    "wof:population":325,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.92917,
+    45.73861,
+    13.92917,
+    45.73861
+],
+  "geometry": {"coordinates":[13.92917,45.73861],"type":"Point"}
+}

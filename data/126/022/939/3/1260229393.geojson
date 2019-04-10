@@ -1,0 +1,67 @@
+{
+  "id": 1260229393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.75877,45.92898,13.75877,45.92898",
+    "geom:latitude":45.92898,
+    "geom:longitude":13.75877,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Brdo",
+    "gn:country_code":"SI",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10859148,
+    "gn:latitude":45.92898,
+    "gn:longitude":13.75877,
+    "gn:modification_date":"2015-10-21",
+    "gn:name":"Brdo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959487,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10859148
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1dc2faa66536e5e8843aa56b349d88cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959487,
+            "locality_id":1260229393,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1260229393,
+    "wof:lastmodified":1536785941,
+    "wof:name":"Brdo",
+    "wof:parent_id":1108959487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.75877,
+    45.92898,
+    13.75877,
+    45.92898
+],
+  "geometry": {"coordinates":[13.75877,45.92898],"type":"Point"}
+}

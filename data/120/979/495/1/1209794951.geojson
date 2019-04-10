@@ -1,0 +1,68 @@
+{
+  "id": 1209794951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.40426,45.85178,14.40426,45.85178",
+    "geom:latitude":45.85178,
+    "geom:longitude":14.40426,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Zibovnik",
+    "gn:country_code":"SI",
+    "gn:dem":785,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989913,
+    "gn:latitude":45.85178,
+    "gn:longitude":14.40426,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Zibovnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959905,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989913,
+        "wk:page":"Zibovnik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4775cab3c2be0e89342a397768545e31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959905,
+            "locality_id":1209794951,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1209794951,
+    "wof:lastmodified":1537573556,
+    "wof:name":"Zibovnik",
+    "wof:parent_id":1108959905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.40426,
+    45.85178,
+    14.40426,
+    45.85178
+],
+  "geometry": {"coordinates":[14.40426,45.85178],"type":"Point"}
+}

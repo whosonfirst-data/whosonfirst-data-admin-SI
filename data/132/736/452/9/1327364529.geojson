@@ -1,0 +1,74 @@
+{
+  "id": 1327364529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.70056,46.43464,14.70056,46.43464",
+    "geom:latitude":46.43464,
+    "geom:longitude":14.70056,
+    "gn:admin1_code":"M2",
+    "gn:asciiname":"Podolseva",
+    "gn:country_code":"SI",
+    "gn:dem":1069,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988277,
+    "gn:latitude":46.43464,
+    "gn:longitude":14.70056,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Podol\u0161eva",
+    "gn:population":60,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Podol\u0161eva"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959639,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988277,
+        "wk:page":"Podol%C5%A1eva"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7cbda560b44a87545d2c293d14379290",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959639,
+            "locality_id":1327364529,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1327364529,
+    "wof:lastmodified":1537700303,
+    "wof:name":"Podolseva",
+    "wof:parent_id":1108959639,
+    "wof:placetype":"locality",
+    "wof:population":60,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.70056,
+    46.43464,
+    14.70056,
+    46.43464
+],
+  "geometry": {"coordinates":[14.70056,46.43464],"type":"Point"}
+}

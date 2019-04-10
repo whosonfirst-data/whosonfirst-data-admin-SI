@@ -1,0 +1,71 @@
+{
+  "id": 1225876103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.19556,46.29917,15.19556,46.29917",
+    "geom:latitude":46.29917,
+    "geom:longitude":15.19556,
+    "gn:admin1_code":"N5",
+    "gn:asciiname":"Galicija",
+    "gn:country_code":"SI",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3338875,
+    "gn:latitude":46.29917,
+    "gn:longitude":15.19556,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Galicija",
+    "gn:population":625,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959929,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3338875,
+        "wk:page":"Galicija%2C_%C5%BDalec"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"48a912b451a6204d49f200798c9b7b7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959929,
+            "locality_id":1225876103,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1225876103,
+    "wof:lastmodified":1537573461,
+    "wof:name":"Galicija",
+    "wof:parent_id":1108959929,
+    "wof:placetype":"locality",
+    "wof:population":625,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.19556,
+    46.29917,
+    15.19556,
+    46.29917
+],
+  "geometry": {"coordinates":[15.19556,46.29917],"type":"Point"}
+}

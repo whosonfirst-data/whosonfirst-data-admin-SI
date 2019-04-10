@@ -1,0 +1,74 @@
+{
+  "id": 1310137007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.33306,46.19861,14.33306,46.19861",
+    "geom:latitude":46.19861,
+    "geom:longitude":14.33306,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Zabnica",
+    "gn:country_code":"SI",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186994,
+    "gn:latitude":46.19861,
+    "gn:longitude":14.33306,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u017dabnica",
+    "gn:population":332,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017dabnica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959933,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186994,
+        "wk:page":"%C5%BDabnica%2C_Kranj"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"00206fb338c2e664a1677989cf5c665e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959933,
+            "locality_id":1310137007,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1310137007,
+    "wof:lastmodified":1537700172,
+    "wof:name":"Zabnica",
+    "wof:parent_id":1108959933,
+    "wof:placetype":"locality",
+    "wof:population":332,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.33306,
+    46.19861,
+    14.33306,
+    46.19861
+],
+  "geometry": {"coordinates":[14.33306,46.19861],"type":"Point"}
+}

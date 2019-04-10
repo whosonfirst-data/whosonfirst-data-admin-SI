@@ -1,0 +1,70 @@
+{
+  "id": 1259994889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.6411,46.19177,15.6411,46.19177",
+    "geom:latitude":46.19177,
+    "geom:longitude":15.6411,
+    "gn:asciiname":"Nimno",
+    "gn:country_code":"SI",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989810,
+    "gn:latitude":46.19177,
+    "gn:longitude":15.6411,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Nimno",
+    "gn:population":92,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959803,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989810,
+        "wk:page":"Nimno"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f74991fd6ce7a8cf22696019d84a56ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959803,
+            "locality_id":1259994889,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1259994889,
+    "wof:lastmodified":1537573553,
+    "wof:name":"Nimno",
+    "wof:parent_id":1108959803,
+    "wof:placetype":"locality",
+    "wof:population":92,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.6411,
+    46.19177,
+    15.6411,
+    46.19177
+],
+  "geometry": {"coordinates":[15.6411,46.19177],"type":"Point"}
+}

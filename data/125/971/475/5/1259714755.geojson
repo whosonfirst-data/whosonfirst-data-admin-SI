@@ -1,0 +1,71 @@
+{
+  "id": 1259714755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.50572,46.2768,15.50572,46.2768",
+    "geom:latitude":46.2768,
+    "geom:longitude":15.50572,
+    "gn:admin1_code":"L7",
+    "gn:asciiname":"Dolga Gora",
+    "gn:country_code":"SI",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987053,
+    "gn:latitude":46.2768,
+    "gn:longitude":15.50572,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Dolga Gora",
+    "gn:population":283,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959791,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987053,
+        "wk:page":"Dolga_Gora"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"14fe6cb72c490f95e36217f654dbad04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959791,
+            "locality_id":1259714755,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1259714755,
+    "wof:lastmodified":1537573468,
+    "wof:name":"Dolga Gora",
+    "wof:parent_id":1108959791,
+    "wof:placetype":"locality",
+    "wof:population":283,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.50572,
+    46.2768,
+    15.50572,
+    46.2768
+],
+  "geometry": {"coordinates":[15.50572,46.2768],"type":"Point"}
+}

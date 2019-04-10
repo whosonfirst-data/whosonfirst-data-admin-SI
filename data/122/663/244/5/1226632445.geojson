@@ -1,0 +1,76 @@
+{
+  "id": 1226632445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.38028,45.84778,14.38028,45.84778",
+    "geom:latitude":45.84778,
+    "geom:longitude":14.38028,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kozljek",
+    "gn:country_code":"SI",
+    "gn:dem":792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197436,
+    "gn:latitude":45.84778,
+    "gn:longitude":14.38028,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ko\u017eljek",
+    "gn:population":62,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ko\u017eljec",
+        "Ko\u017elek",
+        "Ko\u017eljek"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959905,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197436,
+        "wk:page":"Ko%C5%BEljek"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3c6201a6e4ba141781083ffb49a9452d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959905,
+            "locality_id":1226632445,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1226632445,
+    "wof:lastmodified":1537700229,
+    "wof:name":"Kozljek",
+    "wof:parent_id":1108959905,
+    "wof:placetype":"locality",
+    "wof:population":62,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.38028,
+    45.84778,
+    14.38028,
+    45.84778
+],
+  "geometry": {"coordinates":[14.38028,45.84778],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209495297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.4997,46.24357,14.4997,46.24357",
+    "geom:latitude":46.24357,
+    "geom:longitude":14.4997,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Psenicna Polica",
+    "gn:country_code":"SI",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987750,
+    "gn:latitude":46.24357,
+    "gn:longitude":14.4997,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"P\u0161eni\u010dna Polica",
+    "gn:population":107,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u0161eni\u010dna Polica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987750,
+        "wk:page":"P%C5%A1eni%C4%8Dna_Polica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ad17549962cce860e88c45888293c111",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209495297
+        }
+    ],
+    "wof:id":1209495297,
+    "wof:lastmodified":1537700292,
+    "wof:name":"Psenicna Polica",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":107,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.4997,
+    46.24357,
+    14.4997,
+    46.24357
+],
+  "geometry": {"coordinates":[14.4997,46.24357],"type":"Point"}
+}

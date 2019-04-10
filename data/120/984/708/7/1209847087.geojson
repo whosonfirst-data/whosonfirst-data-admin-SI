@@ -1,0 +1,75 @@
+{
+  "id": 1209847087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.835,46.16944,13.835,46.16944",
+    "geom:latitude":46.16944,
+    "geom:longitude":13.835,
+    "gn:admin1_code":"D2",
+    "gn:asciiname":"Kneza",
+    "gn:country_code":"SI",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198006,
+    "gn:latitude":46.16944,
+    "gn:longitude":13.835,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kne\u017ea",
+    "gn:population":206,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiesa",
+        "Kne\u017ea"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959617,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198006,
+        "wk:page":"Kne%C5%BEa"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1f548017101045a744f42f5571f76e97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959617,
+            "locality_id":1209847087,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1209847087,
+    "wof:lastmodified":1537700232,
+    "wof:name":"Kneza",
+    "wof:parent_id":1108959617,
+    "wof:placetype":"locality",
+    "wof:population":206,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.835,
+    46.16944,
+    13.835,
+    46.16944
+],
+  "geometry": {"coordinates":[13.835,46.16944],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209787343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.09572,45.48442,15.09572,45.48442",
+    "geom:latitude":45.48442,
+    "geom:longitude":15.09572,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Sodevci",
+    "gn:country_code":"SI",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988504,
+    "gn:latitude":45.48442,
+    "gn:longitude":15.09572,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Sodevci",
+    "gn:population":46,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959699,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988504,
+        "wk:page":"Sodevci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"26ce9bd49cf1323cacb74621e361d14f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959699,
+            "locality_id":1209787343,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1209787343,
+    "wof:lastmodified":1537573514,
+    "wof:name":"Sodevci",
+    "wof:parent_id":1108959699,
+    "wof:placetype":"locality",
+    "wof:population":46,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.09572,
+    45.48442,
+    15.09572,
+    45.48442
+],
+  "geometry": {"coordinates":[15.09572,45.48442],"type":"Point"}
+}

@@ -1,0 +1,127 @@
+{
+  "id": 101792983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000087,
+    "geom:area_square_m":748229.100389,
+    "geom:bbox":"15.0575897865,45.9476398503,15.0705315032,45.9571145553",
+    "geom:latitude":45.952037,
+    "geom:longitude":15.064151,
+    "gn:population":1398,
+    "iso:country":"SI",
+    "lbl:latitude":45.952107,
+    "lbl:longitude":15.063627,
+    "mps:latitude":45.952107,
+    "mps:longitude":15.063627,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Mirna"
+    ],
+    "name:fra_x_preferred":[
+        "Mirna"
+    ],
+    "name:hbs_x_preferred":[
+        "Mirna"
+    ],
+    "name:hrv_x_preferred":[
+        "Mirna"
+    ],
+    "name:ita_x_preferred":[
+        "Mirna"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30eb\u30ca"
+    ],
+    "name:kor_x_preferred":[
+        "\ubbf8\ub974\ub098"
+    ],
+    "name:por_x_preferred":[
+        "Mirna"
+    ],
+    "name:ron_x_preferred":[
+        "Mirna"
+    ],
+    "name:slv_x_preferred":[
+        "Mirna"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0438\u0440\u043d\u0430"
+    ],
+    "name:und_x_preferred":[
+        "Mirna"
+    ],
+    "name:vie_x_preferred":[
+        "Mirna"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"Trebnje",
+    "qs:la_lc":"*SI130000",
+    "qs:level":"locality",
+    "qs:loc":"Mirna",
+    "qs:loc_alt":"Mirna",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":3671,
+    "wof:belongsto":[
+        102191581,
+        1108959869,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06f2d9bc-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3195041,
+        "gp:id":530830,
+        "qs:id":312509,
+        "qs_pg:id":312509,
+        "wd:id":"Q2219904",
+        "wk:page":"Mirna (settlement)"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d4c7ac1259d0c1e4aff1ec2de0bd08fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959869,
+            "locality_id":101792983,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":101792983,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531508737,
+    "wof:name":"Mirna",
+    "wof:parent_id":1108959869,
+    "wof:placetype":"locality",
+    "wof:population":1398,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.05758978652671,
+    45.94763985029988,
+    15.07053150316443,
+    45.95711455528846
+],
+  "geometry": {"coordinates":[[[15.06743084082154,45.95680826937945],[15.06717859054612,45.95411292672105],[15.06975039080828,45.9539903106978],[15.06924573394923,45.94859962335966],[15.07053150316443,45.94853829910465],[15.07044738518982,45.94763985029988],[15.05758978652671,45.94825238239548],[15.05767369289924,45.94915084293507],[15.05895948572947,45.94908965842461],[15.05963103597691,45.95627731188267],[15.06091699550439,45.95621610246343],[15.06100097670503,45.95711455528846],[15.06743084082154,45.95680826937945]]],"type":"Polygon"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276694675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.65028,45.80766,14.65028,45.80766",
+    "geom:latitude":45.80766,
+    "geom:longitude":14.65028,
+    "gn:admin1_code":"D8",
+    "gn:asciiname":"Skrlovica",
+    "gn:country_code":"SI",
+    "gn:dem":671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989603,
+    "gn:latitude":45.80766,
+    "gn:longitude":14.65028,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"\u0160krlovica",
+    "gn:population":31,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160krlovica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959859,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989603,
+        "wk:page":"%C5%A0krlovica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fb162486534cade1c51761d59e3ad55e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959859,
+            "locality_id":1276694675,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1276694675,
+    "wof:lastmodified":1537700329,
+    "wof:name":"Skrlovica",
+    "wof:parent_id":1108959859,
+    "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.65028,
+    45.80766,
+    14.65028,
+    45.80766
+],
+  "geometry": {"coordinates":[14.65028,45.80766],"type":"Point"}
+}

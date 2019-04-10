@@ -1,0 +1,117 @@
+{
+  "id": 101792019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000067,
+    "geom:area_square_m":578608.963573,
+    "geom:bbox":"14.8363902049,46.0358272854,14.8479845107,46.0503807199",
+    "geom:latitude":46.044154,
+    "geom:longitude":14.842209,
+    "gn:population":1444,
+    "iso:country":"SI",
+    "lbl:latitude":46.046753,
+    "lbl:longitude":14.840365,
+    "mps:latitude":46.046753,
+    "mps:longitude":14.840365,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u0160martno pri Litiji"
+    ],
+    "name:deu_x_preferred":[
+        "\u0160martno pri Litiji"
+    ],
+    "name:deu_x_variant":[
+        "Sankt Martin"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160martno pri Litiji"
+    ],
+    "name:ita_x_preferred":[
+        "\u0160martno pri Litiji"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e5\u30de\u30eb\u30c8\u30ce\u30fb\u30d7\u30ea\u30fb\u30ea\u30c6\u30a3\u30a4"
+    ],
+    "name:kor_x_preferred":[
+        "\uc288\ub9c8\ub974\ud2b8\ub178\ud504\ub9ac\ub9ac\ud2f0\uc774"
+    ],
+    "name:nld_x_preferred":[
+        "\u0160martno pri Litiji"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina \u0160martno pri Litiji"
+    ],
+    "name:por_x_preferred":[
+        "\u0160martno pri Litiji"
+    ],
+    "name:ron_x_preferred":[
+        "\u0160martno pri Litiji"
+    ],
+    "name:unk_x_variant":[
+        "\u0160martno"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"\u0160martno pri Litiji",
+    "qs:la_lc":"*SI194000",
+    "qs:level":"locality",
+    "qs:loc":"\u0160martno pri Litiji",
+    "qs:loc_alt":"Smartno pri Litiji",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":337,
+    "wof:belongsto":[
+        102191581,
+        1108959745,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190495,
+        "gp:id":531597,
+        "qs:id":5,
+        "wd:id":"Q392192",
+        "wk:page":"\u0160martno pri Litiji"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f6ee764c07a746ae4913b45dbceca71e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959745,
+            "locality_id":101792019,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":101792019,
+    "wof:lastmodified":1531170278,
+    "wof:name":"\u0160martno pri Litiji",
+    "wof:parent_id":1108959745,
+    "wof:placetype":"locality",
+    "wof:population":1444,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.83639020494309,
+    46.03582728536082,
+    14.84798451068082,
+    46.05038071988355
+],
+  "geometry": {"coordinates":[[[14.84331501569886,46.05026354454498],[14.84283151113857,46.04487193722366],[14.84798451068082,46.04463742679394],[14.84766190337444,46.04104302827216],[14.84379741279906,46.04121892092263],[14.84347511635588,46.03762449954894],[14.84476319732039,46.03756588873216],[14.84468261062187,46.03666728305569],[14.84339455092561,46.03672589274663],[14.84331398896779,46.03582728536082],[14.84202594801781,46.03588587836487],[14.84234813160447,46.03948030890916],[14.841060003054,46.03953889085329],[14.84122107313181,46.04133610487548],[14.83993289951496,46.04139467350757],[14.84017446684197,46.044090493542],[14.83759798439485,46.04420759086582],[14.83767847122505,46.04510619862788],[14.83639020494309,46.0451647250681],[14.83647067396458,46.04606333337142],[14.83775896152423,46.04600480580643],[14.83808095741892,46.04959922869358],[14.84065769521573,46.0494821178691],[14.84073824542918,46.05038071988355],[14.84331501569886,46.05026354454498]]],"type":"Polygon"}
+}

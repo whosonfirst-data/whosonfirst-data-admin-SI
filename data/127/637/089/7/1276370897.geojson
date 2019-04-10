@@ -1,0 +1,71 @@
+{
+  "id": 1276370897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.75556,45.89083,14.75556,45.89083",
+    "geom:latitude":45.89083,
+    "geom:longitude":14.75556,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Ravni Dol",
+    "gn:country_code":"SI",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191819,
+    "gn:latitude":45.89083,
+    "gn:longitude":14.75556,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Ravni Dol",
+    "gn:population":25,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959583,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191819,
+        "wk:page":"Ravni_Dol%2C_Ivan%C4%8Dna_Gorica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8ef7ff18592638beb27daa3109a16fa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959583,
+            "locality_id":1276370897,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1276370897,
+    "wof:lastmodified":1537573406,
+    "wof:name":"Ravni Dol",
+    "wof:parent_id":1108959583,
+    "wof:placetype":"locality",
+    "wof:population":25,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.75556,
+    45.89083,
+    14.75556,
+    45.89083
+],
+  "geometry": {"coordinates":[14.75556,45.89083],"type":"Point"}
+}

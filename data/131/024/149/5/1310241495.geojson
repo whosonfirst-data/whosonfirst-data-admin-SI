@@ -1,0 +1,78 @@
+{
+  "id": 1310241495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.41806,46.55306,16.41806,46.55306",
+    "geom:latitude":46.55306,
+    "geom:longitude":16.41806,
+    "gn:admin1_code":"I4",
+    "gn:asciiname":"Gornji Lakos",
+    "gn:country_code":"SI",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199980,
+    "gn:latitude":46.55306,
+    "gn:longitude":16.41806,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Gornji Lako\u0161",
+    "gn:population":421,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dolnji Lakos",
+        "Als\u00f3lendvalakos",
+        "Fels\u0151lakos",
+        "Als\u00f3lakos",
+        "Gornji Lako\u0161"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959475,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199980,
+        "wk:page":"Gornji_Lako%C5%A1"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4713719125cd551130e60c9ea69217a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959475,
+            "locality_id":1310241495,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1310241495,
+    "wof:lastmodified":1537700243,
+    "wof:name":"Gornji Lakos",
+    "wof:parent_id":1108959475,
+    "wof:placetype":"locality",
+    "wof:population":421,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.41806,
+    46.55306,
+    16.41806,
+    46.55306
+],
+  "geometry": {"coordinates":[16.41806,46.55306],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1360316307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.86818,45.93716,14.86818,45.93716",
+    "geom:latitude":45.93716,
+    "geom:longitude":14.86818,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Breg pri Dobu",
+    "gn:country_code":"SI",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989650,
+    "gn:latitude":45.93716,
+    "gn:longitude":14.86818,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Breg pri Dobu",
+    "gn:population":15,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959583,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989650,
+        "wk:page":"Breg_pri_Dobu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"be0ac2ba32b9829cd3cf9922cfad7e42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959583,
+            "locality_id":1360316307,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1360316307,
+    "wof:lastmodified":1537573548,
+    "wof:name":"Breg pri Dobu",
+    "wof:parent_id":1108959583,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.86818,
+    45.93716,
+    14.86818,
+    45.93716
+],
+  "geometry": {"coordinates":[14.86818,45.93716],"type":"Point"}
+}

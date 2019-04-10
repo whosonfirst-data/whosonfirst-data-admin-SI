@@ -1,0 +1,74 @@
+{
+  "id": 1293523055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25086,46.14942,15.25086,46.14942",
+    "geom:latitude":46.14942,
+    "geom:longitude":15.25086,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Lahomsek",
+    "gn:country_code":"SI",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989798,
+    "gn:latitude":46.14942,
+    "gn:longitude":15.25086,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Lahom\u0161ek",
+    "gn:population":109,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lahom\u0161ek"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959879,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989798,
+        "wk:page":"Lahom%C5%A1ek"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"003c6f67561fffd1d1ef9ceb36d1bccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959879,
+            "locality_id":1293523055,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1293523055,
+    "wof:lastmodified":1537700333,
+    "wof:name":"Lahomsek",
+    "wof:parent_id":1108959879,
+    "wof:placetype":"locality",
+    "wof:population":109,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25086,
+    46.14942,
+    15.25086,
+    46.14942
+],
+  "geometry": {"coordinates":[15.25086,46.14942],"type":"Point"}
+}

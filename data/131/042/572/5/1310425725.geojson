@@ -1,0 +1,74 @@
+{
+  "id": 1310425725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.58778,45.95389,15.58778,45.95389",
+    "geom:latitude":45.95389,
+    "geom:longitude":15.58778,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Artice",
+    "gn:country_code":"SI",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204766,
+    "gn:latitude":45.95389,
+    "gn:longitude":15.58778,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Arti\u010de",
+    "gn:population":312,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arti\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204766,
+        "wk:page":"Arti%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a5c11b44a7b47f819341dbe377695857",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1310425725,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1310425725,
+    "wof:lastmodified":1537700267,
+    "wof:name":"Artice",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:population":312,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.58778,
+    45.95389,
+    15.58778,
+    45.95389
+],
+  "geometry": {"coordinates":[15.58778,45.95389],"type":"Point"}
+}

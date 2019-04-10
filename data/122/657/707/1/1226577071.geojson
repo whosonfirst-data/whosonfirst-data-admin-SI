@@ -1,0 +1,71 @@
+{
+  "id": 1226577071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.78976,46.57189,15.78976,46.57189",
+    "geom:latitude":46.57189,
+    "geom:longitude":15.78976,
+    "gn:admin1_code":"I3",
+    "gn:asciiname":"Zamarkova",
+    "gn:country_code":"SI",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988042,
+    "gn:latitude":46.57189,
+    "gn:longitude":15.78976,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Zamarkova",
+    "gn:population":78,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959477,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988042,
+        "wk:page":"Zamarkova"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f04d4e3832840e638aa660a713b35ce4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959477,
+            "locality_id":1226577071,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1226577071,
+    "wof:lastmodified":1537573499,
+    "wof:name":"Zamarkova",
+    "wof:parent_id":1108959477,
+    "wof:placetype":"locality",
+    "wof:population":78,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.78976,
+    46.57189,
+    15.78976,
+    46.57189
+],
+  "geometry": {"coordinates":[15.78976,46.57189],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243588259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.20192,45.66764,15.20192,45.66764",
+    "geom:latitude":45.66764,
+    "geom:longitude":15.20192,
+    "gn:admin1_code":"B1",
+    "gn:asciiname":"Podreber",
+    "gn:country_code":"SI",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988223,
+    "gn:latitude":45.66764,
+    "gn:longitude":15.20192,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Podreber",
+    "gn:population":63,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959601,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988223,
+        "wk:page":"Podreber%2C_Semi%C4%8D"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c729887446641f61773f18328098f6a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959601,
+            "locality_id":1243588259,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1243588259,
+    "wof:lastmodified":1537573505,
+    "wof:name":"Podreber",
+    "wof:parent_id":1108959601,
+    "wof:placetype":"locality",
+    "wof:population":63,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.20192,
+    45.66764000000001,
+    15.20192,
+    45.66764000000001
+],
+  "geometry": {"coordinates":[15.20192,45.66764000000001],"type":"Point"}
+}

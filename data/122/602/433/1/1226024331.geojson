@@ -1,0 +1,70 @@
+{
+  "id": 1226024331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.48081,45.83136,14.48081,45.83136",
+    "geom:latitude":45.83136,
+    "geom:longitude":14.48081,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Scurkovo",
+    "gn:country_code":"SI",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989420,
+    "gn:latitude":45.83136,
+    "gn:longitude":14.48081,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160\u010durkovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160\u010durkovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959905,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989420
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"52648e4981d355e282a9e900c80e7d0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959905,
+            "locality_id":1226024331,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1226024331,
+    "wof:lastmodified":1537700326,
+    "wof:name":"Scurkovo",
+    "wof:parent_id":1108959905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.48081,
+    45.83136,
+    14.48081,
+    45.83136
+],
+  "geometry": {"coordinates":[14.48081,45.83136],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1360121203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.30026,46.34898,14.30026,46.34898",
+    "geom:latitude":46.34898,
+    "geom:longitude":14.30026,
+    "gn:admin1_code":"D5",
+    "gn:asciiname":"Pristava",
+    "gn:country_code":"SI",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986868,
+    "gn:latitude":46.34898,
+    "gn:longitude":14.30026,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Pristava",
+    "gn:population":911,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959917,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986868,
+        "wk:page":"Pristava%2C_Tr%C5%BEi%C4%8D"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e5cfb82a436cd285f1de37b48eb0ebae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959917,
+            "locality_id":1360121203,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1360121203,
+    "wof:lastmodified":1537573463,
+    "wof:name":"Pristava",
+    "wof:parent_id":1108959917,
+    "wof:placetype":"locality",
+    "wof:population":911,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.30026,
+    46.34898,
+    14.30026,
+    46.34898
+],
+  "geometry": {"coordinates":[14.30026,46.34898],"type":"Point"}
+}

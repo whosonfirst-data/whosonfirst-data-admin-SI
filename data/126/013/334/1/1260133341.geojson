@@ -1,0 +1,76 @@
+{
+  "id": 1260133341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.93778,45.57056,13.93778,45.57056",
+    "geom:latitude":45.57056,
+    "geom:longitude":13.93778,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Presnica",
+    "gn:country_code":"SI",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192491,
+    "gn:latitude":45.57056,
+    "gn:longitude":13.93778,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Pre\u0161nica",
+    "gn:population":151,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bresenza di Taiano",
+        "Pre\u0161nic",
+        "Pre\u0161nica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959549,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192491,
+        "wk:page":"Pre%C5%A1nica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7bc253047c363475d8cc3a743720bf67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959549,
+            "locality_id":1260133341,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1260133341,
+    "wof:lastmodified":1537700204,
+    "wof:name":"Presnica",
+    "wof:parent_id":1108959549,
+    "wof:placetype":"locality",
+    "wof:population":151,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.93778,
+    45.57056,
+    13.93778,
+    45.57056
+],
+  "geometry": {"coordinates":[13.93778,45.57056],"type":"Point"}
+}

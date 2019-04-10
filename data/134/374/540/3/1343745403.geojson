@@ -1,0 +1,76 @@
+{
+  "id": 1343745403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.90139,46.12778,13.90139,46.12778",
+    "geom:latitude":46.12778,
+    "geom:longitude":13.90139,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Police",
+    "gn:country_code":"SI",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192834,
+    "gn:latitude":46.12778,
+    "gn:longitude":13.90139,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Police",
+    "gn:population":20,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Polglizze",
+        "Poljice",
+        "Police"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959577,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192834,
+        "wk:page":"Police%2C_Cerkno"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fa6d5e103814bf94ce9d4701e61fb665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959577,
+            "locality_id":1343745403,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1343745403,
+    "wof:lastmodified":1537700207,
+    "wof:name":"Police",
+    "wof:parent_id":1108959577,
+    "wof:placetype":"locality",
+    "wof:population":20,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.90139,
+    46.12778,
+    13.90139,
+    46.12778
+],
+  "geometry": {"coordinates":[13.90139,46.12778],"type":"Point"}
+}

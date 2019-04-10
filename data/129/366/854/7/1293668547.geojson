@@ -1,0 +1,71 @@
+{
+  "id": 1293668547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.33291,45.79826,14.33291,45.79826",
+    "geom:latitude":45.79826,
+    "geom:longitude":14.33291,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Podskrajnik",
+    "gn:country_code":"SI",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987966,
+    "gn:latitude":45.79826,
+    "gn:longitude":14.33291,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Podskrajnik",
+    "gn:population":85,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959905,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987966,
+        "wk:page":"Podskrajnik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"845e98bae6075bebc589a7ec70cf1d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959905,
+            "locality_id":1293668547,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1293668547,
+    "wof:lastmodified":1537573497,
+    "wof:name":"Podskrajnik",
+    "wof:parent_id":1108959905,
+    "wof:placetype":"locality",
+    "wof:population":85,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.33291,
+    45.79826,
+    14.33291,
+    45.79826
+],
+  "geometry": {"coordinates":[14.33291,45.79826],"type":"Point"}
+}

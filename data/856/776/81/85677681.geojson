@@ -1,0 +1,183 @@
+{
+  "id": 85677681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00618,
+    "geom:area_square_m":52587015.743825,
+    "geom:bbox":"15.4081864763,46.4777060005,15.5637842144,46.5621194525",
+    "geom:latitude":46.516989,
+    "geom:longitude":15.491751,
+    "gn:population":7330,
+    "iso:country":"SI",
+    "lbl:latitude":46.516974,
+    "lbl:longitude":15.491751,
+    "mps:latitude":46.516974,
+    "mps:longitude":15.491751,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ces_x_preferred":[
+        "Ob\u010dina Ru\u0161e"
+    ],
+    "name:hbs_x_preferred":[
+        "Ru\u0161e"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Ru\u0161e"
+    ],
+    "name:nld_x_preferred":[
+        "Ru\u0161e"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Ru\u0161e"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Ru\u0161e"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0420\u0443\u0448\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0443\u0448\u0435"
+    ],
+    "name:und_x_preferred":[
+        "Ruse"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Maribor-Ru\u0161e"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-219",
+    "ne:adm1_code":"SVN-219",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SI.PD.RU",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"219",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SIL3",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.L3",
+    "ne:gn_id":"3239211",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Ruse",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI76",
+    "ne:gns_id":"243902",
+    "ne:gns_lang":"slv",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Ruse, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"46.51560000000",
+    "ne:longitude":"15.48600000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Ru\u0161e",
+    "ne:name_alt":"",
+    "ne:name_len":4,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"RU",
+    "ne:provnum_ne":"158",
+    "ne:region":"Podravska",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":55848382,
+    "ne:woe_label":"Ruse, SI, Slovenia",
+    "ne:woe_name":"Ru\u0161e",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Ru\u0161e",
+    "qs:a1_lc":"SVN-219",
+    "qs:a1r":"Podravska",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "unlc:subdivision":"SI-108",
+    "wd:wordcount":92,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SIL3",
+        "gn:id":3239211,
+        "gp:id":55848382,
+        "hasc:id":"SI.PD.RU",
+        "qs:id":1104120,
+        "unlc:id":"SI-108",
+        "wd:id":"Q3346841",
+        "wk:page":"Municipality of Ru\u0161e"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c2b3921c822a651103f4735428a1ce8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677681
+        }
+    ],
+    "wof:id":85677681,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616731,
+    "wof:name":"Ru\u0161e",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:population":7330,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:shortcode":"RU",
+    "wof:subdivision":"SI-108",
+    "wof:superseded_by":[
+        1108959611
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.40818647632489,
+    46.47770600053155,
+    15.56378421437006,
+    46.56211945245082
+],
+  "geometry": {"coordinates":[[[15.56378421437006,46.5098745792485],[15.5394446135781,46.4974205589117],[15.50048058391189,46.49928091088537],[15.40818647632489,46.47770600053155],[15.41516279532681,46.49946177803866],[15.44058759903851,46.51847870532805],[15.44911421075227,46.53155284328915],[15.450819533095,46.53775401503583],[15.44988935710819,46.54191396675623],[15.45965620317128,46.55002716731997],[15.45810590956012,46.53860667575753],[15.48280724465866,46.53449839908188],[15.49598473540726,46.53775401503583],[15.56037356878522,46.56211945245082],[15.55029666525894,46.51801361823397],[15.56378421437006,46.5098745792485]]],"type":"Polygon"}
+}

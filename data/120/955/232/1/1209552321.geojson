@@ -1,0 +1,62 @@
+{
+  "id": 1209552321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.47786,45.81933,14.47786,45.81933",
+    "geom:latitude":45.81933,
+    "geom:longitude":14.47786,
+    "gn:admin1_code":"F6",
+    "gn:asciiname":"Ograda",
+    "gn:country_code":"SI",
+    "gn:dem":691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989436,
+    "gn:latitude":45.81933,
+    "gn:longitude":14.47786,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ograda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989436,
+        "wk:page":"Ograda%2C_Bloke"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fed82e5492e07fd6c2f093cf8f947d6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209552321
+        }
+    ],
+    "wof:id":1209552321,
+    "wof:lastmodified":1537573542,
+    "wof:name":"Ograda",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.47786,
+    45.81933,
+    14.47786,
+    45.81933
+],
+  "geometry": {"coordinates":[14.47786,45.81933],"type":"Point"}
+}

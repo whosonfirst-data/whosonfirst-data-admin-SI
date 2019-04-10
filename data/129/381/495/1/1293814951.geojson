@@ -1,0 +1,67 @@
+{
+  "id": 1293814951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.57981,46.08439,13.57981,46.08439",
+    "geom:latitude":46.08439,
+    "geom:longitude":13.57981,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Zelinje",
+    "gn:country_code":"SI",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10794023,
+    "gn:latitude":46.08439,
+    "gn:longitude":13.57981,
+    "gn:modification_date":"2015-10-01",
+    "gn:name":"\u017delinje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959537,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10794023
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c8fb2462ca36f6883018d7a50f9c83e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959537,
+            "locality_id":1293814951,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1293814951,
+    "wof:lastmodified":1536811614,
+    "wof:name":"Zelinje",
+    "wof:parent_id":1108959537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.57981,
+    46.08439,
+    13.57981,
+    46.08439
+],
+  "geometry": {"coordinates":[13.57981,46.08439],"type":"Point"}
+}

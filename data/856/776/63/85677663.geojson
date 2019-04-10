@@ -1,0 +1,202 @@
+{
+  "id": 85677663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.010978,
+    "geom:area_square_m":93278898.238497,
+    "geom:bbox":"15.2703654312,46.5106497265,15.443378127,46.6455776985",
+    "geom:latitude":46.594794,
+    "geom:longitude":15.356204,
+    "iso:country":"SI",
+    "lbl:latitude":46.582224,
+    "lbl:longitude":15.333267,
+    "mps:latitude":46.582224,
+    "mps:longitude":15.333267,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:deu_x_preferred":[
+        "Podvelka"
+    ],
+    "name:eng_x_preferred":[
+        "Podvelka"
+    ],
+    "name:fra_x_preferred":[
+        "Podvelka"
+    ],
+    "name:hbs_x_preferred":[
+        "Podvelka"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Podvelka"
+    ],
+    "name:ita_x_preferred":[
+        "Podvelka"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30c9\u30f4\u30a7\u30eb\u30ab"
+    ],
+    "name:kor_x_preferred":[
+        "\ud3ec\ub4dc\ubca8\uce74"
+    ],
+    "name:nld_x_preferred":[
+        "Podvelka"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Podvelka"
+    ],
+    "name:por_x_preferred":[
+        "Podvelka"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Podvelka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0434\u0432\u0435\u043b\u043a\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Podvelka"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041f\u043e\u0434\u0432\u0435\u043b\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0434\u0432\u0435\u043b\u043a\u0430"
+    ],
+    "name:und_x_preferred":[
+        "Radlje Ob Dravi"
+    ],
+    "name:unk_x_variant":[
+        "Ob\u010dina Podvelka"
+    ],
+    "name:vie_x_preferred":[
+        "Podvelka"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-214",
+    "ne:adm1_code":"SVN-214",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"10",
+    "ne:code_hasc":"SI.KO.PO",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"214",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SI93",
+    "ne:fips_alt":"SIK2",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.K2",
+    "ne:gn_id":"3344916",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Podvelka",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI72",
+    "ne:gns_id":"9123432",
+    "ne:gns_lang":"kat",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Podvelka, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"46.60210000000",
+    "ne:longitude":"15.35690000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Podvelka",
+    "ne:name_alt":"",
+    "ne:name_len":8,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"PO",
+    "ne:provnum_ne":"18",
+    "ne:region":"Koro\u0161ka",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":-55848378,
+    "ne:woe_label":"",
+    "ne:woe_name":"",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Podvelka",
+    "qs:a1_lc":"SVN-214",
+    "qs:a1r":"Koro\u0161ka",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "qs:woeid":55848378,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "unlc:subdivision":"SI-093",
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SI93",
+        "gn:id":3344916,
+        "gp:id":-55848378,
+        "hasc:id":"SI.KO.PO",
+        "unlc:id":"SI-093",
+        "wd:id":"Q1016800"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ded4ad9f8c8873522e83439ecbd9cb69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677663
+        }
+    ],
+    "wof:id":85677663,
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616731,
+    "wof:name":"Podvelka",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:shortcode":"PO",
+    "wof:subdivision":"SI-093",
+    "wof:superseded_by":[
+        1108959555
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.27036543121972,
+    46.51064972650374,
+    15.44337812699899,
+    46.64557769845209
+],
+  "geometry": {"coordinates":[[[15.43538087422803,46.62719528693299],[15.43547163290958,46.62707672840833],[15.44120771666286,46.61958364546894],[15.43965742395102,46.6096617697749],[15.43640180799707,46.60237539330979],[15.43485151528523,46.59694936791902],[15.43485151528523,46.59245351851513],[15.44043257030694,46.59033478502238],[15.44337812699899,46.58470205315729],[15.43593672000367,46.57478017836257],[15.43035566588134,46.57478017836257],[15.42554975811487,46.57514191356853],[15.41020185703013,46.58242829003359],[15.40756635870054,46.58335846602046],[15.38829104989208,46.58780263948029],[15.37604373513034,46.5887328154671],[15.37139285699482,46.58733755148688],[15.36906741702774,46.58392690680137],[15.36922244575931,46.57545197193099],[15.36658694832903,46.56883738903434],[15.34844852108245,46.55131907851273],[15.33925011580027,46.53449839908188],[15.32917321137467,46.52475739233984],[15.32281700999704,46.51064972650374],[15.31723595497539,46.52749624345694],[15.31754601423722,46.53201793128255],[15.3198714542043,46.53467926713455],[15.3206465996609,46.53746979419572],[15.31754601423722,46.540544542097],[15.30188805478997,46.54664236105617],[15.2935164727071,46.55710683910939],[15.27036543121972,46.57258393050404],[15.28447309705581,46.59857717499671],[15.29785729337942,46.60780141870055],[15.30467858185114,46.60930003546832],[15.32095665892274,46.61462270807158],[15.32917321137467,46.61922191026298],[15.33258385606018,46.63503489844186],[15.33278373398218,46.64357967556163],[15.3881352144686,46.64557769845209],[15.41759078049017,46.63795542430347],[15.43538087422803,46.62719528693299]]],"type":"Polygon"}
+}

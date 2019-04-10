@@ -1,0 +1,74 @@
+{
+  "id": 1276370869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.91972,46.12444,14.91972,46.12444",
+    "geom:latitude":46.12444,
+    "geom:longitude":14.91972,
+    "gn:admin1_code":"E7",
+    "gn:asciiname":"Golce",
+    "gn:country_code":"SI",
+    "gn:dem":759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215996,
+    "gn:latitude":46.12444,
+    "gn:longitude":14.91972,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Gol\u010de",
+    "gn:population":36,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gol\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959683,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215996,
+        "wk:page":"Gol%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3730ea77315bbb16f544d72e01221e17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959683,
+            "locality_id":1276370869,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1276370869,
+    "wof:lastmodified":1537700269,
+    "wof:name":"Golce",
+    "wof:parent_id":1108959683,
+    "wof:placetype":"locality",
+    "wof:population":36,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.91972,
+    46.12444,
+    14.91972,
+    46.12444
+],
+  "geometry": {"coordinates":[14.91972,46.12444],"type":"Point"}
+}

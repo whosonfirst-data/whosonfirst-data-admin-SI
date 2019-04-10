@@ -1,0 +1,100 @@
+{
+  "id": 85677909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.006424,
+    "geom:area_square_m":54481761.533421,
+    "geom:bbox":"15.7846099099,46.662785143,15.9676001782,46.7244876115",
+    "geom:latitude":46.694409,
+    "geom:longitude":15.878172,
+    "gn:id":"",
+    "gn:population":8586,
+    "iso:country":"SI",
+    "lbl:latitude":46.694238,
+    "lbl:longitude":15.878172,
+    "mps:latitude":46.694238,
+    "mps:longitude":15.878172,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:eng_x_preferred":[
+        "Apace"
+    ],
+    "name:und_x_preferred":[
+        "Gornja Radgona"
+    ],
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Apace",
+    "qs:a1_lc":"SVN-5884",
+    "qs:a1r":"Pomurska",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "unlc:subdivision":"SI-195",
+    "wd:wordcount":58,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06f058b8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3200196,
+        "gp:id":55848348,
+        "qs:id":46387,
+        "unlc:id":"SI-195",
+        "wd:id":"Q570397",
+        "wk:page":"Municipality of Gornja Radgona"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5cddbc2d4eb7bfacedbac96fc01a3801",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677909
+        }
+    ],
+    "wof:id":85677909,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1531169552,
+    "wof:name":"Apace",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:population":8586,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:subdivision":"SI-195",
+    "wof:superseded_by":[
+        1108959667
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.78460990991948,
+    46.66278514301996,
+    15.96760017820571,
+    46.72448761151412
+],
+  "geometry": {"coordinates":[[[15.96760017820571,46.69455460710947],[15.94679407668536,46.67444824469078],[15.93211583957441,46.6651777785317],[15.91125729229026,46.66363270098839],[15.88857059056033,46.66278514301996],[15.876788363792,46.66836619714235],[15.85880496617631,46.6715959737752],[15.82728234170673,46.68637543407908],[15.81829064289889,46.69616811856389],[15.80433800579436,46.6997596304027],[15.78661298969774,46.70999156355987],[15.78460990991948,46.71219950350434],[15.82294071434256,46.72283396421614],[15.85074263486473,46.72448761151412],[15.87854455538695,46.72071523162271],[15.94634403434975,46.69715077718666],[15.96760017820571,46.69455460710947]]],"type":"Polygon"}
+}

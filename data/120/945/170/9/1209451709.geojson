@@ -1,0 +1,65 @@
+{
+  "id": 1209451709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.26498,46.34752,14.26498,46.34752",
+    "geom:latitude":46.34752,
+    "geom:longitude":14.26498,
+    "gn:admin1_code":"D5",
+    "gn:asciiname":"Popovo",
+    "gn:country_code":"SI",
+    "gn:dem":581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988975,
+    "gn:latitude":46.34752,
+    "gn:longitude":14.26498,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Popovo",
+    "gn:population":24,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988975,
+        "wk:page":"Popovo%2C_Tr%C5%BEi%C4%8D"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fb82046f49a5fd7475c6698a9b8b9629",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209451709
+        }
+    ],
+    "wof:id":1209451709,
+    "wof:lastmodified":1537573528,
+    "wof:name":"Popovo",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":24,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.26498,
+    46.34752,
+    14.26498,
+    46.34752
+],
+  "geometry": {"coordinates":[14.26498,46.34752],"type":"Point"}
+}

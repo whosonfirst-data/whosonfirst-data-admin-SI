@@ -1,0 +1,81 @@
+{
+  "id": 1344099463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.21176,45.60359,14.21176,45.60359",
+    "geom:latitude":45.60359,
+    "geom:longitude":14.21176,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Merece",
+    "gn:country_code":"SI",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195240,
+    "gn:latitude":45.60359,
+    "gn:longitude":14.21176,
+    "gn:modification_date":"2015-10-22",
+    "gn:name":"Mere\u010de",
+    "gn:population":62,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Mejre\u010dje"
+    ],
+    "name:slv_x_preferred":[
+        "Mejre\u010dje"
+    ],
+    "name:und_x_variant":[
+        "Merecce",
+        "Mere\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959873,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195240,
+        "wk:page":"Mere%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"96415eed6a5cc97a530dbc33944ccb3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959873,
+            "locality_id":1344099463,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1344099463,
+    "wof:lastmodified":1537700219,
+    "wof:name":"Merece",
+    "wof:parent_id":1108959873,
+    "wof:placetype":"locality",
+    "wof:population":62,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.21176,
+    45.60359,
+    14.21176,
+    45.60359
+],
+  "geometry": {"coordinates":[14.21176,45.60359],"type":"Point"}
+}

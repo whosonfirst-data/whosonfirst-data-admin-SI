@@ -1,0 +1,74 @@
+{
+  "id": 1243490725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.67611,46.17444,14.67611,46.17444",
+    "geom:latitude":46.17444,
+    "geom:longitude":14.67611,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Rafolce",
+    "gn:country_code":"SI",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192043,
+    "gn:latitude":46.17444,
+    "gn:longitude":14.67611,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Rafol\u010de",
+    "gn:population":289,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rafol\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959807,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192043,
+        "wk:page":"Rafol%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"dd874e86b01a434f0bd0c4ffcded2167",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959807,
+            "locality_id":1243490725,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1243490725,
+    "wof:lastmodified":1537700202,
+    "wof:name":"Rafolce",
+    "wof:parent_id":1108959807,
+    "wof:placetype":"locality",
+    "wof:population":289,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.67611,
+    46.17444,
+    14.67611,
+    46.17444
+],
+  "geometry": {"coordinates":[14.67611,46.17444],"type":"Point"}
+}

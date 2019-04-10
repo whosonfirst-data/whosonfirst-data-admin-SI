@@ -1,0 +1,71 @@
+{
+  "id": 1276373813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.0815,46.52353,16.0815,46.52353",
+    "geom:latitude":46.52353,
+    "geom:longitude":16.0815,
+    "gn:admin1_code":"I6",
+    "gn:asciiname":"Sitarovci",
+    "gn:country_code":"SI",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988815,
+    "gn:latitude":46.52353,
+    "gn:longitude":16.0815,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Sitarovci",
+    "gn:population":31,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959499,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988815,
+        "wk:page":"Sitarovci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"26186b38c288717210d672ed3947d5d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959499,
+            "locality_id":1276373813,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1276373813,
+    "wof:lastmodified":1537573523,
+    "wof:name":"Sitarovci",
+    "wof:parent_id":1108959499,
+    "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.0815,
+    46.52353,
+    16.0815,
+    46.52353
+],
+  "geometry": {"coordinates":[16.0815,46.52353],"type":"Point"}
+}

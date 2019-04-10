@@ -1,0 +1,68 @@
+{
+  "id": 1209449863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.93583,46.14472,14.93583,46.14472",
+    "geom:latitude":46.14472,
+    "geom:longitude":14.93583,
+    "gn:admin1_code":"E7",
+    "gn:asciiname":"Semnik",
+    "gn:country_code":"SI",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191067,
+    "gn:latitude":46.14472,
+    "gn:longitude":14.93583,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160emnik",
+    "gn:population":229,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160emnik"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191067,
+        "wk:page":"%C5%A0emnik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8753ee93d14bd0134897002097b4f5da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209449863
+        }
+    ],
+    "wof:id":1209449863,
+    "wof:lastmodified":1537700195,
+    "wof:name":"Semnik",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":229,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.93583,
+    46.14472,
+    14.93583,
+    46.14472
+],
+  "geometry": {"coordinates":[14.93583,46.14472],"type":"Point"}
+}

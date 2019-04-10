@@ -1,0 +1,123 @@
+{
+  "id": 1125891467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.28389,46.67611,16.28389,46.67611",
+    "geom:latitude":46.67611,
+    "geom:longitude":16.28389,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":537,
+    "iso:country":"SI",
+    "lbl:latitude":46.67611,
+    "lbl:longitude":16.28389,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Bogojina"
+    ],
+    "name:dut_x_preferred":[
+        "Bogojina"
+    ],
+    "name:eng_x_preferred":[
+        "Bogojina"
+    ],
+    "name:epo_x_preferred":[
+        "Bogojina"
+    ],
+    "name:hrv_x_preferred":[
+        "Bogojina"
+    ],
+    "name:hun_x_preferred":[
+        "Bagonya"
+    ],
+    "name:rum_x_preferred":[
+        "Bogojina"
+    ],
+    "name:slv_x_preferred":[
+        "Bogojina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0433\u043e\u0457\u043d\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Bogolina"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3203819,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Bogojina",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Murska Sobota",
+    "qs_pg:photos":46,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":46,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1117121,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":529573,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Murska Sobota",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959925,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203819,
+        "gp:id":529573,
+        "qs_pg:id":1117121,
+        "wd:id":"Q788538"
+    },
+    "wof:country":"SI",
+    "wof:created":1497295339,
+    "wof:geomhash":"aacc9e38c15c74416b384f59136f6fec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959925,
+            "locality_id":1125891467,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1125891467,
+    "wof:lastmodified":1531170195,
+    "wof:name":"Bogojina",
+    "wof:parent_id":1108959925,
+    "wof:placetype":"locality",
+    "wof:population":537,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.28389,
+    46.67611,
+    16.28389,
+    46.67611
+],
+  "geometry": {"coordinates":[16.28389,46.67611],"type":"Point"}
+}

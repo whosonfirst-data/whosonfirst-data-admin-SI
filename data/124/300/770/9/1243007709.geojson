@@ -1,0 +1,75 @@
+{
+  "id": 1243007709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.05,46.73333,16.05,46.73333",
+    "geom:latitude":46.73333,
+    "geom:longitude":16.05,
+    "gn:admin1_code":"F8",
+    "gn:asciiname":"Topolovci",
+    "gn:country_code":"SI",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188977,
+    "gn:latitude":46.73333,
+    "gn:longitude":16.05,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Topolovci",
+    "gn:population":64,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jegeny\u00e9s",
+        "Topolovci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959707,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188977,
+        "wk:page":"Topolovci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8842b8f4c977df07034f00fca8c12f61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959707,
+            "locality_id":1243007709,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1243007709,
+    "wof:lastmodified":1537700181,
+    "wof:name":"Topolovci",
+    "wof:parent_id":1108959707,
+    "wof:placetype":"locality",
+    "wof:population":64,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.05,
+    46.73333,
+    16.05,
+    46.73333
+],
+  "geometry": {"coordinates":[16.05,46.73333],"type":"Point"}
+}

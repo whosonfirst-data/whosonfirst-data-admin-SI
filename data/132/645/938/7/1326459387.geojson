@@ -1,0 +1,71 @@
+{
+  "id": 1326459387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.82832,46.10807,14.82832,46.10807",
+    "geom:latitude":46.10807,
+    "geom:longitude":14.82832,
+    "gn:admin1_code":"I5",
+    "gn:asciiname":"Tolsti Vrh",
+    "gn:country_code":"SI",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989630,
+    "gn:latitude":46.10807,
+    "gn:longitude":14.82832,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Tolsti Vrh",
+    "gn:population":23,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959907,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989630,
+        "wk:page":"Tolsti_Vrh%2C_Litija"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c26a085c93499e1de3a1c088cd0fe75a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959907,
+            "locality_id":1326459387,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1326459387,
+    "wof:lastmodified":1537573548,
+    "wof:name":"Tolsti Vrh",
+    "wof:parent_id":1108959907,
+    "wof:placetype":"locality",
+    "wof:population":23,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.82832,
+    46.10807,
+    14.82832,
+    46.10807
+],
+  "geometry": {"coordinates":[14.82832,46.10807],"type":"Point"}
+}

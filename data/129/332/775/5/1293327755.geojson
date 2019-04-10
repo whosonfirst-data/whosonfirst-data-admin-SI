@@ -1,0 +1,67 @@
+{
+  "id": 1293327755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.06347,46.73665,16.06347,46.73665",
+    "geom:latitude":46.73665,
+    "geom:longitude":16.06347,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Novi Beznovci",
+    "gn:country_code":"SI",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":10377140,
+    "gn:latitude":46.73665,
+    "gn:longitude":16.06347,
+    "gn:modification_date":"2015-07-17",
+    "gn:name":"Novi Beznovci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959935,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10377140
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"564e54b0bd689b089d3dcc45f8e220f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959935,
+            "locality_id":1293327755,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1293327755,
+    "wof:lastmodified":1537016635,
+    "wof:name":"Novi Beznovci",
+    "wof:parent_id":1108959935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.06347,
+    46.73665,
+    16.06347,
+    46.73665
+],
+  "geometry": {"coordinates":[16.06347,46.73665],"type":"Point"}
+}

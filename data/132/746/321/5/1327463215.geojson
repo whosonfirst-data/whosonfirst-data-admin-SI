@@ -1,0 +1,71 @@
+{
+  "id": 1327463215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.32684,45.89217,15.32684,45.89217",
+    "geom:latitude":45.89217,
+    "geom:longitude":15.32684,
+    "gn:admin1_code":"B8",
+    "gn:asciiname":"Hudenje",
+    "gn:country_code":"SI",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988498,
+    "gn:latitude":45.89217,
+    "gn:longitude":15.32684,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Hudenje",
+    "gn:population":47,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959605,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988498,
+        "wk:page":"Hudenje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"68925b095d5cbb77c4cf17df3b057bb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959605,
+            "locality_id":1327463215,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1327463215,
+    "wof:lastmodified":1537573513,
+    "wof:name":"Hudenje",
+    "wof:parent_id":1108959605,
+    "wof:placetype":"locality",
+    "wof:population":47,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.32684,
+    45.89217,
+    15.32684,
+    45.89217
+],
+  "geometry": {"coordinates":[15.32684,45.89217],"type":"Point"}
+}

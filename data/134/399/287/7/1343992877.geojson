@@ -1,0 +1,74 @@
+{
+  "id": 1343992877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.92985,46.24132,14.92985,46.24132",
+    "geom:latitude":46.24132,
+    "geom:longitude":14.92985,
+    "gn:admin1_code":"N4",
+    "gn:asciiname":"Praprece",
+    "gn:country_code":"SI",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987460,
+    "gn:latitude":46.24132,
+    "gn:longitude":14.92985,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Prapre\u010de",
+    "gn:population":149,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Prapre\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959827,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987460,
+        "wk:page":"Prapre%C4%8De%2C_Vransko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f6a3881eb8b0b4a523c94b61a68290f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959827,
+            "locality_id":1343992877,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1343992877,
+    "wof:lastmodified":1537700287,
+    "wof:name":"Praprece",
+    "wof:parent_id":1108959827,
+    "wof:placetype":"locality",
+    "wof:population":149,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.92985,
+    46.24132,
+    14.92985,
+    46.24132
+],
+  "geometry": {"coordinates":[14.92985,46.24132],"type":"Point"}
+}

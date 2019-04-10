@@ -1,0 +1,74 @@
+{
+  "id": 1277113569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.51252,45.84493,15.51252,45.84493",
+    "geom:latitude":45.84493,
+    "geom:longitude":15.51252,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Brezovica v Podbocju",
+    "gn:country_code":"SI",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989586,
+    "gn:latitude":45.84493,
+    "gn:longitude":15.51252,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Brezovica v Podbo\u010dju",
+    "gn:population":39,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brezovica v Podbo\u010dju"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989586,
+        "wk:page":"Brezovica_v_Podbo%C4%8Dju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"296ab16768c0f16a27ea32571099633c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1277113569,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1277113569,
+    "wof:lastmodified":1537700329,
+    "wof:name":"Brezovica v Podbocju",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":39,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.51252,
+    45.84493,
+    15.51252,
+    45.84493
+],
+  "geometry": {"coordinates":[15.51252,45.84493],"type":"Point"}
+}

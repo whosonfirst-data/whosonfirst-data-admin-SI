@@ -1,0 +1,68 @@
+{
+  "id": 1209646247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.41306,46.17278,14.41306,46.17278",
+    "geom:latitude":46.17278,
+    "geom:longitude":14.41306,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Podreca",
+    "gn:country_code":"SI",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192929,
+    "gn:latitude":46.17278,
+    "gn:longitude":14.41306,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Podre\u010da",
+    "gn:population":521,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Podre\u010da"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192929,
+        "wk:page":"Podre%C4%8Da"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1574ca1028309d854b88f4d84fd4c0b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209646247
+        }
+    ],
+    "wof:id":1209646247,
+    "wof:lastmodified":1537700208,
+    "wof:name":"Podreca",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":521,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.41306,
+    46.17278,
+    14.41306,
+    46.17278
+],
+  "geometry": {"coordinates":[14.41306,46.17278],"type":"Point"}
+}

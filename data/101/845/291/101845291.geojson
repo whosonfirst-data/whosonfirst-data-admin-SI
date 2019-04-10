@@ -1,0 +1,102 @@
+{
+  "id": 101845291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000071,
+    "geom:area_square_m":608488.064012,
+    "geom:bbox":"15.4414214633,46.3789326205,15.4566965073,46.3930601453",
+    "geom:latitude":46.386006,
+    "geom:longitude":15.447453,
+    "gn:population":1352,
+    "iso:country":"SI",
+    "lbl:latitude":46.386605,
+    "lbl:longitude":15.447454,
+    "mps:latitude":46.386605,
+    "mps:longitude":15.447454,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Oplotnica"
+    ],
+    "name:ita_x_preferred":[
+        "Oplotnica"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30d7\u30ed\u30c8\u30cb\u30c4\u30a1"
+    ],
+    "name:nld_x_preferred":[
+        "Oplotnica"
+    ],
+    "name:ron_x_preferred":[
+        "Oplotnica"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Oplotnica"
+    ],
+    "name:swe_x_preferred":[
+        "Oplotnica"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"Oplotnica",
+    "qs:la_lc":"*SI171000",
+    "qs:level":"locality",
+    "qs:loc":"Oplotnica",
+    "qs:loc_alt":"Oplotnica",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959737,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194086,
+        "gp:id":530959,
+        "qs:id":1044003,
+        "qs_pg:id":1044003
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"abf4b8325dcbf9cc54c6ec63816a7bed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959737,
+            "locality_id":101845291,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":101845291,
+    "wof:lastmodified":1531170953,
+    "wof:name":"Oplotnica",
+    "wof:parent_id":1108959737,
+    "wof:placetype":"locality",
+    "wof:population":1352,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.44142146332121,
+    46.37893262053336,
+    15.45669650730468,
+    46.39306014534367
+],
+  "geometry": {"coordinates":[[[15.45085881279556,46.38913894986229],[15.45040082956575,46.38464980104391],[15.45169664713865,46.38458378817285],[15.45160504083742,46.38368595792946],[15.45549241148643,46.38348782918263],[15.45540074444557,46.38259000219387],[15.45669650730468,46.38252392923499],[15.45632979261779,46.37893262053336],[15.45503411603028,46.37899868836888],[15.45530908137977,46.38169217461802],[15.45271759011979,46.38182427098934],[15.45280921004655,46.38272210112598],[15.45021766407814,46.38285413741067],[15.45030924483626,46.38375196952063],[15.44512603192726,46.38401585926164],[15.44503453745517,46.38311802203555],[15.44373874857683,46.38318395403621],[15.44346435367498,46.38049043500456],[15.44216862661995,46.38055634750935],[15.44271732269374,46.3859433879631],[15.44142146332121,46.38600929247229],[15.44169580017473,46.3887028086188],[15.44428764548752,46.38857097626823],[15.4447451687011,46.39306014534367],[15.44604119492169,46.39299419927852],[15.44594966075977,46.39209636791423],[15.44724566250886,46.39203040746258],[15.44697101910555,46.3893369136909],[15.45085881279556,46.38913894986229]]],"type":"Polygon"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276689965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.07861,45.77194,14.07861,45.77194",
+    "geom:latitude":45.77194,
+    "geom:longitude":14.07861,
+    "gn:admin1_code":"94",
+    "gn:asciiname":"Malo Ubeljsko",
+    "gn:country_code":"SI",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195559,
+    "gn:latitude":45.77194,
+    "gn:longitude":14.07861,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Malo Ubeljsko",
+    "gn:population":51,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malo Ubelisko",
+        "Malo Ubeljsko"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959559,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195559,
+        "wk:page":"Malo_Ubeljsko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d1be59ad63e54846a0e0cba8699a1843",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959559,
+            "locality_id":1276689965,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1276689965,
+    "wof:lastmodified":1537700220,
+    "wof:name":"Malo Ubeljsko",
+    "wof:parent_id":1108959559,
+    "wof:placetype":"locality",
+    "wof:population":51,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.07861,
+    45.77194,
+    14.07861,
+    45.77194
+],
+  "geometry": {"coordinates":[14.07861,45.77194],"type":"Point"}
+}

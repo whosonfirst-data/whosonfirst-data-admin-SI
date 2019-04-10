@@ -1,0 +1,67 @@
+{
+  "id": 1293919309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.91094,45.74207,14.91094,45.74207",
+    "geom:latitude":45.74207,
+    "geom:longitude":14.91094,
+    "gn:admin1_code":"H7",
+    "gn:asciiname":"Novi Log",
+    "gn:country_code":"SI",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10860690,
+    "gn:latitude":45.74207,
+    "gn:longitude":14.91094,
+    "gn:modification_date":"2015-11-04",
+    "gn:name":"Novi Log",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959919,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10860690
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f98222b42040e72610ce57a4dc33ca5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959919,
+            "locality_id":1293919309,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1293919309,
+    "wof:lastmodified":1536661711,
+    "wof:name":"Novi Log",
+    "wof:parent_id":1108959919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.91094,
+    45.74207,
+    14.91094,
+    45.74207
+],
+  "geometry": {"coordinates":[14.91094,45.74207],"type":"Point"}
+}

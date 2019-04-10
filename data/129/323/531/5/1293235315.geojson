@@ -1,0 +1,71 @@
+{
+  "id": 1293235315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.72733,46.19516,13.72733,46.19516",
+    "geom:latitude":46.19516,
+    "geom:longitude":13.72733,
+    "gn:admin1_code":"D2",
+    "gn:asciiname":"Zatolmin",
+    "gn:country_code":"SI",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987012,
+    "gn:latitude":46.19516,
+    "gn:longitude":13.72733,
+    "gn:modification_date":"2014-05-11",
+    "gn:name":"Zatolmin",
+    "gn:population":344,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959617,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987012,
+        "wk:page":"Zatolmin"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1fd9000eff88e297adf0b0224b38f2c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959617,
+            "locality_id":1293235315,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1293235315,
+    "wof:lastmodified":1537573466,
+    "wof:name":"Zatolmin",
+    "wof:parent_id":1108959617,
+    "wof:placetype":"locality",
+    "wof:population":344,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.72733,
+    46.19516,
+    13.72733,
+    46.19516
+],
+  "geometry": {"coordinates":[13.72733,46.19516],"type":"Point"}
+}

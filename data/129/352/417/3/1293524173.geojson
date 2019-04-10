@@ -1,0 +1,71 @@
+{
+  "id": 1293524173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.05167,46.55,15.05167,46.55",
+    "geom:latitude":46.55,
+    "geom:longitude":15.05167,
+    "gn:admin1_code":"C2",
+    "gn:asciiname":"Bukovska Vas",
+    "gn:country_code":"SI",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203019,
+    "gn:latitude":46.55,
+    "gn:longitude":15.05167,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Bukovska Vas",
+    "gn:population":371,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959645,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203019,
+        "wk:page":"Bukovska_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"213ed13a3fe1d61afeeefeaa33d91836",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959645,
+            "locality_id":1293524173,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1293524173,
+    "wof:lastmodified":1537573449,
+    "wof:name":"Bukovska Vas",
+    "wof:parent_id":1108959645,
+    "wof:placetype":"locality",
+    "wof:population":371,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.05167,
+    46.55,
+    15.05167,
+    46.55
+],
+  "geometry": {"coordinates":[15.05167,46.55],"type":"Point"}
+}

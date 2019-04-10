@@ -1,0 +1,71 @@
+{
+  "id": 1293329149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.80607,46.47933,13.80607,46.47933",
+    "geom:latitude":46.47933,
+    "geom:longitude":13.80607,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Log",
+    "gn:country_code":"SI",
+    "gn:dem":1016,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987894,
+    "gn:latitude":46.47933,
+    "gn:longitude":13.80607,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Log",
+    "gn:population":93,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959843,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987894,
+        "wk:page":"Log%2C_Kranjska_Gora"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"89d089197d8810f3d9c3f466f3e0e821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959843,
+            "locality_id":1293329149,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1293329149,
+    "wof:lastmodified":1537573495,
+    "wof:name":"Log",
+    "wof:parent_id":1108959843,
+    "wof:placetype":"locality",
+    "wof:population":93,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.80607,
+    46.47933,
+    13.80607,
+    46.47933
+],
+  "geometry": {"coordinates":[13.80607,46.47933],"type":"Point"}
+}

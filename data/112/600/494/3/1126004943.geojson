@@ -1,0 +1,113 @@
+{
+  "id": 1126004943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.65583,46.47444,15.65583,46.47444",
+    "geom:latitude":46.47444,
+    "geom:longitude":15.65583,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1581,
+    "gn:population":1698,
+    "iso:country":"SI",
+    "lbl:latitude":46.47444,
+    "lbl:longitude":15.65583,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Radizel"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u0434\u0438\u0437\u0435\u043b"
+    ],
+    "name:dut_x_preferred":[
+        "Radizel"
+    ],
+    "name:eng_x_preferred":[
+        "Radizel"
+    ],
+    "name:rum_x_preferred":[
+        "Radizel"
+    ],
+    "name:slv_x_preferred":[
+        "Radizel"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0434\u0438\u0437\u0435\u043b"
+    ],
+    "name:unk_x_variant":[
+        "Radizelj"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3339124,
+    "qs_pg:gn_pop":1581,
+    "qs_pg:name":"Radizel",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Maribor",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":529265,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":55851226,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Maribor",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959749,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3339124,
+        "gp:id":55851226,
+        "qs_pg:id":529265,
+        "wd:id":"Q2671246"
+    },
+    "wof:country":"SI",
+    "wof:created":1497299886,
+    "wof:geomhash":"4f894e6114bbcf89cf5f8c0147a76ea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959749,
+            "locality_id":1126004943,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1126004943,
+    "wof:lastmodified":1531170948,
+    "wof:name":"Radizel",
+    "wof:parent_id":1108959749,
+    "wof:placetype":"locality",
+    "wof:population":1698,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.65583,
+    46.47444,
+    15.65583,
+    46.47444
+],
+  "geometry": {"coordinates":[15.65583,46.47444],"type":"Point"}
+}

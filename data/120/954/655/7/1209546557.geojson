@@ -1,0 +1,68 @@
+{
+  "id": 1209546557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.08016,45.69961,15.08016,45.69961",
+    "geom:latitude":45.69961,
+    "geom:longitude":15.08016,
+    "gn:admin1_code":"G6",
+    "gn:asciiname":"Stare Zage",
+    "gn:country_code":"SI",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988666,
+    "gn:latitude":45.69961,
+    "gn:longitude":15.08016,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Stare \u017dage",
+    "gn:population":38,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stare \u017dage"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988666,
+        "wk:page":"Stare_%C5%BDage"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ebaa76fe7a7da6d9759e7fd1b24eee3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209546557
+        }
+    ],
+    "wof:id":1209546557,
+    "wof:lastmodified":1537700311,
+    "wof:name":"Stare Zage",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":38,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.08016,
+    45.69961,
+    15.08016,
+    45.69961
+],
+  "geometry": {"coordinates":[15.08016,45.69961],"type":"Point"}
+}

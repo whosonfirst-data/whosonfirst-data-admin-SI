@@ -1,0 +1,71 @@
+{
+  "id": 1343595355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.70278,46.48028,15.70278,46.48028",
+    "geom:latitude":46.48028,
+    "geom:longitude":15.70278,
+    "gn:admin1_code":"J4",
+    "gn:asciiname":"Dobrovce",
+    "gn:country_code":"SI",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201899,
+    "gn:latitude":46.48028,
+    "gn:longitude":15.70278,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Dobrovce",
+    "gn:population":799,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959665,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201899,
+        "wk:page":"Dobrovce"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"287cbf8236c2bdcd77b58e2366280083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959665,
+            "locality_id":1343595355,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1343595355,
+    "wof:lastmodified":1537573446,
+    "wof:name":"Dobrovce",
+    "wof:parent_id":1108959665,
+    "wof:placetype":"locality",
+    "wof:population":799,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.70278,
+    46.48028,
+    15.70278,
+    46.48028
+],
+  "geometry": {"coordinates":[15.70278,46.48028],"type":"Point"}
+}

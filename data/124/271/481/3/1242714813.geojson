@@ -1,0 +1,74 @@
+{
+  "id": 1242714813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.48276,46.39402,15.48276,46.39402",
+    "geom:latitude":46.39402,
+    "geom:longitude":15.48276,
+    "gn:admin1_code":"J8",
+    "gn:asciiname":"Okoska Gora",
+    "gn:country_code":"SI",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989484,
+    "gn:latitude":46.39402,
+    "gn:longitude":15.48276,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Oko\u0161ka Gora",
+    "gn:population":181,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oko\u0161ka Gora"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959737,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989484,
+        "wk:page":"Oko%C5%A1ka_Gora"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9f5c8d3d6f1fff544698ab7567ac4ac1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959737,
+            "locality_id":1242714813,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1242714813,
+    "wof:lastmodified":1537700327,
+    "wof:name":"Okoska Gora",
+    "wof:parent_id":1108959737,
+    "wof:placetype":"locality",
+    "wof:population":181,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.48276,
+    46.39402000000001,
+    15.48276,
+    46.39402000000001
+],
+  "geometry": {"coordinates":[15.48276,46.39402000000001],"type":"Point"}
+}

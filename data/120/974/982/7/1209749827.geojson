@@ -1,0 +1,75 @@
+{
+  "id": 1209749827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.22112,45.6789,14.22112,45.6789",
+    "geom:latitude":45.6789,
+    "geom:longitude":14.22112,
+    "gn:admin1_code":"91",
+    "gn:asciiname":"Klenik",
+    "gn:country_code":"SI",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198081,
+    "gn:latitude":45.6789,
+    "gn:longitude":14.22112,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Klenik",
+    "gn:population":178,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Clenico",
+        "Klenik"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959587,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198081,
+        "wk:page":"Klenik%2C_Pivka"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5b1d1c2d378ffc61075c8d9e1af77849",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959587,
+            "locality_id":1209749827,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1209749827,
+    "wof:lastmodified":1537700232,
+    "wof:name":"Klenik",
+    "wof:parent_id":1108959587,
+    "wof:placetype":"locality",
+    "wof:population":178,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.22112,
+    45.6789,
+    14.22112,
+    45.6789
+],
+  "geometry": {"coordinates":[14.22112,45.6789],"type":"Point"}
+}

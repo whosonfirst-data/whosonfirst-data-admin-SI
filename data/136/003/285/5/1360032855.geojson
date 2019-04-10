@@ -1,0 +1,71 @@
+{
+  "id": 1360032855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.10278,46.09806,14.10278,46.09806",
+    "geom:latitude":46.09806,
+    "geom:longitude":14.10278,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Trebija",
+    "gn:country_code":"SI",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3214694,
+    "gn:latitude":46.09806,
+    "gn:longitude":14.10278,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Trebija",
+    "gn:population":194,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959897,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3214694,
+        "wk:page":"Trebija"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ad7040c6dc461676e9a602ffc05c1f29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959897,
+            "locality_id":1360032855,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1360032855,
+    "wof:lastmodified":1537573454,
+    "wof:name":"Trebija",
+    "wof:parent_id":1108959897,
+    "wof:placetype":"locality",
+    "wof:population":194,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.10278,
+    46.09806,
+    14.10278,
+    46.09806
+],
+  "geometry": {"coordinates":[14.10278,46.09806],"type":"Point"}
+}

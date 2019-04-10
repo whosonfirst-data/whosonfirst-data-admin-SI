@@ -1,0 +1,71 @@
+{
+  "id": 1259762073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.92639,46.12167,13.92639,46.12167",
+    "geom:latitude":46.12167,
+    "geom:longitude":13.92639,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Reka",
+    "gn:country_code":"SI",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191750,
+    "gn:latitude":46.12167,
+    "gn:longitude":13.92639,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Reka",
+    "gn:population":79,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959577,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191750,
+        "wk:page":"Reka%2C_Cerkno"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3d773727a08346e1cf4d45f9cfb697e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959577,
+            "locality_id":1259762073,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1259762073,
+    "wof:lastmodified":1537573406,
+    "wof:name":"Reka",
+    "wof:parent_id":1108959577,
+    "wof:placetype":"locality",
+    "wof:population":79,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.92639,
+    46.12167,
+    13.92639,
+    46.12167
+],
+  "geometry": {"coordinates":[13.92639,46.12167],"type":"Point"}
+}

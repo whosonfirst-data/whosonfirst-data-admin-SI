@@ -1,0 +1,74 @@
+{
+  "id": 1293134383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.05,46.26667,15.05,46.26667",
+    "geom:latitude":46.26667,
+    "geom:longitude":15.05,
+    "gn:admin1_code":"F7",
+    "gn:asciiname":"Poljce",
+    "gn:country_code":"SI",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192801,
+    "gn:latitude":46.26667,
+    "gn:longitude":15.05,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Polj\u010de",
+    "gn:population":62,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Polj\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959855,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192801,
+        "wk:page":"Polj%C4%8De%2C_Braslov%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"95570f67a7d50ba4e242d021f0ce5c65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959855,
+            "locality_id":1293134383,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1293134383,
+    "wof:lastmodified":1537700207,
+    "wof:name":"Poljce",
+    "wof:parent_id":1108959855,
+    "wof:placetype":"locality",
+    "wof:population":62,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.05,
+    46.26667,
+    15.05,
+    46.26667
+],
+  "geometry": {"coordinates":[15.05,46.26667],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259820113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.31639,46.33083,15.31639,46.33083",
+    "geom:latitude":46.33083,
+    "geom:longitude":15.31639,
+    "gn:admin1_code":"N3",
+    "gn:asciiname":"Strazica",
+    "gn:country_code":"SI",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217103,
+    "gn:latitude":46.33083,
+    "gn:longitude":15.31639,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Stra\u017eica",
+    "gn:population":187,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stra\u017eica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959653,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217103,
+        "wk:page":"Stra%C5%BEica%2C_Vojnik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5fd34333256a725b76262d0eaeafccfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959653,
+            "locality_id":1259820113,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1259820113,
+    "wof:lastmodified":1537700271,
+    "wof:name":"Strazica",
+    "wof:parent_id":1108959653,
+    "wof:placetype":"locality",
+    "wof:population":187,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.31639,
+    46.33083,
+    15.31639,
+    46.33083
+],
+  "geometry": {"coordinates":[15.31639,46.33083],"type":"Point"}
+}

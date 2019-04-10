@@ -1,0 +1,73 @@
+{
+  "id": 1243002061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.90973,45.98359,14.90973,45.98359",
+    "geom:latitude":45.98359,
+    "geom:longitude":14.90973,
+    "gn:admin1_code":"L9",
+    "gn:asciiname":"Gradisce-K. O. Grad. In Polj.",
+    "gn:country_code":"SI",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987965,
+    "gn:latitude":45.98359,
+    "gn:longitude":14.90973,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Gradi\u0161\u010de-K. O. Grad. In Polj.",
+    "gn:population":86,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gradi\u0161\u010de-K. O. Grad. In Polj."
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959745,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987965
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b6135d739273fa0b622c52179a95c878",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959745,
+            "locality_id":1243002061,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1243002061,
+    "wof:lastmodified":1537700297,
+    "wof:name":"Gradisce-K. O. Grad. In Polj.",
+    "wof:parent_id":1108959745,
+    "wof:placetype":"locality",
+    "wof:population":86,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.90973,
+    45.98359,
+    14.90973,
+    45.98359
+],
+  "geometry": {"coordinates":[14.90973,45.98359],"type":"Point"}
+}

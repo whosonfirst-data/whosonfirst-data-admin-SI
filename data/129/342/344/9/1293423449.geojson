@@ -1,0 +1,97 @@
+{
+  "id": 1293423449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.79056,46.42361,15.79056,46.42361",
+    "geom:latitude":46.42361,
+    "geom:longitude":15.79056,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Kungota pri Ptuju",
+    "gn:country_code":"SI",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196946,
+    "gn:latitude":46.42361,
+    "gn:longitude":15.79056,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Kungota pri Ptuju",
+    "gn:population":394,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kungota"
+    ],
+    "name:ita_x_preferred":[
+        "Kungota"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30f3\u30b4\u30bf"
+    ],
+    "name:nld_x_preferred":[
+        "Kungota"
+    ],
+    "name:ron_x_preferred":[
+        "Kungota"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Kungota"
+    ],
+    "name:swe_x_preferred":[
+        "Kungota"
+    ],
+    "name:und_x_variant":[
+        "Sveti Kungota",
+        "Kungota",
+        "Kungota pri Ptuju"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959739,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196946,
+        "wk:page":"Kungota_pri_Ptuju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f9fb0a33ff8d24be219bd9aff0fb915d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959739,
+            "locality_id":1293423449,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1293423449,
+    "wof:lastmodified":1537700227,
+    "wof:name":"Kungota pri Ptuju",
+    "wof:parent_id":1108959739,
+    "wof:placetype":"locality",
+    "wof:population":394,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.79056,
+    46.42361,
+    15.79056,
+    46.42361
+],
+  "geometry": {"coordinates":[15.79056,46.42361],"type":"Point"}
+}

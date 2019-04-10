@@ -1,0 +1,75 @@
+{
+  "id": 1209860575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.98056,45.62556,13.98056,45.62556",
+    "geom:latitude":45.62556,
+    "geom:longitude":13.98056,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Rodik",
+    "gn:country_code":"SI",
+    "gn:dem":579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191594,
+    "gn:latitude":45.62556,
+    "gn:longitude":13.98056,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Rodik",
+    "gn:population":311,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Roditti",
+        "Rodik"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959549,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191594,
+        "wk:page":"Rodik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f16bb295c64fad5b5b359f91d54518ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959549,
+            "locality_id":1209860575,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1209860575,
+    "wof:lastmodified":1537700199,
+    "wof:name":"Rodik",
+    "wof:parent_id":1108959549,
+    "wof:placetype":"locality",
+    "wof:population":311,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.98056,
+    45.62556,
+    13.98056,
+    45.62556
+],
+  "geometry": {"coordinates":[13.98056,45.62556],"type":"Point"}
+}

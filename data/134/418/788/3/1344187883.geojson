@@ -1,0 +1,71 @@
+{
+  "id": 1344187883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.62923,46.18879,15.62923,46.18879",
+    "geom:latitude":46.18879,
+    "geom:longitude":15.62923,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Vidovica",
+    "gn:country_code":"SI",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988206,
+    "gn:latitude":46.18879,
+    "gn:longitude":15.62923,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Vidovica",
+    "gn:population":64,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959649,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988206,
+        "wk:page":"Vidovica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d25a3875b4212962448072cd10ef825e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959649,
+            "locality_id":1344187883,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1344187883,
+    "wof:lastmodified":1537573505,
+    "wof:name":"Vidovica",
+    "wof:parent_id":1108959649,
+    "wof:placetype":"locality",
+    "wof:population":64,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.62923,
+    46.18879,
+    15.62923,
+    46.18879
+],
+  "geometry": {"coordinates":[15.62923,46.18879],"type":"Point"}
+}

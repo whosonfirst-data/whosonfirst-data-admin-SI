@@ -1,0 +1,75 @@
+{
+  "id": 1343693257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.13333,46.66667,16.13333,46.66667",
+    "geom:latitude":46.66667,
+    "geom:longitude":16.13333,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Vescica",
+    "gn:country_code":"SI",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187838,
+    "gn:latitude":46.66667,
+    "gn:longitude":16.13333,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ve\u0161\u010dica",
+    "gn:population":436,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ve\u0161\u010dica",
+        "Ve\u0161\u010dica pri Murski Soboti"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959483,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187838,
+        "wk:page":"Ve%C5%A1%C4%8Dica%2C_Murska_Sobota"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fcc5579ab7a2508cc240242ee161edc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959483,
+            "locality_id":1343693257,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1343693257,
+    "wof:lastmodified":1537700176,
+    "wof:name":"Vescica",
+    "wof:parent_id":1108959483,
+    "wof:placetype":"locality",
+    "wof:population":436,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.13332999999999,
+    46.66667,
+    16.13332999999999,
+    46.66667
+],
+  "geometry": {"coordinates":[16.13332999999999,46.66667],"type":"Point"}
+}

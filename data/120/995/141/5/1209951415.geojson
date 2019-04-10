@@ -1,0 +1,75 @@
+{
+  "id": 1209951415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.09376,45.72566,15.09376,45.72566",
+    "geom:latitude":45.72566,
+    "geom:longitude":15.09376,
+    "gn:admin1_code":"G6",
+    "gn:asciiname":"Gorenje Susice",
+    "gn:country_code":"SI",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200355,
+    "gn:latitude":45.72566,
+    "gn:longitude":15.09376,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Gorenje Su\u0161ice",
+    "gn:population":119,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gorenja Su\u0161ica",
+        "Gorenje Su\u0161ice"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959675,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200355,
+        "wk:page":"Gorenje_Su%C5%A1ice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"314288bed70a72b40b90bc05f7ef53e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959675,
+            "locality_id":1209951415,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1209951415,
+    "wof:lastmodified":1537700245,
+    "wof:name":"Gorenje Susice",
+    "wof:parent_id":1108959675,
+    "wof:placetype":"locality",
+    "wof:population":119,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.09376,
+    45.72566,
+    15.09376,
+    45.72566
+],
+  "geometry": {"coordinates":[15.09376,45.72566],"type":"Point"}
+}

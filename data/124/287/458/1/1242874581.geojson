@@ -1,0 +1,67 @@
+{
+  "id": 1242874581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.80889,46.31722,13.80889,46.31722",
+    "geom:latitude":46.31722,
+    "geom:longitude":13.80889,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Pri Jezeru",
+    "gn:country_code":"SI",
+    "gn:dem":1636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218214,
+    "gn:latitude":46.31722,
+    "gn:longitude":13.80889,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Pri Jezeru",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959819,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218214
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e061074061af3a65f7527048b824c53b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959819,
+            "locality_id":1242874581,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1242874581,
+    "wof:lastmodified":1536634638,
+    "wof:name":"Pri Jezeru",
+    "wof:parent_id":1108959819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.80889,
+    46.31722,
+    13.80889,
+    46.31722
+],
+  "geometry": {"coordinates":[13.80889,46.31722],"type":"Point"}
+}

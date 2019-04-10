@@ -1,0 +1,71 @@
+{
+  "id": 1209750081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.58793,46.08843,13.58793,46.08843",
+    "geom:latitude":46.08843,
+    "geom:longitude":13.58793,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Ukanje",
+    "gn:country_code":"SI",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988484,
+    "gn:latitude":46.08843,
+    "gn:longitude":13.58793,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ukanje",
+    "gn:population":47,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959537,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988484,
+        "wk:page":"Ukanje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9158ce24f1f74bd87d90f495b75499de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959537,
+            "locality_id":1209750081,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1209750081,
+    "wof:lastmodified":1537573513,
+    "wof:name":"Ukanje",
+    "wof:parent_id":1108959537,
+    "wof:placetype":"locality",
+    "wof:population":47,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.58793,
+    46.08843,
+    13.58793,
+    46.08843
+],
+  "geometry": {"coordinates":[13.58793,46.08843],"type":"Point"}
+}

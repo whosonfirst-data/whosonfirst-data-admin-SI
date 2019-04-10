@@ -1,0 +1,79 @@
+{
+  "id": 1226276897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.89472,46.20861,13.89472,46.20861",
+    "geom:latitude":46.20861,
+    "geom:longitude":13.89472,
+    "gn:admin1_code":"D2",
+    "gn:asciiname":"Rut",
+    "gn:country_code":"SI",
+    "gn:dem":738,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191390,
+    "gn:latitude":46.20861,
+    "gn:longitude":13.89472,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Rut",
+    "gn:population":43,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nem\u0161ki Rut",
+        "Rutte",
+        "Deutschruthd",
+        "Rutte di Grac",
+        "Rutte di Gracova",
+        "Rut"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959617,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191390,
+        "wk:page":"Rut%2C_Tolmin"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"75ac2f92a590bfef890983a4279b4a2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959617,
+            "locality_id":1226276897,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1226276897,
+    "wof:lastmodified":1537700198,
+    "wof:name":"Rut",
+    "wof:parent_id":1108959617,
+    "wof:placetype":"locality",
+    "wof:population":43,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.89472,
+    46.20861,
+    13.89472,
+    46.20861
+],
+  "geometry": {"coordinates":[13.89472,46.20861],"type":"Point"}
+}

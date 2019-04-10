@@ -1,0 +1,71 @@
+{
+  "id": 1327467653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.28398,46.21213,14.28398,46.21213",
+    "geom:latitude":46.21213,
+    "geom:longitude":14.28398,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Planica",
+    "gn:country_code":"SI",
+    "gn:dem":701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989005,
+    "gn:latitude":46.21213,
+    "gn:longitude":14.28398,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Planica",
+    "gn:population":22,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959933,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989005,
+        "wk:page":"Planica%2C_Kranj"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f41fa456a19e0c334e74bbbdda8fa31d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959933,
+            "locality_id":1327467653,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1327467653,
+    "wof:lastmodified":1537573529,
+    "wof:name":"Planica",
+    "wof:parent_id":1108959933,
+    "wof:placetype":"locality",
+    "wof:population":22,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.28398,
+    46.21213,
+    14.28398,
+    46.21213
+],
+  "geometry": {"coordinates":[14.28398,46.21213],"type":"Point"}
+}

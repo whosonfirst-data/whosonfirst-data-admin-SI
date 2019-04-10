@@ -1,0 +1,74 @@
+{
+  "id": 1209751931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.00009,45.94249,15.00009,45.94249",
+    "geom:latitude":45.94249,
+    "geom:longitude":15.00009,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Velika Sevnica",
+    "gn:country_code":"SI",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989566,
+    "gn:latitude":45.94249,
+    "gn:longitude":15.00009,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Velika \u0160evnica",
+    "gn:population":54,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Velika \u0160evnica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959839,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989566,
+        "wk:page":"Velika_%C5%A0evnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"41fc0c082df724171099be9b7eeaa882",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959839,
+            "locality_id":1209751931,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1209751931,
+    "wof:lastmodified":1537700329,
+    "wof:name":"Velika Sevnica",
+    "wof:parent_id":1108959839,
+    "wof:placetype":"locality",
+    "wof:population":54,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.00009,
+    45.94249,
+    15.00009,
+    45.94249
+],
+  "geometry": {"coordinates":[15.00009,45.94249],"type":"Point"}
+}

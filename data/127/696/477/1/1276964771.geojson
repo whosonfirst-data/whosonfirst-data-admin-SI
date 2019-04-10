@@ -1,0 +1,71 @@
+{
+  "id": 1276964771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.63333,45.9,15.63333,45.9",
+    "geom:latitude":45.9,
+    "geom:longitude":15.63333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Mostec",
+    "gn:country_code":"SI",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194822,
+    "gn:latitude":45.9,
+    "gn:longitude":15.63333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Mostec",
+    "gn:population":216,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194822,
+        "wk:page":"Mostec"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e2cabf3bca06a9070637d473d12fbe29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1276964771,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1276964771,
+    "wof:lastmodified":1537573419,
+    "wof:name":"Mostec",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:population":216,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.63333,
+    45.9,
+    15.63333,
+    45.9
+],
+  "geometry": {"coordinates":[15.63333,45.9],"type":"Point"}
+}

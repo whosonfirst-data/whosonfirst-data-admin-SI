@@ -1,0 +1,75 @@
+{
+  "id": 1276795533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.72972,46.42361,15.72972,46.42361",
+    "geom:latitude":46.42361,
+    "geom:longitude":15.72972,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Starosince",
+    "gn:country_code":"SI",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189922,
+    "gn:latitude":46.42361,
+    "gn:longitude":15.72972,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Staro\u0161ince",
+    "gn:population":225,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Staro\u0161inci",
+        "Staro\u0161ince"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959739,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189922,
+        "wk:page":"Staro%C5%A1ince"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2504dd431712f2e988e5da557b19118c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959739,
+            "locality_id":1276795533,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1276795533,
+    "wof:lastmodified":1537700186,
+    "wof:name":"Starosince",
+    "wof:parent_id":1108959739,
+    "wof:placetype":"locality",
+    "wof:population":225,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.72972,
+    46.42361,
+    15.72972,
+    46.42361
+],
+  "geometry": {"coordinates":[15.72972,46.42361],"type":"Point"}
+}

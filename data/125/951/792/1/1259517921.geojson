@@ -1,0 +1,74 @@
+{
+  "id": 1259517921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.64757,46.18044,14.64757,46.18044",
+    "geom:latitude":46.18044,
+    "geom:longitude":14.64757,
+    "gn:admin1_code":"G7",
+    "gn:asciiname":"Zice",
+    "gn:country_code":"SI",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988381,
+    "gn:latitude":46.18044,
+    "gn:longitude":14.64757,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u017di\u010de",
+    "gn:population":53,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017di\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959799,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988381,
+        "wk:page":"%C5%BDi%C4%8De%2C_Dom%C5%BEale"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9361a39ed368f097aef43a7d9d887dac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959799,
+            "locality_id":1259517921,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1259517921,
+    "wof:lastmodified":1537700305,
+    "wof:name":"Zice",
+    "wof:parent_id":1108959799,
+    "wof:placetype":"locality",
+    "wof:population":53,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.64757,
+    46.18044,
+    14.64757,
+    46.18044
+],
+  "geometry": {"coordinates":[14.64757,46.18044],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293625531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.15194,46.74806,16.15194,46.74806",
+    "geom:latitude":46.74806,
+    "geom:longitude":16.15194,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Pecarovci",
+    "gn:country_code":"SI",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193553,
+    "gn:latitude":46.74806,
+    "gn:longitude":16.15194,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Pe\u010darovci",
+    "gn:population":420,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Szentsebesty\u00e9n",
+        "Pe\u010darovci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959935,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193553,
+        "wk:page":"Pe%C4%8Darovci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"83803a92bef6ba7d710dda217aa4cd9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959935,
+            "locality_id":1293625531,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1293625531,
+    "wof:lastmodified":1537700211,
+    "wof:name":"Pecarovci",
+    "wof:parent_id":1108959935,
+    "wof:placetype":"locality",
+    "wof:population":420,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.15194,
+    46.74806,
+    16.15194,
+    46.74806
+],
+  "geometry": {"coordinates":[16.15194,46.74806],"type":"Point"}
+}

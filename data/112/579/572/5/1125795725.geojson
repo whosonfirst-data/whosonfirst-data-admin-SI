@@ -1,0 +1,91 @@
+{
+  "id": 1125795725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.71278,45.59194,13.71278,45.59194",
+    "geom:latitude":45.59194,
+    "geom:longitude":13.71278,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"SI",
+    "lbl:latitude":45.59194,
+    "lbl:longitude":13.71278,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Debeli Rti\u010d"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3343528,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Debeli Rtic",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Koper",
+    "qs_pg:photos":12,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":12,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":989636,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":55852059,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Koper",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959857,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343528,
+        "gp:id":55852059,
+        "qs_pg:id":989636
+    },
+    "wof:country":"SI",
+    "wof:created":1497291040,
+    "wof:geomhash":"56c4dbbac22180a8454e576de5cf8b0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959857,
+            "locality_id":1125795725,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1125795725,
+    "wof:lastmodified":1531508730,
+    "wof:name":"Debeli Rtic",
+    "wof:parent_id":1108959857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.71278,
+    45.59194,
+    13.71278,
+    45.59194
+],
+  "geometry": {"coordinates":[13.71278,45.59194],"type":"Point"}
+}

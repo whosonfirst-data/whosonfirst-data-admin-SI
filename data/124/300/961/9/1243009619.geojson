@@ -1,0 +1,71 @@
+{
+  "id": 1243009619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.04142,45.88806,15.04142,45.88806",
+    "geom:latitude":45.88806,
+    "geom:longitude":15.04142,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Dolenje Ponikve",
+    "gn:country_code":"SI",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989764,
+    "gn:latitude":45.88806,
+    "gn:longitude":15.04142,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Dolenje Ponikve",
+    "gn:population":196,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959839,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989764,
+        "wk:page":"Dolenje_Ponikve"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4c35d281644b4c51ac3c2962becd476a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959839,
+            "locality_id":1243009619,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1243009619,
+    "wof:lastmodified":1537573551,
+    "wof:name":"Dolenje Ponikve",
+    "wof:parent_id":1108959839,
+    "wof:placetype":"locality",
+    "wof:population":196,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.04142,
+    45.88806,
+    15.04142,
+    45.88806
+],
+  "geometry": {"coordinates":[15.04142,45.88806],"type":"Point"}
+}

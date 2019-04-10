@@ -1,0 +1,67 @@
+{
+  "id": 1293851127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.78167,46.52111,15.78167,46.52111",
+    "geom:latitude":46.52111,
+    "geom:longitude":15.78167,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Sveta Barbara",
+    "gn:country_code":"SI",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217947,
+    "gn:latitude":46.52111,
+    "gn:longitude":15.78167,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Sveta Barbara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959529,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217947
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3534a76a45f46b10a2bb8e9a8c20c9d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959529,
+            "locality_id":1293851127,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1293851127,
+    "wof:lastmodified":1536760265,
+    "wof:name":"Sveta Barbara",
+    "wof:parent_id":1108959529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.78167,
+    46.52111,
+    15.78167,
+    46.52111
+],
+  "geometry": {"coordinates":[15.78167,46.52111],"type":"Point"}
+}

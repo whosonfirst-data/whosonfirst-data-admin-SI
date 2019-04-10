@@ -1,0 +1,71 @@
+{
+  "id": 1243488007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.87942,46.49687,15.87942,46.49687",
+    "geom:latitude":46.49687,
+    "geom:longitude":15.87942,
+    "gn:admin1_code":"G1",
+    "gn:asciiname":"Zasadi",
+    "gn:country_code":"SI",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988398,
+    "gn:latitude":46.49687,
+    "gn:longitude":15.87942,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Zasadi",
+    "gn:population":52,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959755,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988398,
+        "wk:page":"Zasadi%2C_Destrnik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5907f1c0efdb3458f5872004b1a9597f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959755,
+            "locality_id":1243488007,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1243488007,
+    "wof:lastmodified":1537573510,
+    "wof:name":"Zasadi",
+    "wof:parent_id":1108959755,
+    "wof:placetype":"locality",
+    "wof:population":52,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.87942,
+    46.49687,
+    15.87942,
+    46.49687
+],
+  "geometry": {"coordinates":[15.87942,46.49687],"type":"Point"}
+}

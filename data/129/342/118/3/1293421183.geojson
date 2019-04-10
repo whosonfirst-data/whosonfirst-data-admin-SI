@@ -1,0 +1,74 @@
+{
+  "id": 1293421183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.36667,45.88333,15.36667,45.88333",
+    "geom:latitude":45.88333,
+    "geom:longitude":15.36667,
+    "gn:admin1_code":"B4",
+    "gn:asciiname":"Zamesko",
+    "gn:country_code":"SI",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186812,
+    "gn:latitude":45.88333,
+    "gn:longitude":15.36667,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Zame\u0161ko",
+    "gn:population":99,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zame\u0161ko"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959937,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186812,
+        "wk:page":"Zame%C5%A1ko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0ef48bd07061bbd596ce8baef125f7af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959937,
+            "locality_id":1293421183,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1293421183,
+    "wof:lastmodified":1537700171,
+    "wof:name":"Zamesko",
+    "wof:parent_id":1108959937,
+    "wof:placetype":"locality",
+    "wof:population":99,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.36667,
+    45.88333,
+    15.36667,
+    45.88333
+],
+  "geometry": {"coordinates":[15.36667,45.88333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276801373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.34147,46.14834,14.34147,46.14834",
+    "geom:latitude":46.14834,
+    "geom:longitude":14.34147,
+    "gn:admin1_code":"B9",
+    "gn:asciiname":"Gostece",
+    "gn:country_code":"SI",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987973,
+    "gn:latitude":46.14834,
+    "gn:longitude":14.34147,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Goste\u010de",
+    "gn:population":85,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goste\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959821,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987973,
+        "wk:page":"Goste%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"37a08315443d1af751411e3b22496a09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959821,
+            "locality_id":1276801373,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1276801373,
+    "wof:lastmodified":1537700297,
+    "wof:name":"Gostece",
+    "wof:parent_id":1108959821,
+    "wof:placetype":"locality",
+    "wof:population":85,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.34147,
+    46.14834000000001,
+    14.34147,
+    46.14834000000001
+],
+  "geometry": {"coordinates":[14.34147,46.14834000000001],"type":"Point"}
+}

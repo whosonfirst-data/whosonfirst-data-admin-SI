@@ -1,0 +1,74 @@
+{
+  "id": 1310536153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3838,46.29261,15.3838,46.29261",
+    "geom:latitude":46.29261,
+    "geom:longitude":15.3838,
+    "gn:admin1_code":"L7",
+    "gn:asciiname":"Straza na Gori",
+    "gn:country_code":"SI",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987636,
+    "gn:latitude":46.29261,
+    "gn:longitude":15.3838,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Stra\u017ea na Gori",
+    "gn:population":121,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stra\u017ea na Gori"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959791,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987636,
+        "wk:page":"Stra%C5%BEa_na_Gori"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"669b6dc3d7b26226f2d6c159a49c1a8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959791,
+            "locality_id":1310536153,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1310536153,
+    "wof:lastmodified":1537700290,
+    "wof:name":"Straza na Gori",
+    "wof:parent_id":1108959791,
+    "wof:placetype":"locality",
+    "wof:population":121,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3838,
+    46.29261,
+    15.3838,
+    46.29261
+],
+  "geometry": {"coordinates":[15.3838,46.29261],"type":"Point"}
+}

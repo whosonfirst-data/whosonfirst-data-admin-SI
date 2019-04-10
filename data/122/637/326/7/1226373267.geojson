@@ -1,0 +1,71 @@
+{
+  "id": 1226373267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.25573,46.29523,14.25573,46.29523",
+    "geom:latitude":46.29523,
+    "geom:longitude":14.25573,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Podnart",
+    "gn:country_code":"SI",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192962,
+    "gn:latitude":46.29523,
+    "gn:longitude":14.25573,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Podnart",
+    "gn:population":354,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959825,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192962,
+        "wk:page":"Podnart"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c722222a75f8f456f88831db7a23fee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959825,
+            "locality_id":1226373267,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1226373267,
+    "wof:lastmodified":1537573412,
+    "wof:name":"Podnart",
+    "wof:parent_id":1108959825,
+    "wof:placetype":"locality",
+    "wof:population":354,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.25573,
+    46.29523,
+    14.25573,
+    46.29523
+],
+  "geometry": {"coordinates":[14.25573,46.29523],"type":"Point"}
+}

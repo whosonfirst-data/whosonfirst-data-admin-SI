@@ -1,0 +1,114 @@
+{
+  "id": 1125980601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.78167,45.7725,13.78167,45.7725",
+    "geom:latitude":45.7725,
+    "geom:longitude":13.78167,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":230,
+    "iso:country":"SI",
+    "lbl:latitude":45.7725,
+    "lbl:longitude":13.78167,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Pliskovica"
+    ],
+    "name:eng_x_preferred":[
+        "Pliskovica"
+    ],
+    "name:ita_x_preferred":[
+        "Pliscovizza"
+    ],
+    "name:rum_x_preferred":[
+        "Pliskovica"
+    ],
+    "name:slv_x_preferred":[
+        "Pliskovica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043b\u0456\u0441\u043a\u043e\u0432\u0456\u0446\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Pliscovizza"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3193179,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Pliskovica",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Sezana",
+    "qs_pg:photos":116,
+    "qs_pg:photos_1k":24,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":116,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":423426,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":531070,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Sezana",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959789,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193179,
+        "gp:id":531070,
+        "qs_pg:id":423426,
+        "wd:id":"Q567320"
+    },
+    "wof:country":"SI",
+    "wof:created":1497298539,
+    "wof:geomhash":"1459822f8bf29bfb12d2ce2c09e58fb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959789,
+            "locality_id":1125980601,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1125980601,
+    "wof:lastmodified":1531170307,
+    "wof:name":"Pliskovica",
+    "wof:parent_id":1108959789,
+    "wof:placetype":"locality",
+    "wof:population":230,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.78167,
+    45.7725,
+    13.78167,
+    45.7725
+],
+  "geometry": {"coordinates":[13.78167,45.7725],"type":"Point"}
+}

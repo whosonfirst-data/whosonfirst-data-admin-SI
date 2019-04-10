@@ -1,0 +1,71 @@
+{
+  "id": 1193054163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.26337,46.16094,15.26337,46.16094",
+    "geom:latitude":46.16094,
+    "geom:longitude":15.26337,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Ojstro",
+    "gn:country_code":"SI",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987769,
+    "gn:latitude":46.16094,
+    "gn:longitude":15.26337,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ojstro",
+    "gn:population":105,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959879,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987769,
+        "wk:page":"Ojstro%2C_La%C5%A1ko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ee01bab2133c767d6d299965f0007fed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959879,
+            "locality_id":1193054163,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1193054163,
+    "wof:lastmodified":1537573491,
+    "wof:name":"Ojstro",
+    "wof:parent_id":1108959879,
+    "wof:placetype":"locality",
+    "wof:population":105,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.26337,
+    46.16094,
+    15.26337,
+    46.16094
+],
+  "geometry": {"coordinates":[15.26337,46.16094],"type":"Point"}
+}

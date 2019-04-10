@@ -1,0 +1,91 @@
+{
+  "id": 1125960911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.47694,46.02361,15.47694,46.02361",
+    "geom:latitude":46.02361,
+    "geom:longitude":15.47694,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2404,
+    "gn:population":2343,
+    "iso:country":"SI",
+    "lbl:latitude":46.02361,
+    "lbl:longitude":15.47694,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Senovo"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3191044,
+    "qs_pg:gn_pop":2404,
+    "qs_pg:name":"Jesenovo",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Zagorje Ob Savi",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":70704,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":55850424,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Zagorje Ob Savi",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191044,
+        "gp:id":55850424,
+        "qs_pg:id":70704
+    },
+    "wof:country":"SI",
+    "wof:created":1497297793,
+    "wof:geomhash":"c271cfd97279dc4f7df7654d881754a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1125960911,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1125960911,
+    "wof:lastmodified":1531170979,
+    "wof:name":"Jesenovo",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":2343,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.47694,
+    46.02361,
+    15.47694,
+    46.02361
+],
+  "geometry": {"coordinates":[15.47694,46.02361],"type":"Point"}
+}

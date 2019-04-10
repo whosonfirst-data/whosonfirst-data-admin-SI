@@ -1,0 +1,80 @@
+{
+  "id": 1277106029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.12725,45.97914,15.12725,45.97914",
+    "geom:latitude":45.97914,
+    "geom:longitude":15.12725,
+    "gn:admin1_code":"P2",
+    "gn:asciiname":"Rozenberk",
+    "gn:country_code":"SI",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989026,
+    "gn:latitude":45.97914,
+    "gn:longitude":15.12725,
+    "gn:modification_date":"2015-12-04",
+    "gn:name":"Ro\u017eenberk",
+    "gn:population":22,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_historical":[
+        "Rosenberg"
+    ],
+    "name:deu_x_preferred":[
+        "Rosenberg"
+    ],
+    "name:und_x_variant":[
+        "Ro\u017eenberk"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959841,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989026,
+        "wk:page":"Ro%C5%BEenberk"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8124c057417b74a41a5d20ef24221851",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959841,
+            "locality_id":1277106029,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1277106029,
+    "wof:lastmodified":1537700318,
+    "wof:name":"Rozenberk",
+    "wof:parent_id":1108959841,
+    "wof:placetype":"locality",
+    "wof:population":22,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.12725,
+    45.97914,
+    15.12725,
+    45.97914
+],
+  "geometry": {"coordinates":[15.12725,45.97914],"type":"Point"}
+}

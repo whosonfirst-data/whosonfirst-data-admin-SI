@@ -1,0 +1,181 @@
+{
+  "id": 85677767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.020022,
+    "geom:area_square_m":172575332.317589,
+    "geom:bbox":"14.8025386901,45.7439265,15.0860355967,45.870585436",
+    "geom:latitude":45.807517,
+    "geom:longitude":14.932975,
+    "iso:country":"SI",
+    "lbl:latitude":45.817765,
+    "lbl:longitude":14.921162,
+    "mps:latitude":45.817765,
+    "mps:longitude":14.921162,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:bos_x_preferred":[
+        "\u017du\u017eemberk"
+    ],
+    "name:bul_x_preferred":[
+        "\u0416\u0443\u0436\u0435\u043c\u0431\u0435\u0440\u043a"
+    ],
+    "name:ces_x_preferred":[
+        "\u017du\u017eemberk"
+    ],
+    "name:deu_x_preferred":[
+        "\u017du\u017eemberk"
+    ],
+    "name:fra_x_preferred":[
+        "\u017du\u017eemberk"
+    ],
+    "name:hrv_x_preferred":[
+        "\u017du\u017eemberk"
+    ],
+    "name:hun_x_preferred":[
+        "\u017du\u017eemberk"
+    ],
+    "name:ita_x_preferred":[
+        "\u017du\u017eemberk"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30e5\u30b8\u30a7\u30f3\u30d9\u30eb\u30af"
+    ],
+    "name:spa_x_preferred":[
+        "\u017du\u017eemberk"
+    ],
+    "name:und_x_preferred":[
+        "Novo Mesto"
+    ],
+    "name:unk_x_variant":[
+        "Ob\u010dina \u017du\u017eemberk"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-238",
+    "ne:adm1_code":"SVN-238",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"10",
+    "ne:code_hasc":"SI.DO.ZU",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"238",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SI00",
+    "ne:fips_alt":"SIN8",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.N8",
+    "ne:gn_id":"3344909",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Zuzemberk",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI72",
+    "ne:gns_id":"9123422",
+    "ne:gns_lang":"kat",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Zuzemberk, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"45.81840000000",
+    "ne:longitude":"14.94430000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"\u017du\u017eemberk",
+    "ne:name_alt":"",
+    "ne:name_len":9,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"ZU",
+    "ne:provnum_ne":"27",
+    "ne:region":"Jugovzhodna Slovenija",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":-55848372,
+    "ne:woe_label":"",
+    "ne:woe_name":"",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"\u017du\u017eemberk",
+    "qs:a1_lc":"SVN-238",
+    "qs:a1r":"Jugovzhodna Slovenija",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "qs:woeid":55848372,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "unlc:subdivision":"SI-193",
+    "wd:wordcount":1178,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SI00",
+        "gn:id":3344909,
+        "gp:id":-55848372,
+        "hasc:id":"SI.DO.ZU",
+        "unlc:id":"SI-193",
+        "wd:id":"Q394340"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c17e8874ff37f05b0f05299e07af9071",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677767
+        }
+    ],
+    "wof:id":85677767,
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616732,
+    "wof:name":"\u017du\u017eemberk",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:shortcode":"ZU",
+    "wof:subdivision":"SI-193",
+    "wof:superseded_by":[
+        1108959787
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.80253869010852,
+    45.743926500008,
+    15.08603559666551,
+    45.87058543596913
+],
+  "geometry": {"coordinates":[[[14.97896202967399,45.84216339782262],[14.99989098488112,45.84913971592522],[15.01544559064155,45.84485057209628],[15.01963138168298,45.83970876754563],[15.02567752379872,45.83797760678118],[15.03730472183548,45.84087148752917],[15.04877689024136,45.82614370406873],[15.05249759328933,45.82366323537008],[15.08603559666551,45.80614492394915],[15.05807864831104,45.78108185544335],[15.03342898915656,45.7812110457532],[15.01498050264814,45.7847767200696],[15.00361168792909,45.78237376573674],[14.9964803401956,45.77973826830652],[14.98206261599699,45.76630239513946],[14.93922285275249,45.77154755337693],[14.92635542216505,45.76919627498813],[14.89576297368234,45.74511505841326],[14.8770044288114,45.743926500008],[14.86971805234629,45.75224640614675],[14.86243167498185,45.75565704993295],[14.84646365717208,45.75958445945531],[14.83571495917806,45.76054047296452],[14.82687828910178,45.75762075469413],[14.81370079925256,45.75767243153751],[14.80393395408873,45.77531993326835],[14.80253869010852,45.78028086976639],[14.80455407081377,45.7975149603472],[14.82439782130245,45.79798004834061],[14.83711022315833,45.79601634447874],[14.84894412587079,45.79968536978402],[14.85576541524176,45.80782440876948],[14.85623050323517,45.82505849935029],[14.850339389851,45.83983795785554],[14.84739383315895,45.84500560172717],[14.84739383315895,45.85092255353305],[14.85049441858263,45.85368724217255],[14.876539340818,45.85709788685807],[14.87715945844229,45.86955190719482],[14.92945600758873,45.87058543596913],[14.93860273602752,45.86862173120801],[14.94867963955375,45.86366079381065],[14.95291710833794,45.85906159071988],[14.9547774594123,45.8534288597541],[14.95896324955436,45.84805451120678],[14.96702477417404,45.84381704422128],[14.97896202967399,45.84216339782262]]],"type":"Polygon"}
+}

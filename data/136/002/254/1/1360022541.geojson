@@ -1,0 +1,77 @@
+{
+  "id": 1360022541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.01167,46.80833,16.01167,46.80833",
+    "geom:latitude":46.80833,
+    "geom:longitude":16.01167,
+    "gn:admin1_code":"A6",
+    "gn:asciiname":"Kramarovci",
+    "gn:country_code":"SI",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197380,
+    "gn:latitude":46.80833,
+    "gn:longitude":16.01167,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Kramarovci",
+    "gn:population":54,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hat\u00e1rfalva",
+        "Kromarovci",
+        "Sinnersdorf",
+        "Kramarovci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959655,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197380,
+        "wk:page":"Kramarovci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a5f9203306a4e0f672c927f24f11ac4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959655,
+            "locality_id":1360022541,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1360022541,
+    "wof:lastmodified":1537700229,
+    "wof:name":"Kramarovci",
+    "wof:parent_id":1108959655,
+    "wof:placetype":"locality",
+    "wof:population":54,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.01167,
+    46.80833,
+    16.01167,
+    46.80833
+],
+  "geometry": {"coordinates":[16.01167,46.80833],"type":"Point"}
+}

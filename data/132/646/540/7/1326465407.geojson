@@ -1,0 +1,71 @@
+{
+  "id": 1326465407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.3,46.15,14.3,46.15",
+    "geom:latitude":46.15,
+    "geom:longitude":14.3,
+    "gn:admin1_code":"B9",
+    "gn:asciiname":"Bodovlje",
+    "gn:country_code":"SI",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203847,
+    "gn:latitude":46.15,
+    "gn:longitude":14.3,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Bodovlje",
+    "gn:population":192,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959821,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203847,
+        "wk:page":"Bodovlje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"bdbfba81d7a5f728281334513b545949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959821,
+            "locality_id":1326465407,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1326465407,
+    "wof:lastmodified":1537573452,
+    "wof:name":"Bodovlje",
+    "wof:parent_id":1108959821,
+    "wof:placetype":"locality",
+    "wof:population":192,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.3,
+    46.15,
+    14.3,
+    46.15
+],
+  "geometry": {"coordinates":[14.3,46.15],"type":"Point"}
+}

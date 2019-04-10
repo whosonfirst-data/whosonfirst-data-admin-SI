@@ -1,0 +1,71 @@
+{
+  "id": 1259617499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.69413,45.49922,13.69413,45.49922",
+    "geom:latitude":45.49922,
+    "geom:longitude":13.69413,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Grintovec",
+    "gn:country_code":"SI",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987839,
+    "gn:latitude":45.49922,
+    "gn:longitude":13.69413,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Grintovec",
+    "gn:population":98,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959527,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987839,
+        "wk:page":"Grintovec%2C_Koper"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"bfa2f403099ca6e1aa0726ac007705e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959527,
+            "locality_id":1259617499,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1259617499,
+    "wof:lastmodified":1537573493,
+    "wof:name":"Grintovec",
+    "wof:parent_id":1108959527,
+    "wof:placetype":"locality",
+    "wof:population":98,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.69413,
+    45.49922,
+    13.69413,
+    45.49922
+],
+  "geometry": {"coordinates":[13.69413,45.49922],"type":"Point"}
+}

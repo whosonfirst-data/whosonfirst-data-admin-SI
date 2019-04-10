@@ -1,0 +1,73 @@
+{
+  "id": 1193209583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.62399,45.92378,14.62399,45.92378",
+    "geom:latitude":45.92378,
+    "geom:longitude":14.62399,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"St. Jurij",
+    "gn:country_code":"SI",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986986,
+    "gn:latitude":45.92378,
+    "gn:longitude":14.62399,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"\u0160t. Jurij",
+    "gn:population":381,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160t. Jurij"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959533,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986986
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"20fd6fc6cb04a850ad9945972800384a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959533,
+            "locality_id":1193209583,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1193209583,
+    "wof:lastmodified":1537700277,
+    "wof:name":"St. Jurij",
+    "wof:parent_id":1108959533,
+    "wof:placetype":"locality",
+    "wof:population":381,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.62399,
+    45.92378,
+    14.62399,
+    45.92378
+],
+  "geometry": {"coordinates":[14.62399,45.92378],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310239495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.01621,45.85588,15.01621,45.85588",
+    "geom:latitude":45.85588,
+    "geom:longitude":15.01621,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Rdeci Kal",
+    "gn:country_code":"SI",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987963,
+    "gn:latitude":45.85588,
+    "gn:longitude":15.01621,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Rde\u010di Kal",
+    "gn:population":86,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rde\u010di Kal"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959839,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987963,
+        "wk:page":"Rde%C4%8Di_Kal%2C_Trebnje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4bffcc9edcb34d1cec03f20dbcbcf3b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959839,
+            "locality_id":1310239495,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1310239495,
+    "wof:lastmodified":1537700297,
+    "wof:name":"Rdeci Kal",
+    "wof:parent_id":1108959839,
+    "wof:placetype":"locality",
+    "wof:population":86,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.01621,
+    45.85588,
+    15.01621,
+    45.85588
+],
+  "geometry": {"coordinates":[15.01621,45.85588],"type":"Point"}
+}

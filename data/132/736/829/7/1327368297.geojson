@@ -1,0 +1,71 @@
+{
+  "id": 1327368297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.80278,46.61333,15.80278,46.61333",
+    "geom:latitude":46.61333,
+    "geom:longitude":15.80278,
+    "gn:admin1_code":"P7",
+    "gn:asciiname":"Spodnji Gasteraj",
+    "gn:country_code":"SI",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190197,
+    "gn:latitude":46.61333,
+    "gn:longitude":15.80278,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Spodnji Gasteraj",
+    "gn:population":301,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959815,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190197,
+        "wk:page":"Spodnji_Gasteraj"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9b7f27bb09315a2d64a3c6cbfdb2589c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959815,
+            "locality_id":1327368297,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1327368297,
+    "wof:lastmodified":1537573397,
+    "wof:name":"Spodnji Gasteraj",
+    "wof:parent_id":1108959815,
+    "wof:placetype":"locality",
+    "wof:population":301,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.80278,
+    46.61333,
+    15.80278,
+    46.61333
+],
+  "geometry": {"coordinates":[15.80278,46.61333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327168227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.52662,46.19079,14.52662,46.19079",
+    "geom:latitude":46.19079,
+    "geom:longitude":14.52662,
+    "gn:admin1_code":"H8",
+    "gn:asciiname":"Zeje pri Komendi",
+    "gn:country_code":"SI",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989777,
+    "gn:latitude":46.19079,
+    "gn:longitude":14.52662,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"\u017deje pri Komendi",
+    "gn:population":150,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017deje pri Komendi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959837,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989777,
+        "wk:page":"%C5%BDeje_pri_Komendi"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ce3268070854afa7f77359c6eda6592e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959837,
+            "locality_id":1327168227,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1327168227,
+    "wof:lastmodified":1537700333,
+    "wof:name":"Zeje pri Komendi",
+    "wof:parent_id":1108959837,
+    "wof:placetype":"locality",
+    "wof:population":150,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.52662,
+    46.19079,
+    14.52662,
+    46.19079
+],
+  "geometry": {"coordinates":[14.52662,46.19079],"type":"Point"}
+}

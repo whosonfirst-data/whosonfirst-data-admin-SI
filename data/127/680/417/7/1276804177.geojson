@@ -1,0 +1,71 @@
+{
+  "id": 1276804177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.24353,46.1259,15.24353,46.1259",
+    "geom:latitude":46.1259,
+    "geom:longitude":15.24353,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Lazise",
+    "gn:country_code":"SI",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196719,
+    "gn:latitude":46.1259,
+    "gn:longitude":15.24353,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Lazi\u0161e",
+    "gn:population":85,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959879,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196719,
+        "wk:page":"Lazi%C5%A1e"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"15c43de494a19afcaf53786537675bfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959879,
+            "locality_id":1276804177,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1276804177,
+    "wof:lastmodified":1537573426,
+    "wof:name":"Lazise",
+    "wof:parent_id":1108959879,
+    "wof:placetype":"locality",
+    "wof:population":85,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.24353,
+    46.1259,
+    15.24353,
+    46.1259
+],
+  "geometry": {"coordinates":[15.24353,46.1259],"type":"Point"}
+}

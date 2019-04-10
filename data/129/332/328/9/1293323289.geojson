@@ -1,0 +1,77 @@
+{
+  "id": 1293323289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.60427,45.78968,14.60427,45.78968",
+    "geom:latitude":45.78968,
+    "geom:longitude":14.60427,
+    "gn:admin1_code":"L1",
+    "gn:asciiname":"Pugled pri Karlovici",
+    "gn:country_code":"SI",
+    "gn:dem":727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989671,
+    "gn:latitude":45.78968,
+    "gn:longitude":14.60427,
+    "gn:modification_date":"2015-11-27",
+    "gn:name":"Pugled pri Karlovici",
+    "gn:population":4,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Pogled"
+    ],
+    "name:slv_x_preferred":[
+        "Pogled"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959599,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989671,
+        "wk:page":"Pugled_pri_Karlovici"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c2837f24cda5efe7c6b9001bdac0ac66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959599,
+            "locality_id":1293323289,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1293323289,
+    "wof:lastmodified":1537700331,
+    "wof:name":"Pugled pri Karlovici",
+    "wof:parent_id":1108959599,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.60427,
+    45.78968,
+    14.60427,
+    45.78968
+],
+  "geometry": {"coordinates":[14.60427,45.78968],"type":"Point"}
+}

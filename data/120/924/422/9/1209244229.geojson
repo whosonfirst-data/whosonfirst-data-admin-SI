@@ -1,0 +1,65 @@
+{
+  "id": 1209244229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.07333,45.71306,15.07333,45.71306",
+    "geom:latitude":45.71306,
+    "geom:longitude":15.07333,
+    "gn:admin1_code":"G6",
+    "gn:asciiname":"Obcice",
+    "gn:country_code":"SI",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218444,
+    "gn:latitude":45.71306,
+    "gn:longitude":15.07333,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ob\u010dice",
+    "gn:population":65,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218444,
+        "wk:page":"Ob%C4%8Dice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a885204e99e19b798a06c27c948d2db5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209244229
+        }
+    ],
+    "wof:id":1209244229,
+    "wof:lastmodified":1537573459,
+    "wof:name":"Obcice",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":65,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.07333,
+    45.71306,
+    15.07333,
+    45.71306
+],
+  "geometry": {"coordinates":[15.07333,45.71306],"type":"Point"}
+}

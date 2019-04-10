@@ -1,0 +1,74 @@
+{
+  "id": 1209846935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.04404,46.30141,15.04404,46.30141",
+    "geom:latitude":46.30141,
+    "geom:longitude":15.04404,
+    "gn:admin1_code":"F7",
+    "gn:asciiname":"Male Braslovce",
+    "gn:country_code":"SI",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989479,
+    "gn:latitude":46.30141,
+    "gn:longitude":15.04404,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Male Braslov\u010de",
+    "gn:population":235,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Male Braslov\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959855,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989479,
+        "wk:page":"Male_Braslov%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5712a6e4901150d64768093573346e4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959855,
+            "locality_id":1209846935,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1209846935,
+    "wof:lastmodified":1537700327,
+    "wof:name":"Male Braslovce",
+    "wof:parent_id":1108959855,
+    "wof:placetype":"locality",
+    "wof:population":235,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.04404,
+    46.30141,
+    15.04404,
+    46.30141
+],
+  "geometry": {"coordinates":[15.04404,46.30141],"type":"Point"}
+}

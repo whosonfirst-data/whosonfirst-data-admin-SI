@@ -1,0 +1,73 @@
+{
+  "id": 1209550253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.28676,46.70194,16.28676,46.70194",
+    "geom:latitude":46.70194,
+    "geom:longitude":16.28676,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Vucja Gomila",
+    "gn:country_code":"SI",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187090,
+    "gn:latitude":46.70194,
+    "gn:longitude":16.28676,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Vu\u010dja Gomila",
+    "gn:population":289,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vol\u010dja Gomila",
+        "Vu\u010degomila",
+        "Vu\u010degomilje",
+        "Zsidahegy",
+        "Vu\u010da Gomila",
+        "Vu\u010dja Gomila"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187090,
+        "wk:page":"Vu%C4%8Dja_Gomila"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"86c79cee6bfed13ece7b10a7b42174b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209550253
+        }
+    ],
+    "wof:id":1209550253,
+    "wof:lastmodified":1537700173,
+    "wof:name":"Vucja Gomila",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":289,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.28676,
+    46.70194,
+    16.28676,
+    46.70194
+],
+  "geometry": {"coordinates":[16.28676,46.70194],"type":"Point"}
+}

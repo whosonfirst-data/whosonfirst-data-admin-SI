@@ -1,0 +1,68 @@
+{
+  "id": 1209455155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.06007,46.01483,14.06007,46.01483",
+    "geom:latitude":46.01483,
+    "geom:longitude":14.06007,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Idrsek",
+    "gn:country_code":"SI",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988596,
+    "gn:latitude":46.01483,
+    "gn:longitude":14.06007,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Idr\u0161ek",
+    "gn:population":41,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Idr\u0161ek"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988596,
+        "wk:page":"Idr%C5%A1ek"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"98640db18a515414c5f4ce844fc1c21b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209455155
+        }
+    ],
+    "wof:id":1209455155,
+    "wof:lastmodified":1537700309,
+    "wof:name":"Idrsek",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":41,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.06007,
+    46.01483,
+    14.06007,
+    46.01483
+],
+  "geometry": {"coordinates":[14.06007,46.01483],"type":"Point"}
+}

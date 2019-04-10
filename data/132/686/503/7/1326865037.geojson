@@ -1,0 +1,75 @@
+{
+  "id": 1326865037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.81306,46.53028,15.81306,46.53028",
+    "geom:latitude":46.53028,
+    "geom:longitude":15.81306,
+    "gn:admin1_code":"I3",
+    "gn:asciiname":"Dolge Njive",
+    "gn:country_code":"SI",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201807,
+    "gn:latitude":46.53028,
+    "gn:longitude":15.81306,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Dolge Njive",
+    "gn:population":135,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dolga Njive",
+        "Dolge Njive"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959477,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201807,
+        "wk:page":"Dolge_Njive%2C_Lenart"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"354231ebdfb60e3abafbab97c4f6a5a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959477,
+            "locality_id":1326865037,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1326865037,
+    "wof:lastmodified":1537700252,
+    "wof:name":"Dolge Njive",
+    "wof:parent_id":1108959477,
+    "wof:placetype":"locality",
+    "wof:population":135,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.81306,
+    46.53028,
+    15.81306,
+    46.53028
+],
+  "geometry": {"coordinates":[15.81306,46.53028],"type":"Point"}
+}

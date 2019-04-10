@@ -1,0 +1,71 @@
+{
+  "id": 1259617021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.18863,46.54297,16.18863,46.54297",
+    "geom:latitude":46.54297,
+    "geom:longitude":16.18863,
+    "gn:admin1_code":"I6",
+    "gn:asciiname":"Babinci",
+    "gn:country_code":"SI",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989740,
+    "gn:latitude":46.54297,
+    "gn:longitude":16.18863,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Babinci",
+    "gn:population":278,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959499,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989740,
+        "wk:page":"Babinci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d782b786f6e18dace80cd3f6e6c32d16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959499,
+            "locality_id":1259617021,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1259617021,
+    "wof:lastmodified":1537573551,
+    "wof:name":"Babinci",
+    "wof:parent_id":1108959499,
+    "wof:placetype":"locality",
+    "wof:population":278,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.18863,
+    46.54297,
+    16.18863,
+    46.54297
+],
+  "geometry": {"coordinates":[16.18863,46.54297],"type":"Point"}
+}

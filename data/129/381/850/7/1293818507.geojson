@@ -1,0 +1,67 @@
+{
+  "id": 1293818507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.19417,46.48528,15.19417,46.48528",
+    "geom:latitude":46.48528,
+    "geom:longitude":15.19417,
+    "gn:admin1_code":"76",
+    "gn:asciiname":"Bresar",
+    "gn:country_code":"SI",
+    "gn:dem":948,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217146,
+    "gn:latitude":46.48528,
+    "gn:longitude":15.19417,
+    "gn:modification_date":"2008-11-25",
+    "gn:name":"Bre\u0161ar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959467,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217146
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"748422e0502b8dfac4d3df39919bd52c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959467,
+            "locality_id":1293818507,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1293818507,
+    "wof:lastmodified":1536806700,
+    "wof:name":"Bresar",
+    "wof:parent_id":1108959467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.19417,
+    46.48528,
+    15.19417,
+    46.48528
+],
+  "geometry": {"coordinates":[15.19417,46.48528],"type":"Point"}
+}

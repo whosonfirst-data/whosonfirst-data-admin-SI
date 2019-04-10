@@ -1,0 +1,71 @@
+{
+  "id": 1310537431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.65,46.33333,15.65,46.33333",
+    "geom:latitude":46.33333,
+    "geom:longitude":15.65,
+    "gn:admin1_code":"O5",
+    "gn:asciiname":"Loznica",
+    "gn:country_code":"SI",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186536,
+    "gn:latitude":46.33333,
+    "gn:longitude":15.65,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Lo\u017enica",
+    "gn:population":155,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959773,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186536,
+        "wk:page":"Lo%C5%BEnica%2C_Makole"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2bafdaca20be8fcc7cbc7f3610e8601c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959773,
+            "locality_id":1310537431,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1310537431,
+    "wof:lastmodified":1537573382,
+    "wof:name":"Loznica",
+    "wof:parent_id":1108959773,
+    "wof:placetype":"locality",
+    "wof:population":155,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.65,
+    46.33333,
+    15.65,
+    46.33333
+],
+  "geometry": {"coordinates":[15.65,46.33333],"type":"Point"}
+}

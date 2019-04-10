@@ -1,0 +1,71 @@
+{
+  "id": 1226677341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.81154,46.16611,14.81154,46.16611",
+    "geom:latitude":46.16611,
+    "geom:longitude":14.81154,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Golcaj",
+    "gn:country_code":"SI",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989431,
+    "gn:latitude":46.16611,
+    "gn:longitude":14.81154,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Gol\u010daj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gol\u010daj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959807,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989431,
+        "wk:page":"Gol%C4%8Daj"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d50d05961e1e069c7fe2dacb50520a45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959807,
+            "locality_id":1226677341,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1226677341,
+    "wof:lastmodified":1537700326,
+    "wof:name":"Golcaj",
+    "wof:parent_id":1108959807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.81154,
+    46.16611,
+    14.81154,
+    46.16611
+],
+  "geometry": {"coordinates":[14.81154,46.16611],"type":"Point"}
+}

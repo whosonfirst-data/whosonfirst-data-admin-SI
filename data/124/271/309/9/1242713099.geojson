@@ -1,0 +1,71 @@
+{
+  "id": 1242713099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.27913,46.29491,15.27913,46.29491",
+    "geom:latitude":46.29491,
+    "geom:longitude":15.27913,
+    "gn:admin1_code":"N3",
+    "gn:asciiname":"Konjsko",
+    "gn:country_code":"SI",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987951,
+    "gn:latitude":46.29491,
+    "gn:longitude":15.27913,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Konjsko",
+    "gn:population":87,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959653,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987951,
+        "wk:page":"Konjsko%2C_Vojnik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"eae3b3157abf20a8666389188f861e26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959653,
+            "locality_id":1242713099,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1242713099,
+    "wof:lastmodified":1537573497,
+    "wof:name":"Konjsko",
+    "wof:parent_id":1108959653,
+    "wof:placetype":"locality",
+    "wof:population":87,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.27913,
+    46.29491,
+    15.27913,
+    46.29491
+],
+  "geometry": {"coordinates":[15.27913,46.29491],"type":"Point"}
+}

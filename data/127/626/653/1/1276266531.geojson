@@ -1,0 +1,74 @@
+{
+  "id": 1276266531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.17992,46.37559,15.17992,46.37559",
+    "geom:latitude":46.37559,
+    "geom:longitude":15.17992,
+    "gn:admin1_code":"D7",
+    "gn:asciiname":"Paski Kozjak",
+    "gn:country_code":"SI",
+    "gn:dem":813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989758,
+    "gn:latitude":46.37559,
+    "gn:longitude":15.17992,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Pa\u0161ki Kozjak",
+    "gn:population":234,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pa\u0161ki Kozjak"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959593,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989758,
+        "wk:page":"Pa%C5%A1ki_Kozjak"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b5705955a60420f03e19314245314973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959593,
+            "locality_id":1276266531,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1276266531,
+    "wof:lastmodified":1537700332,
+    "wof:name":"Paski Kozjak",
+    "wof:parent_id":1108959593,
+    "wof:placetype":"locality",
+    "wof:population":234,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.17992,
+    46.37559,
+    15.17992,
+    46.37559
+],
+  "geometry": {"coordinates":[15.17992,46.37559],"type":"Point"}
+}

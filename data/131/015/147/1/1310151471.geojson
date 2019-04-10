@@ -1,0 +1,71 @@
+{
+  "id": 1310151471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.73417,45.88667,14.73417,45.88667",
+    "geom:latitude":45.88667,
+    "geom:longitude":14.73417,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Mala Ilova Gora",
+    "gn:country_code":"SI",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195843,
+    "gn:latitude":45.88667,
+    "gn:longitude":14.73417,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Mala Ilova Gora",
+    "gn:population":76,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959533,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195843,
+        "wk:page":"Mala_Ilova_Gora"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a1ace6171824f8a551d71807edcb36b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959533,
+            "locality_id":1310151471,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1310151471,
+    "wof:lastmodified":1537573423,
+    "wof:name":"Mala Ilova Gora",
+    "wof:parent_id":1108959533,
+    "wof:placetype":"locality",
+    "wof:population":76,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.73417,
+    45.88667,
+    14.73417,
+    45.88667
+],
+  "geometry": {"coordinates":[14.73417,45.88667],"type":"Point"}
+}

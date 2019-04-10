@@ -1,0 +1,71 @@
+{
+  "id": 1260114091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.54639,45.82806,14.54639,45.82806",
+    "geom:latitude":45.82806,
+    "geom:longitude":14.54639,
+    "gn:admin1_code":"D8",
+    "gn:asciiname":"Rupe",
+    "gn:country_code":"SI",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191408,
+    "gn:latitude":45.82806,
+    "gn:longitude":14.54639,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Rupe",
+    "gn:population":5,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959859,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191408,
+        "wk:page":"Rupe%2C_Velike_La%C5%A1%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d2aa048a198e67e3f86673aeaa6db5ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959859,
+            "locality_id":1260114091,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1260114091,
+    "wof:lastmodified":1537573404,
+    "wof:name":"Rupe",
+    "wof:parent_id":1108959859,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.54639,
+    45.82806,
+    14.54639,
+    45.82806
+],
+  "geometry": {"coordinates":[14.54639,45.82806],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243488777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.37753,46.16193,15.37753,46.16193",
+    "geom:latitude":46.16193,
+    "geom:longitude":15.37753,
+    "gn:admin1_code":"L7",
+    "gn:asciiname":"Podlesje",
+    "gn:country_code":"SI",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988304,
+    "gn:latitude":46.16193,
+    "gn:longitude":15.37753,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Podle\u0161je",
+    "gn:population":58,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Podle\u0161je"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959791,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988304,
+        "wk:page":"Podle%C5%A1je"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6f72218bf1c1975f6ef3269ded152504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959791,
+            "locality_id":1243488777,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1243488777,
+    "wof:lastmodified":1537700304,
+    "wof:name":"Podlesje",
+    "wof:parent_id":1108959791,
+    "wof:placetype":"locality",
+    "wof:population":58,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.37753,
+    46.16193,
+    15.37753,
+    46.16193
+],
+  "geometry": {"coordinates":[15.37753,46.16193],"type":"Point"}
+}

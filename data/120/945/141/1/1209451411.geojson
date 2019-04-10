@@ -1,0 +1,68 @@
+{
+  "id": 1209451411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.12398,45.95671,15.12398,45.95671",
+    "geom:latitude":45.95671,
+    "geom:longitude":15.12398,
+    "gn:admin1_code":"O7",
+    "gn:asciiname":"Puscava",
+    "gn:country_code":"SI",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987571,
+    "gn:latitude":45.95671,
+    "gn:longitude":15.12398,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Pu\u0161\u010dava",
+    "gn:population":130,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pu\u0161\u010dava"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987571,
+        "wk:page":"Pu%C5%A1%C4%8Dava%2C_Mokronog%E2%80%93Trebelno"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"956fbb41921c53a1d06b81b58a7fcc4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209451411
+        }
+    ],
+    "wof:id":1209451411,
+    "wof:lastmodified":1537700289,
+    "wof:name":"Puscava",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":130,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.12398,
+    45.95671,
+    15.12398,
+    45.95671
+],
+  "geometry": {"coordinates":[15.12398,45.95671],"type":"Point"}
+}

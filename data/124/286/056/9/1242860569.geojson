@@ -1,0 +1,74 @@
+{
+  "id": 1242860569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.47458,45.8408,14.47458,45.8408",
+    "geom:latitude":45.8408,
+    "geom:longitude":14.47458,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Jersice",
+    "gn:country_code":"SI",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989105,
+    "gn:latitude":45.8408,
+    "gn:longitude":14.47458,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Jer\u0161i\u010de",
+    "gn:population":17,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jer\u0161i\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959905,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989105,
+        "wk:page":"Jer%C5%A1i%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"db0af0b081d8a73955ff7ae8ebfbe67e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959905,
+            "locality_id":1242860569,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1242860569,
+    "wof:lastmodified":1537700319,
+    "wof:name":"Jersice",
+    "wof:parent_id":1108959905,
+    "wof:placetype":"locality",
+    "wof:population":17,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.47458,
+    45.8408,
+    14.47458,
+    45.8408
+],
+  "geometry": {"coordinates":[14.47458,45.8408],"type":"Point"}
+}

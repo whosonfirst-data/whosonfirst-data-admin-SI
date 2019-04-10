@@ -1,0 +1,71 @@
+{
+  "id": 1243587943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.85192,46.50319,14.85192,46.50319",
+    "geom:latitude":46.50319,
+    "geom:longitude":14.85192,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Breg",
+    "gn:country_code":"SI",
+    "gn:dem":750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989842,
+    "gn:latitude":46.50319,
+    "gn:longitude":14.85192,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Breg",
+    "gn:population":64,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959479,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989842,
+        "wk:page":"Breg%2C_Me%C5%BEica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ff03cadcc4a73d1f4e12c8c85b6fb81d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959479,
+            "locality_id":1243587943,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1243587943,
+    "wof:lastmodified":1537573554,
+    "wof:name":"Breg",
+    "wof:parent_id":1108959479,
+    "wof:placetype":"locality",
+    "wof:population":64,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.85192,
+    46.50319,
+    14.85192,
+    46.50319
+],
+  "geometry": {"coordinates":[14.85192,46.50319],"type":"Point"}
+}

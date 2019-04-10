@@ -1,0 +1,75 @@
+{
+  "id": 1310537915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.6,46.1,15.6,46.1",
+    "geom:latitude":46.1,
+    "geom:longitude":15.6,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Polje ob Sotli",
+    "gn:country_code":"SI",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192790,
+    "gn:latitude":46.1,
+    "gn:longitude":15.6,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Polje ob Sotli",
+    "gn:population":58,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Polje",
+        "Polje ob Sotli"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959649,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192790,
+        "wk:page":"Polje_ob_Sotli"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2db0705db16805fa09655a5870b00b7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959649,
+            "locality_id":1310537915,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1310537915,
+    "wof:lastmodified":1537700206,
+    "wof:name":"Polje ob Sotli",
+    "wof:parent_id":1108959649,
+    "wof:placetype":"locality",
+    "wof:population":58,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.6,
+    46.1,
+    15.6,
+    46.1
+],
+  "geometry": {"coordinates":[15.6,46.1],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226476375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.38937,46.15738,15.38937,46.15738",
+    "geom:latitude":46.15738,
+    "geom:longitude":15.38937,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Kostrivnica",
+    "gn:country_code":"SI",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197562,
+    "gn:latitude":46.15738,
+    "gn:longitude":15.38937,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kostrivnica",
+    "gn:population":191,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959791,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197562,
+        "wk:page":"Kostrivnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d5d0e6344d00b71b3ee958a2b4ce1ef6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959791,
+            "locality_id":1226476375,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1226476375,
+    "wof:lastmodified":1537573429,
+    "wof:name":"Kostrivnica",
+    "wof:parent_id":1108959791,
+    "wof:placetype":"locality",
+    "wof:population":191,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.38937,
+    46.15738,
+    15.38937,
+    46.15738
+],
+  "geometry": {"coordinates":[15.38937,46.15738],"type":"Point"}
+}

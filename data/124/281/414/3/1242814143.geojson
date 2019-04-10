@@ -1,0 +1,74 @@
+{
+  "id": 1242814143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.15388,46.48546,16.15388,46.48546",
+    "geom:latitude":46.48546,
+    "geom:longitude":16.15388,
+    "gn:admin1_code":"I6",
+    "gn:asciiname":"Zerovinci",
+    "gn:country_code":"SI",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186561,
+    "gn:latitude":46.48546,
+    "gn:longitude":16.15388,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"\u017derovinci",
+    "gn:population":263,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017derovinci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959765,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186561,
+        "wk:page":"%C5%BDerovinci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8b8a7c8c234219386e3a00a403f03ab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959765,
+            "locality_id":1242814143,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1242814143,
+    "wof:lastmodified":1537700169,
+    "wof:name":"Zerovinci",
+    "wof:parent_id":1108959765,
+    "wof:placetype":"locality",
+    "wof:population":263,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.15387999999999,
+    46.48546,
+    16.15387999999999,
+    46.48546
+],
+  "geometry": {"coordinates":[16.15387999999999,46.48546],"type":"Point"}
+}

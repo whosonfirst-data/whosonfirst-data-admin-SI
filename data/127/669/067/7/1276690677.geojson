@@ -1,0 +1,74 @@
+{
+  "id": 1276690677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.70472,45.76288,14.70472,45.76288",
+    "geom:latitude":45.76288,
+    "geom:longitude":14.70472,
+    "gn:admin1_code":"L1",
+    "gn:asciiname":"Breze",
+    "gn:country_code":"SI",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987446,
+    "gn:latitude":45.76288,
+    "gn:longitude":14.70472,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Bre\u017ee",
+    "gn:population":151,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bre\u017ee"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959599,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987446,
+        "wk:page":"Bre%C5%BEe%2C_Ribnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"74d45b58a4e0ddb0a00579f2c8a10e6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959599,
+            "locality_id":1276690677,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1276690677,
+    "wof:lastmodified":1537700286,
+    "wof:name":"Breze",
+    "wof:parent_id":1108959599,
+    "wof:placetype":"locality",
+    "wof:population":151,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.70472,
+    45.76288,
+    14.70472,
+    45.76288
+],
+  "geometry": {"coordinates":[14.70472,45.76288],"type":"Point"}
+}

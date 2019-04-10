@@ -1,0 +1,73 @@
+{
+  "id": 1209455681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.92333,45.59417,13.92333,45.59417",
+    "geom:latitude":45.59417,
+    "geom:longitude":13.92333,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Klanec pri Kozini",
+    "gn:country_code":"SI",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198104,
+    "gn:latitude":45.59417,
+    "gn:longitude":13.92333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Klanec pri Kozini",
+    "gn:population":115,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sveti Peter",
+        "Clanz",
+        "San Pietro di Madrasso",
+        "San Pietro",
+        "Klanec",
+        "Klanec pri Kozini"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198104,
+        "wk:page":"Klanec_pri_Kozini"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"be0e91b833d6c89dacfec78031b6cfdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209455681
+        }
+    ],
+    "wof:id":1209455681,
+    "wof:lastmodified":1537700233,
+    "wof:name":"Klanec pri Kozini",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":115,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.92333,
+    45.59417,
+    13.92333,
+    45.59417
+],
+  "geometry": {"coordinates":[13.92333,45.59417],"type":"Point"}
+}

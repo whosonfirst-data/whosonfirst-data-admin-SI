@@ -1,0 +1,74 @@
+{
+  "id": 1276473877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.32404,45.91964,15.32404,45.91964",
+    "geom:latitude":45.91964,
+    "geom:longitude":15.32404,
+    "gn:admin1_code":"B8",
+    "gn:asciiname":"Zaborst",
+    "gn:country_code":"SI",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988707,
+    "gn:latitude":45.91964,
+    "gn:longitude":15.32404,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Zabor\u0161t",
+    "gn:population":36,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zabor\u0161t"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959605,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988707,
+        "wk:page":"Zabor%C5%A1t%2C_%C5%A0kocjan"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e28ef1a169ecf57180468e913f26dc49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959605,
+            "locality_id":1276473877,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1276473877,
+    "wof:lastmodified":1537700312,
+    "wof:name":"Zaborst",
+    "wof:parent_id":1108959605,
+    "wof:placetype":"locality",
+    "wof:population":36,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.32404,
+    45.91964,
+    15.32404,
+    45.91964
+],
+  "geometry": {"coordinates":[15.32404,45.91964],"type":"Point"}
+}

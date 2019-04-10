@@ -1,0 +1,65 @@
+{
+  "id": 1209064899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.64463,46.08805,14.64463,46.08805",
+    "geom:latitude":46.08805,
+    "geom:longitude":14.64463,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Dol pri Ljubljani",
+    "gn:country_code":"SI",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989748,
+    "gn:latitude":46.08805,
+    "gn:longitude":14.64463,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Dol pri Ljubljani",
+    "gn:population":238,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989748,
+        "wk:page":"Dol_pri_Ljubljani"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e98170b7d592b905a0b816b5f56d0c2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209064899
+        }
+    ],
+    "wof:id":1209064899,
+    "wof:lastmodified":1537573551,
+    "wof:name":"Dol pri Ljubljani",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":238,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.64463,
+    46.08805,
+    14.64463,
+    46.08805
+],
+  "geometry": {"coordinates":[14.64463,46.08805],"type":"Point"}
+}

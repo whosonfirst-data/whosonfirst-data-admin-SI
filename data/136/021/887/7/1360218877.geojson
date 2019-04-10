@@ -1,0 +1,74 @@
+{
+  "id": 1360218877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.11352,45.64939,15.11352,45.64939",
+    "geom:latitude":45.64939,
+    "geom:longitude":15.11352,
+    "gn:admin1_code":"B1",
+    "gn:asciiname":"Brezovica pri Crmosnjicah",
+    "gn:country_code":"SI",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989910,
+    "gn:latitude":45.64939,
+    "gn:longitude":15.11352,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Brezovica pri \u010crmo\u0161njicah",
+    "gn:population":8,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brezovica pri \u010crmo\u0161njicah"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959601,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989910,
+        "wk:page":"Brezovica_pri_%C4%8Crmo%C5%A1njicah"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"312974ef914f745ecd7dd6a4029c5cd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959601,
+            "locality_id":1360218877,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1360218877,
+    "wof:lastmodified":1537700335,
+    "wof:name":"Brezovica pri Crmosnjicah",
+    "wof:parent_id":1108959601,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.11352,
+    45.64939,
+    15.11352,
+    45.64939
+],
+  "geometry": {"coordinates":[15.11352,45.64939],"type":"Point"}
+}

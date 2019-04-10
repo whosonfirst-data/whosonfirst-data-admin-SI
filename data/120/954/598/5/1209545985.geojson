@@ -1,0 +1,65 @@
+{
+  "id": 1209545985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.84636,45.82526,14.84636,45.82526",
+    "geom:latitude":45.82526,
+    "geom:longitude":14.84636,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Brezovi Dol",
+    "gn:country_code":"SI",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987342,
+    "gn:latitude":45.82526,
+    "gn:longitude":14.84636,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Brezovi Dol",
+    "gn:population":169,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987342,
+        "wk:page":"Brezovi_Dol"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"58a93e6ab605dde8883111ffff5eabb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209545985
+        }
+    ],
+    "wof:id":1209545985,
+    "wof:lastmodified":1537573476,
+    "wof:name":"Brezovi Dol",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":169,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.84636,
+    45.82526,
+    14.84636,
+    45.82526
+],
+  "geometry": {"coordinates":[14.84636,45.82526],"type":"Point"}
+}

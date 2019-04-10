@@ -1,0 +1,74 @@
+{
+  "id": 1326459209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.12702,46.23583,15.12702,46.23583",
+    "geom:latitude":46.23583,
+    "geom:longitude":15.12702,
+    "gn:admin1_code":"N5",
+    "gn:asciiname":"Sesce pri Preboldu",
+    "gn:country_code":"SI",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216210,
+    "gn:latitude":46.23583,
+    "gn:longitude":15.12702,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"\u0160e\u0161\u010de pri Preboldu",
+    "gn:population":421,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160e\u0161\u010de pri Preboldu"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959713,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216210,
+        "wk:page":"%C5%A0e%C5%A1%C4%8De_pri_Preboldu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"585e54f11bb5fa489b4ad7e704985d9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959713,
+            "locality_id":1326459209,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1326459209,
+    "wof:lastmodified":1537700269,
+    "wof:name":"Sesce pri Preboldu",
+    "wof:parent_id":1108959713,
+    "wof:placetype":"locality",
+    "wof:population":421,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.12702,
+    46.23583,
+    15.12702,
+    46.23583
+],
+  "geometry": {"coordinates":[15.12702,46.23583],"type":"Point"}
+}

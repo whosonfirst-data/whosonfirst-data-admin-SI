@@ -1,0 +1,74 @@
+{
+  "id": 1309842515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.08349,45.94666,15.08349,45.94666",
+    "geom:latitude":45.94666,
+    "geom:longitude":15.08349,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Volcje Njive",
+    "gn:country_code":"SI",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988442,
+    "gn:latitude":45.94666,
+    "gn:longitude":15.08349,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Vol\u010dje Njive",
+    "gn:population":50,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vol\u010dje Njive"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959869,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988442,
+        "wk:page":"Vol%C4%8Dje_Njive"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e5027565e73d34cb67fe3061f64266cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959869,
+            "locality_id":1309842515,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1309842515,
+    "wof:lastmodified":1537700306,
+    "wof:name":"Volcje Njive",
+    "wof:parent_id":1108959869,
+    "wof:placetype":"locality",
+    "wof:population":50,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.08349,
+    45.94666,
+    15.08349,
+    45.94666
+],
+  "geometry": {"coordinates":[15.08349,45.94666],"type":"Point"}
+}

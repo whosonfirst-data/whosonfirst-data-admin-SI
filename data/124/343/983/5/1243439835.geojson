@@ -1,0 +1,67 @@
+{
+  "id": 1243439835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.71586,46.04333,15.71586,46.04333",
+    "geom:latitude":46.04333,
+    "geom:longitude":15.71586,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ledina",
+    "gn:country_code":"SI",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10794155,
+    "gn:latitude":46.04333,
+    "gn:longitude":15.71586,
+    "gn:modification_date":"2015-10-03",
+    "gn:name":"Ledina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10794155
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0d9b25795a32162624471738846de184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1243439835,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1243439835,
+    "wof:lastmodified":1536814362,
+    "wof:name":"Ledina",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.71586,
+    46.04333,
+    15.71586,
+    46.04333
+],
+  "geometry": {"coordinates":[15.71586,46.04333],"type":"Point"}
+}

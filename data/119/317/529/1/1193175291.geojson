@@ -1,0 +1,76 @@
+{
+  "id": 1193175291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.80306,46.09472,13.80306,46.09472",
+    "geom:latitude":46.09472,
+    "geom:longitude":13.80306,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Gorenji Cepovan",
+    "gn:country_code":"SI",
+    "gn:dem":703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218383,
+    "gn:latitude":46.09472,
+    "gn:longitude":13.80306,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Gorenji \u010cepovan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Gornji \u010cepovan"
+    ],
+    "name:slv_x_preferred":[
+        "Gornji \u010cepovan"
+    ],
+    "name:und_x_variant":[
+        "Gorenji \u010cepovan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959487,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218383
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"18b59ba29366ef11fe4e39c4ad024df4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959487,
+            "locality_id":1193175291,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1193175291,
+    "wof:lastmodified":1537700272,
+    "wof:name":"Gorenji Cepovan",
+    "wof:parent_id":1108959487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.80306,
+    46.09472,
+    13.80306,
+    46.09472
+],
+  "geometry": {"coordinates":[13.80306,46.09472],"type":"Point"}
+}

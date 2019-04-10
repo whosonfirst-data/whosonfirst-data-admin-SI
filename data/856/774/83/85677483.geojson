@@ -1,0 +1,211 @@
+{
+  "id": 85677483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.023222,
+    "geom:area_square_m":201027618.338774,
+    "geom:bbox":"13.8679257064,45.4729978754,14.1182393732,45.6437775743",
+    "geom:latitude":45.566307,
+    "geom:longitude":14.000824,
+    "iso:country":"SI",
+    "lbl:latitude":45.562689,
+    "lbl:longitude":14.009345,
+    "mps:latitude":45.562689,
+    "mps:longitude":14.009345,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:bos_x_preferred":[
+        "Hrpelje\u2013Kozina"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u010dina Hrpelje-Kozina"
+    ],
+    "name:deu_x_preferred":[
+        "Hrpelje-Kozina"
+    ],
+    "name:eng_x_preferred":[
+        "Hrpelje-Kozina"
+    ],
+    "name:fra_x_preferred":[
+        "Hrpelje-Kozina"
+    ],
+    "name:hbs_x_preferred":[
+        "Hrpelje-Kozina"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Hrpelje - Kozina"
+    ],
+    "name:ita_x_preferred":[
+        "Erpelle-Cosina"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30eb\u30da\u30ea\u30a7\uff1d\u30b3\u30b8\u30ca"
+    ],
+    "name:kor_x_preferred":[
+        "\ud750\ub974\ud3a0\ub808\ucf54\uc9c0\ub098"
+    ],
+    "name:nld_x_preferred":[
+        "Hrpelje-Kozina"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Hrpelje-Kozina"
+    ],
+    "name:por_x_preferred":[
+        "Hrpelje-Kozina"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Hrpelje-Kozina"
+    ],
+    "name:sco_x_preferred":[
+        "Municipality o Hrpelje\u2013Kozina"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Hrpelje - Kozina"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0425\u0440\u043f\u0435\u0459\u0435 - \u041a\u043e\u0437\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Hrpelje-Kozina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0440\u043f\u0435\u043b\u0454-\u041a\u043e\u0437\u0456\u043d\u0430"
+    ],
+    "name:und_x_preferred":[
+        "Sezana"
+    ],
+    "name:unk_x_variant":[
+        "Ob\u010dina Hrpelje-Kozina"
+    ],
+    "name:vie_x_preferred":[
+        "Hrpelje-Kozina"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-1026",
+    "ne:adm1_code":"SVN-1026",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SI.JP.HK",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"1026",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SI35",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.35",
+    "ne:gn_id":"3239050",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Hrpelje-Kozina",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI35",
+    "ne:gns_id":"243438",
+    "ne:gns_lang":"div",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Hrpelje-Kozina, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"45.56790000000",
+    "ne:longitude":"13.99290000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Hrpelje-Kozina",
+    "ne:name_alt":"",
+    "ne:name_len":14,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"HK",
+    "ne:provnum_ne":"88",
+    "ne:region":"Obalno-kra\u0161ka",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":-55848385,
+    "ne:woe_label":"",
+    "ne:woe_name":"",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Hrpelje-Kozina",
+    "qs:a1_lc":"SVN-1026",
+    "qs:a1r":"Obalno-kra\u0161ka",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "qs:woeid":55848385,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "unlc:subdivision":"SI-035",
+    "wd:wordcount":92,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SI35",
+        "gn:id":3239050,
+        "gp:id":-55848385,
+        "hasc:id":"SI.JP.HK",
+        "unlc:id":"SI-035",
+        "wd:id":"Q556206"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6d024391e85ecc16151f504fa5486557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677483
+        }
+    ],
+    "wof:id":85677483,
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616730,
+    "wof:name":"Hrpelje-Kozina",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:shortcode":"HK",
+    "wof:subdivision":"SI-035",
+    "wof:superseded_by":[
+        1108959549
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.86792570640625,
+    45.47299787535172,
+    14.11823937324851,
+    45.6437775742757
+],
+  "geometry": {"coordinates":[[[13.93835371305346,45.64264069271383],[13.95080773339021,45.63597443297374],[13.9714266293355,45.63308055312507],[13.98770470460846,45.62713776289752],[14.00620486796032,45.61778432888372],[14.02496341283131,45.61142812840546],[14.0396911962917,45.60243642779898],[14.05958662272451,45.59959422479369],[14.06640791209554,45.60098948787464],[14.07198896711719,45.60357331026012],[14.07725996287701,45.6098778347943],[14.08981733600132,45.6140894642574],[14.10454511856244,45.60471019092262],[14.10221967859536,45.60145457586805],[14.09911909317168,45.5940648457161],[14.09369306778092,45.58654592525431],[14.08950727673948,45.57468618412014],[14.09043745272629,45.57019033471624],[14.09369306778092,45.56745148449846],[14.09958418116508,45.56866588042607],[14.10563032418014,45.56595286683137],[14.1048551769249,45.56032013586565],[14.10268476658877,45.55039826107094],[14.09446821503616,45.5311746282066],[14.08718183767172,45.51799713835732],[14.08919721837697,45.51528412476262],[14.10749067615382,45.50476797076527],[14.11214155428934,45.50135732697913],[14.11823937324851,45.49179718739032],[14.11808434361762,45.47952403420686],[14.11679243332418,45.47321950877335],[14.1167470157622,45.47299787535172],[14.09291711383378,45.47391794835471],[14.06666548692272,45.4802741506316],[14.04155074067421,45.49314158121905],[14.04155074067421,45.49319325806249],[14.02832157398149,45.50265004486374],[14.013955525727,45.507972717467],[13.98747648994811,45.5119087901586],[13.98739464714532,45.51208018745075],[13.98382897282886,45.51954743106916],[13.95220299557184,45.54595408851043],[13.91044843884441,45.55202606904788],[13.89463545066559,45.55977753440573],[13.88481692865838,45.56770986601754],[13.88001102089197,45.57246409783988],[13.87055423319134,45.59747549130094],[13.86792570640625,45.60216928958113],[13.88703820824674,45.61876698840587],[13.89468631991775,45.63184112546764],[13.89364052978669,45.63375840632546],[13.90889814613257,45.6437775742757],[13.93835371305346,45.64264069271383]]],"type":"Polygon"}
+}

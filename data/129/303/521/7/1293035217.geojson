@@ -1,0 +1,74 @@
+{
+  "id": 1293035217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.74639,46.47861,15.74639,46.47861",
+    "geom:latitude":46.47861,
+    "geom:longitude":15.74639,
+    "gn:admin1_code":"C8",
+    "gn:asciiname":"Rosnja",
+    "gn:country_code":"SI",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191534,
+    "gn:latitude":46.47861,
+    "gn:longitude":15.74639,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ro\u0161nja",
+    "gn:population":426,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ro\u0161nja"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959783,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191534,
+        "wk:page":"Ro%C5%A1nja"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"26233e3794abd1ba75b1e9670e36ecdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959783,
+            "locality_id":1293035217,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1293035217,
+    "wof:lastmodified":1537700198,
+    "wof:name":"Rosnja",
+    "wof:parent_id":1108959783,
+    "wof:placetype":"locality",
+    "wof:population":426,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.74639,
+    46.47861,
+    15.74639,
+    46.47861
+],
+  "geometry": {"coordinates":[15.74639,46.47861],"type":"Point"}
+}

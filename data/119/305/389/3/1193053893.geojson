@@ -1,0 +1,73 @@
+{
+  "id": 1193053893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.64731,45.82574,14.64731,45.82574",
+    "geom:latitude":45.82574,
+    "geom:longitude":14.64731,
+    "gn:admin1_code":"D8",
+    "gn:asciiname":"Srobotnik pri Vel. Lascah",
+    "gn:country_code":"SI",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988376,
+    "gn:latitude":45.82574,
+    "gn:longitude":14.64731,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Srobotnik pri Vel. La\u0161\u010dah",
+    "gn:population":54,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Srobotnik pri Vel. La\u0161\u010dah"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959859,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988376
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"531b6583239e7410dea6fcb8a47cc3ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959859,
+            "locality_id":1193053893,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1193053893,
+    "wof:lastmodified":1537700305,
+    "wof:name":"Srobotnik pri Vel. Lascah",
+    "wof:parent_id":1108959859,
+    "wof:placetype":"locality",
+    "wof:population":54,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.64731,
+    45.82574,
+    14.64731,
+    45.82574
+],
+  "geometry": {"coordinates":[14.64731,45.82574],"type":"Point"}
+}

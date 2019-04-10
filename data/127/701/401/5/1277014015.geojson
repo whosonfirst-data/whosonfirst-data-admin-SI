@@ -1,0 +1,71 @@
+{
+  "id": 1277014015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.94773,45.85394,13.94773,45.85394",
+    "geom:latitude":45.85394,
+    "geom:longitude":13.94773,
+    "gn:admin1_code":"E1",
+    "gn:asciiname":"Zemono",
+    "gn:country_code":"SI",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988025,
+    "gn:latitude":45.85394,
+    "gn:longitude":13.94773,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Zemono",
+    "gn:population":80,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959623,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988025,
+        "wk:page":"Zemono"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e341c8fc58f55707d6ed908027db63f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959623,
+            "locality_id":1277014015,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1277014015,
+    "wof:lastmodified":1537573499,
+    "wof:name":"Zemono",
+    "wof:parent_id":1108959623,
+    "wof:placetype":"locality",
+    "wof:population":80,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.94773,
+    45.85394,
+    13.94773,
+    45.85394
+],
+  "geometry": {"coordinates":[13.94773,45.85394],"type":"Point"}
+}

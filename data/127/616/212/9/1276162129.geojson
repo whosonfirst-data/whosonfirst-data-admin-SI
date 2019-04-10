@@ -1,0 +1,75 @@
+{
+  "id": 1276162129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.34076,45.54901,14.34076,45.54901",
+    "geom:latitude":45.54901,
+    "geom:longitude":14.34076,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Kutezevo",
+    "gn:country_code":"SI",
+    "gn:dem":946,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196870,
+    "gn:latitude":45.54901,
+    "gn:longitude":14.34076,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Kute\u017eevo",
+    "gn:population":228,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cott\u00e9sevo",
+        "Kute\u017eevo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959873,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196870,
+        "wk:page":"Kute%C5%BEevo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e79febe12f694c776ddc5f3d2878e63a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959873,
+            "locality_id":1276162129,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1276162129,
+    "wof:lastmodified":1537700227,
+    "wof:name":"Kutezevo",
+    "wof:parent_id":1108959873,
+    "wof:placetype":"locality",
+    "wof:population":228,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.34076,
+    45.54901,
+    14.34076,
+    45.54901
+],
+  "geometry": {"coordinates":[14.34076,45.54901],"type":"Point"}
+}

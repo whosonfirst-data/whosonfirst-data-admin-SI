@@ -1,0 +1,74 @@
+{
+  "id": 1310537687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.51417,46.1025,15.51417,46.1025",
+    "geom:latitude":46.1025,
+    "geom:longitude":15.51417,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Lesicno",
+    "gn:country_code":"SI",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196647,
+    "gn:latitude":46.1025,
+    "gn:longitude":15.51417,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Lesi\u010dno",
+    "gn:population":169,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lesi\u010dno"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959581,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196647,
+        "wk:page":"Lesi%C4%8Dno"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8b796f9f9f034d5adc6a4b56e093bf18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959581,
+            "locality_id":1310537687,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1310537687,
+    "wof:lastmodified":1537700225,
+    "wof:name":"Lesicno",
+    "wof:parent_id":1108959581,
+    "wof:placetype":"locality",
+    "wof:population":169,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.51417,
+    46.1025,
+    15.51417,
+    46.1025
+],
+  "geometry": {"coordinates":[15.51417,46.1025],"type":"Point"}
+}

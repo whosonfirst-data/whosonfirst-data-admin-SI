@@ -1,0 +1,71 @@
+{
+  "id": 1293171805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.06667,46.15,14.06667,46.15",
+    "geom:latitude":46.15,
+    "geom:longitude":14.06667,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Robidnica",
+    "gn:country_code":"SI",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191602,
+    "gn:latitude":46.15,
+    "gn:longitude":14.06667,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Robidnica",
+    "gn:population":18,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959577,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191602,
+        "wk:page":"Robidnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"34ac789e2589e799385ffe0902e53824",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959577,
+            "locality_id":1293171805,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1293171805,
+    "wof:lastmodified":1537573405,
+    "wof:name":"Robidnica",
+    "wof:parent_id":1108959577,
+    "wof:placetype":"locality",
+    "wof:population":18,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.06667,
+    46.15,
+    14.06667,
+    46.15
+],
+  "geometry": {"coordinates":[14.06667,46.15],"type":"Point"}
+}

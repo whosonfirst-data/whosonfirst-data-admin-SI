@@ -1,0 +1,71 @@
+{
+  "id": 1343934093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.18578,45.60845,15.18578,45.60845",
+    "geom:latitude":45.60845,
+    "geom:longitude":15.18578,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Gornja Paka",
+    "gn:country_code":"SI",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989878,
+    "gn:latitude":45.60845,
+    "gn:longitude":15.18578,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Gornja Paka",
+    "gn:population":31,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959699,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989878,
+        "wk:page":"Gornja_Paka"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b04eee694ab6a0f15d582b1817ec9940",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959699,
+            "locality_id":1343934093,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1343934093,
+    "wof:lastmodified":1537573555,
+    "wof:name":"Gornja Paka",
+    "wof:parent_id":1108959699,
+    "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.18578,
+    45.60845,
+    15.18578,
+    45.60845
+],
+  "geometry": {"coordinates":[15.18578,45.60845],"type":"Point"}
+}

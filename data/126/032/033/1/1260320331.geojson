@@ -1,0 +1,71 @@
+{
+  "id": 1260320331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.52556,46.18917,15.52556,46.18917",
+    "geom:latitude":46.18917,
+    "geom:longitude":15.52556,
+    "gn:admin1_code":"C5",
+    "gn:asciiname":"Strtenica",
+    "gn:country_code":"SI",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216506,
+    "gn:latitude":46.18917,
+    "gn:longitude":15.52556,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Strtenica",
+    "gn:population":97,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959607,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216506,
+        "wk:page":"Strtenica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c83b4cae9777f96502a0ff3f95b034f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959607,
+            "locality_id":1260320331,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1260320331,
+    "wof:lastmodified":1537573456,
+    "wof:name":"Strtenica",
+    "wof:parent_id":1108959607,
+    "wof:placetype":"locality",
+    "wof:population":97,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.52556,
+    46.18917,
+    15.52556,
+    46.18917
+],
+  "geometry": {"coordinates":[15.52556,46.18917],"type":"Point"}
+}

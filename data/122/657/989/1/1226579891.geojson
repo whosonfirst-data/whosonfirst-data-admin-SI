@@ -1,0 +1,74 @@
+{
+  "id": 1226579891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.45421,45.86707,15.45421,45.86707",
+    "geom:latitude":45.86707,
+    "geom:longitude":15.45421,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Brod v Podbocju",
+    "gn:country_code":"SI",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987840,
+    "gn:latitude":45.86707,
+    "gn:longitude":15.45421,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Brod v Podbo\u010dju",
+    "gn:population":98,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brod v Podbo\u010dju"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987840,
+        "wk:page":"Brod_v_Podbo%C4%8Dju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2ffacf876fa78d74dc329331d360b837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1226579891,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1226579891,
+    "wof:lastmodified":1537700294,
+    "wof:name":"Brod v Podbocju",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":98,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.45421,
+    45.86707,
+    15.45421,
+    45.86707
+],
+  "geometry": {"coordinates":[15.45421,45.86707],"type":"Point"}
+}

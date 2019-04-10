@@ -1,0 +1,74 @@
+{
+  "id": 1344187581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.37163,46.18714,15.37163,46.18714",
+    "geom:latitude":46.18714,
+    "geom:longitude":15.37163,
+    "gn:admin1_code":"L7",
+    "gn:asciiname":"Vodruz",
+    "gn:country_code":"SI",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987156,
+    "gn:latitude":46.18714,
+    "gn:longitude":15.37163,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Vodru\u017e",
+    "gn:population":240,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vodru\u017e"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959791,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987156,
+        "wk:page":"Vodru%C5%BE"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"045a4a5c4a1398807d705e9d079951bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959791,
+            "locality_id":1344187581,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1344187581,
+    "wof:lastmodified":1537700280,
+    "wof:name":"Vodruz",
+    "wof:parent_id":1108959791,
+    "wof:placetype":"locality",
+    "wof:population":240,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.37163,
+    46.18714,
+    15.37163,
+    46.18714
+],
+  "geometry": {"coordinates":[15.37163,46.18714],"type":"Point"}
+}

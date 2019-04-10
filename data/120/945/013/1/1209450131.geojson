@@ -1,0 +1,70 @@
+{
+  "id": 1209450131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.98829,45.99951,14.98829,45.99951",
+    "geom:latitude":45.99951,
+    "geom:longitude":14.98829,
+    "gn:admin1_code":"I5",
+    "gn:asciiname":"Gabrovka",
+    "gn:country_code":"SI",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200777,
+    "gn:latitude":45.99951,
+    "gn:longitude":14.98829,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Gabrovka",
+    "gn:population":250,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sveti Kri\u017e",
+        "Sveti Kri\u017e pri Litiji",
+        "Gabrovka"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200777,
+        "wk:page":"Gabrovka%2C_Litija"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2bbbeef5ce3aaf82574b47437d473460",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209450131
+        }
+    ],
+    "wof:id":1209450131,
+    "wof:lastmodified":1537700247,
+    "wof:name":"Gabrovka",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":250,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.98829,
+    45.99951,
+    14.98829,
+    45.99951
+],
+  "geometry": {"coordinates":[14.98829,45.99951],"type":"Point"}
+}

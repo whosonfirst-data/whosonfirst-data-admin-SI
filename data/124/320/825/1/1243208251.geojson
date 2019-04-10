@@ -1,0 +1,74 @@
+{
+  "id": 1243208251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.9531,46.10755,14.9531,46.10755",
+    "geom:latitude":46.10755,
+    "geom:longitude":14.9531,
+    "gn:admin1_code":"E7",
+    "gn:asciiname":"Pozarje",
+    "gn:country_code":"SI",
+    "gn:dem":688,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989198,
+    "gn:latitude":46.10755,
+    "gn:longitude":14.9531,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Po\u017earje",
+    "gn:population":14,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Po\u017earje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959683,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989198,
+        "wk:page":"Po%C5%BEarje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e2ea51d492ec7bd3792efefec7412476",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959683,
+            "locality_id":1243208251,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1243208251,
+    "wof:lastmodified":1537700321,
+    "wof:name":"Pozarje",
+    "wof:parent_id":1108959683,
+    "wof:placetype":"locality",
+    "wof:population":14,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.9531,
+    46.10755,
+    14.9531,
+    46.10755
+],
+  "geometry": {"coordinates":[14.9531,46.10755],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226713665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.20206,45.57332,15.20206,45.57332",
+    "geom:latitude":45.57332,
+    "geom:longitude":15.20206,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Vojna Vas",
+    "gn:country_code":"SI",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987612,
+    "gn:latitude":45.57332,
+    "gn:longitude":15.20206,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Vojna Vas",
+    "gn:population":123,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959699,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987612,
+        "wk:page":"Vojna_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"65b18c963350dc8b3303b110e2035684",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959699,
+            "locality_id":1226713665,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1226713665,
+    "wof:lastmodified":1537573485,
+    "wof:name":"Vojna Vas",
+    "wof:parent_id":1108959699,
+    "wof:placetype":"locality",
+    "wof:population":123,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.20206,
+    45.57332,
+    15.20206,
+    45.57332
+],
+  "geometry": {"coordinates":[15.20206,45.57332],"type":"Point"}
+}

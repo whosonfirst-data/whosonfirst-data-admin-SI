@@ -1,0 +1,74 @@
+{
+  "id": 1343597583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.62008,46.24388,14.62008,46.24388",
+    "geom:latitude":46.24388,
+    "geom:longitude":14.62008,
+    "gn:admin1_code":"H6",
+    "gn:asciiname":"Zdusa",
+    "gn:country_code":"SI",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987866,
+    "gn:latitude":46.24388,
+    "gn:longitude":14.62008,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Zdu\u0161a",
+    "gn:population":95,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zdu\u0161a"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959941,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987866,
+        "wk:page":"Zdu%C5%A1a"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d2af79954690805e611ea72a261c8fc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959941,
+            "locality_id":1343597583,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1343597583,
+    "wof:lastmodified":1537700295,
+    "wof:name":"Zdusa",
+    "wof:parent_id":1108959941,
+    "wof:placetype":"locality",
+    "wof:population":95,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.62008,
+    46.24388,
+    14.62008,
+    46.24388
+],
+  "geometry": {"coordinates":[14.62008,46.24388],"type":"Point"}
+}

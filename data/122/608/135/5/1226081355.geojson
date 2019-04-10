@@ -1,0 +1,74 @@
+{
+  "id": 1226081355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.05759,46.35543,16.05759,46.35543",
+    "geom:latitude":46.35543,
+    "geom:longitude":16.05759,
+    "gn:admin1_code":"E9",
+    "gn:asciiname":"Turski Vrh",
+    "gn:country_code":"SI",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986964,
+    "gn:latitude":46.35543,
+    "gn:longitude":16.05759,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Tur\u0161ki Vrh",
+    "gn:population":419,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tur\u0161ki Vrh"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959619,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986964,
+        "wk:page":"Tur%C5%A1ki_Vrh"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8004a4d289666ba0409ddbd2e7b1f2a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959619,
+            "locality_id":1226081355,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1226081355,
+    "wof:lastmodified":1537700277,
+    "wof:name":"Turski Vrh",
+    "wof:parent_id":1108959619,
+    "wof:placetype":"locality",
+    "wof:population":419,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.05759,
+    46.35543,
+    16.05759,
+    46.35543
+],
+  "geometry": {"coordinates":[16.05759,46.35543],"type":"Point"}
+}

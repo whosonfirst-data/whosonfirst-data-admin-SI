@@ -1,0 +1,77 @@
+{
+  "id": 1259613951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.93172,45.70359,14.93172,45.70359",
+    "geom:latitude":45.70359,
+    "geom:longitude":14.93172,
+    "gn:admin1_code":"H7",
+    "gn:asciiname":"Pugled pri Starem Logu",
+    "gn:country_code":"SI",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989427,
+    "gn:latitude":45.70359,
+    "gn:longitude":14.93172,
+    "gn:modification_date":"2015-11-04",
+    "gn:name":"Pugled pri Starem Logu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Hohenberg"
+    ],
+    "name:slv_x_historical":[
+        "Na Pogledu"
+    ],
+    "name:slv_x_preferred":[
+        "Na Pogledu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959919,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989427,
+        "wk:page":"Pugled_pri_Starem_Logu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c4e0afda7fc1e3cfcced4304b6013030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959919,
+            "locality_id":1259613951,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1259613951,
+    "wof:lastmodified":1537700326,
+    "wof:name":"Pugled pri Starem Logu",
+    "wof:parent_id":1108959919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.93172,
+    45.70359000000001,
+    14.93172,
+    45.70359000000001
+],
+  "geometry": {"coordinates":[14.93172,45.70359000000001],"type":"Point"}
+}

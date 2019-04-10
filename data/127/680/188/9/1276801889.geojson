@@ -1,0 +1,71 @@
+{
+  "id": 1276801889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.03537,46.41359,14.03537,46.41359",
+    "geom:latitude":46.41359,
+    "geom:longitude":14.03537,
+    "gn:admin1_code":"O2",
+    "gn:asciiname":"Spodnje Gorje",
+    "gn:country_code":"SI",
+    "gn:dem":1017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190222,
+    "gn:latitude":46.41359,
+    "gn:longitude":14.03537,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Spodnje Gorje",
+    "gn:population":998,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959735,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190222,
+        "wk:page":"Spodnje_Gorje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"830d2640adc40503530e5e685e19ba54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959735,
+            "locality_id":1276801889,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1276801889,
+    "wof:lastmodified":1537573398,
+    "wof:name":"Spodnje Gorje",
+    "wof:parent_id":1108959735,
+    "wof:placetype":"locality",
+    "wof:population":998,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.03537,
+    46.41359,
+    14.03537,
+    46.41359
+],
+  "geometry": {"coordinates":[14.03537,46.41359],"type":"Point"}
+}

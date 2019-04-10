@@ -1,0 +1,71 @@
+{
+  "id": 1343792899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.33005,45.93627,14.33005,45.93627",
+    "geom:latitude":45.93627,
+    "geom:longitude":14.33005,
+    "gn:admin1_code":"E5",
+    "gn:asciiname":"Bistra",
+    "gn:country_code":"SI",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988520,
+    "gn:latitude":45.93627,
+    "gn:longitude":14.33005,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Bistra",
+    "gn:population":46,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959851,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988520,
+        "wk:page":"Bistra%2C_Vrhnika"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c57e2b3be665a1d1c2b1b8168a94ecf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959851,
+            "locality_id":1343792899,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1343792899,
+    "wof:lastmodified":1537573514,
+    "wof:name":"Bistra",
+    "wof:parent_id":1108959851,
+    "wof:placetype":"locality",
+    "wof:population":46,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.33005,
+    45.93627,
+    14.33005,
+    45.93627
+],
+  "geometry": {"coordinates":[14.33005,45.93627],"type":"Point"}
+}

@@ -1,0 +1,118 @@
+{
+  "id": 101791185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000073,
+    "geom:area_square_m":618458.741152,
+    "geom:bbox":"14.8353999511,46.4662235596,14.8603143716,46.4792879533",
+    "geom:latitude":46.47102,
+    "geom:longitude":14.84973,
+    "gn:population":2409,
+    "iso:country":"SI",
+    "lbl:latitude":46.470437,
+    "lbl:longitude":14.850579,
+    "mps:latitude":46.470437,
+    "mps:longitude":14.850579,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "\u010crna na Koro\u0161kem"
+    ],
+    "name:dut_x_preferred":[
+        "\u010crna na Koro\u0161kem"
+    ],
+    "name:eng_x_preferred":[
+        "\u010crna na Koro\u0161kem"
+    ],
+    "name:pol_x_preferred":[
+        "\u010crna na Koro\u0161kem"
+    ],
+    "name:rum_x_preferred":[
+        "\u010crna na Koro\u0161kem"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0440\u043d\u0430-\u043d\u0430-\u041a\u043e\u0440\u043e\u0448\u043a\u0435\u043c"
+    ],
+    "name:slv_x_preferred":[
+        "\u010crna na Koro\u0161kem"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0440\u043d\u0430 \u043d\u0430 \u041a\u043e\u0440\u043e\u0448\u043a\u0435\u043c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0440\u043d\u0430-\u043d\u0430-\u041a\u043e\u0440\u043e\u0448\u043a\u0435\u043c"
+    ],
+    "name:unk_x_variant":[
+        "\u010crna"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u0631\u0646\u0627 \u0646\u0627 \u06a9\u0648\u0631\u0648\u0634\u06a9\u06cc\u0645"
+    ],
+    "name:vie_x_preferred":[
+        "\u010crna na Koro\u0161kem"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"\u010crna na Koro\u0161kem",
+    "qs:la_lc":"*SI016000",
+    "qs:level":"locality",
+    "qs:loc":"\u010crna na Koro\u0161kem",
+    "qs:loc_alt":"Crna na Koroskem",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959573,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202459,
+        "gp:id":529767,
+        "qs:id":963579,
+        "qs_pg:id":147294,
+        "wd:id":"Q2573748"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1aa148403a13621f208d68a8d0dbd792",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959573,
+            "locality_id":101791185,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":101791185,
+    "wof:lastmodified":1531170445,
+    "wof:name":"\u010crna na Koro\u0161kem",
+    "wof:parent_id":1108959573,
+    "wof:placetype":"locality",
+    "wof:population":2409,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.83539995114592,
+    46.46622355958465,
+    14.86031437162177,
+    46.47928795329244
+],
+  "geometry": {"coordinates":[[[14.85480388865125,46.47917035445369],[14.85447665207954,46.47557694257472],[14.85317806616871,46.47563574527362],[14.85268744829921,46.47024560385489],[14.85398590389929,46.47018680801716],[14.85390412497895,46.46928845030396],[14.85909783462245,46.46905311446608],[14.85901597240144,46.46815476077063],[14.86031437162177,46.46809588869132],[14.86023249124622,46.46719753558227],[14.85374057780155,46.46749173320268],[14.8538223496131,46.46839009203245],[14.84473341009118,46.46880131706871],[14.84465179027649,46.46790295024266],[14.84335338171786,46.46796163271148],[14.84327178716381,46.46706326418632],[14.84197339773584,46.46712192980851],[14.84189182844085,46.46622355958465],[14.83539995114592,46.46651664641252],[14.83548141187424,46.46741502233533],[14.8380782139601,46.46729783244177],[14.83815972165814,46.46819620552793],[14.84205497057587,46.46802029947446],[14.84213654696185,46.46891866858232],[14.8434349798182,46.46886000067849],[14.84351658146562,46.46975836808775],[14.84481503345404,46.46969968333667],[14.84489666036478,46.47059804904666],[14.84749360002115,46.47048063014222],[14.84757527391406,46.47137899301111],[14.84887376158076,46.47132025885685],[14.84920057953428,46.47491370018395],[14.85049915149,46.47485494575238],[14.85066262522236,46.47665166078355],[14.8519612380332,46.47659288835803],[14.85220654045463,46.47928795329244],[14.85480388865125,46.47917035445369]]],"type":"Polygon"}
+}

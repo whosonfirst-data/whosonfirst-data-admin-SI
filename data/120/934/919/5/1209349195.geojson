@@ -1,0 +1,65 @@
+{
+  "id": 1209349195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.23917,46.37225,14.23917,46.37225",
+    "geom:latitude":46.37225,
+    "geom:longitude":14.23917,
+    "gn:admin1_code":"A3",
+    "gn:asciiname":"Zadnja Vas",
+    "gn:country_code":"SI",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989599,
+    "gn:latitude":46.37225,
+    "gn:longitude":14.23917,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Zadnja Vas",
+    "gn:population":32,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989599,
+        "wk:page":"Zadnja_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f9559d951e1c8faea0e37026c77f2cec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209349195
+        }
+    ],
+    "wof:id":1209349195,
+    "wof:lastmodified":1537573547,
+    "wof:name":"Zadnja Vas",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":32,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.23917,
+    46.37225,
+    14.23917,
+    46.37225
+],
+  "geometry": {"coordinates":[14.23917,46.37225],"type":"Point"}
+}

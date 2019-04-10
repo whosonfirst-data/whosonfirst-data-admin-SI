@@ -1,0 +1,75 @@
+{
+  "id": 1344188453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.60917,45.84139,13.60917,45.84139",
+    "geom:latitude":45.84139,
+    "geom:longitude":13.60917,
+    "gn:admin1_code":"J5",
+    "gn:asciiname":"Hudi Log",
+    "gn:country_code":"SI",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199220,
+    "gn:latitude":45.84139,
+    "gn:longitude":13.60917,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Hudi Log",
+    "gn:population":22,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boscomalo",
+        "Hudi Log"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959481,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199220,
+        "wk:page":"Hudi_Log"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ddb78371d4a59ba6bda89fb31afa1bae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959481,
+            "locality_id":1344188453,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1344188453,
+    "wof:lastmodified":1537700238,
+    "wof:name":"Hudi Log",
+    "wof:parent_id":1108959481,
+    "wof:placetype":"locality",
+    "wof:population":22,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.60917,
+    45.84139,
+    13.60917,
+    45.84139
+],
+  "geometry": {"coordinates":[13.60917,45.84139],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310334301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.89662,45.52157,14.89662,45.52157",
+    "geom:latitude":45.52157,
+    "geom:longitude":14.89662,
+    "gn:admin1_code":"H9",
+    "gn:asciiname":"Dolenji Potok",
+    "gn:country_code":"SI",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989675,
+    "gn:latitude":45.52157,
+    "gn:longitude":14.89662,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Dolenji Potok",
+    "gn:population":1,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959711,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989675,
+        "wk:page":"Dolenji_Potok"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ac0d9a0ad504bae29fbff298883647c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959711,
+            "locality_id":1310334301,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1310334301,
+    "wof:lastmodified":1537573549,
+    "wof:name":"Dolenji Potok",
+    "wof:parent_id":1108959711,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.89662,
+    45.52157,
+    14.89662,
+    45.52157
+],
+  "geometry": {"coordinates":[14.89662,45.52157],"type":"Point"}
+}

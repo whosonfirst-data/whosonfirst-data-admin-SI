@@ -1,0 +1,93 @@
+{
+  "id": 85677951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000773,
+    "geom:area_square_m":6636694.361673,
+    "geom:bbox":"15.5594433937,45.993988756,15.60367842,46.0223074413",
+    "geom:latitude":46.009694,
+    "geom:longitude":15.58056,
+    "gn:population":25867,
+    "iso:country":"SI",
+    "label:eng_x_preferred_longname":[
+        "Krsko Commune"
+    ],
+    "lbl:latitude":46.007362,
+    "lbl:longitude":15.57877,
+    "mps:latitude":46.007362,
+    "mps:longitude":15.57877,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:eng_x_preferred":[
+        "Krsko"
+    ],
+    "name:und_x_preferred":[
+        "Krsko"
+    ],
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Krsko",
+    "qs:a1_lc":"SVN-939",
+    "qs:a1r":"Savinjska",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":348,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197146,
+        "gp:id":55848359,
+        "qs:id":1198582,
+        "wd:id":"Q3484655",
+        "wk:page":"Municipality of Kr\u0161ko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"85f7c269956fbcc2ff351ce51f4089a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677951
+        }
+    ],
+    "wof:id":85677951,
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1553550485,
+    "wof:name":"Krsko",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:population":25867,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.55944339369773,
+    45.99398875597637,
+    15.60367842002313,
+    46.02230744133539
+],
+  "geometry": {"coordinates":[[[15.58367963990349,45.99398875597637],[15.56859012213647,45.99776113496847],[15.56471439035687,45.99998322214805],[15.56393924310163,46.00463410118289],[15.55944339369773,46.01711395904204],[15.56734988778715,46.01773407756571],[15.57189741403448,46.01900014943737],[15.57794355615027,46.01931020779989],[15.58507490388376,46.02101553014268],[15.5993375993508,46.02230744133539],[15.60181806804945,46.02049876620515],[15.60367842002313,46.01822500308145],[15.58367963990349,45.99398875597637]]],"type":"Polygon"}
+}

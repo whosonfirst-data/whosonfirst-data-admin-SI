@@ -1,0 +1,71 @@
+{
+  "id": 1310436265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.90694,46.53,14.90694,46.53",
+    "geom:latitude":46.53,
+    "geom:longitude":14.90694,
+    "gn:admin1_code":"K6",
+    "gn:asciiname":"Lese",
+    "gn:country_code":"SI",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196648,
+    "gn:latitude":46.53,
+    "gn:longitude":14.90694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Le\u0161e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Le\u0161e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959695,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196648,
+        "wk:page":"Le%C5%A1e%2C_Prevalje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e5881d2a40566ec643075b5f3643c843",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959695,
+            "locality_id":1310436265,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1310436265,
+    "wof:lastmodified":1537700225,
+    "wof:name":"Lese",
+    "wof:parent_id":1108959695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.90694,
+    46.53,
+    14.90694,
+    46.53
+],
+  "geometry": {"coordinates":[14.90694,46.53],"type":"Point"}
+}

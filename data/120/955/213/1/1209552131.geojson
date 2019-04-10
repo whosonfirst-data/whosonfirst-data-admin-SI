@@ -1,0 +1,65 @@
+{
+  "id": 1209552131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.93721,45.64426,14.93721,45.64426",
+    "geom:latitude":45.64426,
+    "geom:longitude":14.93721,
+    "gn:admin1_code":"H7",
+    "gn:asciiname":"Onek",
+    "gn:country_code":"SI",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194106,
+    "gn:latitude":45.64426,
+    "gn:longitude":14.93721,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Onek",
+    "gn:population":43,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194106,
+        "wk:page":"Onek"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1f43408cac7c9e64ed10675f7bc4a93b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209552131
+        }
+    ],
+    "wof:id":1209552131,
+    "wof:lastmodified":1537573416,
+    "wof:name":"Onek",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":43,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.93721,
+    45.64426,
+    14.93721,
+    45.64426
+],
+  "geometry": {"coordinates":[14.93721,45.64426],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1243492935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.19139,45.57417,14.19139,45.57417",
+    "geom:latitude":45.57417,
+    "geom:longitude":14.19139,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Brce",
+    "gn:country_code":"SI",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203525,
+    "gn:latitude":45.57417,
+    "gn:longitude":14.19139,
+    "gn:modification_date":"2015-10-22",
+    "gn:name":"Brce",
+    "gn:population":28,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Brdce"
+    ],
+    "name:slv_x_preferred":[
+        "Brdce"
+    ],
+    "name:und_x_variant":[
+        "Berze di Torrenova",
+        "Brce"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959873,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203525,
+        "wk:page":"Brce"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"087c7a52ed4bac348b954e6d86086f56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959873,
+            "locality_id":1243492935,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1243492935,
+    "wof:lastmodified":1537700263,
+    "wof:name":"Brce",
+    "wof:parent_id":1108959873,
+    "wof:placetype":"locality",
+    "wof:population":28,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.19139,
+    45.57417,
+    14.19139,
+    45.57417
+],
+  "geometry": {"coordinates":[14.19139,45.57417],"type":"Point"}
+}

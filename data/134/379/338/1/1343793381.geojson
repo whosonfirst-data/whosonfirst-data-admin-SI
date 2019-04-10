@@ -1,0 +1,74 @@
+{
+  "id": 1343793381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.12773,46.42749,16.12773,46.42749",
+    "geom:latitude":46.42749,
+    "geom:longitude":16.12773,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Strmec pri Ormozu",
+    "gn:country_code":"SI",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988268,
+    "gn:latitude":46.42749,
+    "gn:longitude":16.12773,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Strmec pri Ormo\u017eu",
+    "gn:population":60,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Strmec pri Ormo\u017eu"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959765,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988268,
+        "wk:page":"Strmec_pri_Ormo%C5%BEu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7a836eb124078487af9b52892e4f8621",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959765,
+            "locality_id":1343793381,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1343793381,
+    "wof:lastmodified":1537700303,
+    "wof:name":"Strmec pri Ormozu",
+    "wof:parent_id":1108959765,
+    "wof:placetype":"locality",
+    "wof:population":60,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.12773,
+    46.42749,
+    16.12773,
+    46.42749
+],
+  "geometry": {"coordinates":[16.12773,46.42749],"type":"Point"}
+}

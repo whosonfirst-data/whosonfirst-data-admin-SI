@@ -1,0 +1,73 @@
+{
+  "id": 1292927149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.53671,45.97359,13.53671,45.97359",
+    "geom:latitude":45.97359,
+    "geom:longitude":13.53671,
+    "gn:admin1_code":"07",
+    "gn:country_code":"SI",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986930,
+    "gn:latitude":45.97359,
+    "gn:longitude":13.53671,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Vipol\u017ee",
+    "gn:population":457,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vipol\u008eE"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959811,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986930,
+        "wk:page":"Vipol%C5%BEe"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a6777a8211871c2bf752476c24ada89c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959811,
+            "locality_id":1292927149,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1292927149,
+    "wof:lastmodified":1537700277,
+    "wof:name":"",
+    "wof:parent_id":1108959811,
+    "wof:placetype":"locality",
+    "wof:population":457,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.53671,
+    45.97359,
+    13.53671,
+    45.97359
+],
+  "geometry": {"coordinates":[13.53671,45.97359],"type":"Point"}
+}

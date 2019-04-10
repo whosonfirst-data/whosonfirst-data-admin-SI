@@ -1,0 +1,71 @@
+{
+  "id": 1226785729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.83444,46.68129,15.83444,46.68129",
+    "geom:latitude":46.68129,
+    "geom:longitude":15.83444,
+    "gn:admin1_code":"N9",
+    "gn:asciiname":"Grabe",
+    "gn:country_code":"SI",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987717,
+    "gn:latitude":46.68129,
+    "gn:longitude":15.83444,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Grabe",
+    "gn:population":111,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959667,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987717,
+        "wk:page":"Grabe%2C_Apa%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"094e997823f731d340bd4aa38738b491",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959667,
+            "locality_id":1226785729,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1226785729,
+    "wof:lastmodified":1537573489,
+    "wof:name":"Grabe",
+    "wof:parent_id":1108959667,
+    "wof:placetype":"locality",
+    "wof:population":111,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.83444,
+    46.68129,
+    15.83444,
+    46.68129
+],
+  "geometry": {"coordinates":[15.83444,46.68129],"type":"Point"}
+}

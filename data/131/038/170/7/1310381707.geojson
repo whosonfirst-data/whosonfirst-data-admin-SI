@@ -1,0 +1,71 @@
+{
+  "id": 1310381707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.17389,45.60167,15.17389,45.60167",
+    "geom:latitude":45.60167,
+    "geom:longitude":15.17389,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Lokve",
+    "gn:country_code":"SI",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196250,
+    "gn:latitude":45.60167,
+    "gn:longitude":15.17389,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Lokve",
+    "gn:population":514,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959699,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196250,
+        "wk:page":"Lokve%2C_%C4%8Crnomelj"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c37dba026ec3f3ca956edb8364f498f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959699,
+            "locality_id":1310381707,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1310381707,
+    "wof:lastmodified":1537573424,
+    "wof:name":"Lokve",
+    "wof:parent_id":1108959699,
+    "wof:placetype":"locality",
+    "wof:population":514,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.17389,
+    45.60167,
+    15.17389,
+    45.60167
+],
+  "geometry": {"coordinates":[15.17389,45.60167],"type":"Point"}
+}

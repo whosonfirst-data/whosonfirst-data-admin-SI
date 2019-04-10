@@ -1,0 +1,74 @@
+{
+  "id": 1226078825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.16667,46.36667,14.16667,46.36667",
+    "geom:latitude":46.36667,
+    "geom:longitude":14.16667,
+    "gn:admin1_code":"A3",
+    "gn:asciiname":"Hrase",
+    "gn:country_code":"SI",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199316,
+    "gn:latitude":46.36667,
+    "gn:longitude":14.16667,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Hra\u0161e",
+    "gn:population":218,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hra\u0161e"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959825,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199316,
+        "wk:page":"Hra%C5%A1e%2C_Radovljica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0f2d3273d77d69a9aef7ccef2eb59d23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959825,
+            "locality_id":1226078825,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1226078825,
+    "wof:lastmodified":1537700239,
+    "wof:name":"Hrase",
+    "wof:parent_id":1108959825,
+    "wof:placetype":"locality",
+    "wof:population":218,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.16667,
+    46.36667,
+    14.16667,
+    46.36667
+],
+  "geometry": {"coordinates":[14.16667,46.36667],"type":"Point"}
+}

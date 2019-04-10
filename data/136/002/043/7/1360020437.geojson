@@ -1,0 +1,71 @@
+{
+  "id": 1360020437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.76952,46.21347,14.76952,46.21347",
+    "geom:latitude":46.21347,
+    "geom:longitude":14.76952,
+    "gn:admin1_code":"H6",
+    "gn:asciiname":"Mali Hrib",
+    "gn:country_code":"SI",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989548,
+    "gn:latitude":46.21347,
+    "gn:longitude":14.76952,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Mali Hrib",
+    "gn:population":66,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959941,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989548,
+        "wk:page":"Mali_Hrib"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6b162daec1f647589f64a0432218f767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959941,
+            "locality_id":1360020437,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1360020437,
+    "wof:lastmodified":1537573545,
+    "wof:name":"Mali Hrib",
+    "wof:parent_id":1108959941,
+    "wof:placetype":"locality",
+    "wof:population":66,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.76952,
+    46.21347,
+    14.76952,
+    46.21347
+],
+  "geometry": {"coordinates":[14.76952,46.21347],"type":"Point"}
+}

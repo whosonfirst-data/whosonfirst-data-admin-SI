@@ -1,0 +1,75 @@
+{
+  "id": 1293525717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.09161,45.96094,15.09161,45.96094",
+    "geom:latitude":45.96094,
+    "geom:longitude":15.09161,
+    "gn:admin1_code":"P2",
+    "gn:asciiname":"Rakovnik pri Sentrupertu",
+    "gn:country_code":"SI",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191986,
+    "gn:latitude":45.96094,
+    "gn:longitude":15.09161,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Rakovnik pri \u0160entrupertu",
+    "gn:population":120,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rakovnik",
+        "Rakovnik pri \u0160entrupertu"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959841,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191986,
+        "wk:page":"Rakovnik_pri_%C5%A0entrupertu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d77610ed208603b46ea69cf00fdb9ac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959841,
+            "locality_id":1293525717,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1293525717,
+    "wof:lastmodified":1537700201,
+    "wof:name":"Rakovnik pri Sentrupertu",
+    "wof:parent_id":1108959841,
+    "wof:placetype":"locality",
+    "wof:population":120,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.09161,
+    45.96094,
+    15.09161,
+    45.96094
+],
+  "geometry": {"coordinates":[15.09161,45.96094],"type":"Point"}
+}

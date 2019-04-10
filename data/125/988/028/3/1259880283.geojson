@@ -1,0 +1,75 @@
+{
+  "id": 1259880283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.03595,46.2862,14.03595,46.2862",
+    "geom:latitude":46.2862,
+    "geom:longitude":14.03595,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Nomenj",
+    "gn:country_code":"SI",
+    "gn:dem":721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194471,
+    "gn:latitude":46.2862,
+    "gn:longitude":14.03595,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Nomenj",
+    "gn:population":173,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nomelj",
+        "Nomenj"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959819,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194471,
+        "wk:page":"Nomenj"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"75c894088ef21cdd79a4f0b980fed7ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959819,
+            "locality_id":1259880283,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1259880283,
+    "wof:lastmodified":1537700215,
+    "wof:name":"Nomenj",
+    "wof:parent_id":1108959819,
+    "wof:placetype":"locality",
+    "wof:population":173,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.03595,
+    46.2862,
+    14.03595,
+    46.2862
+],
+  "geometry": {"coordinates":[14.03595,46.2862],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343692699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.49928,45.75717,14.49928,45.75717",
+    "geom:latitude":45.75717,
+    "geom:longitude":14.49928,
+    "gn:admin1_code":"F6",
+    "gn:asciiname":"Fara",
+    "gn:country_code":"SI",
+    "gn:dem":822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988286,
+    "gn:latitude":45.75717,
+    "gn:longitude":14.49928,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Fara",
+    "gn:population":59,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959893,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988286,
+        "wk:page":"Fara%2C_Bloke"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b9ce291aba818bdb40ec36ecb6caa18d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959893,
+            "locality_id":1343692699,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1343692699,
+    "wof:lastmodified":1537573507,
+    "wof:name":"Fara",
+    "wof:parent_id":1108959893,
+    "wof:placetype":"locality",
+    "wof:population":59,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.49928,
+    45.75717,
+    14.49928,
+    45.75717
+],
+  "geometry": {"coordinates":[14.49928,45.75717],"type":"Point"}
+}

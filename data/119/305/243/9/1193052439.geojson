@@ -1,0 +1,72 @@
+{
+  "id": 1193052439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.44722,46.54389,15.44722,46.54389",
+    "geom:latitude":46.54389,
+    "geom:longitude":15.44722,
+    "gn:admin1_code":"L3",
+    "gn:asciiname":"Fala",
+    "gn:country_code":"SI",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3200874,
+    "gn:latitude":46.54389,
+    "gn:longitude":15.44722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Fala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Faal",
+        "Fala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959611,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200874,
+        "wk:page":"Fala%2C_Ru%C5%A1e"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3392a9b806cf555fefbf66047ad36d6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959611,
+            "locality_id":1193052439,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1193052439,
+    "wof:lastmodified":1537700249,
+    "wof:name":"Fala",
+    "wof:parent_id":1108959611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.44722,
+    46.54389000000001,
+    15.44722,
+    46.54389000000001
+],
+  "geometry": {"coordinates":[15.44722,46.54389000000001],"type":"Point"}
+}

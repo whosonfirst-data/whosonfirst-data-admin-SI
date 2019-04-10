@@ -1,0 +1,71 @@
+{
+  "id": 1344252777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.58068,45.87741,15.58068,45.87741",
+    "geom:latitude":45.87741,
+    "geom:longitude":15.58068,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Mrzlava Vas",
+    "gn:country_code":"SI",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987345,
+    "gn:latitude":45.87741,
+    "gn:longitude":15.58068,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Mrzlava Vas",
+    "gn:population":168,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987345,
+        "wk:page":"Mrzlava_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1b9c9c7e185f72a376ec973fd342c950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1344252777,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1344252777,
+    "wof:lastmodified":1537573476,
+    "wof:name":"Mrzlava Vas",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:population":168,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.58068,
+    45.87741,
+    15.58068,
+    45.87741
+],
+  "geometry": {"coordinates":[15.58068,45.87741],"type":"Point"}
+}

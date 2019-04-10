@@ -1,0 +1,74 @@
+{
+  "id": 1310629799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.59117,46.18557,15.59117,46.18557",
+    "geom:latitude":46.18557,
+    "geom:longitude":15.59117,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Cmereska Gorca",
+    "gn:country_code":"SI",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989518,
+    "gn:latitude":46.18557,
+    "gn:longitude":15.59117,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Cmere\u0161ka Gorca",
+    "gn:population":95,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cmere\u0161ka Gorca"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959649,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989518,
+        "wk:page":"Cmere%C5%A1ka_Gorca"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0ed6c20dacf007777af99b188ed062af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959649,
+            "locality_id":1310629799,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1310629799,
+    "wof:lastmodified":1537700328,
+    "wof:name":"Cmereska Gorca",
+    "wof:parent_id":1108959649,
+    "wof:placetype":"locality",
+    "wof:population":95,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.59117,
+    46.18557,
+    15.59117,
+    46.18557
+],
+  "geometry": {"coordinates":[15.59117,46.18557],"type":"Point"}
+}

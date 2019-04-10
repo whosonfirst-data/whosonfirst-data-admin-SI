@@ -1,0 +1,71 @@
+{
+  "id": 1309939901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.48768,46.33688,15.48768,46.33688",
+    "geom:latitude":46.33688,
+    "geom:longitude":15.48768,
+    "gn:admin1_code":"C4",
+    "gn:asciiname":"Perovec",
+    "gn:country_code":"SI",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988532,
+    "gn:latitude":46.33688,
+    "gn:longitude":15.48768,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Perovec",
+    "gn:population":45,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959753,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988532,
+        "wk:page":"Perovec"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"92cefb9d457e0c3a8f354e552f57b3d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959753,
+            "locality_id":1309939901,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1309939901,
+    "wof:lastmodified":1537573515,
+    "wof:name":"Perovec",
+    "wof:parent_id":1108959753,
+    "wof:placetype":"locality",
+    "wof:population":45,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.48768,
+    46.33688,
+    15.48768,
+    46.33688
+],
+  "geometry": {"coordinates":[15.48768,46.33688],"type":"Point"}
+}

@@ -1,0 +1,117 @@
+{
+  "id": 101793011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000051,
+    "geom:area_square_m":438954.127321,
+    "geom:bbox":"15.1385882567,45.9387906709,15.1526442999,45.9461642814",
+    "geom:latitude":45.942808,
+    "geom:longitude":15.144956,
+    "gn:population":637,
+    "iso:country":"SI",
+    "lbl:latitude":45.942664,
+    "lbl:longitude":15.143093,
+    "mps:latitude":45.942664,
+    "mps:longitude":15.143093,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u043a\u0440\u043e\u043d\u043e\u0433"
+    ],
+    "name:chi_x_preferred":[
+        "\u83ab\u54e5\u8afe"
+    ],
+    "name:deu_x_preferred":[
+        "Nassenfu\u00df"
+    ],
+    "name:dut_x_preferred":[
+        "Mokronog"
+    ],
+    "name:eng_x_preferred":[
+        "Mokronog"
+    ],
+    "name:hbs_x_preferred":[
+        "Mokronog"
+    ],
+    "name:hrv_x_preferred":[
+        "Mokronog"
+    ],
+    "name:nld_x_preferred":[
+        "Mokronog"
+    ],
+    "name:ron_x_preferred":[
+        "Mokronog"
+    ],
+    "name:rum_x_preferred":[
+        "Mokronog"
+    ],
+    "name:slv_x_preferred":[
+        "Mokronog"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043a\u0440\u043e\u043d\u043e\u0433"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"Mokronog",
+    "qs:la_lc":"*SI199000",
+    "qs:level":"locality",
+    "qs:loc":"Mokronog",
+    "qs:loc_alt":"Mokronog",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":561,
+    "wof:belongsto":[
+        102191581,
+        1108959913,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194904,
+        "gp:id":530846,
+        "qs:id":6,
+        "wd:id":"Q2134569",
+        "wk:page":"Mokronog"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"96cca5e8637d85d38da55a0f4ecd314c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959913,
+            "locality_id":101793011,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":101793011,
+    "wof:lastmodified":1531508766,
+    "wof:name":"Mokronog",
+    "wof:parent_id":1108959913,
+    "wof:placetype":"locality",
+    "wof:population":637,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.13858825665034,
+    45.93879067092342,
+    15.15264429985331,
+    45.9461642813626
+],
+  "geometry": {"coordinates":[[[15.13995912223533,45.94520373320711],[15.14510160124968,45.94495492742561],[15.14518694984184,45.94585330698959],[15.14775821566076,45.94572880857038],[15.1476728247689,45.94483043139115],[15.14895843252924,45.94476816008802],[15.1487876194646,45.94297140631363],[15.15264429985331,45.94278450642162],[15.15247337460193,45.94098775740383],[15.14990234159484,45.94111236808169],[15.14981692677134,45.94021399028497],[15.14853142741174,45.94027627114724],[15.1486168210904,45.94117465013676],[15.14476024358186,45.9413614031663],[15.14467491333943,45.94046302060013],[15.14338940331919,45.94052523937285],[15.14330409789034,45.93962685501464],[15.14201860635188,45.93968905707339],[15.14193332573535,45.93879067092342],[15.14064785267828,45.93885285626919],[15.14098891256583,45.94244640203038],[15.13970335226372,45.94250857661712],[15.13987386191172,45.94430534827745],[15.13858825665034,45.94436750972181],[15.13875873866374,45.9461642813626],[15.14004438622601,45.9461021175369],[15.13995912223533,45.94520373320711]]],"type":"Polygon"}
+}

@@ -1,0 +1,125 @@
+{
+  "id": 1125905821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.14139,46.63806,16.14139,46.63806",
+    "geom:latitude":46.63806,
+    "geom:longitude":16.14139,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1090,
+    "gn:population":1132,
+    "iso:country":"SI",
+    "lbl:latitude":46.63806,
+    "lbl:longitude":16.14139,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Krog"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0440\u043e\u0433"
+    ],
+    "name:dut_x_preferred":[
+        "Krog"
+    ],
+    "name:eng_x_preferred":[
+        "Krog"
+    ],
+    "name:epo_x_preferred":[
+        "Krog"
+    ],
+    "name:hrv_x_preferred":[
+        "Krog"
+    ],
+    "name:hun_x_preferred":[
+        "Korong"
+    ],
+    "name:ita_x_preferred":[
+        "Krog"
+    ],
+    "name:rum_x_preferred":[
+        "Krog"
+    ],
+    "name:slv_x_preferred":[
+        "Krog"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u043e\u0433"
+    ],
+    "name:unk_x_variant":[
+        "Korong"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3197164,
+    "qs_pg:gn_pop":1090,
+    "qs_pg:name":"Krog",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Murska Sobota",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1218309,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":530528,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Murska Sobota",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959483,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197164,
+        "gp:id":530528,
+        "qs_pg:id":1218309,
+        "wd:id":"Q898476"
+    },
+    "wof:country":"SI",
+    "wof:created":1497295983,
+    "wof:geomhash":"22ecd4202222c00f86d3297d3fbbd471",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959483,
+            "locality_id":1125905821,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1125905821,
+    "wof:lastmodified":1531170198,
+    "wof:name":"Krog",
+    "wof:parent_id":1108959483,
+    "wof:placetype":"locality",
+    "wof:population":1132,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.14139,
+    46.63806,
+    16.14139,
+    46.63806
+],
+  "geometry": {"coordinates":[16.14139,46.63806],"type":"Point"}
+}

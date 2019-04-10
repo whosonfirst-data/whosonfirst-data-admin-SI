@@ -1,0 +1,74 @@
+{
+  "id": 1343637593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.11652,45.55225,15.11652,45.55225",
+    "geom:latitude":45.55225,
+    "geom:longitude":15.11652,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Gric pri Doblicah",
+    "gn:country_code":"SI",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987982,
+    "gn:latitude":45.55225,
+    "gn:longitude":15.11652,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Gri\u010d pri Dobli\u010dah",
+    "gn:population":84,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gri\u010d pri Dobli\u010dah"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959699,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987982,
+        "wk:page":"Gri%C4%8D_pri_Dobli%C4%8Dah"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d1a27d28b9b33ad085b87db6063be5f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959699,
+            "locality_id":1343637593,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1343637593,
+    "wof:lastmodified":1537700297,
+    "wof:name":"Gric pri Doblicah",
+    "wof:parent_id":1108959699,
+    "wof:placetype":"locality",
+    "wof:population":84,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.11652,
+    45.55225,
+    15.11652,
+    45.55225
+],
+  "geometry": {"coordinates":[15.11652,45.55225],"type":"Point"}
+}

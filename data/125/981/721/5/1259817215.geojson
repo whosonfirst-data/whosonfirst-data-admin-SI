@@ -1,0 +1,71 @@
+{
+  "id": 1259817215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.77761,46.13587,14.77761,46.13587",
+    "geom:latitude":46.13587,
+    "geom:longitude":14.77761,
+    "gn:admin1_code":"77",
+    "gn:asciiname":"Zgornja Dobrava",
+    "gn:country_code":"SI",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988405,
+    "gn:latitude":46.13587,
+    "gn:longitude":14.77761,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Zgornja Dobrava",
+    "gn:population":52,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959515,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988405,
+        "wk:page":"Zgornja_Dobrava%2C_Morav%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2699e81b1937cf3d11a7a1c61faaf511",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959515,
+            "locality_id":1259817215,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1259817215,
+    "wof:lastmodified":1537573510,
+    "wof:name":"Zgornja Dobrava",
+    "wof:parent_id":1108959515,
+    "wof:placetype":"locality",
+    "wof:population":52,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.77761,
+    46.13587,
+    14.77761,
+    46.13587
+],
+  "geometry": {"coordinates":[14.77761,46.13587],"type":"Point"}
+}

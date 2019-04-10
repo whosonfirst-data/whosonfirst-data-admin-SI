@@ -1,0 +1,71 @@
+{
+  "id": 1193002739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.43306,45.97,14.43306,45.97",
+    "geom:latitude":45.97,
+    "geom:longitude":14.43306,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Jezero",
+    "gn:country_code":"SI",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198620,
+    "gn:latitude":45.97,
+    "gn:longitude":14.43306,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Jezero",
+    "gn:population":751,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959895,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198620,
+        "wk:page":"Jezero%2C_Brezovica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c84cd22c76ecf94a5f304f7258f0beb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959895,
+            "locality_id":1193002739,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1193002739,
+    "wof:lastmodified":1537573432,
+    "wof:name":"Jezero",
+    "wof:parent_id":1108959895,
+    "wof:placetype":"locality",
+    "wof:population":751,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.43306,
+    45.97,
+    14.43306,
+    45.97
+],
+  "geometry": {"coordinates":[14.43306,45.97],"type":"Point"}
+}

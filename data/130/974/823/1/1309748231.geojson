@@ -1,0 +1,74 @@
+{
+  "id": 1309748231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.63069,45.84279,14.63069,45.84279",
+    "geom:latitude":45.84279,
+    "geom:longitude":14.63069,
+    "gn:admin1_code":"D8",
+    "gn:asciiname":"Male Lasce",
+    "gn:country_code":"SI",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987095,
+    "gn:latitude":45.84279,
+    "gn:longitude":14.63069,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Male La\u0161\u010de",
+    "gn:population":281,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Male La\u0161\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959859,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987095,
+        "wk:page":"Male_La%C5%A1%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9668d9ad7212e2c4deea77f20e2c398b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959859,
+            "locality_id":1309748231,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1309748231,
+    "wof:lastmodified":1537700279,
+    "wof:name":"Male Lasce",
+    "wof:parent_id":1108959859,
+    "wof:placetype":"locality",
+    "wof:population":281,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.63069,
+    45.84279,
+    14.63069,
+    45.84279
+],
+  "geometry": {"coordinates":[14.63069,45.84279],"type":"Point"}
+}

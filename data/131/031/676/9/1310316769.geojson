@@ -1,0 +1,67 @@
+{
+  "id": 1310316769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.99083,46.34972,13.99083,46.34972",
+    "geom:latitude":46.34972,
+    "geom:longitude":13.99083,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mrzli Studenec",
+    "gn:country_code":"SI",
+    "gn:dem":1233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218178,
+    "gn:latitude":46.34972,
+    "gn:longitude":13.99083,
+    "gn:modification_date":"2008-11-03",
+    "gn:name":"Mrzli Studenec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959797,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218178
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"41cdb29e1c424ba9721ed6f5061d2800",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959797,
+            "locality_id":1310316769,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1310316769,
+    "wof:lastmodified":1536691764,
+    "wof:name":"Mrzli Studenec",
+    "wof:parent_id":1108959797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.99083,
+    46.34972,
+    13.99083,
+    46.34972
+],
+  "geometry": {"coordinates":[13.99083,46.34972],"type":"Point"}
+}

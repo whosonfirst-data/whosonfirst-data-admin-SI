@@ -1,0 +1,71 @@
+{
+  "id": 1310240999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.37367,45.92193,15.37367,45.92193",
+    "geom:latitude":45.92193,
+    "geom:longitude":15.37367,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Videm",
+    "gn:country_code":"SI",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989328,
+    "gn:latitude":45.92193,
+    "gn:longitude":15.37367,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Videm",
+    "gn:population":7,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989328,
+        "wk:page":"Videm%2C_Kr%C5%A1ko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"313e9ae61b1b0999959dbc19d8423acd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1310240999,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1310240999,
+    "wof:lastmodified":1537573539,
+    "wof:name":"Videm",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.37367,
+    45.92193,
+    15.37367,
+    45.92193
+],
+  "geometry": {"coordinates":[15.37367,45.92193],"type":"Point"}
+}

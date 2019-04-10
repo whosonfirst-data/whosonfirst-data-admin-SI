@@ -1,0 +1,75 @@
+{
+  "id": 1276695525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.36667,45.66667,15.36667,45.66667",
+    "geom:latitude":45.66667,
+    "geom:longitude":15.36667,
+    "gn:admin1_code":"73",
+    "gn:asciiname":"Drasici",
+    "gn:country_code":"SI",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201260,
+    "gn:latitude":45.66667,
+    "gn:longitude":15.36667,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Dra\u0161i\u010di",
+    "gn:population":224,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dra\u0161\u010dice",
+        "Dra\u0161i\u0107i"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959909,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201260,
+        "wk:page":"Dra%C5%A1i%C4%8Di"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b4f33518d6ce6b81dc78981d2ec83a45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959909,
+            "locality_id":1276695525,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1276695525,
+    "wof:lastmodified":1537700250,
+    "wof:name":"Drasici",
+    "wof:parent_id":1108959909,
+    "wof:placetype":"locality",
+    "wof:population":224,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.36667,
+    45.66667,
+    15.36667,
+    45.66667
+],
+  "geometry": {"coordinates":[15.36667,45.66667],"type":"Point"}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 1125868033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.7,46.3,14.7,46.3",
+    "geom:latitude":46.3,
+    "geom:longitude":14.7,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":218,
+    "iso:country":"SI",
+    "lbl:latitude":46.3,
+    "lbl:longitude":14.7,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Podvolovljek"
+    ],
+    "name:eng_x_preferred":[
+        "Podvolovljek"
+    ],
+    "name:rum_x_preferred":[
+        "Podvolovljek"
+    ],
+    "name:slv_x_preferred":[
+        "Podvolovljek"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0434\u0432\u043e\u043b\u043e\u0432\u043b\u0454\u043a"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3192890,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Podvolovljek",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Mozirje",
+    "qs_pg:photos":21,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":21,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":37009,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":531154,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Mozirje",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959505,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192890,
+        "gp:id":531154,
+        "qs_pg:id":37009,
+        "wd:id":"Q2383490"
+    },
+    "wof:country":"SI",
+    "wof:created":1497294145,
+    "wof:geomhash":"d290d270cc3660a83c22bf0080b4a67a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959505,
+            "locality_id":1125868033,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1125868033,
+    "wof:lastmodified":1531170666,
+    "wof:name":"Podvolovljek",
+    "wof:parent_id":1108959505,
+    "wof:placetype":"locality",
+    "wof:population":218,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.7,
+    46.3,
+    14.7,
+    46.3
+],
+  "geometry": {"coordinates":[14.7,46.3],"type":"Point"}
+}

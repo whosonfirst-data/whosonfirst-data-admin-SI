@@ -1,0 +1,74 @@
+{
+  "id": 1293820415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.37332,45.83827,15.37332,45.83827",
+    "geom:latitude":45.83827,
+    "geom:longitude":15.37332,
+    "gn:admin1_code":"B4",
+    "gn:asciiname":"Brezje pri Sentjerneju",
+    "gn:country_code":"SI",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989863,
+    "gn:latitude":45.83827,
+    "gn:longitude":15.37332,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Brezje pri \u0160entjerneju",
+    "gn:population":48,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brezje pri \u0160entjerneju"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959937,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989863,
+        "wk:page":"Brezje_pri_%C5%A0entjerneju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8d0d49b27de2fd5bbe23e375b5d7ade1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959937,
+            "locality_id":1293820415,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1293820415,
+    "wof:lastmodified":1537700334,
+    "wof:name":"Brezje pri Sentjerneju",
+    "wof:parent_id":1108959937,
+    "wof:placetype":"locality",
+    "wof:population":48,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.37332,
+    45.83827,
+    15.37332,
+    45.83827
+],
+  "geometry": {"coordinates":[15.37332,45.83827],"type":"Point"}
+}

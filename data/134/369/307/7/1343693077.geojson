@@ -1,0 +1,71 @@
+{
+  "id": 1343693077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.23596,46.23898,14.23596,46.23898",
+    "geom:latitude":46.23898,
+    "geom:longitude":14.23596,
+    "gn:admin1_code":"F1",
+    "gn:asciiname":"Zabrekve",
+    "gn:country_code":"SI",
+    "gn:dem":873,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988349,
+    "gn:latitude":46.23898,
+    "gn:longitude":14.23596,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Zabrekve",
+    "gn:population":55,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959701,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988349,
+        "wk:page":"Zabrekve"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"987f1ccafc703e5ed473eb9d13d55748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959701,
+            "locality_id":1343693077,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1343693077,
+    "wof:lastmodified":1537573509,
+    "wof:name":"Zabrekve",
+    "wof:parent_id":1108959701,
+    "wof:placetype":"locality",
+    "wof:population":55,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.23596,
+    46.23898,
+    14.23596,
+    46.23898
+],
+  "geometry": {"coordinates":[14.23596,46.23898],"type":"Point"}
+}

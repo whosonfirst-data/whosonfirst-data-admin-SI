@@ -1,0 +1,74 @@
+{
+  "id": 1226439633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.69394,45.84844,15.69394,45.84844",
+    "geom:latitude":45.84844,
+    "geom:longitude":15.69394,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Obrezje",
+    "gn:country_code":"SI",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194255,
+    "gn:latitude":45.84844,
+    "gn:longitude":15.69394,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Obre\u017eje",
+    "gn:population":401,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Obre\u017eje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194255,
+        "wk:page":"Obre%C5%BEje%2C_Bre%C5%BEice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"70b26ec841b932767cd008b6b820e5ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1226439633,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1226439633,
+    "wof:lastmodified":1537700214,
+    "wof:name":"Obrezje",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:population":401,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.69394,
+    45.84844,
+    15.69394,
+    45.84844
+],
+  "geometry": {"coordinates":[15.69394,45.84844],"type":"Point"}
+}

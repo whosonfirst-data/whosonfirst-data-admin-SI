@@ -1,0 +1,71 @@
+{
+  "id": 1260013607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.29134,45.8071,15.29134,45.8071",
+    "geom:latitude":45.8071,
+    "geom:longitude":15.29134,
+    "gn:admin1_code":"B4",
+    "gn:asciiname":"Tolsti Vrh",
+    "gn:country_code":"SI",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189028,
+    "gn:latitude":45.8071,
+    "gn:longitude":15.29134,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Tolsti Vrh",
+    "gn:population":121,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959937,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189028,
+        "wk:page":"Tolsti_Vrh%2C_%C5%A0entjernej"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6504580a15e44dd7d2c72a919ef59c03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959937,
+            "locality_id":1260013607,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1260013607,
+    "wof:lastmodified":1537573392,
+    "wof:name":"Tolsti Vrh",
+    "wof:parent_id":1108959937,
+    "wof:placetype":"locality",
+    "wof:population":121,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.29134,
+    45.8071,
+    15.29134,
+    45.8071
+],
+  "geometry": {"coordinates":[15.29134,45.8071],"type":"Point"}
+}

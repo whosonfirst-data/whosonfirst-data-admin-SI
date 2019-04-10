@@ -1,0 +1,71 @@
+{
+  "id": 1310436659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25169,46.32769,15.25169,46.32769",
+    "geom:latitude":46.32769,
+    "geom:longitude":15.25169,
+    "gn:admin1_code":"N3",
+    "gn:asciiname":"Vine",
+    "gn:country_code":"SI",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988212,
+    "gn:latitude":46.32769,
+    "gn:longitude":15.25169,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Vine",
+    "gn:population":64,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959653,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988212,
+        "wk:page":"Vine%2C_Vojnik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b37a39f296a1af2844d3cc4974ce8d71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959653,
+            "locality_id":1310436659,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1310436659,
+    "wof:lastmodified":1537573505,
+    "wof:name":"Vine",
+    "wof:parent_id":1108959653,
+    "wof:placetype":"locality",
+    "wof:population":64,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25169,
+    46.32769,
+    15.25169,
+    46.32769
+],
+  "geometry": {"coordinates":[15.25169,46.32769],"type":"Point"}
+}

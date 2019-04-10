@@ -1,0 +1,78 @@
+{
+  "id": 1125885711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.05194,46.35944,15.05194,46.35944",
+    "geom:latitude":46.35944,
+    "geom:longitude":15.05194,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPLL",
+    "gn:gn_pop":852,
+    "gn:population":906,
+    "iso:country":"SI",
+    "lbl:latitude":46.35944,
+    "lbl:longitude":15.05194,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPLL",
+    "qs_pg:gn_id":3196257,
+    "qs_pg:gn_pop":852,
+    "qs_pg:name":"Lokovica",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":95096,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959731,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196257,
+        "qs_pg:id":95096
+    },
+    "wof:country":"SI",
+    "wof:created":1497295066,
+    "wof:geomhash":"bfe0a057eef3a209ef2612d5903d1ccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959731,
+            "locality_id":1125885711,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1125885711,
+    "wof:lastmodified":1531170668,
+    "wof:name":"Lokovica",
+    "wof:parent_id":1108959731,
+    "wof:placetype":"locality",
+    "wof:population":906,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.05194,
+    46.35944,
+    15.05194,
+    46.35944
+],
+  "geometry": {"coordinates":[15.05194,46.35944],"type":"Point"}
+}

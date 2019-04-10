@@ -1,0 +1,205 @@
+{
+  "id": 85677713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003667,
+    "geom:area_square_m":31279157.311697,
+    "geom:bbox":"15.4091166523,46.3581525739,15.5029610526,46.4246084657",
+    "geom:latitude":46.386168,
+    "geom:longitude":15.452337,
+    "iso:country":"SI",
+    "lbl:latitude":46.382858,
+    "lbl:longitude":15.448427,
+    "mps:latitude":46.382858,
+    "mps:longitude":15.448427,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ces_x_preferred":[
+        "Ob\u010dina Oplotnica"
+    ],
+    "name:deu_x_preferred":[
+        "Oplotnica"
+    ],
+    "name:eng_x_preferred":[
+        "Oplotnica"
+    ],
+    "name:fra_x_preferred":[
+        "Oplotnica"
+    ],
+    "name:hbs_x_preferred":[
+        "Oplotnica"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Oplotnica"
+    ],
+    "name:ita_x_preferred":[
+        "Oplotnica"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30d7\u30ed\u30c8\u30cb\u30c4\u30a1"
+    ],
+    "name:kor_x_preferred":[
+        "\uc624\ud50c\ub85c\ud2b8\ub2c8\ucc28"
+    ],
+    "name:nld_x_preferred":[
+        "Oplotnica"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Oplotnica"
+    ],
+    "name:por_x_preferred":[
+        "Oplotnica"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Oplotnica"
+    ],
+    "name:slv_x_preferred":[
+        "Oplotnica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041e\u043f\u043b\u043e\u0442\u043d\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Oplotnica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u043f\u043b\u043e\u0442\u043d\u0438\u0446\u044f"
+    ],
+    "name:und_x_preferred":[
+        "Slovenske Konjice"
+    ],
+    "name:unk_x_variant":[
+        "Ob\u010dina Oplotnica"
+    ],
+    "name:vie_x_preferred":[
+        "Oplotnica"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-226",
+    "ne:adm1_code":"SVN-226",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"10",
+    "ne:code_hasc":"SI.PD.OP",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"226",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SI00",
+    "ne:fips_alt":"SIJ8",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.J8",
+    "ne:gn_id":"3344915",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Oplotnica",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI72",
+    "ne:gns_id":"9123431",
+    "ne:gns_lang":"kat",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Oplotnica, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"46.38100000000",
+    "ne:longitude":"15.45600000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Oplotnica",
+    "ne:name_alt":"",
+    "ne:name_len":9,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"OP",
+    "ne:provnum_ne":"170",
+    "ne:region":"Podravska",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":-55848389,
+    "ne:woe_label":"",
+    "ne:woe_name":"",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Oplotnica",
+    "qs:a1_lc":"SVN-226",
+    "qs:a1r":"Podravska",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "qs:woeid":55848389,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "unlc:subdivision":"SI-171",
+    "wd:wordcount":122,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SI00",
+        "gn:id":3344915,
+        "gp:id":-55848389,
+        "hasc:id":"SI.PD.OP",
+        "unlc:id":"SI-171",
+        "wd:id":"Q1587261"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2fef3616378a9ece2cce3082e8506d2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677713
+        }
+    ],
+    "wof:id":85677713,
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616731,
+    "wof:name":"Oplotnica",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:shortcode":"OP",
+    "wof:subdivision":"SI-171",
+    "wof:superseded_by":[
+        1108959737
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.4091166523117,
+    46.35815257388225,
+    15.50296105261054,
+    46.42460846570816
+],
+  "geometry": {"coordinates":[[[15.46358361179432,46.39693573729448],[15.46885460755414,46.39755585401952],[15.47598595528768,46.39773672117281],[15.49009362112378,46.39492035568992],[15.49474450015862,46.39251740225637],[15.49567467614543,46.38988190392678],[15.49412438343359,46.38083852827549],[15.49691491139407,46.37169179893743],[15.50296105261054,46.35954783786246],[15.46156823108902,46.35815257388225],[15.45376508978711,46.35996124901249],[15.42523969885309,46.37125255026501],[15.4091166523117,46.38089020421961],[15.40989179866762,46.3837065697025],[15.41485273606497,46.3876598167472],[15.41748823439457,46.39034699192018],[15.41903852710641,46.39329254771297],[15.41516279532681,46.39778839801619],[15.40989179866762,46.40249095299515],[15.40989179866762,46.40548818653065],[15.41237226736632,46.40765859596746],[15.4146977073334,46.41236115184574],[15.4165580584077,46.41745128045227],[15.42275923015438,46.42460846570816],[15.44074262866945,46.41882070601082],[15.45128462108846,46.40969981509443],[15.45454023614303,46.40548818653065],[15.45748579283514,46.39988129308728],[15.46032799584037,46.39778839801619],[15.46358361179432,46.39693573729448]]],"type":"Polygon"}
+}

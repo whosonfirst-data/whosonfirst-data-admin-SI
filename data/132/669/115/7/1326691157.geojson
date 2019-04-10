@@ -1,0 +1,74 @@
+{
+  "id": 1326691157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.92647,46.66113,15.92647,46.66113",
+    "geom:latitude":46.66113,
+    "geom:longitude":15.92647,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Plitvicki Vrh",
+    "gn:country_code":"SI",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193168,
+    "gn:latitude":46.66113,
+    "gn:longitude":15.92647,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Plitvi\u010dki Vrh",
+    "gn:population":179,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Plitvi\u010dki Vrh"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959817,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193168,
+        "wk:page":"Plitvi%C4%8Dki_Vrh"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"32e2b00a14a4058fce36754bb2e3245e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959817,
+            "locality_id":1326691157,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1326691157,
+    "wof:lastmodified":1537700209,
+    "wof:name":"Plitvicki Vrh",
+    "wof:parent_id":1108959817,
+    "wof:placetype":"locality",
+    "wof:population":179,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.92647,
+    46.66113,
+    15.92647,
+    46.66113
+],
+  "geometry": {"coordinates":[15.92647,46.66113],"type":"Point"}
+}

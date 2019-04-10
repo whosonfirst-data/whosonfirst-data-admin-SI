@@ -1,0 +1,71 @@
+{
+  "id": 1310548933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.17906,46.04783,14.17906,46.04783",
+    "geom:latitude":46.04783,
+    "geom:longitude":14.17906,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Goli Vrh",
+    "gn:country_code":"SI",
+    "gn:dem":843,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988322,
+    "gn:latitude":46.04783,
+    "gn:longitude":14.17906,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Goli Vrh",
+    "gn:population":56,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959897,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988322,
+        "wk:page":"Goli_Vrh%2C_Gorenja_Vas%E2%80%93Poljane"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"70788d69dd6a3b02794269db8174463d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959897,
+            "locality_id":1310548933,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1310548933,
+    "wof:lastmodified":1537573508,
+    "wof:name":"Goli Vrh",
+    "wof:parent_id":1108959897,
+    "wof:placetype":"locality",
+    "wof:population":56,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.17906,
+    46.04783,
+    14.17906,
+    46.04783
+],
+  "geometry": {"coordinates":[14.17906,46.04783],"type":"Point"}
+}

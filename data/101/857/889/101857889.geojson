@@ -1,0 +1,132 @@
+{
+  "id": 101857889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.221902,45.862538,15.221902,45.862538",
+    "geom:latitude":45.862538,
+    "geom:longitude":15.221902,
+    "geonames:id":"6956379,8198424",
+    "iso:country":"SI",
+    "lbl:latitude":45.862538,
+    "lbl:longitude":15.221902,
+    "mps:latitude":45.862538,
+    "mps:longitude":15.221902,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "\u0160marje\u0161ke Toplice"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u010dina \u0160marje\u0161ke Toplice"
+    ],
+    "name:dut_x_preferred":[
+        "\u0160marje\u0161ke Toplice"
+    ],
+    "name:eng_x_preferred":[
+        "\u0160marje\u0161ke Toplice"
+    ],
+    "name:fre_x_preferred":[
+        "\u0160marje\u0161ke Toplice"
+    ],
+    "name:ger_x_preferred":[
+        "\u0160marje\u0161ke Toplice"
+    ],
+    "name:hbs_x_preferred":[
+        "\u0160marje\u0161ke Toplice"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina \u0160marje\u0161ke Toplice"
+    ],
+    "name:ita_x_preferred":[
+        "\u0160marje\u0161ke Toplice"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e5\u30de\u30ea\u30a7\u30b7\u30e5\u30b1\u30fb\u30c8\u30d7\u30ea\u30c4\u30a7"
+    ],
+    "name:kor_x_preferred":[
+        "\uc288\ub9c8\ub808\uc288\ucf00\ud1a0\ud50c\ub9ac\uccb4"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina \u0160marje\u0161ke Toplice"
+    ],
+    "name:por_x_preferred":[
+        "\u0160marje\u0161ke Toplice"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna \u0160marje\u0161ke Toplice"
+    ],
+    "name:rum_x_preferred":[
+        "\u0160marje\u0161ke Toplice"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina \u0160marje\u0161ke Toplice"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u043c\u0430\u0440\u0454\u0448\u043a\u0435 \u0422\u043e\u043f\u043b\u0438\u0446\u0435"
+    ],
+    "name:vie_x_preferred":[
+        "\u0160marje\u0161ke Toplice"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0160marje\u0161ke Toplice",
+    "qs:loc_alt":"Smarjeske Toplice",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":74,
+    "wof:belongsto":[
+        102191581,
+        1108959833,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55850481,
+        "qs:id":3,
+        "wd:id":"Q323375"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c5b8246dd7a9b52216c1c332821bcdbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959833,
+            "locality_id":101857889,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":101857889,
+    "wof:lastmodified":1544744129,
+    "wof:name":"\u0160marje\u0161ke Toplice",
+    "wof:parent_id":1108959833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.221902,
+    45.862538,
+    15.221902,
+    45.862538
+],
+  "geometry": {"coordinates":[15.221902,45.862538],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1192976983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.5986,46.08969,14.5986,46.08969",
+    "geom:latitude":46.08969,
+    "geom:longitude":14.5986,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Brinje",
+    "gn:country_code":"SI",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987416,
+    "gn:latitude":46.08969,
+    "gn:longitude":14.5986,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Brinje",
+    "gn:population":156,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959861,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987416,
+        "wk:page":"Brinje%2C_Dol_pri_Ljubljani"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b59c61ef5e9121d3fd29fa5bda0b8d8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959861,
+            "locality_id":1192976983,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1192976983,
+    "wof:lastmodified":1537573479,
+    "wof:name":"Brinje",
+    "wof:parent_id":1108959861,
+    "wof:placetype":"locality",
+    "wof:population":156,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.5986,
+    46.08969,
+    14.5986,
+    46.08969
+],
+  "geometry": {"coordinates":[14.5986,46.08969],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226680585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.6086,45.7388,14.6086,45.7388",
+    "geom:latitude":45.7388,
+    "geom:longitude":14.6086,
+    "gn:admin1_code":"M1",
+    "gn:asciiname":"Krzeti",
+    "gn:country_code":"SI",
+    "gn:dem":922,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988460,
+    "gn:latitude":45.7388,
+    "gn:longitude":14.6086,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kr\u017eeti",
+    "gn:population":49,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kr\u017eeti"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959805,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988460,
+        "wk:page":"Kr%C5%BEeti"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f00ac87eabd85d0b7976950006e106a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959805,
+            "locality_id":1226680585,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1226680585,
+    "wof:lastmodified":1537700307,
+    "wof:name":"Krzeti",
+    "wof:parent_id":1108959805,
+    "wof:placetype":"locality",
+    "wof:population":49,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.6086,
+    45.7388,
+    14.6086,
+    45.7388
+],
+  "geometry": {"coordinates":[14.6086,45.7388],"type":"Point"}
+}

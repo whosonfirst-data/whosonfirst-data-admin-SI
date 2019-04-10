@@ -1,0 +1,71 @@
+{
+  "id": 1309748213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.38833,46.54417,16.38833,46.54417",
+    "geom:latitude":46.54417,
+    "geom:longitude":16.38833,
+    "gn:admin1_code":"I4",
+    "gn:asciiname":"Kot",
+    "gn:country_code":"SI",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197551,
+    "gn:latitude":46.54417,
+    "gn:longitude":16.38833,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Kot",
+    "gn:population":117,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959475,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197551,
+        "wk:page":"Kot%2C_Lendava"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"de781fbdebd87f2c011f374e09f88920",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959475,
+            "locality_id":1309748213,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1309748213,
+    "wof:lastmodified":1537573429,
+    "wof:name":"Kot",
+    "wof:parent_id":1108959475,
+    "wof:placetype":"locality",
+    "wof:population":117,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.38833,
+    46.54417,
+    16.38833,
+    46.54417
+],
+  "geometry": {"coordinates":[16.38833,46.54417],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293232191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.33333,46.73333,16.33333,46.73333",
+    "geom:latitude":46.73333,
+    "geom:longitude":16.33333,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Pordasinci",
+    "gn:country_code":"SI",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192701,
+    "gn:latitude":46.73333,
+    "gn:longitude":16.33333,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Porda\u0161inci",
+    "gn:population":44,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kisfalu",
+        "Porda\u0161inci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959925,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192701,
+        "wk:page":"Porda%C5%A1inci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7d9cf50184e5ad287b30b120ca25058d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959925,
+            "locality_id":1293232191,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1293232191,
+    "wof:lastmodified":1537700206,
+    "wof:name":"Pordasinci",
+    "wof:parent_id":1108959925,
+    "wof:placetype":"locality",
+    "wof:population":44,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.33333,
+    46.73333,
+    16.33333,
+    46.73333
+],
+  "geometry": {"coordinates":[16.33333,46.73333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260114037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.65563,45.77258,14.65563,45.77258",
+    "geom:latitude":45.77258,
+    "geom:longitude":14.65563,
+    "gn:admin1_code":"M1",
+    "gn:asciiname":"Preska",
+    "gn:country_code":"SI",
+    "gn:dem":683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989407,
+    "gn:latitude":45.77258,
+    "gn:longitude":14.65563,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Preska",
+    "gn:population":2,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959805,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989407,
+        "wk:page":"Preska%2C_Sodra%C5%BEica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7632aaf874ca774de97b764bdcbc50de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959805,
+            "locality_id":1260114037,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1260114037,
+    "wof:lastmodified":1537573541,
+    "wof:name":"Preska",
+    "wof:parent_id":1108959805,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.65563,
+    45.77258,
+    14.65563,
+    45.77258
+],
+  "geometry": {"coordinates":[14.65563,45.77258],"type":"Point"}
+}

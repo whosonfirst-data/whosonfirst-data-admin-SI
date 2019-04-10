@@ -1,0 +1,74 @@
+{
+  "id": 1226079993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.82272,46.13897,14.82272,46.13897",
+    "geom:latitude":46.13897,
+    "geom:longitude":14.82272,
+    "gn:admin1_code":"77",
+    "gn:asciiname":"Podgorica pri Pecah",
+    "gn:country_code":"SI",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989561,
+    "gn:latitude":46.13897,
+    "gn:longitude":14.82272,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Podgorica pri Pe\u010dah",
+    "gn:population":56,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Podgorica pri Pe\u010dah"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959515,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989561,
+        "wk:page":"Podgorica_pri_Pe%C4%8Dah"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c66e0a83ca4cfe894cef5d7d8b8ad281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959515,
+            "locality_id":1226079993,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1226079993,
+    "wof:lastmodified":1537700328,
+    "wof:name":"Podgorica pri Pecah",
+    "wof:parent_id":1108959515,
+    "wof:placetype":"locality",
+    "wof:population":56,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.82272,
+    46.13897,
+    14.82272,
+    46.13897
+],
+  "geometry": {"coordinates":[14.82272,46.13897],"type":"Point"}
+}

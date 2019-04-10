@@ -1,0 +1,169 @@
+{
+  "id": 85677549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.015635,
+    "geom:area_square_m":132570150.264079,
+    "geom:bbox":"16.1756331723,46.6451376413,16.3653830734,46.7800389672",
+    "geom:latitude":46.708347,
+    "geom:longitude":16.265362,
+    "iso:country":"SI",
+    "lbl:latitude":46.710284,
+    "lbl:longitude":16.263553,
+    "mps:latitude":46.710284,
+    "mps:longitude":16.263553,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:eng_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "name:eng_x_variant":[
+        "Municipality of Moravske Toplice"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Moravske Toplice"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Moravske Toplice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041c\u043e\u0440\u0430\u0432\u0441\u043a\u0435 \u0422\u043e\u043f\u043b\u0438\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0440\u0430\u0432\u0441\u044c\u043a\u0435 \u0422\u043e\u043f\u043b\u0438\u0446\u0435"
+    ],
+    "name:und_x_preferred":[
+        "Murska Sobota"
+    ],
+    "name:unk_x_variant":[
+        "Ob\u010dina Moravske Toplice"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-1044",
+    "ne:adm1_code":"SVN-1044",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SI.PM.MT",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"1044",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SI78",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.78",
+    "ne:gn_id":"3239279",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Moravske Toplice",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI78",
+    "ne:gns_id":"244024",
+    "ne:gns_lang":"slv",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Moravske Toplice, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"46.71590000000",
+    "ne:longitude":"16.27050000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Moravske Toplice",
+    "ne:name_alt":"",
+    "ne:name_len":16,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"MT",
+    "ne:provnum_ne":"6",
+    "ne:region":"Pomurska",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":-55848370,
+    "ne:woe_label":"",
+    "ne:woe_name":"",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Moravske Toplice",
+    "qs:a1_lc":"SVN-1044",
+    "qs:a1r":"Pomurska",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "qs:woeid":55848370,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "unlc:subdivision":"SI-078",
+    "wd:wordcount":265,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SI78",
+        "gn:id":3239279,
+        "gp:id":-55848370,
+        "hasc:id":"SI.PM.MT",
+        "unlc:id":"SI-078",
+        "wd:id":"Q678429"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f075a0cef96c8335a85da80bb6894509",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677549
+        }
+    ],
+    "wof:id":85677549,
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616730,
+    "wof:name":"Moravske Toplice",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:shortcode":"MT",
+    "wof:subdivision":"SI-078",
+    "wof:superseded_by":[
+        1108959925
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.17563317233311,
+    46.64513764128918,
+    16.3653830733702,
+    46.78003896722458
+],
+  "geometry": {"coordinates":[[[16.29045820468247,46.77709341143185],[16.29634931806663,46.77817861615029],[16.29872643397778,46.77918630650288],[16.29948988375116,46.77950994193031],[16.29815718650502,46.7758023078303],[16.30043094872934,46.77208160568159],[16.31417687935954,46.74332366985152],[16.3255456949779,46.73327260384764],[16.33412398353505,46.7217487594977],[16.34342574070541,46.71417816219247],[16.35727502412311,46.71583180859113],[16.35758508248563,46.69901112916034],[16.3653830733702,46.6967124683058],[16.36393464057124,46.69480834992544],[16.35624230293996,46.68469595015802],[16.35170681501756,46.68592053180714],[16.3407393731236,46.68888174119945],[16.33422814301446,46.68376577417121],[16.32740685364342,46.67616933934357],[16.31748497884877,46.66076976231471],[16.31438439342509,46.64513764128918],[16.29789961077847,46.64785065398456],[16.28348188568054,46.6559638545483],[16.27650556757794,46.65730744078581],[16.26859907438785,46.65151968018915],[16.24079715296631,46.65358673773778],[16.22591434077424,46.6554987665549],[16.2035901215869,46.66348277411078],[16.19816409709546,46.66691925721801],[16.19211795408035,46.67206106176866],[16.19165286608694,46.67947663034226],[16.17873375775679,46.6975633825441],[16.17563317233311,46.71869904242692],[16.17826866976333,46.72086945186379],[16.18431481277844,46.72712230135318],[16.1901025733751,46.72722565414068],[16.21056644058882,46.74500234618137],[16.21785281705394,46.74438222945639],[16.22374393133742,46.74686269815504],[16.23211551342024,46.75709463221153],[16.24064212423468,46.76236562797141],[16.25774702270701,46.78003896722458],[16.29045820468247,46.77709341143185]]],"type":"Polygon"}
+}

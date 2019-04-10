@@ -1,0 +1,68 @@
+{
+  "id": 1209043589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.70033,45.56722,14.70033,45.56722",
+    "geom:latitude":45.56722,
+    "geom:longitude":14.70033,
+    "gn:admin1_code":"88",
+    "gn:asciiname":"Papezi",
+    "gn:country_code":"SI",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988953,
+    "gn:latitude":45.56722,
+    "gn:longitude":14.70033,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Pape\u017ei",
+    "gn:population":25,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pape\u017ei"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988953,
+        "wk:page":"Pape%C5%BEi"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8caa4a1080abc19f20c43ea43da288d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209043589
+        }
+    ],
+    "wof:id":1209043589,
+    "wof:lastmodified":1537700317,
+    "wof:name":"Papezi",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":25,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.70033,
+    45.56722,
+    14.70033,
+    45.56722
+],
+  "geometry": {"coordinates":[14.70033,45.56722],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327365105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.24229,45.60186,15.24229,45.60186",
+    "geom:latitude":45.60186,
+    "geom:longitude":15.24229,
+    "gn:admin1_code":"73",
+    "gn:asciiname":"Okljuka",
+    "gn:country_code":"SI",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989214,
+    "gn:latitude":45.60186,
+    "gn:longitude":15.24229,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Okljuka",
+    "gn:population":13,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959909,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989214,
+        "wk:page":"Okljuka"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2189471345a637eed02be90d745c1b18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959909,
+            "locality_id":1327365105,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1327365105,
+    "wof:lastmodified":1537573535,
+    "wof:name":"Okljuka",
+    "wof:parent_id":1108959909,
+    "wof:placetype":"locality",
+    "wof:population":13,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.24229,
+    45.60186,
+    15.24229,
+    45.60186
+],
+  "geometry": {"coordinates":[15.24229,45.60186],"type":"Point"}
+}

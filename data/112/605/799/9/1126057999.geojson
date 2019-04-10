@@ -1,0 +1,114 @@
+{
+  "id": 1126057999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.1,46.4,14.1,46.4",
+    "geom:latitude":46.4,
+    "geom:longitude":14.1,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":14184,
+    "gn:population":329,
+    "iso:country":"SI",
+    "lbl:latitude":46.4,
+    "lbl:longitude":14.1,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u0434\u0445\u043e\u043c"
+    ],
+    "name:dut_x_preferred":[
+        "Podhom"
+    ],
+    "name:eng_x_preferred":[
+        "Podhom"
+    ],
+    "name:hrv_x_preferred":[
+        "Podhom"
+    ],
+    "name:rum_x_preferred":[
+        "Podhom"
+    ],
+    "name:slv_x_preferred":[
+        "Podhom"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0434\u0445\u043e\u043c"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3193011,
+    "qs_pg:gn_pop":14184,
+    "qs_pg:name":"Podhom",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Radovljica",
+    "qs_pg:photos":51,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":51,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1343041,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":531107,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Radovljica",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959797,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193011,
+        "gp:id":531107,
+        "qs_pg:id":1343041,
+        "wd:id":"Q2504641"
+    },
+    "wof:country":"SI",
+    "wof:created":1497303502,
+    "wof:geomhash":"ec1d082fce34b67d22caad0f695f790f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959797,
+            "locality_id":1126057999,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1126057999,
+    "wof:lastmodified":1531508688,
+    "wof:name":"Podhom",
+    "wof:parent_id":1108959797,
+    "wof:placetype":"locality",
+    "wof:population":329,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.1,
+    46.4,
+    14.1,
+    46.4
+],
+  "geometry": {"coordinates":[14.1,46.4],"type":"Point"}
+}

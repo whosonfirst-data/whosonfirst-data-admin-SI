@@ -1,0 +1,71 @@
+{
+  "id": 1327064143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.53971,45.94932,15.53971,45.94932",
+    "geom:latitude":45.94932,
+    "geom:longitude":15.53971,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Stari Grad",
+    "gn:country_code":"SI",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987225,
+    "gn:latitude":45.94932,
+    "gn:longitude":15.53971,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Stari Grad",
+    "gn:population":213,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987225,
+        "wk:page":"Stari_Grad%2C_Kr%C5%A1ko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"59a4e13f9bde1b5b369c16c084d921d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1327064143,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1327064143,
+    "wof:lastmodified":1537573472,
+    "wof:name":"Stari Grad",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":213,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.53971,
+    45.94932,
+    15.53971,
+    45.94932
+],
+  "geometry": {"coordinates":[15.53971,45.94932],"type":"Point"}
+}

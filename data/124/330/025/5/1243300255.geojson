@@ -1,0 +1,74 @@
+{
+  "id": 1243300255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.18032,45.7567,15.18032,45.7567",
+    "geom:latitude":45.7567,
+    "geom:longitude":15.18032,
+    "gn:admin1_code":"J7",
+    "gn:asciiname":"Rakovnik pri Bircni Vasi",
+    "gn:country_code":"SI",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988857,
+    "gn:latitude":45.7567,
+    "gn:longitude":15.18032,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Rakovnik pri Bir\u010dni Vasi",
+    "gn:population":29,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rakovnik pri Bir\u010dni Vasi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959465,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988857,
+        "wk:page":"Rakovnik_pri_Bir%C4%8Dni_Vasi"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d9a909b23fcd768c3e32956a80f6eb0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959465,
+            "locality_id":1243300255,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1243300255,
+    "wof:lastmodified":1537700315,
+    "wof:name":"Rakovnik pri Bircni Vasi",
+    "wof:parent_id":1108959465,
+    "wof:placetype":"locality",
+    "wof:population":29,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.18032,
+    45.7567,
+    15.18032,
+    45.7567
+],
+  "geometry": {"coordinates":[15.18032,45.7567],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293819805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.86667,46.36667,15.86667,46.36667",
+    "geom:latitude":46.36667,
+    "geom:longitude":15.86667,
+    "gn:admin1_code":"N2",
+    "gn:asciiname":"Jurovci",
+    "gn:country_code":"SI",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198535,
+    "gn:latitude":46.36667,
+    "gn:longitude":15.86667,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Jurovci",
+    "gn:population":174,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959747,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198535,
+        "wk:page":"Jurovci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3b900b34cfc7f2ee970fad9645317340",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959747,
+            "locality_id":1293819805,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1293819805,
+    "wof:lastmodified":1537573432,
+    "wof:name":"Jurovci",
+    "wof:parent_id":1108959747,
+    "wof:placetype":"locality",
+    "wof:population":174,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.86667,
+    46.36667,
+    15.86667,
+    46.36667
+],
+  "geometry": {"coordinates":[15.86667,46.36667],"type":"Point"}
+}

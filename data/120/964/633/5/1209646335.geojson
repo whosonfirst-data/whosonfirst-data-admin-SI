@@ -1,0 +1,68 @@
+{
+  "id": 1209646335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3527,46.15889,15.3527,46.15889",
+    "geom:latitude":46.15889,
+    "geom:longitude":15.3527,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Mackovec",
+    "gn:country_code":"SI",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988898,
+    "gn:latitude":46.15889,
+    "gn:longitude":15.3527,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ma\u010dkovec",
+    "gn:population":27,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u010dkovec"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988898,
+        "wk:page":"Ma%C4%8Dkovec%2C_La%C5%A1ko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"cbf4f3256d28f9c586edc13aa27cdc4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209646335
+        }
+    ],
+    "wof:id":1209646335,
+    "wof:lastmodified":1537700316,
+    "wof:name":"Mackovec",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":27,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3527,
+    46.15889,
+    15.3527,
+    46.15889
+],
+  "geometry": {"coordinates":[15.3527,46.15889],"type":"Point"}
+}

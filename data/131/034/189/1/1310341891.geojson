@@ -1,0 +1,74 @@
+{
+  "id": 1310341891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.90024,46.13508,14.90024,46.13508",
+    "geom:latitude":46.13508,
+    "geom:longitude":14.90024,
+    "gn:admin1_code":"E7",
+    "gn:asciiname":"Ravne pri Mlinsah",
+    "gn:country_code":"SI",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988242,
+    "gn:latitude":46.13508,
+    "gn:longitude":14.90024,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ravne pri Mlin\u0161ah",
+    "gn:population":62,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ravne pri Mlin\u0161ah"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959683,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988242,
+        "wk:page":"Ravne_pri_Mlin%C5%A1ah"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8b20127dcb77a0cdbc4b15f9b2489711",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959683,
+            "locality_id":1310341891,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1310341891,
+    "wof:lastmodified":1537700302,
+    "wof:name":"Ravne pri Mlinsah",
+    "wof:parent_id":1108959683,
+    "wof:placetype":"locality",
+    "wof:population":62,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.90024,
+    46.13508,
+    14.90024,
+    46.13508
+],
+  "geometry": {"coordinates":[14.90024,46.13508],"type":"Point"}
+}

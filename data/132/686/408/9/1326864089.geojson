@@ -1,0 +1,74 @@
+{
+  "id": 1326864089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.88038,46.14616,14.88038,46.14616",
+    "geom:latitude":46.14616,
+    "geom:longitude":14.88038,
+    "gn:admin1_code":"E7",
+    "gn:asciiname":"Mlinse",
+    "gn:country_code":"SI",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987121,
+    "gn:latitude":46.14616,
+    "gn:longitude":14.88038,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Mlin\u0161e",
+    "gn:population":260,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mlin\u0161e"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959683,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987121,
+        "wk:page":"Mlin%C5%A1e"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ae5549bb393b05c063d8c445b7d222c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959683,
+            "locality_id":1326864089,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1326864089,
+    "wof:lastmodified":1537700279,
+    "wof:name":"Mlinse",
+    "wof:parent_id":1108959683,
+    "wof:placetype":"locality",
+    "wof:population":260,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.88038,
+    46.14616,
+    14.88038,
+    46.14616
+],
+  "geometry": {"coordinates":[14.88038,46.14616],"type":"Point"}
+}

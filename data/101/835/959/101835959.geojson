@@ -1,0 +1,131 @@
+{
+  "id": 101835959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000034,
+    "geom:area_square_m":297274.743894,
+    "geom:bbox":"14.4668585737,45.7193845583,14.4784605486,45.72833958",
+    "geom:latitude":45.722905,
+    "geom:longitude":14.470299,
+    "gn:population":642,
+    "iso:country":"SI",
+    "lbl:latitude":45.722032,
+    "lbl:longitude":14.468936,
+    "mps:latitude":45.722032,
+    "mps:longitude":14.468936,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0644\u0648\u062c"
+    ],
+    "name:bos_x_preferred":[
+        "Lo\u017e"
+    ],
+    "name:chi_x_preferred":[
+        "\u6d1b\u65e5"
+    ],
+    "name:dut_x_preferred":[
+        "Lo\u017e"
+    ],
+    "name:eng_x_preferred":[
+        "Lo\u017e"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0698\u060c \u0627\u0633\u0644\u0648\u0648\u0646\u06cc"
+    ],
+    "name:fre_x_preferred":[
+        "Lo\u017e"
+    ],
+    "name:hbs_x_preferred":[
+        "Lo\u017e"
+    ],
+    "name:hrv_x_preferred":[
+        "Lo\u017e"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u0698\u060c \u0627\u0633\u0644\u0648\u0648\u0646\u06cc"
+    ],
+    "name:ron_x_preferred":[
+        "Lo\u017e"
+    ],
+    "name:rum_x_preferred":[
+        "Lo\u017e"
+    ],
+    "name:slv_x_preferred":[
+        "Lo\u017e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0436"
+    ],
+    "name:unk_x_variant":[
+        "Laas"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u65e5"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"Stari trg pri Lo\u017eu",
+    "qs:la_lc":"*SI065000",
+    "qs:level":"locality",
+    "qs:loc":"Lo\u017e",
+    "qs:loc_alt":"Loz",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":45.725953,
+    "wd:longitude":14.468742,
+    "wd:wordcount":199,
+    "wof:belongsto":[
+        102191581,
+        1108959863,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196163,
+        "gp:id":530683,
+        "qs:id":401881,
+        "wd:id":"Q3445866",
+        "wk:page":"Lo\u017e"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4cf0f24b4897fba58e4ea64bdc655ada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959863,
+            "locality_id":101835959,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":101835959,
+    "wof:lastmodified":1531170330,
+    "wof:name":"Lo\u017e",
+    "wof:parent_id":1108959863,
+    "wof:placetype":"locality",
+    "wof:population":642,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.46685857367072,
+    45.71938455825631,
+    14.47846054855319,
+    45.72833958002201
+],
+  "geometry": {"coordinates":[[[14.47838754230486,45.71982469374757],[14.46806881023218,45.71938455825631],[14.46813949032401,45.72024757534984],[14.46685857367072,45.72030158349941],[14.46737397018211,45.72659537623724],[14.46865503371134,45.72654136088681],[14.46880236022605,45.72833958002201],[14.47136456436078,45.72823149880105],[14.47121715390165,45.72643328378314],[14.46993609495121,45.72648733006895],[14.46971506589944,45.72379000003389],[14.47099606189863,45.72373595683609],[14.47070131676634,45.72013951265399],[14.4745440392598,45.71997730261921],[14.4746915313878,45.72177551971106],[14.4759724762626,45.72172141670814],[14.47589870763903,45.72082230948746],[14.47846054855319,45.72071405914562],[14.47838754230486,45.71982469374757]]],"type":"Polygon"}
+}

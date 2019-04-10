@@ -1,0 +1,74 @@
+{
+  "id": 1276373649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.8254,45.60245,14.8254,45.60245",
+    "geom:latitude":45.60245,
+    "geom:longitude":14.8254,
+    "gn:admin1_code":"H7",
+    "gn:asciiname":"Koce",
+    "gn:country_code":"SI",
+    "gn:dem":697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197948,
+    "gn:latitude":45.60245,
+    "gn:longitude":14.8254,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Ko\u010de",
+    "gn:population":1,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ko\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959919,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197948,
+        "wk:page":"Ko%C4%8De%2C_Ko%C4%8Devje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"342c10db36b9a445c03ef1abca05aef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959919,
+            "locality_id":1276373649,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1276373649,
+    "wof:lastmodified":1537700232,
+    "wof:name":"Koce",
+    "wof:parent_id":1108959919,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.8254,
+    45.60245,
+    14.8254,
+    45.60245
+],
+  "geometry": {"coordinates":[14.8254,45.60245],"type":"Point"}
+}

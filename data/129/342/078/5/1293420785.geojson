@@ -1,0 +1,77 @@
+{
+  "id": 1293420785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.13355,45.93302,15.13355,45.93302",
+    "geom:latitude":45.93302,
+    "geom:longitude":15.13355,
+    "gn:admin1_code":"O7",
+    "gn:asciiname":"Pugled pri Mokronogu",
+    "gn:country_code":"SI",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989150,
+    "gn:latitude":45.93302,
+    "gn:longitude":15.13355,
+    "gn:modification_date":"2015-12-03",
+    "gn:name":"Pugled pri Mokronogu",
+    "gn:population":16,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Pogled"
+    ],
+    "name:slv_x_preferred":[
+        "Pogled"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959913,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989150,
+        "wk:page":"Pugled_pri_Mokronogu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0f5def46cfe75ba04707ccca4994d83d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959913,
+            "locality_id":1293420785,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1293420785,
+    "wof:lastmodified":1537700320,
+    "wof:name":"Pugled pri Mokronogu",
+    "wof:parent_id":1108959913,
+    "wof:placetype":"locality",
+    "wof:population":16,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.13355,
+    45.93302,
+    15.13355,
+    45.93302
+],
+  "geometry": {"coordinates":[15.13355,45.93302],"type":"Point"}
+}

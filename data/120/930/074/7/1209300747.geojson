@@ -1,0 +1,65 @@
+{
+  "id": 1209300747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.49333,45.84139,14.49333,45.84139",
+    "geom:latitude":45.84139,
+    "geom:longitude":14.49333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Ravne",
+    "gn:country_code":"SI",
+    "gn:dem":828,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191847,
+    "gn:latitude":45.84139,
+    "gn:longitude":14.49333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Ravne",
+    "gn:population":35,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191847,
+        "wk:page":"Ravne%2C_Cerknica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9a4d70a697b519a4e3ed0e9f424c9b8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209300747
+        }
+    ],
+    "wof:id":1209300747,
+    "wof:lastmodified":1537573406,
+    "wof:name":"Ravne",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":35,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.49333,
+    45.84139,
+    14.49333,
+    45.84139
+],
+  "geometry": {"coordinates":[14.49333,45.84139],"type":"Point"}
+}

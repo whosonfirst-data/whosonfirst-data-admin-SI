@@ -1,0 +1,67 @@
+{
+  "id": 1293375655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.67507,46.01693,15.67507,46.01693",
+    "geom:latitude":46.01693,
+    "geom:longitude":15.67507,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Bost",
+    "gn:country_code":"SI",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":10794163,
+    "gn:latitude":46.01693,
+    "gn:longitude":15.67507,
+    "gn:modification_date":"2015-10-03",
+    "gn:name":"Bo\u0161t",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10794163
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2ff12c2037d4a879e02d45259df1ceef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1293375655,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1293375655,
+    "wof:lastmodified":1536948607,
+    "wof:name":"Bost",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.67507,
+    46.01693,
+    15.67507,
+    46.01693
+],
+  "geometry": {"coordinates":[15.67507,46.01693],"type":"Point"}
+}

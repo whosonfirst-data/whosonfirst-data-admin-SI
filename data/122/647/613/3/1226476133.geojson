@@ -1,0 +1,74 @@
+{
+  "id": 1226476133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.2661,46.12495,15.2661,46.12495",
+    "geom:latitude":46.12495,
+    "geom:longitude":15.2661,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Selo nad Laskim",
+    "gn:country_code":"SI",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3338864,
+    "gn:latitude":46.12495,
+    "gn:longitude":15.2661,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Selo nad La\u0161kim",
+    "gn:population":35,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Selo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959879,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3338864,
+        "wk:page":"Selo_nad_La%C5%A1kim"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"172cfb1c8827bc97681dde8f4a7c8217",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959879,
+            "locality_id":1226476133,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1226476133,
+    "wof:lastmodified":1537700274,
+    "wof:name":"Selo nad Laskim",
+    "wof:parent_id":1108959879,
+    "wof:placetype":"locality",
+    "wof:population":35,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.2661,
+    46.12495,
+    15.2661,
+    46.12495
+],
+  "geometry": {"coordinates":[15.2661,46.12495],"type":"Point"}
+}

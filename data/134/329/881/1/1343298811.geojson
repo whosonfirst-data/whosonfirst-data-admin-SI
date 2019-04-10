@@ -1,0 +1,74 @@
+{
+  "id": 1343298811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.42759,46.21604,15.42759,46.21604",
+    "geom:latitude":46.21604,
+    "geom:longitude":15.42759,
+    "gn:admin1_code":"L7",
+    "gn:asciiname":"Stopce",
+    "gn:country_code":"SI",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987177,
+    "gn:latitude":46.21604,
+    "gn:longitude":15.42759,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Stop\u010de",
+    "gn:population":231,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stop\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959791,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987177,
+        "wk:page":"Stop%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"10e00d621986b4c8f029919bf8c02aba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959791,
+            "locality_id":1343298811,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1343298811,
+    "wof:lastmodified":1537700281,
+    "wof:name":"Stopce",
+    "wof:parent_id":1108959791,
+    "wof:placetype":"locality",
+    "wof:population":231,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.42759,
+    46.21604,
+    15.42759,
+    46.21604
+],
+  "geometry": {"coordinates":[15.42759,46.21604],"type":"Point"}
+}

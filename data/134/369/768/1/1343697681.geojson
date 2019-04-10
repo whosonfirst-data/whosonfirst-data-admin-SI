@@ -1,0 +1,71 @@
+{
+  "id": 1343697681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.20868,46.48186,16.20868,46.48186",
+    "geom:latitude":46.48186,
+    "geom:longitude":16.20868,
+    "gn:admin1_code":"I6",
+    "gn:asciiname":"Ilovci",
+    "gn:country_code":"SI",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987801,
+    "gn:latitude":46.48186,
+    "gn:longitude":16.20868,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ilovci",
+    "gn:population":102,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959499,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987801,
+        "wk:page":"Ilovci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6136369f62064459a14ce4d023f75f4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959499,
+            "locality_id":1343697681,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1343697681,
+    "wof:lastmodified":1537573492,
+    "wof:name":"Ilovci",
+    "wof:parent_id":1108959499,
+    "wof:placetype":"locality",
+    "wof:population":102,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.20868,
+    46.48186,
+    16.20868,
+    46.48186
+],
+  "geometry": {"coordinates":[16.20868,46.48186],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243397459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.13288,45.97144,14.13288,45.97144",
+    "geom:latitude":45.97144,
+    "geom:longitude":14.13288,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Medvedje Brdo",
+    "gn:country_code":"SI",
+    "gn:dem":771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987248,
+    "gn:latitude":45.97144,
+    "gn:longitude":14.13288,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Medvedje Brdo",
+    "gn:population":205,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959889,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987248,
+        "wk:page":"Medvedje_Brdo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9b71114d740d6a450b4b378a47617439",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959889,
+            "locality_id":1243397459,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1243397459,
+    "wof:lastmodified":1537573473,
+    "wof:name":"Medvedje Brdo",
+    "wof:parent_id":1108959889,
+    "wof:placetype":"locality",
+    "wof:population":205,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.13288,
+    45.97144,
+    14.13288,
+    45.97144
+],
+  "geometry": {"coordinates":[14.13288,45.97144],"type":"Point"}
+}

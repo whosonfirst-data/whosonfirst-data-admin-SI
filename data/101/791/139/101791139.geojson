@@ -1,0 +1,113 @@
+{
+  "id": 101791139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000038,
+    "geom:area_square_m":319170.094837,
+    "geom:bbox":"16.2773786118,46.821221201,16.2986964116,46.8253235599",
+    "geom:latitude":46.823479,
+    "geom:longitude":16.287324,
+    "gn:population":426,
+    "iso:country":"SI",
+    "lbl:latitude":46.823902,
+    "lbl:longitude":16.290714,
+    "mps:latitude":46.823902,
+    "mps:longitude":16.290714,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u0160alovci"
+    ],
+    "name:deu_x_preferred":[
+        "\u0160alovci"
+    ],
+    "name:epo_x_preferred":[
+        "\u0160alovci"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160alovci"
+    ],
+    "name:hrv_x_preferred":[
+        "\u0160alovci"
+    ],
+    "name:hun_x_preferred":[
+        "Sal"
+    ],
+    "name:ita_x_preferred":[
+        "\u0160alovci"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e3\u30ed\u30d5\u30c4\u30a3"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0ec\ub85c\ube0c\uce58"
+    ],
+    "name:nld_x_preferred":[
+        "\u0160alovci"
+    ],
+    "name:unk_x_variant":[
+        "Klein-Schaal"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"\u0160alovci",
+    "qs:la_lc":"*SI033000",
+    "qs:level":"locality",
+    "qs:loc":"\u0160alovci",
+    "qs:loc_alt":"Salovci",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959567,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191329,
+        "gp:id":531438,
+        "qs:id":5,
+        "wd:id":"Q241462",
+        "wk:page":"\u0160alovci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e5c2810b285c04ebf1b5a4df7b80dd7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959567,
+            "locality_id":101791139,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":101791139,
+    "wof:lastmodified":1531170196,
+    "wof:name":"\u0160alovci",
+    "wof:parent_id":1108959567,
+    "wof:placetype":"locality",
+    "wof:population":426,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.27737861183988,
+    46.82122120104253,
+    16.29869641161883,
+    46.82532355991327
+],
+  "geometry": {"coordinates":[[[16.29869641161883,46.8247894157625],[16.29858919951937,46.82389275156004],[16.29467238493646,46.82412176071836],[16.29456524336371,46.82322509142489],[16.29195406044727,46.82337768226512],[16.29184696745,46.82248100937966],[16.28662464841909,46.82278599562551],[16.28651764788765,46.82188931615917],[16.2826009386161,46.82211788559067],[16.28249400859926,46.82122120104253],[16.27988289592309,46.82137349873892],[16.2799897820467,46.82227018627452],[16.27737861183988,46.8224224238075],[16.27748545873925,46.82331911373075],[16.28009667284215,46.82316687321151],[16.2803104684495,46.82496024529098],[16.28161611428521,46.82488409836219],[16.28150919219587,46.82398741411515],[16.2867316536279,46.8236826744934],[16.28683866351349,46.82457935276261],[16.28944991764905,46.82442688523332],[16.2895569761107,46.82532355991327],[16.29869641161883,46.8247894157625]]],"type":"Polygon"}
+}

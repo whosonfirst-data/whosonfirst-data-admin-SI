@@ -1,0 +1,71 @@
+{
+  "id": 1277111015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.5897,45.82684,14.5897,45.82684",
+    "geom:latitude":45.82684,
+    "geom:longitude":14.5897,
+    "gn:admin1_code":"D8",
+    "gn:asciiname":"Logarji",
+    "gn:country_code":"SI",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988825,
+    "gn:latitude":45.82684,
+    "gn:longitude":14.5897,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Logarji",
+    "gn:population":31,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959859,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988825,
+        "wk:page":"Logarji"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0ad554e10d0273b64371c780c4254a21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959859,
+            "locality_id":1277111015,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1277111015,
+    "wof:lastmodified":1537573524,
+    "wof:name":"Logarji",
+    "wof:parent_id":1108959859,
+    "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.5897,
+    45.82684,
+    14.5897,
+    45.82684
+],
+  "geometry": {"coordinates":[14.5897,45.82684],"type":"Point"}
+}

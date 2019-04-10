@@ -1,0 +1,74 @@
+{
+  "id": 1293518199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.98857,46.02261,14.98857,46.02261",
+    "geom:latitude":46.02261,
+    "geom:longitude":14.98857,
+    "gn:admin1_code":"I5",
+    "gn:asciiname":"Ceplje",
+    "gn:country_code":"SI",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989213,
+    "gn:latitude":46.02261,
+    "gn:longitude":14.98857,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u010ceplje",
+    "gn:population":13,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010ceplje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959907,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989213,
+        "wk:page":"%C4%8Ceplje%2C_Litija"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d59853078574e6d2467dcb5918e42c64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959907,
+            "locality_id":1293518199,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1293518199,
+    "wof:lastmodified":1537700322,
+    "wof:name":"Ceplje",
+    "wof:parent_id":1108959907,
+    "wof:placetype":"locality",
+    "wof:population":13,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.98857,
+    46.02261,
+    14.98857,
+    46.02261
+],
+  "geometry": {"coordinates":[14.98857,46.02261],"type":"Point"}
+}

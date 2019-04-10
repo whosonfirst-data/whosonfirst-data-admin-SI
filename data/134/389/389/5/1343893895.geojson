@@ -1,0 +1,74 @@
+{
+  "id": 1343893895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.00927,45.81897,15.00927,45.81897",
+    "geom:latitude":45.81897,
+    "geom:longitude":15.00927,
+    "gn:admin1_code":"N8",
+    "gn:asciiname":"Borst pri Dvoru",
+    "gn:country_code":"SI",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988588,
+    "gn:latitude":45.81897,
+    "gn:longitude":15.00927,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Bor\u0161t pri Dvoru",
+    "gn:population":42,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bor\u0161t pri Dvoru"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959787,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988588,
+        "wk:page":"Bor%C5%A1t_pri_Dvoru"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d07b34b7609bd4d53377af6c4aa1b07f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959787,
+            "locality_id":1343893895,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1343893895,
+    "wof:lastmodified":1537700309,
+    "wof:name":"Borst pri Dvoru",
+    "wof:parent_id":1108959787,
+    "wof:placetype":"locality",
+    "wof:population":42,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.00927,
+    45.81897,
+    15.00927,
+    45.81897
+],
+  "geometry": {"coordinates":[15.00927,45.81897],"type":"Point"}
+}

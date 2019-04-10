@@ -1,0 +1,74 @@
+{
+  "id": 1343892055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.13333,46.58333,15.13333,46.58333",
+    "geom:latitude":46.58333,
+    "geom:longitude":15.13333,
+    "gn:admin1_code":"E6",
+    "gn:asciiname":"Dravce",
+    "gn:country_code":"SI",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201256,
+    "gn:latitude":46.58333,
+    "gn:longitude":15.13333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Drav\u010de",
+    "gn:population":142,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Drav\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959677,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201256,
+        "wk:page":"Drav%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"91f1dd31e029c3b7035e7863a59a4651",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959677,
+            "locality_id":1343892055,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1343892055,
+    "wof:lastmodified":1537700250,
+    "wof:name":"Dravce",
+    "wof:parent_id":1108959677,
+    "wof:placetype":"locality",
+    "wof:population":142,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.13333,
+    46.58333,
+    15.13333,
+    46.58333
+],
+  "geometry": {"coordinates":[15.13333,46.58333],"type":"Point"}
+}

@@ -1,0 +1,149 @@
+{
+  "id": 101845317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00008,
+    "geom:area_square_m":688337.234927,
+    "geom:bbox":"14.627931294,46.0846624192,14.6474277777,46.0938183416",
+    "geom:latitude":46.089135,
+    "geom:longitude":14.636946,
+    "gn:gn_country":null,
+    "gn:population":241,
+    "iso:country":"SI",
+    "lbl:latitude":46.089712,
+    "lbl:longitude":14.635986,
+    "mps:latitude":46.089712,
+    "mps:longitude":14.635986,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Dol pri Ljubljani"
+    ],
+    "name:deu_x_preferred":[
+        "Lusttal"
+    ],
+    "name:dut_x_preferred":[
+        "Dol pri Ljubljani"
+    ],
+    "name:eng_x_preferred":[
+        "Dol pri Ljubljani"
+    ],
+    "name:hbs_x_preferred":[
+        "Dol pri Ljubljani"
+    ],
+    "name:ita_x_preferred":[
+        "Dol pri Ljubljani"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30eb\u30fb\u30d7\u30ea\u30fb\u30ea\u30e5\u30d6\u30ea\u30e3\u30cb"
+    ],
+    "name:nld_x_preferred":[
+        "Dol pri Ljubljani"
+    ],
+    "name:ron_x_preferred":[
+        "Dol pri Ljubljani"
+    ],
+    "name:rum_x_preferred":[
+        "Dol pri Ljubljani"
+    ],
+    "name:slv_x_preferred":[
+        "Dol pri Ljubljani"
+    ],
+    "name:slv_x_variant":[
+        "Ob\u010dina Dol pri Ljubljani"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u043b \u043f\u0440\u0438 \u0409\u0443\u0431\u0459\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Dol pri Ljubljani"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043b-\u043f\u0440\u0438-\u041b\u044e\u0431\u043b\u044f\u043d\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Dol"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"Dol pri Ljubljani",
+    "qs:la_lc":"*SI022000",
+    "qs:level":"locality",
+    "qs:loc":"Dol pri Ljubljani",
+    "qs:loc_alt":"Dol pri Ljubljani",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Dol Pri Ljubljani",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Ljubljana",
+    "qs_pg:photos":25,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":25,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1327046,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":529849,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959861,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201748,
+        "gp:id":529849,
+        "qs:id":8,
+        "qs_pg:id":1327046,
+        "wd:id":"Q13377759",
+        "wk:page":"Dol pri Ljubljani"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f3e5d3657cecdde6fcaf430d2d426abf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959861,
+            "locality_id":101845317,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":101845317,
+    "wof:lastmodified":1534379461,
+    "wof:name":"Dol pri Ljubljani",
+    "wof:parent_id":1108959861,
+    "wof:placetype":"locality",
+    "wof:population":241,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125865343
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.62793129398557,
+    46.08466241922895,
+    14.64742777773921,
+    46.09381834160109
+],
+  "geometry": {"coordinates":[[[14.64136704603004,46.09353769297849],[14.64128971247499,46.0926389397236],[14.63871057832927,46.09275124376626],[14.63847872572904,46.09005497407964],[14.64234723124389,46.08988650436413],[14.64226988969688,46.08898774989734],[14.64742777773921,46.08876290976616],[14.64735035417959,46.08786415905178],[14.64348200579911,46.08803280927975],[14.64332729671639,46.08623529964046],[14.64203788507655,46.08629148305539],[14.64196055687637,46.08539272629446],[14.63809237141658,46.08556117980407],[14.63801511055561,46.08466241922895],[14.63672573189098,46.08471853815485],[14.63680297141735,46.0856172998096],[14.63422416415381,46.08572949307393],[14.63437856785998,46.08752701898067],[14.62793129398557,46.08780724023131],[14.62800839414456,46.0887060077165],[14.62929787509592,46.08864999355484],[14.6293749999208,46.08954875938917],[14.63066449979306,46.08949272856603],[14.63089595826017,46.09218901939749],[14.63476463542457,46.09202082371735],[14.63491908577453,46.09381834160109],[14.64136704603004,46.09353769297849]]],"type":"Polygon"}
+}

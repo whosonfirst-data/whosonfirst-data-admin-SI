@@ -1,0 +1,71 @@
+{
+  "id": 1260111515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.01025,45.9622,15.01025,45.9622",
+    "geom:latitude":45.9622,
+    "geom:longitude":15.01025,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Cirnik",
+    "gn:country_code":"SI",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989625,
+    "gn:latitude":45.9622,
+    "gn:longitude":15.01025,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Cirnik",
+    "gn:population":24,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959869,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989625,
+        "wk:page":"Cirnik%2C_Mirna"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c6032b5e8bd7b4aa0dd4964f7423d63c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959869,
+            "locality_id":1260111515,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1260111515,
+    "wof:lastmodified":1537573547,
+    "wof:name":"Cirnik",
+    "wof:parent_id":1108959869,
+    "wof:placetype":"locality",
+    "wof:population":24,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.01025,
+    45.9622,
+    15.01025,
+    45.9622
+],
+  "geometry": {"coordinates":[15.01025,45.9622],"type":"Point"}
+}

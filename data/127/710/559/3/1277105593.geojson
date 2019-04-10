@@ -1,0 +1,74 @@
+{
+  "id": 1277105593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.19966,46.08953,15.19966,46.08953",
+    "geom:latitude":46.08953,
+    "geom:longitude":15.19966,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Obrezje pri Zidanem Mostu",
+    "gn:country_code":"SI",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989787,
+    "gn:latitude":46.08953,
+    "gn:longitude":15.19966,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Obre\u017eje pri Zidanem Mostu",
+    "gn:population":128,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Obre\u017eje pri Zidanem Mostu"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959879,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989787,
+        "wk:page":"Obre%C5%BEje_pri_Zidanem_Mostu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"26be7e627b51f92e6c842324ba7cf218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959879,
+            "locality_id":1277105593,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1277105593,
+    "wof:lastmodified":1537700333,
+    "wof:name":"Obrezje pri Zidanem Mostu",
+    "wof:parent_id":1108959879,
+    "wof:placetype":"locality",
+    "wof:population":128,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.19966,
+    46.08953,
+    15.19966,
+    46.08953
+],
+  "geometry": {"coordinates":[15.19966,46.08953],"type":"Point"}
+}

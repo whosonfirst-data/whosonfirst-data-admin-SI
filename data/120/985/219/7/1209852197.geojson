@@ -1,0 +1,74 @@
+{
+  "id": 1209852197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.72238,46.15998,13.72238,46.15998",
+    "geom:latitude":46.15998,
+    "geom:longitude":13.72238,
+    "gn:admin1_code":"D2",
+    "gn:asciiname":"Kozarsce",
+    "gn:country_code":"SI",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987908,
+    "gn:latitude":46.15998,
+    "gn:longitude":13.72238,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kozar\u0161\u010de",
+    "gn:population":92,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kozar\u0161\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959617,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987908,
+        "wk:page":"Kozar%C5%A1%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6f6e376b7c747d1903c45bb63c082000",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959617,
+            "locality_id":1209852197,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1209852197,
+    "wof:lastmodified":1537700296,
+    "wof:name":"Kozarsce",
+    "wof:parent_id":1108959617,
+    "wof:placetype":"locality",
+    "wof:population":92,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.72238,
+    46.15998,
+    13.72238,
+    46.15998
+],
+  "geometry": {"coordinates":[13.72238,46.15998],"type":"Point"}
+}

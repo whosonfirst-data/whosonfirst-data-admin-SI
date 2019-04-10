@@ -1,0 +1,77 @@
+{
+  "id": 1276905911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.71722,45.54113,14.71722,45.54113",
+    "geom:latitude":45.54113,
+    "geom:longitude":14.71722,
+    "gn:admin1_code":"88",
+    "gn:asciiname":"Padovo pri Osilnici",
+    "gn:country_code":"SI",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989076,
+    "gn:latitude":45.54113,
+    "gn:longitude":14.71722,
+    "gn:modification_date":"2015-11-20",
+    "gn:name":"Padovo pri Osilnici",
+    "gn:population":19,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Padova"
+    ],
+    "name:slv_x_preferred":[
+        "Padova"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959563,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989076,
+        "wk:page":"Padovo_pri_Osilnici"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9a9b2442992f7fbff6cb16493ed66e3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959563,
+            "locality_id":1276905911,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1276905911,
+    "wof:lastmodified":1537700319,
+    "wof:name":"Padovo pri Osilnici",
+    "wof:parent_id":1108959563,
+    "wof:placetype":"locality",
+    "wof:population":19,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.71722,
+    45.54113,
+    14.71722,
+    45.54113
+],
+  "geometry": {"coordinates":[14.71722,45.54113],"type":"Point"}
+}

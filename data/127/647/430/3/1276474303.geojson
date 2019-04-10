@@ -1,0 +1,71 @@
+{
+  "id": 1276474303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.21558,46.1981,14.21558,46.1981",
+    "geom:latitude":46.1981,
+    "geom:longitude":14.21558,
+    "gn:admin1_code":"B9",
+    "gn:asciiname":"Stirpnik",
+    "gn:country_code":"SI",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987941,
+    "gn:latitude":46.1981,
+    "gn:longitude":14.21558,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Stirpnik",
+    "gn:population":88,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959821,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987941,
+        "wk:page":"Stirpnik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"98e88b06c3d69080fa74cb61b2bb3b8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959821,
+            "locality_id":1276474303,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1276474303,
+    "wof:lastmodified":1537573496,
+    "wof:name":"Stirpnik",
+    "wof:parent_id":1108959821,
+    "wof:placetype":"locality",
+    "wof:population":88,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.21558,
+    46.1981,
+    14.21558,
+    46.1981
+],
+  "geometry": {"coordinates":[14.21558,46.1981],"type":"Point"}
+}

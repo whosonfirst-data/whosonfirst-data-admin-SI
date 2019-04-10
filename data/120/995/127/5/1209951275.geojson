@@ -1,0 +1,71 @@
+{
+  "id": 1209951275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.06693,45.55265,15.06693,45.55265",
+    "geom:latitude":45.55265,
+    "geom:longitude":15.06693,
+    "gn:admin1_code":"H7",
+    "gn:asciiname":"Brezovica pri Predgradu",
+    "gn:country_code":"SI",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988470,
+    "gn:latitude":45.55265,
+    "gn:longitude":15.06693,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Brezovica pri Predgradu",
+    "gn:population":48,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959919,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988470,
+        "wk:page":"Brezovica_pri_Predgradu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b7b720ab1b83b3567f4641654c99db06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959919,
+            "locality_id":1209951275,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1209951275,
+    "wof:lastmodified":1537573513,
+    "wof:name":"Brezovica pri Predgradu",
+    "wof:parent_id":1108959919,
+    "wof:placetype":"locality",
+    "wof:population":48,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.06693,
+    45.55265,
+    15.06693,
+    45.55265
+],
+  "geometry": {"coordinates":[15.06693,45.55265],"type":"Point"}
+}

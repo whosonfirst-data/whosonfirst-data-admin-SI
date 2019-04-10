@@ -1,0 +1,74 @@
+{
+  "id": 1310334283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25,45.88333,15.25,45.88333",
+    "geom:latitude":45.88333,
+    "geom:longitude":15.25,
+    "gn:admin1_code":"P3",
+    "gn:asciiname":"Smarjeta",
+    "gn:country_code":"SI",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":3190506,
+    "gn:latitude":45.88333,
+    "gn:longitude":15.25,
+    "gn:modification_date":"2015-11-26",
+    "gn:name":"\u0160marjeta",
+    "gn:population":326,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160marjeta"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959833,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190506,
+        "wk:page":"%C5%A0marjeta"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d995f867e23dfa472acc9ae59363f1ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959833,
+            "locality_id":1310334283,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1310334283,
+    "wof:lastmodified":1537700192,
+    "wof:name":"Smarjeta",
+    "wof:parent_id":1108959833,
+    "wof:placetype":"locality",
+    "wof:population":326,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25,
+    45.88333,
+    15.25,
+    45.88333
+],
+  "geometry": {"coordinates":[15.25,45.88333],"type":"Point"}
+}

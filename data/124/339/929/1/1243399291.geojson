@@ -1,0 +1,71 @@
+{
+  "id": 1243399291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.20131,46.75659,16.20131,46.75659",
+    "geom:latitude":46.75659,
+    "geom:longitude":16.20131,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Kosarovci",
+    "gn:country_code":"SI",
+    "gn:dem":319,
+    "gn:elevation":"323.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10377393,
+    "gn:latitude":46.75659,
+    "gn:longitude":16.20131,
+    "gn:modification_date":"2015-07-19",
+    "gn:name":"Ko\u0161arovci",
+    "gn:population":72,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959531,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10377393
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2ff43b8f74b0e0f30a0bed264262e9cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959531,
+            "locality_id":1243399291,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1243399291,
+    "wof:lastmodified":1536872582,
+    "wof:name":"Kosarovci",
+    "wof:parent_id":1108959531,
+    "wof:placetype":"locality",
+    "wof:population":72,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.20131,
+    46.75659,
+    16.20131,
+    46.75659
+],
+  "geometry": {"coordinates":[16.20131,46.75659],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326515549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.51667,45.9,15.51667,45.9",
+    "geom:latitude":45.9,
+    "geom:longitude":15.51667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Zasap",
+    "gn:country_code":"SI",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186757,
+    "gn:latitude":45.9,
+    "gn:longitude":15.51667,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Zasap",
+    "gn:population":56,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186757,
+        "wk:page":"Zasap"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6382ee9190e3fea7e106b9bc6a596303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1326515549,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1326515549,
+    "wof:lastmodified":1537573383,
+    "wof:name":"Zasap",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:population":56,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.51667,
+    45.9,
+    15.51667,
+    45.9
+],
+  "geometry": {"coordinates":[15.51667,45.9],"type":"Point"}
+}

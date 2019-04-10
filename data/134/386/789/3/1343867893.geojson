@@ -1,0 +1,74 @@
+{
+  "id": 1343867893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.82203,45.88354,13.82203,45.88354",
+    "geom:latitude":45.88354,
+    "geom:longitude":13.82203,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Potoce",
+    "gn:country_code":"SI",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987221,
+    "gn:latitude":45.88354,
+    "gn:longitude":13.82203,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Poto\u010de",
+    "gn:population":213,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poto\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959545,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987221,
+        "wk:page":"Poto%C4%8De%2C_Ajdov%C5%A1%C4%8Dina"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1f266d7ca880694c4a5e9a9580aeb591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959545,
+            "locality_id":1343867893,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1343867893,
+    "wof:lastmodified":1537700282,
+    "wof:name":"Potoce",
+    "wof:parent_id":1108959545,
+    "wof:placetype":"locality",
+    "wof:population":213,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.82203,
+    45.88354,
+    13.82203,
+    45.88354
+],
+  "geometry": {"coordinates":[13.82203,45.88354],"type":"Point"}
+}

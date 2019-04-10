@@ -1,0 +1,69 @@
+{
+  "id": 1209157285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.20139,45.51944,14.20139,45.51944",
+    "geom:latitude":45.51944,
+    "geom:longitude":14.20139,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Studena Gora",
+    "gn:country_code":"SI",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189644,
+    "gn:latitude":45.51944,
+    "gn:longitude":14.20139,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Studena Gora",
+    "gn:population":33,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Studena in Monte",
+        "Studena Gora"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189644,
+        "wk:page":"Studena_Gora"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2b9074c9950ede3dd5f7b5a3308e8692",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209157285
+        }
+    ],
+    "wof:id":1209157285,
+    "wof:lastmodified":1537700184,
+    "wof:name":"Studena Gora",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":33,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.20139,
+    45.51944,
+    14.20139,
+    45.51944
+],
+  "geometry": {"coordinates":[14.20139,45.51944],"type":"Point"}
+}

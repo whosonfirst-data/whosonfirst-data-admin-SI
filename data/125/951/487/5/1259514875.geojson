@@ -1,0 +1,74 @@
+{
+  "id": 1259514875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.94588,45.94135,14.94588,45.94135",
+    "geom:latitude":45.94135,
+    "geom:longitude":14.94588,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Sentlovrenc",
+    "gn:country_code":"SI",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987586,
+    "gn:latitude":45.94135,
+    "gn:longitude":14.94588,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160entlovrenc",
+    "gn:population":127,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160entlovrenc"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959839,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987586,
+        "wk:page":"%C5%A0entlovrenc"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"949bf4e75810cb5d44b8af60e8f6064b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959839,
+            "locality_id":1259514875,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1259514875,
+    "wof:lastmodified":1537700289,
+    "wof:name":"Sentlovrenc",
+    "wof:parent_id":1108959839,
+    "wof:placetype":"locality",
+    "wof:population":127,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.94588,
+    45.94135,
+    14.94588,
+    45.94135
+],
+  "geometry": {"coordinates":[14.94588,45.94135],"type":"Point"}
+}

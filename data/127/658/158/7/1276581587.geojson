@@ -1,0 +1,80 @@
+{
+  "id": 1276581587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.29811,45.97025,15.29811,45.97025",
+    "geom:latitude":45.97025,
+    "geom:longitude":15.29811,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Primoz",
+    "gn:country_code":"SI",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988839,
+    "gn:latitude":45.97025,
+    "gn:longitude":15.29811,
+    "gn:modification_date":"2015-11-30",
+    "gn:name":"Primo\u017e",
+    "gn:population":30,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Sveti Primo\u017e"
+    ],
+    "name:slv_x_preferred":[
+        "Sveti Primo\u017e"
+    ],
+    "name:und_x_variant":[
+        "Primo\u017e"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988839,
+        "wk:page":"Primo%C5%BE%2C_Sevnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b84d078251b153d456eb7f2b487ee9be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1276581587,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1276581587,
+    "wof:lastmodified":1537700314,
+    "wof:name":"Primoz",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":30,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.29811,
+    45.97025,
+    15.29811,
+    45.97025
+],
+  "geometry": {"coordinates":[15.29811,45.97025],"type":"Point"}
+}

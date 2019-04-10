@@ -1,0 +1,74 @@
+{
+  "id": 1225975845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.77886,46.17867,14.77886,46.17867",
+    "geom:latitude":46.17867,
+    "geom:longitude":14.77886,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Vosce",
+    "gn:country_code":"SI",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988511,
+    "gn:latitude":46.17867,
+    "gn:longitude":14.77886,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Vo\u0161ce",
+    "gn:population":46,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vo\u0161ce"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959807,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988511,
+        "wk:page":"Vo%C5%A1ce"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"080e238d3d9d7ab2e154c31986dda657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959807,
+            "locality_id":1225975845,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1225975845,
+    "wof:lastmodified":1537700308,
+    "wof:name":"Vosce",
+    "wof:parent_id":1108959807,
+    "wof:placetype":"locality",
+    "wof:population":46,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.77886,
+    46.17867,
+    14.77886,
+    46.17867
+],
+  "geometry": {"coordinates":[14.77886,46.17867],"type":"Point"}
+}

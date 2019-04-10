@@ -1,0 +1,71 @@
+{
+  "id": 1293420371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.56917,45.78715,14.56917,45.78715",
+    "geom:latitude":45.78715,
+    "geom:longitude":14.56917,
+    "gn:admin1_code":"M1",
+    "gn:asciiname":"Novi Pot",
+    "gn:country_code":"SI",
+    "gn:dem":768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194361,
+    "gn:latitude":45.78715,
+    "gn:longitude":14.56917,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Novi Pot",
+    "gn:population":6,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959805,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194361,
+        "wk:page":"Novi_Pot"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"cde0ef5fbbaedc86cb89d610d3a30051",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959805,
+            "locality_id":1293420371,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1293420371,
+    "wof:lastmodified":1537573417,
+    "wof:name":"Novi Pot",
+    "wof:parent_id":1108959805,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.56917,
+    45.78715,
+    14.56917,
+    45.78715
+],
+  "geometry": {"coordinates":[14.56917,45.78715],"type":"Point"}
+}

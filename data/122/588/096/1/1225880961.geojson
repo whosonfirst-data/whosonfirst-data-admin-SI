@@ -1,0 +1,77 @@
+{
+  "id": 1225880961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.28827,45.94962,15.28827,45.94962",
+    "geom:latitude":45.94962,
+    "geom:longitude":15.28827,
+    "gn:admin1_code":"B8",
+    "gn:asciiname":"Jelendol",
+    "gn:country_code":"SI",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988624,
+    "gn:latitude":45.94962,
+    "gn:longitude":15.28827,
+    "gn:modification_date":"2015-12-03",
+    "gn:name":"Jelendol",
+    "gn:population":40,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Jelenji Dol"
+    ],
+    "name:slv_x_preferred":[
+        "Jelenji Dol"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959605,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988624,
+        "wk:page":"Jelendol%2C_%C5%A0kocjan"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fd9b80ac6373c46a120b2c703f7c507e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959605,
+            "locality_id":1225880961,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1225880961,
+    "wof:lastmodified":1537700310,
+    "wof:name":"Jelendol",
+    "wof:parent_id":1108959605,
+    "wof:placetype":"locality",
+    "wof:population":40,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.28827,
+    45.94962,
+    15.28827,
+    45.94962
+],
+  "geometry": {"coordinates":[15.28827,45.94962],"type":"Point"}
+}

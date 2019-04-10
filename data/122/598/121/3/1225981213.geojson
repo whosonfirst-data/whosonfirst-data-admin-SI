@@ -1,0 +1,71 @@
+{
+  "id": 1225981213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.40637,46.34488,15.40637,46.34488",
+    "geom:latitude":46.34488,
+    "geom:longitude":15.40637,
+    "gn:admin1_code":"F3",
+    "gn:asciiname":"Spodnje Preloge",
+    "gn:country_code":"SI",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190204,
+    "gn:latitude":46.34488,
+    "gn:longitude":15.40637,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Spodnje Preloge",
+    "gn:population":306,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959753,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190204,
+        "wk:page":"Spodnje_Preloge"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a44f789199634f81f4c0950e3f248eee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959753,
+            "locality_id":1225981213,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1225981213,
+    "wof:lastmodified":1537573398,
+    "wof:name":"Spodnje Preloge",
+    "wof:parent_id":1108959753,
+    "wof:placetype":"locality",
+    "wof:population":306,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.40637,
+    46.34488,
+    15.40637,
+    46.34488
+],
+  "geometry": {"coordinates":[15.40637,46.34488],"type":"Point"}
+}

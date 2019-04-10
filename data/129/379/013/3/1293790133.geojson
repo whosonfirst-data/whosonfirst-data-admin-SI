@@ -1,0 +1,67 @@
+{
+  "id": 1293790133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.93333,46.31611,13.93333,46.31611",
+    "geom:latitude":46.31611,
+    "geom:longitude":13.93333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Planina Zajamniki",
+    "gn:country_code":"SI",
+    "gn:dem":1368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218198,
+    "gn:latitude":46.31611,
+    "gn:longitude":13.93333,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Planina Zajamniki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959819,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218198
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6fa68ac79179d1b66c03c7107b9796fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959819,
+            "locality_id":1293790133,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1293790133,
+    "wof:lastmodified":1536846679,
+    "wof:name":"Planina Zajamniki",
+    "wof:parent_id":1108959819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.93333,
+    46.31611,
+    13.93333,
+    46.31611
+],
+  "geometry": {"coordinates":[13.93333,46.31611],"type":"Point"}
+}

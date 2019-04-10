@@ -1,0 +1,74 @@
+{
+  "id": 1327064477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.28515,46.35351,14.28515,46.35351",
+    "geom:latitude":46.35351,
+    "geom:longitude":14.28515,
+    "gn:admin1_code":"D5",
+    "gn:asciiname":"Rocevnica",
+    "gn:country_code":"SI",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986908,
+    "gn:latitude":46.35351,
+    "gn:longitude":14.28515,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Ro\u010devnica",
+    "gn:population":529,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ro\u010devnica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959917,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986908,
+        "wk:page":"Ro%C4%8Devnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2c6fe690c88ad0172c5067e4c693f53a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959917,
+            "locality_id":1327064477,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1327064477,
+    "wof:lastmodified":1537700276,
+    "wof:name":"Rocevnica",
+    "wof:parent_id":1108959917,
+    "wof:placetype":"locality",
+    "wof:population":529,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.28515,
+    46.35351,
+    14.28515,
+    46.35351
+],
+  "geometry": {"coordinates":[14.28515,46.35351],"type":"Point"}
+}

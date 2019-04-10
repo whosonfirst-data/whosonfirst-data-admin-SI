@@ -1,0 +1,74 @@
+{
+  "id": 1344147679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.60595,45.95225,15.60595,45.95225",
+    "geom:latitude":45.95225,
+    "geom:longitude":15.60595,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Decno Selo",
+    "gn:country_code":"SI",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202127,
+    "gn:latitude":45.95225,
+    "gn:longitude":15.60595,
+    "gn:modification_date":"2015-09-25",
+    "gn:name":"De\u010dno Selo",
+    "gn:population":304,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "De\u010dna Sela",
+        "De\u010dno Selo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202127
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fe552c1f480b7fc9aec8b058be07132e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1344147679,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1344147679,
+    "wof:lastmodified":1537700255,
+    "wof:name":"Decno Selo",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:population":304,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.60595,
+    45.95225,
+    15.60595,
+    45.95225
+],
+  "geometry": {"coordinates":[15.60595,45.95225],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1292934545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.64503,45.78008,14.64503,45.78008",
+    "geom:latitude":45.78008,
+    "geom:longitude":14.64503,
+    "gn:admin1_code":"L1",
+    "gn:asciiname":"Hojce",
+    "gn:country_code":"SI",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989117,
+    "gn:latitude":45.78008,
+    "gn:longitude":14.64503,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Hoj\u010de",
+    "gn:population":17,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hoj\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959599,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989117,
+        "wk:page":"Hoj%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"59efc8494fde7b509b8e80bd6b934681",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959599,
+            "locality_id":1292934545,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1292934545,
+    "wof:lastmodified":1537700320,
+    "wof:name":"Hojce",
+    "wof:parent_id":1108959599,
+    "wof:placetype":"locality",
+    "wof:population":17,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.64503,
+    45.78008,
+    14.64503,
+    45.78008
+],
+  "geometry": {"coordinates":[14.64503,45.78008],"type":"Point"}
+}

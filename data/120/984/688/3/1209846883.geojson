@@ -1,0 +1,74 @@
+{
+  "id": 1209846883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.89351,45.92911,14.89351,45.92911",
+    "geom:latitude":45.92911,
+    "geom:longitude":14.89351,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Bic",
+    "gn:country_code":"SI",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987922,
+    "gn:latitude":45.92911,
+    "gn:longitude":14.89351,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Bi\u010d",
+    "gn:population":90,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bi\u010d"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959839,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987922,
+        "wk:page":"Bi%C4%8D%2C_Trebnje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2dc07de6ddc88880379d746e9a7656f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959839,
+            "locality_id":1209846883,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1209846883,
+    "wof:lastmodified":1537700296,
+    "wof:name":"Bic",
+    "wof:parent_id":1108959839,
+    "wof:placetype":"locality",
+    "wof:population":90,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.89351,
+    45.92911,
+    14.89351,
+    45.92911
+],
+  "geometry": {"coordinates":[14.89351,45.92911],"type":"Point"}
+}

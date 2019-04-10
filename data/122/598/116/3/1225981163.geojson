@@ -1,0 +1,71 @@
+{
+  "id": 1225981163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.30572,46.25749,14.30572,46.25749",
+    "geom:latitude":46.25749,
+    "geom:longitude":14.30572,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Spodnja Besnica",
+    "gn:country_code":"SI",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190253,
+    "gn:latitude":46.25749,
+    "gn:longitude":14.30572,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Spodnja Besnica",
+    "gn:population":905,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959933,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190253,
+        "wk:page":"Spodnja_Besnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ec3b3b694af26a10030cd8eef5d9f4d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959933,
+            "locality_id":1225981163,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1225981163,
+    "wof:lastmodified":1537573399,
+    "wof:name":"Spodnja Besnica",
+    "wof:parent_id":1108959933,
+    "wof:placetype":"locality",
+    "wof:population":905,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.30572,
+    46.25749,
+    14.30572,
+    46.25749
+],
+  "geometry": {"coordinates":[14.30572,46.25749],"type":"Point"}
+}

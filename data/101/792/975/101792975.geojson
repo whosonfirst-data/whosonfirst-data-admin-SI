@@ -1,0 +1,147 @@
+{
+  "id": 101792975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000126,
+    "geom:area_square_m":1087437.576836,
+    "geom:bbox":"15.3273570458,45.8350967174,15.3459375752,45.8488932388",
+    "geom:latitude":45.842694,
+    "geom:longitude":15.337837,
+    "gn:population":1423,
+    "iso:country":"SI",
+    "lbl:latitude":45.844307,
+    "lbl:longitude":15.336148,
+    "mps:latitude":45.844307,
+    "mps:longitude":15.336148,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "\u0160entjernej"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u010dina \u0160entjernej"
+    ],
+    "name:deu_x_preferred":[
+        "\u0160entjernej"
+    ],
+    "name:deu_x_variant":[
+        "Sankt Bartlm\u00e4"
+    ],
+    "name:dut_x_preferred":[
+        "\u0160entjernej"
+    ],
+    "name:eng_x_preferred":[
+        "\u0160entjernej"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160entjernej"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina \u0160entjernej"
+    ],
+    "name:ita_x_preferred":[
+        "\u0160entjernej"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30a7\u30f3\u30c8\u30a4\u30a7\u30eb\u30cb\u30a7\u30a4"
+    ],
+    "name:kor_x_preferred":[
+        "\uc174\uccb4\ub974\ub124\uc774"
+    ],
+    "name:nld_x_preferred":[
+        "\u0160entjernej"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina \u0160entjernej"
+    ],
+    "name:por_x_preferred":[
+        "\u0160entjernej"
+    ],
+    "name:ron_x_preferred":[
+        "\u0160entjernej"
+    ],
+    "name:rum_x_preferred":[
+        "\u0160entjernej"
+    ],
+    "name:slv_x_historical":[
+        "\u0160ent Jernej"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina \u0160entjernej"
+    ],
+    "name:slv_x_variant":[
+        "\u0160ent Jernej",
+        "\u0160entjernej"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0435\u043d\u0442\u0458\u0435\u0440\u043d\u0435\u0458"
+    ],
+    "name:swe_x_preferred":[
+        "\u0160entjernej"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0435\u043d\u0442\u0454\u0440\u043d\u0435\u0439"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"\u0160entjernej",
+    "qs:la_lc":"*SI119000",
+    "qs:level":"locality",
+    "qs:loc":"\u0160entjernej",
+    "qs:loc_alt":"Sentjernej",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959937,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191033,
+        "gp:id":531503,
+        "qs:id":8,
+        "wd:id":"Q1809670",
+        "wk:page":"\u0160entjernej"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f1391033c2cf335e599083ebaad38254",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959937,
+            "locality_id":101792975,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":101792975,
+    "wof:lastmodified":1531170064,
+    "wof:name":"\u0160entjernej",
+    "wof:parent_id":1108959937,
+    "wof:placetype":"locality",
+    "wof:population":1423,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.32735704579932,
+    45.83509671742127,
+    15.34593757515438,
+    45.84889323879531
+],
+  "geometry": {"coordinates":[[[15.3384154833463,45.8487641687708],[15.33832718502708,45.84786592069202],[15.34217660283969,45.84767220319844],[15.34226496426362,45.84857044757791],[15.3435481190661,45.84850584287182],[15.34345973660817,45.84760759972653],[15.34474286762401,45.84754298076746],[15.34465446792507,45.84664473824228],[15.34593757515438,45.84658010503045],[15.34567233572363,45.84388537747412],[15.34438929158853,45.84395000698316],[15.34430090706235,45.84305176200183],[15.33916878712603,45.84331012024529],[15.33890390864258,45.84061536681725],[15.34018687966659,45.84055080418341],[15.34009857338913,45.83965255304543],[15.34523034587659,45.83939415259715],[15.34505357648743,45.83759765834566],[15.34377067954159,45.83766227921683],[15.34368232155879,45.83676402993581],[15.34111656146177,45.83689322275973],[15.34093994095849,45.83509671742127],[15.33965709883086,45.83516128814233],[15.33974538616599,45.83605954235145],[15.33846252026717,45.83612409882204],[15.33855079036698,45.83702235364933],[15.33726790069676,45.83708689586877],[15.33735615355977,45.83798515131423],[15.33350740499191,45.83817868876446],[15.33341921520326,45.83728042962383],[15.33213631454646,45.8373449099077],[15.33248901230047,45.84093794771167],[15.32735704579932,45.84119573369514],[15.32744514558044,45.84209399653383],[15.32872816235152,45.84202957203576],[15.32881628694355,45.84292783303079],[15.33266538388023,45.84273446293059],[15.33292996963246,45.84542923115674],[15.33164687697081,45.84549370703633],[15.33182324432977,45.84729021858186],[15.33438951104057,45.84716124641011],[15.33447774246662,45.84805949879973],[15.33576089273532,45.84799498825117],[15.3358491489837,45.84889323879531],[15.3384154833463,45.8487641687708]]],"type":"Polygon"}
+}

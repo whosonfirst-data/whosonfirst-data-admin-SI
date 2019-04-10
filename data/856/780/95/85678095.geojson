@@ -1,0 +1,215 @@
+{
+  "id": 85678095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.009686,
+    "geom:area_square_m":82665949.00828,
+    "geom:bbox":"14.8669275244,46.3009984401,15.0084175957,46.4013023955",
+    "geom:latitude":46.351893,
+    "geom:longitude":14.939191,
+    "gn:population":4095,
+    "iso:country":"SI",
+    "lbl:latitude":46.359367,
+    "lbl:longitude":14.937844,
+    "mps:latitude":46.359367,
+    "mps:longitude":14.937844,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ces_x_preferred":[
+        "Ob\u010dina Mozirje"
+    ],
+    "name:deu_x_preferred":[
+        "Mozirje"
+    ],
+    "name:eng_x_preferred":[
+        "Mozirje"
+    ],
+    "name:fra_x_preferred":[
+        "Mozirje"
+    ],
+    "name:hbs_x_preferred":[
+        "Mozirje"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Mozirje"
+    ],
+    "name:ita_x_preferred":[
+        "Mozirje"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30b8\u30ea\u30a7"
+    ],
+    "name:kor_x_preferred":[
+        "\ubaa8\uc9c0\ub808"
+    ],
+    "name:nld_x_preferred":[
+        "Mozirje"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Mozirje"
+    ],
+    "name:por_x_preferred":[
+        "Mozirje"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Mozirje"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Mozirje"
+    ],
+    "name:spa_x_preferred":[
+        "Mozirje"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041c\u043e\u0437\u0438\u0440\u0458\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Mozirje"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0437\u0438\u0440\u0454"
+    ],
+    "name:und_x_preferred":[
+        "Mozirje"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Mozirje"
+    ],
+    "name:vie_x_preferred":[
+        "Mozirje"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u6fdf\u5217"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-973",
+    "ne:adm1_code":"SVN-973",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SI.SA.MO",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"973",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SI79",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.79",
+    "ne:gn_id":"3194791",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Mozirje",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI79",
+    "ne:gns_id":"-89620",
+    "ne:gns_lang":"sqi",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Mozirje, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"46.35930000000",
+    "ne:longitude":"14.93770000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Mozirje",
+    "ne:name_alt":"",
+    "ne:name_len":7,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"MO",
+    "ne:provnum_ne":"120",
+    "ne:region":"Savinjska",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":55848369,
+    "ne:woe_label":"Mozirje, SI, Slovenia",
+    "ne:woe_name":"Mozirje",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Mozirje",
+    "qs:a1_lc":"SVN-973",
+    "qs:a1r":"Savinjska",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":227,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SI79",
+        "gn:id":3194791,
+        "gp:id":55848369,
+        "hasc:id":"SI.SA.MO",
+        "qs:id":1150905,
+        "wd:id":"Q670975",
+        "wk:page":"Mozirje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b5d5f8883c5aac274556db5eed9fcfc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85678095
+        }
+    ],
+    "wof:id":85678095,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616734,
+    "wof:name":"Mozirje",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:population":4095,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[
+        1108959485
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.8669275243858,
+    46.30099844012597,
+    15.00841759569556,
+    46.40130239548921
+],
+  "geometry": {"coordinates":[[[14.97198571067207,46.39344757734386],[14.98562828941408,46.39577301731094],[14.99353478440281,46.39442943017411],[14.99787560417582,46.39205231426297],[15.00020104324358,46.3902953150768],[15.00190636558636,46.38807322879654],[15.00252648321066,46.3865229360847],[14.99989098488112,46.37722117801502],[14.99865074963242,46.35598216444538],[15.00035607287452,46.34998769827371],[15.00841759569556,46.33719778115272],[14.99989098488112,46.33311534289879],[14.99012413881798,46.32254751205807],[14.98872887483776,46.31696645793573],[14.98485314305816,46.31228974137849],[14.97059044759112,46.30293630646543],[14.966404657449,46.31872345622259],[14.95989342644054,46.32458873118503],[14.95384728432475,46.32580312801201],[14.94774946536558,46.3236327167765],[14.92480512855388,46.31004181577725],[14.8770044288114,46.30099844012597],[14.8669275243858,46.31554535643312],[14.8815002782153,46.33766286914613],[14.88165530784624,46.35246816697236],[14.90217085100403,46.39391266533727],[14.93953291201433,46.40130239548921],[14.9497648451715,46.39678070676428],[14.96299401186423,46.39427440054322],[14.97198571067207,46.39344757734386]]],"type":"Polygon"}
+}

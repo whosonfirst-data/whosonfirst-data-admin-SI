@@ -1,0 +1,74 @@
+{
+  "id": 1259717309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.03,46.65306,16.03,46.65306",
+    "geom:latitude":46.65306,
+    "geom:longitude":16.03,
+    "gn:admin1_code":"A1",
+    "gn:asciiname":"Sratovci",
+    "gn:country_code":"SI",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190173,
+    "gn:latitude":46.65306,
+    "gn:longitude":16.03,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160ratovci",
+    "gn:population":182,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160ratovci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959569,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190173,
+        "wk:page":"%C5%A0ratovci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1348348bed248623eb71e35325677bc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959569,
+            "locality_id":1259717309,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1259717309,
+    "wof:lastmodified":1537700188,
+    "wof:name":"Sratovci",
+    "wof:parent_id":1108959569,
+    "wof:placetype":"locality",
+    "wof:population":182,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.03,
+    46.65306,
+    16.03,
+    46.65306
+],
+  "geometry": {"coordinates":[16.03,46.65306],"type":"Point"}
+}

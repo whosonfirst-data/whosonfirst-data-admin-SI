@@ -1,0 +1,71 @@
+{
+  "id": 1293914877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.51935,46.39484,15.51935,46.39484",
+    "geom:latitude":46.39484,
+    "geom:longitude":15.51935,
+    "gn:admin1_code":"L8",
+    "gn:asciiname":"Kostanjevec",
+    "gn:country_code":"SI",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987020,
+    "gn:latitude":46.39484,
+    "gn:longitude":15.51935,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Kostanjevec",
+    "gn:population":326,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959641,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987020,
+        "wk:page":"Kostanjevec"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e2b32c91c0cc6147e1e5dac17e0e8cb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959641,
+            "locality_id":1293914877,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1293914877,
+    "wof:lastmodified":1537573467,
+    "wof:name":"Kostanjevec",
+    "wof:parent_id":1108959641,
+    "wof:placetype":"locality",
+    "wof:population":326,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.51935,
+    46.39484,
+    15.51935,
+    46.39484
+],
+  "geometry": {"coordinates":[15.51935,46.39484],"type":"Point"}
+}

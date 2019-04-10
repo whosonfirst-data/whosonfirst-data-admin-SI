@@ -1,0 +1,75 @@
+{
+  "id": 1327370621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.31972,46.81194,16.31972,46.81194",
+    "geom:latitude":46.81194,
+    "geom:longitude":16.31972,
+    "gn:admin1_code":"H2",
+    "gn:asciiname":"Krplivnik",
+    "gn:country_code":"SI",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197161,
+    "gn:latitude":46.81194,
+    "gn:longitude":16.31972,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Krplivnik",
+    "gn:population":88,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kapornak",
+        "Krplivnik"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959637,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197161,
+        "wk:page":"Krplivnik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e4b9785c4c9abec55bd350636755868b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959637,
+            "locality_id":1327370621,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1327370621,
+    "wof:lastmodified":1537700228,
+    "wof:name":"Krplivnik",
+    "wof:parent_id":1108959637,
+    "wof:placetype":"locality",
+    "wof:population":88,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.31972,
+    46.81194,
+    16.31972,
+    46.81194
+],
+  "geometry": {"coordinates":[16.31972,46.81194],"type":"Point"}
+}

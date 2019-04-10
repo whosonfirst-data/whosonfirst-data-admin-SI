@@ -1,0 +1,179 @@
+{
+  "id": 85678133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.009461,
+    "geom:area_square_m":80383501.281961,
+    "geom:bbox":"15.172556751,46.5292015649,15.332783734,46.6435796756",
+    "geom:latitude":46.600598,
+    "geom:longitude":15.242468,
+    "gn:population":6265,
+    "iso:country":"SI",
+    "lbl:latitude":46.605329,
+    "lbl:longitude":15.24793,
+    "mps:latitude":46.605329,
+    "mps:longitude":15.24793,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:bos_x_preferred":[
+        "Radlje ob Dravi"
+    ],
+    "name:eng_x_preferred":[
+        "Radlje ob Dravi"
+    ],
+    "name:hbs_x_preferred":[
+        "Radlje ob Dravi"
+    ],
+    "name:ron_x_preferred":[
+        "Radlje ob Dravi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0434\u043b\u0435-\u043e\u0431-\u0414\u0440\u0430\u0432\u044b"
+    ],
+    "name:slv_x_preferred":[
+        "Radlje ob Dravi"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0434\u0459\u0435 \u043e\u0431 \u0414\u0440\u0430\u0432\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0434\u043b\u0454-\u043e\u0431-\u0414\u0440\u0430\u0432\u0456"
+    ],
+    "name:und_x_preferred":[
+        "Radlje Ob Dravi"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Radlje ob Dravi"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-981",
+    "ne:adm1_code":"SVN-981",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SI.KO.RD",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"981",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SIA2",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.A2",
+    "ne:gn_id":"3192120",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Radlje ob Dravi",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI86",
+    "ne:gns_id":"-93627",
+    "ne:gns_lang":"mkd",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Radlje ob Dravi, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"46.60290000000",
+    "ne:longitude":"15.25260000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Radlje ob Dravi",
+    "ne:name_alt":"",
+    "ne:name_len":15,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"RD",
+    "ne:provnum_ne":"15",
+    "ne:region":"Koro\u0161ka",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":55848378,
+    "ne:woe_label":"Radlje Ob Dravi, SI, Slovenia",
+    "ne:woe_name":"Radlje ob Dravi",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Radlje ob Dravi",
+    "qs:a1_lc":"SVN-981",
+    "qs:a1r":"Koro\u0161ka",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":275,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SIA2",
+        "gn:id":3192120,
+        "gp:id":55848378,
+        "hasc:id":"SI.KO.RD",
+        "qs:id":957491,
+        "wd:id":"Q6565933",
+        "wk:page":"Radlje ob Dravi"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"63e763576ca06eb13a57d759408ba623",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85678133
+        }
+    ],
+    "wof:id":85678133,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616734,
+    "wof:name":"Radlje ob Dravi",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:population":6265,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[
+        1108959557
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.17255675099329,
+    46.52920156490035,
+    15.33278373398218,
+    46.64357967556163
+],
+  "geometry": {"coordinates":[[[15.27036543121972,46.57258393050404],[15.22023929240947,46.55085399051927],[15.21481326701871,46.54754669952064],[15.21031741671544,46.54325755479238],[15.20907718326544,46.53560944312136],[15.19931033720235,46.52920156490035],[15.18055179233141,46.53395579672269],[15.17553917809067,46.54255992280224],[15.17605594202814,46.54749502177788],[15.17822635326365,46.5541096055739],[15.1836523777551,46.56080170283639],[15.18737308080307,46.56883738903434],[15.1867529640781,46.57312653286323],[15.18380740738598,46.57726064706128],[15.18597781682286,46.57839752952242],[15.18954349113926,46.57829417583559],[15.19589969161751,46.57948273424086],[15.20163577627011,46.58196320204019],[15.20985232872204,46.5919367545776],[15.21155765106482,46.59746613185655],[15.21155765106482,46.60165192289799],[15.20923221199706,46.60483002448609],[15.20318606898195,46.60824066827229],[15.19729495559778,46.60971344751766],[15.19496951742934,46.61069529944854],[15.19186893110634,46.61258148894461],[15.18349734902347,46.61945445425971],[15.18396243701693,46.62557811074129],[15.18163699704985,46.62955719710703],[15.17367882701632,46.63777374955896],[15.17255675099329,46.64135951293122],[15.20489058553216,46.63896311555538],[15.33278373398218,46.64357967556163],[15.33258385606018,46.63503489844186],[15.32917321137467,46.61922191026298],[15.32095665892274,46.61462270807158],[15.30467858185114,46.60930003546832],[15.29785729337942,46.60780141870055],[15.28447309705581,46.59857717499671],[15.27036543121972,46.57258393050404]]],"type":"Polygon"}
+}

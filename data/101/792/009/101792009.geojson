@@ -1,0 +1,144 @@
+{
+  "id": 101792009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000057,
+    "geom:area_square_m":488795.260662,
+    "geom:bbox":"14.9173463765,46.3215812927,14.9290825087,46.3316423171",
+    "geom:latitude":46.325297,
+    "geom:longitude":14.923095,
+    "gn:population":489,
+    "iso:country":"SI",
+    "lbl:latitude":46.324185,
+    "lbl:longitude":14.922694,
+    "mps:latitude":46.324185,
+    "mps:longitude":14.922694,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Re\u010dica ob Savinji"
+    ],
+    "name:deu_x_preferred":[
+        "Re\u010dica ob Savinji"
+    ],
+    "name:dut_x_preferred":[
+        "Re\u010dica ob Savinji"
+    ],
+    "name:eng_x_preferred":[
+        "Re\u010dica ob Savinji"
+    ],
+    "name:fra_x_preferred":[
+        "Re\u010dica ob Savinji"
+    ],
+    "name:fre_x_preferred":[
+        "Re\u010dica ob Savinji"
+    ],
+    "name:ger_x_preferred":[
+        "Re\u010dica ob Savinji"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Re\u010dica ob Savinji"
+    ],
+    "name:ita_x_preferred":[
+        "Re\u010dica ob Savinji"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30c1\u30ca\u30fb\u30aa\u30d7\u30fb\u30b5\u30f4\u30a3\u30cb"
+    ],
+    "name:kor_x_preferred":[
+        "\ub808\uce58\ucc28\uc624\ube0c\uc0ac\ube44\ub2c8"
+    ],
+    "name:nld_x_preferred":[
+        "Re\u010dica ob Savinji"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Re\u010dica ob Savinji"
+    ],
+    "name:por_x_preferred":[
+        "Re\u010dica ob Savinji"
+    ],
+    "name:ron_x_preferred":[
+        "Re\u010dica ob Savinji"
+    ],
+    "name:rum_x_preferred":[
+        "Re\u010dica ob Savinji"
+    ],
+    "name:slv_x_preferred":[
+        "Re\u010dica ob Savinji"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u0447\u0438\u0446\u044f-\u043e\u0431-\u0421\u0430\u0432\u0438\u043d\u044c\u0457"
+    ],
+    "name:unk_x_variant":[
+        "Re\u010dica"
+    ],
+    "name:vie_x_preferred":[
+        "Re\u010dica ob Savinji"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"Re\u010dica ob Savinji",
+    "qs:la_lc":"*SI209000",
+    "qs:level":"locality",
+    "qs:loc":"Re\u010dica ob Savinji",
+    "qs:loc_alt":"Recica ob Savinji",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":128,
+    "wof:belongsto":[
+        102191581,
+        1108959809,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191756,
+        "gp:id":531364,
+        "qs:id":7,
+        "qs_pg:id":343358,
+        "wd:id":"Q969326",
+        "wk:page":"Re\u010dica ob Savinji"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"eb18b5c90977a5dab97f6082f556a75e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959809,
+            "locality_id":101792009,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":101792009,
+    "wof:lastmodified":1531508699,
+    "wof:name":"Re\u010dica ob Savinji",
+    "wof:parent_id":1108959809,
+    "wof:placetype":"locality",
+    "wof:population":489,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.91734637650546,
+    46.32158129272818,
+    14.92908250866418,
+    46.33164231708082
+],
+  "geometry": {"coordinates":[[[14.92594170718075,46.33158267430088],[14.92569376730893,46.32888756991781],[14.92439879127568,46.32894720923247],[14.92415094832188,46.32625209626093],[14.92544585967318,46.32619246041122],[14.92536323095703,46.3252940894368],[14.92795300272331,46.32517477307965],[14.92778766980547,46.32337803404334],[14.92908250866418,46.32331835469267],[14.92899982602336,46.32241998547562],[14.92770500872024,46.32247966367061],[14.927622351217,46.32158129272818],[14.91985352200913,46.32193902621987],[14.91993605018132,46.3228374040894],[14.91734637650546,46.32295652565568],[14.91759385313594,46.32565166276811],[14.9188887559485,46.3255921063527],[14.91897127686855,46.3264904830985],[14.92156111780366,46.32637132099217],[14.92197399167901,46.33086318464404],[14.92456403781568,46.33074394836717],[14.92464666645742,46.33164231708082],[14.92594170718075,46.33158267430088]]],"type":"Polygon"}
+}

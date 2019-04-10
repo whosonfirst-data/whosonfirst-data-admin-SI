@@ -1,0 +1,80 @@
+{
+  "id": 1327170425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.45,45.83333,15.45,45.83333",
+    "geom:latitude":45.83333,
+    "geom:longitude":15.45,
+    "gn:admin1_code":"O3",
+    "gn:asciiname":"Ostrc",
+    "gn:country_code":"SI",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193853,
+    "gn:latitude":45.83333,
+    "gn:longitude":15.45,
+    "gn:modification_date":"2015-12-02",
+    "gn:name":"O\u0161trc",
+    "gn:population":173,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Osterc"
+    ],
+    "name:slv_x_preferred":[
+        "Osterc"
+    ],
+    "name:und_x_variant":[
+        "O\u0161trc"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959835,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193853,
+        "wk:page":"O%C5%A1trc"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"bde7709a46d897d4c1846ffea30e2c07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959835,
+            "locality_id":1327170425,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1327170425,
+    "wof:lastmodified":1537700213,
+    "wof:name":"Ostrc",
+    "wof:parent_id":1108959835,
+    "wof:placetype":"locality",
+    "wof:population":173,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.45,
+    45.83333,
+    15.45,
+    45.83333
+],
+  "geometry": {"coordinates":[15.45,45.83333],"type":"Point"}
+}

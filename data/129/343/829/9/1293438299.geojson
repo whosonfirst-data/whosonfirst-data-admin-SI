@@ -1,0 +1,77 @@
+{
+  "id": 1293438299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.71667,46.05,13.71667,46.05",
+    "geom:latitude":46.05,
+    "geom:longitude":13.71667,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Banjsice",
+    "gn:country_code":"SI",
+    "gn:dem":731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204527,
+    "gn:latitude":46.05,
+    "gn:longitude":13.71667,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Banj\u0161ice",
+    "gn:population":256,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santo Spirito della Bainsizza",
+        "Banj\u0161\u010dice-Sveti-Duha",
+        "Banj\u0161ica",
+        "Banj\u0161ice"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959487,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204527,
+        "wk:page":"Banj%C5%A1ice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"533346b871f858bb74f405d159cead77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959487,
+            "locality_id":1293438299,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1293438299,
+    "wof:lastmodified":1537700266,
+    "wof:name":"Banjsice",
+    "wof:parent_id":1108959487,
+    "wof:placetype":"locality",
+    "wof:population":256,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.71667,
+    46.05,
+    13.71667,
+    46.05
+],
+  "geometry": {"coordinates":[13.71667,46.05],"type":"Point"}
+}

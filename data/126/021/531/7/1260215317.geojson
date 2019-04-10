@@ -1,0 +1,71 @@
+{
+  "id": 1260215317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.71517,46.17687,14.71517,46.17687",
+    "geom:latitude":46.17687,
+    "geom:longitude":14.71517,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Trnjava",
+    "gn:country_code":"SI",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987149,
+    "gn:latitude":46.17687,
+    "gn:longitude":14.71517,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Trnjava",
+    "gn:population":242,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959807,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987149,
+        "wk:page":"Trnjava"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1aa809531800a8be7cc20424d9ee1a22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959807,
+            "locality_id":1260215317,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1260215317,
+    "wof:lastmodified":1537573470,
+    "wof:name":"Trnjava",
+    "wof:parent_id":1108959807,
+    "wof:placetype":"locality",
+    "wof:population":242,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.71517,
+    46.17687,
+    14.71517,
+    46.17687
+],
+  "geometry": {"coordinates":[14.71517,46.17687],"type":"Point"}
+}

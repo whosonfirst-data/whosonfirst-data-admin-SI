@@ -1,0 +1,71 @@
+{
+  "id": 1209752011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.74601,45.68292,14.74601,45.68292",
+    "geom:latitude":45.68292,
+    "geom:longitude":14.74601,
+    "gn:admin1_code":"L1",
+    "gn:asciiname":"Kot pri Rakitnici",
+    "gn:country_code":"SI",
+    "gn:dem":635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989386,
+    "gn:latitude":45.68292,
+    "gn:longitude":14.74601,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kot pri Rakitnici",
+    "gn:population":3,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959599,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989386,
+        "wk:page":"Kot_pri_Rakitnici"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1639eefcad685ffb9878a061d7603bd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959599,
+            "locality_id":1209752011,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1209752011,
+    "wof:lastmodified":1537573540,
+    "wof:name":"Kot pri Rakitnici",
+    "wof:parent_id":1108959599,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.74601,
+    45.68292,
+    14.74601,
+    45.68292
+],
+  "geometry": {"coordinates":[14.74601,45.68292],"type":"Point"}
+}

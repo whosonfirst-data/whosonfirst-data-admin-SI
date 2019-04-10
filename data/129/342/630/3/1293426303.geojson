@@ -1,0 +1,74 @@
+{
+  "id": 1293426303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.1973,46.36785,14.1973,46.36785",
+    "geom:latitude":46.36785,
+    "geom:longitude":14.1973,
+    "gn:admin1_code":"A3",
+    "gn:asciiname":"Zgosa",
+    "gn:country_code":"SI",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986992,
+    "gn:latitude":46.36785,
+    "gn:longitude":14.1973,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Zgo\u0161a",
+    "gn:population":372,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zgo\u0161a"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959825,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986992,
+        "wk:page":"Zgo%C5%A1a"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"cc395d16de65a5c438e757dd78843052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959825,
+            "locality_id":1293426303,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1293426303,
+    "wof:lastmodified":1537700278,
+    "wof:name":"Zgosa",
+    "wof:parent_id":1108959825,
+    "wof:placetype":"locality",
+    "wof:population":372,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.1973,
+    46.36785,
+    14.1973,
+    46.36785
+],
+  "geometry": {"coordinates":[14.1973,46.36785],"type":"Point"}
+}

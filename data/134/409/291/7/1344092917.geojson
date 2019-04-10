@@ -1,0 +1,67 @@
+{
+  "id": 1344092917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.43722,46.05278,15.43722,46.05278",
+    "geom:latitude":46.05278,
+    "geom:longitude":15.43722,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Puste Lozice",
+    "gn:country_code":"SI",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216313,
+    "gn:latitude":46.05278,
+    "gn:longitude":15.43722,
+    "gn:modification_date":"2008-11-06",
+    "gn:name":"Puste Lo\u017eice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216313
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d8b9868316701714c99397e4bc3b82fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1344092917,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1344092917,
+    "wof:lastmodified":1536827786,
+    "wof:name":"Puste Lozice",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.43722,
+    46.05278,
+    15.43722,
+    46.05278
+],
+  "geometry": {"coordinates":[15.43722,46.05278],"type":"Point"}
+}

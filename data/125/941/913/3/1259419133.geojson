@@ -1,0 +1,75 @@
+{
+  "id": 1259419133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.87278,45.58111,13.87278,45.58111",
+    "geom:latitude":45.58111,
+    "geom:longitude":13.87278,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Kastelec",
+    "gn:country_code":"SI",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198219,
+    "gn:latitude":45.58111,
+    "gn:longitude":13.87278,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Kastelec",
+    "gn:population":70,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Castel",
+        "Kastelec"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959527,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198219,
+        "wk:page":"Kastelec"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1285552754536b74db3b48d2b261db76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959527,
+            "locality_id":1259419133,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1259419133,
+    "wof:lastmodified":1537700233,
+    "wof:name":"Kastelec",
+    "wof:parent_id":1108959527,
+    "wof:placetype":"locality",
+    "wof:population":70,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.87278,
+    45.58111,
+    13.87278,
+    45.58111
+],
+  "geometry": {"coordinates":[13.87278,45.58111],"type":"Point"}
+}

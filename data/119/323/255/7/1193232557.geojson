@@ -1,0 +1,74 @@
+{
+  "id": 1193232557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.2039,46.16976,14.2039,46.16976",
+    "geom:latitude":46.16976,
+    "geom:longitude":14.2039,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Mlaka nad Luso",
+    "gn:country_code":"SI",
+    "gn:dem":687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988691,
+    "gn:latitude":46.16976,
+    "gn:longitude":14.2039,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Mlaka nad Lu\u0161o",
+    "gn:population":36,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mlaka nad Lu\u0161o"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959897,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988691,
+        "wk:page":"Mlaka_nad_Lu%C5%A1o"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4b9aa86e165601d94ddfbc76545483e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959897,
+            "locality_id":1193232557,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1193232557,
+    "wof:lastmodified":1537700311,
+    "wof:name":"Mlaka nad Luso",
+    "wof:parent_id":1108959897,
+    "wof:placetype":"locality",
+    "wof:population":36,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.2039,
+    46.16976,
+    14.2039,
+    46.16976
+],
+  "geometry": {"coordinates":[14.2039,46.16976],"type":"Point"}
+}

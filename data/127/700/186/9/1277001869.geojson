@@ -1,0 +1,73 @@
+{
+  "id": 1277001869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.68764,46.00956,15.68764,46.00956",
+    "geom:latitude":46.00956,
+    "geom:longitude":15.68764,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Zupjek",
+    "gn:country_code":"SI",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":10794157,
+    "gn:latitude":46.00956,
+    "gn:longitude":15.68764,
+    "gn:modification_date":"2015-10-03",
+    "gn:name":"\u017dupjek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:slv_x_historical":[
+        "\u017dupnik"
+    ],
+    "name:slv_x_preferred":[
+        "\u017dupnik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10794157
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"cf6cf19b647677ccfed09579b377365b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1277001869,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1277001869,
+    "wof:lastmodified":1537700336,
+    "wof:name":"Zupjek",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.68764,
+    46.00956,
+    15.68764,
+    46.00956
+],
+  "geometry": {"coordinates":[15.68764,46.00956],"type":"Point"}
+}

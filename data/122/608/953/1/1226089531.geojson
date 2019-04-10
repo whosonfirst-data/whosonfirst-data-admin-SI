@@ -1,0 +1,71 @@
+{
+  "id": 1226089531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.16549,46.14545,14.16549,46.14545",
+    "geom:latitude":46.14545,
+    "geom:longitude":14.16549,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Zakobiljek",
+    "gn:country_code":"SI",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988614,
+    "gn:latitude":46.14545,
+    "gn:longitude":14.16549,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Zakobiljek",
+    "gn:population":40,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959897,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988614,
+        "wk:page":"Zakobiljek"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b8ad8fbf220b87549467dea8c1460906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959897,
+            "locality_id":1226089531,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1226089531,
+    "wof:lastmodified":1537573517,
+    "wof:name":"Zakobiljek",
+    "wof:parent_id":1108959897,
+    "wof:placetype":"locality",
+    "wof:population":40,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.16549,
+    46.14545,
+    14.16549,
+    46.14545
+],
+  "geometry": {"coordinates":[14.16549,46.14545],"type":"Point"}
+}

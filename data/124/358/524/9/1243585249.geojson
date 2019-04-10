@@ -1,0 +1,67 @@
+{
+  "id": 1243585249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.20077,45.77333,14.20077,45.77333",
+    "geom:latitude":45.77333,
+    "geom:longitude":14.20077,
+    "gn:admin1_code":"94",
+    "gn:asciiname":"Kazarje",
+    "gn:country_code":"SI",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10859179,
+    "gn:latitude":45.77333,
+    "gn:longitude":14.20077,
+    "gn:modification_date":"2015-10-22",
+    "gn:name":"Kazarje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959559,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10859179
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a3d15a00cceeaf9c52c06ee27581ee07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959559,
+            "locality_id":1243585249,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1243585249,
+    "wof:lastmodified":1536602502,
+    "wof:name":"Kazarje",
+    "wof:parent_id":1108959559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.20077,
+    45.77333,
+    14.20077,
+    45.77333
+],
+  "geometry": {"coordinates":[14.20077,45.77333],"type":"Point"}
+}

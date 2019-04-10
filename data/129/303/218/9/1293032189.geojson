@@ -1,0 +1,76 @@
+{
+  "id": 1293032189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.20556,46.22444,14.20556,46.22444",
+    "geom:latitude":46.22444,
+    "geom:longitude":14.20556,
+    "gn:admin1_code":"F1",
+    "gn:asciiname":"Selca",
+    "gn:country_code":"SI",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191133,
+    "gn:latitude":46.22444,
+    "gn:longitude":14.20556,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Selca",
+    "gn:population":666,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Selzach",
+        "Selce",
+        "Selca"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959701,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191133,
+        "wk:page":"Selca%2C_%C5%BDelezniki"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a347f9f43c3d489f1f0fdd33afcd2e4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959701,
+            "locality_id":1293032189,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1293032189,
+    "wof:lastmodified":1537700196,
+    "wof:name":"Selca",
+    "wof:parent_id":1108959701,
+    "wof:placetype":"locality",
+    "wof:population":666,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.20556,
+    46.22444,
+    14.20556,
+    46.22444
+],
+  "geometry": {"coordinates":[14.20556,46.22444],"type":"Point"}
+}

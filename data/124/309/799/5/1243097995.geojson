@@ -1,0 +1,76 @@
+{
+  "id": 1243097995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.37639,46.64139,16.37639,46.64139",
+    "geom:latitude":46.64139,
+    "geom:longitude":16.37639,
+    "gn:admin1_code":"G5",
+    "gn:asciiname":"Zitkovci",
+    "gn:country_code":"SI",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216045,
+    "gn:latitude":46.64139,
+    "gn:longitude":16.37639,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u017ditkovci",
+    "gn:population":128,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zsitk\u00f3c",
+        "Zsitk\u00f3cz",
+        "\u017ditkovci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959691,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216045,
+        "wk:page":"%C5%BDitkovci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fe571e3d7a293d09ff86e84b8b0c56c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959691,
+            "locality_id":1243097995,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1243097995,
+    "wof:lastmodified":1537700269,
+    "wof:name":"Zitkovci",
+    "wof:parent_id":1108959691,
+    "wof:placetype":"locality",
+    "wof:population":128,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.37639,
+    46.64139,
+    16.37639,
+    46.64139
+],
+  "geometry": {"coordinates":[16.37639,46.64139],"type":"Point"}
+}

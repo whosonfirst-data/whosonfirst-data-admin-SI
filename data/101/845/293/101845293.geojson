@@ -1,0 +1,131 @@
+{
+  "id": 101845293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000091,
+    "geom:area_square_m":778101.387677,
+    "geom:bbox":"15.0806624358,46.2315202063,15.097636286,46.2409344395",
+    "geom:latitude":46.236574,
+    "geom:longitude":15.089966,
+    "gn:population":1709,
+    "iso:country":"SI",
+    "lbl:latitude":46.236866,
+    "lbl:longitude":15.090544,
+    "mps:latitude":46.236866,
+    "mps:longitude":15.090544,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Prebold"
+    ],
+    "name:cat_x_preferred":[
+        "Prebold"
+    ],
+    "name:deu_x_preferred":[
+        "Prebold"
+    ],
+    "name:dut_x_preferred":[
+        "Prebold"
+    ],
+    "name:eng_x_preferred":[
+        "Prebold"
+    ],
+    "name:hbs_x_preferred":[
+        "Prebold"
+    ],
+    "name:ita_x_preferred":[
+        "Prebold"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30ec\u30dc\u30eb\u30c9"
+    ],
+    "name:nld_x_preferred":[
+        "Prebold"
+    ],
+    "name:ron_x_preferred":[
+        "Prebold"
+    ],
+    "name:rum_x_preferred":[
+        "Prebold"
+    ],
+    "name:slv_x_preferred":[
+        "Prebold"
+    ],
+    "name:slv_x_variant":[
+        "Ob\u010dina Prebold"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u0435\u0431\u043e\u043b\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0435\u0431\u043e\u043b\u0434"
+    ],
+    "name:vie_x_preferred":[
+        "Prebold"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"Prebold",
+    "qs:la_lc":"*SI174000",
+    "qs:level":"locality",
+    "qs:loc":"Prebold",
+    "qs:loc_alt":"Prebold",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959713,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192570,
+        "gp:id":531219,
+        "qs:id":1043979,
+        "qs_pg:id":1043979,
+        "wd:id":"Q2749254",
+        "wk:page":"Prebold"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"13536250e03540096f722d2d82251fd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959713,
+            "locality_id":101845293,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":101845293,
+    "wof:lastmodified":1531170667,
+    "wof:name":"Prebold",
+    "wof:parent_id":1108959713,
+    "wof:placetype":"locality",
+    "wof:population":1709,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.08066243583909,
+    46.2315202062963,
+    15.09763628596897,
+    46.24093443947243
+],
+  "geometry": {"coordinates":[[[15.0967700825023,46.24056451449394],[15.09668479845794,46.23966625598229],[15.09539212316423,46.2397279480121],[15.09530686426331,46.23882968772779],[15.09401420774157,46.23889136294332],[15.09375851752395,46.23619657503048],[15.09763628596897,46.23601151323902],[15.09720988759847,46.2315202062963],[15.09591740804274,46.2315819032242],[15.09600265889287,46.23248016696704],[15.09341764884238,46.232603516344],[15.09350286048402,46.23350178188753],[15.0818699896036,46.23405609155986],[15.08195501188135,46.2349543672272],[15.08066243583909,46.23501588027233],[15.08074744034275,46.23591415654704],[15.08204003783703,46.23585264231389],[15.08221010078211,46.23764919074512],[15.08479537355595,46.23752611065856],[15.08505062429276,46.24022092181895],[15.08892870646815,46.24003617381538],[15.0890138617778,46.24093443947243],[15.0967700825023,46.24056451449394]]],"type":"Polygon"}
+}

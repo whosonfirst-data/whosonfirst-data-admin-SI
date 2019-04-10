@@ -1,0 +1,71 @@
+{
+  "id": 1326560341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.08628,46.53565,16.08628,46.53565",
+    "geom:latitude":46.53565,
+    "geom:longitude":16.08628,
+    "gn:admin1_code":"I6",
+    "gn:asciiname":"Precetinci",
+    "gn:country_code":"SI",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987390,
+    "gn:latitude":46.53565,
+    "gn:longitude":16.08628,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Precetinci",
+    "gn:population":161,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959499,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987390,
+        "wk:page":"Precetinci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"045d240feece7c706b8ba2d080e8811a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959499,
+            "locality_id":1326560341,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1326560341,
+    "wof:lastmodified":1537573478,
+    "wof:name":"Precetinci",
+    "wof:parent_id":1108959499,
+    "wof:placetype":"locality",
+    "wof:population":161,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.08628,
+    46.53565,
+    16.08628,
+    46.53565
+],
+  "geometry": {"coordinates":[16.08628,46.53565],"type":"Point"}
+}

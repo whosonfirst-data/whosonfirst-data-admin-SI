@@ -1,0 +1,123 @@
+{
+  "id": 1125805349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.97139,45.79694,13.97139,45.79694",
+    "geom:latitude":45.79694,
+    "geom:longitude":13.97139,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":395,
+    "iso:country":"SI",
+    "lbl:latitude":45.79694,
+    "lbl:longitude":13.97139,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Podnanos"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u0434\u043d\u0430\u043d\u043e\u0441"
+    ],
+    "name:dut_x_preferred":[
+        "Podnanos"
+    ],
+    "name:eng_x_preferred":[
+        "Podnanos"
+    ],
+    "name:hun_x_preferred":[
+        "Podnanos"
+    ],
+    "name:ita_x_preferred":[
+        "San Vito di Vipacco"
+    ],
+    "name:rum_x_preferred":[
+        "Podnanos"
+    ],
+    "name:slv_x_historical":[
+        "\u0160entvid"
+    ],
+    "name:slv_x_preferred":[
+        "\u0160entvid"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0434\u043d\u0430\u043d\u043e\u0441"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3343539,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Podnanos",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Ajdovscina",
+    "qs_pg:photos":264,
+    "qs_pg:photos_1k":53,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":264,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1082840,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":531129,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Ajdovscina",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959623,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343539,
+        "gp:id":531129,
+        "qs_pg:id":1082840,
+        "wd:id":"Q2401463"
+    },
+    "wof:country":"SI",
+    "wof:created":1497291439,
+    "wof:geomhash":"c49e9e75eba3a5587bfd96a709f165ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959623,
+            "locality_id":1125805349,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1125805349,
+    "wof:lastmodified":1531170231,
+    "wof:name":"Podnanos",
+    "wof:parent_id":1108959623,
+    "wof:placetype":"locality",
+    "wof:population":395,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.97139,
+    45.79694,
+    13.97139,
+    45.79694
+],
+  "geometry": {"coordinates":[13.97139,45.79694],"type":"Point"}
+}

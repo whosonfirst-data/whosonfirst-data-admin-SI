@@ -1,0 +1,265 @@
+{
+  "id": 1125862779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.08333,46.38333,14.08333,46.38333",
+    "geom:latitude":46.38333,
+    "geom:longitude":14.08333,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":500,
+    "iso:country":"SI",
+    "lbl:latitude":46.38333,
+    "lbl:longitude":14.08333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:alb_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:arg_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:ast_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:baq_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:bar_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:bos_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:bre_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:cat_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:cos_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:cze_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:dan_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:dut_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:eng_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:epo_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:est_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:fin_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:fre_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:fur_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:ger_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:gla_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:gle_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:glg_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:gsw_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:hrv_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:hun_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:ice_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:ita_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:lij_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:lim_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:lit_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:lmo_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:ltz_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:nap_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:nds_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:nno_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:nob_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:pcd_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:pms_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:pol_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:por_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:roh_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:rum_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:scn_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:sco_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:slo_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:slv_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:spa_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:srd_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:swe_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:tur_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0433\u043e\u0440\u043d\u0454 \u0413\u043e\u0440\u0454"
+    ],
+    "name:vec_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:vls_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:wel_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "name:wln_x_preferred":[
+        "Zgornje Gorje"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3186514,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Zgornje Gorje",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Radovljica",
+    "qs_pg:photos":574,
+    "qs_pg:photos_1k":116,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":574,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1301725,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":532304,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Radovljica",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959735,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186514,
+        "gp:id":532304,
+        "qs_pg:id":1301725,
+        "wd:id":"Q2381766"
+    },
+    "wof:country":"SI",
+    "wof:created":1497293902,
+    "wof:geomhash":"4280bcdb6b5e2edbc22582c7d0e01bbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959735,
+            "locality_id":1125862779,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1125862779,
+    "wof:lastmodified":1534379461,
+    "wof:name":"Zgornje Gorje",
+    "wof:parent_id":1108959735,
+    "wof:placetype":"locality",
+    "wof:population":500,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[
+        101858965
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.08333,
+    46.38333,
+    14.08333,
+    46.38333
+],
+  "geometry": {"coordinates":[14.08333,46.38333],"type":"Point"}
+}

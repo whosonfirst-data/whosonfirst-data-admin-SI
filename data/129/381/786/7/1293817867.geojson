@@ -1,0 +1,73 @@
+{
+  "id": 1293817867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.60912,45.85796,13.60912,45.85796",
+    "geom:latitude":45.85796,
+    "geom:longitude":13.60912,
+    "gn:admin1_code":"J5",
+    "gn:asciiname":"Segeti",
+    "gn:country_code":"SI",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10859131,
+    "gn:latitude":45.85796,
+    "gn:longitude":13.60912,
+    "gn:modification_date":"2015-10-21",
+    "gn:name":"Segeti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "\u0160egeti"
+    ],
+    "name:slv_x_preferred":[
+        "\u0160egeti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959481,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10859131
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"575a0fa0e60ca0504056ca8d15238c61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959481,
+            "locality_id":1293817867,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1293817867,
+    "wof:lastmodified":1537700337,
+    "wof:name":"Segeti",
+    "wof:parent_id":1108959481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.60912,
+    45.85796,
+    13.60912,
+    45.85796
+],
+  "geometry": {"coordinates":[13.60912,45.85796],"type":"Point"}
+}

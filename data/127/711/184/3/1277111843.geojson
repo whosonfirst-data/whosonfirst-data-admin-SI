@@ -1,0 +1,74 @@
+{
+  "id": 1277111843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.31667,45.95,15.31667,45.95",
+    "geom:latitude":45.95,
+    "geom:longitude":15.31667,
+    "gn:admin1_code":"B8",
+    "gn:asciiname":"Mocvirje",
+    "gn:country_code":"SI",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194951,
+    "gn:latitude":45.95,
+    "gn:longitude":15.31667,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Mo\u010dvirje",
+    "gn:population":49,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mo\u010dvirje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959605,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194951,
+        "wk:page":"Mo%C4%8Dvirje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"684b94abd65a21a393bfb721dc22d584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959605,
+            "locality_id":1277111843,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1277111843,
+    "wof:lastmodified":1537700218,
+    "wof:name":"Mocvirje",
+    "wof:parent_id":1108959605,
+    "wof:placetype":"locality",
+    "wof:population":49,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.31667,
+    45.95,
+    15.31667,
+    45.95
+],
+  "geometry": {"coordinates":[15.31667,45.95],"type":"Point"}
+}

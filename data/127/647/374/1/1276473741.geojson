@@ -1,0 +1,80 @@
+{
+  "id": 1276473741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.18333,45.75333,14.18333,45.75333",
+    "geom:latitude":45.75333,
+    "geom:longitude":14.18333,
+    "gn:admin1_code":"94",
+    "gn:asciiname":"Grobisce",
+    "gn:country_code":"SI",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199537,
+    "gn:latitude":45.75333,
+    "gn:longitude":14.18333,
+    "gn:modification_date":"2015-10-22",
+    "gn:name":"Grobi\u0161\u010de",
+    "gn:population":79,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Grob\u0161e"
+    ],
+    "name:slv_x_preferred":[
+        "Grob\u0161e"
+    ],
+    "name:und_x_variant":[
+        "Grobi\u0161\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959559,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199537,
+        "wk:page":"Grobi%C5%A1%C4%8De%2C_Postojna"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"131a4f0cbfd21e7ab84a1fb9ca0f36d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959559,
+            "locality_id":1276473741,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1276473741,
+    "wof:lastmodified":1537700240,
+    "wof:name":"Grobisce",
+    "wof:parent_id":1108959559,
+    "wof:placetype":"locality",
+    "wof:population":79,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.18333,
+    45.75333,
+    14.18333,
+    45.75333
+],
+  "geometry": {"coordinates":[14.18333,45.75333],"type":"Point"}
+}

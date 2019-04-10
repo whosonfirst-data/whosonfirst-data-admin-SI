@@ -1,0 +1,74 @@
+{
+  "id": 1243098173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.23804,45.98903,14.23804,45.98903",
+    "geom:latitude":45.98903,
+    "geom:longitude":14.23804,
+    "gn:admin1_code":"E5",
+    "gn:asciiname":"Trckov Gric",
+    "gn:country_code":"SI",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988571,
+    "gn:latitude":45.98903,
+    "gn:longitude":14.23804,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Tr\u010dkov Gri\u010d",
+    "gn:population":43,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tr\u010dkov Gri\u010d"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959851,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988571,
+        "wk:page":"Tr%C4%8Dkov_Gri%C4%8D"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"05f1a56a22d2ca338f6f813c17eb6751",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959851,
+            "locality_id":1243098173,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1243098173,
+    "wof:lastmodified":1537700309,
+    "wof:name":"Trckov Gric",
+    "wof:parent_id":1108959851,
+    "wof:placetype":"locality",
+    "wof:population":43,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.23804,
+    45.98903,
+    14.23804,
+    45.98903
+],
+  "geometry": {"coordinates":[14.23804,45.98903],"type":"Point"}
+}

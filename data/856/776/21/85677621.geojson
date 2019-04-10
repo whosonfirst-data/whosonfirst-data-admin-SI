@@ -1,0 +1,185 @@
+{
+  "id": 85677621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.031551,
+    "geom:area_square_m":269735316.607305,
+    "geom:bbox":"14.5359399764,46.1884988468,14.9300761252,46.3687979191",
+    "geom:latitude":46.26001,
+    "geom:longitude":14.678603,
+    "gn:population":29073,
+    "iso:country":"SI",
+    "lbl:latitude":46.262631,
+    "lbl:longitude":14.629336,
+    "mps:latitude":46.262631,
+    "mps:longitude":14.629336,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:eng_x_preferred":[
+        "Kamnik"
+    ],
+    "name:hbs_x_preferred":[
+        "Kamnik"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Kamnik"
+    ],
+    "name:nld_x_preferred":[
+        "Kamnik"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Kamnik"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Kamnik"
+    ],
+    "name:sco_x_preferred":[
+        "Municipality o Kamnik"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Kamnik"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041a\u0430\u043c\u043d\u0438\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043c\u043d\u0438\u043a"
+    ],
+    "name:und_x_preferred":[
+        "Kamnik"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Kamnik"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-206",
+    "ne:adm1_code":"SVN-206",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SI.LJ.KA",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"206",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SIH6",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.H6",
+    "ne:gn_id":"3198364",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Kamnik",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI11",
+    "ne:gns_id":"-84140",
+    "ne:gns_lang":"srp",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Kamnik, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"46.22850000000",
+    "ne:longitude":"14.73300000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Kamnik",
+    "ne:name_alt":"",
+    "ne:name_len":6,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"KA",
+    "ne:provnum_ne":"154",
+    "ne:region":"Osrednjeslovenska",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":55848355,
+    "ne:woe_label":"Kamnik, SI, Slovenia",
+    "ne:woe_name":"Kamnik",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Kamnik",
+    "qs:a1_lc":"SVN-206",
+    "qs:a1r":"Osrednjeslovenska",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":66,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SIH6",
+        "gn:id":3198364,
+        "gp:id":55848355,
+        "hasc:id":"SI.LJ.KA",
+        "qs:id":1104105,
+        "wd:id":"Q3503153",
+        "wk:page":"Municipality of Kamnik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2efcf35d94fda13f6bda4cbe20a58608",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677621
+        }
+    ],
+    "wof:id":85677621,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616731,
+    "wof:name":"Kamnik",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:population":29073,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[
+        1108959941
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.53593997644879,
+    46.18849884684437,
+    14.93007612521308,
+    46.36879791908876
+],
+  "geometry": {"coordinates":[[[14.59567793079191,46.36140818893682],[14.60978559662806,46.36197662971773],[14.6399129571173,46.3663691272335],[14.64673424558902,46.33386465083305],[14.67060875838752,46.31061025745748],[14.67686160697764,46.29965485298914],[14.68011722203221,46.29061147733785],[14.68554324742297,46.28642568629641],[14.70569705627418,46.28691661181222],[14.70399173303213,46.26978587491823],[14.71406863835705,46.26306793923408],[14.75303266802325,46.2543346219453],[14.78874108173557,46.25301687323019],[14.81122032965453,46.25438629788937],[14.85483523925495,46.25286184269993],[14.88491092290081,46.24053701447167],[14.93007612521308,46.21878123606524],[14.91007734509344,46.21053884519159],[14.8989152359494,46.20867849411724],[14.78579552594283,46.19976430877585],[14.76977583218894,46.19591441541797],[14.74869184735093,46.19599192978376],[14.73504926860892,46.19764557618242],[14.71592898943135,46.20219310242976],[14.683062777825,46.1991700304726],[14.65774132690075,46.20663727499033],[14.65185021261726,46.20612051015348],[14.64533898340738,46.20459605586336],[14.63913781076138,46.20219310242976],[14.63200646302789,46.19730967939824],[14.60947553916486,46.18849884684437],[14.59009687666958,46.18911896446866],[14.57986494261309,46.19242625636667],[14.58265546967425,46.19805898733244],[14.56994306781837,46.21485382744225],[14.56544721841442,46.22810883255664],[14.55252811008427,46.24319835122299],[14.56405195533353,46.2472549510552],[14.5666874527638,46.25001963969464],[14.5685478038381,46.25355947469006],[14.56947797982497,46.25753856105581],[14.56994306781837,46.26146596877948],[14.55862592904344,46.27448842989719],[14.55330325733951,46.27862254499451],[14.55035769974808,46.28937124298852],[14.54369144000799,46.29875051542399],[14.54400149926983,46.31197968211671],[14.55314822770862,46.32133311613046],[14.55051273027834,46.32507965849948],[14.54865237830467,46.3293688014291],[14.54446658726323,46.33655182600603],[14.54679202633099,46.34626699522568],[14.54555179198167,46.35267487254737],[14.53593997644879,46.36032298421839],[14.56870283436837,46.36879791908876],[14.59567793079191,46.36140818893682]]],"type":"Polygon"}
+}

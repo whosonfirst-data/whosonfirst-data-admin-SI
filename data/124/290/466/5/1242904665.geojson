@@ -1,0 +1,71 @@
+{
+  "id": 1242904665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.88273,45.49492,14.88273,45.49492",
+    "geom:latitude":45.49492,
+    "geom:longitude":14.88273,
+    "gn:admin1_code":"H9",
+    "gn:asciiname":"Dren",
+    "gn:country_code":"SI",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989023,
+    "gn:latitude":45.49492,
+    "gn:longitude":14.88273,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Dren",
+    "gn:population":22,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959711,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989023,
+        "wk:page":"Dren%2C_Kostel"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a07697cd018c85cbcd4e0d980449bed9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959711,
+            "locality_id":1242904665,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1242904665,
+    "wof:lastmodified":1537573529,
+    "wof:name":"Dren",
+    "wof:parent_id":1108959711,
+    "wof:placetype":"locality",
+    "wof:population":22,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.88273,
+    45.49492,
+    14.88273,
+    45.49492
+],
+  "geometry": {"coordinates":[14.88273,45.49492],"type":"Point"}
+}

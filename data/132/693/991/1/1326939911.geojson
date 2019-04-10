@@ -1,0 +1,75 @@
+{
+  "id": 1326939911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.83333,45.89972,13.83333,45.89972",
+    "geom:latitude":45.89972,
+    "geom:longitude":13.83333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kamnje",
+    "gn:country_code":"SI",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198359,
+    "gn:latitude":45.89972,
+    "gn:longitude":13.83333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Kamnje",
+    "gn:population":190,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Camigna",
+        "Kamnje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959545,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198359,
+        "wk:page":"Kamnje%2C_Ajdov%C5%A1%C4%8Dina"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6e4d0153f8486948ac714b3e6f9ca03c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959545,
+            "locality_id":1326939911,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1326939911,
+    "wof:lastmodified":1537700234,
+    "wof:name":"Kamnje",
+    "wof:parent_id":1108959545,
+    "wof:placetype":"locality",
+    "wof:population":190,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.83333,
+    45.89972,
+    13.83333,
+    45.89972
+],
+  "geometry": {"coordinates":[13.83333,45.89972],"type":"Point"}
+}

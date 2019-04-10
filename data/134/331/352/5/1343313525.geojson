@@ -1,0 +1,75 @@
+{
+  "id": 1343313525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.32972,45.49056,14.32972,45.49056",
+    "geom:latitude":45.49056,
+    "geom:longitude":14.32972,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Susak",
+    "gn:country_code":"SI",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189470,
+    "gn:latitude":45.49056,
+    "gn:longitude":14.32972,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Su\u0161ak",
+    "gn:population":92,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sussa",
+        "Su\u0161ak"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959873,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189470,
+        "wk:page":"Su%C5%A1ak%2C_Ilirska_Bistrica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a923d7318279752541fd0bb184c3ad5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959873,
+            "locality_id":1343313525,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1343313525,
+    "wof:lastmodified":1537700184,
+    "wof:name":"Susak",
+    "wof:parent_id":1108959873,
+    "wof:placetype":"locality",
+    "wof:population":92,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.32972,
+    45.49056,
+    14.32972,
+    45.49056
+],
+  "geometry": {"coordinates":[14.32972,45.49056],"type":"Point"}
+}

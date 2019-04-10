@@ -1,0 +1,71 @@
+{
+  "id": 1259619469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.29982,45.92804,14.29982,45.92804",
+    "geom:latitude":45.92804,
+    "geom:longitude":14.29982,
+    "gn:admin1_code":"E5",
+    "gn:asciiname":"Mirke",
+    "gn:country_code":"SI",
+    "gn:dem":758,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987714,
+    "gn:latitude":45.92804,
+    "gn:longitude":14.29982,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Mirke",
+    "gn:population":111,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959851,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987714,
+        "wk:page":"Mirke"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"85acb44a2f4d42a3f026cc578526c063",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959851,
+            "locality_id":1259619469,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1259619469,
+    "wof:lastmodified":1537573489,
+    "wof:name":"Mirke",
+    "wof:parent_id":1108959851,
+    "wof:placetype":"locality",
+    "wof:population":111,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.29982,
+    45.92804,
+    14.29982,
+    45.92804
+],
+  "geometry": {"coordinates":[14.29982,45.92804],"type":"Point"}
+}

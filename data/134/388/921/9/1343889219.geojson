@@ -1,0 +1,71 @@
+{
+  "id": 1343889219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.97056,45.75472,14.97056,45.75472",
+    "geom:latitude":45.75472,
+    "geom:longitude":14.97056,
+    "gn:admin1_code":"H7",
+    "gn:asciiname":"Topla Reber",
+    "gn:country_code":"SI",
+    "gn:dem":850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188991,
+    "gn:latitude":45.75472,
+    "gn:longitude":14.97056,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Topla Reber",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dolnja Topla Reber"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959919,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188991,
+        "wk:page":"Dolnja_Topla_Reber"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6c97882601a2164b473687c7c039291e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959919,
+            "locality_id":1343889219,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1343889219,
+    "wof:lastmodified":1537700182,
+    "wof:name":"Topla Reber",
+    "wof:parent_id":1108959919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.97056,
+    45.75472,
+    14.97056,
+    45.75472
+],
+  "geometry": {"coordinates":[14.97056,45.75472],"type":"Point"}
+}

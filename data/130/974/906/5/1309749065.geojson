@@ -1,0 +1,71 @@
+{
+  "id": 1309749065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.061,46.52756,15.061,46.52756",
+    "geom:latitude":46.52756,
+    "geom:longitude":15.061,
+    "gn:admin1_code":"C2",
+    "gn:asciiname":"Gmajna",
+    "gn:country_code":"SI",
+    "gn:dem":634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986931,
+    "gn:latitude":46.52756,
+    "gn:longitude":15.061,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Gmajna",
+    "gn:population":457,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959645,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986931,
+        "wk:page":"Gmajna%2C_Slovenj_Gradec"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1050bc2506b818088cd341ff6eec8414",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959645,
+            "locality_id":1309749065,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1309749065,
+    "wof:lastmodified":1537573465,
+    "wof:name":"Gmajna",
+    "wof:parent_id":1108959645,
+    "wof:placetype":"locality",
+    "wof:population":457,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.061,
+    46.52756,
+    15.061,
+    46.52756
+],
+  "geometry": {"coordinates":[15.061,46.52756],"type":"Point"}
+}

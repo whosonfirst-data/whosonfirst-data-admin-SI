@@ -1,0 +1,142 @@
+{
+  "id": 101858991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.217596,46.804851,16.217596,46.804851",
+    "geom:latitude":46.804851,
+    "geom:longitude":16.217596,
+    "gn:population":419,
+    "iso:country":"SI",
+    "lbl:latitude":46.804851,
+    "lbl:longitude":16.217596,
+    "mps:latitude":46.804851,
+    "mps:longitude":16.217596,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Gornji Petrovci"
+    ],
+    "name:chi_x_preferred":[
+        "\u4e0a\u5f7c\u5f97\u7f85\u592b\u9f4a"
+    ],
+    "name:dut_x_preferred":[
+        "Gornji Petrovci"
+    ],
+    "name:eng_x_preferred":[
+        "Gornji Petrovci"
+    ],
+    "name:epo_x_preferred":[
+        "Gornji Petrovci"
+    ],
+    "name:fre_x_preferred":[
+        "Gornji Petrovci"
+    ],
+    "name:ger_x_preferred":[
+        "Gornji Petrovci"
+    ],
+    "name:hrv_x_preferred":[
+        "Gornji Petrovci"
+    ],
+    "name:hun_x_preferred":[
+        "P\u00e9terhegy"
+    ],
+    "name:ita_x_preferred":[
+        "Gornji Petrovci"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b4\u30eb\u30cb\u30fb\u30da\u30c8\u30ed\u30d5\u30c4\u30a3"
+    ],
+    "name:kor_x_preferred":[
+        "\uace0\ub974\ub2c8\ud398\ud2b8\ub85c\ube0c\uce58"
+    ],
+    "name:por_x_preferred":[
+        "Gornji Petrovci"
+    ],
+    "name:rum_x_preferred":[
+        "Gornji Petrovci"
+    ],
+    "name:slv_x_preferred":[
+        "Gornji Petrovci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0438 \u041f\u0435\u0442\u0440\u043e\u0432\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0456 \u041f\u0435\u0442\u0440\u043e\u0432\u0446\u0456"
+    ],
+    "name:unk_x_variant":[
+        "P\u00e9terhegy"
+    ],
+    "name:vie_x_preferred":[
+        "Gornji Petrovci"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Gornji Petrovci",
+    "qs:loc_alt":"Gornji Petrovci",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":46.805278,
+    "wd:longitude":16.2225,
+    "wd:wordcount":201,
+    "wof:belongsto":[
+        102191581,
+        1108959531,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199948,
+        "gp:id":530139,
+        "qs:id":6,
+        "wd:id":"Q851946",
+        "wk:page":"Gornji Petrovci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"68eefa31a5d532e456daf39fe8bbbb54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959531,
+            "locality_id":101858991,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":101858991,
+    "wof:lastmodified":1544744685,
+    "wof:name":"Gornji Petrovci",
+    "wof:parent_id":1108959531,
+    "wof:placetype":"locality",
+    "wof:population":419,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.217596,
+    46.804851,
+    16.217596,
+    46.804851
+],
+  "geometry": {"coordinates":[16.217596,46.804851],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209851729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.75,46.35,14.75,46.35",
+    "geom:latitude":46.35,
+    "geom:longitude":14.75,
+    "gn:admin1_code":"I9",
+    "gn:asciiname":"Krnica",
+    "gn:country_code":"SI",
+    "gn:dem":659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197180,
+    "gn:latitude":46.35,
+    "gn:longitude":14.75,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Krnica",
+    "gn:population":266,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959505,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197180,
+        "wk:page":"Krnica%2C_Lu%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c63329770ba194145e2779164d3de05c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959505,
+            "locality_id":1209851729,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1209851729,
+    "wof:lastmodified":1537573427,
+    "wof:name":"Krnica",
+    "wof:parent_id":1108959505,
+    "wof:placetype":"locality",
+    "wof:population":266,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.75,
+    46.35,
+    14.75,
+    46.35
+],
+  "geometry": {"coordinates":[14.75,46.35],"type":"Point"}
+}

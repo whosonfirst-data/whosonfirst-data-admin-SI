@@ -1,0 +1,68 @@
+{
+  "id": 1327270039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.51667,46.58333,15.51667,46.58333",
+    "geom:latitude":46.58333,
+    "geom:longitude":15.51667,
+    "gn:admin1_code":"L5",
+    "gn:asciiname":"Zgornji Slemen",
+    "gn:country_code":"SI",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186483,
+    "gn:latitude":46.58333,
+    "gn:longitude":15.51667,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Zgornji Slemen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959661,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186483,
+        "wk:page":"Zgornji_Slemen%2C_Selnica_ob_Dravi"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fde9c1d64b2aa5e5e6a20a08e8f6ddf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959661,
+            "locality_id":1327270039,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1327270039,
+    "wof:lastmodified":1537573380,
+    "wof:name":"Zgornji Slemen",
+    "wof:parent_id":1108959661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.51667,
+    46.58333,
+    15.51667,
+    46.58333
+],
+  "geometry": {"coordinates":[15.51667,46.58333],"type":"Point"}
+}

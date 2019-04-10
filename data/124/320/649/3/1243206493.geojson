@@ -1,0 +1,74 @@
+{
+  "id": 1243206493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.17237,45.85371,15.17237,45.85371",
+    "geom:latitude":45.85371,
+    "geom:longitude":15.17237,
+    "gn:admin1_code":"J7",
+    "gn:asciiname":"Golusnik",
+    "gn:country_code":"SI",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989160,
+    "gn:latitude":45.85371,
+    "gn:longitude":15.17237,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Golu\u0161nik",
+    "gn:population":15,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Golu\u0161nik"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959465,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989160,
+        "wk:page":"Golu%C5%A1nik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b90d4bc92316501564c8ae17ec1b4608",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959465,
+            "locality_id":1243206493,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1243206493,
+    "wof:lastmodified":1537700321,
+    "wof:name":"Golusnik",
+    "wof:parent_id":1108959465,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.17237,
+    45.85371,
+    15.17237,
+    45.85371
+],
+  "geometry": {"coordinates":[15.17237,45.85371],"type":"Point"}
+}

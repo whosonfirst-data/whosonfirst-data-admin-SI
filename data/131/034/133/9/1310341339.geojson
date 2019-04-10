@@ -1,0 +1,74 @@
+{
+  "id": 1310341339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8025,46.37694,15.8025,46.37694",
+    "geom:latitude":46.37694,
+    "geom:longitude":15.8025,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Apace",
+    "gn:country_code":"SI",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204797,
+    "gn:latitude":46.37694,
+    "gn:longitude":15.8025,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Apa\u010de",
+    "gn:population":802,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Apa\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959739,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204797,
+        "wk:page":"Apa%C4%8De%2C_Kidri%C4%8Devo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4329b9dcaa82d3d943d3b1ec941d61a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959739,
+            "locality_id":1310341339,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1310341339,
+    "wof:lastmodified":1537700267,
+    "wof:name":"Apace",
+    "wof:parent_id":1108959739,
+    "wof:placetype":"locality",
+    "wof:population":802,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8025,
+    46.37694000000001,
+    15.8025,
+    46.37694000000001
+],
+  "geometry": {"coordinates":[15.8025,46.37694000000001],"type":"Point"}
+}

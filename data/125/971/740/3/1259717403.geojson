@@ -1,0 +1,71 @@
+{
+  "id": 1259717403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.80792,45.93252,14.80792,45.93252",
+    "geom:latitude":45.93252,
+    "geom:longitude":14.80792,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Mrzlo Polje",
+    "gn:country_code":"SI",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988692,
+    "gn:latitude":45.93252,
+    "gn:longitude":14.80792,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Mrzlo Polje",
+    "gn:population":36,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959583,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988692,
+        "wk:page":"Mrzlo_Polje%2C_Ivan%C4%8Dna_Gorica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"21a5193ad6afdee36b18962c0d58a821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959583,
+            "locality_id":1259717403,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1259717403,
+    "wof:lastmodified":1537573520,
+    "wof:name":"Mrzlo Polje",
+    "wof:parent_id":1108959583,
+    "wof:placetype":"locality",
+    "wof:population":36,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.80792,
+    45.93252,
+    14.80792,
+    45.93252
+],
+  "geometry": {"coordinates":[14.80792,45.93252],"type":"Point"}
+}

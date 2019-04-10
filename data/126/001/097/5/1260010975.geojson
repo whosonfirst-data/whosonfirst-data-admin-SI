@@ -1,0 +1,73 @@
+{
+  "id": 1260010975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.71757,45.51849,13.71757,45.51849",
+    "geom:latitude":45.51849,
+    "geom:longitude":13.71757,
+    "gn:admin1_code":"50",
+    "gn:country_code":"SI",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986900,
+    "gn:latitude":45.51849,
+    "gn:longitude":13.71757,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"\u0160alara",
+    "gn:population":550,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u008aAlara"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959527,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986900,
+        "wk:page":"%C5%A0alara"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"896f3abdc77cd7805c3d545eb5d9e6bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959527,
+            "locality_id":1260010975,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1260010975,
+    "wof:lastmodified":1537700276,
+    "wof:name":"",
+    "wof:parent_id":1108959527,
+    "wof:placetype":"locality",
+    "wof:population":550,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.71757,
+    45.51849,
+    13.71757,
+    45.51849
+],
+  "geometry": {"coordinates":[13.71757,45.51849],"type":"Point"}
+}

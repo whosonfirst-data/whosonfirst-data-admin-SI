@@ -1,0 +1,73 @@
+{
+  "id": 1327268497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.55415,45.97501,15.55415,45.97501",
+    "geom:latitude":45.97501,
+    "geom:longitude":15.55415,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Lopatna",
+    "gn:country_code":"SI",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":10794188,
+    "gn:latitude":45.97501,
+    "gn:longitude":15.55415,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Lopatna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:slv_x_historical":[
+        "Lopata"
+    ],
+    "name:slv_x_preferred":[
+        "Lopata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10794188
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3c0a30f0380058304db262abe8918b82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1327268497,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1327268497,
+    "wof:lastmodified":1537700336,
+    "wof:name":"Lopatna",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.55415,
+    45.97501,
+    15.55415,
+    45.97501
+],
+  "geometry": {"coordinates":[15.55415,45.97501],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1210052267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.64936,46.26221,15.64936,46.26221",
+    "geom:latitude":46.26221,
+    "geom:longitude":15.64936,
+    "gn:admin1_code":"A7",
+    "gn:asciiname":"Cerovec pod Bocem",
+    "gn:country_code":"SI",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987011,
+    "gn:latitude":46.26221,
+    "gn:longitude":15.64936,
+    "gn:modification_date":"2014-09-11",
+    "gn:name":"Cerovec pod Bocem",
+    "gn:population":346,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cerovec Pod Bo\u010dem"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959803,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987011,
+        "wk:page":"Cerovec_pod_Bo%C4%8Dem"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d97c89e6ddd118a78d7bc144b0f5f6b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959803,
+            "locality_id":1210052267,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1210052267,
+    "wof:lastmodified":1537700278,
+    "wof:name":"Cerovec pod Bocem",
+    "wof:parent_id":1108959803,
+    "wof:placetype":"locality",
+    "wof:population":346,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.64936,
+    46.26221,
+    15.64936,
+    46.26221
+],
+  "geometry": {"coordinates":[15.64936,46.26221],"type":"Point"}
+}

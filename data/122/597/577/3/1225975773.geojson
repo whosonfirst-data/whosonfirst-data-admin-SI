@@ -1,0 +1,75 @@
+{
+  "id": 1225975773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.89167,45.92028,14.89167,45.92028",
+    "geom:latitude":45.92028,
+    "geom:longitude":14.89167,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Zagorica pri Velikem Gabru",
+    "gn:country_code":"SI",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186915,
+    "gn:latitude":45.92028,
+    "gn:longitude":14.89167,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Zagorica pri Velikem Gabru",
+    "gn:population":229,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zagorica",
+        "Zagorica pri Velikem Gabru"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959839,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186915,
+        "wk:page":"Zagorica_pri_Velikem_Gabru"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"78ed3810e4d60c40030d9c147c7032d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959839,
+            "locality_id":1225975773,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1225975773,
+    "wof:lastmodified":1537700171,
+    "wof:name":"Zagorica pri Velikem Gabru",
+    "wof:parent_id":1108959839,
+    "wof:placetype":"locality",
+    "wof:population":229,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.89167,
+    45.92028,
+    14.89167,
+    45.92028
+],
+  "geometry": {"coordinates":[14.89167,45.92028],"type":"Point"}
+}

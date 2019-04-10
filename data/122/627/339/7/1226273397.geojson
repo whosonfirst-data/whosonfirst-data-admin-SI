@@ -1,0 +1,71 @@
+{
+  "id": 1226273397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.86982,46.13439,13.86982,46.13439",
+    "geom:latitude":46.13439,
+    "geom:longitude":13.86982,
+    "gn:admin1_code":"D2",
+    "gn:asciiname":"Gorski Vrh",
+    "gn:country_code":"SI",
+    "gn:dem":888,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989219,
+    "gn:latitude":46.13439,
+    "gn:longitude":13.86982,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Gorski Vrh",
+    "gn:population":13,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959617,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989219,
+        "wk:page":"Gorski_Vrh"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"177ea501b2e7edb25e1617545daaf0b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959617,
+            "locality_id":1226273397,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1226273397,
+    "wof:lastmodified":1537573535,
+    "wof:name":"Gorski Vrh",
+    "wof:parent_id":1108959617,
+    "wof:placetype":"locality",
+    "wof:population":13,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.86982,
+    46.13439,
+    13.86982,
+    46.13439
+],
+  "geometry": {"coordinates":[13.86982,46.13439],"type":"Point"}
+}

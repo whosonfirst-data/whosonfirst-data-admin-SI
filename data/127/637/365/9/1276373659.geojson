@@ -1,0 +1,71 @@
+{
+  "id": 1276373659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.01692,45.97918,15.01692,45.97918",
+    "geom:latitude":45.97918,
+    "geom:longitude":15.01692,
+    "gn:admin1_code":"I5",
+    "gn:asciiname":"Brglez",
+    "gn:country_code":"SI",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989134,
+    "gn:latitude":45.97918,
+    "gn:longitude":15.01692,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Brglez",
+    "gn:population":16,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959907,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989134,
+        "wk:page":"Brglez%2C_Litija"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e1059a1cfae6cc338bb39039a739c730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959907,
+            "locality_id":1276373659,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1276373659,
+    "wof:lastmodified":1537573533,
+    "wof:name":"Brglez",
+    "wof:parent_id":1108959907,
+    "wof:placetype":"locality",
+    "wof:population":16,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.01692,
+    45.97918,
+    15.01692,
+    45.97918
+],
+  "geometry": {"coordinates":[15.01692,45.97918],"type":"Point"}
+}

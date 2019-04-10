@@ -1,0 +1,71 @@
+{
+  "id": 1293129667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.04028,45.93826,15.04028,45.93826",
+    "geom:latitude":45.93826,
+    "geom:longitude":15.04028,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Brezovica pri Mirni",
+    "gn:country_code":"SI",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203343,
+    "gn:latitude":45.93826,
+    "gn:longitude":15.04028,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Brezovica pri Mirni",
+    "gn:population":132,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959869,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203343,
+        "wk:page":"Brezovica_pri_Mirni"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3e3f31009675021603f38540056ae91e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959869,
+            "locality_id":1293129667,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1293129667,
+    "wof:lastmodified":1537573450,
+    "wof:name":"Brezovica pri Mirni",
+    "wof:parent_id":1108959869,
+    "wof:placetype":"locality",
+    "wof:population":132,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.04028,
+    45.93826,
+    15.04028,
+    45.93826
+],
+  "geometry": {"coordinates":[15.04028,45.93826],"type":"Point"}
+}

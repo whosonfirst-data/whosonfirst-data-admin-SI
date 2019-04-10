@@ -1,0 +1,75 @@
+{
+  "id": 1293914227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.18441,46.17369,14.18441,46.17369",
+    "geom:latitude":46.17369,
+    "geom:longitude":14.18441,
+    "gn:admin1_code":"B9",
+    "gn:asciiname":"Zapreval",
+    "gn:country_code":"SI",
+    "gn:dem":962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186779,
+    "gn:latitude":46.17369,
+    "gn:longitude":14.18441,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Zapreval",
+    "gn:population":28,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Za Prevalom",
+        "Zapreval"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959897,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186779,
+        "wk:page":"Zapreval"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ed1a61f6f16d3088fb0e55c087163856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959897,
+            "locality_id":1293914227,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1293914227,
+    "wof:lastmodified":1537700171,
+    "wof:name":"Zapreval",
+    "wof:parent_id":1108959897,
+    "wof:placetype":"locality",
+    "wof:population":28,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.18441,
+    46.17369,
+    14.18441,
+    46.17369
+],
+  "geometry": {"coordinates":[14.18441,46.17369],"type":"Point"}
+}

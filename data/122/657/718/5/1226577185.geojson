@@ -1,0 +1,74 @@
+{
+  "id": 1226577185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.57451,46.0777,15.57451,46.0777",
+    "geom:latitude":46.0777,
+    "geom:longitude":15.57451,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Jesovec pri Kozjem",
+    "gn:country_code":"SI",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987509,
+    "gn:latitude":46.0777,
+    "gn:longitude":15.57451,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Je\u0161ovec pri Kozjem",
+    "gn:population":139,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Je\u0161ovec pri Kozjem"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959581,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987509,
+        "wk:page":"Je%C5%A1ovec_pri_Kozjem"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2e6b133e1fe16210027ad9611751edee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959581,
+            "locality_id":1226577185,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1226577185,
+    "wof:lastmodified":1537700287,
+    "wof:name":"Jesovec pri Kozjem",
+    "wof:parent_id":1108959581,
+    "wof:placetype":"locality",
+    "wof:population":139,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.57451,
+    46.0777,
+    15.57451,
+    46.0777
+],
+  "geometry": {"coordinates":[15.57451,46.0777],"type":"Point"}
+}

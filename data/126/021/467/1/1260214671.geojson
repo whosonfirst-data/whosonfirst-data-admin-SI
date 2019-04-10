@@ -1,0 +1,74 @@
+{
+  "id": 1260214671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.57694,45.96694,14.57694,45.96694",
+    "geom:latitude":45.96694,
+    "geom:longitude":14.57694,
+    "gn:admin1_code":"C1",
+    "gn:asciiname":"Gumnisce",
+    "gn:country_code":"SI",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199477,
+    "gn:latitude":45.96694,
+    "gn:longitude":14.57694,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Gumni\u0161\u010de",
+    "gn:population":242,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gumni\u0161\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959891,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199477,
+        "wk:page":"Gumni%C5%A1%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a7c148a7504f1f58d0b5efdb540b669d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959891,
+            "locality_id":1260214671,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1260214671,
+    "wof:lastmodified":1537700240,
+    "wof:name":"Gumnisce",
+    "wof:parent_id":1108959891,
+    "wof:placetype":"locality",
+    "wof:population":242,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.57694,
+    45.96694,
+    14.57694,
+    45.96694
+],
+  "geometry": {"coordinates":[14.57694,45.96694],"type":"Point"}
+}

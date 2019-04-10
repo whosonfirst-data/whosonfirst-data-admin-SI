@@ -1,0 +1,61 @@
+{
+  "id": 1209106537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.89222,46.27694,13.89222,46.27694",
+    "geom:latitude":46.27694,
+    "geom:longitude":13.89222,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sveti Janez",
+    "gn:country_code":"SI",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218201,
+    "gn:latitude":46.27694,
+    "gn:longitude":13.89222,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Sveti Janez",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218201
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"65d1fa53513a412e7979467bdf62a603",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209106537
+        }
+    ],
+    "wof:id":1209106537,
+    "wof:lastmodified":1536297551,
+    "wof:name":"Sveti Janez",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.892220000000002,
+    46.27694,
+    13.892220000000002,
+    46.27694
+],
+  "geometry": {"coordinates":[13.89222,46.27694],"type":"Point"}
+}

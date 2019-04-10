@@ -1,0 +1,67 @@
+{
+  "id": 1243588201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.90306,46.36917,15.90306,46.36917",
+    "geom:latitude":46.36917,
+    "geom:longitude":15.90306,
+    "gn:admin1_code":"N2",
+    "gn:asciiname":"Sveti Vid",
+    "gn:country_code":"SI",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216661,
+    "gn:latitude":46.36917,
+    "gn:longitude":15.90306,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Sveti Vid",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959747,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216661
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f2ef79f3c6ce9f13bcd2ec1d07ac3359",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959747,
+            "locality_id":1243588201,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1243588201,
+    "wof:lastmodified":1537094904,
+    "wof:name":"Sveti Vid",
+    "wof:parent_id":1108959747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.90306,
+    46.36917,
+    15.90306,
+    46.36917
+],
+  "geometry": {"coordinates":[15.90306,46.36917],"type":"Point"}
+}

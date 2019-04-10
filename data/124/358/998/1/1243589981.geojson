@@ -1,0 +1,75 @@
+{
+  "id": 1243589981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23786,46.16812,15.23786,46.16812",
+    "geom:latitude":46.16812,
+    "geom:longitude":15.23786,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Jagoce",
+    "gn:country_code":"SI",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198951,
+    "gn:latitude":46.16812,
+    "gn:longitude":15.23786,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Jago\u010de",
+    "gn:population":141,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jagod\u010de",
+        "Jago\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959879,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198951,
+        "wk:page":"Jago%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2de3521ec05508db90613b54ad198f57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959879,
+            "locality_id":1243589981,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1243589981,
+    "wof:lastmodified":1537700237,
+    "wof:name":"Jagoce",
+    "wof:parent_id":1108959879,
+    "wof:placetype":"locality",
+    "wof:population":141,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23786,
+    46.16812,
+    15.23786,
+    46.16812
+],
+  "geometry": {"coordinates":[15.23786,46.16812],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1360115615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.76669,46.20851,13.76669,46.20851",
+    "geom:latitude":46.20851,
+    "geom:longitude":13.76669,
+    "gn:admin1_code":"D2",
+    "gn:asciiname":"Zadlaz-Zabce",
+    "gn:country_code":"SI",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187015,
+    "gn:latitude":46.20851,
+    "gn:longitude":13.76669,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Zadlaz-\u017dab\u010de",
+    "gn:population":36,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rauna di Sabbice",
+        "\u017dab\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959617,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187015,
+        "wk:page":"%C5%BDab%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fe540c47959449c4cd2d954045400f29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959617,
+            "locality_id":1360115615,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1360115615,
+    "wof:lastmodified":1537700172,
+    "wof:name":"Zadlaz-Zabce",
+    "wof:parent_id":1108959617,
+    "wof:placetype":"locality",
+    "wof:population":36,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.76669,
+    46.20851,
+    13.76669,
+    46.20851
+],
+  "geometry": {"coordinates":[13.76669,46.20851],"type":"Point"}
+}

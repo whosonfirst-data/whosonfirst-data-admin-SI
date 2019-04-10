@@ -1,0 +1,81 @@
+{
+  "id": 1193053921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.83111,45.55333,14.83111,45.55333",
+    "geom:latitude":45.55333,
+    "geom:longitude":14.83111,
+    "gn:admin1_code":"H7",
+    "gn:asciiname":"Mokri Potok",
+    "gn:cc2":"SI",
+    "gn:country_code":"SI",
+    "gn:dem":511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194908,
+    "gn:latitude":45.55333,
+    "gn:longitude":14.83111,
+    "gn:modification_date":"2015-11-20",
+    "gn:name":"Mokri Potok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_historical":[
+        "Unterwetzenbach"
+    ],
+    "name:deu_x_preferred":[
+        "Unterwetzenbach"
+    ],
+    "name:slv_x_historical":[
+        "Dolenji Vecenbah"
+    ],
+    "name:slv_x_preferred":[
+        "Dolenji Vecenbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959919,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194908,
+        "wk:page":"Mokri_Potok"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"df77aacd840b9928fd81f5853b0b81dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959919,
+            "locality_id":1193053921,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1193053921,
+    "wof:lastmodified":1537700218,
+    "wof:name":"Mokri Potok",
+    "wof:parent_id":1108959919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.83111,
+    45.55333,
+    14.83111,
+    45.55333
+],
+  "geometry": {"coordinates":[14.83111,45.55333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259839127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.67472,45.97917,14.67472,45.97917",
+    "geom:latitude":45.97917,
+    "geom:longitude":14.67472,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Velika Stara Vas",
+    "gn:country_code":"SI",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188161,
+    "gn:latitude":45.97917,
+    "gn:longitude":14.67472,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Velika Stara Vas",
+    "gn:population":137,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959533,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188161,
+        "wk:page":"Velika_Stara_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"27ed51fb03ce9e5596b1b59154fbd744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959533,
+            "locality_id":1259839127,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1259839127,
+    "wof:lastmodified":1537573389,
+    "wof:name":"Velika Stara Vas",
+    "wof:parent_id":1108959533,
+    "wof:placetype":"locality",
+    "wof:population":137,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.67472,
+    45.97917,
+    14.67472,
+    45.97917
+],
+  "geometry": {"coordinates":[14.67472,45.97917],"type":"Point"}
+}

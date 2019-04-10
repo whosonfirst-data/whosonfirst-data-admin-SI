@@ -1,0 +1,74 @@
+{
+  "id": 1343929289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.2444,45.57771,15.2444,45.57771",
+    "geom:latitude":45.57771,
+    "geom:longitude":15.2444,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Pavicici",
+    "gn:country_code":"SI",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989051,
+    "gn:latitude":45.57771,
+    "gn:longitude":15.2444,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Pavi\u010di\u010di",
+    "gn:population":20,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pavi\u010di\u010di"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959699,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989051,
+        "wk:page":"Pavi%C4%8Di%C4%8Di"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0ed7ebd4f6d68c2cf66b4ba659ff83e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959699,
+            "locality_id":1343929289,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1343929289,
+    "wof:lastmodified":1537700319,
+    "wof:name":"Pavicici",
+    "wof:parent_id":1108959699,
+    "wof:placetype":"locality",
+    "wof:population":20,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.2444,
+    45.57771,
+    15.2444,
+    45.57771
+],
+  "geometry": {"coordinates":[15.2444,45.57771],"type":"Point"}
+}

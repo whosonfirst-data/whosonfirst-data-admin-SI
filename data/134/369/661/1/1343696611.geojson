@@ -1,0 +1,71 @@
+{
+  "id": 1343696611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.39224,46.26624,14.39224,46.26624",
+    "geom:latitude":46.26624,
+    "geom:longitude":14.39224,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Orehovlje",
+    "gn:country_code":"SI",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989766,
+    "gn:latitude":46.26624,
+    "gn:longitude":14.39224,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Orehovlje",
+    "gn:population":187,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959933,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989766,
+        "wk:page":"Orehovlje%2C_Kranj"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2cd53549572f01b98a8f6e0cffb34563",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959933,
+            "locality_id":1343696611,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1343696611,
+    "wof:lastmodified":1537573552,
+    "wof:name":"Orehovlje",
+    "wof:parent_id":1108959933,
+    "wof:placetype":"locality",
+    "wof:population":187,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.39224,
+    46.26624,
+    14.39224,
+    46.26624
+],
+  "geometry": {"coordinates":[14.39224,46.26624],"type":"Point"}
+}

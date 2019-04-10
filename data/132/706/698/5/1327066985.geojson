@@ -1,0 +1,71 @@
+{
+  "id": 1327066985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.96713,46.41349,15.96713,46.41349",
+    "geom:latitude":46.41349,
+    "geom:longitude":15.96713,
+    "gn:admin1_code":"J3",
+    "gn:asciiname":"Strelci",
+    "gn:country_code":"SI",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987785,
+    "gn:latitude":46.41349,
+    "gn:longitude":15.96713,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Strelci",
+    "gn:population":104,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959779,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987785,
+        "wk:page":"Strelci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0baf037866d8ad517e76089c79cd32f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959779,
+            "locality_id":1327066985,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1327066985,
+    "wof:lastmodified":1537573491,
+    "wof:name":"Strelci",
+    "wof:parent_id":1108959779,
+    "wof:placetype":"locality",
+    "wof:population":104,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.96713,
+    46.41349,
+    15.96713,
+    46.41349
+],
+  "geometry": {"coordinates":[15.96713,46.41349],"type":"Point"}
+}

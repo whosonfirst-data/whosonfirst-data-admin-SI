@@ -1,0 +1,75 @@
+{
+  "id": 1360016859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.82361,45.72861,13.82361,45.72861",
+    "geom:latitude":45.72861,
+    "geom:longitude":13.82361,
+    "gn:admin1_code":"B7",
+    "gn:asciiname":"Vrhovlje",
+    "gn:country_code":"SI",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187194,
+    "gn:latitude":45.72861,
+    "gn:longitude":13.82361,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Vrhovlje",
+    "gn:population":92,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vercogliano di Monrupino",
+        "Vrhovlje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959789,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187194,
+        "wk:page":"Vrhovlje%2C_Se%C5%BEana"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"586c5e04528253cf622b2ed7358441fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959789,
+            "locality_id":1360016859,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1360016859,
+    "wof:lastmodified":1537700173,
+    "wof:name":"Vrhovlje",
+    "wof:parent_id":1108959789,
+    "wof:placetype":"locality",
+    "wof:population":92,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.82361,
+    45.72861,
+    13.82361,
+    45.72861
+],
+  "geometry": {"coordinates":[13.82361,45.72861],"type":"Point"}
+}

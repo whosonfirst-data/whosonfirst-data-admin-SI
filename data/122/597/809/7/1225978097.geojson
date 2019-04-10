@@ -1,0 +1,74 @@
+{
+  "id": 1225978097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.29754,45.93287,15.29754,45.93287",
+    "geom:latitude":45.93287,
+    "geom:longitude":15.29754,
+    "gn:admin1_code":"B8",
+    "gn:asciiname":"Mackovec pri Skocjanu",
+    "gn:country_code":"SI",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988884,
+    "gn:latitude":45.93287,
+    "gn:longitude":15.29754,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ma\u010dkovec pri \u0160kocjanu",
+    "gn:population":28,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u010dkovec pri \u0160kocjanu"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959605,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988884,
+        "wk:page":"Ma%C4%8Dkovec_pri_%C5%A0kocjanu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"19b58a5d601e1ef14bfd29f0d887a673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959605,
+            "locality_id":1225978097,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1225978097,
+    "wof:lastmodified":1537700315,
+    "wof:name":"Mackovec pri Skocjanu",
+    "wof:parent_id":1108959605,
+    "wof:placetype":"locality",
+    "wof:population":28,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.29754,
+    45.93287,
+    15.29754,
+    45.93287
+],
+  "geometry": {"coordinates":[15.29754,45.93287],"type":"Point"}
+}

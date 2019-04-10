@@ -1,0 +1,71 @@
+{
+  "id": 1226177457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.92889,45.76083,14.92889,45.76083",
+    "geom:latitude":45.76083,
+    "geom:longitude":14.92889,
+    "gn:admin1_code":"H7",
+    "gn:asciiname":"Smuka",
+    "gn:country_code":"SI",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190428,
+    "gn:latitude":45.76083,
+    "gn:longitude":14.92889,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Smuka",
+    "gn:population":59,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959919,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190428,
+        "wk:page":"Smuka"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d72ecb67f485fe771b04bd22deff9aa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959919,
+            "locality_id":1226177457,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1226177457,
+    "wof:lastmodified":1537573400,
+    "wof:name":"Smuka",
+    "wof:parent_id":1108959919,
+    "wof:placetype":"locality",
+    "wof:population":59,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.92889,
+    45.76083,
+    14.92889,
+    45.76083
+],
+  "geometry": {"coordinates":[14.92889,45.76083],"type":"Point"}
+}

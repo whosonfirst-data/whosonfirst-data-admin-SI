@@ -1,0 +1,71 @@
+{
+  "id": 1310140641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.91667,45.68472,14.91667,45.68472",
+    "geom:latitude":45.68472,
+    "geom:longitude":14.91667,
+    "gn:admin1_code":"H7",
+    "gn:asciiname":"Stari Breg",
+    "gn:country_code":"SI",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189977,
+    "gn:latitude":45.68472,
+    "gn:longitude":14.91667,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Stari Breg",
+    "gn:population":5,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959919,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189977,
+        "wk:page":"Stari_Breg"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9728e5ae4bcf7fac7d9c46ab934c75be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959919,
+            "locality_id":1310140641,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1310140641,
+    "wof:lastmodified":1537573396,
+    "wof:name":"Stari Breg",
+    "wof:parent_id":1108959919,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.91667,
+    45.68472,
+    14.91667,
+    45.68472
+],
+  "geometry": {"coordinates":[14.91667,45.68472],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343600085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.18635,45.61944,14.18635,45.61944",
+    "geom:latitude":45.61944,
+    "geom:longitude":14.18635,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Kilovce",
+    "gn:country_code":"SI",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197874,
+    "gn:latitude":45.61944,
+    "gn:longitude":14.18635,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Kilov\u010de",
+    "gn:population":52,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kikov\u010de",
+        "Kolov\u010de",
+        "Kilov\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959873,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197874,
+        "wk:page":"Kilov%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c2dfc5e9f4033151926ea9fdbe88ad4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959873,
+            "locality_id":1343600085,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1343600085,
+    "wof:lastmodified":1537700232,
+    "wof:name":"Kilovce",
+    "wof:parent_id":1108959873,
+    "wof:placetype":"locality",
+    "wof:population":52,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.18635,
+    45.61944,
+    14.18635,
+    45.61944
+],
+  "geometry": {"coordinates":[14.18635,45.61944],"type":"Point"}
+}

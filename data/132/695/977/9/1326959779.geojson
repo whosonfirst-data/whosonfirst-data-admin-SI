@@ -1,0 +1,71 @@
+{
+  "id": 1326959779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.78428,46.617,15.78428,46.617",
+    "geom:latitude":46.617,
+    "geom:longitude":15.78428,
+    "gn:admin1_code":"P7",
+    "gn:asciiname":"Malna",
+    "gn:country_code":"SI",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987153,
+    "gn:latitude":46.617,
+    "gn:longitude":15.78428,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Malna",
+    "gn:population":241,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959815,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987153,
+        "wk:page":"Malna"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"edd0a952e7ef2b3ae677eba6ed5eaa9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959815,
+            "locality_id":1326959779,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1326959779,
+    "wof:lastmodified":1537573470,
+    "wof:name":"Malna",
+    "wof:parent_id":1108959815,
+    "wof:placetype":"locality",
+    "wof:population":241,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.78428,
+    46.617,
+    15.78428,
+    46.617
+],
+  "geometry": {"coordinates":[15.78428,46.617],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1310636659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.19603,46.73251,16.19603,46.73251",
+    "geom:latitude":46.73251,
+    "geom:longitude":16.19603,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Bokraci",
+    "gn:country_code":"SI",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203770,
+    "gn:latitude":46.73251,
+    "gn:longitude":16.19603,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Bokra\u010di",
+    "gn:population":69,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bokr\u00e1cs",
+        "Bokra\u010di"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959935,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203770,
+        "wk:page":"Bokra%C4%8Di"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1a4901d4c9481feacf1652af13d46247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959935,
+            "locality_id":1310636659,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1310636659,
+    "wof:lastmodified":1537700264,
+    "wof:name":"Bokraci",
+    "wof:parent_id":1108959935,
+    "wof:placetype":"locality",
+    "wof:population":69,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.19603,
+    46.73251,
+    16.19603,
+    46.73251
+],
+  "geometry": {"coordinates":[16.19603,46.73251],"type":"Point"}
+}

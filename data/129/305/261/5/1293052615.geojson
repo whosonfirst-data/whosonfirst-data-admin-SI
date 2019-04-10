@@ -1,0 +1,75 @@
+{
+  "id": 1293052615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.31694,45.52694,14.31694,45.52694",
+    "geom:latitude":45.52694,
+    "geom:longitude":14.31694,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Trpcane",
+    "gn:country_code":"SI",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188732,
+    "gn:latitude":45.52694,
+    "gn:longitude":14.31694,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Trp\u010dane",
+    "gn:population":140,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Terciane",
+        "Trp\u010dane"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959873,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188732,
+        "wk:page":"Trp%C4%8Dane"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"66aace43032e4173f4061b6f1d78617d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959873,
+            "locality_id":1293052615,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1293052615,
+    "wof:lastmodified":1537700180,
+    "wof:name":"Trpcane",
+    "wof:parent_id":1108959873,
+    "wof:placetype":"locality",
+    "wof:population":140,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.31694,
+    45.52694,
+    14.31694,
+    45.52694
+],
+  "geometry": {"coordinates":[14.31694,45.52694],"type":"Point"}
+}

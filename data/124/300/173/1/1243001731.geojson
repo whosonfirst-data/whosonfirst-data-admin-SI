@@ -1,0 +1,71 @@
+{
+  "id": 1243001731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.70273,46.15111,14.70273,46.15111",
+    "geom:latitude":46.15111,
+    "geom:longitude":14.70273,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Preserje pri Lukovici",
+    "gn:country_code":"SI",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989535,
+    "gn:latitude":46.15111,
+    "gn:longitude":14.70273,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Preserje pri Lukovici",
+    "gn:population":78,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959807,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989535,
+        "wk:page":"Preserje_pri_Lukovici"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e178f6f9cbb5bf28cfa833818a4e4a0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959807,
+            "locality_id":1243001731,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1243001731,
+    "wof:lastmodified":1537573544,
+    "wof:name":"Preserje pri Lukovici",
+    "wof:parent_id":1108959807,
+    "wof:placetype":"locality",
+    "wof:population":78,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.70273,
+    46.15111,
+    14.70273,
+    46.15111
+],
+  "geometry": {"coordinates":[14.70273,46.15111],"type":"Point"}
+}

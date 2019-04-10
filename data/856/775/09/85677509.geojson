@@ -1,0 +1,211 @@
+{
+  "id": 85677509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.007973,
+    "geom:area_square_m":68663859.856937,
+    "geom:bbox":"13.5659725342,45.8190280576,13.7091687354,45.9123274993",
+    "geom:latitude":45.855008,
+    "geom:longitude":13.626877,
+    "iso:country":"SI",
+    "lbl:latitude":45.857081,
+    "lbl:longitude":13.604033,
+    "mps:latitude":45.857081,
+    "mps:longitude":13.604033,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:bos_x_preferred":[
+        "Miren\u2013Kostanjevica"
+    ],
+    "name:cat_x_preferred":[
+        "Miren-Kostanjevica"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u010dina Miren-Kostanjevica"
+    ],
+    "name:deu_x_preferred":[
+        "Miren-Kostanjevica"
+    ],
+    "name:eng_x_preferred":[
+        "Miren-Kostanjevica"
+    ],
+    "name:fra_x_preferred":[
+        "Miren-Kostanjevica"
+    ],
+    "name:hbs_x_preferred":[
+        "Miren - Kostanjevica"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Miren - Kostanjevica"
+    ],
+    "name:ita_x_preferred":[
+        "Merna-Castagnevizza"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30ec\u30f3\uff1d\u30b3\u30b9\u30bf\u30cb\u30a7\u30f4\u30a3\u30c4\u30a1"
+    ],
+    "name:kor_x_preferred":[
+        "\ubbf8\ub80c\ucf54\uc2a4\ud0c0\ub124\ube44\ucc28"
+    ],
+    "name:nld_x_preferred":[
+        "Miren-Kostanjevica"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Miren-Kostanjevica"
+    ],
+    "name:por_x_preferred":[
+        "Miren-Kostanjevica"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Miren-Kostanjevica"
+    ],
+    "name:sco_x_preferred":[
+        "Municipality o Miren\u2013Kostanjevica"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Miren - Kostanjevica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041c\u0438\u0440\u0435\u043d - \u041a\u043e\u0441\u0442\u0430\u045a\u0435\u0432\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0440\u0435\u043d-\u041a\u043e\u0441\u0442\u0430\u043d\u0454\u0432\u0456\u0446\u0430"
+    ],
+    "name:und_x_preferred":[
+        "Nova Gorica"
+    ],
+    "name:unk_x_variant":[
+        "Ob\u010dina Miren-Kostanjevica"
+    ],
+    "name:vie_x_preferred":[
+        "Miren-Kostanjevica"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-1032",
+    "ne:adm1_code":"SVN-1032",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SI.SP.MK",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"1032",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SIJ5",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.J5",
+    "ne:gn_id":"3239080",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Miren-Kostanjevica",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI49",
+    "ne:gns_id":"243472",
+    "ne:gns_lang":"div",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Miren-Kostanjevica, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"45.84770000000",
+    "ne:longitude":"13.63730000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Miren-Kostanjevica",
+    "ne:name_alt":"",
+    "ne:name_len":18,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"MK",
+    "ne:provnum_ne":"94",
+    "ne:region":"Gori\u0161ka",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":-55848371,
+    "ne:woe_label":"",
+    "ne:woe_name":"",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Miren-Kostanjevica",
+    "qs:a1_lc":"SVN-1032",
+    "qs:a1r":"Gori\u0161ka",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "qs:woeid":55848371,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "unlc:subdivision":"SI-075",
+    "wd:wordcount":241,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SIJ5",
+        "gn:id":3239080,
+        "gp:id":-55848371,
+        "hasc:id":"SI.SP.MK",
+        "unlc:id":"SI-075",
+        "wd:id":"Q658076"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f786c2ac2c7204790f5173de3d8f81e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677509
+        }
+    ],
+    "wof:id":85677509,
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616730,
+    "wof:name":"Miren-Kostanjevica",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:shortcode":"MK",
+    "wof:subdivision":"SI-075",
+    "wof:superseded_by":[
+        1108959481
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.56597253420512,
+    45.81902805759881,
+    13.70916873544883,
+    45.9123274993147
+],
+  "geometry": {"coordinates":[[[13.64695031060842,45.89719879808609],[13.63950890541173,45.89262543431641],[13.63392785039002,45.89169525832955],[13.62555626830721,45.89115265597036],[13.62059533001053,45.88921478873158],[13.6204403012789,45.88603668894211],[13.62927697135518,45.87900869399607],[13.6391988461499,45.87430613901716],[13.66529544432933,45.86802745200538],[13.67924808143385,45.8685183784205],[13.70916873544883,45.86500438094748],[13.70637820838766,45.84642670322984],[13.70064212373507,45.84288686823442],[13.69397586399498,45.83629812286011],[13.6820386075957,45.83167308224699],[13.67010135299512,45.82260386817404],[13.64896569221298,45.82004588510955],[13.59201826313239,45.82118276577205],[13.57417220188563,45.81902805759881],[13.56597253420512,45.8303303036007],[13.56927982610313,45.86454010144456],[13.59930624218936,45.9123274993147],[13.61361901190793,45.90402008745713],[13.64695031060842,45.89719879808609]]],"type":"Polygon"}
+}

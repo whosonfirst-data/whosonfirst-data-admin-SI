@@ -1,0 +1,74 @@
+{
+  "id": 1193052909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.8325,46.12367,13.8325,46.12367",
+    "geom:latitude":46.12367,
+    "geom:longitude":13.8325,
+    "gn:admin1_code":"D2",
+    "gn:asciiname":"Pecine",
+    "gn:country_code":"SI",
+    "gn:dem":620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987408,
+    "gn:latitude":46.12367,
+    "gn:longitude":13.8325,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Pe\u010dine",
+    "gn:population":158,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pe\u010dine"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959617,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987408,
+        "wk:page":"Pe%C4%8Dine"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"11ec7fea0f2c79e63663cad1fa2c325b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959617,
+            "locality_id":1193052909,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1193052909,
+    "wof:lastmodified":1537700286,
+    "wof:name":"Pecine",
+    "wof:parent_id":1108959617,
+    "wof:placetype":"locality",
+    "wof:population":158,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.8325,
+    46.12367,
+    13.8325,
+    46.12367
+],
+  "geometry": {"coordinates":[13.8325,46.12367],"type":"Point"}
+}

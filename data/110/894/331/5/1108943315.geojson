@@ -1,0 +1,66 @@
+{
+  "id": 1108943315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.6152328962,46.0133927144,14.6152328962,46.0133927144",
+    "geom:latitude":46.013393,
+    "geom:longitude":14.615233,
+    "iso:country":"SI",
+    "lbl:latitude":46.013393,
+    "lbl:longitude":14.615233,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:slv_x_preferred":[
+        "\u0160entpavel"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        1108959949,
+        102191581,
+        1108959501,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"SI",
+    "wof:created":1491363655,
+    "wof:geomhash":"f74af8b708d3ad84298333b6aec14517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959501,
+            "locality_id":-1,
+            "neighbourhood_id":1108943315,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1108943315,
+    "wof:lastmodified":1531170289,
+    "wof:name":"Sentpavel",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.61523289621131,
+    46.01339271436555,
+    14.61523289621131,
+    46.01339271436555
+],
+  "geometry": {"coordinates":[14.61523289621131,46.01339271436555],"type":"Point"}
+}

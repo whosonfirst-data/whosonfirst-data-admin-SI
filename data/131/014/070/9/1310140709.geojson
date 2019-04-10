@@ -1,0 +1,71 @@
+{
+  "id": 1310140709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.93011,45.94557,14.93011,45.94557",
+    "geom:latitude":45.94557,
+    "geom:longitude":14.93011,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Potok",
+    "gn:country_code":"SI",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989143,
+    "gn:latitude":45.94557,
+    "gn:longitude":14.93011,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Potok",
+    "gn:population":16,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959839,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989143,
+        "wk:page":"Potok%2C_Trebnje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"58c1408eec88f959cdb8b0c1ea25234d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959839,
+            "locality_id":1310140709,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1310140709,
+    "wof:lastmodified":1537573533,
+    "wof:name":"Potok",
+    "wof:parent_id":1108959839,
+    "wof:placetype":"locality",
+    "wof:population":16,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.93011,
+    45.94557,
+    14.93011,
+    45.94557
+],
+  "geometry": {"coordinates":[14.93011,45.94557],"type":"Point"}
+}

@@ -1,0 +1,185 @@
+{
+  "id": 85677999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.015754,
+    "geom:area_square_m":135466157.19269,
+    "geom:bbox":"14.5910270518,45.874771227,14.7517924328,46.0111453313",
+    "geom:latitude":45.93984,
+    "geom:longitude":14.670402,
+    "gn:population":19204,
+    "iso:country":"SI",
+    "lbl:latitude":45.939502,
+    "lbl:longitude":14.663895,
+    "mps:latitude":45.939502,
+    "mps:longitude":14.663895,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ces_x_preferred":[
+        "Ob\u010dina Grosuplje"
+    ],
+    "name:eng_x_preferred":[
+        "Grosuplje"
+    ],
+    "name:hbs_x_preferred":[
+        "Grosuplje"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Grosuplje"
+    ],
+    "name:nld_x_preferred":[
+        "Grosuplje"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Grosuplje"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Grosuplje"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Grosuplje"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0413\u0440\u043e\u0441\u0443\u043f\u0459\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u043e\u0441\u0443\u043f\u043b\u0454"
+    ],
+    "name:und_x_preferred":[
+        "Grosuplje"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Grosuplje"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-950",
+    "ne:adm1_code":"SVN-950",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SI.LJ.GR",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"950",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SI32",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.32",
+    "ne:gn_id":"3199522",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Grosuplje",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI32",
+    "ne:gns_id":"-82416",
+    "ne:gns_lang":"sqi",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Grosuplje, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"45.94210000000",
+    "ne:longitude":"14.67140000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Grosuplje",
+    "ne:name_alt":"",
+    "ne:name_len":9,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"GR",
+    "ne:provnum_ne":"107",
+    "ne:region":"Osrednjeslovenska",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":55848349,
+    "ne:woe_label":"Grosuplje, SI, Slovenia",
+    "ne:woe_name":"Grosuplje",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Grosuplje",
+    "qs:a1_lc":"SVN-950",
+    "qs:a1r":"Osrednjeslovenska",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":81,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SI32",
+        "gn:id":3199522,
+        "gp:id":55848349,
+        "hasc:id":"SI.LJ.GR",
+        "qs:id":1104104,
+        "wd:id":"Q13377778",
+        "wk:page":"Municipality of Grosuplje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"cbd9f619e4166cf7234fdcd957a3ed8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677999
+        }
+    ],
+    "wof:id":85677999,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616733,
+    "wof:name":"Grosuplje",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:population":19204,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[
+        1108959533
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.59102705175707,
+    45.87477122701057,
+    14.75179243277461,
+    46.01114533129208
+],
+  "geometry": {"coordinates":[[[14.74016523563716,45.99814870949541],[14.73318891843388,45.98207733799882],[14.71747928214319,45.96574758588241],[14.71484378381365,45.95259593445485],[14.71840945813005,45.95213084646144],[14.72895144964974,45.94928864255684],[14.73318891843388,45.9470148794332],[14.73380903515891,45.94461192510033],[14.73225874244707,45.9411754419931],[14.73442915188389,45.93528432950825],[14.73659956222008,45.927067776157],[14.75024214006277,45.90789582013605],[14.74993208170025,45.90321910357881],[14.7474516130016,45.89699209251114],[14.74729658426998,45.89244456626375],[14.75179243277461,45.88329783782501],[14.73132856556089,45.87642487250992],[14.7230603371649,45.87642487250992],[14.68476810106705,45.88577830742298],[14.67810184132696,45.88872386321577],[14.67169396310595,45.89011912719604],[14.66456261627178,45.88867218727165],[14.65975670670667,45.88329783782501],[14.64022301637914,45.87477122701057],[14.62596032091216,45.88624339541644],[14.62161950023977,45.89456329975656],[14.60094892655178,45.90887767206698],[14.59164717028074,45.92874726007807],[14.59536787332877,45.96034739801405],[14.59474775570442,45.96884817220541],[14.59102705175707,45.98013947255868],[14.59428266771101,45.98473867385076],[14.59738325403401,45.9878909370172],[14.60032880982675,45.9893895528856],[14.60389448414315,45.9917408312744],[14.60652998157343,45.99155996412111],[14.61619347484901,45.99667593025003],[14.630611199947,45.98923452415403],[14.66068688269354,45.98980296493494],[14.67686160697764,45.99623668157767],[14.6825976898316,46.00044831014145],[14.68647342340984,46.00515086512036],[14.7012012059709,46.01093862571707],[14.70972781678535,46.01114533129208],[14.71530887180705,46.00923330337429],[14.72461062987674,46.00380727798353],[14.74016523563716,45.99814870949541]]],"type":"Polygon"}
+}

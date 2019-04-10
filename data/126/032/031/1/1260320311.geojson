@@ -1,0 +1,74 @@
+{
+  "id": 1260320311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.85845,45.87349,14.85845,45.87349",
+    "geom:latitude":45.87349,
+    "geom:longitude":14.85845,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Tolcane",
+    "gn:country_code":"SI",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988617,
+    "gn:latitude":45.87349,
+    "gn:longitude":14.85845,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Tol\u010dane",
+    "gn:population":40,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tol\u010dane"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959583,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988617,
+        "wk:page":"Tol%C4%8Dane"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d64a8d4cf5e94d8e931bc7f838e8f058",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959583,
+            "locality_id":1260320311,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1260320311,
+    "wof:lastmodified":1537700310,
+    "wof:name":"Tolcane",
+    "wof:parent_id":1108959583,
+    "wof:placetype":"locality",
+    "wof:population":40,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.85845,
+    45.87349,
+    14.85845,
+    45.87349
+],
+  "geometry": {"coordinates":[14.85845,45.87349],"type":"Point"}
+}

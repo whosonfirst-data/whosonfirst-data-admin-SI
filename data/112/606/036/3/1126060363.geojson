@@ -1,0 +1,93 @@
+{
+  "id": 1126060363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.08361,46.47194,15.08361,46.47194",
+    "geom:latitude":46.47194,
+    "geom:longitude":15.08361,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":951,
+    "gn:population":946,
+    "iso:country":"SI",
+    "lbl:latitude":46.47194,
+    "lbl:longitude":15.08361,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Podgorje pri Slovenj Gradcu"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3193033,
+    "qs_pg:gn_pop":951,
+    "qs_pg:name":"Podgorje",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Slovenj Gradec",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":926553,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":531095,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Slovenj Gradec",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959645,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193033,
+        "gp:id":531095,
+        "qs_pg:id":926553
+    },
+    "wof:country":"SI",
+    "wof:created":1497304117,
+    "wof:geomhash":"93d7d6b77ac52c0d177067b43e59bbc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959645,
+            "locality_id":1126060363,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1126060363,
+    "wof:lastmodified":1531170446,
+    "wof:name":"Podgorje",
+    "wof:parent_id":1108959645,
+    "wof:placetype":"locality",
+    "wof:population":946,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.08361,
+    46.47194,
+    15.08361,
+    46.47194
+],
+  "geometry": {"coordinates":[15.08361,46.47194],"type":"Point"}
+}

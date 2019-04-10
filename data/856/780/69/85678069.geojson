@@ -1,0 +1,211 @@
+{
+  "id": 85678069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.008734,
+    "geom:area_square_m":74771624.635889,
+    "geom:bbox":"14.6504549504,46.1439537622,14.901705763,46.2086784941",
+    "geom:latitude":46.181359,
+    "geom:longitude":14.767933,
+    "iso:country":"SI",
+    "lbl:latitude":46.177632,
+    "lbl:longitude":14.713685,
+    "mps:latitude":46.177632,
+    "mps:longitude":14.713685,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:bos_x_preferred":[
+        "Lukovica"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u010dina Lukovica"
+    ],
+    "name:deu_x_preferred":[
+        "Lukovica"
+    ],
+    "name:eng_x_preferred":[
+        "Lukovica"
+    ],
+    "name:eng_x_variant":[
+        "Municipality of Lukovica"
+    ],
+    "name:fra_x_preferred":[
+        "Lukovica"
+    ],
+    "name:hbs_x_preferred":[
+        "Lukovica"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Lukovica"
+    ],
+    "name:ita_x_preferred":[
+        "Lukovica"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30eb\u30b3\u30f4\u30a3\u30c4\u30a1"
+    ],
+    "name:kor_x_preferred":[
+        "\ub8e8\ucf54\ube44\ucc28"
+    ],
+    "name:nld_x_preferred":[
+        "Lukovica"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Lukovica"
+    ],
+    "name:por_x_preferred":[
+        "Lukovica"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Lukovica"
+    ],
+    "name:sco_x_preferred":[
+        "Municipality o Lukovica"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Lukovica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041b\u0443\u043a\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Lukovica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u043a\u043e\u0432\u0438\u0446\u044f"
+    ],
+    "name:und_x_preferred":[
+        "Kamnik"
+    ],
+    "name:unk_x_variant":[
+        "Ob\u010dina Lukovica"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-966",
+    "ne:adm1_code":"SVN-966",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SI.LJ.LU",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"966",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SI68",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.68",
+    "ne:gn_id":"3239188",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Lukovica",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI68",
+    "ne:gns_id":"243862",
+    "ne:gns_lang":"slv",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Lukovica, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"46.18270000000",
+    "ne:longitude":"14.77610000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Lukovica",
+    "ne:name_alt":"",
+    "ne:name_len":8,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"LU",
+    "ne:provnum_ne":"149",
+    "ne:region":"Osrednjeslovenska",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":-55848355,
+    "ne:woe_label":"",
+    "ne:woe_name":"",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Lukovica",
+    "qs:a1_lc":"SVN-966",
+    "qs:a1r":"Osrednjeslovenska",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "qs:woeid":55848355,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "unlc:subdivision":"SI-068",
+    "wd:wordcount":72,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SI68",
+        "gn:id":3239188,
+        "gp:id":-55848355,
+        "hasc:id":"SI.LJ.LU",
+        "unlc:id":"SI-068",
+        "wd:id":"Q946766"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d66533ed66a7f45fd9224c287368a10f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85678069
+        }
+    ],
+    "wof:id":85678069,
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616733,
+    "wof:name":"Lukovica",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:shortcode":"LU",
+    "wof:subdivision":"SI-068",
+    "wof:superseded_by":[
+        1108959807
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.65045495043569,
+    46.14395376215646,
+    14.90170576301063,
+    46.20867849411724
+],
+  "geometry": {"coordinates":[[[14.82842858181363,46.16028351517213],[14.80455407081377,46.1651927757261],[14.7721012712567,46.1683708773142],[14.72988162563655,46.16224721903399],[14.71112308076562,46.15186025714519],[14.68383792508024,46.14395376215646],[14.6760864597224,46.15074921310577],[14.66797326005798,46.15242869702678],[14.66440758574151,46.15377228506298],[14.66130700031783,46.15645945933665],[14.65851647325667,46.15930166324119],[14.65510582857121,46.16087779437476],[14.65154015515407,46.16147207357739],[14.65045495043569,46.16457265900107],[14.65247033024161,46.17030874275434],[14.66347741065402,46.1857083197832],[14.683062777825,46.1991700304726],[14.71592898943135,46.20219310242976],[14.73504926860892,46.19764557618242],[14.74869184735093,46.19599192978376],[14.76977583218894,46.19591441541797],[14.78579552594283,46.19976430877585],[14.8989152359494,46.20867849411724],[14.90170576301063,46.19097931644234],[14.89266238825866,46.17924876651739],[14.88568606925674,46.17728506085695],[14.81990197099924,46.17191071230957],[14.81680138467624,46.17051544922867],[14.81819664865645,46.1687584500425],[14.82501793802749,46.1660195989254],[14.82842858181363,46.16028351517213]]],"type":"Polygon"}
+}

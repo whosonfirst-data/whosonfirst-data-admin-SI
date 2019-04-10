@@ -1,0 +1,71 @@
+{
+  "id": 1243206437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.67629,46.15475,14.67629,46.15475",
+    "geom:latitude":46.15475,
+    "geom:longitude":14.67629,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Imovica",
+    "gn:country_code":"SI",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987600,
+    "gn:latitude":46.15475,
+    "gn:longitude":14.67629,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Imovica",
+    "gn:population":125,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959807,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987600,
+        "wk:page":"Imovica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2c3a116b91d9fb07b2b7002440a24ebe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959807,
+            "locality_id":1243206437,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1243206437,
+    "wof:lastmodified":1537573485,
+    "wof:name":"Imovica",
+    "wof:parent_id":1108959807,
+    "wof:placetype":"locality",
+    "wof:population":125,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.67629,
+    46.15475,
+    14.67629,
+    46.15475
+],
+  "geometry": {"coordinates":[14.67629,46.15475],"type":"Point"}
+}

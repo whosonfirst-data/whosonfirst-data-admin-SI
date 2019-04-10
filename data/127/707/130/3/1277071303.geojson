@@ -1,0 +1,71 @@
+{
+  "id": 1277071303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.52466,46.0203,13.52466,46.0203",
+    "geom:latitude":46.0203,
+    "geom:longitude":13.52466,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Gradno",
+    "gn:country_code":"SI",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988418,
+    "gn:latitude":46.0203,
+    "gn:longitude":13.52466,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Gradno",
+    "gn:population":51,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959811,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988418,
+        "wk:page":"Gradno"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8d5f24982c1f386be15667817cb531e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959811,
+            "locality_id":1277071303,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1277071303,
+    "wof:lastmodified":1537573511,
+    "wof:name":"Gradno",
+    "wof:parent_id":1108959811,
+    "wof:placetype":"locality",
+    "wof:population":51,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.52466,
+    46.0203,
+    13.52466,
+    46.0203
+],
+  "geometry": {"coordinates":[13.52466,46.0203],"type":"Point"}
+}

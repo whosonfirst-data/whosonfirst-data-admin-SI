@@ -1,0 +1,75 @@
+{
+  "id": 1326959725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.81833,46.04722,14.81833,46.04722",
+    "geom:latitude":46.04722,
+    "geom:longitude":14.81833,
+    "gn:admin1_code":"L9",
+    "gn:asciiname":"Zavrstnik",
+    "gn:country_code":"SI",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186698,
+    "gn:latitude":46.04722,
+    "gn:longitude":14.81833,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Zavrstnik",
+    "gn:population":364,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zavrsnik",
+        "Zavrstnik"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959745,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186698,
+        "wk:page":"Zavrstnik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ae865291f8b6023dd51b796634f968af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959745,
+            "locality_id":1326959725,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1326959725,
+    "wof:lastmodified":1537700170,
+    "wof:name":"Zavrstnik",
+    "wof:parent_id":1108959745,
+    "wof:placetype":"locality",
+    "wof:population":364,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.81833,
+    46.04722,
+    14.81833,
+    46.04722
+],
+  "geometry": {"coordinates":[14.81833,46.04722],"type":"Point"}
+}

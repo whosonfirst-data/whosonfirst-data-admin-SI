@@ -1,0 +1,75 @@
+{
+  "id": 1193012863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.55052,46.00422,13.55052,46.00422",
+    "geom:latitude":46.00422,
+    "geom:longitude":13.55052,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Smartno",
+    "gn:country_code":"SI",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190502,
+    "gn:latitude":46.00422,
+    "gn:longitude":13.55052,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"\u0160martno",
+    "gn:population":199,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Martino",
+        "\u0160martno"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959811,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190502,
+        "wk:page":"%C5%A0martno%2C_Brda"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"49915f7b36e1b760074372e7bbf48cf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959811,
+            "locality_id":1193012863,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1193012863,
+    "wof:lastmodified":1537700191,
+    "wof:name":"Smartno",
+    "wof:parent_id":1108959811,
+    "wof:placetype":"locality",
+    "wof:population":199,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.55052,
+    46.00422,
+    13.55052,
+    46.00422
+],
+  "geometry": {"coordinates":[13.55052,46.00422],"type":"Point"}
+}

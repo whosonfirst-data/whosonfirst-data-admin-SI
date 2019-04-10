@@ -1,0 +1,71 @@
+{
+  "id": 1292925765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.64286,45.86689,15.64286,45.86689",
+    "geom:latitude":45.86689,
+    "geom:longitude":15.64286,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Cirnik",
+    "gn:country_code":"SI",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987810,
+    "gn:latitude":45.86689,
+    "gn:longitude":15.64286,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Cirnik",
+    "gn:population":101,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987810,
+        "wk:page":"Cirnik%2C_Bre%C5%BEice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4c92bcf0b0b744525a6a252722dd64b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1292925765,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1292925765,
+    "wof:lastmodified":1537573492,
+    "wof:name":"Cirnik",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:population":101,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.64286,
+    45.86689000000001,
+    15.64286,
+    45.86689000000001
+],
+  "geometry": {"coordinates":[15.64286,45.86689000000001],"type":"Point"}
+}

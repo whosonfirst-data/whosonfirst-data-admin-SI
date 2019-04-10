@@ -1,0 +1,77 @@
+{
+  "id": 1193054205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.17806,46.68028,16.17806,46.68028",
+    "geom:latitude":46.68028,
+    "geom:longitude":16.17806,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Nemcavci",
+    "gn:country_code":"SI",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194546,
+    "gn:latitude":46.68028,
+    "gn:longitude":16.17806,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Nem\u010davci",
+    "gn:population":245,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lendvanemesd",
+        "Nem\u010devci",
+        "Nemesd",
+        "Nem\u010davci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959483,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194546,
+        "wk:page":"Nem%C4%8Davci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ccaf772e91b0eb28ce8222a17d93a502",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959483,
+            "locality_id":1193054205,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1193054205,
+    "wof:lastmodified":1537700216,
+    "wof:name":"Nemcavci",
+    "wof:parent_id":1108959483,
+    "wof:placetype":"locality",
+    "wof:population":245,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.17806,
+    46.68028,
+    16.17806,
+    46.68028
+],
+  "geometry": {"coordinates":[16.17806,46.68028],"type":"Point"}
+}

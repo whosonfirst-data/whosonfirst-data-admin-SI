@@ -1,0 +1,181 @@
+{
+  "id": 85678113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.025815,
+    "geom:area_square_m":223016604.83014,
+    "geom:bbox":"14.0625321794,45.6227969431,14.4262309102,45.7541067572",
+    "geom:latitude":45.681034,
+    "geom:longitude":14.23282,
+    "iso:country":"SI",
+    "lbl:latitude":45.68023,
+    "lbl:longitude":14.235599,
+    "mps:latitude":45.68023,
+    "mps:longitude":14.235599,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:eng_x_preferred":[
+        "Pivka"
+    ],
+    "name:eng_x_variant":[
+        "Municipality of Pivka"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Pivka"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d4\u30d5\u30ab"
+    ],
+    "name:kor_x_preferred":[
+        "\ud53c\ube0c\uce74"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Pivka"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Pivka"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0438\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_preferred":[
+        "Postojna"
+    ],
+    "name:unk_x_variant":[
+        "Ob\u010dina Pivka"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ae\u592b\u5361"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-977",
+    "ne:adm1_code":"SVN-977",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SI.SP.PI",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"977",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SI91",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.91",
+    "ne:gn_id":"3239054",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Pivka",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI91",
+    "ne:gns_id":"243443",
+    "ne:gns_lang":"div",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Pivka, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"45.68340000000",
+    "ne:longitude":"14.24440000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Pivka",
+    "ne:name_alt":"Kra\u0161ka, Notranj",
+    "ne:name_len":5,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"NO",
+    "ne:provnum_ne":"166",
+    "ne:region":"Notranjsko-kra\u0161ka",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Statisticna Regije",
+    "ne:type_en":"Statistical Region",
+    "ne:wikipedia":"",
+    "ne:woe_id":-55848376,
+    "ne:woe_label":"",
+    "ne:woe_name":"",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Pivka",
+    "qs:a1_lc":"SVN-977",
+    "qs:a1r":"Notranjsko-kra\u0161ka",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Statistical Region",
+    "qs:woeid":55848376,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "unlc:subdivision":"SI-091",
+    "wd:wordcount":455,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SI91",
+        "gn:id":3239054,
+        "gp:id":-55848376,
+        "hasc:id":"SI.SP.PI",
+        "unlc:id":"SI-091",
+        "wd:id":"Q3501699"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ce8484fa738653f956a5038374f53a47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85678113
+        }
+    ],
+    "wof:id":85678113,
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616734,
+    "wof:name":"Pivka",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:shortcode":"PI",
+    "wof:subdivision":"SI-091",
+    "wof:superseded_by":[
+        1108959587
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.06253217941662,
+    45.62279694312446,
+    14.42623091022836,
+    45.75410675722111
+],
+  "geometry": {"coordinates":[[[14.3861816749444,45.70749461498457],[14.39336469862201,45.68930451089449],[14.41661909289689,45.67075267249788],[14.42576582223495,45.66160594315983],[14.42623091022836,45.64403595579478],[14.37858523921744,45.65199412672763],[14.36912845241619,45.65969391524203],[14.34726932122226,45.67219961242222],[14.33264489144864,45.67188955316038],[14.3284591004072,45.67064931881106],[14.33078453857564,45.66760041023082],[14.32830407077631,45.66387970628347],[14.31698693200138,45.65948721056634],[14.28551598527457,45.65504303620719],[14.24655195470899,45.6441393094816],[14.23787031426366,45.6406769879527],[14.22670820511962,45.63333893554352],[14.21564944786377,45.6313235539389],[14.19410037593167,45.62951487880866],[14.15188073121084,45.6314269067264],[14.1275411313182,45.63039337795209],[14.11028120321498,45.62600088223496],[14.10283979711897,45.62279694312446],[14.09059248235724,45.62424388304879],[14.0798954612066,45.62791291015276],[14.07958540194477,45.62961823249549],[14.08315107626123,45.63556102182378],[14.07788007960204,45.64543121977505],[14.07276411257379,45.65302765640126],[14.06919843915671,45.65969391524203],[14.06857832243168,45.67359487640249],[14.06454756012187,45.67969269536167],[14.06253217941662,45.68646230698994],[14.06470258975276,45.69354197877936],[14.07167890785536,45.7026887072181],[14.08315107626123,45.70651276305364],[14.09338301031772,45.71429006593382],[14.11715416763076,45.70677114547203],[14.13389733179645,45.70361888320497],[14.14986534960627,45.70367055914903],[14.17224124473768,45.70682282231547],[14.20169681165856,45.71630544753845],[14.21968021017364,45.71710643231603],[14.25647383040302,45.72674408627063],[14.27151167222593,45.73485728593505],[14.32318810374807,45.75410675722111],[14.32768395405128,45.73981822423173],[14.3861816749444,45.70749461498457]]],"type":"Polygon"}
+}

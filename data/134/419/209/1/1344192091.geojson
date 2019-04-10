@@ -1,0 +1,74 @@
+{
+  "id": 1344192091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.44006,46.12664,15.44006,46.12664",
+    "geom:latitude":46.12664,
+    "geom:longitude":15.44006,
+    "gn:admin1_code":"L7",
+    "gn:asciiname":"Hrusovje",
+    "gn:country_code":"SI",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989058,
+    "gn:latitude":46.12664,
+    "gn:longitude":15.44006,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Hru\u0161ovje",
+    "gn:population":20,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hru\u0161ovje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959791,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989058,
+        "wk:page":"Hru%C5%A1ovje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6e2c60ed4ff9ce814187c30180270e0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959791,
+            "locality_id":1344192091,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1344192091,
+    "wof:lastmodified":1537700319,
+    "wof:name":"Hrusovje",
+    "wof:parent_id":1108959791,
+    "wof:placetype":"locality",
+    "wof:population":20,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.44006,
+    46.12664,
+    15.44006,
+    46.12664
+],
+  "geometry": {"coordinates":[15.44006,46.12664],"type":"Point"}
+}

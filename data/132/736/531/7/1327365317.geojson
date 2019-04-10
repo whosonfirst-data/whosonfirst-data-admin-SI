@@ -1,0 +1,71 @@
+{
+  "id": 1327365317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.14831,45.69234,15.14831,45.69234",
+    "geom:latitude":45.69234,
+    "geom:longitude":15.14831,
+    "gn:admin1_code":"B1",
+    "gn:asciiname":"Gornje Laze",
+    "gn:country_code":"SI",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989617,
+    "gn:latitude":45.69234,
+    "gn:longitude":15.14831,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Gornje Laze",
+    "gn:population":27,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959601,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989617,
+        "wk:page":"Gornje_Laze"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ecfca16649ac174c4688b06e0aed8e5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959601,
+            "locality_id":1327365317,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1327365317,
+    "wof:lastmodified":1537573547,
+    "wof:name":"Gornje Laze",
+    "wof:parent_id":1108959601,
+    "wof:placetype":"locality",
+    "wof:population":27,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.14831,
+    45.69234,
+    15.14831,
+    45.69234
+],
+  "geometry": {"coordinates":[15.14831,45.69234],"type":"Point"}
+}

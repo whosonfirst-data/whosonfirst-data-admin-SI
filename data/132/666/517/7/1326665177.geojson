@@ -1,0 +1,74 @@
+{
+  "id": 1326665177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.39906,45.83145,15.39906,45.83145",
+    "geom:latitude":45.83145,
+    "geom:longitude":15.39906,
+    "gn:admin1_code":"O3",
+    "gn:asciiname":"Kocarija",
+    "gn:country_code":"SI",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988204,
+    "gn:latitude":45.83145,
+    "gn:longitude":15.39906,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ko\u010darija",
+    "gn:population":65,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ko\u010darija"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959835,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988204,
+        "wk:page":"Ko%C4%8Darija"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e79bb254741c413cae416f8b056b8a21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959835,
+            "locality_id":1326665177,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1326665177,
+    "wof:lastmodified":1537700301,
+    "wof:name":"Kocarija",
+    "wof:parent_id":1108959835,
+    "wof:placetype":"locality",
+    "wof:population":65,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.39906,
+    45.83145,
+    15.39906,
+    45.83145
+],
+  "geometry": {"coordinates":[15.39906,45.83145],"type":"Point"}
+}

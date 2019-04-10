@@ -1,0 +1,74 @@
+{
+  "id": 1327369731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.25573,46.35426,14.25573,46.35426",
+    "geom:latitude":46.35426,
+    "geom:longitude":14.25573,
+    "gn:admin1_code":"D5",
+    "gn:asciiname":"Lese",
+    "gn:country_code":"SI",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196649,
+    "gn:latitude":46.35426,
+    "gn:longitude":14.25573,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Le\u0161e",
+    "gn:population":212,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Le\u0161e"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959917,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196649,
+        "wk:page":"Le%C5%A1e%2C_Tr%C5%BEi%C4%8D"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fce6632eb5d0f231fd73a9ab4b392469",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959917,
+            "locality_id":1327369731,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1327369731,
+    "wof:lastmodified":1537700225,
+    "wof:name":"Lese",
+    "wof:parent_id":1108959917,
+    "wof:placetype":"locality",
+    "wof:population":212,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.25573,
+    46.35426,
+    14.25573,
+    46.35426
+],
+  "geometry": {"coordinates":[14.25573,46.35426],"type":"Point"}
+}

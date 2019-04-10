@@ -1,0 +1,67 @@
+{
+  "id": 1226334131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.55639,46.00472,13.55639,46.00472",
+    "geom:latitude":46.00472,
+    "geom:longitude":13.55639,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sveti Lovreno",
+    "gn:country_code":"SI",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218413,
+    "gn:latitude":46.00472,
+    "gn:longitude":13.55639,
+    "gn:modification_date":"2008-11-07",
+    "gn:name":"Sveti Lovreno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959811,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218413
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fae31a6bf183f3578e6779919529321f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959811,
+            "locality_id":1226334131,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1226334131,
+    "wof:lastmodified":1536806061,
+    "wof:name":"Sveti Lovreno",
+    "wof:parent_id":1108959811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.55639,
+    46.00472,
+    13.55639,
+    46.00472
+],
+  "geometry": {"coordinates":[13.55639,46.00472],"type":"Point"}
+}

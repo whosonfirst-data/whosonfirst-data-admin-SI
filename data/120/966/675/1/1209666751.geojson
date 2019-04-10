@@ -1,0 +1,69 @@
+{
+  "id": 1209666751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.15464,45.59161,14.15464,45.59161",
+    "geom:latitude":45.59161,
+    "geom:longitude":14.15464,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Celje",
+    "gn:country_code":"SI",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202782,
+    "gn:latitude":45.59161,
+    "gn:longitude":14.15464,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"\u010celje",
+    "gn:population":50,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ceglie",
+        "\u010celje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202782,
+        "wk:page":"%C4%8Celje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b59051159b7b228e0f2b0791f2df76db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209666751
+        }
+    ],
+    "wof:id":1209666751,
+    "wof:lastmodified":1537700258,
+    "wof:name":"Celje",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":50,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.15464,
+    45.59161,
+    14.15464,
+    45.59161
+],
+  "geometry": {"coordinates":[14.15464,45.59161],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209953595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.33333,45.91667,15.33333,45.91667",
+    "geom:latitude":45.91667,
+    "geom:longitude":15.33333,
+    "gn:admin1_code":"B8",
+    "gn:asciiname":"Strit",
+    "gn:country_code":"SI",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189722,
+    "gn:latitude":45.91667,
+    "gn:longitude":15.33333,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160trit",
+    "gn:population":81,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160trit"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959605,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189722,
+        "wk:page":"%C5%A0trit"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b6dacad21534c8f1e542d250eef4d9f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959605,
+            "locality_id":1209953595,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1209953595,
+    "wof:lastmodified":1537700185,
+    "wof:name":"Strit",
+    "wof:parent_id":1108959605,
+    "wof:placetype":"locality",
+    "wof:population":81,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.33333,
+    45.91667,
+    15.33333,
+    45.91667
+],
+  "geometry": {"coordinates":[15.33333,45.91667],"type":"Point"}
+}

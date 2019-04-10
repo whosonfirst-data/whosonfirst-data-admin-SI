@@ -1,0 +1,170 @@
+{
+  "id": 101845343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000047,
+    "geom:area_square_m":398980.693423,
+    "geom:bbox":"16.3836943671,46.679857987,16.3983446795,46.6933401607",
+    "geom:latitude":46.686339,
+    "geom:longitude":16.391272,
+    "gn:population":618,
+    "iso:country":"SI",
+    "lbl:latitude":46.688997,
+    "lbl:longitude":16.388719,
+    "mps:latitude":46.688997,
+    "mps:longitude":16.388719,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ces_x_preferred":[
+        "Ob\u010dina Kobilje"
+    ],
+    "name:deu_x_preferred":[
+        "Kobilje"
+    ],
+    "name:deu_x_variant":[
+        "Brezovica"
+    ],
+    "name:dut_x_preferred":[
+        "Brezovica"
+    ],
+    "name:eng_x_preferred":[
+        "Kobilje"
+    ],
+    "name:epo_x_preferred":[
+        "Brezovica"
+    ],
+    "name:est_x_preferred":[
+        "Kobilje vald"
+    ],
+    "name:fra_x_preferred":[
+        "Kobilje"
+    ],
+    "name:hbs_x_preferred":[
+        "Op\u0107ina Kobilje"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Kobilje"
+    ],
+    "name:hun_x_preferred":[
+        "Kebeleszentm\u00e1rton"
+    ],
+    "name:ita_x_preferred":[
+        "Kobilje"
+    ],
+    "name:ita_x_variant":[
+        "Brezovica"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30d3\u30ea\u30a7"
+    ],
+    "name:jpn_x_variant":[
+        "\u30d6\u30ec\u30be\u30f4\u30a3\u30c4\u30a1"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf54\ube4c\ub808"
+    ],
+    "name:nld_x_preferred":[
+        "Kobilje"
+    ],
+    "name:nld_x_variant":[
+        "Brezovica"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Kobilje"
+    ],
+    "name:por_x_preferred":[
+        "Kobilje"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Kobilje"
+    ],
+    "name:ron_x_variant":[
+        "Brezovica"
+    ],
+    "name:rum_x_preferred":[
+        "Brezovica"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Kobilje"
+    ],
+    "name:slv_x_variant":[
+        "Brezovica",
+        "Ob\u010dina Brezovica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041a\u043e\u0431\u0438\u0459\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Brezovica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0431\u0438\u043b\u0454"
+    ],
+    "name:unk_x_variant":[
+        "Kebeleszentm\u00e1rton"
+    ],
+    "name:vie_x_preferred":[
+        "Kobilje"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"Kobilje",
+    "qs:la_lc":"*SI047000",
+    "qs:level":"locality",
+    "qs:loc":"Kobilje",
+    "qs:loc_alt":"Kobilje",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959521,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197959,
+        "qs:id":1,
+        "wd:id":"Q842530",
+        "wk:page":"Kobilje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"db90ccd66bae0dce81536e887bc9d072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959521,
+            "locality_id":101845343,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":101845343,
+    "wof:lastmodified":1531170198,
+    "wof:name":"Kobilje",
+    "wof:parent_id":1108959521,
+    "wof:placetype":"locality",
+    "wof:population":618,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.38369436707205,
+    46.67985798700198,
+    16.39834467950777,
+    46.69334016071991
+],
+  "geometry": {"coordinates":[[[16.39834467950777,46.68165123202095],[16.39812779850024,46.67985798700198],[16.39552389380395,46.68001302032366],[16.39563228837795,46.68090964616761],[16.39433030907918,46.68098714073875],[16.39443868659168,46.68188376748441],[16.39313668206438,46.68196124783344],[16.39324504251368,46.68285787548041],[16.3919430127566,46.68293534160659],[16.39215970424658,46.68472859809225],[16.39085762747095,46.68480605150785],[16.3909659585093,46.68570268034642],[16.38966385650161,46.68578011953764],[16.38977217047056,46.68667674927769],[16.38847004323009,46.6867541742435],[16.38857834012794,46.68765080488475],[16.3872761876537,46.68772821562533],[16.3873844674788,46.68862484716766],[16.38608228977057,46.68870224368192],[16.38629881998975,46.69049550795768],[16.38369436707205,46.69065025981718],[16.38401906701102,46.69334016071991],[16.38532136058194,46.69326278812446],[16.38521310075328,46.69236615661282],[16.38651536908503,46.69228876978929],[16.38640709217776,46.69139213917902],[16.38901157492211,46.69123732133727],[16.38890325914281,46.69034069314102],[16.39020547355574,46.69026326212372],[16.38998881257078,46.68847000692318],[16.39129097995306,46.68839256319319],[16.39118263475018,46.68749593618907],[16.39248477689648,46.68741847823384],[16.39237641462427,46.68652185213159],[16.39367853153595,46.68644437995198],[16.39357015219599,46.68554775475155],[16.39487224387346,46.68547026834813],[16.39476384746769,46.68457364404981],[16.39606591391168,46.68449614342308],[16.3959575004418,46.68359952002709],[16.39725954165283,46.68352200517762],[16.39704268531426,46.68172875957816],[16.39834467950777,46.68165123202095]]],"type":"Polygon"}
+}

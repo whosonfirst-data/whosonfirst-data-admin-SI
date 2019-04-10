@@ -1,0 +1,74 @@
+{
+  "id": 1293620017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.46667,46.38333,15.46667,46.38333",
+    "geom:latitude":46.38333,
+    "geom:longitude":15.46667,
+    "gn:admin1_code":"J8",
+    "gn:asciiname":"Cadram",
+    "gn:country_code":"SI",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202912,
+    "gn:latitude":46.38333,
+    "gn:longitude":15.46667,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"\u010cadram",
+    "gn:population":265,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010cadram"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959737,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202912,
+        "wk:page":"%C4%8Cadram"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ebf3e23fdc6030d272939c8601258036",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959737,
+            "locality_id":1293620017,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1293620017,
+    "wof:lastmodified":1537700259,
+    "wof:name":"Cadram",
+    "wof:parent_id":1108959737,
+    "wof:placetype":"locality",
+    "wof:population":265,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.46667,
+    46.38333,
+    15.46667,
+    46.38333
+],
+  "geometry": {"coordinates":[15.46667,46.38333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293759921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.17204,45.57243,15.17204,45.57243",
+    "geom:latitude":45.57243,
+    "geom:longitude":15.17204,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Svibnik",
+    "gn:country_code":"SI",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987719,
+    "gn:latitude":45.57243,
+    "gn:longitude":15.17204,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Svibnik",
+    "gn:population":110,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959699,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987719
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"45a4dfa4f325fc06e3b1438e223ce76e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959699,
+            "locality_id":1293759921,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1293759921,
+    "wof:lastmodified":1536891116,
+    "wof:name":"Svibnik",
+    "wof:parent_id":1108959699,
+    "wof:placetype":"locality",
+    "wof:population":110,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.17204,
+    45.57243,
+    15.17204,
+    45.57243
+],
+  "geometry": {"coordinates":[15.17204,45.57243],"type":"Point"}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 1125866433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.50361,46.41611,15.50361,46.41611",
+    "geom:latitude":46.41611,
+    "geom:longitude":15.50361,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":41,
+    "iso:country":"SI",
+    "lbl:latitude":46.41611,
+    "lbl:longitude":15.50361,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Rep"
+    ],
+    "name:eng_x_preferred":[
+        "Rep"
+    ],
+    "name:rum_x_preferred":[
+        "Rep"
+    ],
+    "name:slv_x_preferred":[
+        "Rep"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u043f"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3217124,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Rep",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Slovenska Bistrica",
+    "qs_pg:photos":31,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":31,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1198613,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":55851164,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Slovenska Bistrica",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959641,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217124,
+        "gp:id":55851164,
+        "qs_pg:id":1198613,
+        "wd:id":"Q2561809"
+    },
+    "wof:country":"SI",
+    "wof:created":1497294063,
+    "wof:geomhash":"98c6942fd38b6ce0da7f9a6fdacf2dc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959641,
+            "locality_id":1125866433,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1125866433,
+    "wof:lastmodified":1531170953,
+    "wof:name":"Rep",
+    "wof:parent_id":1108959641,
+    "wof:placetype":"locality",
+    "wof:population":41,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.50361,
+    46.41611,
+    15.50361,
+    46.41611
+],
+  "geometry": {"coordinates":[15.50361,46.41611],"type":"Point"}
+}

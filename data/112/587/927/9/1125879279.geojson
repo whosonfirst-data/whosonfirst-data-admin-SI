@@ -1,0 +1,109 @@
+{
+  "id": 1125879279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.98278,46.38111,15.98278,46.38111",
+    "geom:latitude":46.38111,
+    "geom:longitude":15.98278,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":866,
+    "gn:population":869,
+    "iso:country":"SI",
+    "lbl:latitude":46.38111,
+    "lbl:longitude":15.98278,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Stojnci"
+    ],
+    "name:dut_x_preferred":[
+        "Stojnci"
+    ],
+    "name:eng_x_preferred":[
+        "Stojnci"
+    ],
+    "name:rum_x_preferred":[
+        "Stojnci"
+    ],
+    "name:slv_x_preferred":[
+        "Stojnci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u043e\u0439\u043d\u0446\u0456"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3189828,
+    "qs_pg:gn_pop":866,
+    "qs_pg:name":"Stojnci",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Ptuj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":22,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":963644,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":531782,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Ptuj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959779,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189828,
+        "gp:id":531782,
+        "qs_pg:id":963644,
+        "wd:id":"Q2736143"
+    },
+    "wof:country":"SI",
+    "wof:created":1497294711,
+    "wof:geomhash":"5df9f575cf851ab30d1b8b29105bbcb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959779,
+            "locality_id":1125879279,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1125879279,
+    "wof:lastmodified":1531170950,
+    "wof:name":"Stojnci",
+    "wof:parent_id":1108959779,
+    "wof:placetype":"locality",
+    "wof:population":869,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.98278,
+    46.38111,
+    15.98278,
+    46.38111
+],
+  "geometry": {"coordinates":[15.98278,46.38111],"type":"Point"}
+}

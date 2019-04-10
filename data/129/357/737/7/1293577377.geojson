@@ -1,0 +1,71 @@
+{
+  "id": 1293577377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.34592,46.25932,15.34592,46.25932",
+    "geom:latitude":46.25932,
+    "geom:longitude":15.34592,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Glinsko",
+    "gn:country_code":"SI",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988593,
+    "gn:latitude":46.25932,
+    "gn:longitude":15.34592,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Glinsko",
+    "gn:population":41,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959693,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988593,
+        "wk:page":"Glinsko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"57ea67fecac423ba572b24e198d2dc9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959693,
+            "locality_id":1293577377,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1293577377,
+    "wof:lastmodified":1537573516,
+    "wof:name":"Glinsko",
+    "wof:parent_id":1108959693,
+    "wof:placetype":"locality",
+    "wof:population":41,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.34592,
+    46.25932,
+    15.34592,
+    46.25932
+],
+  "geometry": {"coordinates":[15.34592,46.25932],"type":"Point"}
+}

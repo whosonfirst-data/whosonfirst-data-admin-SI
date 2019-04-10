@@ -1,0 +1,74 @@
+{
+  "id": 1226586737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.21914,45.60492,14.21914,45.60492",
+    "geom:latitude":45.60492,
+    "geom:longitude":14.21914,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Podstenjsek",
+    "gn:country_code":"SI",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989903,
+    "gn:latitude":45.60492,
+    "gn:longitude":14.21914,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Podstenj\u0161ek",
+    "gn:population":12,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Podstenj\u0161ek"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959873,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989903,
+        "wk:page":"Podstenj%C5%A1ek"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"400eb03fbc943ae064a18b17d8040a95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959873,
+            "locality_id":1226586737,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1226586737,
+    "wof:lastmodified":1537700335,
+    "wof:name":"Podstenjsek",
+    "wof:parent_id":1108959873,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.21914,
+    45.60492,
+    14.21914,
+    45.60492
+],
+  "geometry": {"coordinates":[14.21914,45.60492],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1344192263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.73639,45.94111,14.73639,45.94111",
+    "geom:latitude":45.94111,
+    "geom:longitude":14.73639,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Kriska Vas",
+    "gn:country_code":"SI",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197279,
+    "gn:latitude":45.94111,
+    "gn:longitude":14.73639,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kri\u0161ka Vas",
+    "gn:population":266,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kri\u017eka Vas",
+        "Kri\u0161ka Vas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959583,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197279,
+        "wk:page":"Kri%C5%A1ka_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3f6440b3689c2622a9e80f72d154be94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959583,
+            "locality_id":1344192263,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1344192263,
+    "wof:lastmodified":1537700229,
+    "wof:name":"Kriska Vas",
+    "wof:parent_id":1108959583,
+    "wof:placetype":"locality",
+    "wof:population":266,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.73639,
+    45.94111,
+    14.73639,
+    45.94111
+],
+  "geometry": {"coordinates":[14.73639,45.94111],"type":"Point"}
+}

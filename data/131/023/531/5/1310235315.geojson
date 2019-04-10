@@ -1,0 +1,71 @@
+{
+  "id": 1310235315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.86164,45.5468,13.86164,45.5468",
+    "geom:latitude":45.5468,
+    "geom:longitude":13.86164,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Krnica",
+    "gn:country_code":"SI",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988103,
+    "gn:latitude":45.5468,
+    "gn:longitude":13.86164,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Krnica",
+    "gn:population":73,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959527,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988103,
+        "wk:page":"Krnica%2C_Koper"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"38ffb0fa5a9fff7b569e26df5fb17ba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959527,
+            "locality_id":1310235315,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1310235315,
+    "wof:lastmodified":1537573502,
+    "wof:name":"Krnica",
+    "wof:parent_id":1108959527,
+    "wof:placetype":"locality",
+    "wof:population":73,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.86164,
+    45.5468,
+    13.86164,
+    45.5468
+],
+  "geometry": {"coordinates":[13.86164,45.5468],"type":"Point"}
+}

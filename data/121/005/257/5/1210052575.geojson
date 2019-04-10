@@ -1,0 +1,71 @@
+{
+  "id": 1210052575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.66581,46.15669,14.66581,46.15669",
+    "geom:latitude":46.15669,
+    "geom:longitude":14.66581,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Vrba",
+    "gn:country_code":"SI",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987930,
+    "gn:latitude":46.15669,
+    "gn:longitude":14.66581,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Vrba",
+    "gn:population":89,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959807,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987930,
+        "wk:page":"Vrba%2C_Lukovica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6f101144675732f6b6d0b34fe7386cb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959807,
+            "locality_id":1210052575,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1210052575,
+    "wof:lastmodified":1537573496,
+    "wof:name":"Vrba",
+    "wof:parent_id":1108959807,
+    "wof:placetype":"locality",
+    "wof:population":89,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.66581,
+    46.15669000000001,
+    14.66581,
+    46.15669000000001
+],
+  "geometry": {"coordinates":[14.66581,46.15669000000001],"type":"Point"}
+}

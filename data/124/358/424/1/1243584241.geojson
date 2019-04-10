@@ -1,0 +1,74 @@
+{
+  "id": 1243584241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.48333,46.33333,15.48333,46.33333",
+    "geom:latitude":46.33333,
+    "geom:longitude":15.48333,
+    "gn:admin1_code":"C4",
+    "gn:asciiname":"Draza Vas",
+    "gn:country_code":"SI",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201249,
+    "gn:latitude":46.33333,
+    "gn:longitude":15.48333,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Dra\u017ea Vas",
+    "gn:population":518,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dra\u017ea Vas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959753,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201249,
+        "wk:page":"Dra%C5%BEa_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b5d2e88d0c586896376fe8ffa3e7ca85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959753,
+            "locality_id":1243584241,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1243584241,
+    "wof:lastmodified":1537700250,
+    "wof:name":"Draza Vas",
+    "wof:parent_id":1108959753,
+    "wof:placetype":"locality",
+    "wof:population":518,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.48333,
+    46.33333,
+    15.48333,
+    46.33333
+],
+  "geometry": {"coordinates":[15.48333,46.33333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209887647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.08934,45.47037,15.08934,45.47037",
+    "geom:latitude":45.47037,
+    "geom:longitude":15.08934,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Gorenji Radenci",
+    "gn:country_code":"SI",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989696,
+    "gn:latitude":45.47037,
+    "gn:longitude":15.08934,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Gorenji Radenci",
+    "gn:population":26,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959699,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989696,
+        "wk:page":"Gorenji_Radenci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2cdb0a90fa33ad3c9e18524ea368aa75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959699,
+            "locality_id":1209887647,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1209887647,
+    "wof:lastmodified":1537573550,
+    "wof:name":"Gorenji Radenci",
+    "wof:parent_id":1108959699,
+    "wof:placetype":"locality",
+    "wof:population":26,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.08934,
+    45.47037,
+    15.08934,
+    45.47037
+],
+  "geometry": {"coordinates":[15.08934,45.47037],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1225978455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.12944,46.53583,16.12944,46.53583",
+    "geom:latitude":46.53583,
+    "geom:longitude":16.12944,
+    "gn:admin1_code":"I1",
+    "gn:asciiname":"Grabe pri Ljutomeru",
+    "gn:country_code":"SI",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215440,
+    "gn:latitude":46.53583,
+    "gn:longitude":16.12944,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Grabe pri Ljutomeru",
+    "gn:population":118,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grabe",
+        "Grabe pri Ljutomeru"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959775,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215440,
+        "wk:page":"Grabe_pri_Ljutomeru"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f5b9e3c409234add0916bc9dd8ba565f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959775,
+            "locality_id":1225978455,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1225978455,
+    "wof:lastmodified":1537700268,
+    "wof:name":"Grabe pri Ljutomeru",
+    "wof:parent_id":1108959775,
+    "wof:placetype":"locality",
+    "wof:population":118,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.12944,
+    46.53583,
+    16.12944,
+    46.53583
+],
+  "geometry": {"coordinates":[16.12944,46.53583],"type":"Point"}
+}

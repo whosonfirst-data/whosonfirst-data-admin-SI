@@ -1,0 +1,71 @@
+{
+  "id": 1343592111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.04077,45.99823,15.04077,45.99823",
+    "geom:latitude":45.99823,
+    "geom:longitude":15.04077,
+    "gn:admin1_code":"P2",
+    "gn:asciiname":"Zaloka",
+    "gn:country_code":"SI",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988541,
+    "gn:latitude":45.99823,
+    "gn:longitude":15.04077,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Zaloka",
+    "gn:population":45,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959841,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988541,
+        "wk:page":"Zaloka"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fa38262f931e2c154e74f2808d62e790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959841,
+            "locality_id":1343592111,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1343592111,
+    "wof:lastmodified":1537573515,
+    "wof:name":"Zaloka",
+    "wof:parent_id":1108959841,
+    "wof:placetype":"locality",
+    "wof:population":45,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.04077,
+    45.99823,
+    15.04077,
+    45.99823
+],
+  "geometry": {"coordinates":[15.04077,45.99823],"type":"Point"}
+}

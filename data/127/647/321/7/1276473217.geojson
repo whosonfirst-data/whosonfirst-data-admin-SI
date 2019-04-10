@@ -1,0 +1,74 @@
+{
+  "id": 1276473217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.13437,45.6838,15.13437,45.6838",
+    "geom:latitude":45.6838,
+    "geom:longitude":15.13437,
+    "gn:admin1_code":"B1",
+    "gn:asciiname":"Hrib pri Roznem Dolu",
+    "gn:country_code":"SI",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989415,
+    "gn:latitude":45.6838,
+    "gn:longitude":15.13437,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Hrib pri Ro\u017enem Dolu",
+    "gn:population":1,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hrib pri Ro\u017enem Dolu"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959601,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989415,
+        "wk:page":"Hrib_pri_Ro%C5%BEnem_Dolu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1d07d841ef32ffd9bde600175f23b343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959601,
+            "locality_id":1276473217,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1276473217,
+    "wof:lastmodified":1537700326,
+    "wof:name":"Hrib pri Roznem Dolu",
+    "wof:parent_id":1108959601,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.13437,
+    45.6838,
+    15.13437,
+    45.6838
+],
+  "geometry": {"coordinates":[15.13437,45.6838],"type":"Point"}
+}

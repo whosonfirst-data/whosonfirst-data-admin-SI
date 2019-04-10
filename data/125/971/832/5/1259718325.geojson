@@ -1,0 +1,71 @@
+{
+  "id": 1259718325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.23657,46.3569,14.23657,46.3569",
+    "geom:latitude":46.3569,
+    "geom:longitude":14.23657,
+    "gn:admin1_code":"A3",
+    "gn:asciiname":"Mlaka",
+    "gn:country_code":"SI",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988881,
+    "gn:latitude":46.3569,
+    "gn:longitude":14.23657,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Mlaka",
+    "gn:population":28,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959825,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988881,
+        "wk:page":"Mlaka%2C_Radovljica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8940422f48a20138a600e96c4149192e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959825,
+            "locality_id":1259718325,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1259718325,
+    "wof:lastmodified":1537573525,
+    "wof:name":"Mlaka",
+    "wof:parent_id":1108959825,
+    "wof:placetype":"locality",
+    "wof:population":28,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.23657,
+    46.3569,
+    14.23657,
+    46.3569
+],
+  "geometry": {"coordinates":[14.23657,46.3569],"type":"Point"}
+}

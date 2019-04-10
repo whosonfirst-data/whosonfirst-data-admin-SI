@@ -1,0 +1,182 @@
+{
+  "id": 85677657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.037037,
+    "geom:area_square_m":319346237.784252,
+    "geom:bbox":"15.0580786483,45.6819147807,15.3310312827,45.9243547635",
+    "geom:latitude":45.78887,
+    "geom:longitude":15.197904,
+    "gn:population":36296,
+    "iso:country":"SI",
+    "lbl:latitude":45.782345,
+    "lbl:longitude":15.188587,
+    "mps:latitude":45.782345,
+    "mps:longitude":15.188587,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ces_x_preferred":[
+        "M\u011bstsk\u00e1 ob\u010dina Novo mesto"
+    ],
+    "name:eng_x_preferred":[
+        "Novo Mesto"
+    ],
+    "name:hbs_x_preferred":[
+        "Novo mesto"
+    ],
+    "name:hrv_x_preferred":[
+        "Gradska op\u0107ina Novo Mesto"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna urban\u0103 Novo mesto"
+    ],
+    "name:sco_x_preferred":[
+        "Ceety Municipality o Novo Mesto"
+    ],
+    "name:slv_x_preferred":[
+        "Mestna ob\u010dina Novo mesto"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041d\u043e\u0432\u043e \u041c\u0435\u0441\u0442\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u043e \u041c\u0435\u0441\u0442\u043e"
+    ],
+    "name:und_x_preferred":[
+        "Novo Mesto"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Novo Mesto"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-212",
+    "ne:adm1_code":"SVN-212",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SI.DO.NM",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"212",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SIJ7",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.J7",
+    "ne:gn_id":"3194350",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Mestna Obcina Novo mesto",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI22",
+    "ne:gns_id":"-90333",
+    "ne:gns_lang":"sqi",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Novo Mesto, Mestna Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"45.77790000000",
+    "ne:longitude":"15.19450000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Novo Mesto",
+    "ne:name_alt":"",
+    "ne:name_len":10,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"NM",
+    "ne:provnum_ne":"60",
+    "ne:region":"Jugovzhodna Slovenija",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":55848372,
+    "ne:woe_label":"Novo Mesto, SI, Slovenia",
+    "ne:woe_name":"Novo Mesto",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Novo Mesto",
+    "qs:a1_lc":"SVN-212",
+    "qs:a1r":"Jugovzhodna Slovenija",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":260,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SIJ7",
+        "gn:id":3194350,
+        "gp:id":55848372,
+        "hasc:id":"SI.DO.NM",
+        "qs:id":220919,
+        "wd:id":"Q398116",
+        "wk:page":"City Municipality of Novo Mesto"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4d3de9af3204c9fcb34f6c751dc71451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677657
+        }
+    ],
+    "wof:id":85677657,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616731,
+    "wof:name":"Novo Mesto",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:population":36296,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[
+        1108959465
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.05807864831104,
+    45.6819147807426,
+    15.3310312826676,
+    45.92435476346162
+],
+  "geometry": {"coordinates":[[[15.30374840676359,45.86446177768892],[15.28090742363872,45.85575429882186],[15.27641157423483,45.85045746553965],[15.27129560720658,45.8418791769825],[15.2739311046368,45.82991608306082],[15.27920210129599,45.82035594347207],[15.29723717575513,45.80738515919779],[15.32049157092928,45.78245128010252],[15.3302584160931,45.75552785872378],[15.3302584160931,45.75539866841387],[15.33093020966152,45.75286652287178],[15.3310312826676,45.75248555386526],[15.30379927601581,45.74614939387948],[15.26349165831346,45.73038808344336],[15.25501672344308,45.7234634403855],[15.24991298899329,45.71373174342529],[15.24902306486263,45.71328237648055],[15.22814578559957,45.70274038316222],[15.19078372638791,45.68444692628469],[15.1845825537419,45.68325836877875],[15.17150841578081,45.68237986873601],[15.15616051559539,45.68325836877875],[15.12623986158042,45.6819147807426],[15.1027787608312,45.68442108786297],[15.10572431842263,45.69276683242344],[15.11285566615612,45.69602244747801],[15.1159562515798,45.69700429940895],[15.11843672027845,45.69858043144183],[15.12003868983373,45.70046662003853],[15.12189904090803,45.70237864795627],[15.12406945214354,45.70682282231547],[15.12107221770873,45.71173208286939],[15.11425092923702,45.71837250418776],[15.08060957217407,45.74415904400473],[15.07936933782474,45.74914581982375],[15.0761137218708,45.75431346279612],[15.06288455607745,45.76836945178883],[15.05807864831104,45.78108185544335],[15.08603559666551,45.80614492394915],[15.096267530722,45.81014984783724],[15.10122846811936,45.8153174908096],[15.10928999183972,45.81686778442077],[15.11270063562586,45.82035594347207],[15.11518110522388,45.82371491131414],[15.11828169064756,45.8290375839174],[15.11967695462778,45.83239655175953],[15.12003868983373,45.83596222607594],[15.11967695462778,45.83880442998048],[15.1185917499094,45.84257680897264],[15.12014204262124,45.84381704422128],[15.12200239369554,45.84402374889697],[15.12530968559355,45.84379120490024],[15.12872033027907,45.84500560172717],[15.13523156128758,45.84913971592522],[15.14484337682046,45.87332428618691],[15.18473758337285,45.86748485054545],[15.19651981014118,45.86986196645665],[15.20985232872204,45.87381521350136],[15.21775882281145,45.8796288107211],[15.22876590322392,45.8958035350052],[15.22830081612983,45.90050608998411],[15.22690555214956,45.90479523381305],[15.22737064014296,45.90908437854131],[15.23858442613039,45.92435476346162],[15.26850508014536,45.9069139673058],[15.27765180768483,45.90383922030384],[15.28850385936568,45.89851654680126],[15.29816735174194,45.89045502398022],[15.30312828913929,45.88531321942958],[15.30607384583135,45.88123078117565],[15.30173302605834,45.87487457889875],[15.30374840676359,45.86446177768892]]],"type":"Polygon"}
+}

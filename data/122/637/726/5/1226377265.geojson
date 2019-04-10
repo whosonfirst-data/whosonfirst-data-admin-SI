@@ -1,0 +1,75 @@
+{
+  "id": 1226377265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.49255,45.8371,15.49255,45.8371",
+    "geom:latitude":45.8371,
+    "geom:longitude":15.49255,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Brezje v Podbocju",
+    "gn:country_code":"SI",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203381,
+    "gn:latitude":45.8371,
+    "gn:longitude":15.49255,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Brezje v Podbo\u010dju",
+    "gn:population":49,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brezje",
+        "Brezje v Podbo\u010dju"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203381,
+        "wk:page":"Brezje_v_Podbo%C4%8Dju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8e6cfc8b421f3932ce8dd304b4604d9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1226377265,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1226377265,
+    "wof:lastmodified":1537700261,
+    "wof:name":"Brezje v Podbocju",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":49,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.49255,
+    45.8371,
+    15.49255,
+    45.8371
+],
+  "geometry": {"coordinates":[15.49255,45.8371],"type":"Point"}
+}

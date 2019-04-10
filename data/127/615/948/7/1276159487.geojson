@@ -1,0 +1,75 @@
+{
+  "id": 1276159487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.01743,45.82402,15.01743,45.82402",
+    "geom:latitude":45.82402,
+    "geom:longitude":15.01743,
+    "gn:admin1_code":"N8",
+    "gn:asciiname":"Gornji Ajdovec",
+    "gn:country_code":"SI",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204856,
+    "gn:latitude":45.82402,
+    "gn:longitude":15.01743,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Gornji Ajdovec",
+    "gn:population":42,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haidomitz",
+        "Ajdovec"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959787,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204856,
+        "wk:page":"Gornji_Ajdovec"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d9ae3326a97ce4dace2065af1a4653c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959787,
+            "locality_id":1276159487,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1276159487,
+    "wof:lastmodified":1537700267,
+    "wof:name":"Gornji Ajdovec",
+    "wof:parent_id":1108959787,
+    "wof:placetype":"locality",
+    "wof:population":42,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.01743,
+    45.82402,
+    15.01743,
+    45.82402
+],
+  "geometry": {"coordinates":[15.01743,45.82402],"type":"Point"}
+}

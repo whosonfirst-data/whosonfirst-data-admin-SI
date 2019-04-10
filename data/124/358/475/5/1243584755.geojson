@@ -1,0 +1,75 @@
+{
+  "id": 1243584755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.82227,45.97716,14.82227,45.97716",
+    "geom:latitude":45.97716,
+    "geom:longitude":14.82227,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Dobrava pri Sticni",
+    "gn:cc2":"SI",
+    "gn:country_code":"SI",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201961,
+    "gn:latitude":45.97716,
+    "gn:longitude":14.82227,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Dobrava pri Sti\u010dni",
+    "gn:population":59,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dobrava"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959583,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201961,
+        "wk:page":"Dobrava_pri_Sti%C4%8Dni"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1cea3d3fb8c6ab9fb11aaca778f74427",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959583,
+            "locality_id":1243584755,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1243584755,
+    "wof:lastmodified":1537700255,
+    "wof:name":"Dobrava pri Sticni",
+    "wof:parent_id":1108959583,
+    "wof:placetype":"locality",
+    "wof:population":59,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.82227,
+    45.97716,
+    14.82227,
+    45.97716
+],
+  "geometry": {"coordinates":[14.82227,45.97716],"type":"Point"}
+}

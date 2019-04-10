@@ -1,0 +1,72 @@
+{
+  "id": 1243485871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.55083,46.55389,15.55083,46.55389",
+    "geom:latitude":46.55389,
+    "geom:longitude":15.55083,
+    "gn:admin1_code":"L3",
+    "gn:asciiname":"Bistrica pri Limbusu",
+    "gn:country_code":"SI",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204043,
+    "gn:latitude":46.55389,
+    "gn:longitude":15.55083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bistrica pri Limbu\u0161u",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bistrica pri Limbusa",
+        "Bistrica",
+        "Bistrica pri Limbu\u0161u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959611,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204043
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8f2a4928d9989ba95a4380cd61123582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959611,
+            "locality_id":1243485871,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1243485871,
+    "wof:lastmodified":1537700265,
+    "wof:name":"Bistrica pri Limbusu",
+    "wof:parent_id":1108959611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.55083,
+    46.55389,
+    15.55083,
+    46.55389
+],
+  "geometry": {"coordinates":[15.55083,46.55389],"type":"Point"}
+}

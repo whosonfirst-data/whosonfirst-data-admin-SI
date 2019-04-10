@@ -1,0 +1,79 @@
+{
+  "id": 1293031605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.47184,45.93566,15.47184,45.93566",
+    "geom:latitude":45.93566,
+    "geom:longitude":15.47184,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Leskovec pri Krskem",
+    "gn:country_code":"SI",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196642,
+    "gn:latitude":45.93566,
+    "gn:longitude":15.47184,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Leskovec pri Kr\u0161kem",
+    "gn:population":1021,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u0441\u043a\u043e\u0432\u0435\u0446\u044c-\u043f\u0440\u0438-\u041a\u0440\u0448\u043a\u0435\u043c"
+    ],
+    "name:und_x_variant":[
+        "Leskovec",
+        "Huselbach",
+        "Leskovec pri Kr\u0161kem"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196642,
+        "wk:page":"Leskovec_pri_Kr%C5%A1kem"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e4bf4b89e9eefd5865a4bf4eb75d6009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1293031605,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1293031605,
+    "wof:lastmodified":1537700225,
+    "wof:name":"Leskovec pri Krskem",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":1021,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.47184,
+    45.93566,
+    15.47184,
+    45.93566
+],
+  "geometry": {"coordinates":[15.47184,45.93566],"type":"Point"}
+}

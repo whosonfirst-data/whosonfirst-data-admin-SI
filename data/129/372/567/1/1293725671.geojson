@@ -1,0 +1,71 @@
+{
+  "id": 1293725671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.41472,45.69721,14.41472,45.69721",
+    "geom:latitude":45.69721,
+    "geom:longitude":14.41472,
+    "gn:admin1_code":"I7",
+    "gn:asciiname":"Dane",
+    "gn:country_code":"SI",
+    "gn:dem":888,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202201,
+    "gn:latitude":45.69721,
+    "gn:longitude":14.41472,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Dane",
+    "gn:population":112,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959863,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202201,
+        "wk:page":"Dane%2C_Lo%C5%A1ka_Dolina"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"cb417c84d941d026ba629ba0301248b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959863,
+            "locality_id":1293725671,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1293725671,
+    "wof:lastmodified":1537573447,
+    "wof:name":"Dane",
+    "wof:parent_id":1108959863,
+    "wof:placetype":"locality",
+    "wof:population":112,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.41472,
+    45.69721,
+    14.41472,
+    45.69721
+],
+  "geometry": {"coordinates":[14.41472,45.69721],"type":"Point"}
+}

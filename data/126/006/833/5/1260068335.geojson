@@ -1,0 +1,74 @@
+{
+  "id": 1260068335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.28304,46.26195,15.28304,46.26195",
+    "geom:latitude":46.26195,
+    "geom:longitude":15.28304,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Smarjeta pri Celju",
+    "gn:country_code":"SI",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987206,
+    "gn:latitude":46.26195,
+    "gn:longitude":15.28304,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160marjeta pri Celju",
+    "gn:population":219,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160marjeta pri Celju"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959693,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987206,
+        "wk:page":"%C5%A0marjeta_pri_Celju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6b147ac18a68a38f7655b107d16d1d07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959693,
+            "locality_id":1260068335,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1260068335,
+    "wof:lastmodified":1537700281,
+    "wof:name":"Smarjeta pri Celju",
+    "wof:parent_id":1108959693,
+    "wof:placetype":"locality",
+    "wof:population":219,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.28304,
+    46.26195,
+    15.28304,
+    46.26195
+],
+  "geometry": {"coordinates":[15.28304,46.26195],"type":"Point"}
+}

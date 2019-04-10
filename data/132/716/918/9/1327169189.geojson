@@ -1,0 +1,71 @@
+{
+  "id": 1327169189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.32972,46.19167,15.32972,46.19167",
+    "geom:latitude":46.19167,
+    "geom:longitude":15.32972,
+    "gn:admin1_code":"C9",
+    "gn:asciiname":"Javornik",
+    "gn:country_code":"SI",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3338863,
+    "gn:latitude":46.19167,
+    "gn:longitude":15.32972,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Javornik",
+    "gn:population":159,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959631,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3338863,
+        "wk:page":"Javornik%2C_%C5%A0tore"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"43bc951988a0590b333b8b80e9a04918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959631,
+            "locality_id":1327169189,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1327169189,
+    "wof:lastmodified":1537573461,
+    "wof:name":"Javornik",
+    "wof:parent_id":1108959631,
+    "wof:placetype":"locality",
+    "wof:population":159,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.32972,
+    46.19167,
+    15.32972,
+    46.19167
+],
+  "geometry": {"coordinates":[15.32972,46.19167],"type":"Point"}
+}

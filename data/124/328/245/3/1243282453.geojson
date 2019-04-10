@@ -1,0 +1,73 @@
+{
+  "id": 1243282453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.28778,46.52299,16.28778,46.52299",
+    "geom:latitude":46.52299,
+    "geom:longitude":16.28778,
+    "gn:asciiname":"Safarsko",
+    "gn:country_code":"SI",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989738,
+    "gn:latitude":46.52299,
+    "gn:longitude":16.28778,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"\u0160afarsko",
+    "gn:population":298,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160afarsko"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959853,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989738,
+        "wk:page":"%C5%A0afarsko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"883e78d7f4f6cbdca9a204187cedef49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959853,
+            "locality_id":1243282453,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1243282453,
+    "wof:lastmodified":1537700332,
+    "wof:name":"Safarsko",
+    "wof:parent_id":1108959853,
+    "wof:placetype":"locality",
+    "wof:population":298,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.28778,
+    46.52299,
+    16.28778,
+    46.52299
+],
+  "geometry": {"coordinates":[16.28778,46.52299],"type":"Point"}
+}

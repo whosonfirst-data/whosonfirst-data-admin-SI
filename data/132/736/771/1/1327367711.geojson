@@ -1,0 +1,74 @@
+{
+  "id": 1327367711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.49245,46.40259,15.49245,46.40259",
+    "geom:latitude":46.40259,
+    "geom:longitude":15.49245,
+    "gn:admin1_code":"L8",
+    "gn:asciiname":"Fost",
+    "gn:country_code":"SI",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988014,
+    "gn:latitude":46.40259,
+    "gn:longitude":15.49245,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Fo\u0161t",
+    "gn:population":81,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fo\u0161t"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959641,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988014,
+        "wk:page":"Fo%C5%A1t"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d81582e4f536dd1fdd12a118e25c1a06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959641,
+            "locality_id":1327367711,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1327367711,
+    "wof:lastmodified":1537700298,
+    "wof:name":"Fost",
+    "wof:parent_id":1108959641,
+    "wof:placetype":"locality",
+    "wof:population":81,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.49245,
+    46.40259,
+    15.49245,
+    46.40259
+],
+  "geometry": {"coordinates":[15.49245,46.40259],"type":"Point"}
+}

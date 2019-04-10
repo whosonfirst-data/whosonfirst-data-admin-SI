@@ -1,0 +1,71 @@
+{
+  "id": 1293426113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.85587,46.67705,15.85587,46.67705",
+    "geom:latitude":46.67705,
+    "geom:longitude":15.85587,
+    "gn:admin1_code":"N9",
+    "gn:asciiname":"Janhova",
+    "gn:country_code":"SI",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988650,
+    "gn:latitude":46.67705,
+    "gn:longitude":15.85587,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Janhova",
+    "gn:population":39,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959667,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988650,
+        "wk:page":"Janhova"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7a9f158a448d61f9058a1f1533a74107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959667,
+            "locality_id":1293426113,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1293426113,
+    "wof:lastmodified":1537573518,
+    "wof:name":"Janhova",
+    "wof:parent_id":1108959667,
+    "wof:placetype":"locality",
+    "wof:population":39,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.85587,
+    46.67705,
+    15.85587,
+    46.67705
+],
+  "geometry": {"coordinates":[15.85587,46.67705],"type":"Point"}
+}

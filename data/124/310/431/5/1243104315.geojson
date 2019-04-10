@@ -1,0 +1,71 @@
+{
+  "id": 1243104315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.12639,46.60583,15.12639,46.60583",
+    "geom:latitude":46.60583,
+    "geom:longitude":15.12639,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Gortina",
+    "gn:country_code":"SI",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199881,
+    "gn:latitude":46.60583,
+    "gn:longitude":15.12639,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Gortina",
+    "gn:population":601,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959727,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199881,
+        "wk:page":"Gortina"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"17bdde921674745b4abfe32b0ed9a3b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959727,
+            "locality_id":1243104315,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1243104315,
+    "wof:lastmodified":1537573437,
+    "wof:name":"Gortina",
+    "wof:parent_id":1108959727,
+    "wof:placetype":"locality",
+    "wof:population":601,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.12639,
+    46.60583,
+    15.12639,
+    46.60583
+],
+  "geometry": {"coordinates":[15.12639,46.60583],"type":"Point"}
+}

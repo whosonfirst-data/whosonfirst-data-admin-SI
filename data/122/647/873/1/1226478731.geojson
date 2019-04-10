@@ -1,0 +1,71 @@
+{
+  "id": 1226478731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.86583,46.48333,15.86583,46.48333",
+    "geom:latitude":46.48333,
+    "geom:longitude":15.86583,
+    "gn:admin1_code":"G1",
+    "gn:asciiname":"Vintarovci",
+    "gn:country_code":"SI",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3187711,
+    "gn:latitude":46.48333,
+    "gn:longitude":15.86583,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Vintarovci",
+    "gn:population":362,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959755,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187711,
+        "wk:page":"Vintarovci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"99644470570dd7af48da5142eaf09b41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959755,
+            "locality_id":1226478731,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1226478731,
+    "wof:lastmodified":1537573387,
+    "wof:name":"Vintarovci",
+    "wof:parent_id":1108959755,
+    "wof:placetype":"locality",
+    "wof:population":362,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.86583,
+    46.48333,
+    15.86583,
+    46.48333
+],
+  "geometry": {"coordinates":[15.86583,46.48333],"type":"Point"}
+}

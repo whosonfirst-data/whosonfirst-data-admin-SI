@@ -1,0 +1,81 @@
+{
+  "id": 1242814287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.28972,46.85222,16.28972,46.85222",
+    "geom:latitude":46.85222,
+    "geom:longitude":16.28972,
+    "gn:admin1_code":"L4",
+    "gn:asciiname":"Dolenci",
+    "gn:country_code":"SI",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201858,
+    "gn:latitude":46.85222,
+    "gn:longitude":16.28972,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Dolenci",
+    "gn:population":204,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Veliki Dolinci",
+        "Nagydol\u00e1ny",
+        "Veliki Dolenci",
+        "Nagydolincz",
+        "Mali Dolenci",
+        "Kisdol\u00e1ny",
+        "Kisdolincz",
+        "Dolenci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959567,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201858,
+        "wk:page":"Dolenci%2C_%C5%A0alovci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"380b0a774d9645b90d2b93127ca848d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959567,
+            "locality_id":1242814287,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1242814287,
+    "wof:lastmodified":1537700254,
+    "wof:name":"Dolenci",
+    "wof:parent_id":1108959567,
+    "wof:placetype":"locality",
+    "wof:population":204,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.28972000000001,
+    46.85222,
+    16.28972000000001,
+    46.85222
+],
+  "geometry": {"coordinates":[16.28972000000001,46.85222],"type":"Point"}
+}

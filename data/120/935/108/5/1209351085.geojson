@@ -1,0 +1,65 @@
+{
+  "id": 1209351085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.96073,46.53286,15.96073,46.53286",
+    "geom:latitude":46.53286,
+    "geom:longitude":15.96073,
+    "gn:admin1_code":"M4",
+    "gn:asciiname":"Novinci",
+    "gn:country_code":"SI",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987247,
+    "gn:latitude":46.53286,
+    "gn:longitude":15.96073,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Novinci",
+    "gn:population":206,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987247,
+        "wk:page":"Novinci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e307a8192c85a4900cd9a3b94c1ff759",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209351085
+        }
+    ],
+    "wof:id":1209351085,
+    "wof:lastmodified":1537573473,
+    "wof:name":"Novinci",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":206,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.96073,
+    46.53286,
+    15.96073,
+    46.53286
+],
+  "geometry": {"coordinates":[15.96073,46.53286],"type":"Point"}
+}

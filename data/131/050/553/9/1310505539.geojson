@@ -1,0 +1,75 @@
+{
+  "id": 1310505539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.95833,45.90611,13.95833,45.90611",
+    "geom:latitude":45.90611,
+    "geom:longitude":13.95833,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gozd",
+    "gn:country_code":"SI",
+    "gn:dem":809,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3199850,
+    "gn:latitude":45.90611,
+    "gn:longitude":13.95833,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Gozd",
+    "gn:population":124,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bosco",
+        "Gozd"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959545,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199850,
+        "wk:page":"Gozd%2C_Ajdov%C5%A1%C4%8Dina"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c4ba7b0aa10a33d9de8f97d93c81c0af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959545,
+            "locality_id":1310505539,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1310505539,
+    "wof:lastmodified":1537700242,
+    "wof:name":"Gozd",
+    "wof:parent_id":1108959545,
+    "wof:placetype":"locality",
+    "wof:population":124,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.95833,
+    45.90611,
+    13.95833,
+    45.90611
+],
+  "geometry": {"coordinates":[13.95833,45.90611],"type":"Point"}
+}

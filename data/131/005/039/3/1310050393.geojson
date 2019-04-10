@@ -1,0 +1,74 @@
+{
+  "id": 1310050393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.07329,45.57026,14.07329,45.57026",
+    "geom:latitude":45.57026,
+    "geom:longitude":14.07329,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Kovcice",
+    "gn:country_code":"SI",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988315,
+    "gn:latitude":45.57026,
+    "gn:longitude":14.07329,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kov\u010dice",
+    "gn:population":57,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kov\u010dice"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959549,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988315,
+        "wk:page":"Kov%C4%8Dice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ecdbfae752915ab7901a683163d6a08a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959549,
+            "locality_id":1310050393,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1310050393,
+    "wof:lastmodified":1537700304,
+    "wof:name":"Kovcice",
+    "wof:parent_id":1108959549,
+    "wof:placetype":"locality",
+    "wof:population":57,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.07329,
+    45.57026,
+    14.07329,
+    45.57026
+],
+  "geometry": {"coordinates":[14.07329,45.57026],"type":"Point"}
+}

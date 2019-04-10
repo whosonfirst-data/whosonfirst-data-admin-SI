@@ -1,0 +1,76 @@
+{
+  "id": 1293231131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2575,46.65972,16.2575,46.65972",
+    "geom:latitude":46.65972,
+    "geom:longitude":16.2575,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Ivanci",
+    "gn:country_code":"SI",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199081,
+    "gn:latitude":46.65972,
+    "gn:longitude":16.2575,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Ivanci",
+    "gn:population":243,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zalaiv\u00e1nd",
+        "Zalaiv\u00e1ncz",
+        "Ivanci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959925,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199081,
+        "wk:page":"Ivanci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4174ee7818fbc6e26fc5572ce943eedb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959925,
+            "locality_id":1293231131,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1293231131,
+    "wof:lastmodified":1537700237,
+    "wof:name":"Ivanci",
+    "wof:parent_id":1108959925,
+    "wof:placetype":"locality",
+    "wof:population":243,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2575,
+    46.65972,
+    16.2575,
+    46.65972
+],
+  "geometry": {"coordinates":[16.2575,46.65972],"type":"Point"}
+}

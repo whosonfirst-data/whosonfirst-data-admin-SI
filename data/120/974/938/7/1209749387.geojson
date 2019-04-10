@@ -1,0 +1,74 @@
+{
+  "id": 1209749387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.00443,46.6253,16.00443,46.6253",
+    "geom:latitude":46.6253,
+    "geom:longitude":16.00443,
+    "gn:admin1_code":"A1",
+    "gn:asciiname":"Janzev Vrh",
+    "gn:country_code":"SI",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987119,
+    "gn:latitude":46.6253,
+    "gn:longitude":16.00443,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Jan\u017eev Vrh",
+    "gn:population":262,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jan\u017eev Vrh"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959569,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987119,
+        "wk:page":"Jan%C5%BEev_Vrh"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"91097f885c9d685412d33192dc8abf3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959569,
+            "locality_id":1209749387,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1209749387,
+    "wof:lastmodified":1537700279,
+    "wof:name":"Janzev Vrh",
+    "wof:parent_id":1108959569,
+    "wof:placetype":"locality",
+    "wof:population":262,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.00443,
+    46.6253,
+    16.00443,
+    46.6253
+],
+  "geometry": {"coordinates":[16.00443,46.6253],"type":"Point"}
+}

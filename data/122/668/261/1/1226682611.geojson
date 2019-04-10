@@ -1,0 +1,75 @@
+{
+  "id": 1226682611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.08306,46.55278,16.08306,46.55278",
+    "geom:latitude":46.55278,
+    "geom:longitude":16.08306,
+    "gn:admin1_code":"I1",
+    "gn:asciiname":"Berkovci",
+    "gn:country_code":"SI",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204271,
+    "gn:latitude":46.55278,
+    "gn:longitude":16.08306,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Berkovci",
+    "gn:population":146,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Berkeh\u00e1za",
+        "Berkovci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959775,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204271,
+        "wk:page":"Berkovci%2C_Kri%C5%BEevci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8751d7a72eacf57af0267cc41e5cd0c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959775,
+            "locality_id":1226682611,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1226682611,
+    "wof:lastmodified":1537700265,
+    "wof:name":"Berkovci",
+    "wof:parent_id":1108959775,
+    "wof:placetype":"locality",
+    "wof:population":146,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.08306,
+    46.55278,
+    16.08306,
+    46.55278
+],
+  "geometry": {"coordinates":[16.08306,46.55278],"type":"Point"}
+}

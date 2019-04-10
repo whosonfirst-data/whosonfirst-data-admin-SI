@@ -1,0 +1,74 @@
+{
+  "id": 1226081733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.8683,46.13454,14.8683,46.13454",
+    "geom:latitude":46.13454,
+    "geom:longitude":14.8683,
+    "gn:admin1_code":"E7",
+    "gn:asciiname":"Log pri Mlinsah",
+    "gn:country_code":"SI",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989581,
+    "gn:latitude":46.13454,
+    "gn:longitude":14.8683,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Log pri Mlin\u0161ah",
+    "gn:population":42,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Log pri Mlin\u0161ah"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959683,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989581,
+        "wk:page":"Log_pri_Mlin%C5%A1ah"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"535cd591f89b880353e7be538b359287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959683,
+            "locality_id":1226081733,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1226081733,
+    "wof:lastmodified":1537700329,
+    "wof:name":"Log pri Mlinsah",
+    "wof:parent_id":1108959683,
+    "wof:placetype":"locality",
+    "wof:population":42,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.8683,
+    46.13454,
+    14.8683,
+    46.13454
+],
+  "geometry": {"coordinates":[14.8683,46.13454],"type":"Point"}
+}

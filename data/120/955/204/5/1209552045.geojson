@@ -1,0 +1,65 @@
+{
+  "id": 1209552045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.65933,45.77925,14.65933,45.77925",
+    "geom:latitude":45.77925,
+    "geom:longitude":14.65933,
+    "gn:admin1_code":"L1",
+    "gn:asciiname":"Hudi Konec",
+    "gn:country_code":"SI",
+    "gn:dem":712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988765,
+    "gn:latitude":45.77925,
+    "gn:longitude":14.65933,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Hudi Konec",
+    "gn:population":33,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988765,
+        "wk:page":"Hudi_Konec"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1fced3fd3b7a510cb2f899da441b9e3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209552045
+        }
+    ],
+    "wof:id":1209552045,
+    "wof:lastmodified":1537573522,
+    "wof:name":"Hudi Konec",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":33,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.65933,
+    45.77925,
+    14.65933,
+    45.77925
+],
+  "geometry": {"coordinates":[14.65933,45.77925],"type":"Point"}
+}

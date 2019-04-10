@@ -1,0 +1,75 @@
+{
+  "id": 1209852377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.84528,45.66417,14.84528,45.66417",
+    "geom:latitude":45.66417,
+    "geom:longitude":14.84528,
+    "gn:admin1_code":"H7",
+    "gn:asciiname":"Mlaka pri Kocevju",
+    "gn:country_code":"SI",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194979,
+    "gn:latitude":45.66417,
+    "gn:longitude":14.84528,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Mlaka pri Ko\u010devju",
+    "gn:population":280,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mlaka",
+        "Mlaka pri Ko\u010devju"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959919,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194979,
+        "wk:page":"Mlaka_pri_Ko%C4%8Devju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e9090eddd1f7d8b228321c62835e3c74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959919,
+            "locality_id":1209852377,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1209852377,
+    "wof:lastmodified":1537700218,
+    "wof:name":"Mlaka pri Kocevju",
+    "wof:parent_id":1108959919,
+    "wof:placetype":"locality",
+    "wof:population":280,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.84528,
+    45.66417,
+    14.84528,
+    45.66417
+],
+  "geometry": {"coordinates":[14.84528,45.66417],"type":"Point"}
+}

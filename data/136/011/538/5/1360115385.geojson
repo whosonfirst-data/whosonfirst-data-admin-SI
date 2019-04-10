@@ -1,0 +1,73 @@
+{
+  "id": 1360115385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.76889,45.54778,13.76889,45.54778",
+    "geom:latitude":45.54778,
+    "geom:longitude":13.76889,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Lazaret",
+    "gn:country_code":"SI",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191617,
+    "gn:latitude":45.54778,
+    "gn:longitude":13.76889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Lazaret",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ri\u017eana",
+        "Lazzaretto",
+        "Lazzaretto-Risano",
+        "Lazaret"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959527,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191617
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1a1f042153722ae410ef758a7b893387",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959527,
+            "locality_id":1360115385,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1360115385,
+    "wof:lastmodified":1537700199,
+    "wof:name":"Lazaret",
+    "wof:parent_id":1108959527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.76889,
+    45.54778,
+    13.76889,
+    45.54778
+],
+  "geometry": {"coordinates":[13.76889,45.54778],"type":"Point"}
+}

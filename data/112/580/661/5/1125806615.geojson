@@ -1,0 +1,123 @@
+{
+  "id": 1125806615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.10972,46.41778,16.10972,46.41778",
+    "geom:latitude":46.41778,
+    "geom:longitude":16.10972,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":305,
+    "iso:country":"SI",
+    "lbl:latitude":46.41778,
+    "lbl:longitude":16.10972,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0430 \u041d\u0435\u0434\u0435\u043b\u044f"
+    ],
+    "name:dut_x_preferred":[
+        "Velika Nedelja"
+    ],
+    "name:eng_x_preferred":[
+        "Velika Nedelja"
+    ],
+    "name:ger_x_preferred":[
+        "Velika Nedelja"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0644\u06cc\u06a9\u0627 \u0646\u062f\u0644\u062c\u0627"
+    ],
+    "name:rum_x_preferred":[
+        "Velika Nedelja"
+    ],
+    "name:slv_x_preferred":[
+        "Velika Nedelja"
+    ],
+    "name:spa_x_preferred":[
+        "Velika Nedelja"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0430 \u041d\u0435\u0434\u0435\u043b\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Grossentag"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3188200,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Velika Nedelja",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Ormoz",
+    "qs_pg:photos":36,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":36,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1165749,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":531999,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Ormoz",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959765,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188200,
+        "gp:id":531999,
+        "qs_pg:id":1165749,
+        "wd:id":"Q3621532"
+    },
+    "wof:country":"SI",
+    "wof:created":1497291490,
+    "wof:geomhash":"671fb3a19b2c2c2a844630e56f1a440e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959765,
+            "locality_id":1125806615,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1125806615,
+    "wof:lastmodified":1531170950,
+    "wof:name":"Velika Nedelja",
+    "wof:parent_id":1108959765,
+    "wof:placetype":"locality",
+    "wof:population":305,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.10972,
+    46.41778,
+    16.10972,
+    46.41778
+],
+  "geometry": {"coordinates":[16.10972,46.41778],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343692159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.49592,46.20482,15.49592,46.20482",
+    "geom:latitude":46.20482,
+    "geom:longitude":15.49592,
+    "gn:admin1_code":"C5",
+    "gn:asciiname":"Cerovec pri Smarju",
+    "gn:country_code":"SI",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989503,
+    "gn:latitude":46.20482,
+    "gn:longitude":15.49592,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Cerovec pri \u0160marju",
+    "gn:population":119,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cerovec pri \u0160marju"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959607,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989503,
+        "wk:page":"Cerovec_pri_%C5%A0marju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"523643867250e607f99c7bf6aca7e76f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959607,
+            "locality_id":1343692159,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1343692159,
+    "wof:lastmodified":1537700327,
+    "wof:name":"Cerovec pri Smarju",
+    "wof:parent_id":1108959607,
+    "wof:placetype":"locality",
+    "wof:population":119,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.49592,
+    46.20482,
+    15.49592,
+    46.20482
+],
+  "geometry": {"coordinates":[15.49592,46.20482],"type":"Point"}
+}

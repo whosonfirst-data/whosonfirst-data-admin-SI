@@ -1,0 +1,99 @@
+{
+  "id": 1125967699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.49492,46.18987,14.49492,46.18987",
+    "geom:latitude":46.18987,
+    "geom:longitude":14.49492,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1216,
+    "gn:population":1589,
+    "iso:country":"SI",
+    "lbl:latitude":46.18987,
+    "lbl:longitude":14.49492,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Woditz"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3187485,
+    "qs_pg:gn_pop":1216,
+    "qs_pg:name":"Vodice",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Ljubljana",
+    "qs_pg:photos":188,
+    "qs_pg:photos_1k":38,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":188,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":232929,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":532100,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Ljubljana",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959923,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187485,
+        "gp:id":532100,
+        "qs_pg:id":232929
+    },
+    "wof:country":"SI",
+    "wof:created":1497298038,
+    "wof:geomhash":"11355e4aacff2204b08db7853ad520e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959923,
+            "locality_id":1125967699,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1125967699,
+    "wof:lastmodified":1534379461,
+    "wof:name":"Vodice",
+    "wof:parent_id":1108959923,
+    "wof:placetype":"locality",
+    "wof:population":1589,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[
+        101792051
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.49492,
+    46.18987,
+    14.49492,
+    46.18987
+],
+  "geometry": {"coordinates":[14.49492,46.18987],"type":"Point"}
+}

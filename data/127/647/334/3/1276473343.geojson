@@ -1,0 +1,75 @@
+{
+  "id": 1276473343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.64722,45.80056,14.64722,45.80056",
+    "geom:latitude":45.80056,
+    "geom:longitude":14.64722,
+    "gn:admin1_code":"L1",
+    "gn:asciiname":"Marolce",
+    "gn:country_code":"SI",
+    "gn:dem":609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195443,
+    "gn:latitude":45.80056,
+    "gn:longitude":14.64722,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Marol\u010de",
+    "gn:population":32,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marol\u010di",
+        "Marol\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959599,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195443,
+        "wk:page":"Marol%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9603352a5e48488b158906b224dc5dfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959599,
+            "locality_id":1276473343,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1276473343,
+    "wof:lastmodified":1537700219,
+    "wof:name":"Marolce",
+    "wof:parent_id":1108959599,
+    "wof:placetype":"locality",
+    "wof:population":32,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.64722,
+    45.80056,
+    14.64722,
+    45.80056
+],
+  "geometry": {"coordinates":[14.64722,45.80056],"type":"Point"}
+}

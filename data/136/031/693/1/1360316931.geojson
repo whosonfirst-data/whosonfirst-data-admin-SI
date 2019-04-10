@@ -1,0 +1,80 @@
+{
+  "id": 1360316931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.15313,45.88518,15.15313,45.88518",
+    "geom:latitude":45.88518,
+    "geom:longitude":15.15313,
+    "gn:admin1_code":"O7",
+    "gn:asciiname":"Statenberk",
+    "gn:country_code":"SI",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988502,
+    "gn:latitude":45.88518,
+    "gn:longitude":15.15313,
+    "gn:modification_date":"2015-12-13",
+    "gn:name":"\u0160tatenberk",
+    "gn:population":47,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_historical":[
+        "Statenberg"
+    ],
+    "name:deu_x_preferred":[
+        "Statenberg"
+    ],
+    "name:und_x_variant":[
+        "\u0160tatenberk"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959913,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988502,
+        "wk:page":"%C5%A0tatenberk"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3e7b72c0e4e1619ad70bcabfa64067e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959913,
+            "locality_id":1360316931,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1360316931,
+    "wof:lastmodified":1537700308,
+    "wof:name":"Statenberk",
+    "wof:parent_id":1108959913,
+    "wof:placetype":"locality",
+    "wof:population":47,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.15313,
+    45.88518,
+    15.15313,
+    45.88518
+],
+  "geometry": {"coordinates":[15.15313,45.88518],"type":"Point"}
+}

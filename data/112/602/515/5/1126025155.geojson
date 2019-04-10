@@ -1,0 +1,104 @@
+{
+  "id": 1126025155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.76316,46.143864,13.76316,46.143864",
+    "geom:latitude":46.143864,
+    "geom:longitude":13.76316,
+    "gn:gn_country":null,
+    "iso:country":"SI",
+    "lbl:latitude":46.143864,
+    "lbl:longitude":13.76316,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u0441\u0442\u0430\u044f"
+    ],
+    "name:dut_x_preferred":[
+        "Postaja"
+    ],
+    "name:eng_x_preferred":[
+        "Postaja"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Lucia Stazione"
+    ],
+    "name:rum_x_preferred":[
+        "Postaja"
+    ],
+    "name:slv_x_preferred":[
+        "Postaja"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0441\u0442\u0430\u044f"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Postaja",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Tolmin",
+    "qs_pg:photos":29,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":29,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1003147,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":55849422,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Tolmin",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959617,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55849422,
+        "qs_pg:id":1003147,
+        "wd:id":"Q762868"
+    },
+    "wof:country":"SI",
+    "wof:created":1497301094,
+    "wof:geomhash":"bc6b079e5fcd4672cb5bba17e4d13314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959617,
+            "locality_id":1126025155,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1126025155,
+    "wof:lastmodified":1531170230,
+    "wof:name":"Postaja",
+    "wof:parent_id":1108959617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.76316,
+    46.143864,
+    13.76316,
+    46.143864
+],
+  "geometry": {"coordinates":[13.76316,46.143864],"type":"Point"}
+}

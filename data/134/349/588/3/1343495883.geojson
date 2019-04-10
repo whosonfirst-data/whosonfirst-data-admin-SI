@@ -1,0 +1,71 @@
+{
+  "id": 1343495883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.52757,46.40353,15.52757,46.40353",
+    "geom:latitude":46.40353,
+    "geom:longitude":15.52757,
+    "gn:admin1_code":"L8",
+    "gn:asciiname":"Visole",
+    "gn:country_code":"SI",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986904,
+    "gn:latitude":46.40353,
+    "gn:longitude":15.52757,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Visole",
+    "gn:population":539,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959641,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986904,
+        "wk:page":"Visole"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4b68c1e298c14db673be70f136bcdf6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959641,
+            "locality_id":1343495883,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1343495883,
+    "wof:lastmodified":1537573464,
+    "wof:name":"Visole",
+    "wof:parent_id":1108959641,
+    "wof:placetype":"locality",
+    "wof:population":539,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.52757,
+    46.40353,
+    15.52757,
+    46.40353
+],
+  "geometry": {"coordinates":[15.52757,46.40353],"type":"Point"}
+}

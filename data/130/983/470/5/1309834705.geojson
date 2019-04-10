@@ -1,0 +1,71 @@
+{
+  "id": 1309834705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.60729,45.84981,14.60729,45.84981",
+    "geom:latitude":45.84981,
+    "geom:longitude":14.60729,
+    "gn:admin1_code":"D8",
+    "gn:asciiname":"Podlog",
+    "gn:country_code":"SI",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988847,
+    "gn:latitude":45.84981,
+    "gn:longitude":14.60729,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Podlog",
+    "gn:population":30,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959859,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988847,
+        "wk:page":"Podlog%2C_Velike_La%C5%A1%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"87f6d6bc5fb7e5dfc79956472bb09cac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959859,
+            "locality_id":1309834705,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1309834705,
+    "wof:lastmodified":1537573524,
+    "wof:name":"Podlog",
+    "wof:parent_id":1108959859,
+    "wof:placetype":"locality",
+    "wof:population":30,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.60729,
+    45.84981,
+    14.60729,
+    45.84981
+],
+  "geometry": {"coordinates":[14.60729,45.84981],"type":"Point"}
+}

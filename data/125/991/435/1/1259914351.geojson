@@ -1,0 +1,71 @@
+{
+  "id": 1259914351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.7561,46.10702,14.7561,46.10702",
+    "geom:latitude":46.10702,
+    "geom:longitude":14.7561,
+    "gn:admin1_code":"77",
+    "gn:asciiname":"Spodnji Prekar",
+    "gn:country_code":"SI",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988438,
+    "gn:latitude":46.10702,
+    "gn:longitude":14.7561,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Spodnji Prekar",
+    "gn:population":50,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959515,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988438,
+        "wk:page":"Spodnji_Prekar"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"bce32727c4131691f11affb1018f99a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959515,
+            "locality_id":1259914351,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1259914351,
+    "wof:lastmodified":1537573511,
+    "wof:name":"Spodnji Prekar",
+    "wof:parent_id":1108959515,
+    "wof:placetype":"locality",
+    "wof:population":50,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.7561,
+    46.10702,
+    14.7561,
+    46.10702
+],
+  "geometry": {"coordinates":[14.7561,46.10702],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209137303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.51019,46.22195,15.51019,46.22195",
+    "geom:latitude":46.22195,
+    "geom:longitude":15.51019,
+    "gn:admin1_code":"C5",
+    "gn:asciiname":"Vinski Vrh pri Smarju",
+    "gn:country_code":"SI",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989536,
+    "gn:latitude":46.22195,
+    "gn:longitude":15.51019,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Vinski Vrh pri \u0160marju",
+    "gn:population":78,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vinski Vrh pri \u0160marju"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989536,
+        "wk:page":"Vinski_Vrh_pri_%C5%A0marju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"25cef262f0c70988dfb287924186afc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209137303
+        }
+    ],
+    "wof:id":1209137303,
+    "wof:lastmodified":1537700328,
+    "wof:name":"Vinski Vrh pri Smarju",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":78,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.51019,
+    46.22195,
+    15.51019,
+    46.22195
+],
+  "geometry": {"coordinates":[15.51019,46.22195],"type":"Point"}
+}

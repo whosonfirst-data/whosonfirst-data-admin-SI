@@ -1,0 +1,71 @@
+{
+  "id": 1344120433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.15338,45.44503,15.15338,45.44503",
+    "geom:latitude":45.44503,
+    "geom:longitude":15.15338,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Gorica",
+    "gn:country_code":"SI",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989228,
+    "gn:latitude":45.44503,
+    "gn:longitude":15.15338,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Gorica",
+    "gn:population":12,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959699,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989228,
+        "wk:page":"Gorica%2C_%C4%8Crnomelj"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2bdad51088b3ac1e6f5047a26c24ece4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959699,
+            "locality_id":1344120433,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1344120433,
+    "wof:lastmodified":1537573535,
+    "wof:name":"Gorica",
+    "wof:parent_id":1108959699,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.15338,
+    45.44503,
+    15.15338,
+    45.44503
+],
+  "geometry": {"coordinates":[15.15338,45.44503],"type":"Point"}
+}

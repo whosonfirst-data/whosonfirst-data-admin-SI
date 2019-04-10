@@ -1,0 +1,77 @@
+{
+  "id": 1292934727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.02778,46.74028,16.02778,46.74028",
+    "geom:latitude":46.74028,
+    "geom:longitude":16.02778,
+    "gn:admin1_code":"F8",
+    "gn:asciiname":"Gornji Crnci",
+    "gn:country_code":"SI",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200035,
+    "gn:latitude":46.74028,
+    "gn:longitude":16.02778,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Gornji \u010crnci",
+    "gn:population":144,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kir\u00e1lysz\u00e9k",
+        "Gornji \u010cmel",
+        "\u010crnci",
+        "Gornji \u010crnci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959707,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200035,
+        "wk:page":"Gornji_%C4%8Crnci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3df2eb39bbace95188e85443e7af6277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959707,
+            "locality_id":1292934727,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1292934727,
+    "wof:lastmodified":1537700243,
+    "wof:name":"Gornji Crnci",
+    "wof:parent_id":1108959707,
+    "wof:placetype":"locality",
+    "wof:population":144,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.02778,
+    46.74028,
+    16.02778,
+    46.74028
+],
+  "geometry": {"coordinates":[16.02778,46.74028],"type":"Point"}
+}

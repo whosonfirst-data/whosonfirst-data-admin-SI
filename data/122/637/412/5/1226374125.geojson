@@ -1,0 +1,74 @@
+{
+  "id": 1226374125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.54823,45.81892,14.54823,45.81892",
+    "geom:latitude":45.81892,
+    "geom:longitude":14.54823,
+    "gn:admin1_code":"D8",
+    "gn:asciiname":"Bostetje",
+    "gn:country_code":"SI",
+    "gn:dem":774,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989335,
+    "gn:latitude":45.81892,
+    "gn:longitude":14.54823,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Bo\u0161tetje",
+    "gn:population":7,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bo\u0161tetje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959859,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989335,
+        "wk:page":"Bo%C5%A1tetje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"37fb0cfa7f2227a0f09a8fc99bef86a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959859,
+            "locality_id":1226374125,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1226374125,
+    "wof:lastmodified":1537700324,
+    "wof:name":"Bostetje",
+    "wof:parent_id":1108959859,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.54823,
+    45.81892,
+    14.54823,
+    45.81892
+],
+  "geometry": {"coordinates":[14.54823,45.81892],"type":"Point"}
+}

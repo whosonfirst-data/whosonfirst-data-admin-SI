@@ -1,0 +1,75 @@
+{
+  "id": 1293232143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.56528,46.15,14.56528,46.15",
+    "geom:latitude":46.15,
+    "geom:longitude":14.56528,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Loka pri Mengsu",
+    "gn:country_code":"SI",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196271,
+    "gn:latitude":46.15,
+    "gn:longitude":14.56528,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Loka pri Meng\u0161u",
+    "gn:population":844,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loka",
+        "Loka pri Meng\u0161u"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959509,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196271,
+        "wk:page":"Loka_pri_Meng%C5%A1u"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3782fc75828bbf4283501a8508aaa201",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959509,
+            "locality_id":1293232143,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1293232143,
+    "wof:lastmodified":1537700223,
+    "wof:name":"Loka pri Mengsu",
+    "wof:parent_id":1108959509,
+    "wof:placetype":"locality",
+    "wof:population":844,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.56528,
+    46.15,
+    14.56528,
+    46.15
+],
+  "geometry": {"coordinates":[14.56528,46.15],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1277163647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.40888,45.85929,14.40888,45.85929",
+    "geom:latitude":45.85929,
+    "geom:longitude":14.40888,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Krzisce",
+    "gn:country_code":"SI",
+    "gn:dem":807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197044,
+    "gn:latitude":45.85929,
+    "gn:longitude":14.40888,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Kr\u017ei\u0161\u010de",
+    "gn:population":11,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kr\u017ei\u0161\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959905,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197044,
+        "wk:page":"Kr%C5%BEi%C5%A1%C4%8De%2C_Cerknica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2047a2aa836cc80cd20e550b21ae6be8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959905,
+            "locality_id":1277163647,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1277163647,
+    "wof:lastmodified":1537700227,
+    "wof:name":"Krzisce",
+    "wof:parent_id":1108959905,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.40888,
+    45.85929,
+    14.40888,
+    45.85929
+],
+  "geometry": {"coordinates":[14.40888,45.85929],"type":"Point"}
+}

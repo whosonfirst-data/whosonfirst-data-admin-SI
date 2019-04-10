@@ -1,0 +1,71 @@
+{
+  "id": 1259513627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.09473,46.41747,14.09473,46.41747",
+    "geom:latitude":46.41747,
+    "geom:longitude":14.09473,
+    "gn:admin1_code":"H4",
+    "gn:asciiname":"Lipce",
+    "gn:country_code":"SI",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987154,
+    "gn:latitude":46.41747,
+    "gn:longitude":14.09473,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Lipce",
+    "gn:population":240,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959875,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987154,
+        "wk:page":"Lipce%2C_Jesenice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5d2f5d3df5d6a8bee866e442e08c4b6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959875,
+            "locality_id":1259513627,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1259513627,
+    "wof:lastmodified":1537573470,
+    "wof:name":"Lipce",
+    "wof:parent_id":1108959875,
+    "wof:placetype":"locality",
+    "wof:population":240,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.09473,
+    46.41747,
+    14.09473,
+    46.41747
+],
+  "geometry": {"coordinates":[14.09473,46.41747],"type":"Point"}
+}

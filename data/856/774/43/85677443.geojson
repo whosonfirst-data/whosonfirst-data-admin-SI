@@ -1,0 +1,192 @@
+{
+  "id": 85677443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.017169,
+    "geom:area_square_m":147048209.653661,
+    "geom:bbox":"14.1619576347,46.0881432164,14.3938297866,46.2429658072",
+    "geom:latitude":46.160379,
+    "geom:longitude":14.276627,
+    "gn:population":22713,
+    "iso:country":"SI",
+    "lbl:latitude":46.157886,
+    "lbl:longitude":14.276627,
+    "mps:latitude":46.157886,
+    "mps:longitude":14.276627,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ces_x_preferred":[
+        "Ob\u010dina \u0160kofja Loka"
+    ],
+    "name:eng_x_preferred":[
+        "Municipality of \u0160kofja Loka"
+    ],
+    "name:eng_x_variant":[
+        "\u0160kofja Loka"
+    ],
+    "name:hbs_x_preferred":[
+        "\u0160kofja Loka"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina \u0160kofja Loka"
+    ],
+    "name:nld_x_preferred":[
+        "\u0160kofja Loka"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina \u0160kofja Loka"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna \u0160kofja Loka"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina \u0160kofja Loka"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0428\u043a\u043e\u0444\u0458\u0430 \u041b\u043e\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u043a\u043e\u0444\u044f \u041b\u043e\u043a\u0430"
+    ],
+    "name:und_x_preferred":[
+        "Skofja Loka"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina \u0160kofja Loka"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-1017",
+    "ne:adm1_code":"SVN-1017",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SI.GO.SL",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"1017",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SIB9",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.B9",
+    "ne:gn_id":"3190716",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Skofja Loka",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI25",
+    "ne:gns_id":"-95830",
+    "ne:gns_lang":"sqi",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Skofja Loka, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"46.15760000000",
+    "ne:longitude":"14.27790000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"\u0160kofja Loka",
+    "ne:name_alt":"",
+    "ne:name_len":11,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"SL",
+    "ne:provnum_ne":"183",
+    "ne:region":"Gorenjska",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":55848386,
+    "ne:woe_label":"Skofja Loka, SI, Slovenia",
+    "ne:woe_name":"\u0160kofja Loka",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"\u0160kofja Loka",
+    "qs:a1_lc":"SVN-1017",
+    "qs:a1r":"Gorenjska",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "unlc:subdivision":"SI-122",
+    "wd:wordcount":116,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SIB9",
+        "gn:id":3190716,
+        "gp:id":55848386,
+        "hasc:id":"SI.GO.SL",
+        "qs:id":224201,
+        "unlc:id":"SI-122",
+        "wd:id":"Q2318898",
+        "wk:page":"Municipality of \u0160kofja Loka"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5e3c31c459ad633f0b5d4582fb081e5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677443
+        }
+    ],
+    "wof:id":85677443,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616729,
+    "wof:name":"\u0160kofja Loka",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:population":22713,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:shortcode":"SL",
+    "wof:subdivision":"SI-122",
+    "wof:superseded_by":[
+        1108959821
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.16195763473712,
+    46.08814321643632,
+    14.39382978661541,
+    46.24296580722626
+],
+  "geometry": {"coordinates":[[[14.34959476118934,46.19247793231079],[14.36540774936816,46.19557851773448],[14.36711307081163,46.19451915143776],[14.36494266137476,46.19165110911143],[14.36308231030046,46.18793040606346],[14.36416751501883,46.18317617424111],[14.36804324679844,46.18234935194107],[14.37176394984647,46.18296946956542],[14.37982547356683,46.18147085189833],[14.38509647022596,46.17635488487008],[14.39382978661541,46.16033519111625],[14.38416629423915,46.15816478078006],[14.38230594226548,46.15542593056227],[14.37750003359974,46.15020661074652],[14.36912845241619,46.14718353878936],[14.35734622564786,46.14534902613673],[14.33781253442095,46.13460032814271],[14.33093956910585,46.12690054052757],[14.32783898278285,46.1186323112322],[14.33062950984407,46.11336131457307],[14.32504845482237,46.09832347275011],[14.26732588118449,46.10648834925797],[14.23197920087949,46.09989960388367],[14.21115359935919,46.08814321643632],[14.20805301303619,46.09713491524417],[14.20076663567176,46.10250926379155],[14.19983645968489,46.11108755144937],[14.19999148931583,46.11997589836909],[14.20309207473952,46.12545359970392],[14.20696780831776,46.13005280189532],[14.20634768979409,46.13470368093016],[14.20479739798157,46.13798513440651],[14.20045657730924,46.14100820636367],[14.20107669403427,46.14421214547417],[14.20355716273292,46.1489663763972],[14.20836307139865,46.15516754814388],[14.21456424314533,46.15914663271099],[14.2228324724407,46.17082550669181],[14.2190600934486,46.1751663273642],[14.21301395043349,46.17919708877469],[14.20433230998816,46.18085073517335],[14.18588382258042,46.18007558881743],[14.17348147998638,46.17829275210886],[14.16195763473712,46.1793779568273],[14.16976077603903,46.1887055533187],[14.19084476087704,46.1936923282384],[14.19875125496651,46.19893748647587],[14.2159595071256,46.20475108549425],[14.22154056214725,46.20544871748439],[14.22546796987098,46.20684398056528],[14.23042890816765,46.21066803640082],[14.23523481593406,46.22818634692243],[14.24283125166096,46.23366404915657],[14.24856733631356,46.24296580722626],[14.27538740400553,46.23407746030659],[14.2772477559792,46.23213959396713],[14.27864301906015,46.22968496369015],[14.27802290233512,46.22671356947569],[14.27554243273715,46.22467235034873],[14.27213178895096,46.22265696874416],[14.26965132025225,46.21945303053297],[14.26949629062136,46.21438874034817],[14.27585249199893,46.21082306603171],[14.33796756405189,46.19291718188248],[14.34959476118934,46.19247793231079]]],"type":"Polygon"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343895389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.12061,45.68474,14.12061,45.68474",
+    "geom:latitude":45.68474,
+    "geom:longitude":14.12061,
+    "gn:admin1_code":"91",
+    "gn:asciiname":"Gornja Kosana",
+    "gn:country_code":"SI",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200244,
+    "gn:latitude":45.68474,
+    "gn:longitude":14.12061,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Gornja Ko\u0161ana",
+    "gn:population":134,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gorenja Ko\u0161ana",
+        "Gornja Ko\u0161ana"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959587,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200244,
+        "wk:page":"Gornja_Ko%C5%A1ana"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8452987dde2dcfe157314aa5de00b99e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959587,
+            "locality_id":1343895389,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1343895389,
+    "wof:lastmodified":1537700243,
+    "wof:name":"Gornja Kosana",
+    "wof:parent_id":1108959587,
+    "wof:placetype":"locality",
+    "wof:population":134,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.12061,
+    45.68474000000001,
+    14.12061,
+    45.68474000000001
+],
+  "geometry": {"coordinates":[14.12061,45.68474000000001],"type":"Point"}
+}

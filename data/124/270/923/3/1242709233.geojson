@@ -1,0 +1,71 @@
+{
+  "id": 1242709233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.08763,46.26958,15.08763,46.26958",
+    "geom:latitude":46.26958,
+    "geom:longitude":15.08763,
+    "gn:admin1_code":"K3",
+    "gn:asciiname":"Breg pri Polzeli",
+    "gn:country_code":"SI",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986866,
+    "gn:latitude":46.26958,
+    "gn:longitude":15.08763,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Breg pri Polzeli",
+    "gn:population":957,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959635,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986866,
+        "wk:page":"Breg_pri_Polzeli"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b50873c7744505298009f0b8685762bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959635,
+            "locality_id":1242709233,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1242709233,
+    "wof:lastmodified":1537573463,
+    "wof:name":"Breg pri Polzeli",
+    "wof:parent_id":1108959635,
+    "wof:placetype":"locality",
+    "wof:population":957,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.08763,
+    46.26958,
+    15.08763,
+    46.26958
+],
+  "geometry": {"coordinates":[15.08763,46.26958],"type":"Point"}
+}

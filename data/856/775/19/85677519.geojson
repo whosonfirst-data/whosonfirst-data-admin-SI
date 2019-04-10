@@ -1,0 +1,186 @@
+{
+  "id": 85677519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.026606,
+    "geom:area_square_m":229634105.763418,
+    "geom:bbox":"13.6999084163,45.6337584063,13.9898751158,45.8102273631",
+    "geom:latitude":45.734972,
+    "geom:longitude":13.86811,
+    "gn:population":12894,
+    "iso:country":"SI",
+    "lbl:latitude":45.734475,
+    "lbl:longitude":13.877998,
+    "mps:latitude":45.734475,
+    "mps:longitude":13.877998,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ces_x_preferred":[
+        "Ob\u010dina Se\u017eana"
+    ],
+    "name:hbs_x_preferred":[
+        "Se\u017eana"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Se\u017eana"
+    ],
+    "name:nld_x_preferred":[
+        "Se\u017eana"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Se\u017eana"
+    ],
+    "name:sco_x_preferred":[
+        "Municipality o Se\u017eana"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Se\u017eana"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0421\u0435\u0436\u0430\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u0436\u0430\u043d\u0430"
+    ],
+    "name:und_x_preferred":[
+        "Sezana"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Se\u017eana"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-1034",
+    "ne:adm1_code":"SVN-1034",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SI.JP.SE",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"1034",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SIB7",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.B7",
+    "ne:gn_id":"3190944",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Sezana",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI25",
+    "ne:gns_id":"-95495",
+    "ne:gns_lang":"sqi",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Sezana, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"45.73190000000",
+    "ne:longitude":"13.84490000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Se\u017eana",
+    "ne:name_alt":"",
+    "ne:name_len":6,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"SE",
+    "ne:provnum_ne":"97",
+    "ne:region":"Obalno-kra\u0161ka",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":55848385,
+    "ne:woe_label":"Sezana, SI, Slovenia",
+    "ne:woe_name":"Se\u017eana",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Se\u017eana",
+    "qs:a1_lc":"SVN-1034",
+    "qs:a1r":"Obalno-kra\u0161ka",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "unlc:subdivision":"SI-111",
+    "wd:wordcount":258,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SIB7",
+        "gn:id":3190944,
+        "gp:id":55848385,
+        "hasc:id":"SI.JP.SE",
+        "qs:id":1198585,
+        "unlc:id":"SI-111",
+        "wd:id":"Q554854",
+        "wk:page":"Municipality of Se\u017eana"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"faa968536cfa55ed6760bfa5b69bc163",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677519
+        }
+    ],
+    "wof:id":85677519,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616730,
+    "wof:name":"Se\u017eana",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:population":12894,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:shortcode":"SE",
+    "wof:subdivision":"SI-111",
+    "wof:superseded_by":[
+        1108959789
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.69990841634041,
+    45.63375840632546,
+    13.98987511584397,
+    45.8102273631024
+],
+  "geometry": {"coordinates":[[[13.98987511584397,45.76501048394675],[13.97561242037693,45.74847402625534],[13.96445031123295,45.74433991115802],[13.95669884587511,45.7399732529633],[13.95561364115667,45.73328115480149],[13.95964440256716,45.72209320723579],[13.96507042795793,45.71410919878053],[13.96786095501909,45.70527252870431],[13.96243492962833,45.69811534344842],[13.93649336107978,45.67039093729198],[13.9436763847574,45.66114085516637],[13.93835371305346,45.64264069271383],[13.90889814613257,45.6437775742757],[13.89364052978669,45.63375840632546],[13.89313602720591,45.63468332937219],[13.88414432749875,45.6351484173656],[13.86915816341855,45.64114288443665],[13.85840946542453,45.64935943598925],[13.77872440600657,45.7434105436617],[13.70947798622012,45.76532135169907],[13.69990841634041,45.77052373638139],[13.69991865422259,45.77053986302434],[13.70575809076331,45.77973826830652],[13.72580854682701,45.78976349498936],[13.7318546889428,45.79133962702224],[13.75309370341171,45.79087453902883],[13.85272586430722,45.79958201789589],[13.902541944755,45.8102273631024],[13.93137739405154,45.79322581651826],[13.98351891356708,45.7729428173572],[13.98987511584397,45.76501048394675]]],"type":"Polygon"}
+}

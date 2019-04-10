@@ -1,0 +1,71 @@
+{
+  "id": 1276373399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.5411,45.99066,15.5411,45.99066",
+    "geom:latitude":45.99066,
+    "geom:longitude":15.5411,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Ravne pri Zdolah",
+    "gn:country_code":"SI",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987263,
+    "gn:latitude":45.99066,
+    "gn:longitude":15.5411,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ravne pri Zdolah",
+    "gn:population":198,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987263,
+        "wk:page":"Ravne_pri_Zdolah"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8aa0560eb68396b5fae43d76fc461464",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1276373399,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1276373399,
+    "wof:lastmodified":1537573474,
+    "wof:name":"Ravne pri Zdolah",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":198,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.5411,
+    45.99066,
+    15.5411,
+    45.99066
+],
+  "geometry": {"coordinates":[15.5411,45.99066],"type":"Point"}
+}

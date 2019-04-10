@@ -1,0 +1,71 @@
+{
+  "id": 1327467563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.25085,46.21834,14.25085,46.21834",
+    "geom:latitude":46.21834,
+    "geom:longitude":14.25085,
+    "gn:admin1_code":"B9",
+    "gn:asciiname":"Knape",
+    "gn:country_code":"SI",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988047,
+    "gn:latitude":46.21834,
+    "gn:longitude":14.25085,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Knape",
+    "gn:population":78,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959821,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988047,
+        "wk:page":"Knape"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6b2095889df91ed31a317938e7bb0d78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959821,
+            "locality_id":1327467563,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1327467563,
+    "wof:lastmodified":1537573500,
+    "wof:name":"Knape",
+    "wof:parent_id":1108959821,
+    "wof:placetype":"locality",
+    "wof:population":78,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.25085,
+    46.21834000000001,
+    14.25085,
+    46.21834000000001
+],
+  "geometry": {"coordinates":[14.25085,46.21834000000001],"type":"Point"}
+}

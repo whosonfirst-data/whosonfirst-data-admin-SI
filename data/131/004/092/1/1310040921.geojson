@@ -1,0 +1,71 @@
+{
+  "id": 1310040921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.9349,46.3198,15.9349,46.3198",
+    "geom:latitude":46.3198,
+    "geom:longitude":15.9349,
+    "gn:admin1_code":"N2",
+    "gn:asciiname":"Berinjak",
+    "gn:country_code":"SI",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989080,
+    "gn:latitude":46.3198,
+    "gn:longitude":15.9349,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Berinjak",
+    "gn:population":19,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959747,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989080,
+        "wk:page":"Berinjak"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2b47511a88137b0a38c855e604f711ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959747,
+            "locality_id":1310040921,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1310040921,
+    "wof:lastmodified":1537573531,
+    "wof:name":"Berinjak",
+    "wof:parent_id":1108959747,
+    "wof:placetype":"locality",
+    "wof:population":19,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.9349,
+    46.3198,
+    15.9349,
+    46.3198
+],
+  "geometry": {"coordinates":[15.9349,46.3198],"type":"Point"}
+}

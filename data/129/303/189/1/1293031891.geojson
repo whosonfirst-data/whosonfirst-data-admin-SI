@@ -1,0 +1,71 @@
+{
+  "id": 1293031891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.68173,45.81688,14.68173,45.81688",
+    "geom:latitude":45.81688,
+    "geom:longitude":14.68173,
+    "gn:admin1_code":"L1",
+    "gn:asciiname":"Bukovec pri Poljanah",
+    "gn:country_code":"SI",
+    "gn:dem":707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989663,
+    "gn:latitude":45.81688,
+    "gn:longitude":14.68173,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Bukovec pri Poljanah",
+    "gn:population":9,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959599,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989663,
+        "wk:page":"Bukovec_pri_Poljanah"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8d39b8ad636838504f2b18e8da536f7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959599,
+            "locality_id":1293031891,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1293031891,
+    "wof:lastmodified":1537573549,
+    "wof:name":"Bukovec pri Poljanah",
+    "wof:parent_id":1108959599,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.68173,
+    45.81688,
+    14.68173,
+    45.81688
+],
+  "geometry": {"coordinates":[14.68173,45.81688],"type":"Point"}
+}

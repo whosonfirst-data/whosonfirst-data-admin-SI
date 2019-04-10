@@ -1,0 +1,71 @@
+{
+  "id": 1243206039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.71618,46.59178,15.71618,46.59178",
+    "geom:latitude":46.59178,
+    "geom:longitude":15.71618,
+    "gn:admin1_code":"89",
+    "gn:asciiname":"Vosek",
+    "gn:country_code":"SI",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987025,
+    "gn:latitude":46.59178,
+    "gn:longitude":15.71618,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Vosek",
+    "gn:population":317,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959553,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987025,
+        "wk:page":"Vosek%2C_Pesnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"65e45e20a12e04bf61c5d2a782ece650",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959553,
+            "locality_id":1243206039,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1243206039,
+    "wof:lastmodified":1537573467,
+    "wof:name":"Vosek",
+    "wof:parent_id":1108959553,
+    "wof:placetype":"locality",
+    "wof:population":317,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.71618,
+    46.59178,
+    15.71618,
+    46.59178
+],
+  "geometry": {"coordinates":[15.71618,46.59178],"type":"Point"}
+}

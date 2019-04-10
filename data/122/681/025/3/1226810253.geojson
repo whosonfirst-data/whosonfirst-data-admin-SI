@@ -1,0 +1,74 @@
+{
+  "id": 1226810253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.9196,46.65013,15.9196,46.65013",
+    "geom:latitude":46.65013,
+    "geom:longitude":15.9196,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Spodnja Scavnica",
+    "gn:country_code":"SI",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986972,
+    "gn:latitude":46.65013,
+    "gn:longitude":15.9196,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Spodnja \u0160\u010davnica",
+    "gn:population":405,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Spodnja \u0160\u010davnica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959817,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986972,
+        "wk:page":"Spodnja_%C5%A0%C4%8Davnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"759247296a59d735bf4974356a10cc05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959817,
+            "locality_id":1226810253,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1226810253,
+    "wof:lastmodified":1537700277,
+    "wof:name":"Spodnja Scavnica",
+    "wof:parent_id":1108959817,
+    "wof:placetype":"locality",
+    "wof:population":405,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.9196,
+    46.65013,
+    15.9196,
+    46.65013
+],
+  "geometry": {"coordinates":[15.9196,46.65013],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1326970211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.95177,45.96255,13.95177,45.96255",
+    "geom:latitude":45.96255,
+    "geom:longitude":13.95177,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Idrijska Bela",
+    "gn:country_code":"SI",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3199166,
+    "gn:latitude":45.96255,
+    "gn:longitude":13.95177,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Idrijska Bela",
+    "gn:population":76,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bella d\u2019 Idria",
+        "Idrijska Bela"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959535,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199166,
+        "wk:page":"Idrijska_Bela"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"08eaf1ab2174598d53f04e6b709cecf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959535,
+            "locality_id":1326970211,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1326970211,
+    "wof:lastmodified":1537700238,
+    "wof:name":"Idrijska Bela",
+    "wof:parent_id":1108959535,
+    "wof:placetype":"locality",
+    "wof:population":76,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.95177,
+    45.96255,
+    13.95177,
+    45.96255
+],
+  "geometry": {"coordinates":[13.95177,45.96255],"type":"Point"}
+}

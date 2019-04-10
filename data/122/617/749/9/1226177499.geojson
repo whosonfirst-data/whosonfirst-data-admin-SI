@@ -1,0 +1,74 @@
+{
+  "id": 1226177499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0246,46.23988,15.0246,46.23988",
+    "geom:latitude":46.23988,
+    "geom:longitude":15.0246,
+    "gn:admin1_code":"M5",
+    "gn:asciiname":"Ojstriska Vas",
+    "gn:country_code":"SI",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987101,
+    "gn:latitude":46.23988,
+    "gn:longitude":15.0246,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ojstri\u0161ka Vas",
+    "gn:population":274,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ojstri\u0161ka Vas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959715,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987101,
+        "wk:page":"Ojstri%C5%A1ka_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4f20841edab9c76585e06be814c6a6bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959715,
+            "locality_id":1226177499,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1226177499,
+    "wof:lastmodified":1537700279,
+    "wof:name":"Ojstriska Vas",
+    "wof:parent_id":1108959715,
+    "wof:placetype":"locality",
+    "wof:population":274,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0246,
+    46.23988,
+    15.0246,
+    46.23988
+],
+  "geometry": {"coordinates":[15.0246,46.23988],"type":"Point"}
+}

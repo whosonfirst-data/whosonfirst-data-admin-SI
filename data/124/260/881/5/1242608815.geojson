@@ -1,0 +1,74 @@
+{
+  "id": 1242608815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.24345,45.651,15.24345,45.651",
+    "geom:latitude":45.651,
+    "geom:longitude":15.24345,
+    "gn:admin1_code":"B1",
+    "gn:asciiname":"Cerovec pri Cresnjevcu",
+    "gn:country_code":"SI",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989846,
+    "gn:latitude":45.651,
+    "gn:longitude":15.24345,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Cerovec pri \u010cre\u0161njevcu",
+    "gn:population":62,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cerovec pri \u010cre\u0161njevcu"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959601,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989846,
+        "wk:page":"Cerovec_pri_%C4%8Cre%C5%A1njevcu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"42424b6fc0cc8dccb07f2b72a6956129",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959601,
+            "locality_id":1242608815,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1242608815,
+    "wof:lastmodified":1537700334,
+    "wof:name":"Cerovec pri Cresnjevcu",
+    "wof:parent_id":1108959601,
+    "wof:placetype":"locality",
+    "wof:population":62,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.24345,
+    45.651,
+    15.24345,
+    45.651
+],
+  "geometry": {"coordinates":[15.24345,45.651],"type":"Point"}
+}

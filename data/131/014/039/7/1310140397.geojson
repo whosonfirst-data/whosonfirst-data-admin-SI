@@ -1,0 +1,71 @@
+{
+  "id": 1310140397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.98333,46.25,14.98333,46.25",
+    "geom:latitude":46.25,
+    "geom:longitude":14.98333,
+    "gn:admin1_code":"N4",
+    "gn:asciiname":"Prekopa",
+    "gn:country_code":"SI",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192540,
+    "gn:latitude":46.25,
+    "gn:longitude":14.98333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Prekopa",
+    "gn:population":246,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959827,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192540,
+        "wk:page":"Prekopa%2C_Vransko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7530ced2f937b0c1ade5197e97ff1297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959827,
+            "locality_id":1310140397,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1310140397,
+    "wof:lastmodified":1537573409,
+    "wof:name":"Prekopa",
+    "wof:parent_id":1108959827,
+    "wof:placetype":"locality",
+    "wof:population":246,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.98333,
+    46.25,
+    14.98333,
+    46.25
+],
+  "geometry": {"coordinates":[14.98333,46.25],"type":"Point"}
+}

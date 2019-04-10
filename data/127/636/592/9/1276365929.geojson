@@ -1,0 +1,71 @@
+{
+  "id": 1276365929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.02257,45.78522,15.02257,45.78522",
+    "geom:latitude":45.78522,
+    "geom:longitude":15.02257,
+    "gn:admin1_code":"G6",
+    "gn:asciiname":"Soteska",
+    "gn:country_code":"SI",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987365,
+    "gn:latitude":45.78522,
+    "gn:longitude":15.02257,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Soteska",
+    "gn:population":165,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959675,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987365,
+        "wk:page":"Soteska%2C_Dolenjske_Toplice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4418146fcea8b9ea9ec1a82caa23d9f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959675,
+            "locality_id":1276365929,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1276365929,
+    "wof:lastmodified":1537573477,
+    "wof:name":"Soteska",
+    "wof:parent_id":1108959675,
+    "wof:placetype":"locality",
+    "wof:population":165,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.02257,
+    45.78522,
+    15.02257,
+    45.78522
+],
+  "geometry": {"coordinates":[15.02257,45.78522],"type":"Point"}
+}

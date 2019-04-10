@@ -1,0 +1,71 @@
+{
+  "id": 1209450061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.37938,45.84528,15.37938,45.84528",
+    "geom:latitude":45.84528,
+    "geom:longitude":15.37938,
+    "gn:admin1_code":"O3",
+    "gn:asciiname":"Gornja Prekopa",
+    "gn:country_code":"SI",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200202,
+    "gn:latitude":45.84528,
+    "gn:longitude":15.37938,
+    "gn:modification_date":"2015-12-03",
+    "gn:name":"Gornja Prekopa",
+    "gn:population":119,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Gorenje Prekope"
+    ],
+    "name:slv_x_preferred":[
+        "Gorenje Prekope"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200202,
+        "wk:page":"Gornja_Prekopa"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b86c0c12e8c0a90ca08b97b47a818f11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209450061
+        }
+    ],
+    "wof:id":1209450061,
+    "wof:lastmodified":1537700243,
+    "wof:name":"Gornja Prekopa",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":119,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.37938,
+    45.84528,
+    15.37938,
+    45.84528
+],
+  "geometry": {"coordinates":[15.37938,45.84528],"type":"Point"}
+}

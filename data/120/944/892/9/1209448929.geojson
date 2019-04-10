@@ -1,0 +1,72 @@
+{
+  "id": 1209448929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.97083,45.46917,13.97083,45.46917",
+    "geom:latitude":45.46917,
+    "geom:longitude":13.97083,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Rakitovec",
+    "gn:country_code":"SI",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192007,
+    "gn:latitude":45.46917,
+    "gn:longitude":13.97083,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Rakitovec",
+    "gn:population":127,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Acquaviva dei Vena",
+        "Rakitovac",
+        "Acquariva",
+        "Rachitovich",
+        "Rakitovec"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192007,
+        "wk:page":"Rakitovec%2C_Koper"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6cdf866af2f6c4e71a26cf3b92922c38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209448929
+        }
+    ],
+    "wof:id":1209448929,
+    "wof:lastmodified":1537700201,
+    "wof:name":"Rakitovec",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":127,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.97083,
+    45.46917,
+    13.97083,
+    45.46917
+],
+  "geometry": {"coordinates":[13.97083,45.46917],"type":"Point"}
+}

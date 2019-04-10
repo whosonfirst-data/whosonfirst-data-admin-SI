@@ -1,0 +1,71 @@
+{
+  "id": 1243485419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.49471,45.99947,15.49471,45.99947",
+    "geom:latitude":45.99947,
+    "geom:longitude":15.49471,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Stolovnik",
+    "gn:country_code":"SI",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987170,
+    "gn:latitude":45.99947,
+    "gn:longitude":15.49471,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Stolovnik",
+    "gn:population":233,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987170,
+        "wk:page":"Stolovnik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"46f1beff99a64310ed21a37329c7ab3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1243485419,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1243485419,
+    "wof:lastmodified":1537573471,
+    "wof:name":"Stolovnik",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":233,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.49471,
+    45.99947,
+    15.49471,
+    45.99947
+],
+  "geometry": {"coordinates":[15.49471,45.99947],"type":"Point"}
+}

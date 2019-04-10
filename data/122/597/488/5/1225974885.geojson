@@ -1,0 +1,71 @@
+{
+  "id": 1225974885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.72553,46.17037,14.72553,46.17037",
+    "geom:latitude":46.17037,
+    "geom:longitude":14.72553,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Kompolje",
+    "gn:country_code":"SI",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988789,
+    "gn:latitude":46.17037,
+    "gn:longitude":14.72553,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kompolje",
+    "gn:population":32,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959807,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988789,
+        "wk:page":"Kompolje%2C_Lukovica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9ca03d7beb8d5101d2d2793500dfe2d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959807,
+            "locality_id":1225974885,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1225974885,
+    "wof:lastmodified":1537573523,
+    "wof:name":"Kompolje",
+    "wof:parent_id":1108959807,
+    "wof:placetype":"locality",
+    "wof:population":32,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.72553,
+    46.17037,
+    14.72553,
+    46.17037
+],
+  "geometry": {"coordinates":[14.72553,46.17037],"type":"Point"}
+}

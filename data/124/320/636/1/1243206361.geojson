@@ -1,0 +1,74 @@
+{
+  "id": 1243206361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.14155,46.39725,14.14155,46.39725",
+    "geom:latitude":46.39725,
+    "geom:longitude":14.14155,
+    "gn:admin1_code":"N7",
+    "gn:asciiname":"Selo pri Zirovnici",
+    "gn:country_code":"SI",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987041,
+    "gn:latitude":46.39725,
+    "gn:longitude":14.14155,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Selo pri \u017dirovnici",
+    "gn:population":296,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Selo pri \u017dirovnici"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959899,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987041,
+        "wk:page":"Selo_pri_%C5%BDirovnici"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2903e11314499d3537bbebdc2873c381",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959899,
+            "locality_id":1243206361,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1243206361,
+    "wof:lastmodified":1537700279,
+    "wof:name":"Selo pri Zirovnici",
+    "wof:parent_id":1108959899,
+    "wof:placetype":"locality",
+    "wof:population":296,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.14155,
+    46.39725,
+    14.14155,
+    46.39725
+],
+  "geometry": {"coordinates":[14.14155,46.39725],"type":"Point"}
+}

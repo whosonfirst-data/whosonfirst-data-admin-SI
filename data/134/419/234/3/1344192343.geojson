@@ -1,0 +1,77 @@
+{
+  "id": 1344192343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23329,45.96127,15.23329,45.96127",
+    "geom:latitude":45.96127,
+    "geom:longitude":15.23329,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Zgornje Vodale",
+    "gn:country_code":"SI",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989593,
+    "gn:latitude":45.96127,
+    "gn:longitude":15.23329,
+    "gn:modification_date":"2015-12-13",
+    "gn:name":"Zgornje Vodale",
+    "gn:population":35,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Gorenje Vodale"
+    ],
+    "name:slv_x_preferred":[
+        "Gorenje Vodale"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989593,
+        "wk:page":"Zgornje_Vodale"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"264582eb3305bf7c6a2fdf05be1d05e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1344192343,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1344192343,
+    "wof:lastmodified":1537700329,
+    "wof:name":"Zgornje Vodale",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":35,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23329,
+    45.96127,
+    15.23329,
+    45.96127
+],
+  "geometry": {"coordinates":[15.23329,45.96127],"type":"Point"}
+}

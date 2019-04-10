@@ -1,0 +1,71 @@
+{
+  "id": 1260014603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.73366,45.59007,13.73366,45.59007",
+    "geom:latitude":45.59007,
+    "geom:longitude":13.73366,
+    "gn:admin1_code":"P9",
+    "gn:asciiname":"Barizoni",
+    "gn:country_code":"SI",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987529,
+    "gn:latitude":45.59007,
+    "gn:longitude":13.73366,
+    "gn:modification_date":"2017-09-12",
+    "gn:name":"Barizoni",
+    "gn:population":136,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959527,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987529,
+        "wk:page":"Barizoni"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"72245826a83434dc78e6291d7228e630",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959527,
+            "locality_id":1260014603,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1260014603,
+    "wof:lastmodified":1537573483,
+    "wof:name":"Barizoni",
+    "wof:parent_id":1108959527,
+    "wof:placetype":"locality",
+    "wof:population":136,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.73366,
+    45.59007,
+    13.73366,
+    45.59007
+],
+  "geometry": {"coordinates":[13.73366,45.59007],"type":"Point"}
+}

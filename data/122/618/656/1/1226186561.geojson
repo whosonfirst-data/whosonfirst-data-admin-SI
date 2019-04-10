@@ -1,0 +1,71 @@
+{
+  "id": 1226186561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.99881,45.92488,13.99881,45.92488",
+    "geom:latitude":45.92488,
+    "geom:longitude":13.99881,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Mrzli Log",
+    "gn:country_code":"SI",
+    "gn:dem":1056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988941,
+    "gn:latitude":45.92488,
+    "gn:longitude":13.99881,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Mrzli Log",
+    "gn:population":25,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959535,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988941,
+        "wk:page":"Mrzli_Log"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d87923630f7033185008e5a57b5acd51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959535,
+            "locality_id":1226186561,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1226186561,
+    "wof:lastmodified":1537573527,
+    "wof:name":"Mrzli Log",
+    "wof:parent_id":1108959535,
+    "wof:placetype":"locality",
+    "wof:population":25,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.99881,
+    45.92488,
+    13.99881,
+    45.92488
+],
+  "geometry": {"coordinates":[13.99881,45.92488],"type":"Point"}
+}

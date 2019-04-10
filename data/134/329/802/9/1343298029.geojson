@@ -1,0 +1,74 @@
+{
+  "id": 1343298029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.62464,46.27049,14.62464,46.27049",
+    "geom:latitude":46.27049,
+    "geom:longitude":14.62464,
+    "gn:admin1_code":"H6",
+    "gn:asciiname":"Crna pri Kamniku",
+    "gn:country_code":"SI",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987274,
+    "gn:latitude":46.27049,
+    "gn:longitude":14.62464,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u010crna pri Kamniku",
+    "gn:population":193,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010crna pri Kamniku"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959941,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987274,
+        "wk:page":"%C4%8Crna_pri_Kamniku"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7344be456a075c296358117163d9847c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959941,
+            "locality_id":1343298029,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1343298029,
+    "wof:lastmodified":1537700283,
+    "wof:name":"Crna pri Kamniku",
+    "wof:parent_id":1108959941,
+    "wof:placetype":"locality",
+    "wof:population":193,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.62464,
+    46.27049,
+    14.62464,
+    46.27049
+],
+  "geometry": {"coordinates":[14.62464,46.27049],"type":"Point"}
+}

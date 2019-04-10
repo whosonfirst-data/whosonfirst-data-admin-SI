@@ -1,0 +1,74 @@
+{
+  "id": 1259514319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.86339,46.15288,14.86339,46.15288",
+    "geom:latitude":46.15288,
+    "geom:longitude":14.86339,
+    "gn:admin1_code":"E7",
+    "gn:asciiname":"Zvarulje",
+    "gn:country_code":"SI",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988097,
+    "gn:latitude":46.15288,
+    "gn:longitude":14.86339,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u017dvarulje",
+    "gn:population":74,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017dvarulje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959683,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988097,
+        "wk:page":"%C5%BDvarulje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"40a1b01f626d4ccfaee76d2448ada680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959683,
+            "locality_id":1259514319,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1259514319,
+    "wof:lastmodified":1537700299,
+    "wof:name":"Zvarulje",
+    "wof:parent_id":1108959683,
+    "wof:placetype":"locality",
+    "wof:population":74,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.86339,
+    46.15288,
+    14.86339,
+    46.15288
+],
+  "geometry": {"coordinates":[14.86339,46.15288],"type":"Point"}
+}

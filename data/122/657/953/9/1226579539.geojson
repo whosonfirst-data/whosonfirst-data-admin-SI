@@ -1,0 +1,77 @@
+{
+  "id": 1226579539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23657,45.89663,15.23657,45.89663",
+    "geom:latitude":45.89663,
+    "geom:longitude":15.23657,
+    "gn:admin1_code":"P3",
+    "gn:asciiname":"Radovlja",
+    "gn:country_code":"SI",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987305,
+    "gn:latitude":45.89663,
+    "gn:longitude":15.23657,
+    "gn:modification_date":"2015-12-03",
+    "gn:name":"Radovlja",
+    "gn:population":182,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Radovlje"
+    ],
+    "name:slv_x_preferred":[
+        "Radovlje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959833,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987305,
+        "wk:page":"Radovlja"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c6b47e340c846b70df76f793ce1400d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959833,
+            "locality_id":1226579539,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1226579539,
+    "wof:lastmodified":1537700284,
+    "wof:name":"Radovlja",
+    "wof:parent_id":1108959833,
+    "wof:placetype":"locality",
+    "wof:population":182,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23657,
+    45.89663,
+    15.23657,
+    45.89663
+],
+  "geometry": {"coordinates":[15.23657,45.89663],"type":"Point"}
+}

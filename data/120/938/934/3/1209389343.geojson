@@ -1,0 +1,68 @@
+{
+  "id": 1209389343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.76701,45.78695,14.76701,45.78695",
+    "geom:latitude":45.78695,
+    "geom:longitude":14.76701,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Kolenca Vas",
+    "gn:country_code":"SI",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988466,
+    "gn:latitude":45.78695,
+    "gn:longitude":14.76701,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kolen\u010da Vas",
+    "gn:population":48,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kolen\u010da Vas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988466,
+        "wk:page":"Kolen%C4%8Da_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8095efbc1abaf274fc0531e43cd31a54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209389343
+        }
+    ],
+    "wof:id":1209389343,
+    "wof:lastmodified":1537700307,
+    "wof:name":"Kolenca Vas",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":48,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.76701,
+    45.78695,
+    14.76701,
+    45.78695
+],
+  "geometry": {"coordinates":[14.76701,45.78695],"type":"Point"}
+}

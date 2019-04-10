@@ -1,0 +1,75 @@
+{
+  "id": 1360218253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.14194,46.31222,15.14194,46.31222",
+    "geom:latitude":46.31222,
+    "geom:longitude":15.14194,
+    "gn:admin1_code":"N5",
+    "gn:asciiname":"Ponikva pri Zalcu",
+    "gn:country_code":"SI",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192748,
+    "gn:latitude":46.31222,
+    "gn:longitude":15.14194,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ponikva pri \u017dalcu",
+    "gn:population":373,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ponikva",
+        "Ponikva pri \u017dalcu"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959929,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192748,
+        "wk:page":"Ponikva_pri_%C5%BDalcu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"abada186bb3af6ae83c75f11bde0f3c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959929,
+            "locality_id":1360218253,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1360218253,
+    "wof:lastmodified":1537700206,
+    "wof:name":"Ponikva pri Zalcu",
+    "wof:parent_id":1108959929,
+    "wof:placetype":"locality",
+    "wof:population":373,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.14194,
+    46.31222,
+    15.14194,
+    46.31222
+],
+  "geometry": {"coordinates":[15.14194,46.31222],"type":"Point"}
+}

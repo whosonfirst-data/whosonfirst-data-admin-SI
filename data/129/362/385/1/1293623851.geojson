@@ -1,0 +1,71 @@
+{
+  "id": 1293623851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.26898,46.75249,16.26898,46.75249",
+    "geom:latitude":46.75249,
+    "geom:longitude":16.26898,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Ratkovci",
+    "gn:country_code":"SI",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989850,
+    "gn:latitude":46.75249,
+    "gn:longitude":16.26898,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Ratkovci",
+    "gn:population":57,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959925,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989850,
+        "wk:page":"Ratkovci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"14f6b85613b0490617c9d4b925cfe4a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959925,
+            "locality_id":1293623851,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1293623851,
+    "wof:lastmodified":1537573554,
+    "wof:name":"Ratkovci",
+    "wof:parent_id":1108959925,
+    "wof:placetype":"locality",
+    "wof:population":57,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.26898,
+    46.75249,
+    16.26898,
+    46.75249
+],
+  "geometry": {"coordinates":[16.26898,46.75249],"type":"Point"}
+}

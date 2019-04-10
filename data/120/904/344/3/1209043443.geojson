@@ -1,0 +1,65 @@
+{
+  "id": 1209043443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.96261,45.9145,14.96261,45.9145",
+    "geom:latitude":45.9145,
+    "geom:longitude":14.96261,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Pluska",
+    "gn:country_code":"SI",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988535,
+    "gn:latitude":45.9145,
+    "gn:longitude":14.96261,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Pluska",
+    "gn:population":45,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988535,
+        "wk:page":"Pluska"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0d75fe7919fd14f354a492829f5e527c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209043443
+        }
+    ],
+    "wof:id":1209043443,
+    "wof:lastmodified":1537573515,
+    "wof:name":"Pluska",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":45,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.96261,
+    45.9145,
+    14.96261,
+    45.9145
+],
+  "geometry": {"coordinates":[14.96261,45.9145],"type":"Point"}
+}

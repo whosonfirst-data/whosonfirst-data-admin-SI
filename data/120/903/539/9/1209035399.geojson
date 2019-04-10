@@ -1,0 +1,68 @@
+{
+  "id": 1209035399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.58364,46.23412,14.58364,46.23412",
+    "geom:latitude":46.23412,
+    "geom:longitude":14.58364,
+    "gn:admin1_code":"H6",
+    "gn:asciiname":"Tunjiska Mlaka",
+    "gn:country_code":"SI",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987024,
+    "gn:latitude":46.23412,
+    "gn:longitude":14.58364,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Tunji\u0161ka Mlaka",
+    "gn:population":318,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tunji\u0161ka Mlaka"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987024,
+        "wk:page":"Tunji%C5%A1ka_Mlaka"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3f5d563cbebba9cf08116d3cf8a215d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209035399
+        }
+    ],
+    "wof:id":1209035399,
+    "wof:lastmodified":1537700278,
+    "wof:name":"Tunjiska Mlaka",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":318,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.58364,
+    46.23412,
+    14.58364,
+    46.23412
+],
+  "geometry": {"coordinates":[14.58364,46.23412],"type":"Point"}
+}

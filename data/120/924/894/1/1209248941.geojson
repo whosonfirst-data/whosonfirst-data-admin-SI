@@ -1,0 +1,69 @@
+{
+  "id": 1209248941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.70813,46.12607,14.70813,46.12607",
+    "geom:latitude":46.12607,
+    "geom:longitude":14.70813,
+    "gn:admin1_code":"77",
+    "gn:asciiname":"Vrhpolje pri Moravcah",
+    "gn:country_code":"SI",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187182,
+    "gn:latitude":46.12607,
+    "gn:longitude":14.70813,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Vrhpolje pri Morav\u010dah",
+    "gn:population":227,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vrhpolje",
+        "Vrhpolje pri Morav\u010dah"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187182,
+        "wk:page":"Vrhpolje_pri_Morav%C4%8Dah"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"356f6b7dcf8b8c2b107485faa6386fcd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209248941
+        }
+    ],
+    "wof:id":1209248941,
+    "wof:lastmodified":1537700173,
+    "wof:name":"Vrhpolje pri Moravcah",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":227,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.70813,
+    46.12607,
+    14.70813,
+    46.12607
+],
+  "geometry": {"coordinates":[14.70813,46.12607],"type":"Point"}
+}

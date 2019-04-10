@@ -1,0 +1,117 @@
+{
+  "id": 1125891511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.67722,46.21056,13.67722,46.21056",
+    "geom:latitude":46.21056,
+    "geom:longitude":13.67722,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":239,
+    "iso:country":"SI",
+    "lbl:latitude":46.21056,
+    "lbl:longitude":13.67722,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0412\u043e\u043b\u0430\u0440\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Volarje"
+    ],
+    "name:eng_x_preferred":[
+        "Volarje"
+    ],
+    "name:ita_x_preferred":[
+        "Vollaria"
+    ],
+    "name:rum_x_preferred":[
+        "Volarje"
+    ],
+    "name:slv_x_preferred":[
+        "Volarje"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u043e\u043b\u0430\u0440\u0454"
+    ],
+    "name:unk_x_variant":[
+        "Vollaria"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3187434,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Volarje",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Tolmin",
+    "qs_pg:photos":32,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":32,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1117133,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":532111,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Tolmin",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959617,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187434,
+        "gp:id":532111,
+        "qs_pg:id":1117133,
+        "wd:id":"Q2176545"
+    },
+    "wof:country":"SI",
+    "wof:created":1497295340,
+    "wof:geomhash":"e7078d1110917860cb82637530f9594c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959617,
+            "locality_id":1125891511,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1125891511,
+    "wof:lastmodified":1531170229,
+    "wof:name":"Volarje",
+    "wof:parent_id":1108959617,
+    "wof:placetype":"locality",
+    "wof:population":239,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.67722,
+    46.21056,
+    13.67722,
+    46.21056
+],
+  "geometry": {"coordinates":[13.67722,46.21056],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1344187573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.06254,46.25685,15.06254,46.25685",
+    "geom:latitude":46.25685,
+    "geom:longitude":15.06254,
+    "gn:admin1_code":"F7",
+    "gn:asciiname":"Trnava",
+    "gn:country_code":"SI",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987143,
+    "gn:latitude":46.25685,
+    "gn:longitude":15.06254,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Trnava",
+    "gn:population":244,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959855,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987143,
+        "wk:page":"Trnava%2C_Braslov%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"54a52229eda656e74ba18151162d960d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959855,
+            "locality_id":1344187573,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1344187573,
+    "wof:lastmodified":1537573470,
+    "wof:name":"Trnava",
+    "wof:parent_id":1108959855,
+    "wof:placetype":"locality",
+    "wof:population":244,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.06254,
+    46.25685,
+    15.06254,
+    46.25685
+],
+  "geometry": {"coordinates":[15.06254,46.25685],"type":"Point"}
+}

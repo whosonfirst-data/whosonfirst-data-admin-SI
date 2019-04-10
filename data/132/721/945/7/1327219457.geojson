@@ -1,0 +1,74 @@
+{
+  "id": 1327219457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.53181,45.8914,15.53181,45.8914",
+    "geom:latitude":45.8914,
+    "geom:longitude":15.53181,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Zupeca Vas",
+    "gn:country_code":"SI",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987201,
+    "gn:latitude":45.8914,
+    "gn:longitude":15.53181,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u017dupe\u010da Vas",
+    "gn:population":222,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017dupe\u010da Vas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987201,
+        "wk:page":"%C5%BDupe%C4%8Da_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e80ad5e2c9795dae184df4ab94c5f805",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1327219457,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1327219457,
+    "wof:lastmodified":1537700281,
+    "wof:name":"Zupeca Vas",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:population":222,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.53181,
+    45.8914,
+    15.53181,
+    45.8914
+],
+  "geometry": {"coordinates":[15.53181,45.8914],"type":"Point"}
+}

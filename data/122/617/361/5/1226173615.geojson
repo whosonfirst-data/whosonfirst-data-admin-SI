@@ -1,0 +1,71 @@
+{
+  "id": 1226173615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.94861,45.56694,14.94861,45.56694",
+    "geom:latitude":45.56694,
+    "geom:longitude":14.94861,
+    "gn:admin1_code":"H7",
+    "gn:asciiname":"Rajndol",
+    "gn:country_code":"SI",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192028,
+    "gn:latitude":45.56694,
+    "gn:longitude":14.94861,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Rajndol",
+    "gn:population":49,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959919,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192028,
+        "wk:page":"Rajndol"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"61ed073115a7d5bf27bbe58276765bfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959919,
+            "locality_id":1226173615,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1226173615,
+    "wof:lastmodified":1537573407,
+    "wof:name":"Rajndol",
+    "wof:parent_id":1108959919,
+    "wof:placetype":"locality",
+    "wof:population":49,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.94861,
+    45.56694,
+    14.94861,
+    45.56694
+],
+  "geometry": {"coordinates":[14.94861,45.56694],"type":"Point"}
+}

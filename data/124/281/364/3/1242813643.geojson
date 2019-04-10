@@ -1,0 +1,71 @@
+{
+  "id": 1242813643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.35454,46.08753,15.35454,46.08753",
+    "geom:latitude":46.08753,
+    "geom:longitude":15.35454,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Marijina Vas",
+    "gn:country_code":"SI",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988051,
+    "gn:latitude":46.08753,
+    "gn:longitude":15.35454,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Marijina Vas",
+    "gn:population":77,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959879,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988051,
+        "wk:page":"Marijina_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"62bfb229b57d25cb9b160e1f0e22adf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959879,
+            "locality_id":1242813643,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1242813643,
+    "wof:lastmodified":1537573500,
+    "wof:name":"Marijina Vas",
+    "wof:parent_id":1108959879,
+    "wof:placetype":"locality",
+    "wof:population":77,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.35454,
+    46.08753,
+    15.35454,
+    46.08753
+],
+  "geometry": {"coordinates":[15.35454,46.08753],"type":"Point"}
+}

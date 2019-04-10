@@ -1,0 +1,67 @@
+{
+  "id": 1243002721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.71833,46.07,13.71833,46.07",
+    "geom:latitude":46.07,
+    "geom:longitude":13.71833,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Gomilnica",
+    "gn:country_code":"SI",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218388,
+    "gn:latitude":46.07,
+    "gn:longitude":13.71833,
+    "gn:modification_date":"2015-10-02",
+    "gn:name":"Gomilnica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959537,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218388
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"39c6234c864db631ceff0d4703de2d5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959537,
+            "locality_id":1243002721,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1243002721,
+    "wof:lastmodified":1536948678,
+    "wof:name":"Gomilnica",
+    "wof:parent_id":1108959537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.71833,
+    46.07,
+    13.71833,
+    46.07
+],
+  "geometry": {"coordinates":[13.71833,46.07],"type":"Point"}
+}

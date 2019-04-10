@@ -1,0 +1,75 @@
+{
+  "id": 1343893109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.14203,46.56341,15.14203,46.56341",
+    "geom:latitude":46.56341,
+    "geom:longitude":15.14203,
+    "gn:admin1_code":"E6",
+    "gn:asciiname":"Sentjanz nad Dravcami",
+    "gn:country_code":"SI",
+    "gn:dem":674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191035,
+    "gn:latitude":46.56341,
+    "gn:longitude":15.14203,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"\u0160entjan\u017e nad Drav\u010dami",
+    "gn:population":247,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160ent Jan\u017e",
+        "\u0160entjan\u017e nad Drav\u010dani"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959677,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191035,
+        "wk:page":"%C5%A0entjan%C5%BE_nad_Drav%C4%8Dami"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7c2e6f388695076a2aaa34a9c5464b83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959677,
+            "locality_id":1343893109,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1343893109,
+    "wof:lastmodified":1537700195,
+    "wof:name":"Sentjanz nad Dravcami",
+    "wof:parent_id":1108959677,
+    "wof:placetype":"locality",
+    "wof:population":247,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.14203,
+    46.56341,
+    15.14203,
+    46.56341
+],
+  "geometry": {"coordinates":[15.14203,46.56341],"type":"Point"}
+}

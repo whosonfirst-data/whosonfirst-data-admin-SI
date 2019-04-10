@@ -1,0 +1,74 @@
+{
+  "id": 1343889073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.62011,46.25129,14.62011,46.25129",
+    "geom:latitude":46.25129,
+    "geom:longitude":14.62011,
+    "gn:admin1_code":"H6",
+    "gn:asciiname":"Krsic",
+    "gn:country_code":"SI",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988872,
+    "gn:latitude":46.25129,
+    "gn:longitude":14.62011,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kr\u0161i\u010d",
+    "gn:population":28,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kr\u0161i\u010d"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959941,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988872,
+        "wk:page":"Kr%C5%A1i%C4%8D"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"792cacaca67f9dc26f73a3bf8ce265bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959941,
+            "locality_id":1343889073,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1343889073,
+    "wof:lastmodified":1537700315,
+    "wof:name":"Krsic",
+    "wof:parent_id":1108959941,
+    "wof:placetype":"locality",
+    "wof:population":28,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.62011,
+    46.25129,
+    14.62011,
+    46.25129
+],
+  "geometry": {"coordinates":[14.62011,46.25129],"type":"Point"}
+}

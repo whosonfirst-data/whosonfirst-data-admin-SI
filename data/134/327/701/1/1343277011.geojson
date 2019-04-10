@@ -1,0 +1,70 @@
+{
+  "id": 1343277011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.83095,45.44525,13.83095,45.44525",
+    "geom:latitude":45.44525,
+    "geom:longitude":13.83095,
+    "gn:asciiname":"Abitanti",
+    "gn:country_code":"SI",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989897,
+    "gn:latitude":45.44525,
+    "gn:longitude":13.83095,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Abitanti",
+    "gn:population":16,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959527,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989897,
+        "wk:page":"Abitanti"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"49696bce0f0a45faa216dc14ac633a74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959527,
+            "locality_id":1343277011,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1343277011,
+    "wof:lastmodified":1537573555,
+    "wof:name":"Abitanti",
+    "wof:parent_id":1108959527,
+    "wof:placetype":"locality",
+    "wof:population":16,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.83095,
+    45.44525,
+    13.83095,
+    45.44525
+],
+  "geometry": {"coordinates":[13.83095,45.44525],"type":"Point"}
+}

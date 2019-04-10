@@ -1,0 +1,75 @@
+{
+  "id": 1310536087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.45,45.88333,15.45,45.88333",
+    "geom:latitude":45.88333,
+    "geom:longitude":15.45,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Kalce-Naklo",
+    "gn:country_code":"SI",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198467,
+    "gn:latitude":45.88333,
+    "gn:longitude":15.45,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Kalce-Naklo",
+    "gn:population":170,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalce",
+        "Kalce-Naklo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198467,
+        "wk:page":"Kalce%E2%80%93Naklo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"029fbe33e805c31c0a46215114849052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1310536087,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1310536087,
+    "wof:lastmodified":1537700234,
+    "wof:name":"Kalce-Naklo",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":170,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.45,
+    45.88333,
+    15.45,
+    45.88333
+],
+  "geometry": {"coordinates":[15.45,45.88333],"type":"Point"}
+}

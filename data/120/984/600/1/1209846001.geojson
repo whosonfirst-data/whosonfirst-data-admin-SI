@@ -1,0 +1,75 @@
+{
+  "id": 1209846001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.13278,45.79222,14.13278,45.79222",
+    "geom:latitude":45.79222,
+    "geom:longitude":14.13278,
+    "gn:admin1_code":"94",
+    "gn:asciiname":"Landol",
+    "gn:country_code":"SI",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196778,
+    "gn:latitude":45.79222,
+    "gn:longitude":14.13278,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Landol",
+    "gn:population":156,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Landolo",
+        "Landol"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959559,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196778,
+        "wk:page":"Landol"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c7e30102c3d8ded7b6e1ffc9c6d110d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959559,
+            "locality_id":1209846001,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1209846001,
+    "wof:lastmodified":1537700226,
+    "wof:name":"Landol",
+    "wof:parent_id":1108959559,
+    "wof:placetype":"locality",
+    "wof:population":156,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.13278,
+    45.79222,
+    14.13278,
+    45.79222
+],
+  "geometry": {"coordinates":[14.13278,45.79222],"type":"Point"}
+}

@@ -1,0 +1,104 @@
+{
+  "id": 101875847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.175067,46.592994,15.175067,46.592994",
+    "geom:latitude":46.592994,
+    "geom:longitude":15.175067,
+    "gn:population":1580,
+    "iso:country":"SI",
+    "lbl:latitude":46.592994,
+    "lbl:longitude":15.175067,
+    "mps:latitude":46.592994,
+    "mps:longitude":15.175067,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Vuzenica"
+    ],
+    "name:dut_x_preferred":[
+        "Vuzenica"
+    ],
+    "name:eng_x_preferred":[
+        "Vuzenica"
+    ],
+    "name:rum_x_preferred":[
+        "Vuzenica"
+    ],
+    "name:slv_x_preferred":[
+        "Vuzenica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0443\u0437\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0443\u0437\u0435\u043d\u0438\u0446\u044f"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Vuzenica",
+    "qs:loc_alt":"Vuzenica",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959677,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187020,
+        "gp:id":530882,
+        "qs:id":1043880,
+        "qs_pg:id":1043880,
+        "wd:id":"Q2671086"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"21299524e966d7f1af31e037be748505",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959677,
+            "locality_id":101875847,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":101875847,
+    "wof:lastmodified":1544751969,
+    "wof:name":"Vuzenica",
+    "wof:parent_id":1108959677,
+    "wof:placetype":"locality",
+    "wof:population":1580,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.175067,
+    46.592994,
+    15.175067,
+    46.592994
+],
+  "geometry": {"coordinates":[15.175067,46.592994],"type":"Point"}
+}

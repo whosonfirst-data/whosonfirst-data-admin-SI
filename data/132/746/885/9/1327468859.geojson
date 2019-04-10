@@ -1,0 +1,71 @@
+{
+  "id": 1327468859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0446,45.86648,15.0446,45.86648",
+    "geom:latitude":45.86648,
+    "geom:longitude":15.0446,
+    "gn:admin1_code":"J6",
+    "gn:asciiname":"Jordankal",
+    "gn:country_code":"SI",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988744,
+    "gn:latitude":45.86648,
+    "gn:longitude":15.0446,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Jordankal",
+    "gn:population":34,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959751,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988744,
+        "wk:page":"Jordankal"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8c4b4bd023a4ec709ef3ba020192dbdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959751,
+            "locality_id":1327468859,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1327468859,
+    "wof:lastmodified":1537573521,
+    "wof:name":"Jordankal",
+    "wof:parent_id":1108959751,
+    "wof:placetype":"locality",
+    "wof:population":34,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0446,
+    45.86648,
+    15.0446,
+    45.86648
+],
+  "geometry": {"coordinates":[15.0446,45.86648],"type":"Point"}
+}

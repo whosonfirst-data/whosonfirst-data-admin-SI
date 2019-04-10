@@ -1,0 +1,75 @@
+{
+  "id": 1209846535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.1,45.71667,15.1,45.71667",
+    "geom:latitude":45.71667,
+    "geom:longitude":15.1,
+    "gn:admin1_code":"G6",
+    "gn:asciiname":"Verdun pri Ursnih Selih",
+    "gn:country_code":"SI",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187853,
+    "gn:latitude":45.71667,
+    "gn:longitude":15.1,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Verdun pri Ur\u0161nih Selih",
+    "gn:population":63,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Verdun",
+        "Verdun pri Ur\u0161nih Selah"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959675,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187853,
+        "wk:page":"Verdun_pri_Ur%C5%A1nih_Selih"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3035dc6eca7f4314d72dcd37f6614efc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959675,
+            "locality_id":1209846535,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1209846535,
+    "wof:lastmodified":1537700176,
+    "wof:name":"Verdun pri Ursnih Selih",
+    "wof:parent_id":1108959675,
+    "wof:placetype":"locality",
+    "wof:population":63,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.1,
+    45.71667,
+    15.1,
+    45.71667
+],
+  "geometry": {"coordinates":[15.1,45.71667],"type":"Point"}
+}

@@ -1,0 +1,116 @@
+{
+  "id": 101791993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000039,
+    "geom:area_square_m":329179.368784,
+    "geom:bbox":"16.0037254704,46.4095517022,16.0176774798,46.4164143423",
+    "geom:latitude":46.413431,
+    "geom:longitude":16.011888,
+    "gn:population":788,
+    "iso:country":"SI",
+    "lbl:latitude":46.413208,
+    "lbl:longitude":16.013527,
+    "mps:latitude":46.413208,
+    "mps:longitude":16.013527,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Gori\u0161nica"
+    ],
+    "name:ces_x_preferred":[
+        "Gori\u0161nica"
+    ],
+    "name:cze_x_preferred":[
+        "Gori\u0161nica"
+    ],
+    "name:dut_x_preferred":[
+        "Gori\u0161nica"
+    ],
+    "name:eng_x_preferred":[
+        "Gori\u0161nica"
+    ],
+    "name:hbs_x_preferred":[
+        "Gori\u0161nica"
+    ],
+    "name:ron_x_preferred":[
+        "Gori\u0161nica"
+    ],
+    "name:rum_x_preferred":[
+        "Gori\u0161nica"
+    ],
+    "name:slv_x_preferred":[
+        "Gori\u0161nica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u0438\u0448\u043d\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u0438\u0448\u043d\u0438\u0446\u044f"
+    ],
+    "name:vie_x_preferred":[
+        "Gori\u0161nica"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"Gori\u0161nica",
+    "qs:la_lc":"*SI028000",
+    "qs:level":"locality",
+    "qs:loc":"Gori\u0161nica",
+    "qs:loc_alt":"Gorisnica",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959719,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200307,
+        "gp:id":530113,
+        "qs:id":5,
+        "wd:id":"Q8009692",
+        "wk:page":"Gori\u0161nica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d3d598781023ecf9a964b0df67e783a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959719,
+            "locality_id":101791993,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":101791993,
+    "wof:lastmodified":1531508237,
+    "wof:name":"Gori\u0161nica",
+    "wof:parent_id":1108959719,
+    "wof:placetype":"locality",
+    "wof:population":788,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.00372547035857,
+    46.40955170218876,
+    16.01767747983325,
+    46.41641434232173
+],
+  "geometry": {"coordinates":[[[16.00890936850988,46.41522617841099],[16.01279725862406,46.41500780858479],[16.01289837706906,46.41590502205418],[16.01549033094602,46.41575936105858],[16.01528801225123,46.41396493916017],[16.01658394130419,46.413892088002],[16.01638159706505,46.4120976664916],[16.01767747983325,46.4120248025028],[16.01757629275039,46.41112759224632],[16.01368869949539,46.41134613300619],[16.01348646774744,46.40955170218876],[16.0108948091198,46.40969731210134],[16.01119803405777,46.41238896588459],[16.00990213532634,46.41246175159182],[16.01000319752569,46.41335896971242],[16.0087072740576,46.41343174117435],[16.00880831909285,46.41432896009712],[16.00621641949175,46.41447445887212],[16.00631742581294,46.41537168000775],[16.00372547035857,46.41551711897421],[16.00382643796104,46.41641434232173],[16.00901042230896,46.41612339611561],[16.00890936850988,46.41522617841099]]],"type":"Polygon"}
+}

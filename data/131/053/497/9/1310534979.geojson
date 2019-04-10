@@ -1,0 +1,71 @@
+{
+  "id": 1310534979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.21154,46.30512,14.21154,46.30512",
+    "geom:latitude":46.30512,
+    "geom:longitude":14.21154,
+    "gn:admin1_code":"A3",
+    "gn:asciiname":"Lipnica",
+    "gn:country_code":"SI",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989854,
+    "gn:latitude":46.30512,
+    "gn:longitude":14.21154,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Lipnica",
+    "gn:population":53,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959825,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989854,
+        "wk:page":"Lipnica%2C_Radovljica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0a2d5b489151cb12b4be71470d965a37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959825,
+            "locality_id":1310534979,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1310534979,
+    "wof:lastmodified":1537573554,
+    "wof:name":"Lipnica",
+    "wof:parent_id":1108959825,
+    "wof:placetype":"locality",
+    "wof:population":53,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.21154,
+    46.30512,
+    14.21154,
+    46.30512
+],
+  "geometry": {"coordinates":[14.21154,46.30512],"type":"Point"}
+}

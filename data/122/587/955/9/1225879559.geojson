@@ -1,0 +1,74 @@
+{
+  "id": 1225879559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.2722,46.33101,15.2722,46.33101",
+    "geom:latitude":46.33101,
+    "geom:longitude":15.2722,
+    "gn:admin1_code":"N3",
+    "gn:asciiname":"Zlatece",
+    "gn:country_code":"SI",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987779,
+    "gn:latitude":46.33101,
+    "gn:longitude":15.2722,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Zlate\u010de",
+    "gn:population":105,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zlate\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959653,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987779,
+        "wk:page":"Zlate%C4%8De%2C_Vojnik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3ffda7f5134c8d8b96a7042a2a1f693e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959653,
+            "locality_id":1225879559,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1225879559,
+    "wof:lastmodified":1537700293,
+    "wof:name":"Zlatece",
+    "wof:parent_id":1108959653,
+    "wof:placetype":"locality",
+    "wof:population":105,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.2722,
+    46.33101,
+    15.2722,
+    46.33101
+],
+  "geometry": {"coordinates":[15.2722,46.33101],"type":"Point"}
+}

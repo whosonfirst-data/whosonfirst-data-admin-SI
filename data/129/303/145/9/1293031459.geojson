@@ -1,0 +1,74 @@
+{
+  "id": 1293031459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.85051,46.58562,15.85051,46.58562",
+    "geom:latitude":46.58562,
+    "geom:longitude":15.85051,
+    "gn:admin1_code":"P6",
+    "gn:asciiname":"Spodnji Porcic",
+    "gn:country_code":"SI",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190187,
+    "gn:latitude":46.58562,
+    "gn:longitude":15.85051,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Spodnji Por\u010di\u010d",
+    "gn:population":236,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Spodnji Por\u010di\u010d"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959477,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190187,
+        "wk:page":"Spodnji_Por%C4%8Di%C4%8D"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6f55fcaf3add3d28b8e35233955970f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959477,
+            "locality_id":1293031459,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1293031459,
+    "wof:lastmodified":1537700188,
+    "wof:name":"Spodnji Porcic",
+    "wof:parent_id":1108959477,
+    "wof:placetype":"locality",
+    "wof:population":236,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.85051,
+    46.58562,
+    15.85051,
+    46.58562
+],
+  "geometry": {"coordinates":[15.85051,46.58562],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259814729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25028,46.405,15.25028,46.405",
+    "geom:latitude":46.405,
+    "geom:longitude":15.25028,
+    "gn:admin1_code":"E2",
+    "gn:asciiname":"Spodnji Dolic",
+    "gn:country_code":"SI",
+    "gn:dem":694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190200,
+    "gn:latitude":46.405,
+    "gn:longitude":15.25028,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Spodnji Doli\u010d",
+    "gn:population":190,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Spodnji Doli\u010d"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959681,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190200,
+        "wk:page":"Spodnji_Doli%C4%8D"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"84a4216b6b89b257c79be2a5fbd080c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959681,
+            "locality_id":1259814729,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1259814729,
+    "wof:lastmodified":1537700188,
+    "wof:name":"Spodnji Dolic",
+    "wof:parent_id":1108959681,
+    "wof:placetype":"locality",
+    "wof:population":190,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25028,
+    46.405,
+    15.25028,
+    46.405
+],
+  "geometry": {"coordinates":[15.25028,46.405],"type":"Point"}
+}

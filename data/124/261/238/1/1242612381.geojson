@@ -1,0 +1,75 @@
+{
+  "id": 1242612381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.13221,45.90179,15.13221,45.90179",
+    "geom:latitude":45.90179,
+    "geom:longitude":15.13221,
+    "gn:admin1_code":"O7",
+    "gn:asciiname":"Cilpah",
+    "gn:country_code":"SI",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202590,
+    "gn:latitude":45.90179,
+    "gn:longitude":15.13221,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"\u010cilpah",
+    "gn:population":43,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010cilpoh",
+        "\u010cilpah"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959913,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202590,
+        "wk:page":"%C4%8Cilpah"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a921ae2c82a30fa88be7570c7fe3f7bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959913,
+            "locality_id":1242612381,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1242612381,
+    "wof:lastmodified":1537700257,
+    "wof:name":"Cilpah",
+    "wof:parent_id":1108959913,
+    "wof:placetype":"locality",
+    "wof:population":43,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.13221,
+    45.90179000000001,
+    15.13221,
+    45.90179000000001
+],
+  "geometry": {"coordinates":[15.13221,45.90179000000001],"type":"Point"}
+}

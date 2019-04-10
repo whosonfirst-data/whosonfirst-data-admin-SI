@@ -1,0 +1,74 @@
+{
+  "id": 1309745795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3,46.61667,15.3,46.61667",
+    "geom:latitude":46.61667,
+    "geom:longitude":15.3,
+    "gn:admin1_code":"A2",
+    "gn:asciiname":"Remsnik",
+    "gn:country_code":"SI",
+    "gn:dem":595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191738,
+    "gn:latitude":46.61667,
+    "gn:longitude":15.3,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Rem\u0161nik",
+    "gn:population":226,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rem\u0161nik"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959557,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191738,
+        "wk:page":"Rem%C5%A1nik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e2a8d4ee2b7075b07b63ca6f036475d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959557,
+            "locality_id":1309745795,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1309745795,
+    "wof:lastmodified":1537700200,
+    "wof:name":"Remsnik",
+    "wof:parent_id":1108959557,
+    "wof:placetype":"locality",
+    "wof:population":226,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3,
+    46.61667,
+    15.3,
+    46.61667
+],
+  "geometry": {"coordinates":[15.3,46.61667],"type":"Point"}
+}

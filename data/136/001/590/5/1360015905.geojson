@@ -1,0 +1,71 @@
+{
+  "id": 1360015905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.94556,46.50333,15.94556,46.50333",
+    "geom:latitude":46.50333,
+    "geom:longitude":15.94556,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Grlinci",
+    "gn:country_code":"SI",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199550,
+    "gn:latitude":46.50333,
+    "gn:longitude":15.94556,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Grlinci",
+    "gn:population":146,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959781,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199550,
+        "wk:page":"Grlinci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7b355dc923589e51050e2808fe6fb8ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959781,
+            "locality_id":1360015905,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1360015905,
+    "wof:lastmodified":1537573436,
+    "wof:name":"Grlinci",
+    "wof:parent_id":1108959781,
+    "wof:placetype":"locality",
+    "wof:population":146,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.94556,
+    46.50333,
+    15.94556,
+    46.50333
+],
+  "geometry": {"coordinates":[15.94556,46.50333],"type":"Point"}
+}

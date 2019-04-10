@@ -1,0 +1,71 @@
+{
+  "id": 1293722999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.16667,45.75,15.16667,45.75",
+    "geom:latitude":45.75,
+    "geom:longitude":15.16667,
+    "gn:admin1_code":"J7",
+    "gn:asciiname":"Gorenje Lakovnice",
+    "gn:country_code":"SI",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200363,
+    "gn:latitude":45.75,
+    "gn:longitude":15.16667,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Gorenje Lakovnice",
+    "gn:population":82,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959465,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200363,
+        "wk:page":"Gorenje_Lakovnice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a60409940e5c00dc530b4ccb0a01ede3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959465,
+            "locality_id":1293722999,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1293722999,
+    "wof:lastmodified":1537573439,
+    "wof:name":"Gorenje Lakovnice",
+    "wof:parent_id":1108959465,
+    "wof:placetype":"locality",
+    "wof:population":82,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.16667,
+    45.75,
+    15.16667,
+    45.75
+],
+  "geometry": {"coordinates":[15.16667,45.75],"type":"Point"}
+}

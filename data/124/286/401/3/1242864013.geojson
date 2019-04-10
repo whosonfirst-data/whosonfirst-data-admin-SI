@@ -1,0 +1,75 @@
+{
+  "id": 1242864013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.39278,45.95556,14.39278,45.95556",
+    "geom:latitude":45.95556,
+    "geom:longitude":14.39278,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Prevalje pod Krimom",
+    "gn:country_code":"SI",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218893,
+    "gn:latitude":45.95556,
+    "gn:longitude":14.39278,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Prevalje pod Krimom",
+    "gn:population":187,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Prevalje",
+        "Prevalje pod Krimom"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959895,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218893,
+        "wk:page":"Prevalje_pod_Krimom"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d98a647f444ccc427fc4fb9929af62da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959895,
+            "locality_id":1242864013,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1242864013,
+    "wof:lastmodified":1537700273,
+    "wof:name":"Prevalje pod Krimom",
+    "wof:parent_id":1108959895,
+    "wof:placetype":"locality",
+    "wof:population":187,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.39278,
+    45.95556,
+    14.39278,
+    45.95556
+],
+  "geometry": {"coordinates":[14.39278,45.95556],"type":"Point"}
+}

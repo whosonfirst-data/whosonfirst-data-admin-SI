@@ -1,0 +1,77 @@
+{
+  "id": 1260116355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.81389,45.46556,13.81389,45.46556",
+    "geom:latitude":45.46556,
+    "geom:longitude":13.81389,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Topolovec",
+    "gn:country_code":"SI",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188976,
+    "gn:latitude":45.46556,
+    "gn:longitude":13.81389,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Topolovec",
+    "gn:population":53,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Topotovac",
+        "Topolovac",
+        "Toppolo in Belvedere",
+        "Topolovec"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959527,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188976,
+        "wk:page":"Topolovec%2C_Koper"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e5693bb4d8c042d878e5c15549eb3137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959527,
+            "locality_id":1260116355,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1260116355,
+    "wof:lastmodified":1537700181,
+    "wof:name":"Topolovec",
+    "wof:parent_id":1108959527,
+    "wof:placetype":"locality",
+    "wof:population":53,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.81389,
+    45.46556,
+    13.81389,
+    45.46556
+],
+  "geometry": {"coordinates":[13.81389,45.46556],"type":"Point"}
+}

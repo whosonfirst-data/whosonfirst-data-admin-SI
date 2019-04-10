@@ -1,0 +1,73 @@
+{
+  "id": 1343396837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.6029,46.04853,13.6029,46.04853",
+    "geom:latitude":46.04853,
+    "geom:longitude":13.6029,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Globno",
+    "gn:country_code":"SI",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10858772,
+    "gn:latitude":46.04853,
+    "gn:longitude":13.6029,
+    "gn:modification_date":"2015-10-13",
+    "gn:name":"Globno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Globna"
+    ],
+    "name:slv_x_preferred":[
+        "Globna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959537,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10858772
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"249ba1a9fb5a8d8231ec720f1f6df526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959537,
+            "locality_id":1343396837,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1343396837,
+    "wof:lastmodified":1537700336,
+    "wof:name":"Globno",
+    "wof:parent_id":1108959537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.6029,
+    46.04853,
+    13.6029,
+    46.04853
+],
+  "geometry": {"coordinates":[13.6029,46.04853],"type":"Point"}
+}

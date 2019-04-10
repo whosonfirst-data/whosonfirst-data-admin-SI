@@ -1,0 +1,76 @@
+{
+  "id": 1243098481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.73944,45.48,13.73944,45.48",
+    "geom:latitude":45.48,
+    "geom:longitude":13.73944,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Kostabona",
+    "gn:country_code":"SI",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197596,
+    "gn:latitude":45.48,
+    "gn:longitude":13.73944,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ko\u0161tabona",
+    "gn:population":229,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Costabona",
+        "Ka\u0161tabona",
+        "Ko\u0161tabona"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959527,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197596,
+        "wk:page":"Ko%C5%A1tabona"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e56d2c32fd818d904c7024dfd285c857",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959527,
+            "locality_id":1243098481,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1243098481,
+    "wof:lastmodified":1537700230,
+    "wof:name":"Kostabona",
+    "wof:parent_id":1108959527,
+    "wof:placetype":"locality",
+    "wof:population":229,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.73944,
+    45.48,
+    13.73944,
+    45.48
+],
+  "geometry": {"coordinates":[13.73944,45.48],"type":"Point"}
+}

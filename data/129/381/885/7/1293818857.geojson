@@ -1,0 +1,71 @@
+{
+  "id": 1293818857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.16255,46.46164,16.16255,46.46164",
+    "geom:latitude":46.46164,
+    "geom:longitude":16.16255,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Trstenik",
+    "gn:country_code":"SI",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988661,
+    "gn:latitude":46.46164,
+    "gn:longitude":16.16255,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Trstenik",
+    "gn:population":38,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959765,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988661,
+        "wk:page":"Trstenik%2C_Ormo%C5%BE"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8b9d332ad979da875de619c39ff2c1e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959765,
+            "locality_id":1293818857,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1293818857,
+    "wof:lastmodified":1537573519,
+    "wof:name":"Trstenik",
+    "wof:parent_id":1108959765,
+    "wof:placetype":"locality",
+    "wof:population":38,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.16255,
+    46.46164,
+    16.16255,
+    46.46164
+],
+  "geometry": {"coordinates":[16.16255,46.46164],"type":"Point"}
+}

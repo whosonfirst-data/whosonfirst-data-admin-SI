@@ -1,0 +1,71 @@
+{
+  "id": 1260217867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.27584,46.15405,15.27584,46.15405",
+    "geom:latitude":46.15405,
+    "geom:longitude":15.27584,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Reka",
+    "gn:country_code":"SI",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987356,
+    "gn:latitude":46.15405,
+    "gn:longitude":15.27584,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Reka",
+    "gn:population":167,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959879,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987356,
+        "wk:page":"Reka%2C_La%C5%A1ko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"94d4b8440bb3d42867fddf622dc59377",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959879,
+            "locality_id":1260217867,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1260217867,
+    "wof:lastmodified":1537573477,
+    "wof:name":"Reka",
+    "wof:parent_id":1108959879,
+    "wof:placetype":"locality",
+    "wof:population":167,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.27584,
+    46.15405,
+    15.27584,
+    46.15405
+],
+  "geometry": {"coordinates":[15.27584,46.15405],"type":"Point"}
+}

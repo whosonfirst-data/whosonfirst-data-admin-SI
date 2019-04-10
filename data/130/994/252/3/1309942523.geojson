@@ -1,0 +1,71 @@
+{
+  "id": 1309942523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.65167,46.35639,15.65167,46.35639",
+    "geom:latitude":46.35639,
+    "geom:longitude":15.65167,
+    "gn:admin1_code":"L8",
+    "gn:asciiname":"Trnovec pri Slovenski Bistrici",
+    "gn:country_code":"SI",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188787,
+    "gn:latitude":46.35639,
+    "gn:longitude":15.65167,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Trnovec pri Slovenski Bistrici",
+    "gn:population":76,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959641,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188787,
+        "wk:page":"Trnovec_pri_Slovenski_Bistrici"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b92717d136a7953d45de82de5b8dcc86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959641,
+            "locality_id":1309942523,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1309942523,
+    "wof:lastmodified":1537573391,
+    "wof:name":"Trnovec pri Slovenski Bistrici",
+    "wof:parent_id":1108959641,
+    "wof:placetype":"locality",
+    "wof:population":76,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.65167,
+    46.35639000000001,
+    15.65167,
+    46.35639000000001
+],
+  "geometry": {"coordinates":[15.65167,46.35639000000001],"type":"Point"}
+}

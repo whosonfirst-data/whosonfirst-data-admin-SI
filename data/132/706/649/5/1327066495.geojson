@@ -1,0 +1,71 @@
+{
+  "id": 1327066495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.21251,46.50441,16.21251,46.50441",
+    "geom:latitude":46.50441,
+    "geom:longitude":16.21251,
+    "gn:admin1_code":"I6",
+    "gn:asciiname":"Podgradje",
+    "gn:country_code":"SI",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987112,
+    "gn:latitude":46.50441,
+    "gn:longitude":16.21251,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Podgradje",
+    "gn:population":267,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959499,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987112,
+        "wk:page":"Podgradje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"791dab45fcbc92234654808e9df5897e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959499,
+            "locality_id":1327066495,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1327066495,
+    "wof:lastmodified":1537573469,
+    "wof:name":"Podgradje",
+    "wof:parent_id":1108959499,
+    "wof:placetype":"locality",
+    "wof:population":267,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.21251,
+    46.50441,
+    16.21251,
+    46.50441
+],
+  "geometry": {"coordinates":[16.21251,46.50441],"type":"Point"}
+}

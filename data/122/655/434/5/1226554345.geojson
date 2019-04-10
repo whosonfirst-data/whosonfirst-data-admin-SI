@@ -1,0 +1,74 @@
+{
+  "id": 1226554345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.75162,46.21891,15.75162,46.21891",
+    "geom:latitude":46.21891,
+    "geom:longitude":15.75162,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dobovec pri Rogatcu",
+    "gn:cc2":"SI",
+    "gn:country_code":"SI",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201977,
+    "gn:latitude":46.21891,
+    "gn:longitude":15.75162,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Dobovec pri Rogatcu",
+    "gn:population":283,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dobovec",
+        "Dobovec pri Rogatcu"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201977,
+        "wk:page":"Dobovec_pri_Rogatcu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"06475c68a04e2f3f9436e65293224ab3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226554345,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":1226554345,
+    "wof:lastmodified":1537700255,
+    "wof:name":"Dobovec pri Rogatcu",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:population":283,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.75162,
+    46.21891,
+    15.75162,
+    46.21891
+],
+  "geometry": {"coordinates":[15.75162,46.21891],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226571745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.36595,45.96745,15.36595,45.96745",
+    "geom:latitude":45.96745,
+    "geom:longitude":15.36595,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Hudo Brezje",
+    "gn:country_code":"SI",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987869,
+    "gn:latitude":45.96745,
+    "gn:longitude":15.36595,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Hudo Brezje",
+    "gn:population":95,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987869,
+        "wk:page":"Hudo_Brezje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3cebcc7fe8b7a4e31c71296802412d38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1226571745,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1226571745,
+    "wof:lastmodified":1537573494,
+    "wof:name":"Hudo Brezje",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":95,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.36595,
+    45.96745,
+    15.36595,
+    45.96745
+],
+  "geometry": {"coordinates":[15.36595,45.96745],"type":"Point"}
+}

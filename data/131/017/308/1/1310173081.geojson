@@ -1,0 +1,74 @@
+{
+  "id": 1310173081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.05639,46.60333,15.05639,46.60333",
+    "geom:latitude":46.60333,
+    "geom:longitude":15.05639,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Sv. Bostjan",
+    "gn:country_code":"SI",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189366,
+    "gn:latitude":46.60333,
+    "gn:longitude":15.05639,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Sv. Bo\u0161tjan",
+    "gn:population":94,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sveti Bo\u0161tjan"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959495,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189366,
+        "wk:page":"Sveti_Bo%C5%A1tjan"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"acdeeabc658935e572adc2d7eaa14d11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959495,
+            "locality_id":1310173081,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1310173081,
+    "wof:lastmodified":1537700183,
+    "wof:name":"Sv. Bostjan",
+    "wof:parent_id":1108959495,
+    "wof:placetype":"locality",
+    "wof:population":94,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.05639,
+    46.60333,
+    15.05639,
+    46.60333
+],
+  "geometry": {"coordinates":[15.05639,46.60333],"type":"Point"}
+}

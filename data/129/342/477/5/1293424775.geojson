@@ -1,0 +1,71 @@
+{
+  "id": 1293424775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.99822,46.03181,14.99822,46.03181",
+    "geom:latitude":46.03181,
+    "geom:longitude":14.99822,
+    "gn:admin1_code":"I5",
+    "gn:asciiname":"Bistrica",
+    "gn:country_code":"SI",
+    "gn:dem":671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988926,
+    "gn:latitude":46.03181,
+    "gn:longitude":14.99822,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Bistrica",
+    "gn:population":26,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959907,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988926,
+        "wk:page":"Bistrica%2C_Litija"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1418df8dffb0d3a2abed0508f03e1fd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959907,
+            "locality_id":1293424775,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1293424775,
+    "wof:lastmodified":1537573526,
+    "wof:name":"Bistrica",
+    "wof:parent_id":1108959907,
+    "wof:placetype":"locality",
+    "wof:population":26,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.99822,
+    46.03181,
+    14.99822,
+    46.03181
+],
+  "geometry": {"coordinates":[14.99822,46.03181],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343397079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.08637,46.55896,16.08637,46.55896",
+    "geom:latitude":46.55896,
+    "geom:longitude":16.08637,
+    "gn:admin1_code":"I1",
+    "gn:asciiname":"Berkovski Prelogi",
+    "gn:country_code":"SI",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988775,
+    "gn:latitude":46.55896,
+    "gn:longitude":16.08637,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Berkovski Prelogi",
+    "gn:population":33,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959775,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988775,
+        "wk:page":"Berkovski_Prelogi"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"70bf14462d77b1027f105ffef6748766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959775,
+            "locality_id":1343397079,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1343397079,
+    "wof:lastmodified":1537573522,
+    "wof:name":"Berkovski Prelogi",
+    "wof:parent_id":1108959775,
+    "wof:placetype":"locality",
+    "wof:population":33,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.08637,
+    46.55896,
+    16.08637,
+    46.55896
+],
+  "geometry": {"coordinates":[16.08637,46.55896],"type":"Point"}
+}

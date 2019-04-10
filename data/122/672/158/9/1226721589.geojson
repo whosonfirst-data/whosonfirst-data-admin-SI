@@ -1,0 +1,71 @@
+{
+  "id": 1226721589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23333,45.58333,15.23333,45.58333",
+    "geom:latitude":45.58333,
+    "geom:longitude":15.23333,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Zastava",
+    "gn:country_code":"SI",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186744,
+    "gn:latitude":45.58333,
+    "gn:longitude":15.23333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Zastava",
+    "gn:population":13,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959699,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186744,
+        "wk:page":"Zastava%2C_%C4%8Crnomelj"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5972ceca1aafd1e22daf15fda75c26f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959699,
+            "locality_id":1226721589,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1226721589,
+    "wof:lastmodified":1537573383,
+    "wof:name":"Zastava",
+    "wof:parent_id":1108959699,
+    "wof:placetype":"locality",
+    "wof:population":13,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23333,
+    45.58333,
+    15.23333,
+    45.58333
+],
+  "geometry": {"coordinates":[15.23333,45.58333],"type":"Point"}
+}

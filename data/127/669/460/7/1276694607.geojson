@@ -1,0 +1,75 @@
+{
+  "id": 1276694607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.27556,45.7825,15.27556,45.7825",
+    "geom:latitude":45.7825,
+    "geom:longitude":15.27556,
+    "gn:admin1_code":"J7",
+    "gn:asciiname":"Gabrje",
+    "gn:country_code":"SI",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200783,
+    "gn:latitude":45.7825,
+    "gn:longitude":15.27556,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Gabrje",
+    "gn:population":626,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gaberje",
+        "Gabrje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959465,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200783,
+        "wk:page":"Gabrje%2C_Novo_Mesto"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6ee67de8536ae46bb47ba12a8144c370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959465,
+            "locality_id":1276694607,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1276694607,
+    "wof:lastmodified":1537700248,
+    "wof:name":"Gabrje",
+    "wof:parent_id":1108959465,
+    "wof:placetype":"locality",
+    "wof:population":626,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.27556,
+    45.7825,
+    15.27556,
+    45.7825
+],
+  "geometry": {"coordinates":[15.27556,45.7825],"type":"Point"}
+}

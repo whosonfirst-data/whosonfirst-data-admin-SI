@@ -1,0 +1,75 @@
+{
+  "id": 1276260791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.16889,46.78139,16.16889,46.78139",
+    "geom:latitude":46.78139,
+    "geom:longitude":16.16889,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Mackovci",
+    "gn:country_code":"SI",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3214824,
+    "gn:latitude":46.78139,
+    "gn:longitude":16.16889,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Ma\u010dkovci",
+    "gn:population":213,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e1ty\u00e1sdomb",
+        "Ma\u010dkovci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959935,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3214824,
+        "wk:page":"Ma%C4%8Dkovci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"99549788c700a431d3bffa5e248bb0a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959935,
+            "locality_id":1276260791,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1276260791,
+    "wof:lastmodified":1537700268,
+    "wof:name":"Mackovci",
+    "wof:parent_id":1108959935,
+    "wof:placetype":"locality",
+    "wof:population":213,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.16889,
+    46.78139,
+    16.16889,
+    46.78139
+],
+  "geometry": {"coordinates":[16.16889,46.78139],"type":"Point"}
+}

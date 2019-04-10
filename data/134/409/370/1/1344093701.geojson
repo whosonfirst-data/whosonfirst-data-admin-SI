@@ -1,0 +1,75 @@
+{
+  "id": 1344093701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.70139,45.51889,13.70139,45.51889",
+    "geom:latitude":45.51889,
+    "geom:longitude":13.70139,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Gazon",
+    "gn:country_code":"SI",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200683,
+    "gn:latitude":45.51889,
+    "gn:longitude":13.70139,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ga\u017eon",
+    "gn:population":566,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gason",
+        "Ga\u017eon"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959527,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200683,
+        "wk:page":"Ga%C5%BEon"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"68f6e87dab96071cd6511d6aa1fc61ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959527,
+            "locality_id":1344093701,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1344093701,
+    "wof:lastmodified":1537700247,
+    "wof:name":"Gazon",
+    "wof:parent_id":1108959527,
+    "wof:placetype":"locality",
+    "wof:population":566,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.70139,
+    45.51889,
+    13.70139,
+    45.51889
+],
+  "geometry": {"coordinates":[13.70139,45.51889],"type":"Point"}
+}

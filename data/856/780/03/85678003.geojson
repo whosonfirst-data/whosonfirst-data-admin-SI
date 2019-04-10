@@ -1,0 +1,204 @@
+{
+  "id": 85678003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.006757,
+    "geom:area_square_m":57902688.6335,
+    "geom:bbox":"15.0650549664,46.0859728052,15.1884582864,46.1833828798",
+    "geom:latitude":46.131192,
+    "geom:longitude":15.123364,
+    "gn:population":9984,
+    "iso:country":"SI",
+    "lbl:latitude":46.131565,
+    "lbl:longitude":15.122429,
+    "mps:latitude":46.131565,
+    "mps:longitude":15.122429,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ces_x_preferred":[
+        "Ob\u010dina Hrastnik"
+    ],
+    "name:eng_x_preferred":[
+        "Hrastnik"
+    ],
+    "name:hbs_x_preferred":[
+        "Hrastnik"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Hrastnik"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30e9\u30b9\u30c8\u30cb\u30af"
+    ],
+    "name:nld_x_preferred":[
+        "Hrastnik"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Hrastnik"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Hrastnik"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0440\u0430\u0441\u0442\u043d\u0438\u043a"
+    ],
+    "name:sco_x_preferred":[
+        "Municipality o Hrastnik"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Hrastnik"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0425\u0440\u0430\u0441\u0442\u043d\u0438\u043a"
+    ],
+    "name:srp_x_variant":[
+        "\u0425\u0440\u0430\u0441\u0442\u043d\u0438\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0440\u0430\u0441\u0442\u043d\u0438\u043a"
+    ],
+    "name:und_x_preferred":[
+        "Hrastnik"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Hrastnik"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d6b\u62c9\u65af\u7279\u5c3c\u514b"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-951",
+    "ne:adm1_code":"SVN-951",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SI.ZS.HR",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"951",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SI34",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.34",
+    "ne:gn_id":"3199296",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Hrastnik",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI34",
+    "ne:gns_id":"-82733",
+    "ne:gns_lang":"sqi",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Hrastnik, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"46.12890000000",
+    "ne:longitude":"15.12680000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Hrastnik",
+    "ne:name_alt":"",
+    "ne:name_len":8,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"HR",
+    "ne:provnum_ne":"105",
+    "ne:region":"Zasavska",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":55848350,
+    "ne:woe_label":"Hrastnik, SI, Slovenia",
+    "ne:woe_name":"Hrastnik",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Hrastnik",
+    "qs:a1_lc":"SVN-951",
+    "qs:a1r":"Zasavska",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "unlc:subdivision":"SI-034",
+    "wd:wordcount":145,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SI34",
+        "gn:id":3199296,
+        "gp:id":55848350,
+        "hasc:id":"SI.ZS.HR",
+        "qs:id":204572,
+        "unlc:id":"SI-034",
+        "wd:id":"Q13377780",
+        "wk:page":"Municipality of Hrastnik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"82a03b55daee3ef89cf3cb1008199bf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85678003
+        }
+    ],
+    "wof:id":85678003,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616733,
+    "wof:name":"Hrastnik",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:population":9984,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:shortcode":"HR",
+    "wof:subdivision":"SI-034",
+    "wof:superseded_by":[
+        1108959571
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.06505496641364,
+    46.08597280520087,
+    15.18845828642083,
+    46.18338287981612
+],
+  "geometry": {"coordinates":[[[15.17321373902291,46.10225088227247],[15.16112145389201,46.10514476212114],[15.15321495890328,46.108581244329],[15.14902916786184,46.11002818515266],[15.14499840735067,46.10966644994676],[15.14220787939018,46.10638499647047],[15.14189782102767,46.1042662620784],[15.14344811373951,46.1015274109613],[15.14623864080068,46.09925364783766],[15.15011437258028,46.0969282087699],[15.16344689295977,46.09248403620938],[15.12841027191655,46.08597280520087],[15.10634443514761,46.09351756408438],[15.09905805778317,46.10331024856919],[15.09735273633976,46.1073668484014],[15.08805097827008,46.11367137293558],[15.0809196314359,46.11594513605922],[15.07750898585107,46.11920075111385],[15.07130781410439,46.12684886278487],[15.06836225831159,46.12922597869601],[15.06505496641364,46.13651235606045],[15.06567508313861,46.14157664714457],[15.07053266774847,46.14974152275312],[15.08402021685959,46.16560618777538],[15.1020036153746,46.17392609301481],[15.11332075414953,46.18338287981612],[15.13104577024615,46.16728567169645],[15.13476647329418,46.16149791109979],[15.15926110191839,46.14875967082219],[15.17166344631107,46.13816600245912],[15.18024173306958,46.12912262590851],[15.18845828642083,46.11620351847768],[15.18845828642083,46.11088084587436],[15.18504764173531,46.10731517245728],[15.17667605965249,46.10333608699085],[15.17321373902291,46.10225088227247]]],"type":"Polygon"}
+}

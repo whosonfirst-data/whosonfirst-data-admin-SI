@@ -1,0 +1,71 @@
+{
+  "id": 1343792611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.27209,46.17267,14.27209,46.17267",
+    "geom:latitude":46.17267,
+    "geom:longitude":14.27209,
+    "gn:admin1_code":"B9",
+    "gn:asciiname":"Vincarje",
+    "gn:country_code":"SI",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987502,
+    "gn:latitude":46.17267,
+    "gn:longitude":14.27209,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Vincarje",
+    "gn:population":141,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959821,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987502,
+        "wk:page":"Vincarje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"51f65149ed6cf5ac5aa096bf9b7a0c29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959821,
+            "locality_id":1343792611,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1343792611,
+    "wof:lastmodified":1537573482,
+    "wof:name":"Vincarje",
+    "wof:parent_id":1108959821,
+    "wof:placetype":"locality",
+    "wof:population":141,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.27209,
+    46.17267,
+    14.27209,
+    46.17267
+],
+  "geometry": {"coordinates":[14.27209,46.17267],"type":"Point"}
+}

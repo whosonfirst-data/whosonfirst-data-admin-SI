@@ -1,0 +1,75 @@
+{
+  "id": 1225878971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.45669,45.78524,14.45669,45.78524",
+    "geom:latitude":45.78524,
+    "geom:longitude":14.45669,
+    "gn:admin1_code":"F6",
+    "gn:asciiname":"Radlek",
+    "gn:country_code":"SI",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192122,
+    "gn:latitude":45.78524,
+    "gn:longitude":14.45669,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Radlek",
+    "gn:population":40,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Radljek",
+        "Radlek"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959893,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192122,
+        "wk:page":"Radlek"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"90fbf3bab1168f3f2e6db8703b780efd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959893,
+            "locality_id":1225878971,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1225878971,
+    "wof:lastmodified":1537700202,
+    "wof:name":"Radlek",
+    "wof:parent_id":1108959893,
+    "wof:placetype":"locality",
+    "wof:population":40,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.45669,
+    45.78524,
+    14.45669,
+    45.78524
+],
+  "geometry": {"coordinates":[14.45669,45.78524],"type":"Point"}
+}

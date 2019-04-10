@@ -1,0 +1,71 @@
+{
+  "id": 1293328527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.33342,46.34645,14.33342,46.34645",
+    "geom:latitude":46.34645,
+    "geom:longitude":14.33342,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Gozd",
+    "gn:country_code":"SI",
+    "gn:dem":1167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199848,
+    "gn:latitude":46.34645,
+    "gn:longitude":14.33342,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Gozd",
+    "gn:population":31,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959917,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199848,
+        "wk:page":"Gozd%2C_Tr%C5%BEi%C4%8D"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"90b199697a226a2b20c276da2a14f452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959917,
+            "locality_id":1293328527,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1293328527,
+    "wof:lastmodified":1537573437,
+    "wof:name":"Gozd",
+    "wof:parent_id":1108959917,
+    "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.33342,
+    46.34645,
+    14.33342,
+    46.34645
+],
+  "geometry": {"coordinates":[14.33342,46.34645],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226584397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.03056,45.61278,14.03056,45.61278",
+    "geom:latitude":45.61278,
+    "geom:longitude":14.03056,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Artvize",
+    "gn:country_code":"SI",
+    "gn:dem":764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204764,
+    "gn:latitude":45.61278,
+    "gn:longitude":14.03056,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Artvi\u017ee",
+    "gn:population":47,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Artuise",
+        "Artvi\u017ee"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959549,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204764,
+        "wk:page":"Artvi%C5%BEe"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"792ec3e38b15d1413afc204aa046c83f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959549,
+            "locality_id":1226584397,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1226584397,
+    "wof:lastmodified":1537700267,
+    "wof:name":"Artvize",
+    "wof:parent_id":1108959549,
+    "wof:placetype":"locality",
+    "wof:population":47,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.03056,
+    45.61278,
+    14.03056,
+    45.61278
+],
+  "geometry": {"coordinates":[14.03056,45.61278],"type":"Point"}
+}

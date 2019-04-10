@@ -1,0 +1,74 @@
+{
+  "id": 1343994065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.01144,46.5276,16.01144,46.5276",
+    "geom:latitude":46.5276,
+    "geom:longitude":16.01144,
+    "gn:admin1_code":"D1",
+    "gn:asciiname":"Grabsinci",
+    "gn:country_code":"SI",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988078,
+    "gn:latitude":46.5276,
+    "gn:longitude":16.01144,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Grab\u0161inci",
+    "gn:population":75,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grab\u0161inci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959591,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988078,
+        "wk:page":"Grab%C5%A1inci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"35d0b84930d6c810121e97f28a71b454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959591,
+            "locality_id":1343994065,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1343994065,
+    "wof:lastmodified":1537700299,
+    "wof:name":"Grabsinci",
+    "wof:parent_id":1108959591,
+    "wof:placetype":"locality",
+    "wof:population":75,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.01144,
+    46.5276,
+    16.01144,
+    46.5276
+],
+  "geometry": {"coordinates":[16.01144,46.5276],"type":"Point"}
+}

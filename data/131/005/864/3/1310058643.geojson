@@ -1,0 +1,77 @@
+{
+  "id": 1310058643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.12778,45.98,14.12778,45.98",
+    "geom:latitude":45.98,
+    "geom:longitude":14.12778,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Potok",
+    "gn:cc2":"SI",
+    "gn:country_code":"SI",
+    "gn:dem":724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192645,
+    "gn:latitude":45.98,
+    "gn:longitude":14.12778,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Potok",
+    "gn:population":30,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Potocco del Confine",
+        "Potocco",
+        "Potok"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959535,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192645,
+        "wk:page":"Potok%2C_Idrija"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2665aed455e2773045f5bf971fec9c70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959535,
+            "locality_id":1310058643,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1310058643,
+    "wof:lastmodified":1537700205,
+    "wof:name":"Potok",
+    "wof:parent_id":1108959535,
+    "wof:placetype":"locality",
+    "wof:population":30,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.12778,
+    45.98,
+    14.12778,
+    45.98
+],
+  "geometry": {"coordinates":[14.12778,45.98],"type":"Point"}
+}

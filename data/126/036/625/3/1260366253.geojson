@@ -1,0 +1,74 @@
+{
+  "id": 1260366253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.16626,45.58591,15.16626,45.58591",
+    "geom:latitude":45.58591,
+    "geom:longitude":15.16626,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Talcji Vrh",
+    "gn:country_code":"SI",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988890,
+    "gn:latitude":45.58591,
+    "gn:longitude":15.16626,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Tal\u010dji Vrh",
+    "gn:population":27,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tal\u010dji Vrh"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959699,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988890,
+        "wk:page":"Tal%C4%8Dji_Vrh"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7aaa3b20ca14b52e92e0c7e754833181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959699,
+            "locality_id":1260366253,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1260366253,
+    "wof:lastmodified":1537700315,
+    "wof:name":"Talcji Vrh",
+    "wof:parent_id":1108959699,
+    "wof:placetype":"locality",
+    "wof:population":27,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.16626,
+    45.58591,
+    15.16626,
+    45.58591
+],
+  "geometry": {"coordinates":[15.16626,45.58591],"type":"Point"}
+}

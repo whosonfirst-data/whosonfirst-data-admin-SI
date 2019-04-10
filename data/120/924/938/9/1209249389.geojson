@@ -1,0 +1,65 @@
+{
+  "id": 1209249389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.80326,45.86751,14.80326,45.86751",
+    "geom:latitude":45.86751,
+    "geom:longitude":14.80326,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Male Lese",
+    "gn:country_code":"SI",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195763,
+    "gn:latitude":45.86751,
+    "gn:longitude":14.80326,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Male Lese",
+    "gn:population":43,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195763,
+        "wk:page":"Male_Lese"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"62ec819c65d89155abb2c2921776f90d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209249389
+        }
+    ],
+    "wof:id":1209249389,
+    "wof:lastmodified":1537573422,
+    "wof:name":"Male Lese",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":43,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.80326,
+    45.86751,
+    14.80326,
+    45.86751
+],
+  "geometry": {"coordinates":[14.80326,45.86751],"type":"Point"}
+}

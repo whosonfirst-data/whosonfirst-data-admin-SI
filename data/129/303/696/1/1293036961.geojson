@@ -1,0 +1,74 @@
+{
+  "id": 1293036961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.13282,46.43704,16.13282,46.43704",
+    "geom:latitude":46.43704,
+    "geom:longitude":16.13282,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Lesnica",
+    "gn:country_code":"SI",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987269,
+    "gn:latitude":46.43704,
+    "gn:longitude":16.13282,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Le\u0161nica",
+    "gn:population":196,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Le\u0161nica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959765,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987269,
+        "wk:page":"Le%C5%A1nica%2C_Ormo%C5%BE"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1dc0ed583edf1955e3a96ff6c5997afc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959765,
+            "locality_id":1293036961,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1293036961,
+    "wof:lastmodified":1537700283,
+    "wof:name":"Lesnica",
+    "wof:parent_id":1108959765,
+    "wof:placetype":"locality",
+    "wof:population":196,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.13282,
+    46.43704,
+    16.13282,
+    46.43704
+],
+  "geometry": {"coordinates":[16.13282,46.43704],"type":"Point"}
+}

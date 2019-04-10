@@ -1,0 +1,75 @@
+{
+  "id": 1326664877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.43147,45.84142,15.43147,45.84142",
+    "geom:latitude":45.84142,
+    "geom:longitude":15.43147,
+    "gn:admin1_code":"O3",
+    "gn:asciiname":"Globocice pri Kostanjevici",
+    "gn:country_code":"SI",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200584,
+    "gn:latitude":45.84142,
+    "gn:longitude":15.43147,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Globo\u010dice pri Kostanjevici",
+    "gn:population":105,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Globo\u010dice",
+        "Globo\u010dice pri Kostanjevici"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959835,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200584,
+        "wk:page":"Globo%C4%8Dice_pri_Kostanjevici"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6948dd0b0f54130dc501022b5829f2a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959835,
+            "locality_id":1326664877,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1326664877,
+    "wof:lastmodified":1537700246,
+    "wof:name":"Globocice pri Kostanjevici",
+    "wof:parent_id":1108959835,
+    "wof:placetype":"locality",
+    "wof:population":105,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.43147,
+    45.84142,
+    15.43147,
+    45.84142
+],
+  "geometry": {"coordinates":[15.43147,45.84142],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293525383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.63162,46.67202,15.63162,46.67202",
+    "geom:latitude":46.67202,
+    "geom:longitude":15.63162,
+    "gn:admin1_code":"B3",
+    "gn:asciiname":"Kresnica",
+    "gn:country_code":"SI",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987419,
+    "gn:latitude":46.67202,
+    "gn:longitude":15.63162,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kresnica",
+    "gn:population":156,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959565,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987419,
+        "wk:page":"Kresnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"06e6d5e61af40d147caa722fd505d2a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959565,
+            "locality_id":1293525383,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1293525383,
+    "wof:lastmodified":1537573479,
+    "wof:name":"Kresnica",
+    "wof:parent_id":1108959565,
+    "wof:placetype":"locality",
+    "wof:population":156,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.63162,
+    46.67202,
+    15.63162,
+    46.67202
+],
+  "geometry": {"coordinates":[15.63162,46.67202],"type":"Point"}
+}

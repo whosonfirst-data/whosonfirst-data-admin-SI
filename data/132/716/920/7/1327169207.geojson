@@ -1,0 +1,71 @@
+{
+  "id": 1327169207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.80288,46.70055,15.80288,46.70055",
+    "geom:latitude":46.70055,
+    "geom:longitude":15.80288,
+    "gn:admin1_code":"N9",
+    "gn:asciiname":"Novi Vrh",
+    "gn:country_code":"SI",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989024,
+    "gn:latitude":46.70055,
+    "gn:longitude":15.80288,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Novi Vrh",
+    "gn:population":22,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959667,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989024,
+        "wk:page":"Novi_Vrh"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ff522358d7c874e869bb6a6ea41bc4db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959667,
+            "locality_id":1327169207,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1327169207,
+    "wof:lastmodified":1537573529,
+    "wof:name":"Novi Vrh",
+    "wof:parent_id":1108959667,
+    "wof:placetype":"locality",
+    "wof:population":22,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.80288,
+    46.70055,
+    15.80288,
+    46.70055
+],
+  "geometry": {"coordinates":[15.80288,46.70055],"type":"Point"}
+}

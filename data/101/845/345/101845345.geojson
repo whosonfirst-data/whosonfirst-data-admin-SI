@@ -1,0 +1,114 @@
+{
+  "id": 101845345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000056,
+    "geom:area_square_m":478780.763329,
+    "geom:bbox":"15.9032462308,46.693651208,15.9212863009,46.7000374489",
+    "geom:latitude":46.696936,
+    "geom:longitude":15.911721,
+    "gn:population":528,
+    "iso:country":"SI",
+    "lbl:latitude":46.697079,
+    "lbl:longitude":15.908852,
+    "mps:latitude":46.697079,
+    "mps:longitude":15.908852,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Apa\u010de"
+    ],
+    "name:deu_x_preferred":[
+        "Apa\u010de"
+    ],
+    "name:deu_x_variant":[
+        "Abstall"
+    ],
+    "name:epo_x_preferred":[
+        "Apa\u010de"
+    ],
+    "name:fra_x_preferred":[
+        "Apa\u010de"
+    ],
+    "name:hrv_x_preferred":[
+        "Apa\u010de"
+    ],
+    "name:hun_x_preferred":[
+        "Apa\u010de"
+    ],
+    "name:ita_x_preferred":[
+        "Apa\u010de"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30d1\u30c1\u30a7"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\ud30c\uccb4"
+    ],
+    "name:spa_x_preferred":[
+        "Apa\u010de"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"Apa\u010de",
+    "qs:la_lc":"*SI195000",
+    "qs:level":"locality",
+    "qs:loc":"Apa\u010de",
+    "qs:loc_alt":"Apace",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":163,
+    "wof:belongsto":[
+        102191581,
+        1108959667,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204796,
+        "gp:id":529489,
+        "qs:id":7,
+        "wd:id":"Q618103",
+        "wk:page":"Apa\u010de"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"cfbef7d275351c55023ede58f5e4f482",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959667,
+            "locality_id":101845345,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":101845345,
+    "wof:lastmodified":1531170198,
+    "wof:name":"Apa\u010de",
+    "wof:parent_id":1108959667,
+    "wof:placetype":"locality",
+    "wof:population":528,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.90324623075315,
+    46.69365120795675,
+    15.92128630093998,
+    46.70003744892568
+],
+  "geometry": {"coordinates":[[[15.91116407919742,46.6978135110495],[15.91637583857278,46.69752681233336],[15.91647617523034,46.69842397986406],[15.91908207948075,46.69828053316616],[15.91878095151571,46.69558903722253],[15.92008383329221,46.69551729444794],[15.91998344420796,46.6946201293585],[15.92128630093998,46.69454837223191],[15.92118589438365,46.69365120795675],[15.91727738016044,46.69386642786475],[15.91737772116545,46.69476359634774],[15.90695470139093,46.69533683410651],[15.9070548719522,46.69623401320871],[15.90575195828222,46.69630559842966],[15.90585211135812,46.69720277834335],[15.90324623075315,46.69734590431699],[15.90354658505225,46.70003744892568],[15.91006159051415,46.69967949482481],[15.90996135876128,46.69878232087564],[15.91126432843441,46.69871068418598],[15.91116407919742,46.6978135110495]]],"type":"Polygon"}
+}

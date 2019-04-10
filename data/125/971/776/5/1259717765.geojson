@@ -1,0 +1,71 @@
+{
+  "id": 1259717765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.33077,46.34644,15.33077,46.34644",
+    "geom:latitude":46.34644,
+    "geom:longitude":15.33077,
+    "gn:admin1_code":"N3",
+    "gn:asciiname":"Beli Potok pri Frankolovem",
+    "gn:country_code":"SI",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989578,
+    "gn:latitude":46.34644,
+    "gn:longitude":15.33077,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Beli Potok pri Frankolovem",
+    "gn:population":46,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959653,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989578,
+        "wk:page":"Beli_Potok_pri_Frankolovem"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8f4a12b2cc0e24a03f67a2265206bcc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959653,
+            "locality_id":1259717765,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1259717765,
+    "wof:lastmodified":1537573546,
+    "wof:name":"Beli Potok pri Frankolovem",
+    "wof:parent_id":1108959653,
+    "wof:placetype":"locality",
+    "wof:population":46,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.33077,
+    46.34644,
+    15.33077,
+    46.34644
+],
+  "geometry": {"coordinates":[15.33077,46.34644],"type":"Point"}
+}

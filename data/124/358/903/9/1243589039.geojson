@@ -1,0 +1,71 @@
+{
+  "id": 1243589039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.90512,45.95838,14.90512,45.95838",
+    "geom:latitude":45.95838,
+    "geom:longitude":14.90512,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Velike Dole pri Temenici",
+    "gn:country_code":"SI",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988808,
+    "gn:latitude":45.95838,
+    "gn:longitude":14.90512,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Velike Dole pri Temenici",
+    "gn:population":31,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959583,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988808,
+        "wk:page":"Velike_Dole_pri_Temenici"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0c010f6cf271ae02d5833107bf6e3351",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959583,
+            "locality_id":1243589039,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1243589039,
+    "wof:lastmodified":1537573523,
+    "wof:name":"Velike Dole pri Temenici",
+    "wof:parent_id":1108959583,
+    "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.90512,
+    45.95838,
+    14.90512,
+    45.95838
+],
+  "geometry": {"coordinates":[14.90512,45.95838],"type":"Point"}
+}

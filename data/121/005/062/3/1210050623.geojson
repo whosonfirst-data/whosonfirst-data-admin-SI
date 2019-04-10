@@ -1,0 +1,74 @@
+{
+  "id": 1210050623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.86298,46.05163,14.86298,46.05163",
+    "geom:latitude":46.05163,
+    "geom:longitude":14.86298,
+    "gn:admin1_code":"L9",
+    "gn:asciiname":"Gradiske Laze",
+    "gn:country_code":"SI",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987440,
+    "gn:latitude":46.05163,
+    "gn:longitude":14.86298,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Gradi\u0161ke Laze",
+    "gn:population":153,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gradi\u0161ke Laze"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959745,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987440,
+        "wk:page":"Gradi%C5%A1ke_Laze"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"39f635b247c86fb4a09ed2df825dd682",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959745,
+            "locality_id":1210050623,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1210050623,
+    "wof:lastmodified":1537700286,
+    "wof:name":"Gradiske Laze",
+    "wof:parent_id":1108959745,
+    "wof:placetype":"locality",
+    "wof:population":153,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.86298,
+    46.05163,
+    14.86298,
+    46.05163
+],
+  "geometry": {"coordinates":[14.86298,46.05163],"type":"Point"}
+}

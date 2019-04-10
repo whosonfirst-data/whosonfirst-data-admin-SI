@@ -1,0 +1,75 @@
+{
+  "id": 1242808255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.79374,45.63342,14.79374,45.63342",
+    "geom:latitude":45.63342,
+    "geom:longitude":14.79374,
+    "gn:admin1_code":"H7",
+    "gn:asciiname":"Mlaka pri Kocevski Reki",
+    "gn:country_code":"SI",
+    "gn:dem":813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194978,
+    "gn:latitude":45.63342,
+    "gn:longitude":14.79374,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Mlaka pri Ko\u010devski Reki",
+    "gn:population":16,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mlaka",
+        "Mlaka pri Ko\u010devski Reki"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959919,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194978,
+        "wk:page":"Mlaka_pri_Ko%C4%8Devski_Reki"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3fee407cc6408a04d25483f751c62444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959919,
+            "locality_id":1242808255,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1242808255,
+    "wof:lastmodified":1537700218,
+    "wof:name":"Mlaka pri Kocevski Reki",
+    "wof:parent_id":1108959919,
+    "wof:placetype":"locality",
+    "wof:population":16,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.79374,
+    45.63342,
+    14.79374,
+    45.63342
+],
+  "geometry": {"coordinates":[14.79374,45.63342],"type":"Point"}
+}

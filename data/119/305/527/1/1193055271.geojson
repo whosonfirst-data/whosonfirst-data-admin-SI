@@ -1,0 +1,74 @@
+{
+  "id": 1193055271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.75472,45.65111,14.75472,45.65111",
+    "geom:latitude":45.65111,
+    "geom:longitude":14.75472,
+    "gn:admin1_code":"L1",
+    "gn:asciiname":"Grcarice",
+    "gn:country_code":"SI",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199624,
+    "gn:latitude":45.65111,
+    "gn:longitude":14.75472,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Gr\u010darice",
+    "gn:population":177,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gr\u010darice"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959599,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199624,
+        "wk:page":"Gr%C4%8Darice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"51212a48c0ad7bbcfe18d684e5a54d3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959599,
+            "locality_id":1193055271,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1193055271,
+    "wof:lastmodified":1537700241,
+    "wof:name":"Grcarice",
+    "wof:parent_id":1108959599,
+    "wof:placetype":"locality",
+    "wof:population":177,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.75472,
+    45.65111,
+    14.75472,
+    45.65111
+],
+  "geometry": {"coordinates":[14.75472,45.65111],"type":"Point"}
+}

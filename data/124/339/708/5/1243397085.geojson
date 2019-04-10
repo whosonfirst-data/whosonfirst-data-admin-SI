@@ -1,0 +1,72 @@
+{
+  "id": 1243397085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.13972,46.67083,16.13972,46.67083",
+    "geom:latitude":46.67083,
+    "geom:longitude":16.13972,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Crnelavci",
+    "gn:cc2":"SI",
+    "gn:country_code":"SI",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215407,
+    "gn:latitude":46.67083,
+    "gn:longitude":16.13972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u010crnelavci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010crneslavci",
+        "\u010crnelavci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959483,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215407
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"dfef48c497207fb9d41de405668dd2af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959483,
+            "locality_id":1243397085,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1243397085,
+    "wof:lastmodified":1537700268,
+    "wof:name":"Crnelavci",
+    "wof:parent_id":1108959483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.13972,
+    46.67083,
+    16.13972,
+    46.67083
+],
+  "geometry": {"coordinates":[16.13972,46.67083],"type":"Point"}
+}

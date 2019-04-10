@@ -1,0 +1,68 @@
+{
+  "id": 1209645979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.92843,45.93794,14.92843,45.93794",
+    "geom:latitude":45.93794,
+    "geom:longitude":14.92843,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Vrhovo pri Sentlovrencu",
+    "gn:country_code":"SI",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988772,
+    "gn:latitude":45.93794,
+    "gn:longitude":14.92843,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Vrhovo pri \u0160entlovrencu",
+    "gn:population":33,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vrhovo pri \u0160entlovrencu"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988772,
+        "wk:page":"Vrhovo_pri_%C5%A0entlovrencu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"79c482146fb022be4c1cd2c3a73e80a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209645979
+        }
+    ],
+    "wof:id":1209645979,
+    "wof:lastmodified":1537700313,
+    "wof:name":"Vrhovo pri Sentlovrencu",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":33,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.92843,
+    45.93794000000001,
+    14.92843,
+    45.93794000000001
+],
+  "geometry": {"coordinates":[14.92843,45.93794000000001],"type":"Point"}
+}

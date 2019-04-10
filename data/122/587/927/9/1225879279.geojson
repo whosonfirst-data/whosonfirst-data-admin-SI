@@ -1,0 +1,74 @@
+{
+  "id": 1225879279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.81,46.65944,15.81,46.65944",
+    "geom:latitude":46.65944,
+    "geom:longitude":15.81,
+    "gn:admin1_code":"M3",
+    "gn:asciiname":"Drazen Vrh - Del",
+    "gn:country_code":"SI",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3201246,
+    "gn:latitude":46.65944,
+    "gn:longitude":15.81,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Dra\u017een Vrh - Del",
+    "gn:population":161,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dra\u017een Vrh"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959709,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201246,
+        "wk:page":"Dra%C5%BEen_Vrh%2C_Sveta_Ana"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6a87736cd80873fcb58d525eff1e7389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959709,
+            "locality_id":1225879279,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1225879279,
+    "wof:lastmodified":1537700250,
+    "wof:name":"Drazen Vrh - Del",
+    "wof:parent_id":1108959709,
+    "wof:placetype":"locality",
+    "wof:population":161,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.81,
+    46.65944,
+    15.81,
+    46.65944
+],
+  "geometry": {"coordinates":[15.81,46.65944],"type":"Point"}
+}

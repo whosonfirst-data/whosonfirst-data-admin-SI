@@ -1,0 +1,71 @@
+{
+  "id": 1310139787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.28975,46.33436,14.28975,46.33436",
+    "geom:latitude":46.33436,
+    "geom:longitude":14.28975,
+    "gn:admin1_code":"D5",
+    "gn:asciiname":"Retnje",
+    "gn:country_code":"SI",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987040,
+    "gn:latitude":46.33436,
+    "gn:longitude":14.28975,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Retnje",
+    "gn:population":296,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959917,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987040,
+        "wk:page":"Retnje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5a10078f99207d34933df35d814e7d93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959917,
+            "locality_id":1310139787,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1310139787,
+    "wof:lastmodified":1537573467,
+    "wof:name":"Retnje",
+    "wof:parent_id":1108959917,
+    "wof:placetype":"locality",
+    "wof:population":296,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.28975,
+    46.33436,
+    14.28975,
+    46.33436
+],
+  "geometry": {"coordinates":[14.28975,46.33436],"type":"Point"}
+}

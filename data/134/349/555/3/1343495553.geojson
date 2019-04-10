@@ -1,0 +1,74 @@
+{
+  "id": 1343495553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.18005,45.7642,15.18005,45.7642",
+    "geom:latitude":45.7642,
+    "geom:longitude":15.18005,
+    "gn:admin1_code":"J7",
+    "gn:asciiname":"Rajnovsce",
+    "gn:country_code":"SI",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988792,
+    "gn:latitude":45.7642,
+    "gn:longitude":15.18005,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Rajnov\u0161\u010de",
+    "gn:population":32,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rajnov\u0161\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959465,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988792,
+        "wk:page":"Rajnov%C5%A1%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8bab60d7c5029114c7a1d51051a3b0b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959465,
+            "locality_id":1343495553,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1343495553,
+    "wof:lastmodified":1537700313,
+    "wof:name":"Rajnovsce",
+    "wof:parent_id":1108959465,
+    "wof:placetype":"locality",
+    "wof:population":32,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.18005,
+    45.7642,
+    15.18005,
+    45.7642
+],
+  "geometry": {"coordinates":[15.18005,45.7642],"type":"Point"}
+}

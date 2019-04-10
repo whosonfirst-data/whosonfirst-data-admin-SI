@@ -1,0 +1,74 @@
+{
+  "id": 1243485591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.79462,46.17066,14.79462,46.17066",
+    "geom:latitude":46.17066,
+    "geom:longitude":14.79462,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Podsmrecje",
+    "gn:country_code":"SI",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988475,
+    "gn:latitude":46.17066,
+    "gn:longitude":14.79462,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Podsmre\u010dje",
+    "gn:population":48,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Podsmre\u010dje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959807,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988475,
+        "wk:page":"Podsmre%C4%8Dje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0ca8bbc0bec8281a88821dc945d03b53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959807,
+            "locality_id":1243485591,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1243485591,
+    "wof:lastmodified":1537700307,
+    "wof:name":"Podsmrecje",
+    "wof:parent_id":1108959807,
+    "wof:placetype":"locality",
+    "wof:population":48,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.79462,
+    46.17066,
+    14.79462,
+    46.17066
+],
+  "geometry": {"coordinates":[14.79462,46.17066],"type":"Point"}
+}

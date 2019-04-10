@@ -1,0 +1,71 @@
+{
+  "id": 1226476157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.54855,46.55419,15.54855,46.55419",
+    "geom:latitude":46.55419,
+    "geom:longitude":15.54855,
+    "gn:admin1_code":"L3",
+    "gn:asciiname":"Bistrica ob Dravi",
+    "gn:country_code":"SI",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989727,
+    "gn:latitude":46.55419,
+    "gn:longitude":15.54855,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Bistrica ob Dravi",
+    "gn:population":1368,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959611,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989727,
+        "wk:page":"Bistrica_ob_Dravi"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8063a68b9293d4e3475ba80951a32471",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959611,
+            "locality_id":1226476157,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1226476157,
+    "wof:lastmodified":1537573550,
+    "wof:name":"Bistrica ob Dravi",
+    "wof:parent_id":1108959611,
+    "wof:placetype":"locality",
+    "wof:population":1368,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.54855,
+    46.55419000000001,
+    15.54855,
+    46.55419000000001
+],
+  "geometry": {"coordinates":[15.54855,46.55419000000001],"type":"Point"}
+}

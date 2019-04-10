@@ -1,0 +1,71 @@
+{
+  "id": 1243441345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.54937,46.26979,14.54937,46.26979",
+    "geom:latitude":46.26979,
+    "geom:longitude":14.54937,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Sveti Lenart",
+    "gn:country_code":"SI",
+    "gn:dem":900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988688,
+    "gn:latitude":46.26979,
+    "gn:longitude":14.54937,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Sveti Lenart",
+    "gn:population":36,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959493,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988688,
+        "wk:page":"Sveti_Lenart%2C_Cerklje_na_Gorenjskem"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6a7ae34cf7bbfc6b9901a8193ca99aa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959493,
+            "locality_id":1243441345,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1243441345,
+    "wof:lastmodified":1537573520,
+    "wof:name":"Sveti Lenart",
+    "wof:parent_id":1108959493,
+    "wof:placetype":"locality",
+    "wof:population":36,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.54937,
+    46.26979,
+    14.54937,
+    46.26979
+],
+  "geometry": {"coordinates":[14.54937,46.26979],"type":"Point"}
+}

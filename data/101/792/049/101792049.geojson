@@ -1,0 +1,159 @@
+{
+  "id": 101792049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000102,
+    "geom:area_square_m":867869.806064,
+    "geom:bbox":"14.4826167782,46.2462665281,14.4965310497,46.2694719725",
+    "geom:latitude":46.256631,
+    "geom:longitude":14.489049,
+    "gn:population":1608,
+    "iso:country":"SI",
+    "lbl:latitude":46.253003,
+    "lbl:longitude":14.487784,
+    "mps:latitude":46.253003,
+    "mps:longitude":14.487784,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Cerklje na Gorenjskem"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u010dina Cerklje na Gorenjskem"
+    ],
+    "name:deu_x_preferred":[
+        "Cerklje na Gorenjskem"
+    ],
+    "name:deu_x_variant":[
+        "Zirklach"
+    ],
+    "name:dut_x_preferred":[
+        "Cerklje na Gorenjskem"
+    ],
+    "name:eng_x_preferred":[
+        "Cerklje na Gorenjskem"
+    ],
+    "name:fin_x_preferred":[
+        "Cerklje na Gorenjskem"
+    ],
+    "name:fra_x_preferred":[
+        "Cerklje na Gorenjskem"
+    ],
+    "name:hbs_x_preferred":[
+        "Cerklje na Gorenjskem"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Cerklje na Gorenjskem"
+    ],
+    "name:hun_x_preferred":[
+        "Cerklje na Gorenjskem"
+    ],
+    "name:ita_x_preferred":[
+        "Cerklje na Gorenjskem"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c4\u30a7\u30eb\u30af\u30cb\u30a7\u30fb\u30ca\u30fb\u30b4\u30ec\u30cb\u30b9\u30b1\u30e0"
+    ],
+    "name:kor_x_preferred":[
+        "\uccb4\ub974\ud074\ub808\ub098\uace0\ub80c\uc2a4\ucf10"
+    ],
+    "name:nld_x_preferred":[
+        "Cerklje na Gorenjskem"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Cerklje na Gorenjskem"
+    ],
+    "name:por_x_preferred":[
+        "Cerklje na Gorenjskem"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Cerklje na Gorenjskem"
+    ],
+    "name:rum_x_preferred":[
+        "Cerklje na Gorenjskem"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0435\u0440\u043a\u043b\u0435-\u043d\u0430-\u0413\u043e\u0440\u0435\u043d\u044c\u0441\u043a\u0435\u043c"
+    ],
+    "name:sco_x_preferred":[
+        "Municipality o Cerklje na Gorenjskem"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Cerklje na Gorenjskem"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0426\u0435\u0440\u043a\u0459\u0435 \u043d\u0430 \u0413\u043e\u0440\u0435\u045a\u0441\u043a\u0435\u043c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0435\u0440\u043a\u043b\u0454-\u043d\u0430-\u0413\u043e\u0440\u0435\u043d\u0441\u044c\u043a\u0435\u043c"
+    ],
+    "name:unk_x_variant":[
+        "Cerklje"
+    ],
+    "name:vie_x_preferred":[
+        "Cerklje na Gorenjskem"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"Cerklje na Gorenjskem",
+    "qs:la_lc":"*SI012000",
+    "qs:level":"locality",
+    "qs:loc":"Cerklje na Gorenjskem",
+    "qs:loc_alt":"Cerklje na Gorenjskem",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":127,
+    "wof:belongsto":[
+        102191581,
+        1108959493,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202711,
+        "gp:id":529728,
+        "qs:id":9,
+        "wd:id":"Q1252424",
+        "wk:page":"Municipality of Cerklje na Gorenjskem"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a69847f5572e6dd15ba94e86b166ae28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959493,
+            "locality_id":101792049,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":101792049,
+    "wof:lastmodified":1531171366,
+    "wof:name":"Cerklje na Gorenjskem",
+    "wof:parent_id":1108959493,
+    "wof:placetype":"locality",
+    "wof:population":1608,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.48261677824678,
+    46.24626652807416,
+    14.49653104971708,
+    46.26947197246687
+],
+  "geometry": {"coordinates":[[[14.49653104971708,46.26571358102649],[14.4963051477792,46.26301723803533],[14.49501138569508,46.26307167139964],[14.49493611309873,46.2621728882342],[14.49364237017176,46.26222730490133],[14.49356712236249,46.26132852012563],[14.49227339859277,46.26138292009676],[14.49212295580179,46.25958534676761],[14.49082927271559,46.25963972899132],[14.49067888600149,46.25784215132717],[14.48938524359659,46.2578965158051],[14.48915975250924,46.25520014196974],[14.49045333034661,46.25514578064525],[14.49037815163877,46.25424698930152],[14.49167170558786,46.25419261338601],[14.49152131489791,46.25239503112607],[14.4902278039869,46.25244940493906],[14.48977683913125,46.24705663844918],[14.48719006839673,46.24716532654503],[14.48711496199974,46.24626652807416],[14.48582159459704,46.24632084761294],[14.48604685900131,46.24901724450001],[14.48475342469339,46.24907155154881],[14.48490357418444,46.25086914878062],[14.48361009447979,46.25092344228841],[14.48368515258335,46.25182224111649],[14.48497865380557,46.2517679465592],[14.48520391217255,46.25446433654537],[14.48261677824678,46.25457291631596],[14.48284193673953,46.25726930757747],[14.48413556945195,46.25721502236456],[14.48421065030652,46.25811381728641],[14.48679795168414,46.25800519783184],[14.48687307883944,46.25890399009558],[14.4881667475039,46.25884965585306],[14.4884673747664,46.2624448151268],[14.48976112717116,46.26239046103717],[14.48983631365218,46.2632892484101],[14.49242385441357,46.26318049119425],[14.49295055241345,46.26947197246687],[14.49424446996665,46.26941756302654],[14.49401865809858,46.26672122041231],[14.49531250867761,46.26666679848296],[14.49523722304212,46.26576801754885],[14.49653104971708,46.26571358102649]]],"type":"Polygon"}
+}

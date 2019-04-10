@@ -1,0 +1,98 @@
+{
+  "id": 85677791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003966,
+    "geom:area_square_m":33881871.622148,
+    "geom:bbox":"15.051257358,46.2550064155,15.1228292169,46.3516930197",
+    "geom:latitude":46.305152,
+    "geom:longitude":15.088676,
+    "gn:population":21483,
+    "iso:country":"SI",
+    "lbl:latitude":46.305281,
+    "lbl:longitude":15.088676,
+    "mps:latitude":46.305281,
+    "mps:longitude":15.088676,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:eng_x_preferred":[
+        "Polzela"
+    ],
+    "name:und_x_preferred":[
+        "Zalec"
+    ],
+    "name:unk_x_variant":[
+        "\u017dalec"
+    ],
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Polzela",
+    "qs:a1_lc":"SVN-244",
+    "qs:a1r":"Savinjska",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "unlc:subdivision":"SI-173",
+    "wd:wordcount":97,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186843,
+        "gp:id":55848398,
+        "qs:id":957494,
+        "unlc:id":"SI-173",
+        "wd:id":"Q15931",
+        "wk:page":"Municipality of \u017dalec"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"66b90bba78562e8c26d037b710ad9990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677791
+        }
+    ],
+    "wof:id":85677791,
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1531169452,
+    "wof:name":"Polzela",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:population":21483,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:subdivision":"SI-173",
+    "wof:superseded_by":[
+        1108959635
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.05125735804069,
+    46.25500641551372,
+    15.1228292168949,
+    46.35169301971712
+],
+  "geometry": {"coordinates":[[[15.1228292168949,46.31696645793573],[15.12158898344489,46.29360870997402],[15.11843672027845,46.28751089101485],[15.11068525581993,46.27717560507017],[15.10742963986604,46.27138784447351],[15.11022016782653,46.26593598156035],[15.10401899607984,46.25500641551372],[15.095027297272,46.25766775226504],[15.05125735804069,46.30725128781671],[15.05807864831104,46.31448598923708],[15.05962894012356,46.32471792329358],[15.06024905774785,46.3370685899435],[15.06660525912548,46.35169301971712],[15.08138471763067,46.3464220239573],[15.08727583191416,46.33985911700472],[15.102468703368,46.33262441738299],[15.11037519655815,46.32301260005153],[15.1228292168949,46.31696645793573]]],"type":"Polygon"}
+}

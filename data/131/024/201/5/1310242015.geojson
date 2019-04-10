@@ -1,0 +1,71 @@
+{
+  "id": 1310242015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.62519,46.26159,14.62519,46.26159",
+    "geom:latitude":46.26159,
+    "geom:longitude":14.62519,
+    "gn:admin1_code":"H6",
+    "gn:asciiname":"Brezje nad Kamnikom",
+    "gn:country_code":"SI",
+    "gn:dem":695,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987665,
+    "gn:latitude":46.26159,
+    "gn:longitude":14.62519,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Brezje nad Kamnikom",
+    "gn:population":116,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959941,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987665,
+        "wk:page":"Brezje_nad_Kamnikom"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"81c1aea64e3c0533d3353d1c637fb5db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959941,
+            "locality_id":1310242015,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1310242015,
+    "wof:lastmodified":1537573487,
+    "wof:name":"Brezje nad Kamnikom",
+    "wof:parent_id":1108959941,
+    "wof:placetype":"locality",
+    "wof:population":116,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.62519,
+    46.26159000000001,
+    14.62519,
+    46.26159000000001
+],
+  "geometry": {"coordinates":[14.62519,46.26159000000001],"type":"Point"}
+}

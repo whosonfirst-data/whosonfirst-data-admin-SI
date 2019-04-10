@@ -1,0 +1,71 @@
+{
+  "id": 1243145945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.0,46.15,14.0,46.15",
+    "geom:latitude":46.15,
+    "geom:longitude":14.0,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Labinje",
+    "gn:country_code":"SI",
+    "gn:dem":833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196831,
+    "gn:latitude":46.15,
+    "gn:longitude":14.0,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Labinje",
+    "gn:population":89,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959577,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196831,
+        "wk:page":"Labinje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"eb2f9d6d4ad42d8882c12b164edf6dba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959577,
+            "locality_id":1243145945,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1243145945,
+    "wof:lastmodified":1537573427,
+    "wof:name":"Labinje",
+    "wof:parent_id":1108959577,
+    "wof:placetype":"locality",
+    "wof:population":89,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.0,
+    46.15,
+    14.0,
+    46.15
+],
+  "geometry": {"coordinates":[14.0,46.15],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276259941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.90778,45.5225,13.90778,45.5225",
+    "geom:latitude":45.5225,
+    "geom:longitude":13.90778,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Podpec",
+    "gn:country_code":"SI",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192944,
+    "gn:latitude":45.5225,
+    "gn:longitude":13.90778,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Podpe\u010d",
+    "gn:population":44,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Popecchio",
+        "Podpe\u010d"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959527,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192944,
+        "wk:page":"Podpe%C4%8D%2C_Koper"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"48bfc02a03d3c5b74893f5717c7a0d7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959527,
+            "locality_id":1276259941,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1276259941,
+    "wof:lastmodified":1537700208,
+    "wof:name":"Podpec",
+    "wof:parent_id":1108959527,
+    "wof:placetype":"locality",
+    "wof:population":44,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.90778,
+    45.5225,
+    13.90778,
+    45.5225
+],
+  "geometry": {"coordinates":[13.90778,45.5225],"type":"Point"}
+}

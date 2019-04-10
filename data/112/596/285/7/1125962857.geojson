@@ -1,0 +1,117 @@
+{
+  "id": 1125962857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.79611,45.53944,13.79611,45.53944",
+    "geom:latitude":45.53944,
+    "geom:longitude":13.79611,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":969,
+    "gn:population":1228,
+    "iso:country":"SI",
+    "lbl:latitude":45.53944,
+    "lbl:longitude":13.79611,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Pobegi"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u0431\u0435\u0433\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Pobegi"
+    ],
+    "name:eng_x_preferred":[
+        "Pobegi"
+    ],
+    "name:ita_x_preferred":[
+        "Pobeghi"
+    ],
+    "name:rum_x_preferred":[
+        "Pobegi"
+    ],
+    "name:slv_x_preferred":[
+        "Pobegi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0431\u0435\u0433\u0456"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3343527,
+    "qs_pg:gn_pop":969,
+    "qs_pg:name":"Pobegi",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Koper",
+    "qs_pg:photos":13,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":13,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":989367,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":15001045,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Koper",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959527,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343527,
+        "gp:id":15001045,
+        "qs_pg:id":989367,
+        "wd:id":"Q1618489"
+    },
+    "wof:country":"SI",
+    "wof:created":1497297867,
+    "wof:geomhash":"a7bd8fcb723ffc01e048fd2f00827ea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959527,
+            "locality_id":1125962857,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1125962857,
+    "wof:lastmodified":1531170308,
+    "wof:name":"Pobegi",
+    "wof:parent_id":1108959527,
+    "wof:placetype":"locality",
+    "wof:population":1228,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.79611,
+    45.53944,
+    13.79611,
+    45.53944
+],
+  "geometry": {"coordinates":[13.79611,45.53944],"type":"Point"}
+}

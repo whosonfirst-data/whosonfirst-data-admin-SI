@@ -1,0 +1,110 @@
+{
+  "id": 1125950557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.1881205,46.476556,16.1881205,46.476556",
+    "geom:latitude":46.476556,
+    "geom:longitude":16.188121,
+    "gn:gn_country":null,
+    "iso:country":"SI",
+    "lbl:latitude":46.476556,
+    "lbl:longitude":16.188121,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Jeruzalem"
+    ],
+    "name:eng_x_preferred":[
+        "Jeruzalem"
+    ],
+    "name:fre_x_preferred":[
+        "Jeruzalem"
+    ],
+    "name:ger_x_preferred":[
+        "Jeruzalem"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05e8\u05d5\u05d6\u05dc\u05dd"
+    ],
+    "name:hrv_x_preferred":[
+        "Jeruzalem"
+    ],
+    "name:rum_x_preferred":[
+        "Jeruzalem"
+    ],
+    "name:slv_x_preferred":[
+        "Jeruzalem"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0404\u0440\u0443\u0437\u0430\u043b\u0435\u043c"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Jeruzalem",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Ljutomer",
+    "qs_pg:photos":38,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":38,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":48007,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":55851738,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Ljutomer",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959499,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55851738,
+        "qs_pg:id":48007,
+        "wd:id":"Q680414"
+    },
+    "wof:country":"SI",
+    "wof:created":1497297440,
+    "wof:geomhash":"72f9d277e94a3eb41a386e82366a9ae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959499,
+            "locality_id":1125950557,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1125950557,
+    "wof:lastmodified":1531170199,
+    "wof:name":"Jeruzalem",
+    "wof:parent_id":1108959499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.1881205,
+    46.476556,
+    16.1881205,
+    46.476556
+],
+  "geometry": {"coordinates":[16.1881205,46.476556],"type":"Point"}
+}

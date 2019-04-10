@@ -1,0 +1,75 @@
+{
+  "id": 1242908573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.79361,45.86361,14.79361,45.86361",
+    "geom:latitude":45.86361,
+    "geom:longitude":14.79361,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Laze nad Krko",
+    "gn:country_code":"SI",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196727,
+    "gn:latitude":45.86361,
+    "gn:longitude":14.79361,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Laze nad Krko",
+    "gn:population":34,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laze",
+        "Laze nad Krko"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959583,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196727,
+        "wk:page":"Laze_nad_Krko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6ab7f32c814070cc79afb5128bf7fb66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959583,
+            "locality_id":1242908573,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1242908573,
+    "wof:lastmodified":1537700226,
+    "wof:name":"Laze nad Krko",
+    "wof:parent_id":1108959583,
+    "wof:placetype":"locality",
+    "wof:population":34,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.79361,
+    45.86361,
+    14.79361,
+    45.86361
+],
+  "geometry": {"coordinates":[14.79361,45.86361],"type":"Point"}
+}

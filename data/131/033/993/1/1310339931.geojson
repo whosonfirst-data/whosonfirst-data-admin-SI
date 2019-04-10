@@ -1,0 +1,74 @@
+{
+  "id": 1310339931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.58861,46.66889,15.58861,46.66889",
+    "geom:latitude":46.66889,
+    "geom:longitude":15.58861,
+    "gn:admin1_code":"55",
+    "gn:asciiname":"Svecina",
+    "gn:country_code":"SI",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3189405,
+    "gn:latitude":46.66889,
+    "gn:longitude":15.58861,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Sve\u010dina",
+    "gn:population":166,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sve\u010dina"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959469,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189405,
+        "wk:page":"Sve%C4%8Dina"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3176f3a28f0d3f93b0d8eae4e4fdc4a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959469,
+            "locality_id":1310339931,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1310339931,
+    "wof:lastmodified":1537700183,
+    "wof:name":"Svecina",
+    "wof:parent_id":1108959469,
+    "wof:placetype":"locality",
+    "wof:population":166,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.58861,
+    46.66889000000001,
+    15.58861,
+    46.66889000000001
+],
+  "geometry": {"coordinates":[15.58861,46.66889000000001],"type":"Point"}
+}

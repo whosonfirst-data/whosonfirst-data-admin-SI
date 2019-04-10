@@ -1,0 +1,74 @@
+{
+  "id": 1343695655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.15,45.65,15.15,45.65",
+    "geom:latitude":45.65,
+    "geom:longitude":15.15,
+    "gn:admin1_code":"B1",
+    "gn:asciiname":"Vrcice",
+    "gn:country_code":"SI",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187254,
+    "gn:latitude":45.65,
+    "gn:longitude":15.15,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Vr\u010dice",
+    "gn:population":45,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vr\u010dice"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959601,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187254,
+        "wk:page":"Vr%C4%8Dice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"cdb892752cce275c576ff0e4a78e0181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959601,
+            "locality_id":1343695655,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1343695655,
+    "wof:lastmodified":1537700174,
+    "wof:name":"Vrcice",
+    "wof:parent_id":1108959601,
+    "wof:placetype":"locality",
+    "wof:population":45,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.15,
+    45.65,
+    15.15,
+    45.65
+],
+  "geometry": {"coordinates":[15.15,45.65],"type":"Point"}
+}

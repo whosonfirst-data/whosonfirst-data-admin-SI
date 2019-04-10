@@ -1,0 +1,71 @@
+{
+  "id": 1276480915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25972,45.65806,15.25972,45.65806",
+    "geom:latitude":45.65806,
+    "geom:longitude":15.25972,
+    "gn:admin1_code":"B1",
+    "gn:asciiname":"Krvavcji Vrh",
+    "gn:country_code":"SI",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218145,
+    "gn:latitude":45.65806,
+    "gn:longitude":15.25972,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Krvav\u010dji Vrh",
+    "gn:population":85,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959601,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218145,
+        "wk:page":"Krvav%C4%8Dji_Vrh"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"90691388482c2ffa8308ed60e0ad74c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959601,
+            "locality_id":1276480915,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1276480915,
+    "wof:lastmodified":1537573459,
+    "wof:name":"Krvavcji Vrh",
+    "wof:parent_id":1108959601,
+    "wof:placetype":"locality",
+    "wof:population":85,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25972,
+    45.65806,
+    15.25972,
+    45.65806
+],
+  "geometry": {"coordinates":[15.25972,45.65806],"type":"Point"}
+}

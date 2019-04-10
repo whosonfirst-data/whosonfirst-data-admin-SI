@@ -1,0 +1,115 @@
+{
+  "id": 101792077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000113,
+    "geom:area_square_m":967611.188938,
+    "geom:bbox":"14.9374837399,46.3134976443,14.9551449756,46.3252361576",
+    "geom:latitude":46.31961,
+    "geom:longitude":14.946442,
+    "gn:population":872,
+    "iso:country":"SI",
+    "lbl:latitude":46.320168,
+    "lbl:longitude":14.946308,
+    "mps:latitude":46.320168,
+    "mps:longitude":14.946308,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Nazarje"
+    ],
+    "name:deu_x_preferred":[
+        "Hodosch"
+    ],
+    "name:dut_x_preferred":[
+        "Nazarje"
+    ],
+    "name:eng_x_preferred":[
+        "Nazarje"
+    ],
+    "name:hrv_x_preferred":[
+        "Nazarje"
+    ],
+    "name:rum_x_preferred":[
+        "Nazarje"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0437\u0430\u0440\u044c\u0435"
+    ],
+    "name:slv_x_preferred":[
+        "Nazarje"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0430\u0437\u0430\u0440\u0458\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u0437\u0430\u0440\u0454"
+    ],
+    "name:unk_x_variant":[
+        "\u0150rihodos"
+    ],
+    "name:vie_x_preferred":[
+        "Nazarje"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"Nazarje",
+    "qs:la_lc":"*SI083000",
+    "qs:level":"locality",
+    "qs:loc":"Nazarje",
+    "qs:loc_alt":"Nazarje",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959901,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8358612,
+        "gp:id":530872,
+        "qs:id":3,
+        "wd:id":"Q971156"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a13a75bdf746e67260e62ca745b81e18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959901,
+            "locality_id":101792077,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":101792077,
+    "wof:lastmodified":1531170665,
+    "wof:name":"Nazarje",
+    "wof:parent_id":1108959901,
+    "wof:placetype":"locality",
+    "wof:population":872,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.93748373992241,
+    46.31349764427961,
+    14.95514497556968,
+    46.32523615762545
+],
+  "geometry": {"coordinates":[[[14.94745895335279,46.32517625562957],[14.94737595816412,46.32427790433366],[14.95126047865426,46.32409810789704],[14.95134353850983,46.32499645571096],[14.95263839499052,46.32493649109477],[14.95255531357981,46.32403814444172],[14.95514497556968,46.32391817056731],[14.95506185465155,46.32301982566696],[14.95376704652097,46.32307981926959],[14.95368395075781,46.32218147263677],[14.95238916155967,46.32224144942387],[14.95213996052809,46.31954640261665],[14.95343468507241,46.31948642931332],[14.95318545178912,46.31679138085212],[14.94930146423695,46.31697124335534],[14.94921845831567,46.31607288924408],[14.9466291632877,46.31619271699799],[14.94638029637468,46.31349764427961],[14.94379112015758,46.31361740246911],[14.94387402911127,46.31451576293119],[14.93999018054672,46.31469528630515],[14.94007302845426,46.31559364967211],[14.93748373992241,46.31571325597758],[14.93756654832487,46.31661162108918],[14.93886121544415,46.31655182460474],[14.93894404898293,46.3174501879883],[14.94023873503909,46.31739037469367],[14.94048732184393,46.32008545794713],[14.94178206993718,46.32002562552424],[14.9421965608696,46.32451741374734],[14.94608111276489,46.32433780516959],[14.9461640863978,46.32523615762545],[14.94745895335279,46.32517625562957]]],"type":"Polygon"}
+}

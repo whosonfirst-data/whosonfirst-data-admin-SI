@@ -1,0 +1,120 @@
+{
+  "id": 1125806721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.31611,46.06694,14.31611,46.06694",
+    "geom:latitude":46.06694,
+    "geom:longitude":14.31611,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":617,
+    "iso:country":"SI",
+    "lbl:latitude":46.06694,
+    "lbl:longitude":14.31611,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Polhov Gradec"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u043b\u0445\u043e\u0432 \u0413\u0440\u0430\u0434\u0435\u0446"
+    ],
+    "name:dut_x_preferred":[
+        "Polhov Gradec"
+    ],
+    "name:eng_x_preferred":[
+        "Polhov Gradec"
+    ],
+    "name:rum_x_preferred":[
+        "Polhov Gradec"
+    ],
+    "name:slv_x_preferred":[
+        "Polhov Gradec"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u043b\u0445\u043e\u0432 \u0413\u0440\u0430\u0434\u0435\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043b\u0445\u043e\u0432 \u0413\u0440\u0430\u0434\u0435\u0446\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Billichgratz"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3192838,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Polhov Gradec",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Ljubljana",
+    "qs_pg:photos":20,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":20,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":496322,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":531163,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Ljubljana",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959847,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192838,
+        "gp:id":531163,
+        "qs_pg:id":496322,
+        "wd:id":"Q6591850"
+    },
+    "wof:country":"SI",
+    "wof:created":1497291494,
+    "wof:geomhash":"f1b51310fa7a31c22976d535c976bf34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959847,
+            "locality_id":1125806721,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1125806721,
+    "wof:lastmodified":1531170281,
+    "wof:name":"Polhov Gradec",
+    "wof:parent_id":1108959847,
+    "wof:placetype":"locality",
+    "wof:population":617,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.31611,
+    46.06694,
+    14.31611,
+    46.06694
+],
+  "geometry": {"coordinates":[14.31611,46.06694],"type":"Point"}
+}

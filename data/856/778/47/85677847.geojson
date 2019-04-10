@@ -1,0 +1,197 @@
+{
+  "id": 85677847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.007065,
+    "geom:area_square_m":60195456.647249,
+    "geom:bbox":"13.9923555836,46.4035761577,14.1479330842,46.4847089655",
+    "geom:latitude":46.445223,
+    "geom:longitude":14.070033,
+    "gn:population":21645,
+    "iso:country":"SI",
+    "lbl:latitude":46.447687,
+    "lbl:longitude":14.070033,
+    "mps:latitude":46.447687,
+    "mps:longitude":14.070033,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ces_x_preferred":[
+        "Ob\u010dina Jesenice"
+    ],
+    "name:eng_x_preferred":[
+        "Jesenice"
+    ],
+    "name:hbs_x_preferred":[
+        "Jesenice"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Jesenice"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30a7\u30bb\u30cb\u30c4\u30a7"
+    ],
+    "name:kor_x_preferred":[
+        "\uc608\uc138\ub2c8\uccb4"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Jesenice"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Jesenice"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Jesenice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0408\u0435\u0441\u0435\u043d\u0438\u0446\u0435"
+    ],
+    "name:szl_x_preferred":[
+        "Gmin Jesenice"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0404\u0441\u0435\u043d\u0456\u0446\u0435"
+    ],
+    "name:und_x_preferred":[
+        "Jesenice"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Jesenice"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0644\u062f\u06cc\u06c1 \u06cc\u0633\u06cc\u0646\u06cc\u062a\u0633\u06d2"
+    ],
+    "name:zho_x_preferred":[
+        "\u8036\u585e\u5c3c\u91c7"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-258",
+    "ne:adm1_code":"SVN-258",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SI.GO.JS",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"258",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SIH4",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.H4",
+    "ne:gn_id":"3198646",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Jesenice",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI09",
+    "ne:gns_id":"-83665",
+    "ne:gns_lang":"srp",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Jesenice, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"46.44770000000",
+    "ne:longitude":"14.07020000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Jesenice",
+    "ne:name_alt":"",
+    "ne:name_len":8,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"JS",
+    "ne:provnum_ne":"85",
+    "ne:region":"Gorenjska",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":55848354,
+    "ne:woe_label":"Jesenice, SI, Slovenia",
+    "ne:woe_name":"Jesenice",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Jesenice",
+    "qs:a1_lc":"SVN-258",
+    "qs:a1r":"Gorenjska",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":77,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SIH4",
+        "gn:id":3198646,
+        "gp:id":55848354,
+        "hasc:id":"SI.GO.JS",
+        "qs:id":1198580,
+        "wd:id":"Q15881",
+        "wk:page":"Municipality of Jesenice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7df5b197057be2b5e1c78b051ba0dda1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677847
+        }
+    ],
+    "wof:id":85677847,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616732,
+    "wof:name":"Jesenice",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:population":21645,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[
+        1108959875
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.9923555836433,
+    46.40357615771359,
+    14.14793308424447,
+    46.48470896554636
+],
+  "geometry": {"coordinates":[[[14.14793308424447,46.4404246545742],[14.14087365079837,46.43639069337587],[14.13777306537474,46.43411693025217],[14.12940148329187,46.42512523054501],[14.12785118968071,46.40683177276816],[14.10159956187033,46.40357615771359],[14.09663862537229,46.40460968738722],[14.08191084191185,46.40920888957862],[14.07276411257379,46.414583238126],[13.9923555836433,46.44481395140281],[13.99969363785118,46.45292715106723],[14.00465457524848,46.45545929571],[14.01225101097543,46.46062693958163],[14.01426639168068,46.46897268324278],[14.01492160894514,46.48253065196809],[14.03245568817954,46.48470896554636],[14.05002567644385,46.48439890538521],[14.06635542766088,46.48103993844245],[14.08103153517726,46.4759498089366],[14.13725549294668,46.44243764308283],[14.14793308424447,46.4404246545742]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293919529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.74444,45.46528,13.74444,45.46528",
+    "geom:latitude":45.46528,
+    "geom:longitude":13.74444,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Bric",
+    "gn:country_code":"SI",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989429,
+    "gn:latitude":45.46528,
+    "gn:longitude":13.74444,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Bri\u010d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bri\u010d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959527,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989429,
+        "wk:page":"Bri%C4%8D"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8c551b8d5b37cd0da2ac06d8d826bc10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959527,
+            "locality_id":1293919529,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1293919529,
+    "wof:lastmodified":1537700326,
+    "wof:name":"Bric",
+    "wof:parent_id":1108959527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.74444,
+    45.46528,
+    13.74444,
+    45.46528
+],
+  "geometry": {"coordinates":[13.74444,45.46528],"type":"Point"}
+}

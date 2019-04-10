@@ -1,0 +1,74 @@
+{
+  "id": 1327470121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.15,46.05,14.15,46.05",
+    "geom:latitude":46.05,
+    "geom:longitude":14.15,
+    "gn:admin1_code":"F2",
+    "gn:asciiname":"Zirovski Vrh",
+    "gn:country_code":"SI",
+    "gn:dem":695,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186441,
+    "gn:latitude":46.05,
+    "gn:longitude":14.15,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u017dirovski Vrh",
+    "gn:population":238,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017dirovski Vrh"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959673,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186441,
+        "wk:page":"%C5%BDirovski_Vrh%2C_%C5%BDiri"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"993d7dc7b183efe5c032b568d74583eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959673,
+            "locality_id":1327470121,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1327470121,
+    "wof:lastmodified":1537700167,
+    "wof:name":"Zirovski Vrh",
+    "wof:parent_id":1108959673,
+    "wof:placetype":"locality",
+    "wof:population":238,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.15,
+    46.05,
+    14.15,
+    46.05
+],
+  "geometry": {"coordinates":[14.15,46.05],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293424701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.81656,46.18987,14.81656,46.18987",
+    "geom:latitude":46.18987,
+    "geom:longitude":14.81656,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Prilesje",
+    "gn:country_code":"SI",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989093,
+    "gn:latitude":46.18987,
+    "gn:longitude":14.81656,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Prilesje",
+    "gn:population":18,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959807,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989093,
+        "wk:page":"Prilesje%2C_Lukovica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"dcf5209d7bcd37c76d5a703c0c7a9238",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959807,
+            "locality_id":1293424701,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1293424701,
+    "wof:lastmodified":1537573531,
+    "wof:name":"Prilesje",
+    "wof:parent_id":1108959807,
+    "wof:placetype":"locality",
+    "wof:population":18,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.81656,
+    46.18987,
+    14.81656,
+    46.18987
+],
+  "geometry": {"coordinates":[14.81656,46.18987],"type":"Point"}
+}

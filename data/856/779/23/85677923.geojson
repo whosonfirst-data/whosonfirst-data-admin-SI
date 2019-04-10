@@ -1,0 +1,124 @@
+{
+  "id": 85677923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.009369,
+    "geom:area_square_m":79537478.810021,
+    "geom:bbox":"15.8881055026,46.5859681259,16.0417395359,46.6945546071",
+    "geom:latitude":46.639142,
+    "geom:longitude":15.966612,
+    "gn:id":"",
+    "gn:population":8586,
+    "iso:country":"SI",
+    "lbl:latitude":46.640779,
+    "lbl:longitude":15.967775,
+    "mps:latitude":46.640779,
+    "mps:longitude":15.967775,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ces_x_preferred":[
+        "Ob\u010dina Gornja Radgona"
+    ],
+    "name:eng_x_preferred":[
+        "Gornja Radgona"
+    ],
+    "name:hbs_x_preferred":[
+        "Gornja Radgona"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Gornja Radgona"
+    ],
+    "name:nld_x_preferred":[
+        "Gornja Radgona"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Gornja Radgona"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Gornja Radgona"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Gornja Radgona"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0413\u043e\u0440\u045a\u0430 \u0420\u0430\u0434\u0433\u043e\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u044f \u0420\u0430\u0434\u0433\u043e\u043d\u0430"
+    ],
+    "name:und_x_preferred":[
+        "Gornja Radgona"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Gornja Radgona"
+    ],
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Gornja Radgona",
+    "qs:a1_lc":"SVN-927",
+    "qs:a1r":"Pomurska",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":58,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06f058b8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3200196,
+        "gp:id":55848348,
+        "qs:id":46387,
+        "wd:id":"Q570397",
+        "wk:page":"Municipality of Gornja Radgona"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3c840b57b98d5240105398d5bfe4bcb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677923
+        }
+    ],
+    "wof:id":85677923,
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1531169567,
+    "wof:name":"Gornja Radgona",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:population":8586,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[
+        1108959817
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.88810550256693,
+    46.58596812592833,
+    16.04173953585092,
+    46.69455460710947
+],
+  "geometry": {"coordinates":[[[16.01672733569802,46.67064076785721],[16.01672257918375,46.67069134213176],[16.02783857558984,46.66505890614366],[16.04173953585092,46.66273346617658],[16.00773644358208,46.63283865058332],[16.00680626759521,46.62139231969985],[16.01362755696624,46.59369375286445],[15.97828087666119,46.58596812592833],[15.95590498242905,46.58821605152963],[15.93327070487919,46.59640676555983],[15.91637251108256,46.61079865223604],[15.91358198402139,46.61855011669456],[15.91327192565888,46.62407949487283],[15.92846479711272,46.6334846048307],[15.93110029544232,46.63826467507477],[15.92799970911932,46.63950491032341],[15.92288374209107,46.64071930625101],[15.9183878917878,46.63994415989509],[15.91327192565888,46.63965993905498],[15.90924116424839,46.63984080710759],[15.90438357873921,46.64164948223788],[15.90066287569118,46.64211457023129],[15.88810550256693,46.64588694922338],[15.88857059056033,46.66278514301996],[15.91125729229026,46.66363270098839],[15.93211583957441,46.6651777785317],[15.94679407668536,46.67444824469078],[15.96760017820571,46.69455460710947],[15.98696171041468,46.69218984068863],[15.99791711398365,46.68691884402949],[16.01659305882265,46.67075696925878],[16.01672733569802,46.67064076785721]]],"type":"Polygon"}
+}

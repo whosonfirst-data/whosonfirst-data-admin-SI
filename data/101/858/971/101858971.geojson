@@ -1,0 +1,126 @@
+{
+  "id": 101858971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.3305,46.32681,14.3305,46.32681",
+    "geom:latitude":46.32681,
+    "geom:longitude":14.3305,
+    "gn:population":1063,
+    "iso:country":"SI",
+    "lbl:latitude":46.32681,
+    "lbl:longitude":14.3305,
+    "mps:latitude":46.32681,
+    "mps:longitude":14.3305,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Golnik"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u043b\u043d\u0438\u043a"
+    ],
+    "name:dut_x_preferred":[
+        "Golnik"
+    ],
+    "name:eng_x_preferred":[
+        "Golnik"
+    ],
+    "name:hbs_x_preferred":[
+        "Golnik"
+    ],
+    "name:hrv_x_preferred":[
+        "Golnik"
+    ],
+    "name:nld_x_preferred":[
+        "Golnik"
+    ],
+    "name:ron_x_preferred":[
+        "Golnik"
+    ],
+    "name:rum_x_preferred":[
+        "Golnik"
+    ],
+    "name:slv_x_preferred":[
+        "Golnik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u043b\u043d\u0438\u043a"
+    ],
+    "name:und_x_preferred":[
+        "Golnik"
+    ],
+    "name:wel_x_preferred":[
+        "Golnik"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Golnik",
+    "qs:loc_alt":"Golnik",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":155,
+    "wof:belongsto":[
+        102191581,
+        1108959933,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06f2669e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3200450,
+        "gp:id":55849926,
+        "qs:id":529049,
+        "wd:id":"Q1895190",
+        "wk:page":"Golnik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"04e8a2bb72d0ef9c9e0e29e4db3ca10c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959933,
+            "locality_id":101858971,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":101858971,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544744675,
+    "wof:name":"Golnik",
+    "wof:parent_id":1108959933,
+    "wof:placetype":"locality",
+    "wof:population":1063,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.3305,
+    46.32681,
+    14.3305,
+    46.32681
+],
+  "geometry": {"coordinates":[14.3305,46.32681],"type":"Point"}
+}

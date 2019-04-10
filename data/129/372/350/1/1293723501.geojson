@@ -1,0 +1,74 @@
+{
+  "id": 1293723501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.36853,45.92627,15.36853,45.92627",
+    "geom:latitude":45.92627,
+    "geom:longitude":15.36853,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Vrh pri Povrsju",
+    "gn:country_code":"SI",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988564,
+    "gn:latitude":45.92627,
+    "gn:longitude":15.36853,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Vrh pri Povr\u0161ju",
+    "gn:population":43,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vrh pri Povr\u0161ju"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988564,
+        "wk:page":"Vrh_pri_Povr%C5%A1ju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"bb428f3edb09aa22bf9a2750e0cc922b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1293723501,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1293723501,
+    "wof:lastmodified":1537700309,
+    "wof:name":"Vrh pri Povrsju",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":43,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.36853,
+    45.92627,
+    15.36853,
+    45.92627
+],
+  "geometry": {"coordinates":[15.36853,45.92627],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259411439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.57972,45.99028,14.57972,45.99028",
+    "geom:latitude":45.99028,
+    "geom:longitude":14.57972,
+    "gn:admin1_code":"C1",
+    "gn:asciiname":"Lanisce",
+    "gn:country_code":"SI",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196776,
+    "gn:latitude":45.99028,
+    "gn:longitude":14.57972,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Lani\u0161\u010de",
+    "gn:population":231,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lani\u0161\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959891,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196776,
+        "wk:page":"Lani%C5%A1%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2bad274ee8f832403437f00bd5f8f0ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959891,
+            "locality_id":1259411439,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1259411439,
+    "wof:lastmodified":1537700226,
+    "wof:name":"Lanisce",
+    "wof:parent_id":1108959891,
+    "wof:placetype":"locality",
+    "wof:population":231,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.57972,
+    45.99028,
+    14.57972,
+    45.99028
+],
+  "geometry": {"coordinates":[14.57972,45.99028],"type":"Point"}
+}

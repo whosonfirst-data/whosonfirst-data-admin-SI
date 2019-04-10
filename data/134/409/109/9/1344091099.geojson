@@ -1,0 +1,74 @@
+{
+  "id": 1344091099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.3936,46.13936,14.3936,46.13936",
+    "geom:latitude":46.13936,
+    "geom:longitude":14.3936,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Goricane",
+    "gn:country_code":"SI",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200327,
+    "gn:latitude":46.13936,
+    "gn:longitude":14.3936,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Gori\u010dane",
+    "gn:population":516,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gori\u010dane"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959881,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200327,
+        "wk:page":"Gori%C4%8Dane"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"748d991019fc114561c333b31c352dfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959881,
+            "locality_id":1344091099,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1344091099,
+    "wof:lastmodified":1537700244,
+    "wof:name":"Goricane",
+    "wof:parent_id":1108959881,
+    "wof:placetype":"locality",
+    "wof:population":516,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.3936,
+    46.13936,
+    14.3936,
+    46.13936
+],
+  "geometry": {"coordinates":[14.3936,46.13936],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226571481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.40857,46.20449,14.40857,46.20449",
+    "geom:latitude":46.20449,
+    "geom:longitude":14.40857,
+    "gn:admin1_code":"B2",
+    "gn:asciiname":"Zerjavka",
+    "gn:country_code":"SI",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988224,
+    "gn:latitude":46.20449,
+    "gn:longitude":14.40857,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u017derjavka",
+    "gn:population":63,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017derjavka"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959647,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988224,
+        "wk:page":"%C5%BDerjavka"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1913bc00f559e9ec67941cc70e8d2a9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959647,
+            "locality_id":1226571481,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1226571481,
+    "wof:lastmodified":1537700302,
+    "wof:name":"Zerjavka",
+    "wof:parent_id":1108959647,
+    "wof:placetype":"locality",
+    "wof:population":63,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.40857,
+    46.20449,
+    14.40857,
+    46.20449
+],
+  "geometry": {"coordinates":[14.40857,46.20449],"type":"Point"}
+}

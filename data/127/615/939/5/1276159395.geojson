@@ -1,0 +1,71 @@
+{
+  "id": 1276159395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.19413,45.98652,15.19413,45.98652",
+    "geom:latitude":45.98652,
+    "geom:longitude":15.19413,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Hinjce",
+    "gn:country_code":"SI",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989600,
+    "gn:latitude":45.98652,
+    "gn:longitude":15.19413,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Hinjce",
+    "gn:population":31,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989600,
+        "wk:page":"Hinjce"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d17f9d22063dcc034a96da7105a82cb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1276159395,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1276159395,
+    "wof:lastmodified":1537573547,
+    "wof:name":"Hinjce",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.19413,
+    45.98652,
+    15.19413,
+    45.98652
+],
+  "geometry": {"coordinates":[15.19413,45.98652],"type":"Point"}
+}

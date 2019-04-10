@@ -1,0 +1,67 @@
+{
+  "id": 1226441819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.34028,45.94,14.34028,45.94",
+    "geom:latitude":45.94,
+    "geom:longitude":14.34028,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Galetov Grad",
+    "gn:country_code":"SI",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218904,
+    "gn:latitude":45.94,
+    "gn:longitude":14.34028,
+    "gn:modification_date":"2008-11-03",
+    "gn:name":"Galetov Grad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959871,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218904
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6e069166eaca8668cd0c29ee188e1d55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959871,
+            "locality_id":1226441819,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1226441819,
+    "wof:lastmodified":1536650979,
+    "wof:name":"Galetov Grad",
+    "wof:parent_id":1108959871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.34028,
+    45.94,
+    14.34028,
+    45.94
+],
+  "geometry": {"coordinates":[14.34028,45.94],"type":"Point"}
+}

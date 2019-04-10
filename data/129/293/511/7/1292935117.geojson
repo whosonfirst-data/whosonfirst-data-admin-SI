@@ -1,0 +1,71 @@
+{
+  "id": 1292935117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.45467,45.81146,14.45467,45.81146",
+    "geom:latitude":45.81146,
+    "geom:longitude":14.45467,
+    "gn:admin1_code":"F6",
+    "gn:asciiname":"Hribarjevo",
+    "gn:country_code":"SI",
+    "gn:dem":726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988999,
+    "gn:latitude":45.81146,
+    "gn:longitude":14.45467,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Hribarjevo",
+    "gn:population":23,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959893,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988999,
+        "wk:page":"Hribarjevo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"749f99885eb74a5bd240912ff7ffc469",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959893,
+            "locality_id":1292935117,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1292935117,
+    "wof:lastmodified":1537573528,
+    "wof:name":"Hribarjevo",
+    "wof:parent_id":1108959893,
+    "wof:placetype":"locality",
+    "wof:population":23,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.45467,
+    45.81146,
+    14.45467,
+    45.81146
+],
+  "geometry": {"coordinates":[14.45467,45.81146],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343497247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.18655,46.15914,15.18655,46.15914",
+    "geom:latitude":46.15914,
+    "geom:longitude":15.18655,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Huda Jama",
+    "gn:country_code":"SI",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987986,
+    "gn:latitude":46.15914,
+    "gn:longitude":15.18655,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Huda Jama",
+    "gn:population":84,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959879,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987986,
+        "wk:page":"Huda_Jama"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f7fdfb5acd8e479e4208a7e2bf239504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959879,
+            "locality_id":1343497247,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1343497247,
+    "wof:lastmodified":1537573498,
+    "wof:name":"Huda Jama",
+    "wof:parent_id":1108959879,
+    "wof:placetype":"locality",
+    "wof:population":84,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.18655,
+    46.15914,
+    15.18655,
+    46.15914
+],
+  "geometry": {"coordinates":[15.18655,46.15914],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209850277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23974,45.81599,15.23974,45.81599",
+    "geom:latitude":45.81599,
+    "geom:longitude":15.23974,
+    "gn:admin1_code":"J7",
+    "gn:asciiname":"Ratez",
+    "gn:country_code":"SI",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986979,
+    "gn:latitude":45.81599,
+    "gn:longitude":15.23974,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Rate\u017e",
+    "gn:population":391,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rate\u017e"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959465,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986979,
+        "wk:page":"Rate%C5%BE"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3c7ab2764134778058a5d7ed7142f0b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959465,
+            "locality_id":1209850277,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1209850277,
+    "wof:lastmodified":1537700277,
+    "wof:name":"Ratez",
+    "wof:parent_id":1108959465,
+    "wof:placetype":"locality",
+    "wof:population":391,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23974,
+    45.81599,
+    15.23974,
+    45.81599
+],
+  "geometry": {"coordinates":[15.23974,45.81599],"type":"Point"}
+}

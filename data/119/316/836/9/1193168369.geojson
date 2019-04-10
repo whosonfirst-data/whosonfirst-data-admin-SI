@@ -1,0 +1,77 @@
+{
+  "id": 1193168369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.31973,45.97194,15.31973,45.97194",
+    "geom:latitude":45.97194,
+    "geom:longitude":15.31973,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Dolnje Impolje",
+    "gn:country_code":"SI",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988838,
+    "gn:latitude":45.97194,
+    "gn:longitude":15.31973,
+    "gn:modification_date":"2015-11-30",
+    "gn:name":"Dolnje Impolje",
+    "gn:population":30,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Dolenje Impole"
+    ],
+    "name:slv_x_preferred":[
+        "Dolenje Impole"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988838,
+        "wk:page":"Dolnje_Impolje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9120c93b4efe4cf0e9dd3fba7fb87abc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1193168369,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1193168369,
+    "wof:lastmodified":1537700314,
+    "wof:name":"Dolnje Impolje",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":30,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.31973,
+    45.97194,
+    15.31973,
+    45.97194
+],
+  "geometry": {"coordinates":[15.31973,45.97194],"type":"Point"}
+}

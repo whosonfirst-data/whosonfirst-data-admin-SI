@@ -1,0 +1,71 @@
+{
+  "id": 1243208531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.76682,46.64533,15.76682,46.64533",
+    "geom:latitude":46.64533,
+    "geom:longitude":15.76682,
+    "gn:admin1_code":"B3",
+    "gn:asciiname":"Plodrsnica",
+    "gn:country_code":"SI",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193138,
+    "gn:latitude":46.64533,
+    "gn:longitude":15.76682,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Plodr\u0161nica",
+    "gn:population":124,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959565,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193138,
+        "wk:page":"Plodr%C5%A1nica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"cc7baafe5a666450bacd6a1b66f54597",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959565,
+            "locality_id":1243208531,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1243208531,
+    "wof:lastmodified":1537573413,
+    "wof:name":"Plodrsnica",
+    "wof:parent_id":1108959565,
+    "wof:placetype":"locality",
+    "wof:population":124,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.76682,
+    46.64533,
+    15.76682,
+    46.64533
+],
+  "geometry": {"coordinates":[15.76682,46.64533],"type":"Point"}
+}

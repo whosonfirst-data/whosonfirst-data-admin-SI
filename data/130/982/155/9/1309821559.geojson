@@ -1,0 +1,71 @@
+{
+  "id": 1309821559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.82083,45.91,13.82083,45.91",
+    "geom:latitude":45.91,
+    "geom:longitude":13.82083,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gustini",
+    "gn:country_code":"SI",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216523,
+    "gn:latitude":45.91,
+    "gn:longitude":13.82083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gu\u0161tini",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "O\u0161tini",
+        "Gu\u0161tini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959545,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216523
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"28cdc02a8a826f2e3b38230276d51293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959545,
+            "locality_id":1309821559,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1309821559,
+    "wof:lastmodified":1537700270,
+    "wof:name":"Gustini",
+    "wof:parent_id":1108959545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.82083,
+    45.91,
+    13.82083,
+    45.91
+],
+  "geometry": {"coordinates":[13.82083,45.91],"type":"Point"}
+}

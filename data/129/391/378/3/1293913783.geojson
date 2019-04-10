@@ -1,0 +1,71 @@
+{
+  "id": 1293913783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.30149,45.97754,15.30149,45.97754",
+    "geom:latitude":45.97754,
+    "geom:longitude":15.30149,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Dedna Gora",
+    "gn:country_code":"SI",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989349,
+    "gn:latitude":45.97754,
+    "gn:longitude":15.30149,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Dedna Gora",
+    "gn:population":6,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989349,
+        "wk:page":"Dedna_Gora"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"11e91191bd86c743ed7ad77dcefee23e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1293913783,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1293913783,
+    "wof:lastmodified":1537573539,
+    "wof:name":"Dedna Gora",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.30149,
+    45.97754000000001,
+    15.30149,
+    45.97754000000001
+],
+  "geometry": {"coordinates":[15.30149,45.97754000000001],"type":"Point"}
+}

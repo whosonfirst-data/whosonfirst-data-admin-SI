@@ -1,0 +1,74 @@
+{
+  "id": 1209883877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.97097,46.58937,14.97097,46.58937",
+    "geom:latitude":46.58937,
+    "geom:longitude":14.97097,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Crneska Gora",
+    "gn:country_code":"SI",
+    "gn:dem":857,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988467,
+    "gn:latitude":46.58937,
+    "gn:longitude":14.97097,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u010crne\u0161ka Gora",
+    "gn:population":48,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010crne\u0161ka Gora"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959495,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988467,
+        "wk:page":"%C4%8Crne%C5%A1ka_Gora"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1e32534ef8fc11c2207ff32706a20971",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959495,
+            "locality_id":1209883877,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1209883877,
+    "wof:lastmodified":1537700307,
+    "wof:name":"Crneska Gora",
+    "wof:parent_id":1108959495,
+    "wof:placetype":"locality",
+    "wof:population":48,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.97097,
+    46.58937,
+    14.97097,
+    46.58937
+],
+  "geometry": {"coordinates":[14.97097,46.58937],"type":"Point"}
+}

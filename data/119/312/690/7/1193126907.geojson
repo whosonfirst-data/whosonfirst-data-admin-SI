@@ -1,0 +1,74 @@
+{
+  "id": 1193126907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.40056,45.99944,14.40056,45.99944",
+    "geom:latitude":45.99944,
+    "geom:longitude":14.40056,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Plesivica",
+    "gn:country_code":"SI",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193193,
+    "gn:latitude":45.99944,
+    "gn:longitude":14.40056,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ple\u0161ivica",
+    "gn:population":186,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ple\u0161ivica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959895,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193193,
+        "wk:page":"Ple%C5%A1ivica%2C_Brezovica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"352041f9e69bf628e88f6e5fa1d03156",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959895,
+            "locality_id":1193126907,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1193126907,
+    "wof:lastmodified":1537700210,
+    "wof:name":"Plesivica",
+    "wof:parent_id":1108959895,
+    "wof:placetype":"locality",
+    "wof:population":186,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.40056,
+    45.99944,
+    14.40056,
+    45.99944
+],
+  "geometry": {"coordinates":[14.40056,45.99944],"type":"Point"}
+}

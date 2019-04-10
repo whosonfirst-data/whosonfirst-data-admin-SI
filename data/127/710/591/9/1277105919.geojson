@@ -1,0 +1,74 @@
+{
+  "id": 1277105919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.15313,46.02894,14.15313,46.02894",
+    "geom:latitude":46.02894,
+    "geom:longitude":14.15313,
+    "gn:admin1_code":"F2",
+    "gn:asciiname":"Raceva",
+    "gn:country_code":"SI",
+    "gn:dem":581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987361,
+    "gn:latitude":46.02894,
+    "gn:longitude":14.15313,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ra\u010deva",
+    "gn:population":166,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ra\u010deva"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959673,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987361,
+        "wk:page":"Ra%C4%8Deva"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1ae5da660fa24f430136e9117a2eada9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959673,
+            "locality_id":1277105919,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1277105919,
+    "wof:lastmodified":1537700285,
+    "wof:name":"Raceva",
+    "wof:parent_id":1108959673,
+    "wof:placetype":"locality",
+    "wof:population":166,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.15313,
+    46.02894000000001,
+    14.15313,
+    46.02894000000001
+],
+  "geometry": {"coordinates":[14.15313,46.02894000000001],"type":"Point"}
+}

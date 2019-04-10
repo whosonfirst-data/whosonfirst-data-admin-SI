@@ -1,0 +1,74 @@
+{
+  "id": 1309745909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23891,46.11152,15.23891,46.11152",
+    "geom:latitude":46.11152,
+    "geom:longitude":15.23891,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Vodisko",
+    "gn:country_code":"SI",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988449,
+    "gn:latitude":46.11152,
+    "gn:longitude":15.23891,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Vodi\u0161ko",
+    "gn:population":49,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vodi\u0161ko"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959879,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988449,
+        "wk:page":"Vodi%C5%A1ko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b09fc66c0c88bb707a1a5255a4933ba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959879,
+            "locality_id":1309745909,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1309745909,
+    "wof:lastmodified":1537700306,
+    "wof:name":"Vodisko",
+    "wof:parent_id":1108959879,
+    "wof:placetype":"locality",
+    "wof:population":49,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23891,
+    46.11152,
+    15.23891,
+    46.11152
+],
+  "geometry": {"coordinates":[15.23891,46.11152],"type":"Point"}
+}

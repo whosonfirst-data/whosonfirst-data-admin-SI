@@ -1,0 +1,76 @@
+{
+  "id": 1293814859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.305,46.66139,16.305,46.66139",
+    "geom:latitude":46.66139,
+    "geom:longitude":16.305,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Filovci",
+    "gn:country_code":"SI",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200844,
+    "gn:latitude":46.66139,
+    "gn:longitude":16.305,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Filovci",
+    "gn:population":478,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fil\u00f3cz",
+        "Fil\u00f3c",
+        "Filovci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959925,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200844,
+        "wk:page":"Filovci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fdb2b797f67352f53791600034d68023",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959925,
+            "locality_id":1293814859,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1293814859,
+    "wof:lastmodified":1537700249,
+    "wof:name":"Filovci",
+    "wof:parent_id":1108959925,
+    "wof:placetype":"locality",
+    "wof:population":478,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.305,
+    46.66139,
+    16.305,
+    46.66139
+],
+  "geometry": {"coordinates":[16.305,46.66139],"type":"Point"}
+}

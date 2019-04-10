@@ -1,0 +1,71 @@
+{
+  "id": 1293237093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.10447,46.03238,15.10447,46.03238",
+    "geom:latitude":46.03238,
+    "geom:longitude":15.10447,
+    "gn:admin1_code":"I5",
+    "gn:asciiname":"Kladje pri Krmelju",
+    "gn:country_code":"SI",
+    "gn:dem":698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216168,
+    "gn:latitude":46.03238,
+    "gn:longitude":15.10447,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Kladje pri Krmelju",
+    "gn:population":61,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216168,
+        "wk:page":"Kladje_pri_Krmelju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"bb87683aeced38f9e46f50aa580a393c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1293237093,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1293237093,
+    "wof:lastmodified":1537573456,
+    "wof:name":"Kladje pri Krmelju",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":61,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.10447,
+    46.03238,
+    15.10447,
+    46.03238
+],
+  "geometry": {"coordinates":[15.10447,46.03238],"type":"Point"}
+}

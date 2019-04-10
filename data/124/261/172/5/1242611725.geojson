@@ -1,0 +1,75 @@
+{
+  "id": 1242611725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.28333,45.8,15.28333,45.8",
+    "geom:latitude":45.8,
+    "geom:longitude":15.28333,
+    "gn:admin1_code":"J7",
+    "gn:asciiname":"Dolenji Suhadol",
+    "gn:country_code":"SI",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201819,
+    "gn:latitude":45.8,
+    "gn:longitude":15.28333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Dolenji Suhadol",
+    "gn:population":136,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dolenji Suhodol",
+        "Dolenji Suhadol"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959465,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201819,
+        "wk:page":"Dolenji_Suhadol"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9f8299d0aad570bc39495ee04db3d90e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959465,
+            "locality_id":1242611725,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1242611725,
+    "wof:lastmodified":1537700252,
+    "wof:name":"Dolenji Suhadol",
+    "wof:parent_id":1108959465,
+    "wof:placetype":"locality",
+    "wof:population":136,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.28333,
+    45.8,
+    15.28333,
+    45.8
+],
+  "geometry": {"coordinates":[15.28333,45.8],"type":"Point"}
+}

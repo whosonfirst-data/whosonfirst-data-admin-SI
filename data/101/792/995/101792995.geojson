@@ -1,0 +1,164 @@
+{
+  "id": 101792995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000168,
+    "geom:area_square_m":1446564.692696,
+    "geom:bbox":"14.3580600819,45.9121213824,14.3720573757,45.9453871722",
+    "geom:latitude":45.924713,
+    "geom:longitude":14.36484,
+    "gn:population":2162,
+    "iso:country":"SI",
+    "lbl:latitude":45.919561,
+    "lbl:longitude":14.364363,
+    "mps:latitude":45.919561,
+    "mps:longitude":14.364363,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Borovnica"
+    ],
+    "name:chi_x_preferred":[
+        "\u535a\u7f85\u592b\u5c3c\u5bdf"
+    ],
+    "name:deu_x_preferred":[
+        "Borovnica"
+    ],
+    "name:dut_x_preferred":[
+        "Borovnica"
+    ],
+    "name:eng_x_preferred":[
+        "Borovnica"
+    ],
+    "name:fra_x_preferred":[
+        "Borovnica"
+    ],
+    "name:fre_x_preferred":[
+        "Borovnica"
+    ],
+    "name:ger_x_preferred":[
+        "Borovnica"
+    ],
+    "name:hbs_x_preferred":[
+        "Borovnica"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Borovnica"
+    ],
+    "name:hun_x_preferred":[
+        "Borovnica"
+    ],
+    "name:ita_x_preferred":[
+        "Borovnica"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30ed\u30f4\u30cb\u30c4\u30a1"
+    ],
+    "name:kor_x_preferred":[
+        "\ubcf4\ub85c\ube0c\ub2c8\ucc28"
+    ],
+    "name:nld_x_preferred":[
+        "Borovnica"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Borovnica"
+    ],
+    "name:por_x_preferred":[
+        "Borovnica"
+    ],
+    "name:ron_x_preferred":[
+        "Borovnica"
+    ],
+    "name:rum_x_preferred":[
+        "Borovnica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0432\u043d\u0438\u0446\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Borovnica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0432\u043d\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0432\u043d\u0438\u0446\u044f"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u0631\u0648\u0648\u0646\u06cc\u062a\u0633\u0627\u060c \u0628\u0648\u0631\u0648\u0648\u0646\u06cc\u062a\u0633\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Borovnica"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u7f85\u592b\u5c3c\u5bdf"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"Borovnica",
+    "qs:la_lc":"*SI005000",
+    "qs:level":"locality",
+    "qs:loc":"Borovnica",
+    "qs:loc_alt":"Borovnica",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":45.917978,
+    "wd:longitude":14.364172,
+    "wd:wordcount":560,
+    "wof:belongsto":[
+        102191581,
+        1108959871,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203677,
+        "gp:id":529593,
+        "qs:id":1044070,
+        "qs_pg:id":1044070,
+        "wd:id":"Q787824",
+        "wk:page":"Borovnica, Borovnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1f51d8aceabdad812209fd59d8622b87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959871,
+            "locality_id":101792995,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":101792995,
+    "wof:lastmodified":1531170278,
+    "wof:name":"Borovnica",
+    "wof:parent_id":1108959871,
+    "wof:placetype":"locality",
+    "wof:population":2162,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.35806008191122,
+    45.91212138235812,
+    14.37205737565733,
+    45.94538717217779
+],
+  "geometry": {"coordinates":[[[14.37051921965656,45.9453343092195],[14.37030170912931,45.94263711530596],[14.36901548276245,45.94268997522454],[14.36858067318565,45.93729556584685],[14.36600846815037,45.93740122691236],[14.36593605321076,45.93650215465198],[14.36464996850356,45.93655496086456],[14.36392620244686,45.92756419660685],[14.36778381379241,45.92740576171144],[14.36763897077981,45.92560760804707],[14.36892479431725,45.9255547673684],[14.3684902129034,45.92016029867159],[14.36977590703731,45.92010744853235],[14.36955859483083,45.9174102094679],[14.37084422314467,45.91735734683277],[14.37077177078999,45.91645826700812],[14.37205737565733,45.91640538985354],[14.37198490523605,45.91550631046681],[14.36812814739619,45.91566489229803],[14.36805574363854,45.91476580929992],[14.36677017435142,45.91481863783525],[14.36655304530444,45.91212138235812],[14.36269651451477,45.91227976567546],[14.3627688242106,45.91317885444209],[14.36148328825061,45.91323161883031],[14.36162787460898,45.91502979666097],[14.36034229402759,45.91508254753825],[14.36055913333519,45.91777981300731],[14.35927348694406,45.91783255138296],[14.35934575174548,45.91873163973412],[14.35806008191122,45.91878436358678],[14.35813232863381,45.91968345237399],[14.35941801965498,45.91963072751133],[14.35970712238361,45.9232270728802],[14.36227866716871,45.92312156847265],[14.36292971174271,45.93121329379676],[14.3616437497239,45.93126606286501],[14.36200544409257,45.9357614508051],[14.35943330126031,45.93586695243727],[14.35950560706397,45.93676603032742],[14.36079170081422,45.93671328626976],[14.36086403093407,45.93761236257615],[14.36343625406477,45.93750682582242],[14.36365339034222,45.94020404523593],[14.36622573166778,45.94009844025516],[14.36629815907321,45.94099751022299],[14.36758434754961,45.94094468341035],[14.36780171209818,45.94364188683949],[14.36908796194047,45.94358904144849],[14.36923292965548,45.94538717217779],[14.37051921965656,45.9453343092195]]],"type":"Polygon"}
+}

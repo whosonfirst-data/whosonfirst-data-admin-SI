@@ -1,0 +1,67 @@
+{
+  "id": 1277017329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.70802,46.11091,13.70802,46.11091",
+    "geom:latitude":46.11091,
+    "geom:longitude":13.70802,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Siroka njiva",
+    "gn:country_code":"SI",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":10858814,
+    "gn:latitude":46.11091,
+    "gn:longitude":13.70802,
+    "gn:modification_date":"2015-10-13",
+    "gn:name":"\u0160iroka njiva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959537,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10858814
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4f6d66f67d06e7209b1b8a1f02c88c33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959537,
+            "locality_id":1277017329,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1277017329,
+    "wof:lastmodified":1536855663,
+    "wof:name":"Siroka njiva",
+    "wof:parent_id":1108959537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.70802,
+    46.11091,
+    13.70802,
+    46.11091
+],
+  "geometry": {"coordinates":[13.70802,46.11091],"type":"Point"}
+}

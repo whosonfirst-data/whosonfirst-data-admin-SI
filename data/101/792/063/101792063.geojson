@@ -1,0 +1,164 @@
+{
+  "id": 101792063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000098,
+    "geom:area_square_m":837934.910392,
+    "geom:bbox":"13.9476498774,46.2671299079,13.9647414432,46.2770690448",
+    "geom:latitude":46.272362,
+    "geom:longitude":13.955616,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1774,
+    "gn:population":1799,
+    "iso:country":"SI",
+    "lbl:latitude":46.273124,
+    "lbl:longitude":13.955616,
+    "mps:latitude":46.273124,
+    "mps:longitude":13.955616,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Bohinjska Bistrica"
+    ],
+    "name:deu_x_preferred":[
+        "Bohinjska Bistrica"
+    ],
+    "name:dut_x_preferred":[
+        "Bohinjska Bistrica"
+    ],
+    "name:eng_x_preferred":[
+        "Bohinjska Bistrica"
+    ],
+    "name:epo_x_preferred":[
+        "Bohinjska Bistrica"
+    ],
+    "name:fre_x_preferred":[
+        "Bohinjska Bistrica"
+    ],
+    "name:ger_x_preferred":[
+        "Bohinjska Bistrica"
+    ],
+    "name:hbs_x_preferred":[
+        "Bohinjska Bistrica"
+    ],
+    "name:hrv_x_preferred":[
+        "Bohinjska Bistrica"
+    ],
+    "name:hun_x_preferred":[
+        "Bohinjska Bistrica"
+    ],
+    "name:nld_x_preferred":[
+        "Bohinjska Bistrica"
+    ],
+    "name:ron_x_preferred":[
+        "Bohinjska Bistrica"
+    ],
+    "name:rum_x_preferred":[
+        "Bohinjska Bistrica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0445\u0438\u043d\u044c\u0441\u043a\u0430-\u0411\u044b\u0441\u0442\u0440\u0438\u0446\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Bohinjska Bistrica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0445\u0438\u045a\u0441\u043a\u0430 \u0411\u0438\u0441\u0442\u0440\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0445\u0456\u043d\u0441\u044c\u043a\u0430 \u0411\u0456\u0441\u0442\u0440\u0456\u0446\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Wochein Feistritz"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u062e\u06cc\u0646\u0633\u06a9\u0627 \u0628\u06cc\u0633\u062a\u0631\u06cc\u062a\u0633\u0627"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"Bohinjska Bistrica",
+    "qs:la_lc":"*SI004000",
+    "qs:level":"locality",
+    "qs:loc":"Bohinjska Bistrica",
+    "qs:loc_alt":"Bohinjska Bistrica",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3203808,
+    "qs_pg:gn_pop":1774,
+    "qs_pg:name":"Bohinjska Bistrica",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Radovljica",
+    "qs_pg:photos":438,
+    "qs_pg:photos_1k":89,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":438,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1117118,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":529576,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":518,
+    "wof:belongsto":[
+        102191581,
+        1108959819,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203808,
+        "gp:id":529576,
+        "qs:id":1117118,
+        "qs_pg:id":1117118,
+        "wd:id":"Q684125",
+        "wk:page":"Bohinjska Bistrica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f2886a5b384f1843e4133747a4688972",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959819,
+            "locality_id":101792063,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":101792063,
+    "wof:lastmodified":1534379461,
+    "wof:name":"Bohinjska Bistrica",
+    "wof:parent_id":1108959819,
+    "wof:placetype":"locality",
+    "wof:population":1799,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125891431
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.9476498774178,
+    46.26712990790969,
+    13.96474144315829,
+    46.27706904481198
+],
+  "geometry": {"coordinates":[[[13.9599619574073,46.27702109952759],[13.95989561196512,46.27612190299084],[13.96119010182122,46.27607394297462],[13.96099101800189,46.27337635290752],[13.96228544102524,46.27332838001661],[13.96215268970047,46.27152998579413],[13.96474144315829,46.27143399675072],[13.96467502865755,46.27053480068628],[13.96208631835191,46.27063078787211],[13.96195358428139,46.26883239040689],[13.96065926914031,46.26888035865653],[13.96059292799191,46.26798115818508],[13.95929863233317,46.26802910984958],[13.95923231563171,46.26712990790969],[13.95793803945531,46.26717784298955],[13.95807063258468,46.26897624818378],[13.95677631117161,46.26902416946137],[13.9568425904701,46.2699233721749],[13.95295954897341,46.27006704484194],[13.95289333440058,46.26916783934837],[13.95159900463506,46.26921569799572],[13.95153281450615,46.26831649103582],[13.95023850422871,46.26836433309944],[13.95017233854099,46.26746512467389],[13.94887804775215,46.26751295015504],[13.94894419186579,46.26841215950594],[13.9476498774178,46.26845997025492],[13.94771600282235,46.26935917999089],[13.94901033884543,46.26931136831683],[13.94953961787473,46.27650501936284],[13.95860112001753,46.27616984734721],[13.95866744387752,46.27706904481198],[13.9599619574073,46.27702109952759]]],"type":"Polygon"}
+}

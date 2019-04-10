@@ -1,0 +1,71 @@
+{
+  "id": 1276157263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.10783,46.23084,15.10783,46.23084",
+    "geom:latitude":46.23084,
+    "geom:longitude":15.10783,
+    "gn:admin1_code":"K4",
+    "gn:asciiname":"Sv. Lovrenc",
+    "gn:country_code":"SI",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987006,
+    "gn:latitude":46.23084,
+    "gn:longitude":15.10783,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Sv. Lovrenc",
+    "gn:population":352,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959713,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987006,
+        "wk:page":"Sveti_Lovrenc%2C_Prebold"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c637f18553d90c6153097f5290ac6ed4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959713,
+            "locality_id":1276157263,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1276157263,
+    "wof:lastmodified":1537573466,
+    "wof:name":"Sv. Lovrenc",
+    "wof:parent_id":1108959713,
+    "wof:placetype":"locality",
+    "wof:population":352,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.10783,
+    46.23084,
+    15.10783,
+    46.23084
+],
+  "geometry": {"coordinates":[15.10783,46.23084],"type":"Point"}
+}

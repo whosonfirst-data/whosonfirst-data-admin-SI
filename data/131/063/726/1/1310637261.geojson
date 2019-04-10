@@ -1,0 +1,74 @@
+{
+  "id": 1310637261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.25825,46.50756,16.25825,46.50756",
+    "geom:latitude":46.50756,
+    "geom:longitude":16.25825,
+    "gn:admin1_code":"K9",
+    "gn:asciiname":"Sprinc",
+    "gn:country_code":"SI",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987527,
+    "gn:latitude":46.50756,
+    "gn:longitude":16.25825,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160princ",
+    "gn:population":137,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160princ"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959853,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987527,
+        "wk:page":"%C5%A0princ"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a76bc24e271e6393186d77bb9d52d4ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959853,
+            "locality_id":1310637261,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1310637261,
+    "wof:lastmodified":1537700288,
+    "wof:name":"Sprinc",
+    "wof:parent_id":1108959853,
+    "wof:placetype":"locality",
+    "wof:population":137,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.25825,
+    46.50756,
+    16.25825,
+    46.50756
+],
+  "geometry": {"coordinates":[16.25825,46.50756],"type":"Point"}
+}

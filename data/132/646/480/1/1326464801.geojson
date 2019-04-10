@@ -1,0 +1,71 @@
+{
+  "id": 1326464801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.58843,45.9586,14.58843,45.9586",
+    "geom:latitude":45.9586,
+    "geom:longitude":14.58843,
+    "gn:admin1_code":"C1",
+    "gn:asciiname":"Gorenje Blato",
+    "gn:country_code":"SI",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987181,
+    "gn:latitude":45.9586,
+    "gn:longitude":14.58843,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Gorenje Blato",
+    "gn:population":230,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959891,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987181,
+        "wk:page":"Gorenje_Blato"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6495a6fa1ee0e92570f0a176cf9af255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959891,
+            "locality_id":1326464801,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1326464801,
+    "wof:lastmodified":1537573471,
+    "wof:name":"Gorenje Blato",
+    "wof:parent_id":1108959891,
+    "wof:placetype":"locality",
+    "wof:population":230,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.58843,
+    45.9586,
+    14.58843,
+    45.9586
+],
+  "geometry": {"coordinates":[14.58843,45.9586],"type":"Point"}
+}

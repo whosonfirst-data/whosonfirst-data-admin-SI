@@ -1,0 +1,71 @@
+{
+  "id": 1343296919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.39516,45.96753,15.39516,45.96753",
+    "geom:latitude":45.96753,
+    "geom:longitude":15.39516,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Veliki Trn",
+    "gn:country_code":"SI",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988487,
+    "gn:latitude":45.96753,
+    "gn:longitude":15.39516,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Veliki Trn",
+    "gn:population":47,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988487,
+        "wk:page":"Veliki_Trn"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0aca28d537a6f06a4be412b836931c18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1343296919,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1343296919,
+    "wof:lastmodified":1537573513,
+    "wof:name":"Veliki Trn",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":47,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.39516,
+    45.96753,
+    15.39516,
+    45.96753
+],
+  "geometry": {"coordinates":[15.39516,45.96753],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259704987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.51705,46.0442,13.51705,46.0442",
+    "geom:latitude":46.0442,
+    "geom:longitude":13.51705,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Vrhovlje pri Kozbani",
+    "gn:country_code":"SI",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989895,
+    "gn:latitude":46.0442,
+    "gn:longitude":13.51705,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Vrhovlje pri Ko\u017ebani",
+    "gn:population":18,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vrhovlje pri Ko\u017ebani"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959811,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989895,
+        "wk:page":"Vrhovlje_pri_Ko%C5%BEbani"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fdcd04ce3ba521f3b7401e205557e113",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959811,
+            "locality_id":1259704987,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1259704987,
+    "wof:lastmodified":1537700335,
+    "wof:name":"Vrhovlje pri Kozbani",
+    "wof:parent_id":1108959811,
+    "wof:placetype":"locality",
+    "wof:population":18,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.51705,
+    46.0442,
+    13.51705,
+    46.0442
+],
+  "geometry": {"coordinates":[13.51705,46.0442],"type":"Point"}
+}

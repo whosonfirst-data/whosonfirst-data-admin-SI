@@ -1,0 +1,74 @@
+{
+  "id": 1326761169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.13056,46.57444,16.13056,46.57444",
+    "geom:latitude":46.57444,
+    "geom:longitude":16.13056,
+    "gn:admin1_code":"I1",
+    "gn:asciiname":"Iljasevci",
+    "gn:country_code":"SI",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199129,
+    "gn:latitude":46.57444,
+    "gn:longitude":16.13056,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ilja\u0161evci",
+    "gn:population":211,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ilja\u0161evci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959775,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199129,
+        "wk:page":"Ilja%C5%A1evci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5af0999c01b8cd53e5a5875f06f3ad7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959775,
+            "locality_id":1326761169,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1326761169,
+    "wof:lastmodified":1537700238,
+    "wof:name":"Iljasevci",
+    "wof:parent_id":1108959775,
+    "wof:placetype":"locality",
+    "wof:population":211,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.13056,
+    46.57444,
+    16.13056,
+    46.57444
+],
+  "geometry": {"coordinates":[16.13056,46.57444],"type":"Point"}
+}

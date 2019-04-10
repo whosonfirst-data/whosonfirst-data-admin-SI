@@ -1,0 +1,75 @@
+{
+  "id": 1310342353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.93472,46.45278,15.93472,46.45278",
+    "geom:latitude":46.45278,
+    "geom:longitude":15.93472,
+    "gn:admin1_code":"K7",
+    "gn:asciiname":"Pacinje",
+    "gn:country_code":"SI",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193735,
+    "gn:latitude":46.45278,
+    "gn:longitude":15.93472,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Pacinje",
+    "gn:population":204,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Patzing",
+        "Pacinje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959659,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193735,
+        "wk:page":"Pacinje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"572d0a8d6be6968c5dec86e8e99b9076",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959659,
+            "locality_id":1310342353,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1310342353,
+    "wof:lastmodified":1537700212,
+    "wof:name":"Pacinje",
+    "wof:parent_id":1108959659,
+    "wof:placetype":"locality",
+    "wof:population":204,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.93472,
+    46.45278,
+    15.93472,
+    46.45278
+],
+  "geometry": {"coordinates":[15.93472,46.45278],"type":"Point"}
+}

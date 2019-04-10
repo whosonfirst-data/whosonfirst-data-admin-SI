@@ -1,0 +1,189 @@
+{
+  "id": 85677949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.022946,
+    "geom:area_square_m":197417570.01413,
+    "geom:bbox":"15.509782342,45.8192198704,15.6979871007,46.0416356663",
+    "geom:latitude":45.909842,
+    "geom:longitude":15.611226,
+    "gn:population":24301,
+    "iso:country":"SI",
+    "lbl:latitude":45.905532,
+    "lbl:longitude":15.612652,
+    "mps:latitude":45.905532,
+    "mps:longitude":15.612652,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ces_x_preferred":[
+        "Ob\u010dina Bre\u017eice"
+    ],
+    "name:hbs_x_preferred":[
+        "Bre\u017eice"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Bre\u017eice"
+    ],
+    "name:nld_x_preferred":[
+        "Bre\u017eice"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Bre\u017eice"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Bre\u017eice"
+    ],
+    "name:sco_x_preferred":[
+        "Municipality o Bre\u017eice"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Bre\u017eice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0411\u0440\u0435\u0436\u0438\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0435\u0436\u0438\u0446\u0435"
+    ],
+    "name:und_x_preferred":[
+        "Brezice"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Bre\u017eice"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-938",
+    "ne:adm1_code":"SVN-938",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SI.PS.BR",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"938",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SI08",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.08",
+    "ne:gn_id":"3203411",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Brezice",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI08",
+    "ne:gns_id":"-76211",
+    "ne:gns_lang":"srp",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Brezice, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"45.90820000000",
+    "ne:longitude":"15.60360000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Bre\u017eice",
+    "ne:name_alt":"",
+    "ne:name_len":7,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"BR",
+    "ne:provnum_ne":"53",
+    "ne:region":"Spodnjeposavska",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":55848342,
+    "ne:woe_label":"Brezice, SI, Slovenia",
+    "ne:woe_name":"Bre\u017eice",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Bre\u017eice",
+    "qs:a1_lc":"SVN-938",
+    "qs:a1r":"Spodnjeposavska",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "unlc:subdivision":"SI-009",
+    "wd:wordcount":213,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SI08",
+        "gn:id":3203411,
+        "gp:id":55848342,
+        "hasc:id":"SI.PS.BR",
+        "qs:id":234970,
+        "unlc:id":"SI-009",
+        "wd:id":"Q906879",
+        "wk:page":"Municipality of Bre\u017eice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"267fb9ac8055fb0fa7bbb309270edac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677949
+        }
+    ],
+    "wof:id":85677949,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616733,
+    "wof:name":"Bre\u017eice",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:population":24301,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:shortcode":"BR",
+    "wof:subdivision":"SI-009",
+    "wof:superseded_by":[
+        1108959585
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.50978234198152,
+    45.81921987040073,
+    15.69798710072416,
+    46.04163566625306
+],
+  "geometry": {"coordinates":[[[15.67538080737842,45.972486393932],[15.67710982236048,45.94179636630929],[15.67555953054796,45.92515655583043],[15.67039188667627,45.91265085954956],[15.66336389173028,45.90081695593784],[15.65943648310724,45.88882802449376],[15.6636739500928,45.87606394489518],[15.67545617686113,45.85596181288741],[15.67607629448543,45.84169911742038],[15.66605106600394,45.83167388983821],[15.64558719879022,45.82412913005538],[15.62605350846269,45.82020172143234],[15.58729618347212,45.81921987040073],[15.54974807881086,45.82369277989795],[15.54957319484714,45.82392161688915],[15.54471561023729,45.83027781826678],[15.52270145031173,45.85278290550673],[15.517895541646,45.86058604590937],[15.51288292830452,45.86691640886522],[15.50978234198152,45.87415110938622],[15.51009240124336,45.88216095626319],[15.51526004421572,45.89404653581903],[15.53014285730706,45.90055776592823],[15.5417700544445,45.9035033235196],[15.54626590294913,45.90329661704527],[15.55045169399051,45.90603546816237],[15.55649783700562,45.90820587849856],[15.55897830570427,45.91673249021233],[15.56688479979374,45.92014313399847],[15.56983035738511,45.92629262980108],[15.572207472397,45.93673126943258],[15.57138064919764,45.97223297846921],[15.58367963990349,45.99398875597637],[15.59763227700802,45.99445384396978],[15.62383222797502,46.00370392519602],[15.6677571959379,46.02638987869],[15.68455203604765,46.03998078148794],[15.69261355976801,46.04158275014385],[15.69287984722723,46.04163566625306],[15.69798710072416,46.03620920828837],[15.69364628095116,46.02577057045551],[15.68196740697033,46.01352325569377],[15.67431929529931,45.99331776999912],[15.67421594341113,45.99316274036823],[15.67538080737842,45.972486393932]]],"type":"Polygon"}
+}

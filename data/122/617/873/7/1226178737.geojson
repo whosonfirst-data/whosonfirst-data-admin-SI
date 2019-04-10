@@ -1,0 +1,74 @@
+{
+  "id": 1226178737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.06999,46.52736,16.06999,46.52736",
+    "geom:latitude":46.52736,
+    "geom:longitude":16.06999,
+    "gn:admin1_code":"I6",
+    "gn:asciiname":"Kursinci",
+    "gn:country_code":"SI",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987387,
+    "gn:latitude":46.52736,
+    "gn:longitude":16.06999,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kur\u0161inci",
+    "gn:population":162,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kur\u0161inci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959499,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987387,
+        "wk:page":"Kur%C5%A1inci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ad7c657b347a1132063855622e138f88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959499,
+            "locality_id":1226178737,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1226178737,
+    "wof:lastmodified":1537700285,
+    "wof:name":"Kursinci",
+    "wof:parent_id":1108959499,
+    "wof:placetype":"locality",
+    "wof:population":162,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.06999,
+    46.52736,
+    16.06999,
+    46.52736
+],
+  "geometry": {"coordinates":[16.06999,46.52736],"type":"Point"}
+}

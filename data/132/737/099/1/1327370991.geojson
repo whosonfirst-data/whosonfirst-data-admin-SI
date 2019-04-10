@@ -1,0 +1,71 @@
+{
+  "id": 1327370991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.89132,45.80352,14.89132,45.80352",
+    "geom:latitude":45.80352,
+    "geom:longitude":14.89132,
+    "gn:admin1_code":"N8",
+    "gn:asciiname":"Vrh pri Hinjah",
+    "gn:country_code":"SI",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989585,
+    "gn:latitude":45.80352,
+    "gn:longitude":14.89132,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Vrh pri Hinjah",
+    "gn:population":40,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959787,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989585,
+        "wk:page":"Vrh_pri_Hinjah"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1be963c9f885a265d48df38ac3dfe349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959787,
+            "locality_id":1327370991,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1327370991,
+    "wof:lastmodified":1537573546,
+    "wof:name":"Vrh pri Hinjah",
+    "wof:parent_id":1108959787,
+    "wof:placetype":"locality",
+    "wof:population":40,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.89132,
+    45.80352,
+    14.89132,
+    45.80352
+],
+  "geometry": {"coordinates":[14.89132,45.80352],"type":"Point"}
+}

@@ -1,0 +1,107 @@
+{
+  "id": 101857911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.591737,45.701705,14.591737,45.701705",
+    "geom:latitude":45.701705,
+    "geom:longitude":14.591737,
+    "gn:population":373,
+    "iso:country":"SI",
+    "lbl:latitude":45.701705,
+    "lbl:longitude":14.591737,
+    "mps:latitude":45.701705,
+    "mps:longitude":14.591737,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hbs_x_preferred":[
+        "Hrib - Lo\u0161ki Potok"
+    ],
+    "name:hrv_x_preferred":[
+        "Hrib - Lo\u0161ki Potok"
+    ],
+    "name:nld_x_preferred":[
+        "Hrib - Lo\u0161ki Potok"
+    ],
+    "name:ron_x_preferred":[
+        "Hrib-Lo\u0161ki potok"
+    ],
+    "name:slv_x_preferred":[
+        "Hrib - Lo\u0161ki potok"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0440\u0438\u0431 - \u041b\u043e\u0448\u043a\u0438 \u041f\u043e\u0442\u043e\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0440\u0438\u0431-\u041b\u043e\u0448\u043a\u0438\u0439 \u041f\u043e\u0442\u043e\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Hrib"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Hrib-Lo\u0161ki Potok",
+    "qs:loc_alt":"Hrib-Loski Potok",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":180,
+    "wof:belongsto":[
+        102191581,
+        1108959513,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199268,
+        "gp:id":530244,
+        "qs:id":1,
+        "wd:id":"Q2788051",
+        "wk:page":"Hrib\u2013Lo\u0161ki Potok"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0cae626b3dbfc1548f660d9b44ccc8b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959513,
+            "locality_id":101857911,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":101857911,
+    "wof:lastmodified":1544744141,
+    "wof:name":"Hrib-Lo\u0161ki Potok",
+    "wof:parent_id":1108959513,
+    "wof:placetype":"locality",
+    "wof:population":373,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.591737,
+    45.701705,
+    14.591737,
+    45.701705
+],
+  "geometry": {"coordinates":[14.591737,45.701705],"type":"Point"}
+}

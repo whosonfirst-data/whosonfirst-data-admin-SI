@@ -1,0 +1,74 @@
+{
+  "id": 1293134683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.97937,45.81022,13.97937,45.81022",
+    "geom:latitude":45.81022,
+    "geom:longitude":13.97937,
+    "gn:admin1_code":"E1",
+    "gn:asciiname":"Porece",
+    "gn:country_code":"SI",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987737,
+    "gn:latitude":45.81022,
+    "gn:longitude":13.97937,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Pore\u010de",
+    "gn:population":109,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pore\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959623,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987737,
+        "wk:page":"Pore%C4%8De%2C_Vipava"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9a296371fb61d318730e228383f6166e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959623,
+            "locality_id":1293134683,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1293134683,
+    "wof:lastmodified":1537700292,
+    "wof:name":"Porece",
+    "wof:parent_id":1108959623,
+    "wof:placetype":"locality",
+    "wof:population":109,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.97937,
+    45.81022,
+    13.97937,
+    45.81022
+],
+  "geometry": {"coordinates":[13.97937,45.81022],"type":"Point"}
+}

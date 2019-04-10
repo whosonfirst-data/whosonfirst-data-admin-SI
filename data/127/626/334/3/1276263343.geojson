@@ -1,0 +1,77 @@
+{
+  "id": 1276263343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.70473,45.78968,14.70473,45.78968",
+    "geom:latitude":45.78968,
+    "geom:longitude":14.70473,
+    "gn:admin1_code":"L1",
+    "gn:asciiname":"Dule",
+    "gn:country_code":"SI",
+    "gn:dem":640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989385,
+    "gn:latitude":45.78968,
+    "gn:longitude":14.70473,
+    "gn:modification_date":"2015-11-27",
+    "gn:name":"Dule",
+    "gn:population":3,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Dole"
+    ],
+    "name:slv_x_preferred":[
+        "Dole"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959599,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989385,
+        "wk:page":"Dule%2C_Ribnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e66e42001a3538c9ac72eaf3b8d0e9c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959599,
+            "locality_id":1276263343,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1276263343,
+    "wof:lastmodified":1537700325,
+    "wof:name":"Dule",
+    "wof:parent_id":1108959599,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.70473,
+    45.78968,
+    14.70473,
+    45.78968
+],
+  "geometry": {"coordinates":[14.70473,45.78968],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1360319203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.68817,46.0944,13.68817,46.0944",
+    "geom:latitude":46.0944,
+    "geom:longitude":13.68817,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Avce",
+    "gn:country_code":"SI",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204755,
+    "gn:latitude":46.0944,
+    "gn:longitude":13.68817,
+    "gn:modification_date":"2015-10-13",
+    "gn:name":"Av\u010de",
+    "gn:population":240,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Auzza"
+    ],
+    "name:und_x_variant":[
+        "Av\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959537,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204755,
+        "wk:page":"Av%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"37b556a5c4f548bf43f1dfebb430aed6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959537,
+            "locality_id":1360319203,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1360319203,
+    "wof:lastmodified":1537700266,
+    "wof:name":"Avce",
+    "wof:parent_id":1108959537,
+    "wof:placetype":"locality",
+    "wof:population":240,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.68817,
+    46.0944,
+    13.68817,
+    46.0944
+],
+  "geometry": {"coordinates":[13.68817,46.0944],"type":"Point"}
+}

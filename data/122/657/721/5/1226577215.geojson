@@ -1,0 +1,77 @@
+{
+  "id": 1226577215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.09806,46.67028,16.09806,46.67028",
+    "geom:latitude":46.67028,
+    "geom:longitude":16.09806,
+    "gn:admin1_code":"M6",
+    "gn:asciiname":"Vanca Vas",
+    "gn:country_code":"SI",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188390,
+    "gn:latitude":46.67028,
+    "gn:longitude":16.09806,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Van\u010da Vas",
+    "gn:population":495,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iv\u00e1nfalva",
+        "Vau\u010da Vas",
+        "Van\u010da Ves",
+        "Van\u010da Vas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959519,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188390,
+        "wk:page":"Van%C4%8Da_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"123d2505940f7d6587d3431f6653de6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959519,
+            "locality_id":1226577215,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1226577215,
+    "wof:lastmodified":1537700179,
+    "wof:name":"Vanca Vas",
+    "wof:parent_id":1108959519,
+    "wof:placetype":"locality",
+    "wof:population":495,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.09806,
+    46.67028,
+    16.09806,
+    46.67028
+],
+  "geometry": {"coordinates":[16.09806,46.67028],"type":"Point"}
+}

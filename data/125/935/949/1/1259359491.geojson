@@ -1,0 +1,71 @@
+{
+  "id": 1259359491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.41528,45.83583,14.41528,45.83583",
+    "geom:latitude":45.83583,
+    "geom:longitude":14.41528,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Dolenje Otave",
+    "gn:country_code":"SI",
+    "gn:dem":793,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201831,
+    "gn:latitude":45.83583,
+    "gn:longitude":14.41528,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Dolenje Otave",
+    "gn:population":27,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959905,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201831,
+        "wk:page":"Dolenje_Otave"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fc3c891b8355eae41a352c0889ce573b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959905,
+            "locality_id":1259359491,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1259359491,
+    "wof:lastmodified":1537573445,
+    "wof:name":"Dolenje Otave",
+    "wof:parent_id":1108959905,
+    "wof:placetype":"locality",
+    "wof:population":27,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.41528,
+    45.83583,
+    14.41528,
+    45.83583
+],
+  "geometry": {"coordinates":[14.41528,45.83583],"type":"Point"}
+}

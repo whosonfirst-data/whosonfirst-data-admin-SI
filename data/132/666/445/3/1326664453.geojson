@@ -1,0 +1,74 @@
+{
+  "id": 1326664453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.22824,46.13244,15.22824,46.13244",
+    "geom:latitude":46.13244,
+    "geom:longitude":15.22824,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Zabrez",
+    "gn:country_code":"SI",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989133,
+    "gn:latitude":46.13244,
+    "gn:longitude":15.22824,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Zabre\u017e",
+    "gn:population":16,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zabre\u017e"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959879,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989133,
+        "wk:page":"Zabre%C5%BE"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6b8ed4e254951bee5cbdaed2e5966a63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959879,
+            "locality_id":1326664453,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1326664453,
+    "wof:lastmodified":1537700320,
+    "wof:name":"Zabrez",
+    "wof:parent_id":1108959879,
+    "wof:placetype":"locality",
+    "wof:population":16,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.22824,
+    46.13244,
+    15.22824,
+    46.13244
+],
+  "geometry": {"coordinates":[15.22824,46.13244],"type":"Point"}
+}

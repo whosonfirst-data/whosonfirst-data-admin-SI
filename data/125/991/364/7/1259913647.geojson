@@ -1,0 +1,71 @@
+{
+  "id": 1259913647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.00849,45.87939,15.00849,45.87939",
+    "geom:latitude":45.87939,
+    "geom:longitude":15.00849,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Dolenji Vrh",
+    "gn:country_code":"SI",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988860,
+    "gn:latitude":45.87939,
+    "gn:longitude":15.00849,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Dolenji Vrh",
+    "gn:population":29,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959839,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988860,
+        "wk:page":"Dolenji_Vrh"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"361eb19805fc4e74a554bbab22fd6f96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959839,
+            "locality_id":1259913647,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1259913647,
+    "wof:lastmodified":1537573525,
+    "wof:name":"Dolenji Vrh",
+    "wof:parent_id":1108959839,
+    "wof:placetype":"locality",
+    "wof:population":29,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.00849,
+    45.87939,
+    15.00849,
+    45.87939
+],
+  "geometry": {"coordinates":[15.00849,45.87939],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209549881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.86167,45.93222,14.86167,45.93222",
+    "geom:latitude":45.93222,
+    "geom:longitude":14.86167,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Dob pri Sentvidu",
+    "gn:country_code":"SI",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201976,
+    "gn:latitude":45.93222,
+    "gn:longitude":14.86167,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Dob pri \u0160entvidu",
+    "gn:population":188,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Veliki",
+        "Dob",
+        "Dob pri \u0160entvidu"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201976,
+        "wk:page":"Dob_pri_%C5%A0entvidu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"af853fc2fc52b0e7891e63fd42b4165f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209549881
+        }
+    ],
+    "wof:id":1209549881,
+    "wof:lastmodified":1537700255,
+    "wof:name":"Dob pri Sentvidu",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":188,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.86167,
+    45.93222,
+    14.86167,
+    45.93222
+],
+  "geometry": {"coordinates":[14.86167,45.93222],"type":"Point"}
+}

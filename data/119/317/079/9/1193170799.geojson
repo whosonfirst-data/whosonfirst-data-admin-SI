@@ -1,0 +1,78 @@
+{
+  "id": 1193170799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.35,46.70694,16.35,46.70694",
+    "geom:latitude":46.70694,
+    "geom:longitude":16.35,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Motvarjevci",
+    "gn:country_code":"SI",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194800,
+    "gn:latitude":46.70694,
+    "gn:longitude":16.35,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Motvarjevci",
+    "gn:population":156,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Szentl\u00e1szl\u00f3",
+        "Motvarjavci",
+        "Sz\u00e9csiszentl\u00e1szl\u00f3",
+        "Mitvarjevci",
+        "Motvarjevci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959925,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194800,
+        "wk:page":"Motvarjevci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a1fc7e954cf81fa9845260a5dfd2946a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959925,
+            "locality_id":1193170799,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1193170799,
+    "wof:lastmodified":1537700217,
+    "wof:name":"Motvarjevci",
+    "wof:parent_id":1108959925,
+    "wof:placetype":"locality",
+    "wof:population":156,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.35,
+    46.70694,
+    16.35,
+    46.70694
+],
+  "geometry": {"coordinates":[16.35,46.70694],"type":"Point"}
+}

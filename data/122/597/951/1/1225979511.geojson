@@ -1,0 +1,71 @@
+{
+  "id": 1225979511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.90773,46.31541,14.90773,46.31541",
+    "geom:latitude":46.31541,
+    "geom:longitude":14.90773,
+    "gn:admin1_code":"O9",
+    "gn:asciiname":"Varpolje",
+    "gn:country_code":"SI",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987028,
+    "gn:latitude":46.31541,
+    "gn:longitude":14.90773,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Varpolje",
+    "gn:population":315,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959809,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987028,
+        "wk:page":"Varpolje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"20973a87363e3e79279f9d9e1edc35a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959809,
+            "locality_id":1225979511,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1225979511,
+    "wof:lastmodified":1537573467,
+    "wof:name":"Varpolje",
+    "wof:parent_id":1108959809,
+    "wof:placetype":"locality",
+    "wof:population":315,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.90773,
+    46.31541,
+    14.90773,
+    46.31541
+],
+  "geometry": {"coordinates":[14.90773,46.31541],"type":"Point"}
+}

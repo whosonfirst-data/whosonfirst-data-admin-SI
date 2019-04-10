@@ -1,0 +1,74 @@
+{
+  "id": 1243009317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.73656,45.7832,13.73656,45.7832",
+    "geom:latitude":45.7832,
+    "geom:longitude":13.73656,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Skofi",
+    "gn:country_code":"SI",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989304,
+    "gn:latitude":45.7832,
+    "gn:longitude":13.73656,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160kofi",
+    "gn:population":8,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160kofi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959539,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989304,
+        "wk:page":"%C5%A0kofi"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"83125ac242b0c4b968c7043484a802fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959539,
+            "locality_id":1243009317,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1243009317,
+    "wof:lastmodified":1537700324,
+    "wof:name":"Skofi",
+    "wof:parent_id":1108959539,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.73656,
+    45.7832,
+    13.73656,
+    45.7832
+],
+  "geometry": {"coordinates":[13.73656,45.7832],"type":"Point"}
+}

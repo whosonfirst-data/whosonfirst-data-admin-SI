@@ -1,0 +1,71 @@
+{
+  "id": 1209745865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.21061,46.10121,14.21061,46.10121",
+    "geom:latitude":46.10121,
+    "geom:longitude":14.21061,
+    "gn:admin1_code":"B9",
+    "gn:asciiname":"Bukov Vrh",
+    "gn:country_code":"SI",
+    "gn:dem":742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203017,
+    "gn:latitude":46.10121,
+    "gn:longitude":14.21061,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Bukov Vrh",
+    "gn:population":99,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959897,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203017,
+        "wk:page":"Bukov_Vrh%2C_Gorenja_Vas%E2%80%93Poljane"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1e34d57c913240ca926bc73cbb1368a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959897,
+            "locality_id":1209745865,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1209745865,
+    "wof:lastmodified":1537573449,
+    "wof:name":"Bukov Vrh",
+    "wof:parent_id":1108959897,
+    "wof:placetype":"locality",
+    "wof:population":99,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.21061,
+    46.10121,
+    14.21061,
+    46.10121
+],
+  "geometry": {"coordinates":[14.21061,46.10121],"type":"Point"}
+}

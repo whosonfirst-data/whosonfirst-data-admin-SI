@@ -1,0 +1,74 @@
+{
+  "id": 1243103741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.87275,45.75368,13.87275,45.75368",
+    "geom:latitude":45.75368,
+    "geom:longitude":13.87275,
+    "gn:admin1_code":"B7",
+    "gn:asciiname":"Sepulje",
+    "gn:country_code":"SI",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987830,
+    "gn:latitude":45.75368,
+    "gn:longitude":13.87275,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160epulje",
+    "gn:population":99,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160epulje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959789,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987830,
+        "wk:page":"%C5%A0epulje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8a181367f64fb7d8b82dd61911a84cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959789,
+            "locality_id":1243103741,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1243103741,
+    "wof:lastmodified":1537700294,
+    "wof:name":"Sepulje",
+    "wof:parent_id":1108959789,
+    "wof:placetype":"locality",
+    "wof:population":99,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.87275,
+    45.75368,
+    13.87275,
+    45.75368
+],
+  "geometry": {"coordinates":[13.87275,45.75368],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243008949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23311,46.04367,15.23311,46.04367",
+    "geom:latitude":46.04367,
+    "geom:longitude":15.23311,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Sentjur na Polju",
+    "gn:country_code":"SI",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987915,
+    "gn:latitude":46.04367,
+    "gn:longitude":15.23311,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160entjur na Polju",
+    "gn:population":91,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160entjur na Polju"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987915,
+        "wk:page":"%C5%A0entjur_na_Polju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5ab2400f86f0f34737ec982a64541c55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1243008949,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1243008949,
+    "wof:lastmodified":1537700296,
+    "wof:name":"Sentjur na Polju",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":91,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23311,
+    46.04367,
+    15.23311,
+    46.04367
+],
+  "geometry": {"coordinates":[15.23311,46.04367],"type":"Point"}
+}

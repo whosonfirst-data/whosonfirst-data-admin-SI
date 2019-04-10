@@ -1,0 +1,71 @@
+{
+  "id": 1310442063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.95,46.3,14.95,46.3",
+    "geom:latitude":46.3,
+    "geom:longitude":14.95,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Kokarje",
+    "gn:country_code":"SI",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197922,
+    "gn:latitude":46.3,
+    "gn:longitude":14.95,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Kokarje",
+    "gn:population":187,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959901,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197922,
+        "wk:page":"Kokarje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ecff28b57a8dfac5f1051e75634f509e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959901,
+            "locality_id":1310442063,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1310442063,
+    "wof:lastmodified":1537573430,
+    "wof:name":"Kokarje",
+    "wof:parent_id":1108959901,
+    "wof:placetype":"locality",
+    "wof:population":187,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.95,
+    46.3,
+    14.95,
+    46.3
+],
+  "geometry": {"coordinates":[14.95,46.3],"type":"Point"}
+}

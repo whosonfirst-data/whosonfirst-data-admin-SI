@@ -1,0 +1,71 @@
+{
+  "id": 1225876073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.58333,46.08333,14.58333,46.08333",
+    "geom:latitude":46.08333,
+    "geom:longitude":14.58333,
+    "gn:admin1_code":"61",
+    "gn:asciiname":"Sveti Jakob ob Savi",
+    "gn:country_code":"SI",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189336,
+    "gn:latitude":46.08333,
+    "gn:longitude":14.58333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sveti Jakob ob Savi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sveti Jakob",
+        "Sveti Jakob ob Savi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959501,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189336
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f88ce3b7ef09a9331190bb3ddf6f1ddc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959501,
+            "locality_id":1225876073,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1225876073,
+    "wof:lastmodified":1537700183,
+    "wof:name":"Sveti Jakob ob Savi",
+    "wof:parent_id":1108959501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.58333,
+    46.08333,
+    14.58333,
+    46.08333
+],
+  "geometry": {"coordinates":[14.58333,46.08333],"type":"Point"}
+}

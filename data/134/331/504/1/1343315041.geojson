@@ -1,0 +1,71 @@
+{
+  "id": 1343315041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.10611,45.98139,14.10611,45.98139",
+    "geom:latitude":45.98139,
+    "geom:longitude":14.10611,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Dole",
+    "gn:country_code":"SI",
+    "gn:dem":842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201860,
+    "gn:latitude":45.98139,
+    "gn:longitude":14.10611,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Dole",
+    "gn:population":125,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959535,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201860,
+        "wk:page":"Dole%2C_Idrija"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6374a6be36b355a4021eba73ecec3bf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959535,
+            "locality_id":1343315041,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1343315041,
+    "wof:lastmodified":1537573445,
+    "wof:name":"Dole",
+    "wof:parent_id":1108959535,
+    "wof:placetype":"locality",
+    "wof:population":125,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.10611,
+    45.98139000000001,
+    14.10611,
+    45.98139000000001
+],
+  "geometry": {"coordinates":[14.10611,45.98139000000001],"type":"Point"}
+}

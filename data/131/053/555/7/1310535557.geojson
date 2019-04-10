@@ -1,0 +1,71 @@
+{
+  "id": 1310535557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.74166,46.15076,14.74166,46.15076",
+    "geom:latitude":46.15076,
+    "geom:longitude":14.74166,
+    "gn:admin1_code":"77",
+    "gn:asciiname":"Pogled",
+    "gn:country_code":"SI",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988491,
+    "gn:latitude":46.15076,
+    "gn:longitude":14.74166,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Pogled",
+    "gn:population":47,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959515,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988491,
+        "wk:page":"Pogled%2C_Morav%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c76dfdeeae21ead67fb37a64686e97e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959515,
+            "locality_id":1310535557,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1310535557,
+    "wof:lastmodified":1537573513,
+    "wof:name":"Pogled",
+    "wof:parent_id":1108959515,
+    "wof:placetype":"locality",
+    "wof:population":47,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.74166,
+    46.15076,
+    14.74166,
+    46.15076
+],
+  "geometry": {"coordinates":[14.74166,46.15076],"type":"Point"}
+}

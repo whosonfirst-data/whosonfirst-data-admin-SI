@@ -1,0 +1,74 @@
+{
+  "id": 1327364167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.12443,46.48072,15.12443,46.48072",
+    "geom:latitude":46.48072,
+    "geom:longitude":15.12443,
+    "gn:admin1_code":"C2",
+    "gn:asciiname":"Tomaska Vas",
+    "gn:country_code":"SI",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989782,
+    "gn:latitude":46.48072,
+    "gn:longitude":15.12443,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Toma\u0161ka Vas",
+    "gn:population":135,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toma\u0161ka Vas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959645,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989782,
+        "wk:page":"Toma%C5%A1ka_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5ce969355ae042e5123089419b8a94de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959645,
+            "locality_id":1327364167,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1327364167,
+    "wof:lastmodified":1537700333,
+    "wof:name":"Tomaska Vas",
+    "wof:parent_id":1108959645,
+    "wof:placetype":"locality",
+    "wof:population":135,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.12443,
+    46.48072,
+    15.12443,
+    46.48072
+],
+  "geometry": {"coordinates":[15.12443,46.48072],"type":"Point"}
+}

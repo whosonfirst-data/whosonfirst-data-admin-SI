@@ -1,0 +1,71 @@
+{
+  "id": 1360215325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.39568,46.14535,14.39568,46.14535",
+    "geom:latitude":46.14535,
+    "geom:longitude":14.39568,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Ladja",
+    "gn:country_code":"SI",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987357,
+    "gn:latitude":46.14535,
+    "gn:longitude":14.39568,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ladja",
+    "gn:population":167,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959881,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987357,
+        "wk:page":"Ladja"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e35e7dc87c23feb05af955be07444444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959881,
+            "locality_id":1360215325,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1360215325,
+    "wof:lastmodified":1537573477,
+    "wof:name":"Ladja",
+    "wof:parent_id":1108959881,
+    "wof:placetype":"locality",
+    "wof:population":167,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.39568,
+    46.14535,
+    14.39568,
+    46.14535
+],
+  "geometry": {"coordinates":[14.39568,46.14535],"type":"Point"}
+}

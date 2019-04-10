@@ -1,0 +1,101 @@
+{
+  "id": 1125818089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.26113,46.1711245,14.26113,46.1711245",
+    "geom:latitude":46.171124,
+    "geom:longitude":14.26113,
+    "gn:gn_country":null,
+    "iso:country":"SI",
+    "lbl:latitude":46.171124,
+    "lbl:longitude":14.26113,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Krivo Brdo"
+    ],
+    "name:eng_x_preferred":[
+        "Krivo Brdo"
+    ],
+    "name:hrv_x_preferred":[
+        "Krivo Brdo"
+    ],
+    "name:rum_x_preferred":[
+        "Krivo Brdo"
+    ],
+    "name:slv_x_preferred":[
+        "Krivo Brdo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0438\u0432\u043e \u0411\u0440\u0434\u043e"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Krivo Brdo",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Skofja Loka",
+    "qs_pg:photos":72,
+    "qs_pg:photos_1k":15,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":72,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":273456,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":55849681,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Skofja Loka",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959821,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55849681,
+        "qs_pg:id":273456,
+        "wd:id":"Q1916169"
+    },
+    "wof:country":"SI",
+    "wof:created":1497291928,
+    "wof:geomhash":"3daf9a2559396834fb4db8db722a5895",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959821,
+            "locality_id":1125818089,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1125818089,
+    "wof:lastmodified":1531171362,
+    "wof:name":"Krivo Brdo",
+    "wof:parent_id":1108959821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.26113,
+    46.1711245,
+    14.26113,
+    46.1711245
+],
+  "geometry": {"coordinates":[14.26113,46.1711245],"type":"Point"}
+}

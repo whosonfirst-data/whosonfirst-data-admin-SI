@@ -1,0 +1,71 @@
+{
+  "id": 1360230493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.70498,45.98197,14.70498,45.98197",
+    "geom:latitude":45.98197,
+    "geom:longitude":14.70498,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Polica",
+    "gn:country_code":"SI",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192837,
+    "gn:latitude":45.98197,
+    "gn:longitude":14.70498,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Polica",
+    "gn:population":720,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959533,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192837,
+        "wk:page":"Polica%2C_Grosuplje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e987096dfe580284a2aa497c1b991852",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959533,
+            "locality_id":1360230493,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1360230493,
+    "wof:lastmodified":1537573411,
+    "wof:name":"Polica",
+    "wof:parent_id":1108959533,
+    "wof:placetype":"locality",
+    "wof:population":720,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.70498,
+    45.98197,
+    14.70498,
+    45.98197
+],
+  "geometry": {"coordinates":[14.70498,45.98197],"type":"Point"}
+}

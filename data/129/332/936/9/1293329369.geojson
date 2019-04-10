@@ -1,0 +1,67 @@
+{
+  "id": 1293329369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.29,46.13139,15.29,46.13139",
+    "geom:latitude":46.13139,
+    "geom:longitude":15.29,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Sveti Lenart",
+    "gn:country_code":"SI",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216375,
+    "gn:latitude":46.13139,
+    "gn:longitude":15.29,
+    "gn:modification_date":"2008-11-06",
+    "gn:name":"Sveti Lenart",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959879,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216375
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2d2324b66471a58c0461bbca890e7aaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959879,
+            "locality_id":1293329369,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1293329369,
+    "wof:lastmodified":1537014233,
+    "wof:name":"Sveti Lenart",
+    "wof:parent_id":1108959879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.29,
+    46.13139,
+    15.29,
+    46.13139
+],
+  "geometry": {"coordinates":[15.29,46.13139],"type":"Point"}
+}

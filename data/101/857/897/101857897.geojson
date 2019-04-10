@@ -1,0 +1,118 @@
+{
+  "id": 101857897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.712143,46.229898,15.712143,46.229898",
+    "geom:latitude":46.229898,
+    "geom:longitude":15.712143,
+    "gn:population":1558,
+    "iso:country":"SI",
+    "lbl:latitude":46.229898,
+    "lbl:longitude":15.712143,
+    "mps:latitude":46.229898,
+    "mps:longitude":15.712143,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Rogatec"
+    ],
+    "name:deu_x_preferred":[
+        "Rohitsch"
+    ],
+    "name:dut_x_preferred":[
+        "Rogatec"
+    ],
+    "name:eng_x_preferred":[
+        "Rogatec"
+    ],
+    "name:hbs_x_preferred":[
+        "Rogatec"
+    ],
+    "name:nld_x_preferred":[
+        "Rogatec"
+    ],
+    "name:ron_x_preferred":[
+        "Rogatec"
+    ],
+    "name:rum_x_preferred":[
+        "Rogatec"
+    ],
+    "name:slv_x_preferred":[
+        "Rogatec"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u043e\u0433\u0430\u0442\u0435\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0433\u0430\u0442\u0435\u0446\u044c"
+    ],
+    "name:vie_x_preferred":[
+        "Rogatec"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Rogatec",
+    "qs:loc_alt":"Rogatec",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959609,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191578,
+        "gp:id":531399,
+        "qs:id":8,
+        "wd:id":"Q2468912",
+        "wk:page":"Rogatec"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7d7702dcbd3c98cdc2b67e22efcf56bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959609,
+            "locality_id":101857897,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":101857897,
+    "wof:lastmodified":1544744134,
+    "wof:name":"Rogatec",
+    "wof:parent_id":1108959609,
+    "wof:placetype":"locality",
+    "wof:population":1558,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.712143,
+    46.229898,
+    15.712143,
+    46.229898
+],
+  "geometry": {"coordinates":[15.712143,46.229898],"type":"Point"}
+}

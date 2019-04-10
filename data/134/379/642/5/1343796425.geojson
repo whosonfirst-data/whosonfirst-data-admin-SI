@@ -1,0 +1,74 @@
+{
+  "id": 1343796425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.53356,46.12796,15.53356,46.12796",
+    "geom:latitude":46.12796,
+    "geom:longitude":15.53356,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Pristava pri Lesicnem",
+    "gn:country_code":"SI",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988620,
+    "gn:latitude":46.12796,
+    "gn:longitude":15.53356,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Pristava pri Lesi\u010dnem",
+    "gn:population":40,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pristava pri Lesi\u010dnem"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959649,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988620,
+        "wk:page":"Pristava_pri_Lesi%C4%8Dnem"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3899092adb95702f51a5168d94d040da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959649,
+            "locality_id":1343796425,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1343796425,
+    "wof:lastmodified":1537700310,
+    "wof:name":"Pristava pri Lesicnem",
+    "wof:parent_id":1108959649,
+    "wof:placetype":"locality",
+    "wof:population":40,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.53356,
+    46.12796,
+    15.53356,
+    46.12796
+],
+  "geometry": {"coordinates":[15.53356,46.12796],"type":"Point"}
+}

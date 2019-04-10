@@ -1,0 +1,71 @@
+{
+  "id": 1327470105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.13505,45.91575,15.13505,45.91575",
+    "geom:latitude":45.91575,
+    "geom:longitude":15.13505,
+    "gn:admin1_code":"O7",
+    "gn:asciiname":"Dolenje Zabukovje",
+    "gn:country_code":"SI",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989634,
+    "gn:latitude":45.91575,
+    "gn:longitude":15.13505,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Dolenje Zabukovje",
+    "gn:population":22,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959913,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989634,
+        "wk:page":"Dolenje_Zabukovje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"03019152319adf82329efb9471b87e69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959913,
+            "locality_id":1327470105,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1327470105,
+    "wof:lastmodified":1537573548,
+    "wof:name":"Dolenje Zabukovje",
+    "wof:parent_id":1108959913,
+    "wof:placetype":"locality",
+    "wof:population":22,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.13505,
+    45.91575,
+    15.13505,
+    45.91575
+],
+  "geometry": {"coordinates":[15.13505,45.91575],"type":"Point"}
+}

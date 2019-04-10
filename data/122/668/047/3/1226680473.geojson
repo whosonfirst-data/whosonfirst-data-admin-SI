@@ -1,0 +1,71 @@
+{
+  "id": 1226680473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.48472,45.91722,15.48472,45.91722",
+    "geom:latitude":45.91722,
+    "geom:longitude":15.48472,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Drnovo",
+    "gn:country_code":"SI",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201159,
+    "gn:latitude":45.91722,
+    "gn:longitude":15.48472,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Drnovo",
+    "gn:population":428,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201159,
+        "wk:page":"Drnovo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3cfa056ad4b78561674b360f876ee36f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1226680473,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1226680473,
+    "wof:lastmodified":1537573442,
+    "wof:name":"Drnovo",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":428,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.48472,
+    45.91722,
+    15.48472,
+    45.91722
+],
+  "geometry": {"coordinates":[15.48472,45.91722],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1260116725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.95314,46.31483,15.95314,46.31483",
+    "geom:latitude":46.31483,
+    "geom:longitude":15.95314,
+    "gn:admin1_code":"N2",
+    "gn:asciiname":"Skorisnjak",
+    "gn:country_code":"SI",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988202,
+    "gn:latitude":46.31483,
+    "gn:longitude":15.95314,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Skori\u0161njak",
+    "gn:population":65,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Skori\u0161njak"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959747,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988202,
+        "wk:page":"Skori%C5%A1njak"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"43e4a81bc8d1556ae72d3c4904e37428",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959747,
+            "locality_id":1260116725,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1260116725,
+    "wof:lastmodified":1537700301,
+    "wof:name":"Skorisnjak",
+    "wof:parent_id":1108959747,
+    "wof:placetype":"locality",
+    "wof:population":65,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.95314,
+    46.31483,
+    15.95314,
+    46.31483
+],
+  "geometry": {"coordinates":[15.95314,46.31483],"type":"Point"}
+}

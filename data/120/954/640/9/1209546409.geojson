@@ -1,0 +1,68 @@
+{
+  "id": 1209546409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.73246,46.60317,15.73246,46.60317",
+    "geom:latitude":46.60317,
+    "geom:longitude":15.73246,
+    "gn:admin1_code":"89",
+    "gn:asciiname":"Kusernik",
+    "gn:country_code":"SI",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987852,
+    "gn:latitude":46.60317,
+    "gn:longitude":15.73246,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ku\u0161ernik",
+    "gn:population":97,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ku\u0161ernik"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987852,
+        "wk:page":"Ku%C5%A1ernik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e98aa0a87efb9c0ba382fd44708a9924",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209546409
+        }
+    ],
+    "wof:id":1209546409,
+    "wof:lastmodified":1537700294,
+    "wof:name":"Kusernik",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":97,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.73246,
+    46.60317,
+    15.73246,
+    46.60317
+],
+  "geometry": {"coordinates":[15.73246,46.60317],"type":"Point"}
+}

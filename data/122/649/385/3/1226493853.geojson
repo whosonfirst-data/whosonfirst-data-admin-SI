@@ -1,0 +1,74 @@
+{
+  "id": 1226493853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.12222,45.53917,14.12222,45.53917",
+    "geom:latitude":45.53917,
+    "geom:longitude":14.12222,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Hrusica",
+    "gn:country_code":"SI",
+    "gn:dem":581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199246,
+    "gn:latitude":45.53917,
+    "gn:longitude":14.12222,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Hru\u0161ica",
+    "gn:population":276,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hru\u0161ica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959873,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199246,
+        "wk:page":"Hru%C5%A1ica%2C_Ilirska_Bistrica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e0a6c71b114779ea8ca07f9818a55160",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959873,
+            "locality_id":1226493853,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1226493853,
+    "wof:lastmodified":1537700238,
+    "wof:name":"Hrusica",
+    "wof:parent_id":1108959873,
+    "wof:placetype":"locality",
+    "wof:population":276,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.12222,
+    45.53917,
+    14.12222,
+    45.53917
+],
+  "geometry": {"coordinates":[14.12222,45.53917],"type":"Point"}
+}

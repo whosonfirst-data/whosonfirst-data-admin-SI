@@ -1,0 +1,74 @@
+{
+  "id": 1343546831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.55643,45.86564,15.55643,45.86564",
+    "geom:latitude":45.86564,
+    "geom:longitude":15.55643,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kraska Vas",
+    "gn:country_code":"SI",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989598,
+    "gn:latitude":45.86564,
+    "gn:longitude":15.55643,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Kra\u0161ka Vas",
+    "gn:population":32,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kra\u0161ka Vas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989598,
+        "wk:page":"Kra%C5%A1ka_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d1ce196353b1461a0420d979fb5aa5ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1343546831,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1343546831,
+    "wof:lastmodified":1537700329,
+    "wof:name":"Kraska Vas",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:population":32,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.55643,
+    45.86564,
+    15.55643,
+    45.86564
+],
+  "geometry": {"coordinates":[15.55643,45.86564],"type":"Point"}
+}

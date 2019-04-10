@@ -1,0 +1,82 @@
+{
+  "id": 1125775383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.442522,45.584911,14.442522,45.584911",
+    "geom:latitude":45.584911,
+    "geom:longitude":14.442522,
+    "gn:gn_country":null,
+    "iso:country":"SI",
+    "lbl:latitude":45.584911,
+    "lbl:longitude":14.442522,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Sviscaki",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Ilirska Bistrica",
+    "qs_pg:photos":17,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":17,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":191308,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":55851929,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Ilirska Bistrica",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959863,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55851929,
+        "qs_pg:id":191308
+    },
+    "wof:country":"SI",
+    "wof:created":1497290235,
+    "wof:geomhash":"6a4518d4f540ed7674d7df8669d76ef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959863,
+            "locality_id":1125775383,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1125775383,
+    "wof:lastmodified":1531170330,
+    "wof:name":"Sviscaki",
+    "wof:parent_id":1108959863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.442522,
+    45.584911,
+    14.442522,
+    45.584911
+],
+  "geometry": {"coordinates":[14.442522,45.584911],"type":"Point"}
+}

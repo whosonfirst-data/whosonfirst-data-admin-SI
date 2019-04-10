@@ -1,0 +1,74 @@
+{
+  "id": 1326466969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.63508,46.25377,13.63508,46.25377",
+    "geom:latitude":46.25377,
+    "geom:longitude":13.63508,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Kosec",
+    "gn:country_code":"SI",
+    "gn:dem":1000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988131,
+    "gn:latitude":46.25377,
+    "gn:longitude":13.63508,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kose\u010d",
+    "gn:population":71,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kose\u010d"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959523,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988131,
+        "wk:page":"Kose%C4%8D"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"437591db8f1dafdfa566f9099b6372dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959523,
+            "locality_id":1326466969,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1326466969,
+    "wof:lastmodified":1537700300,
+    "wof:name":"Kosec",
+    "wof:parent_id":1108959523,
+    "wof:placetype":"locality",
+    "wof:population":71,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.63508,
+    46.25377,
+    13.63508,
+    46.25377
+],
+  "geometry": {"coordinates":[13.63508,46.25377],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1360316903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.85465,46.18475,14.85465,46.18475",
+    "geom:latitude":46.18475,
+    "geom:longitude":14.85465,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Sentozbolt",
+    "gn:country_code":"SI",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191026,
+    "gn:latitude":46.18475,
+    "gn:longitude":14.85465,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"\u0160ento\u017ebolt",
+    "gn:population":48,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160ent O\u017ebald",
+        "\u0160ento\u017ebalt",
+        "\u0160ento\u017ebolt"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959807,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191026,
+        "wk:page":"%C5%A0ento%C5%BEbolt"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5979aad433e406c0007c2eba08964ce4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959807,
+            "locality_id":1360316903,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1360316903,
+    "wof:lastmodified":1537700195,
+    "wof:name":"Sentozbolt",
+    "wof:parent_id":1108959807,
+    "wof:placetype":"locality",
+    "wof:population":48,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.85465,
+    46.18475,
+    14.85465,
+    46.18475
+],
+  "geometry": {"coordinates":[14.85465,46.18475],"type":"Point"}
+}

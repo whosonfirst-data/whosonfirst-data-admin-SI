@@ -1,0 +1,74 @@
+{
+  "id": 1327164771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.91195,46.37832,15.91195,46.37832",
+    "geom:latitude":46.37832,
+    "geom:longitude":15.91195,
+    "gn:admin1_code":"N2",
+    "gn:asciiname":"Sturmovci",
+    "gn:country_code":"SI",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987494,
+    "gn:latitude":46.37832,
+    "gn:longitude":15.91195,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160turmovci",
+    "gn:population":143,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160turmovci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959747,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987494,
+        "wk:page":"%C5%A0turmovci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b590117f09ee204949bc493d7e913c8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959747,
+            "locality_id":1327164771,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1327164771,
+    "wof:lastmodified":1537700287,
+    "wof:name":"Sturmovci",
+    "wof:parent_id":1108959747,
+    "wof:placetype":"locality",
+    "wof:population":143,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.91195,
+    46.37832,
+    15.91195,
+    46.37832
+],
+  "geometry": {"coordinates":[15.91195,46.37832],"type":"Point"}
+}

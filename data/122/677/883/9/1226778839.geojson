@@ -1,0 +1,71 @@
+{
+  "id": 1226778839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.14577,45.92434,15.14577,45.92434",
+    "geom:latitude":45.92434,
+    "geom:longitude":15.14577,
+    "gn:admin1_code":"O7",
+    "gn:asciiname":"Gorenji Mokronog",
+    "gn:country_code":"SI",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989645,
+    "gn:latitude":45.92434,
+    "gn:longitude":15.14577,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Gorenji Mokronog",
+    "gn:population":18,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959913,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989645,
+        "wk:page":"Gorenji_Mokronog"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"dc19453e392f6b7190476570005669a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959913,
+            "locality_id":1226778839,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1226778839,
+    "wof:lastmodified":1537573548,
+    "wof:name":"Gorenji Mokronog",
+    "wof:parent_id":1108959913,
+    "wof:placetype":"locality",
+    "wof:population":18,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.14577,
+    45.92434,
+    15.14577,
+    45.92434
+],
+  "geometry": {"coordinates":[15.14577,45.92434],"type":"Point"}
+}

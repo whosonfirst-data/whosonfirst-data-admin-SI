@@ -1,0 +1,71 @@
+{
+  "id": 1327270205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.81306,45.96389,14.81306,45.96389",
+    "geom:latitude":45.96389,
+    "geom:longitude":14.81306,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Mekinje nad Sticno",
+    "gn:country_code":"SI",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218648,
+    "gn:latitude":45.96389,
+    "gn:longitude":14.81306,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Mekinje nad Sti\u010dno",
+    "gn:population":186,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959583,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218648,
+        "wk:page":"Mekinje_nad_Sti%C4%8Dno"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"105bb31c5c126faf5287eb670f958a87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959583,
+            "locality_id":1327270205,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1327270205,
+    "wof:lastmodified":1537573460,
+    "wof:name":"Mekinje nad Sticno",
+    "wof:parent_id":1108959583,
+    "wof:placetype":"locality",
+    "wof:population":186,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.81306,
+    45.96389,
+    14.81306,
+    45.96389
+],
+  "geometry": {"coordinates":[14.81306,45.96389],"type":"Point"}
+}

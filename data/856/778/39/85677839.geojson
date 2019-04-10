@@ -1,0 +1,266 @@
+{
+  "id": 85677839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.018193,
+    "geom:area_square_m":154668500.699101,
+    "geom:bbox":"15.51393945,46.5047586131,15.7692497088,46.6477201713",
+    "geom:latitude":46.565037,
+    "geom:longitude":15.628891,
+    "gn:population":111730,
+    "iso:country":"SI",
+    "lbl:latitude":46.556986,
+    "lbl:longitude":15.626957,
+    "mps:latitude":46.556986,
+    "mps:longitude":15.626957,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0631\u064a\u0628\u0648\u0631"
+    ],
+    "name:bar_x_preferred":[
+        "Marburg an da Drau"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u041c\u0430\u0440\u044b\u0431\u0430\u0440"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u0431\u043e\u0440"
+    ],
+    "name:ces_x_preferred":[
+        "M\u011bstsk\u00e1 ob\u010dina Maribor"
+    ],
+    "name:che_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u0431\u043e\u0440"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03c1\u03b9\u03bc\u03c0\u03bf\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Maribor"
+    ],
+    "name:epo_x_preferred":[
+        "Mariboro"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0631\u06cc\u0628\u0648\u0631"
+    ],
+    "name:hbs_x_preferred":[
+        "Maribor"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e8\u05d9\u05d1\u05d5\u05e8"
+    ],
+    "name:hrv_x_preferred":[
+        "Gradska op\u0107ina Maribor"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30ea\u30dc\u30eb"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e0\u10d8\u10d1\u10dd\u10e0\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ub9ac\ubcf4\ub974"
+    ],
+    "name:lat_x_preferred":[
+        "Marburgum"
+    ],
+    "name:lav_x_preferred":[
+        "Maribora"
+    ],
+    "name:lit_x_preferred":[
+        "Mariboras"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u093e\u0930\u093f\u092c\u094b\u0930"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u0431\u043e\u0440"
+    ],
+    "name:oss_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u0431\u043e\u0440"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0645\u0627\u0631\u06cc\u0628\u0648\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina miejska Maribor"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna urban\u0103 Maribor"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u0431\u043e\u0440"
+    ],
+    "name:sco_x_preferred":[
+        "Ceety Municipality o Maribor"
+    ],
+    "name:slv_x_preferred":[
+        "Mestna ob\u010dina Maribor"
+    ],
+    "name:spa_x_preferred":[
+        "M\u00e1ribor"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041c\u0430\u0440\u0438\u0431\u043e\u0440"
+    ],
+    "name:srp_x_variant":[
+        "\u041c\u0430\u0440\u0438\u0431\u043e\u0440"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u0431\u043e\u0440"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e32\u0e23\u0e35\u0e1a\u0e2d\u0e23\u0e4c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u0431\u043e\u0440"
+    ],
+    "name:und_x_preferred":[
+        "Maribor"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Maribor"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0631\u06cc\u0628\u0648\u0631"
+    ],
+    "name:vec_x_preferred":[
+        "Marburgo"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u91cc\u535a\u5c14"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-256",
+    "ne:adm1_code":"SVN-256",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"10",
+    "ne:code_hasc":"SI.PD.MB",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"256",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SI70",
+    "ne:fips_alt":"SIJ2",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.J2",
+    "ne:gn_id":"3195505",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Mestna Obcina Maribor",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI73",
+    "ne:gns_id":"-88557",
+    "ne:gns_lang":"sqi",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Maribor, Mestna Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"46.55600000000",
+    "ne:longitude":"15.64140000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Maribor",
+    "ne:name_alt":"",
+    "ne:name_len":7,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"MB",
+    "ne:provnum_ne":"21",
+    "ne:region":"Podravska",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":55848367,
+    "ne:woe_label":"Maribor, SI, Slovenia",
+    "ne:woe_name":"Maribor",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Maribor",
+    "qs:a1_lc":"SVN-256",
+    "qs:a1r":"Podravska",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":65,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SI70",
+        "gn:id":3195505,
+        "gp:id":55848367,
+        "hasc:id":"SI.PD.MB",
+        "qs:id":1198583,
+        "wd:id":"Q3435104",
+        "wk:page":"City Municipality of Maribor"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0a2da1ff45dd72f133197993385e0469",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677839
+        }
+    ],
+    "wof:id":85677839,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616732,
+    "wof:name":"Maribor",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:population":111730,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[
+        1108959785
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.51393945004565,
+    46.50475861311958,
+    15.76924970880708,
+    46.64772017134891
+],
+  "geometry": {"coordinates":[[[15.57076053157334,46.629970608257],[15.59081098763704,46.63038402030634],[15.59840742426326,46.62805858033926],[15.60538374236586,46.62206411416759],[15.61375532444873,46.61829173427617],[15.6272945486046,46.6096617697749],[15.630860222921,46.60253042294073],[15.64713829909329,46.59408132649207],[15.67984948106874,46.59281525282171],[15.69896976114563,46.57948273424086],[15.7206738618093,46.56930247702775],[15.74475508018287,46.56852732977251],[15.75467695497753,46.57328156249417],[15.7604130387308,46.5675971537857],[15.76366865378537,46.56501333319881],[15.76568403539,46.56129263015083],[15.76924970880708,46.55940643975543],[15.75374677899072,46.54697825784041],[15.73808882044278,46.53266388642925],[15.72315433140733,46.5270828314076],[15.72082889233957,46.5236205098787],[15.72005374508433,46.52129507081094],[15.72129398033297,46.51845286690633],[15.72439456575665,46.51354360635241],[15.73168094222177,46.50475861311958],[15.69648929244693,46.51214834237214],[15.60848432778954,46.51664419177609],[15.56378421437006,46.5098745792485],[15.55029666525894,46.51801361823397],[15.56037356878522,46.56211945245082],[15.54859134291621,46.57224803282054],[15.54859134291621,46.57870758698562],[15.54704105020437,46.5881126978428],[15.54192508317612,46.59281525282171],[15.53742923287285,46.59501150247888],[15.53200320838141,46.59674266234407],[15.5279724460716,46.60074758623216],[15.52440677265446,46.60638031719793],[15.52471683101697,46.61384756081634],[15.52022098161308,46.62720591871823],[15.51393945004565,46.63254522158473],[15.51763635343502,46.63823964514359],[15.52030813850985,46.64772017134891],[15.53680911614782,46.63627513279118],[15.57076053157334,46.629970608257]]],"type":"Polygon"}
+}

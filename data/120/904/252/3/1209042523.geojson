@@ -1,0 +1,68 @@
+{
+  "id": 1209042523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.88675,45.85557,14.88675,45.85557",
+    "geom:latitude":45.85557,
+    "geom:longitude":14.88675,
+    "gn:admin1_code":"N8",
+    "gn:asciiname":"Poljane pri Zuzemberku",
+    "gn:country_code":"SI",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989604,
+    "gn:latitude":45.85557,
+    "gn:longitude":14.88675,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Poljane pri \u017du\u017eemberku",
+    "gn:population":31,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poljane pri \u017du\u017eemberku"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989604,
+        "wk:page":"Poljane_pri_%C5%BDu%C5%BEemberku"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3cdf3732127c15235a8ae409fb85ddb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209042523
+        }
+    ],
+    "wof:id":1209042523,
+    "wof:lastmodified":1537700329,
+    "wof:name":"Poljane pri Zuzemberku",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.88675,
+    45.85557,
+    14.88675,
+    45.85557
+],
+  "geometry": {"coordinates":[14.88675,45.85557],"type":"Point"}
+}

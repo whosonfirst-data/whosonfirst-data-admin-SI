@@ -1,0 +1,74 @@
+{
+  "id": 1243008881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.61667,46.26667,15.61667,46.26667",
+    "geom:latitude":46.26667,
+    "geom:longitude":15.61667,
+    "gn:admin1_code":"A7",
+    "gn:asciiname":"Caca Vas",
+    "gn:country_code":"SI",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202924,
+    "gn:latitude":46.26667,
+    "gn:longitude":15.61667,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"\u010ca\u010da Vas",
+    "gn:population":160,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010ca\u010da Vas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959803,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202924,
+        "wk:page":"%C4%8Ca%C4%8Da_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"91b0f9b8ef415b4191b52dd15523a1a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959803,
+            "locality_id":1243008881,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1243008881,
+    "wof:lastmodified":1537700259,
+    "wof:name":"Caca Vas",
+    "wof:parent_id":1108959803,
+    "wof:placetype":"locality",
+    "wof:population":160,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.61667,
+    46.26667,
+    15.61667,
+    46.26667
+],
+  "geometry": {"coordinates":[15.61667,46.26667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226036823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.52442,46.00567,13.52442,46.00567",
+    "geom:latitude":46.00567,
+    "geom:longitude":13.52442,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Drnovk",
+    "gn:country_code":"SI",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987516,
+    "gn:latitude":46.00567,
+    "gn:longitude":13.52442,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Drnovk",
+    "gn:population":138,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959811,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987516,
+        "wk:page":"Drnovk%2C_Brda"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4320182fa6960ada13196fc4a7fa4f80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959811,
+            "locality_id":1226036823,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1226036823,
+    "wof:lastmodified":1537573482,
+    "wof:name":"Drnovk",
+    "wof:parent_id":1108959811,
+    "wof:placetype":"locality",
+    "wof:population":138,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.52442,
+    46.00567,
+    13.52442,
+    46.00567
+],
+  "geometry": {"coordinates":[13.52442,46.00567],"type":"Point"}
+}

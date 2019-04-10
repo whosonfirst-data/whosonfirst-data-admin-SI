@@ -1,0 +1,208 @@
+{
+  "id": 85677825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.011376,
+    "geom:area_square_m":98027977.355624,
+    "geom:bbox":"14.6369674013,45.7430996768,14.8137007993,45.8901191272",
+    "geom:latitude":45.827832,
+    "geom:longitude":14.729149,
+    "iso:country":"SI",
+    "lbl:latitude":45.838961,
+    "lbl:longitude":14.723124,
+    "mps:latitude":45.838961,
+    "mps:longitude":14.723124,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:bos_x_preferred":[
+        "Dobrepolje"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u010dina Dobrepolje"
+    ],
+    "name:deu_x_preferred":[
+        "Dobrepolje"
+    ],
+    "name:eng_x_preferred":[
+        "Dobrepolje"
+    ],
+    "name:fra_x_preferred":[
+        "Dobrepolje"
+    ],
+    "name:hbs_x_preferred":[
+        "Dobrepolje"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Dobrepolje"
+    ],
+    "name:ita_x_preferred":[
+        "Dobrepolje"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30d6\u30ec\u30dd\u30ea\u30a7"
+    ],
+    "name:kor_x_preferred":[
+        "\ub3c4\ube0c\ub808\ud3f4\ub808"
+    ],
+    "name:nld_x_preferred":[
+        "Dobrepolje"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Dobrepolje"
+    ],
+    "name:por_x_preferred":[
+        "Dobrepolje"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Dobrepolje"
+    ],
+    "name:sco_x_preferred":[
+        "Municipality o Dobrepolje"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Dobrepolje"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0414\u043e\u0431\u0440\u0435\u043f\u043e\u0459\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u0435\u043f\u043e\u043b\u0454"
+    ],
+    "name:und_x_preferred":[
+        "Grosuplje"
+    ],
+    "name:unk_x_variant":[
+        "Ob\u010dina Dobrepolje"
+    ],
+    "name:vie_x_preferred":[
+        "Dobrepolje"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-253",
+    "ne:adm1_code":"SVN-253",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"10",
+    "ne:code_hasc":"SI.LJ.DB",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"253",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SI00",
+    "ne:fips_alt":"SI20",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.20",
+    "ne:gn_id":"3239193",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Dobrepolje",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI20",
+    "ne:gns_id":"243872",
+    "ne:gns_lang":"slv",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Dobrepolje, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"45.83420000000",
+    "ne:longitude":"14.72530000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Dobrepolje",
+    "ne:name_alt":"",
+    "ne:name_len":10,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"DB",
+    "ne:provnum_ne":"193",
+    "ne:region":"Osrednjeslovenska",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":-55848349,
+    "ne:woe_label":"",
+    "ne:woe_name":"",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Dobrepolje",
+    "qs:a1_lc":"SVN-253",
+    "qs:a1r":"Osrednjeslovenska",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "qs:woeid":55848349,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "unlc:subdivision":"SI-020",
+    "wd:wordcount":89,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SI00",
+        "gn:id":3239193,
+        "gp:id":-55848349,
+        "hasc:id":"SI.LJ.DB",
+        "unlc:id":"SI-020",
+        "wd:id":"Q1009409"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f7f6021cceade479be28b315ee18f6a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677825
+        }
+    ],
+    "wof:id":85677825,
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616732,
+    "wof:name":"Dobrepolje",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:shortcode":"DB",
+    "wof:subdivision":"SI-020",
+    "wof:superseded_by":[
+        1108959575
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.63696740132457,
+    45.7430996768087,
+    14.81370079925256,
+    45.89011912719604
+],
+  "geometry": {"coordinates":[[[14.7230603371649,45.87642487250992],[14.73132856556089,45.87642487250992],[14.75179243277461,45.88329783782501],[14.76807050984621,45.86676138013365],[14.76729536259097,45.86381582344154],[14.76047407411926,45.85094839105545],[14.75876875177653,45.83735749005615],[14.76419477716729,45.8317764350345],[14.77101606563895,45.82299144090234],[14.7817130876889,45.81513662455563],[14.78465864438101,45.8083153351846],[14.80455407081377,45.7975149603472],[14.80253869010852,45.78028086976639],[14.80393395408873,45.77531993326835],[14.81370079925256,45.75767243153751],[14.79587243036843,45.7430996768087],[14.68771365685984,45.81797882756092],[14.66921349530662,45.83730581321277],[14.65169518388569,45.84642670322984],[14.6451839537765,45.84857127514431],[14.63882775239892,45.84934642239955],[14.63696740132457,45.85389394774757],[14.63913781076138,45.8587256939357],[14.64022301637914,45.86275645624551],[14.64022301637914,45.87477122701057],[14.65975670670667,45.88329783782501],[14.66456261627178,45.88867218727165],[14.67169396310595,45.89011912719604],[14.67810184132696,45.88872386321577],[14.68476810106705,45.88577830742298],[14.7230603371649,45.87642487250992]]],"type":"Polygon"}
+}

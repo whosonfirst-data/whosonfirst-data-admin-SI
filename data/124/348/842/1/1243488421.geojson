@@ -1,0 +1,74 @@
+{
+  "id": 1243488421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.66021,46.34393,15.66021,46.34393",
+    "geom:latitude":46.34393,
+    "geom:longitude":15.66021,
+    "gn:admin1_code":"O5",
+    "gn:asciiname":"Mostecno",
+    "gn:country_code":"SI",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194821,
+    "gn:latitude":46.34393,
+    "gn:longitude":15.66021,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Moste\u010dno",
+    "gn:population":178,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moste\u010dno"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959773,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194821,
+        "wk:page":"Moste%C4%8Dno"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"13031d740bb60e5168cfb848141098ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959773,
+            "locality_id":1243488421,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1243488421,
+    "wof:lastmodified":1537700217,
+    "wof:name":"Mostecno",
+    "wof:parent_id":1108959773,
+    "wof:placetype":"locality",
+    "wof:population":178,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.66021,
+    46.34393,
+    15.66021,
+    46.34393
+],
+  "geometry": {"coordinates":[15.66021,46.34393],"type":"Point"}
+}

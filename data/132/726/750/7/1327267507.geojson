@@ -1,0 +1,74 @@
+{
+  "id": 1327267507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.4681,45.85626,15.4681,45.85626",
+    "geom:latitude":45.85626,
+    "geom:longitude":15.4681,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Stari Grad v Podbocju",
+    "gn:country_code":"SI",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989371,
+    "gn:latitude":45.85626,
+    "gn:longitude":15.4681,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Stari Grad v Podbo\u010dju",
+    "gn:population":4,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stari Grad v Podbo\u010dju"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989371,
+        "wk:page":"Stari_Grad_v_Podbo%C4%8Dju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4240f749856a55ce28d5557f16b962c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1327267507,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1327267507,
+    "wof:lastmodified":1537700325,
+    "wof:name":"Stari Grad v Podbocju",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.4681,
+    45.85626,
+    15.4681,
+    45.85626
+],
+  "geometry": {"coordinates":[15.4681,45.85626],"type":"Point"}
+}

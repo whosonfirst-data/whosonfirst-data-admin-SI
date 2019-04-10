@@ -1,0 +1,71 @@
+{
+  "id": 1226617045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.90333,46.15417,13.90333,46.15417",
+    "geom:latitude":46.15417,
+    "geom:longitude":13.90333,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Bukovo",
+    "gn:country_code":"SI",
+    "gn:dem":713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203021,
+    "gn:latitude":46.15417,
+    "gn:longitude":13.90333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Bukovo",
+    "gn:population":179,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959577,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203021,
+        "wk:page":"Bukovo%2C_Cerkno"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4c4291cdbfe0ec58f55a555ca87930dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959577,
+            "locality_id":1226617045,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1226617045,
+    "wof:lastmodified":1537573449,
+    "wof:name":"Bukovo",
+    "wof:parent_id":1108959577,
+    "wof:placetype":"locality",
+    "wof:population":179,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.90333,
+    46.15417,
+    13.90333,
+    46.15417
+],
+  "geometry": {"coordinates":[13.90333,46.15417],"type":"Point"}
+}

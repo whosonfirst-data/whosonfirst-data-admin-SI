@@ -1,0 +1,74 @@
+{
+  "id": 1276159061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.01782,45.87939,15.01782,45.87939",
+    "geom:latitude":45.87939,
+    "geom:longitude":15.01782,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Gorenji Vrh pri Dobrnicu",
+    "gn:country_code":"SI",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988533,
+    "gn:latitude":45.87939,
+    "gn:longitude":15.01782,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Gorenji Vrh pri Dobrni\u010du",
+    "gn:population":45,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gorenji Vrh pri Dobrni\u010du"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959839,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988533,
+        "wk:page":"Gorenji_Vrh_pri_Dobrni%C4%8Du"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c6cd8c2a7330f58fec78bb9526f2229d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959839,
+            "locality_id":1276159061,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1276159061,
+    "wof:lastmodified":1537700308,
+    "wof:name":"Gorenji Vrh pri Dobrnicu",
+    "wof:parent_id":1108959839,
+    "wof:placetype":"locality",
+    "wof:population":45,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.01782,
+    45.87939,
+    15.01782,
+    45.87939
+],
+  "geometry": {"coordinates":[15.01782,45.87939],"type":"Point"}
+}

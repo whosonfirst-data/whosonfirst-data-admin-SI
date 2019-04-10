@@ -1,0 +1,145 @@
+{
+  "id": 101859015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.994944,46.344247,15.994944,46.344247",
+    "geom:latitude":46.344247,
+    "geom:longitude":15.994944,
+    "geonames:id":"6956384,8198423",
+    "iso:country":"SI",
+    "lbl:latitude":46.344247,
+    "lbl:longitude":15.994944,
+    "mps:latitude":46.344247,
+    "mps:longitude":15.994944,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Cirkulane"
+    ],
+    "name:ces_x_preferred":[
+        "Cirkulane"
+    ],
+    "name:cze_x_preferred":[
+        "Ob\u010dina Cirkulane"
+    ],
+    "name:deu_x_preferred":[
+        "Cirkulane"
+    ],
+    "name:dut_x_preferred":[
+        "Cirkulane"
+    ],
+    "name:eng_x_preferred":[
+        "Cirkulane"
+    ],
+    "name:fra_x_preferred":[
+        "Cirkulane"
+    ],
+    "name:fre_x_preferred":[
+        "Cirkulane"
+    ],
+    "name:ger_x_preferred":[
+        "Cirkulane"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Cirkulane"
+    ],
+    "name:hun_x_preferred":[
+        "Cirkulane"
+    ],
+    "name:ita_x_preferred":[
+        "Cirkulane"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c4\u30a3\u30eb\u30af\u30e9\u30cd"
+    ],
+    "name:kor_x_preferred":[
+        "\uce58\ub974\ucfe8\ub77c\ub124"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Cirkulane"
+    ],
+    "name:por_x_preferred":[
+        "Cirkulane"
+    ],
+    "name:ron_x_preferred":[
+        "Cirkulane"
+    ],
+    "name:rum_x_preferred":[
+        "Cirkulane"
+    ],
+    "name:slv_x_preferred":[
+        "Cirkulane"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0438\u0440\u043a\u0443\u043b\u0430\u043d\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0633\u06cc\u0631\u06a9\u0648\u0644\u0627\u0646\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Cirkulane"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Cirkulane",
+    "qs:loc_alt":"Cirkulane",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":140,
+    "wof:belongsto":[
+        102191581,
+        1108959743,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6956384,
+        "gp:id":15001032,
+        "qs:id":1,
+        "wd:id":"Q340205"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"07b0d3f0846e99c456e5e43fa214be8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959743,
+            "locality_id":101859015,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":101859015,
+    "wof:lastmodified":1544744698,
+    "wof:name":"Cirkulane",
+    "wof:parent_id":1108959743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.994944,
+    46.344247,
+    15.994944,
+    46.344247
+],
+  "geometry": {"coordinates":[15.994944,46.344247],"type":"Point"}
+}

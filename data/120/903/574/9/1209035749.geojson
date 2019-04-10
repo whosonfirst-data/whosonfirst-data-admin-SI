@@ -1,0 +1,65 @@
+{
+  "id": 1209035749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.32076,46.19126,14.32076,46.19126",
+    "geom:latitude":46.19126,
+    "geom:longitude":14.32076,
+    "gn:admin1_code":"B9",
+    "gn:asciiname":"Forme",
+    "gn:country_code":"SI",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987483,
+    "gn:latitude":46.19126,
+    "gn:longitude":14.32076,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Forme",
+    "gn:population":144,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987483,
+        "wk:page":"Forme"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"527995cd9e3e84401834c38449818cc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209035749
+        }
+    ],
+    "wof:id":1209035749,
+    "wof:lastmodified":1537573481,
+    "wof:name":"Forme",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":144,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.32076,
+    46.19126,
+    14.32076,
+    46.19126
+],
+  "geometry": {"coordinates":[14.32076,46.19126],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293917025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.60128,45.81473,14.60128,45.81473",
+    "geom:latitude":45.81473,
+    "geom:longitude":14.60128,
+    "gn:admin1_code":"D8",
+    "gn:asciiname":"Krkovo pri Karlovici",
+    "gn:country_code":"SI",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989197,
+    "gn:latitude":45.81473,
+    "gn:longitude":14.60128,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Krkovo pri Karlovici",
+    "gn:population":14,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959859,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989197,
+        "wk:page":"Krkovo_pri_Karlovici"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"bb4f6bfffb446d1b32062e113352d695",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959859,
+            "locality_id":1293917025,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1293917025,
+    "wof:lastmodified":1537573535,
+    "wof:name":"Krkovo pri Karlovici",
+    "wof:parent_id":1108959859,
+    "wof:placetype":"locality",
+    "wof:population":14,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.60128,
+    45.81473,
+    14.60128,
+    45.81473
+],
+  "geometry": {"coordinates":[14.60128,45.81473],"type":"Point"}
+}

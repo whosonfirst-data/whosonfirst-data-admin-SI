@@ -1,0 +1,71 @@
+{
+  "id": 1293420905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.94057,45.52581,14.94057,45.52581",
+    "geom:latitude":45.52581,
+    "geom:longitude":14.94057,
+    "gn:admin1_code":"H9",
+    "gn:asciiname":"Grgelj",
+    "gn:country_code":"SI",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989403,
+    "gn:latitude":45.52581,
+    "gn:longitude":14.94057,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Grgelj",
+    "gn:population":2,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959711,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989403,
+        "wk:page":"Grgelj"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b2f8362358efb0fa0b5ef5190a5dda5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959711,
+            "locality_id":1293420905,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1293420905,
+    "wof:lastmodified":1537573541,
+    "wof:name":"Grgelj",
+    "wof:parent_id":1108959711,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.94057,
+    45.52581,
+    14.94057,
+    45.52581
+],
+  "geometry": {"coordinates":[14.94057,45.52581],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259719709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.01778,46.37389,16.01778,46.37389",
+    "geom:latitude":46.37389,
+    "geom:longitude":16.01778,
+    "gn:admin1_code":"O1",
+    "gn:asciiname":"Veliki Vrh",
+    "gn:country_code":"SI",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187961,
+    "gn:latitude":46.37389,
+    "gn:longitude":16.01778,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Veliki Vrh",
+    "gn:population":115,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959743,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187961,
+        "wk:page":"Veliki_Vrh%2C_Cirkulane"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0bba632ef50d32f5ee887e71d93cdc9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959743,
+            "locality_id":1259719709,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1259719709,
+    "wof:lastmodified":1537573388,
+    "wof:name":"Veliki Vrh",
+    "wof:parent_id":1108959743,
+    "wof:placetype":"locality",
+    "wof:population":115,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.01778,
+    46.37389,
+    16.01778,
+    46.37389
+],
+  "geometry": {"coordinates":[16.01778,46.37389],"type":"Point"}
+}

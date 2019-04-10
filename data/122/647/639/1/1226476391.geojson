@@ -1,0 +1,74 @@
+{
+  "id": 1226476391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.03333,46.18333,14.03333,46.18333",
+    "geom:latitude":46.18333,
+    "geom:longitude":14.03333,
+    "gn:admin1_code":"F1",
+    "gn:asciiname":"Davca",
+    "gn:country_code":"SI",
+    "gn:dem":997,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202174,
+    "gn:latitude":46.18333,
+    "gn:longitude":14.03333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Dav\u010da",
+    "gn:population":301,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dav\u010da"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959701,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202174,
+        "wk:page":"Dav%C4%8Da%2C_%C5%BDelezniki"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"af01904f2bb70d414d99d942b08c890a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959701,
+            "locality_id":1226476391,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1226476391,
+    "wof:lastmodified":1537700256,
+    "wof:name":"Davca",
+    "wof:parent_id":1108959701,
+    "wof:placetype":"locality",
+    "wof:population":301,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.03333,
+    46.18333,
+    14.03333,
+    46.18333
+],
+  "geometry": {"coordinates":[14.03333,46.18333],"type":"Point"}
+}

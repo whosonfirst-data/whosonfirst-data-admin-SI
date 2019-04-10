@@ -1,0 +1,71 @@
+{
+  "id": 1293032319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.2,46.36667,14.2,46.36667",
+    "geom:latitude":46.36667,
+    "geom:longitude":14.2,
+    "gn:admin1_code":"A3",
+    "gn:asciiname":"Dvorska Vas",
+    "gn:country_code":"SI",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200905,
+    "gn:latitude":46.36667,
+    "gn:longitude":14.2,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Dvorska Vas",
+    "gn:population":179,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959825,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200905,
+        "wk:page":"Dvorska_Vas%2C_Radovljica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1caf8f1e10edd14ac9e3ea9da8af0010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959825,
+            "locality_id":1293032319,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1293032319,
+    "wof:lastmodified":1537573442,
+    "wof:name":"Dvorska Vas",
+    "wof:parent_id":1108959825,
+    "wof:placetype":"locality",
+    "wof:population":179,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.2,
+    46.36667,
+    14.2,
+    46.36667
+],
+  "geometry": {"coordinates":[14.2,46.36667],"type":"Point"}
+}

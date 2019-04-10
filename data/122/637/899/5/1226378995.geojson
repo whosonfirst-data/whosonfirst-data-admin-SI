@@ -1,0 +1,71 @@
+{
+  "id": 1226378995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.77026,45.9415,14.77026,45.9415",
+    "geom:latitude":45.9415,
+    "geom:longitude":14.77026,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Zgornja Draga",
+    "gn:country_code":"SI",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186544,
+    "gn:latitude":45.9415,
+    "gn:longitude":14.77026,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Zgornja Draga",
+    "gn:population":132,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959583,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186544,
+        "wk:page":"Zgornja_Draga"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3bf1a254a1f82fad1e3d9a7a60a8d1d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959583,
+            "locality_id":1226378995,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1226378995,
+    "wof:lastmodified":1537573382,
+    "wof:name":"Zgornja Draga",
+    "wof:parent_id":1108959583,
+    "wof:placetype":"locality",
+    "wof:population":132,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.77026,
+    45.9415,
+    14.77026,
+    45.9415
+],
+  "geometry": {"coordinates":[14.77026,45.9415],"type":"Point"}
+}

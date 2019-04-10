@@ -1,0 +1,76 @@
+{
+  "id": 1310027007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.52639,45.99639,13.52639,45.99639",
+    "geom:latitude":45.99639,
+    "geom:longitude":13.52639,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Dobrovo",
+    "gn:country_code":"SI",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":3201896,
+    "gn:latitude":45.99639,
+    "gn:longitude":13.52639,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Dobrovo",
+    "gn:population":368,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Castel Dobra",
+        "Dobrovo v Brdih",
+        "Dobrovo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959811,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201896,
+        "wk:page":"Dobrovo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"40ac90f49fcad317b89968819d9db1c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959811,
+            "locality_id":1310027007,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1310027007,
+    "wof:lastmodified":1537700254,
+    "wof:name":"Dobrovo",
+    "wof:parent_id":1108959811,
+    "wof:placetype":"locality",
+    "wof:population":368,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.52639,
+    45.99639000000001,
+    13.52639,
+    45.99639000000001
+],
+  "geometry": {"coordinates":[13.52639,45.99639000000001],"type":"Point"}
+}

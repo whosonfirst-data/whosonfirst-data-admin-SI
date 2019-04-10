@@ -1,0 +1,68 @@
+{
+  "id": 1276588663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.90206,45.5058,14.90206,45.5058",
+    "geom:latitude":45.5058,
+    "geom:longitude":14.90206,
+    "gn:admin1_code":"H9",
+    "gn:asciiname":"Stelnik",
+    "gn:country_code":"SI",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989438,
+    "gn:latitude":45.5058,
+    "gn:longitude":14.90206,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Stelnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959711,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989438,
+        "wk:page":"Stelnik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9169a85459cb4f48ea561935c4fbb251",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959711,
+            "locality_id":1276588663,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1276588663,
+    "wof:lastmodified":1537573542,
+    "wof:name":"Stelnik",
+    "wof:parent_id":1108959711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.90206,
+    45.5058,
+    14.90206,
+    45.5058
+],
+  "geometry": {"coordinates":[14.90206,45.5058],"type":"Point"}
+}

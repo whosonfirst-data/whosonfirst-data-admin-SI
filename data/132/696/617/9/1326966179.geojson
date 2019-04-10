@@ -1,0 +1,77 @@
+{
+  "id": 1326966179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.4338,45.97948,15.4338,45.97948",
+    "geom:latitude":45.97948,
+    "geom:longitude":15.4338,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Strmo Rebro",
+    "gn:country_code":"SI",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989275,
+    "gn:latitude":45.97948,
+    "gn:longitude":15.4338,
+    "gn:modification_date":"2015-12-01",
+    "gn:name":"Strmo Rebro",
+    "gn:population":10,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Strma Reber"
+    ],
+    "name:slv_x_preferred":[
+        "Strma Reber"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989275,
+        "wk:page":"Strmo_Rebro"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0a87241a410bffa8680dbc8714f02706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1326966179,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1326966179,
+    "wof:lastmodified":1537700323,
+    "wof:name":"Strmo Rebro",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.4338,
+    45.97948,
+    15.4338,
+    45.97948
+],
+  "geometry": {"coordinates":[15.4338,45.97948],"type":"Point"}
+}

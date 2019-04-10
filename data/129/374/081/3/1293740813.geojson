@@ -1,0 +1,71 @@
+{
+  "id": 1293740813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.76955,46.51192,15.76955,46.51192",
+    "geom:latitude":46.51192,
+    "geom:longitude":15.76955,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Spodnja Korena",
+    "gn:country_code":"SI",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989732,
+    "gn:latitude":46.51192,
+    "gn:longitude":15.76955,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Spodnja Korena",
+    "gn:population":414,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959529,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989732,
+        "wk:page":"Spodnja_Korena"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"eec8390d329050619803d00c18bd43ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959529,
+            "locality_id":1293740813,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1293740813,
+    "wof:lastmodified":1537573551,
+    "wof:name":"Spodnja Korena",
+    "wof:parent_id":1108959529,
+    "wof:placetype":"locality",
+    "wof:population":414,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.76955,
+    46.51192,
+    15.76955,
+    46.51192
+],
+  "geometry": {"coordinates":[15.76955,46.51192],"type":"Point"}
+}

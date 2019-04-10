@@ -1,0 +1,113 @@
+{
+  "id": 101912451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000035,
+    "geom:bbox":"14.0747778226,46.3864185877,14.095792185,46.3893732915",
+    "geom:latitude":46.387791,
+    "geom:longitude":14.086378,
+    "iso:country":"SI",
+    "lbl:latitude":46.38768,
+    "lbl:longitude":14.086382,
+    "mps:latitude":46.38768,
+    "mps:longitude":14.086382,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Vintgar"
+    ],
+    "name:deu_x_preferred":[
+        "Vintgar-Klamm"
+    ],
+    "name:eus_x_preferred":[
+        "Vintgar arroila"
+    ],
+    "name:fra_x_preferred":[
+        "Gorge de Vintgar"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e0\u05d9\u05d5\u05df \u05d5\u05d9\u05e0\u05d8\u05d2\u05d0\u05e8"
+    ],
+    "name:hun_x_preferred":[
+        "Vintgar-szurdok"
+    ],
+    "name:ita_x_preferred":[
+        "Gola di Vintgar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a3\u30f3\u30c8\u30ac\u30eb\u5ce1\u8c37"
+    ],
+    "name:nld_x_preferred":[
+        "Vintgarkloof"
+    ],
+    "name:nno_x_preferred":[
+        "Vintgar"
+    ],
+    "name:slv_x_preferred":[
+        "Blejski vintgar"
+    ],
+    "name:spa_x_preferred":[
+        "Vintgar"
+    ],
+    "name:swe_x_preferred":[
+        "Vintgar"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"1",
+    "qs:adm0":"Slovenija",
+    "qs:id":0,
+    "qs:la":"Zgornje Gorje",
+    "qs:la_lc":"*SI207000",
+    "qs:level":"locality",
+    "qs:loc":"Vintgar",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet many local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":602,
+    "wof:belongsto":[
+        102191581,
+        1108959735,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55849261,
+        "qs:id":1135597,
+        "wd:id":"Q671860"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"318ee6027c07113dbb0e36080100d372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959735,
+            "locality_id":101912451,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":101912451,
+    "wof:lastmodified":1531171369,
+    "wof:name":"Vintgar",
+    "wof:parent_id":1108959735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.07477782255853,
+    46.38641858772672,
+    14.0957921849888,
+    46.38937329151855
+],
+  "geometry": {"coordinates":[[[14.0957921849888,46.38822160927515],[14.0957806685189,46.38641858772672],[14.08515612087524,46.38682469658312],[14.08522478833362,46.38772373919647],[14.08133350834561,46.38787212346807],[14.08124746549618,46.38674446829123],[14.07477782255853,46.38719798976405],[14.07477950438761,46.38722006639506],[14.07607658903459,46.38717070010085],[14.07621362327558,46.3889687982246],[14.08918478429251,46.38847425286281],[14.08925352278635,46.38937329151855],[14.09184777231445,46.38927419217885],[14.09177899044005,46.38837515544685],[14.0957921849888,46.38822160927515]]],"type":"Polygon"}
+}

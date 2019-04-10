@@ -1,0 +1,71 @@
+{
+  "id": 1242814211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.1015,46.47578,16.1015,46.47578",
+    "geom:latitude":46.47578,
+    "geom:longitude":16.1015,
+    "gn:admin1_code":"P8",
+    "gn:asciiname":"Hranjigovci",
+    "gn:country_code":"SI",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987900,
+    "gn:latitude":46.47578,
+    "gn:longitude":16.1015,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Hranjigovci",
+    "gn:population":93,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959931,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987900,
+        "wk:page":"Hranjigovci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7a60b66727959259f7d7c563d45933eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959931,
+            "locality_id":1242814211,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1242814211,
+    "wof:lastmodified":1537573495,
+    "wof:name":"Hranjigovci",
+    "wof:parent_id":1108959931,
+    "wof:placetype":"locality",
+    "wof:population":93,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.1015,
+    46.47578,
+    16.1015,
+    46.47578
+],
+  "geometry": {"coordinates":[16.1015,46.47578],"type":"Point"}
+}

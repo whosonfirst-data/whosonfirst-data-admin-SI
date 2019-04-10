@@ -1,0 +1,67 @@
+{
+  "id": 1310311009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.85167,46.31583,13.85167,46.31583",
+    "geom:latitude":46.31583,
+    "geom:longitude":13.85167,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Blato",
+    "gn:country_code":"SI",
+    "gn:dem":1251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218208,
+    "gn:latitude":46.31583,
+    "gn:longitude":13.85167,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Blato",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959819,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218208
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"50aef29ecdd325c44cbe61906b1c4fb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959819,
+            "locality_id":1310311009,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1310311009,
+    "wof:lastmodified":1536700192,
+    "wof:name":"Blato",
+    "wof:parent_id":1108959819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.85167,
+    46.31583,
+    13.85167,
+    46.31583
+],
+  "geometry": {"coordinates":[13.85167,46.31583],"type":"Point"}
+}

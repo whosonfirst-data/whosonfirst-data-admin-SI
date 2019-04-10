@@ -1,0 +1,75 @@
+{
+  "id": 1327367651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.05,45.81667,15.05,45.81667",
+    "geom:latitude":45.81667,
+    "geom:longitude":15.05,
+    "gn:admin1_code":"N8",
+    "gn:asciiname":"Brezova Reber pri Dvoru",
+    "gn:country_code":"SI",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203354,
+    "gn:latitude":45.81667,
+    "gn:longitude":15.05,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Brezova Reber pri Dvoru",
+    "gn:population":41,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brezova Reber",
+        "Brezova Reber pri Dvoru"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959787,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203354,
+        "wk:page":"Brezova_Reber_pri_Dvoru"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ebfb29917776d10fd5b73822f4a63930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959787,
+            "locality_id":1327367651,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1327367651,
+    "wof:lastmodified":1537700261,
+    "wof:name":"Brezova Reber pri Dvoru",
+    "wof:parent_id":1108959787,
+    "wof:placetype":"locality",
+    "wof:population":41,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.05,
+    45.81667,
+    15.05,
+    45.81667
+],
+  "geometry": {"coordinates":[15.05,45.81667],"type":"Point"}
+}

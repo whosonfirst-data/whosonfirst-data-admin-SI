@@ -1,0 +1,74 @@
+{
+  "id": 1242608411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.57083,46.35139,15.57083,46.35139",
+    "geom:latitude":46.35139,
+    "geom:longitude":15.57083,
+    "gn:admin1_code":"L8",
+    "gn:asciiname":"Krizni Vrh",
+    "gn:country_code":"SI",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217019,
+    "gn:latitude":46.35139,
+    "gn:longitude":15.57083,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kri\u017eni Vrh",
+    "gn:population":302,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kri\u017eni Vrh"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959641,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217019,
+        "wk:page":"Kri%C5%BEni_Vrh%2C_Slovenska_Bistrica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d911012e407a4f2af0d4401c52a35fc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959641,
+            "locality_id":1242608411,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1242608411,
+    "wof:lastmodified":1537700271,
+    "wof:name":"Krizni Vrh",
+    "wof:parent_id":1108959641,
+    "wof:placetype":"locality",
+    "wof:population":302,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.57083,
+    46.35139,
+    15.57083,
+    46.35139
+],
+  "geometry": {"coordinates":[15.57083,46.35139],"type":"Point"}
+}

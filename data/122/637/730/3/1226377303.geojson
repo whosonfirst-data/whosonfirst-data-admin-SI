@@ -1,0 +1,71 @@
+{
+  "id": 1226377303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.07649,45.9056,15.07649,45.9056",
+    "geom:latitude":45.9056,
+    "geom:longitude":15.07649,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Lukovek",
+    "gn:country_code":"SI",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987975,
+    "gn:latitude":45.9056,
+    "gn:longitude":15.07649,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Lukovek",
+    "gn:population":85,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959839,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987975,
+        "wk:page":"Lukovek"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9209cd624255a30a99b7bbe5257531c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959839,
+            "locality_id":1226377303,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1226377303,
+    "wof:lastmodified":1537573497,
+    "wof:name":"Lukovek",
+    "wof:parent_id":1108959839,
+    "wof:placetype":"locality",
+    "wof:population":85,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.07649,
+    45.9056,
+    15.07649,
+    45.9056
+],
+  "geometry": {"coordinates":[15.07649,45.9056],"type":"Point"}
+}

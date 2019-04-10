@@ -1,0 +1,68 @@
+{
+  "id": 1209652141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.83505,45.80535,14.83505,45.80535",
+    "geom:latitude":45.80535,
+    "geom:longitude":14.83505,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Visnje",
+    "gn:country_code":"SI",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187659,
+    "gn:latitude":45.80535,
+    "gn:longitude":14.83505,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Vi\u0161nje",
+    "gn:population":92,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vi\u0161nje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187659,
+        "wk:page":"Vi%C5%A1nje%2C_Ivan%C4%8Dna_Gorica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d321d69d5a08d1bd81ebbc9897aa7ad1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209652141
+        }
+    ],
+    "wof:id":1209652141,
+    "wof:lastmodified":1537700175,
+    "wof:name":"Visnje",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":92,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.83505,
+    45.80535,
+    14.83505,
+    45.80535
+],
+  "geometry": {"coordinates":[14.83505,45.80535],"type":"Point"}
+}

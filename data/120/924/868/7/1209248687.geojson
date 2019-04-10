@@ -1,0 +1,68 @@
+{
+  "id": 1209248687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.195,46.01361,14.195,46.01361",
+    "geom:latitude":46.01361,
+    "geom:longitude":14.195,
+    "gn:admin1_code":"E5",
+    "gn:asciiname":"Smrecje",
+    "gn:country_code":"SI",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190440,
+    "gn:latitude":46.01361,
+    "gn:longitude":14.195,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Smre\u010dje",
+    "gn:population":258,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Smre\u010dje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190440,
+        "wk:page":"Smre%C4%8Dje%2C_Vrhnika"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0ed0331e1272fe951dd03b05df7d3b09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209248687
+        }
+    ],
+    "wof:id":1209248687,
+    "wof:lastmodified":1537700190,
+    "wof:name":"Smrecje",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":258,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.195,
+    46.01361,
+    14.195,
+    46.01361
+],
+  "geometry": {"coordinates":[14.195,46.01361],"type":"Point"}
+}

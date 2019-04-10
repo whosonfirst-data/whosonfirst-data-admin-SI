@@ -1,0 +1,188 @@
+{
+  "id": 85677985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.011232,
+    "geom:area_square_m":95430910.195343,
+    "geom:bbox":"14.9195067691,46.5380899109,15.1257747736,46.649556783",
+    "geom:latitude":46.597125,
+    "geom:longitude":15.039921,
+    "gn:population":9038,
+    "iso:country":"SI",
+    "lbl:latitude":46.595592,
+    "lbl:longitude":15.050078,
+    "mps:latitude":46.595592,
+    "mps:longitude":15.050078,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ces_x_preferred":[
+        "Ob\u010dina Dravograd"
+    ],
+    "name:eng_x_preferred":[
+        "Dravograd"
+    ],
+    "name:hbs_x_preferred":[
+        "Dravograd"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Dravograd"
+    ],
+    "name:nld_x_preferred":[
+        "Dravograd"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Dravograd"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Dravograd"
+    ],
+    "name:sco_x_preferred":[
+        "Municipality o Dravograd"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Dravograd"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0414\u0440\u0430\u0432\u043e\u0433\u0440\u0430\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0440\u0430\u0432\u043e\u0433\u0440\u0430\u0434"
+    ],
+    "name:und_x_preferred":[
+        "Dravograd"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Dravograd"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-947",
+    "ne:adm1_code":"SVN-947",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SI.KO.DR",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"947",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SI25",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.25",
+    "ne:gn_id":"3201252",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Dravograd",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI25",
+    "ne:gns_id":"-79668",
+    "ne:gns_lang":"sqi",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Dravograd, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"46.59060000000",
+    "ne:longitude":"15.02260000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Dravograd",
+    "ne:name_alt":"",
+    "ne:name_len":9,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"DR",
+    "ne:provnum_ne":"13",
+    "ne:region":"Koro\u0161ka",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":55848347,
+    "ne:woe_label":"Dravograd, SI, Slovenia",
+    "ne:woe_name":"Dravograd",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Dravograd",
+    "qs:a1_lc":"SVN-947",
+    "qs:a1r":"Koro\u0161ka",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":132,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SI25",
+        "gn:id":3201252,
+        "gp:id":55848347,
+        "hasc:id":"SI.KO.DR",
+        "qs:id":204571,
+        "wd:id":"Q3503123",
+        "wk:page":"Municipality of Dravograd"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"973846e6786966ad4b484de28334f5d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677985
+        }
+    ],
+    "wof:id":85677985,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616733,
+    "wof:name":"Dravograd",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:population":9038,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[
+        1108959495
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.91950676912217,
+    46.53808991092069,
+    15.12577477358695,
+    46.64955678301919
+],
+  "geometry": {"coordinates":[[[15.08572250399044,46.64779516761297],[15.088826124626,46.63436310487344],[15.09378706202335,46.62550059727482],[15.10479414243576,46.6116513129578],[15.12577477358695,46.60123851174797],[15.11192549016931,46.59865469026181],[15.10866987511469,46.59493398721378],[15.10386396734827,46.58676911070597],[15.10603437678509,46.5792243518224],[15.10339887935487,46.5700259474396],[15.07099775574187,46.5503372265818],[15.06898237503663,46.54573802349103],[15.06433149600178,46.54232737880557],[15.06024905774785,46.54150055650553],[15.04877689024136,46.54460114192921],[15.03621951711705,46.54155223244965],[15.03358401878751,46.54000193883849],[15.03032840283356,46.53860667575753],[15.02815799339675,46.53808991092069],[15.02459231908028,46.53814158776413],[15.01048465324419,46.55044057936931],[15.01420535719154,46.55907054297126],[15.01234500521787,46.56253286450016],[15.0074874197087,46.56894074182185],[14.99787560417582,46.57310069444156],[14.98190758636605,46.58201487888363],[14.97090050595364,46.5916008568941],[14.9662496269188,46.59689769107564],[14.960203484803,46.59968821903612],[14.94340864379393,46.60074758623216],[14.92015425041836,46.61364085524133],[14.91950676912217,46.61501675232131],[14.93358931509488,46.62113474667126],[14.94795536245005,46.61927439469758],[14.96717899531444,46.60025746740826],[15.00438602669385,46.63684438116331],[15.06195357249942,46.64955678301919],[15.08572250399044,46.64779516761297]]],"type":"Polygon"}
+}

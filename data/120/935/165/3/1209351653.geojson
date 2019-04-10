@@ -1,0 +1,68 @@
+{
+  "id": 1209351653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.65843,45.79823,14.65843,45.79823",
+    "geom:latitude":45.79823,
+    "geom:longitude":14.65843,
+    "gn:admin1_code":"L1",
+    "gn:asciiname":"Marsici",
+    "gn:country_code":"SI",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989037,
+    "gn:latitude":45.79823,
+    "gn:longitude":14.65843,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Mar\u0161i\u010di",
+    "gn:population":21,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mar\u0161i\u010di"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989037,
+        "wk:page":"Mar%C5%A1i%C4%8Di%2C_Ribnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"103bca39bc3b2ca8c2702a25d9064449",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209351653
+        }
+    ],
+    "wof:id":1209351653,
+    "wof:lastmodified":1537700318,
+    "wof:name":"Marsici",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":21,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.65843,
+    45.79823,
+    14.65843,
+    45.79823
+],
+  "geometry": {"coordinates":[14.65843,45.79823],"type":"Point"}
+}

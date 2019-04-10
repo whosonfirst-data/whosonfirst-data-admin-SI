@@ -1,0 +1,74 @@
+{
+  "id": 1209950501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.675,46.33472,15.675,46.33472",
+    "geom:latitude":46.33472,
+    "geom:longitude":15.675,
+    "gn:admin1_code":"O5",
+    "gn:asciiname":"Pecke",
+    "gn:country_code":"SI",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3339122,
+    "gn:latitude":46.33472,
+    "gn:longitude":15.675,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Pe\u010dke",
+    "gn:population":287,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pe\u010dke"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959773,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3339122,
+        "wk:page":"Pe%C4%8Dke"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b27c14449015b21e43e5a8dd9a31fd6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959773,
+            "locality_id":1209950501,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1209950501,
+    "wof:lastmodified":1537700274,
+    "wof:name":"Pecke",
+    "wof:parent_id":1108959773,
+    "wof:placetype":"locality",
+    "wof:population":287,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.675,
+    46.33472,
+    15.675,
+    46.33472
+],
+  "geometry": {"coordinates":[15.675,46.33472],"type":"Point"}
+}

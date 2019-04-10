@@ -1,0 +1,74 @@
+{
+  "id": 1277013041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.6084,46.19806,15.6084,46.19806",
+    "geom:latitude":46.19806,
+    "geom:longitude":15.6084,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Nezbise",
+    "gn:country_code":"SI",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987466,
+    "gn:latitude":46.19806,
+    "gn:longitude":15.6084,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Nezbi\u0161e",
+    "gn:population":147,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nezbi\u0161e"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959649,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987466,
+        "wk:page":"Nezbi%C5%A1e"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"58fe2e765e49d8edc21f82b7c50f715e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959649,
+            "locality_id":1277013041,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1277013041,
+    "wof:lastmodified":1537700287,
+    "wof:name":"Nezbise",
+    "wof:parent_id":1108959649,
+    "wof:placetype":"locality",
+    "wof:population":147,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.6084,
+    46.19806,
+    15.6084,
+    46.19806
+],
+  "geometry": {"coordinates":[15.6084,46.19806],"type":"Point"}
+}

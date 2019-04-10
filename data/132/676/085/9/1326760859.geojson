@@ -1,0 +1,74 @@
+{
+  "id": 1326760859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3925,46.39298,15.3925,46.39298",
+    "geom:latitude":46.39298,
+    "geom:longitude":15.3925,
+    "gn:admin1_code":"F3",
+    "gn:asciiname":"Cresnova",
+    "gn:country_code":"SI",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987964,
+    "gn:latitude":46.39298,
+    "gn:longitude":15.3925,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u010cre\u0161nova",
+    "gn:population":86,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010cre\u0161nova"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959671,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987964,
+        "wk:page":"%C4%8Cre%C5%A1nova"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4c35cf8ab1d1d68c5cb23ee3ebfb3690",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959671,
+            "locality_id":1326760859,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1326760859,
+    "wof:lastmodified":1537700297,
+    "wof:name":"Cresnova",
+    "wof:parent_id":1108959671,
+    "wof:placetype":"locality",
+    "wof:population":86,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3925,
+    46.39298,
+    15.3925,
+    46.39298
+],
+  "geometry": {"coordinates":[15.3925,46.39298],"type":"Point"}
+}

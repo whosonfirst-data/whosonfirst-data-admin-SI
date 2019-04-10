@@ -1,0 +1,73 @@
+{
+  "id": 1293705443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3153,45.51228,15.3153,45.51228",
+    "geom:latitude":45.51228,
+    "geom:longitude":15.3153,
+    "gn:asciiname":"Gorenjci pri Adlesicih",
+    "gn:country_code":"SI",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989859,
+    "gn:latitude":45.51228,
+    "gn:longitude":15.3153,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Gorenjci pri Adle\u0161i\u010dih",
+    "gn:population":51,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gorenjci pri Adle\u0161i\u010dih"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959699,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989859,
+        "wk:page":"Gorenjci_pri_Adle%C5%A1i%C4%8Dih"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"dabe0ff5145a8364e4434d7852852fe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959699,
+            "locality_id":1293705443,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1293705443,
+    "wof:lastmodified":1537700334,
+    "wof:name":"Gorenjci pri Adlesicih",
+    "wof:parent_id":1108959699,
+    "wof:placetype":"locality",
+    "wof:population":51,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3153,
+    45.51228,
+    15.3153,
+    45.51228
+],
+  "geometry": {"coordinates":[15.3153,45.51228],"type":"Point"}
+}

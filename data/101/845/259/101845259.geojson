@@ -1,0 +1,136 @@
+{
+  "id": 101845259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000147,
+    "geom:area_square_m":1256884.295146,
+    "geom:bbox":"15.6536871506,46.3905317794,15.6822922453,46.4036468519",
+    "geom:latitude":46.397073,
+    "geom:longitude":15.665632,
+    "gn:population":1150,
+    "iso:country":"SI",
+    "lbl:latitude":46.396159,
+    "lbl:longitude":15.662273,
+    "mps:latitude":46.396159,
+    "mps:longitude":15.662273,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Pragersko"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0440\u0430\u0433\u0435\u0440\u0441\u043a\u043e"
+    ],
+    "name:ces_x_preferred":[
+        "Pragersko"
+    ],
+    "name:cze_x_preferred":[
+        "Pragersko"
+    ],
+    "name:dut_x_preferred":[
+        "Pragersko"
+    ],
+    "name:eng_x_preferred":[
+        "Pragersko"
+    ],
+    "name:hun_x_preferred":[
+        "Pragersko"
+    ],
+    "name:ita_x_preferred":[
+        "Pragersko"
+    ],
+    "name:nld_x_preferred":[
+        "Pragersko"
+    ],
+    "name:ron_x_preferred":[
+        "Pragersko"
+    ],
+    "name:rum_x_preferred":[
+        "Pragersko"
+    ],
+    "name:slv_x_preferred":[
+        "Pragersko"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0430\u0433\u0435\u0440\u0441\u044c\u043a\u043e"
+    ],
+    "name:und_x_preferred":[
+        "Pragersko"
+    ],
+    "name:und_x_variant":[
+        "Pragerhof"
+    ],
+    "name:unk_x_variant":[
+        "Pragerhof"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"Slovenska Bistrica",
+    "qs:la_lc":"*SI113000",
+    "qs:level":"locality",
+    "qs:loc":"Pragersko",
+    "qs:loc_alt":"Pragersko",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":96,
+    "wof:belongsto":[
+        102191581,
+        1108959641,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06f30f72-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3192603,
+        "gp:id":531208,
+        "qs:id":118977,
+        "qs_pg:id":118977,
+        "wd:id":"Q752081",
+        "wk:page":"Pragersko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"bc527461c52b4ae08e007d0d905dc44b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959641,
+            "locality_id":101845259,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":101845259,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531170952,
+    "wof:name":"Pragersko",
+    "wof:parent_id":1108959641,
+    "wof:placetype":"locality",
+    "wof:population":1150,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.6536871505557,
+    46.39053177939508,
+    15.68229224528898,
+    46.40364685192384
+],
+  "geometry": {"coordinates":[[[15.65953677056882,46.40357832124585],[15.65906107049199,46.39909029217142],[15.6642448637545,46.39881603942075],[15.66434008178692,46.39971364110602],[15.66563604415506,46.39964503743357],[15.6657312878848,46.40054263719361],[15.6670272688134,46.40047401652873],[15.66712253824204,46.4013716143632],[15.67101052768106,46.40116565440155],[15.6709151935483,46.40026806056125],[15.67739500789594,46.39992448737729],[15.6774904498651,46.40082207455447],[15.68137836701743,46.40061573870224],[15.68128286034892,46.39971815552633],[15.67998691254598,46.3997869484715],[15.67970048208406,46.39709419136904],[15.68229224528898,46.39695659782183],[15.68219673362427,46.39605901359818],[15.67182978099015,46.39660900126444],[15.67173444596403,46.39571140578062],[15.67043858489598,46.39578008243484],[15.67062921595556,46.3975752754705],[15.66933330875088,46.39764393912697],[15.66942860891618,46.39854153608371],[15.66554080455614,46.39874743707884],[15.66506466851069,46.39425942638206],[15.66636049848591,46.39419081503098],[15.66626526210393,46.3932932124369],[15.66885686991264,46.39315594541642],[15.66866632329987,46.3913607437658],[15.66737056401757,46.39142938244419],[15.66727531846607,46.39053177939508],[15.65820507025006,46.39101180237981],[15.65830016489122,46.39190941473578],[15.65959594520643,46.39184088567214],[15.65988131855573,46.39453371518454],[15.6559937745526,46.39473926735343],[15.65618391469656,46.39653449202564],[15.65488801756385,46.3966029807504],[15.65498307225494,46.39750059352292],[15.6536871505557,46.39756906791428],[15.65387722917131,46.39936429433192],[15.65517319400453,46.39929581728495],[15.65555348698069,46.40288625767704],[15.65814558019753,46.40274924596861],[15.65824070689428,46.40364685192384],[15.65953677056882,46.40357832124585]]],"type":"Polygon"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209449593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25409,46.1372,15.25409,46.1372",
+    "geom:latitude":46.1372,
+    "geom:longitude":15.25409,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Harje",
+    "gn:country_code":"SI",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199412,
+    "gn:latitude":46.1372,
+    "gn:longitude":15.25409,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Harje",
+    "gn:population":131,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199412,
+        "wk:page":"Harje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e3fe12779573d31c14034669deca96e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209449593
+        }
+    ],
+    "wof:id":1209449593,
+    "wof:lastmodified":1537573436,
+    "wof:name":"Harje",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":131,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25409,
+    46.1372,
+    15.25409,
+    46.1372
+],
+  "geometry": {"coordinates":[15.25409,46.1372],"type":"Point"}
+}

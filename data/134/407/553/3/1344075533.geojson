@@ -1,0 +1,70 @@
+{
+  "id": 1344075533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.30611,45.52806,15.30611,45.52806",
+    "geom:latitude":45.52806,
+    "geom:longitude":15.30611,
+    "gn:asciiname":"Purga",
+    "gn:country_code":"SI",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989879,
+    "gn:latitude":45.52806,
+    "gn:longitude":15.30611,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Purga",
+    "gn:population":31,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959699,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989879,
+        "wk:page":"Purga%2C_Slovenia"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ec74b9031b598179e9caadf9412285ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959699,
+            "locality_id":1344075533,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1344075533,
+    "wof:lastmodified":1537573555,
+    "wof:name":"Purga",
+    "wof:parent_id":1108959699,
+    "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.30611,
+    45.52806,
+    15.30611,
+    45.52806
+],
+  "geometry": {"coordinates":[15.30611,45.52806],"type":"Point"}
+}

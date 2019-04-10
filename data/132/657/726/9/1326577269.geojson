@@ -1,0 +1,71 @@
+{
+  "id": 1326577269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.19861,46.06028,14.19861,46.06028",
+    "geom:latitude":46.06028,
+    "geom:longitude":14.19861,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Dolge Njive",
+    "gn:country_code":"SI",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3214680,
+    "gn:latitude":46.06028,
+    "gn:longitude":14.19861,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Dolge Njive",
+    "gn:population":61,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959897,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3214680,
+        "wk:page":"Dolge_Njive%2C_Gorenja_Vas%E2%80%93Poljane"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d6385a6e0796d399089ac959a7f4e479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959897,
+            "locality_id":1326577269,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1326577269,
+    "wof:lastmodified":1537573454,
+    "wof:name":"Dolge Njive",
+    "wof:parent_id":1108959897,
+    "wof:placetype":"locality",
+    "wof:population":61,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.19861,
+    46.06028,
+    14.19861,
+    46.06028
+],
+  "geometry": {"coordinates":[14.19861,46.06028],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226796967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.04239,46.10662,14.04239,46.10662",
+    "geom:latitude":46.10662,
+    "geom:longitude":14.04239,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Podjelovo Brdo",
+    "gn:country_code":"SI",
+    "gn:dem":865,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987550,
+    "gn:latitude":46.10662,
+    "gn:longitude":14.04239,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Podjelovo Brdo",
+    "gn:population":134,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959897,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987550,
+        "wk:page":"Podjelovo_Brdo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"90e26a0b2c186a331cb21cb5f4ded82e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959897,
+            "locality_id":1226796967,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1226796967,
+    "wof:lastmodified":1537573483,
+    "wof:name":"Podjelovo Brdo",
+    "wof:parent_id":1108959897,
+    "wof:placetype":"locality",
+    "wof:population":134,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.04239,
+    46.10662,
+    14.04239,
+    46.10662
+],
+  "geometry": {"coordinates":[14.04239,46.10662],"type":"Point"}
+}

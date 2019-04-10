@@ -1,0 +1,71 @@
+{
+  "id": 1226477179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.01696,45.49923,15.01696,45.49923",
+    "geom:latitude":45.49923,
+    "geom:longitude":15.01696,
+    "gn:admin1_code":"H7",
+    "gn:asciiname":"Laze pri Predgradu",
+    "gn:country_code":"SI",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989155,
+    "gn:latitude":45.49923,
+    "gn:longitude":15.01696,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Laze pri Predgradu",
+    "gn:population":15,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959919,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989155,
+        "wk:page":"Laze_pri_Predgradu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"225cbb9aa5212ede4cd4a889b6f07b2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959919,
+            "locality_id":1226477179,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1226477179,
+    "wof:lastmodified":1537573533,
+    "wof:name":"Laze pri Predgradu",
+    "wof:parent_id":1108959919,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.01696,
+    45.49923,
+    15.01696,
+    45.49923
+],
+  "geometry": {"coordinates":[15.01696,45.49923],"type":"Point"}
+}

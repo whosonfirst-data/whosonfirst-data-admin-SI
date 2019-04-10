@@ -1,0 +1,74 @@
+{
+  "id": 1276758987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.57104,45.9963,13.57104,45.9963",
+    "geom:latitude":45.9963,
+    "geom:longitude":13.57104,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Snezatno",
+    "gn:country_code":"SI",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987879,
+    "gn:latitude":45.9963,
+    "gn:longitude":13.57104,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Sne\u017eatno",
+    "gn:population":94,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sne\u017eatno"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959811,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987879,
+        "wk:page":"Sne%C5%BEatno"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7e3a5ee05823831765435ff2c8769ea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959811,
+            "locality_id":1276758987,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1276758987,
+    "wof:lastmodified":1537700295,
+    "wof:name":"Snezatno",
+    "wof:parent_id":1108959811,
+    "wof:placetype":"locality",
+    "wof:population":94,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.57104,
+    45.9963,
+    13.57104,
+    45.9963
+],
+  "geometry": {"coordinates":[13.57104,45.9963],"type":"Point"}
+}

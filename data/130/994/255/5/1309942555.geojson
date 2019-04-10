@@ -1,0 +1,71 @@
+{
+  "id": 1309942555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.02282,45.96112,15.02282,45.96112",
+    "geom:latitude":45.96112,
+    "geom:longitude":15.02282,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Selska Gora",
+    "gn:country_code":"SI",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989890,
+    "gn:latitude":45.96112,
+    "gn:longitude":15.02282,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Selska Gora",
+    "gn:population":21,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959869,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989890,
+        "wk:page":"Selska_Gora"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"82c17ab7743965ee0281bd30128056b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959869,
+            "locality_id":1309942555,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1309942555,
+    "wof:lastmodified":1537573555,
+    "wof:name":"Selska Gora",
+    "wof:parent_id":1108959869,
+    "wof:placetype":"locality",
+    "wof:population":21,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.02282,
+    45.96112,
+    15.02282,
+    45.96112
+],
+  "geometry": {"coordinates":[15.02282,45.96112],"type":"Point"}
+}

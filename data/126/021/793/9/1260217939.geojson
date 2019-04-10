@@ -1,0 +1,71 @@
+{
+  "id": 1260217939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.29318,46.17933,14.29318,46.17933",
+    "geom:latitude":46.17933,
+    "geom:longitude":14.29318,
+    "gn:admin1_code":"B9",
+    "gn:asciiname":"Trnje",
+    "gn:country_code":"SI",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988095,
+    "gn:latitude":46.17933,
+    "gn:longitude":14.29318,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Trnje",
+    "gn:population":74,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959821,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988095,
+        "wk:page":"Trnje%2C_%C5%A0kofja_Loka"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fced7b93a50a31a6a5c63cda9c87ce5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959821,
+            "locality_id":1260217939,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1260217939,
+    "wof:lastmodified":1537573501,
+    "wof:name":"Trnje",
+    "wof:parent_id":1108959821,
+    "wof:placetype":"locality",
+    "wof:population":74,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.29318,
+    46.17933,
+    14.29318,
+    46.17933
+],
+  "geometry": {"coordinates":[14.29318,46.17933],"type":"Point"}
+}

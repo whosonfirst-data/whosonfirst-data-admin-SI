@@ -1,0 +1,119 @@
+{
+  "id": 1125975275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.33333,46.33333,14.33333,46.33333",
+    "geom:latitude":46.33333,
+    "geom:longitude":14.33333,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1017,
+    "gn:population":1063,
+    "iso:country":"SI",
+    "lbl:latitude":46.33333,
+    "lbl:longitude":14.33333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Golnik"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u043b\u043d\u0438\u043a"
+    ],
+    "name:dut_x_preferred":[
+        "Golnik"
+    ],
+    "name:eng_x_preferred":[
+        "Golnik"
+    ],
+    "name:hrv_x_preferred":[
+        "Golnik"
+    ],
+    "name:rum_x_preferred":[
+        "Golnik"
+    ],
+    "name:slv_x_preferred":[
+        "Golnik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u043b\u043d\u0456\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Golnik"
+    ],
+    "name:wel_x_preferred":[
+        "Golnik"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3200450,
+    "qs_pg:gn_pop":1017,
+    "qs_pg:name":"Golusnik",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Novo Mesto",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":529049,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":55849926,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Novo Mesto",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959933,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200450,
+        "gp:id":55849926,
+        "qs_pg:id":529049,
+        "wd:id":"Q1895190"
+    },
+    "wof:country":"SI",
+    "wof:created":1497298320,
+    "wof:geomhash":"66e64aabd1e0be503ca01e753e56f6fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959933,
+            "locality_id":1125975275,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1125975275,
+    "wof:lastmodified":1531171363,
+    "wof:name":"Golusnik",
+    "wof:parent_id":1108959933,
+    "wof:placetype":"locality",
+    "wof:population":1063,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.33333,
+    46.33333,
+    14.33333,
+    46.33333
+],
+  "geometry": {"coordinates":[14.33333,46.33333],"type":"Point"}
+}

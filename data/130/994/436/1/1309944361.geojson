@@ -1,0 +1,75 @@
+{
+  "id": 1309944361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.67056,45.49056,13.67056,45.49056",
+    "geom:latitude":45.49056,
+    "geom:longitude":13.67056,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Korte",
+    "gn:country_code":"SI",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216098,
+    "gn:latitude":45.49056,
+    "gn:longitude":13.67056,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Korte",
+    "gn:population":762,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dvori",
+        "Dvori nad Izolo",
+        "Korte"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959551,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216098
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"bbb88d676c5122b7c47c7483c22cde05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959551,
+            "locality_id":1309944361,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1309944361,
+    "wof:lastmodified":1537700269,
+    "wof:name":"Korte",
+    "wof:parent_id":1108959551,
+    "wof:placetype":"locality",
+    "wof:population":762,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.67056,
+    45.49056,
+    13.67056,
+    45.49056
+],
+  "geometry": {"coordinates":[13.67056,45.49056],"type":"Point"}
+}

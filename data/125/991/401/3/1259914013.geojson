@@ -1,0 +1,74 @@
+{
+  "id": 1259914013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.67973,46.23643,14.67973,46.23643",
+    "geom:latitude":46.23643,
+    "geom:longitude":14.67973,
+    "gn:admin1_code":"H6",
+    "gn:asciiname":"Rozicno",
+    "gn:country_code":"SI",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987551,
+    "gn:latitude":46.23643,
+    "gn:longitude":14.67973,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ro\u017ei\u010dno",
+    "gn:population":134,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ro\u017ei\u010dno"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959941,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987551,
+        "wk:page":"Ro%C5%BEi%C4%8Dno"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8f48c3fc812efaf2dfff26d65033ef4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959941,
+            "locality_id":1259914013,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1259914013,
+    "wof:lastmodified":1537700288,
+    "wof:name":"Rozicno",
+    "wof:parent_id":1108959941,
+    "wof:placetype":"locality",
+    "wof:population":134,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.67973,
+    46.23643,
+    14.67973,
+    46.23643
+],
+  "geometry": {"coordinates":[14.67973,46.23643],"type":"Point"}
+}

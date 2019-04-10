@@ -1,0 +1,75 @@
+{
+  "id": 1276479313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.59194,45.9375,14.59194,45.9375",
+    "geom:latitude":45.9375,
+    "geom:longitude":14.59194,
+    "gn:admin1_code":"C1",
+    "gn:asciiname":"Smrjene",
+    "gn:country_code":"SI",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190433,
+    "gn:latitude":45.9375,
+    "gn:longitude":14.59194,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Smrjene",
+    "gn:population":732,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Smerjene",
+        "Smrjene"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959891,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190433,
+        "wk:page":"Smrjene"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3ddfec943db362346512ae1b0b1d9822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959891,
+            "locality_id":1276479313,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1276479313,
+    "wof:lastmodified":1537700190,
+    "wof:name":"Smrjene",
+    "wof:parent_id":1108959891,
+    "wof:placetype":"locality",
+    "wof:population":732,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.59194,
+    45.9375,
+    14.59194,
+    45.9375
+],
+  "geometry": {"coordinates":[14.59194,45.9375],"type":"Point"}
+}

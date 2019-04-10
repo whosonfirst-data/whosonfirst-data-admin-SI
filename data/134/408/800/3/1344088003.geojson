@@ -1,0 +1,71 @@
+{
+  "id": 1344088003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.13643,45.76834,14.13643,45.76834",
+    "geom:latitude":45.76834,
+    "geom:longitude":14.13643,
+    "gn:admin1_code":"94",
+    "gn:asciiname":"Dilce",
+    "gn:country_code":"SI",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987490,
+    "gn:latitude":45.76834,
+    "gn:longitude":14.13643,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Dilce",
+    "gn:population":143,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959559,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987490,
+        "wk:page":"Dilce"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b0832190642d6e8ec2374f0d60430fa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959559,
+            "locality_id":1344088003,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1344088003,
+    "wof:lastmodified":1537573481,
+    "wof:name":"Dilce",
+    "wof:parent_id":1108959559,
+    "wof:placetype":"locality",
+    "wof:population":143,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.13643,
+    45.76834,
+    14.13643,
+    45.76834
+],
+  "geometry": {"coordinates":[14.13643,45.76834],"type":"Point"}
+}

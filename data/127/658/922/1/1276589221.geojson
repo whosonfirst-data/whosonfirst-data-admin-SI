@@ -1,0 +1,71 @@
+{
+  "id": 1276589221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.33812,45.87064,15.33812,45.87064",
+    "geom:latitude":45.87064,
+    "geom:longitude":15.33812,
+    "gn:admin1_code":"B4",
+    "gn:asciiname":"Drama",
+    "gn:country_code":"SI",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987873,
+    "gn:latitude":45.87064,
+    "gn:longitude":15.33812,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Drama",
+    "gn:population":95,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959937,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987873,
+        "wk:page":"Drama%2C_%C5%A0entjernej"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6e67753f1be7744bdb22945674677240",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959937,
+            "locality_id":1276589221,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1276589221,
+    "wof:lastmodified":1537573494,
+    "wof:name":"Drama",
+    "wof:parent_id":1108959937,
+    "wof:placetype":"locality",
+    "wof:population":95,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.33812,
+    45.87064,
+    15.33812,
+    45.87064
+],
+  "geometry": {"coordinates":[15.33812,45.87064],"type":"Point"}
+}

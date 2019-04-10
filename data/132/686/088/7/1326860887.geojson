@@ -1,0 +1,71 @@
+{
+  "id": 1326860887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.57194,45.95111,14.57194,45.95111",
+    "geom:latitude":45.95111,
+    "geom:longitude":14.57194,
+    "gn:admin1_code":"C1",
+    "gn:asciiname":"Pijava Gorica",
+    "gn:country_code":"SI",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193371,
+    "gn:latitude":45.95111,
+    "gn:longitude":14.57194,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Pijava Gorica",
+    "gn:population":766,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959891,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193371,
+        "wk:page":"Pijava_Gorica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"56eb421d96d3e96bcccebb808da3a1ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959891,
+            "locality_id":1326860887,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1326860887,
+    "wof:lastmodified":1537573414,
+    "wof:name":"Pijava Gorica",
+    "wof:parent_id":1108959891,
+    "wof:placetype":"locality",
+    "wof:population":766,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.57194,
+    45.95111,
+    14.57194,
+    45.95111
+],
+  "geometry": {"coordinates":[14.57194,45.95111],"type":"Point"}
+}

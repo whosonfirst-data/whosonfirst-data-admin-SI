@@ -1,0 +1,71 @@
+{
+  "id": 1226376641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.16551,46.00218,15.16551,46.00218",
+    "geom:latitude":46.00218,
+    "geom:longitude":15.16551,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Koludrje",
+    "gn:country_code":"SI",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988455,
+    "gn:latitude":46.00218,
+    "gn:longitude":15.16551,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Koludrje",
+    "gn:population":49,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988455,
+        "wk:page":"Koludrje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b675c5c5be01de56dfead4d2d4a401d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1226376641,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1226376641,
+    "wof:lastmodified":1537573512,
+    "wof:name":"Koludrje",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":49,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.16551,
+    46.00218,
+    15.16551,
+    46.00218
+],
+  "geometry": {"coordinates":[15.16551,46.00218],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259663201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.48106,45.84996,14.48106,45.84996",
+    "geom:latitude":45.84996,
+    "geom:longitude":14.48106,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Tavzlje",
+    "gn:country_code":"SI",
+    "gn:dem":808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989106,
+    "gn:latitude":45.84996,
+    "gn:longitude":14.48106,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Tav\u017elje",
+    "gn:population":17,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tav\u017elje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959905,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989106,
+        "wk:page":"Tav%C5%BElje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f20d8589c65f825ca3654e2ab3f319a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959905,
+            "locality_id":1259663201,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1259663201,
+    "wof:lastmodified":1537700319,
+    "wof:name":"Tavzlje",
+    "wof:parent_id":1108959905,
+    "wof:placetype":"locality",
+    "wof:population":17,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.48106,
+    45.84996,
+    14.48106,
+    45.84996
+],
+  "geometry": {"coordinates":[14.48106,45.84996],"type":"Point"}
+}

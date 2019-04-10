@@ -1,0 +1,74 @@
+{
+  "id": 1293237737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.74798,45.94406,14.74798,45.94406",
+    "geom:latitude":45.94406,
+    "geom:longitude":14.74798,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Pristava pri Visnji Gori",
+    "gn:country_code":"SI",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989880,
+    "gn:latitude":45.94406,
+    "gn:longitude":14.74798,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Pristava pri Vi\u0161nji Gori",
+    "gn:population":30,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pristava pri Vi\u0161nji Gori"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959583,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989880,
+        "wk:page":"Pristava_pri_Vi%C5%A1nji_Gori"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"143507f72ca0fd134d89e03e4d94bb8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959583,
+            "locality_id":1293237737,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1293237737,
+    "wof:lastmodified":1537700335,
+    "wof:name":"Pristava pri Visnji Gori",
+    "wof:parent_id":1108959583,
+    "wof:placetype":"locality",
+    "wof:population":30,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.74798,
+    45.94406,
+    14.74798,
+    45.94406
+],
+  "geometry": {"coordinates":[14.74798,45.94406],"type":"Point"}
+}

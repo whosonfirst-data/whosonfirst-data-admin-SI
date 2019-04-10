@@ -1,0 +1,71 @@
+{
+  "id": 1243001827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.80177,46.11094,14.80177,46.11094",
+    "geom:latitude":46.11094,
+    "geom:longitude":14.80177,
+    "gn:admin1_code":"I5",
+    "gn:asciiname":"Zapodje",
+    "gn:country_code":"SI",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989073,
+    "gn:latitude":46.11094,
+    "gn:longitude":14.80177,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Zapodje",
+    "gn:population":19,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959907,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989073,
+        "wk:page":"Zapodje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9d9d188c54e3edf16ed28004a18b42ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959907,
+            "locality_id":1243001827,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1243001827,
+    "wof:lastmodified":1537573531,
+    "wof:name":"Zapodje",
+    "wof:parent_id":1108959907,
+    "wof:placetype":"locality",
+    "wof:population":19,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.80177,
+    46.11094,
+    14.80177,
+    46.11094
+],
+  "geometry": {"coordinates":[14.80177,46.11094],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209451355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.06639,46.77639,16.06639,46.77639",
+    "geom:latitude":46.77639,
+    "geom:longitude":16.06639,
+    "gn:admin1_code":"G8",
+    "gn:asciiname":"Motovilci",
+    "gn:country_code":"SI",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194803,
+    "gn:latitude":46.77639,
+    "gn:longitude":16.06639,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Motovilci",
+    "gn:population":273,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mottyol\u00e1d",
+        "Mottoly\u00e1d",
+        "Motovilci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194803,
+        "wk:page":"Motovilci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d4269605949527962a7f25359a389a9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209451355
+        }
+    ],
+    "wof:id":1209451355,
+    "wof:lastmodified":1537700217,
+    "wof:name":"Motovilci",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":273,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.06639,
+    46.77639,
+    16.06639,
+    46.77639
+],
+  "geometry": {"coordinates":[16.06639,46.77639],"type":"Point"}
+}

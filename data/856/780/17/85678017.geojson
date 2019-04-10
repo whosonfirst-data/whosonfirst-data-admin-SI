@@ -1,0 +1,216 @@
+{
+  "id": 85678017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.056448,
+    "geom:area_square_m":488667036.273032,
+    "geom:bbox":"14.0871818377,45.4728844205,14.4915018292,45.6721996124",
+    "geom:latitude":45.564427,
+    "geom:longitude":14.281661,
+    "gn:population":13911,
+    "iso:country":"SI",
+    "lbl:latitude":45.567778,
+    "lbl:longitude":14.298019,
+    "mps:latitude":45.567778,
+    "mps:longitude":14.298019,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0625\u064a\u0644\u064a\u0631\u0633\u0643\u0627 \u0628\u064a\u062a\u0631\u064a\u0633\u0627"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u010dina Ilirska Bistrica"
+    ],
+    "name:eng_x_preferred":[
+        "Ilirska Bistrica"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0644\u06cc\u0631\u0633\u06a9\u0627 \u0628\u06cc\u062a\u0631\u06cc\u062a\u0633\u0627"
+    ],
+    "name:hbs_x_preferred":[
+        "Ilirska Bistrica"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Ilirska Bistrica"
+    ],
+    "name:ita_x_preferred":[
+        "Bisterza"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30ea\u30eb\u30b9\u30ab\u30fb\u30d3\u30b9\u30c8\u30ea\u30c4\u30a1"
+    ],
+    "name:kor_x_preferred":[
+        "\uc77c\ub9ac\ub974\uc2a4\uce74\ube44\uc2a4\ud2b8\ub9ac\ucc28"
+    ],
+    "name:lat_x_preferred":[
+        "Bistertia Illyrica"
+    ],
+    "name:nld_x_preferred":[
+        "Ilirska Bistrica"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Ilirska Bistrica"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Ilirska Bistrica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043b\u0438\u0440\u0441\u043a\u0430-\u0411\u0438\u0441\u0442\u0440\u0438\u0446\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Ilirska Bistrica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0418\u043b\u0438\u0440\u0441\u043a\u0430 \u0411\u0438\u0441\u0442\u0440\u0438\u0446\u0430"
+    ],
+    "name:srp_x_variant":[
+        "\u0418\u043b\u0438\u0440\u0441\u043a\u0430 \u0411\u0438\u0441\u0442\u0440\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u043b\u0456\u0440\u0441\u044c\u043a\u0430 \u0411\u0438\u0441\u0442\u0440\u0438\u0446\u044f"
+    ],
+    "name:und_x_preferred":[
+        "Ilirska Bistrica"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Ilirska Bistrica"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u5229\u723e\u65af\u5361\u6bd4\u65af\u7279\u91cc\u5bdf"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-954",
+    "ne:adm1_code":"SVN-954",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SI.NO.IB",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"954",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SI38",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.38",
+    "ne:gn_id":"3199130",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Ilirska Bistrica",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI38",
+    "ne:gns_id":"-82934",
+    "ne:gns_lang":"sqi",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Ilirska Bistrica, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"45.56780000000",
+    "ne:longitude":"14.28910000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Ilirska Bistrica",
+    "ne:name_alt":"",
+    "ne:name_len":16,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"IB",
+    "ne:provnum_ne":"87",
+    "ne:region":"Notranjsko-kra\u0161ka",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":55848352,
+    "ne:woe_label":"Ilirska Bistrica, SI, Slovenia",
+    "ne:woe_name":"Ilirska Bistrica",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Ilirska Bistrica",
+    "qs:a1_lc":"SVN-954",
+    "qs:a1r":"Notranjsko-kra\u0161ka",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "unlc:subdivision":"SI-038",
+    "wd:wordcount":107,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SI38",
+        "gn:id":3199130,
+        "gp:id":55848352,
+        "hasc:id":"SI.NO.IB",
+        "qs:id":1293114,
+        "unlc:id":"SI-038",
+        "wd:id":"Q13377784",
+        "wk:page":"Municipality of Ilirska Bistrica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b8d263aa8c5711095e9ea38554af03bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85678017
+        }
+    ],
+    "wof:id":85678017,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616733,
+    "wof:name":"Ilirska Bistrica",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:population":13911,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:shortcode":"IB",
+    "wof:subdivision":"SI-038",
+    "wof:superseded_by":[
+        1108959873
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.08718183767172,
+    45.47288442047966,
+    14.49150182924609,
+    45.67219961242222
+],
+  "geometry": {"coordinates":[[[14.42623091022836,45.64403595579478],[14.42251020718038,45.62390798626461],[14.42189008955603,45.61687999131857],[14.42809126130271,45.60866343796732],[14.44126875205131,45.60000763594371],[14.44390425038091,45.59463328739633],[14.44343916238751,45.58763113087207],[14.43816816572831,45.58298025183723],[14.43894331208423,45.58073232713525],[14.44938195171574,45.57980215114839],[14.46038903212821,45.58016388635434],[14.46798546695578,45.57892365200502],[14.47403160997089,45.58042226787342],[14.48069786971098,45.57985382709251],[14.48813927580699,45.58021556319773],[14.49103315565566,45.57931122473326],[14.49150182924609,45.57916476384281],[14.48741499870329,45.55660024040884],[14.48214400204409,45.54244089862863],[14.46891483535143,45.52559438167543],[14.42974410011016,45.50538889598084],[14.4112439367583,45.49319325806249],[14.37279667102962,45.47784535787702],[14.32680464641737,45.4748998011849],[14.2803992106551,45.48110097293159],[14.24060835778954,45.4933482885927],[14.21869755065148,45.49717234442818],[14.19306604046545,45.49190134686972],[14.14552372224205,45.47624338832179],[14.11968550648101,45.47288442047966],[14.1173207121812,45.47297572504971],[14.1167470157622,45.47299787535172],[14.11679243332418,45.47321950877335],[14.11808434361762,45.47952403420686],[14.11823937324851,45.49179718739032],[14.11214155428934,45.50135732697913],[14.10749067615382,45.50476797076527],[14.08919721837697,45.51528412476262],[14.08718183767172,45.51799713835732],[14.09446821503616,45.5311746282066],[14.10268476658877,45.55039826107094],[14.1048551769249,45.56032013586565],[14.10563032418014,45.56595286683137],[14.09958418116508,45.56866588042607],[14.09369306778092,45.56745148449846],[14.09043745272629,45.57019033471624],[14.08950727673948,45.57468618412014],[14.09369306778092,45.58654592525431],[14.09911909317168,45.5940648457161],[14.10221967859536,45.60145457586805],[14.10454511856244,45.60471019092262],[14.08981733600132,45.6140894642574],[14.09059248235724,45.62424388304879],[14.10283979711897,45.62279694312446],[14.11028120321498,45.62600088223496],[14.1275411313182,45.63039337795209],[14.15188073121084,45.6314269067264],[14.19410037593167,45.62951487880866],[14.21564944786377,45.6313235539389],[14.22670820511962,45.63333893554352],[14.23787031426366,45.6406769879527],[14.24655195470899,45.6441393094816],[14.28551598527457,45.65504303620719],[14.31698693200138,45.65948721056634],[14.32830407077631,45.66387970628347],[14.33078453857564,45.66760041023082],[14.3284591004072,45.67064931881106],[14.33264489144864,45.67188955316038],[14.34726932122226,45.67219961242222],[14.36912845241619,45.65969391524203],[14.37858523921744,45.65199412672763],[14.42623091022836,45.64403595579478]]],"type":"Polygon"}
+}

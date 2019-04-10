@@ -1,0 +1,74 @@
+{
+  "id": 1276796285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.98466,45.88764,14.98466,45.88764",
+    "geom:latitude":45.88764,
+    "geom:longitude":14.98466,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Stranje pri Dobrnicu",
+    "gn:country_code":"SI",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989638,
+    "gn:latitude":45.88764,
+    "gn:longitude":14.98466,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Stranje pri Dobrni\u010du",
+    "gn:population":21,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stranje pri Dobrni\u010du"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959839,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989638,
+        "wk:page":"Stranje_pri_Dobrni%C4%8Du"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"885589c6703b595c1875066046d72601",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959839,
+            "locality_id":1276796285,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1276796285,
+    "wof:lastmodified":1537700330,
+    "wof:name":"Stranje pri Dobrnicu",
+    "wof:parent_id":1108959839,
+    "wof:placetype":"locality",
+    "wof:population":21,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.98466,
+    45.88764000000001,
+    14.98466,
+    45.88764000000001
+],
+  "geometry": {"coordinates":[14.98466,45.88764000000001],"type":"Point"}
+}

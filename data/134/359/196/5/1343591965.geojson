@@ -1,0 +1,71 @@
+{
+  "id": 1343591965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.52813,46.2059,14.52813,46.2059",
+    "geom:latitude":46.2059,
+    "geom:longitude":14.52813,
+    "gn:admin1_code":"H8",
+    "gn:asciiname":"Potok pri Komendi",
+    "gn:country_code":"SI",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989871,
+    "gn:latitude":46.2059,
+    "gn:longitude":14.52813,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Potok pri Komendi",
+    "gn:population":44,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959837,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989871,
+        "wk:page":"Potok_pri_Komendi"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"bd4e5264829636b4fc4d1075a44d054f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959837,
+            "locality_id":1343591965,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1343591965,
+    "wof:lastmodified":1537573555,
+    "wof:name":"Potok pri Komendi",
+    "wof:parent_id":1108959837,
+    "wof:placetype":"locality",
+    "wof:population":44,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.52813,
+    46.2059,
+    14.52813,
+    46.2059
+],
+  "geometry": {"coordinates":[14.52813,46.2059],"type":"Point"}
+}

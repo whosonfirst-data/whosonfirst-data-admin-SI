@@ -1,0 +1,71 @@
+{
+  "id": 1276373989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.90944,46.63139,15.90944,46.63139",
+    "geom:latitude":46.63139,
+    "geom:longitude":15.90944,
+    "gn:admin1_code":"F4",
+    "gn:asciiname":"Ihova",
+    "gn:country_code":"SI",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3199149,
+    "gn:latitude":46.63139,
+    "gn:longitude":15.90944,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Ihova",
+    "gn:population":292,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959829,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199149,
+        "wk:page":"Ihova"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0486a6bd92fae732e26a19666561b84b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959829,
+            "locality_id":1276373989,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1276373989,
+    "wof:lastmodified":1537573434,
+    "wof:name":"Ihova",
+    "wof:parent_id":1108959829,
+    "wof:placetype":"locality",
+    "wof:population":292,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.90944,
+    46.63139,
+    15.90944,
+    46.63139
+],
+  "geometry": {"coordinates":[15.90944,46.63139],"type":"Point"}
+}

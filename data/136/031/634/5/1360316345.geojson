@@ -1,0 +1,71 @@
+{
+  "id": 1360316345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.43864,46.17888,15.43864,46.17888",
+    "geom:latitude":46.17888,
+    "geom:longitude":15.43864,
+    "gn:admin1_code":"L7",
+    "gn:asciiname":"Turno",
+    "gn:country_code":"SI",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987638,
+    "gn:latitude":46.17888,
+    "gn:longitude":15.43864,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Turno",
+    "gn:population":121,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959791,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987638,
+        "wk:page":"Turno%2C_%C5%A0entjur"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"55ab6a297f15ab32d80641e7b3d56ec1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959791,
+            "locality_id":1360316345,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1360316345,
+    "wof:lastmodified":1537573486,
+    "wof:name":"Turno",
+    "wof:parent_id":1108959791,
+    "wof:placetype":"locality",
+    "wof:population":121,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.43864,
+    46.17888,
+    15.43864,
+    46.17888
+],
+  "geometry": {"coordinates":[15.43864,46.17888],"type":"Point"}
+}

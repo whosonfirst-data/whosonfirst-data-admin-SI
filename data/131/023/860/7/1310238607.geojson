@@ -1,0 +1,74 @@
+{
+  "id": 1310238607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.95194,45.89972,14.95194,45.89972",
+    "geom:latitude":45.89972,
+    "geom:longitude":14.95194,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Knezja Vas",
+    "gn:country_code":"SI",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197990,
+    "gn:latitude":45.89972,
+    "gn:longitude":14.95194,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kne\u017eja Vas",
+    "gn:population":71,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kne\u017eja Vas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959839,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197990,
+        "wk:page":"Kne%C5%BEja_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"516b8da1ee3a2d00ee0f6470767bb0e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959839,
+            "locality_id":1310238607,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1310238607,
+    "wof:lastmodified":1537700232,
+    "wof:name":"Knezja Vas",
+    "wof:parent_id":1108959839,
+    "wof:placetype":"locality",
+    "wof:population":71,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.95194,
+    45.89972,
+    14.95194,
+    45.89972
+],
+  "geometry": {"coordinates":[14.95194,45.89972],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293822161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.72851,45.88129,13.72851,45.88129",
+    "geom:latitude":45.88129,
+    "geom:longitude":13.72851,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Brdo",
+    "gn:country_code":"SI",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988187,
+    "gn:latitude":45.88129,
+    "gn:longitude":13.72851,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Brdo",
+    "gn:population":66,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959487,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988187,
+        "wk:page":"Brdo%2C_Nova_Gorica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5206979443189bf5046d7949735fe549",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959487,
+            "locality_id":1293822161,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1293822161,
+    "wof:lastmodified":1537573504,
+    "wof:name":"Brdo",
+    "wof:parent_id":1108959487,
+    "wof:placetype":"locality",
+    "wof:population":66,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.72851,
+    45.88129,
+    13.72851,
+    45.88129
+],
+  "geometry": {"coordinates":[13.72851,45.88129],"type":"Point"}
+}

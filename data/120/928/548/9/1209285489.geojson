@@ -1,0 +1,65 @@
+{
+  "id": 1209285489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.01108,46.14822,14.01108,46.14822",
+    "geom:latitude":46.14822,
+    "geom:longitude":14.01108,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Poljane",
+    "gn:country_code":"SI",
+    "gn:dem":650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989834,
+    "gn:latitude":46.14822,
+    "gn:longitude":14.01108,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Poljane",
+    "gn:population":69,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989834,
+        "wk:page":"Poljane%2C_Cerkno"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"de8137aeeefcfcfa1015ae25fcc98d59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209285489
+        }
+    ],
+    "wof:id":1209285489,
+    "wof:lastmodified":1537573554,
+    "wof:name":"Poljane",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":69,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.01108,
+    46.14822,
+    14.01108,
+    46.14822
+],
+  "geometry": {"coordinates":[14.01108,46.14822],"type":"Point"}
+}

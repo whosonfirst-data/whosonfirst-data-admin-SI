@@ -1,0 +1,71 @@
+{
+  "id": 1343595473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.53611,46.22694,15.53611,46.22694",
+    "geom:latitude":46.22694,
+    "geom:longitude":15.53611,
+    "gn:admin1_code":"C5",
+    "gn:asciiname":"Korpule",
+    "gn:country_code":"SI",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988161,
+    "gn:latitude":46.22694,
+    "gn:longitude":15.53611,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Korpule",
+    "gn:population":69,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959607,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988161,
+        "wk:page":"Korpule"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b62a72f4339d0ac79b4d5e84044a02f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959607,
+            "locality_id":1343595473,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1343595473,
+    "wof:lastmodified":1537573504,
+    "wof:name":"Korpule",
+    "wof:parent_id":1108959607,
+    "wof:placetype":"locality",
+    "wof:population":69,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.53611,
+    46.22694,
+    15.53611,
+    46.22694
+],
+  "geometry": {"coordinates":[15.53611,46.22694],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1326493729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.1581,45.58013,15.1581,45.58013",
+    "geom:latitude":45.58013,
+    "geom:longitude":15.1581,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Zajcji Vrh",
+    "gn:country_code":"SI",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989896,
+    "gn:latitude":45.58013,
+    "gn:longitude":15.1581,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Zaj\u010dji Vrh",
+    "gn:population":17,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zaj\u010dji Vrh"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959699,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989896,
+        "wk:page":"Zaj%C4%8Dji_Vrh"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6c391b4c256a1834d55194ab0c7e0e9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959699,
+            "locality_id":1326493729,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1326493729,
+    "wof:lastmodified":1537700335,
+    "wof:name":"Zajcji Vrh",
+    "wof:parent_id":1108959699,
+    "wof:placetype":"locality",
+    "wof:population":17,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.1581,
+    45.58013,
+    15.1581,
+    45.58013
+],
+  "geometry": {"coordinates":[15.1581,45.58013],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1344093253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.89528,45.74583,13.89528,45.74583",
+    "geom:latitude":45.74583,
+    "geom:longitude":13.89528,
+    "gn:admin1_code":"B7",
+    "gn:asciiname":"Grahovo Brdo",
+    "gn:country_code":"SI",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199665,
+    "gn:latitude":45.74583,
+    "gn:longitude":13.89528,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Grahovo Brdo",
+    "gn:population":40,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gracovo",
+        "Grahoro Brdo",
+        "Grahovo Brdo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959789,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199665,
+        "wk:page":"Grahovo_Brdo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e08dde2a3b1d301a200c16dcd9e312ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959789,
+            "locality_id":1344093253,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1344093253,
+    "wof:lastmodified":1537700241,
+    "wof:name":"Grahovo Brdo",
+    "wof:parent_id":1108959789,
+    "wof:placetype":"locality",
+    "wof:population":40,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.89528,
+    45.74583,
+    13.89528,
+    45.74583
+],
+  "geometry": {"coordinates":[13.89528,45.74583],"type":"Point"}
+}

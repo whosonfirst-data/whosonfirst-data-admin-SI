@@ -1,0 +1,74 @@
+{
+  "id": 1327066289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.2455,46.30395,14.2455,46.30395",
+    "geom:latitude":46.30395,
+    "geom:longitude":14.2455,
+    "gn:admin1_code":"A3",
+    "gn:asciiname":"Zalose",
+    "gn:country_code":"SI",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987988,
+    "gn:latitude":46.30395,
+    "gn:longitude":14.2455,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Zalo\u0161e",
+    "gn:population":84,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zalo\u0161e"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959825,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987988,
+        "wk:page":"Zalo%C5%A1e"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9b4027640a96911267234c920ab13db1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959825,
+            "locality_id":1327066289,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1327066289,
+    "wof:lastmodified":1537700297,
+    "wof:name":"Zalose",
+    "wof:parent_id":1108959825,
+    "wof:placetype":"locality",
+    "wof:population":84,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.2455,
+    46.30395,
+    14.2455,
+    46.30395
+],
+  "geometry": {"coordinates":[14.2455,46.30395],"type":"Point"}
+}

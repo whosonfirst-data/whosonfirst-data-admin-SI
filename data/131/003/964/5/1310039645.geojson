@@ -1,0 +1,74 @@
+{
+  "id": 1310039645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.22091,45.96113,14.22091,45.96113",
+    "geom:latitude":45.96113,
+    "geom:longitude":14.22091,
+    "gn:admin1_code":"E5",
+    "gn:asciiname":"Marincev Gric",
+    "gn:country_code":"SI",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989884,
+    "gn:latitude":45.96113,
+    "gn:longitude":14.22091,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Marin\u010dev Gri\u010d",
+    "gn:population":28,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marin\u010dev Gri\u010d"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959851,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989884,
+        "wk:page":"Marin%C4%8Dev_Gri%C4%8D"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"22fa03a555b4a7646decd1f46bb1d24a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959851,
+            "locality_id":1310039645,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1310039645,
+    "wof:lastmodified":1537700335,
+    "wof:name":"Marincev Gric",
+    "wof:parent_id":1108959851,
+    "wof:placetype":"locality",
+    "wof:population":28,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.22091,
+    45.96113,
+    14.22091,
+    45.96113
+],
+  "geometry": {"coordinates":[14.22091,45.96113],"type":"Point"}
+}

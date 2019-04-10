@@ -1,0 +1,75 @@
+{
+  "id": 1226377381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.92369,46.67196,15.92369,46.67196",
+    "geom:latitude":46.67196,
+    "geom:longitude":15.92369,
+    "gn:admin1_code":"N9",
+    "gn:asciiname":"Plitvica",
+    "gn:country_code":"SI",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193174,
+    "gn:latitude":46.67196,
+    "gn:longitude":15.92369,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Plitvica",
+    "gn:population":106,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Plitvice",
+        "Plitvica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959667,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193174,
+        "wk:page":"Plitvica%2C_Apa%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"de1abc39886555a6e50d8546cecc72f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959667,
+            "locality_id":1226377381,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1226377381,
+    "wof:lastmodified":1537700209,
+    "wof:name":"Plitvica",
+    "wof:parent_id":1108959667,
+    "wof:placetype":"locality",
+    "wof:population":106,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.92369,
+    46.67196,
+    15.92369,
+    46.67196
+],
+  "geometry": {"coordinates":[15.92369,46.67196],"type":"Point"}
+}

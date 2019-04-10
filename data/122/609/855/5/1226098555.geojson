@@ -1,0 +1,75 @@
+{
+  "id": 1226098555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.73306,46.09139,14.73306,46.09139",
+    "geom:latitude":46.09139,
+    "geom:longitude":14.73306,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Senozeti",
+    "gn:country_code":"SI",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191042,
+    "gn:latitude":46.09139,
+    "gn:longitude":14.73306,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Seno\u017eeti",
+    "gn:population":759,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seno\u017eet",
+        "Seno\u017eeti"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959861,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191042,
+        "wk:page":"Seno%C5%BEeti%2C_Dol_pri_Ljubljani"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9c732312b5c86a6f335fd5d6a1f9effd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959861,
+            "locality_id":1226098555,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1226098555,
+    "wof:lastmodified":1537700195,
+    "wof:name":"Senozeti",
+    "wof:parent_id":1108959861,
+    "wof:placetype":"locality",
+    "wof:population":759,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.73306,
+    46.09139,
+    14.73306,
+    46.09139
+],
+  "geometry": {"coordinates":[14.73306,46.09139],"type":"Point"}
+}

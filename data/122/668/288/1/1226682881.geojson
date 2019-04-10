@@ -1,0 +1,71 @@
+{
+  "id": 1226682881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.40341,45.93218,15.40341,45.93218",
+    "geom:latitude":45.93218,
+    "geom:longitude":15.40341,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Dedni Vrh",
+    "gn:country_code":"SI",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989354,
+    "gn:latitude":45.93218,
+    "gn:longitude":15.40341,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Dedni Vrh",
+    "gn:population":5,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989354,
+        "wk:page":"Dedni_Vrh%2C_Kr%C5%A1ko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0c949c9f6a0da13c726c59555a5dcfe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1226682881,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1226682881,
+    "wof:lastmodified":1537573539,
+    "wof:name":"Dedni Vrh",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.40341,
+    45.93218,
+    15.40341,
+    45.93218
+],
+  "geometry": {"coordinates":[15.40341,45.93218],"type":"Point"}
+}

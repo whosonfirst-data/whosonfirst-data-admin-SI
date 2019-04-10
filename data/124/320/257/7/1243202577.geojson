@@ -1,0 +1,74 @@
+{
+  "id": 1243202577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.49531,46.34763,15.49531,46.34763",
+    "geom:latitude":46.34763,
+    "geom:longitude":15.49531,
+    "gn:admin1_code":"C4",
+    "gn:asciiname":"Spodnje Grusovje",
+    "gn:country_code":"SI",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987266,
+    "gn:latitude":46.34763,
+    "gn:longitude":15.49531,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Spodnje Gru\u0161ovje",
+    "gn:population":197,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Spodnje Gru\u0161ovje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959753,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987266,
+        "wk:page":"Spodnje_Gru%C5%A1ovje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d87d2985c9a2a96b2c012db435e716c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959753,
+            "locality_id":1243202577,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1243202577,
+    "wof:lastmodified":1537700283,
+    "wof:name":"Spodnje Grusovje",
+    "wof:parent_id":1108959753,
+    "wof:placetype":"locality",
+    "wof:population":197,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.49531,
+    46.34763,
+    15.49531,
+    46.34763
+],
+  "geometry": {"coordinates":[15.49531,46.34763],"type":"Point"}
+}

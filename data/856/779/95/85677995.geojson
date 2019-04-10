@@ -1,0 +1,167 @@
+{
+  "id": 85677995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.010812,
+    "geom:area_square_m":92383184.264104,
+    "geom:bbox":"14.703991733,46.2528618427,14.8770044288,46.3433731154",
+    "geom:latitude":46.291242,
+    "geom:longitude":14.791854,
+    "iso:country":"SI",
+    "lbl:latitude":46.297751,
+    "lbl:longitude":14.793502,
+    "mps:latitude":46.297751,
+    "mps:longitude":14.793502,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:bos_x_preferred":[
+        "Gornji Grad"
+    ],
+    "name:ces_x_preferred":[
+        "Gornji Grad"
+    ],
+    "name:deu_x_preferred":[
+        "Gornji Grad"
+    ],
+    "name:eng_x_preferred":[
+        "Gornji Grad"
+    ],
+    "name:fra_x_preferred":[
+        "Gornji Grad"
+    ],
+    "name:nld_x_preferred":[
+        "Gornji Grad"
+    ],
+    "name:slv_x_preferred":[
+        "Gornji Grad"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0438 \u0433\u0440\u0430\u0434"
+    ],
+    "name:und_x_preferred":[
+        "Mozirje"
+    ],
+    "name:unk_x_variant":[
+        "Ob\u010dina Gornji Grad"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-949",
+    "ne:adm1_code":"SVN-949",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SI.SA.GG",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"949",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SI30",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.30",
+    "ne:gn_id":"3239133",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Gornji Grad",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI30",
+    "ne:gns_id":"243737",
+    "ne:gns_lang":"slv",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Gornji Grad, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"46.29720000000",
+    "ne:longitude":"14.79050000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Gornji Grad",
+    "ne:name_alt":"",
+    "ne:name_len":11,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"GG",
+    "ne:provnum_ne":"116",
+    "ne:region":"Savinjska",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":-55848369,
+    "ne:woe_label":"",
+    "ne:woe_name":"",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Gornji Grad",
+    "qs:a1_lc":"SVN-949",
+    "qs:a1r":"Savinjska",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "qs:woeid":55848369,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "unlc:subdivision":"SI-030",
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SI30",
+        "gn:id":3239133,
+        "gp:id":-55848369,
+        "hasc:id":"SI.SA.GG",
+        "unlc:id":"SI-030"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c2053d66c415b7315eb12484cf938b22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677995
+        }
+    ],
+    "wof:id":85677995,
+    "wof:lastmodified":1536616733,
+    "wof:name":"Gornji Grad",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:shortcode":"GG",
+    "wof:subdivision":"SI-030",
+    "wof:superseded_by":[
+        1108959547
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.70399173303213,
+    46.25286184269993,
+    14.8770044288114,
+    46.34337311537701
+],
+  "geometry": {"coordinates":[[[14.8669275243858,46.31554535643312],[14.8770044288114,46.30099844012597],[14.87188846178316,46.2882343614267],[14.86212161572001,46.27901011772281],[14.85747073668517,46.26875234614391],[14.85483523925495,46.25286184269993],[14.81122032965453,46.25438629788937],[14.78874108173557,46.25301687323019],[14.75303266802325,46.2543346219453],[14.71406863835705,46.26306793923408],[14.70399173303213,46.26978587491823],[14.70569705627418,46.28691661181222],[14.73132856556089,46.31076528618905],[14.78078291170209,46.33851552986783],[14.79757775181184,46.34337311537701],[14.80083336776573,46.34099599946586],[14.81060021292956,46.3370685899435],[14.84801394988392,46.31608795789299],[14.8669275243858,46.31554535643312]]],"type":"Polygon"}
+}

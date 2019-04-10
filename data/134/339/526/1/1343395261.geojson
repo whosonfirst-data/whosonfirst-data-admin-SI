@@ -1,0 +1,67 @@
+{
+  "id": 1343395261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.25194,46.07139,14.25194,46.07139",
+    "geom:latitude":46.07139,
+    "geom:longitude":14.25194,
+    "gn:admin1_code":"G4",
+    "gn:asciiname":"Pecovje",
+    "gn:country_code":"SI",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215436,
+    "gn:latitude":46.07139,
+    "gn:longitude":14.25194,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Pe\u010dovje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959847,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215436
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f36081e400481387aeb6c02158b23157",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959847,
+            "locality_id":1343395261,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1343395261,
+    "wof:lastmodified":1536839300,
+    "wof:name":"Pecovje",
+    "wof:parent_id":1108959847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.25194,
+    46.07139,
+    14.25194,
+    46.07139
+],
+  "geometry": {"coordinates":[14.25194,46.07139],"type":"Point"}
+}

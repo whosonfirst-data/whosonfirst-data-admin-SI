@@ -1,0 +1,71 @@
+{
+  "id": 1243399451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.35,45.8,15.35,45.8",
+    "geom:latitude":45.8,
+    "geom:longitude":15.35,
+    "gn:admin1_code":"B4",
+    "gn:asciiname":"Vratno",
+    "gn:country_code":"SI",
+    "gn:dem":555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187315,
+    "gn:latitude":45.8,
+    "gn:longitude":15.35,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Vratno",
+    "gn:population":63,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959937,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187315,
+        "wk:page":"Vratno"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d0129b28b28bdf677bc5bd4e04f8415c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959937,
+            "locality_id":1243399451,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1243399451,
+    "wof:lastmodified":1537573386,
+    "wof:name":"Vratno",
+    "wof:parent_id":1108959937,
+    "wof:placetype":"locality",
+    "wof:population":63,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.35,
+    45.8,
+    15.35,
+    45.8
+],
+  "geometry": {"coordinates":[15.35,45.8],"type":"Point"}
+}

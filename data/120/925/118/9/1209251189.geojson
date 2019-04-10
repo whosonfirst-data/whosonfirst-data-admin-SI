@@ -1,0 +1,65 @@
+{
+  "id": 1209251189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.13333,46.41667,14.13333,46.41667",
+    "geom:latitude":46.41667,
+    "geom:longitude":14.13333,
+    "gn:admin1_code":"N7",
+    "gn:asciiname":"Moste",
+    "gn:country_code":"SI",
+    "gn:dem":710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194824,
+    "gn:latitude":46.41667,
+    "gn:longitude":14.13333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Moste",
+    "gn:population":619,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194824,
+        "wk:page":"Moste%2C_%C5%BDirovnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4575fadca7a79aa15bcf0a963e1f8c08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209251189
+        }
+    ],
+    "wof:id":1209251189,
+    "wof:lastmodified":1537573419,
+    "wof:name":"Moste",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":619,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.13333,
+    46.41667,
+    14.13333,
+    46.41667
+],
+  "geometry": {"coordinates":[14.13333,46.41667],"type":"Point"}
+}

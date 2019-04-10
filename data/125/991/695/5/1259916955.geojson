@@ -1,0 +1,68 @@
+{
+  "id": 1259916955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.08164,46.18497,14.08164,46.18497",
+    "geom:latitude":46.18497,
+    "geom:longitude":14.08164,
+    "gn:admin1_code":"F1",
+    "gn:asciiname":"Zala",
+    "gn:country_code":"SI",
+    "gn:dem":850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989435,
+    "gn:latitude":46.18497,
+    "gn:longitude":14.08164,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Zala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959701,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989435,
+        "wk:page":"Zala%2C_%C5%BDelezniki"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"23d20d67663fe05e313478eae85e88ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959701,
+            "locality_id":1259916955,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1259916955,
+    "wof:lastmodified":1537573542,
+    "wof:name":"Zala",
+    "wof:parent_id":1108959701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.08164,
+    46.18497,
+    14.08164,
+    46.18497
+],
+  "geometry": {"coordinates":[14.08164,46.18497],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343994263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.51667,46.38333,15.51667,46.38333",
+    "geom:latitude":46.38333,
+    "geom:longitude":15.51667,
+    "gn:admin1_code":"L8",
+    "gn:asciiname":"Zgornja Loznica",
+    "gn:country_code":"SI",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196152,
+    "gn:latitude":46.38333,
+    "gn:longitude":15.51667,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Zgornja Lo\u017enica",
+    "gn:population":366,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959641,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196152,
+        "wk:page":"Zgornja_Lo%C5%BEnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"44a3f4dd146b246d5c4162f15606cb8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959641,
+            "locality_id":1343994263,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1343994263,
+    "wof:lastmodified":1537573424,
+    "wof:name":"Zgornja Loznica",
+    "wof:parent_id":1108959641,
+    "wof:placetype":"locality",
+    "wof:population":366,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.51667,
+    46.38333,
+    15.51667,
+    46.38333
+],
+  "geometry": {"coordinates":[15.51667,46.38333],"type":"Point"}
+}

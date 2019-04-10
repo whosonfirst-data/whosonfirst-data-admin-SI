@@ -1,0 +1,178 @@
+{
+  "id": 85677981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00402,
+    "geom:area_square_m":34466599.634469,
+    "geom:bbox":"14.5942826677,46.0768777527,14.7539628431,46.11762462",
+    "geom:latitude":46.095059,
+    "geom:longitude":14.672592,
+    "iso:country":"SI",
+    "lbl:latitude":46.099294,
+    "lbl:longitude":14.671072,
+    "mps:latitude":46.099294,
+    "mps:longitude":14.671072,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:eng_x_preferred":[
+        "Dol pri Ljubljani"
+    ],
+    "name:eng_x_variant":[
+        "Municipality of Dol pri Ljubljani"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Dol pri Ljubljani"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30eb\u30fb\u30d7\u30ea\u30fb\u30ea\u30e5\u30d6\u30ea\u30e3\u30cb"
+    ],
+    "name:kor_x_preferred":[
+        "\ub3cc\ud504\ub9ac\ub958\ube14\ub7b4\ub2c8"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Dol pri Ljubljani"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Dol pri Ljubljani"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0414\u043e\u043b \u043f\u0440\u0438 \u0409\u0443\u0431\u0459\u0430\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043b-\u043f\u0440\u0438-\u041b\u044e\u0431\u043b\u044f\u043d\u0456"
+    ],
+    "name:und_x_preferred":[
+        "Ljubljana"
+    ],
+    "name:unk_x_variant":[
+        "Ob\u010dina Dol pri Ljubljani"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-946",
+    "ne:adm1_code":"SVN-946",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SI.LJ.DL",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"946",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SI22",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.22",
+    "ne:gn_id":"3239115",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Dol pri Ljubljani",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI22",
+    "ne:gns_id":"243531",
+    "ne:gns_lang":"slv",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Dol pri Ljubljani, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"46.09960000000",
+    "ne:longitude":"14.67410000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Dol pri Ljubljani",
+    "ne:name_alt":"",
+    "ne:name_len":17,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"DL",
+    "ne:provnum_ne":"110",
+    "ne:region":"Osrednjeslovenska",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":-55848364,
+    "ne:woe_label":"",
+    "ne:woe_name":"",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Dol pri Ljubljani",
+    "qs:a1_lc":"SVN-946",
+    "qs:a1r":"Osrednjeslovenska",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "qs:woeid":55848364,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "unlc:subdivision":"SI-022",
+    "wd:wordcount":512,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SI22",
+        "gn:id":3239115,
+        "gp:id":-55848364,
+        "hasc:id":"SI.LJ.DL",
+        "unlc:id":"SI-022",
+        "wd:id":"Q13377759"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"bac668a002dba980ab941e2dcaa5a157",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677981
+        }
+    ],
+    "wof:id":85677981,
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616733,
+    "wof:name":"Dol pri Ljubljani",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:shortcode":"DL",
+    "wof:subdivision":"SI-022",
+    "wof:superseded_by":[
+        1108959861
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.59428266771101,
+    46.0768777527062,
+    14.7539628431108,
+    46.11762461998029
+],
+  "geometry": {"coordinates":[[[14.68724856886644,46.11728872319605],[14.70352664593798,46.11155263944283],[14.71592898943135,46.10995066988755],[14.72166507318462,46.10622996683958],[14.72631595221947,46.10033885435467],[14.73473921114572,46.09904694316197],[14.7539628431108,46.10018382382447],[14.74993208170025,46.09315582887848],[14.74466108594044,46.0905203314482],[14.71236331511494,46.0793065463601],[14.69220950716306,46.07785960553645],[14.68383792508024,46.08181285348047],[14.67794681169607,46.08261383735874],[14.65743126763891,46.07791128237983],[14.63309166774633,46.0768777527062],[14.61557335812404,46.0800816918167],[14.59583296132217,46.08840159795545],[14.59428266771101,46.09661815040738],[14.61743370919839,46.09837514869423],[14.62921593596673,46.10222504295143],[14.65309044786591,46.11305125621055],[14.66642296734614,46.11762461998029],[14.68724856886644,46.11728872319605]]],"type":"Polygon"}
+}

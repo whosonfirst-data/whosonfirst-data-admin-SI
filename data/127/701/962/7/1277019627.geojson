@@ -1,0 +1,71 @@
+{
+  "id": 1277019627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.30802,46.18315,14.30802,46.18315",
+    "geom:latitude":46.18315,
+    "geom:longitude":14.30802,
+    "gn:admin1_code":"B9",
+    "gn:asciiname":"Papirnica",
+    "gn:country_code":"SI",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988134,
+    "gn:latitude":46.18315,
+    "gn:longitude":14.30802,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Papirnica",
+    "gn:population":71,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959821,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988134,
+        "wk:page":"Papirnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b79f7eb74564284fedf4cf0d35127fd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959821,
+            "locality_id":1277019627,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1277019627,
+    "wof:lastmodified":1537573503,
+    "wof:name":"Papirnica",
+    "wof:parent_id":1108959821,
+    "wof:placetype":"locality",
+    "wof:population":71,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.30802,
+    46.18315,
+    14.30802,
+    46.18315
+],
+  "geometry": {"coordinates":[14.30802,46.18315],"type":"Point"}
+}

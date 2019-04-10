@@ -1,0 +1,186 @@
+{
+  "id": 85677375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.014055,
+    "geom:area_square_m":120397847.703302,
+    "geom:bbox":"14.8168013847,46.0928716089,15.0312585788,46.2105388452",
+    "geom:latitude":46.14972,
+    "geom:longitude":14.933597,
+    "gn:population":17044,
+    "iso:country":"SI",
+    "lbl:latitude":46.14351,
+    "lbl:longitude":14.935221,
+    "mps:latitude":46.14351,
+    "mps:longitude":14.935221,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ces_x_preferred":[
+        "Ob\u010dina Zagorje ob Savi"
+    ],
+    "name:eng_x_preferred":[
+        "Zasavska"
+    ],
+    "name:hbs_x_preferred":[
+        "Zagorje ob Savi"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Zagorje ob Savi"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Zagorje ob Savi"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Zagorje ob Savi"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Zagorje ob Savi"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0417\u0430\u0433\u043e\u0440\u0458\u0435 \u043e\u0431 \u0421\u0430\u0432\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u0433\u043e\u0440\u0454-\u043e\u0431-\u0421\u0430\u0432\u0456"
+    ],
+    "name:und_x_preferred":[
+        "Zagorje Ob Savi"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Zagorje ob Savi"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-1006",
+    "ne:adm1_code":"SVN-1006",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SI.ZS",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"1006",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SIE7",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.E7",
+    "ne:gn_id":"3186905",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Zagorje ob Savi",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI01",
+    "ne:gns_id":"-101554",
+    "ne:gns_lang":"ita",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Zagorje ob Savi, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"46.14540000000",
+    "ne:longitude":"14.92400000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Zasavska",
+    "ne:name_alt":"",
+    "ne:name_len":8,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"ZS",
+    "ne:provnum_ne":"117",
+    "ne:region":"Zasavska",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Statisticna Regije",
+    "ne:type_en":"Statistical Region",
+    "ne:wikipedia":"",
+    "ne:woe_id":55848397,
+    "ne:woe_label":"Zagorje Ob Savi, SI, Slovenia",
+    "ne:woe_name":"Zasavska",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Zasavska",
+    "qs:a1_lc":"SVN-1006",
+    "qs:a1r":"Zasavska",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Statistical Region",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "unlc:subdivision":"SI-142",
+    "wd:wordcount":121,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SIE7",
+        "gn:id":3186905,
+        "gp:id":55848397,
+        "hasc:id":"SI.ZS",
+        "qs:id":56150,
+        "unlc:id":"SI-142",
+        "wd:id":"Q13378328",
+        "wk:page":"Municipality of Zagorje ob Savi"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"be7a010d9858ba6bcc8ff3deba9f0820",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677375
+        }
+    ],
+    "wof:id":85677375,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616729,
+    "wof:name":"Zasavska",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:population":17044,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:shortcode":"ZS",
+    "wof:subdivision":"SI-142",
+    "wof:superseded_by":[
+        1108959683
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.81680138467624,
+    46.09287160893763,
+    15.03125857882043,
+    46.21053884519159
+],
+  "geometry": {"coordinates":[[[14.93736250167814,46.19185781468644],[14.97074547722207,46.19777476739165],[14.99989098488112,46.19898916331931],[15.01281009321127,46.18219432231018],[15.00831424290806,46.17924876651739],[15.00438683428501,46.17720754739048],[14.99275963714757,46.1732542994464],[14.98640343577,46.1687584500425],[14.9859383477766,46.16679474528132],[14.98779869975021,46.16648468691881],[14.99120934443573,46.1679057893208],[14.99524010584628,46.1686809347774],[14.99911583762588,46.16806081805237],[15.0134302099363,46.15591685607808],[15.02707278777899,46.14018138316436],[15.0311035500888,46.13134471308808],[15.03125857882043,46.12591868769732],[15.02862308139015,46.12354157178618],[15.02443729034871,46.12057017757166],[15.02195682075075,46.1193041039013],[15.01467044428563,46.11666860647108],[15.01312015067447,46.11656525278426],[15.01172488759352,46.11669444399342],[14.99989098488112,46.11909739832635],[14.97617150171351,46.11219859548885],[14.96842003815431,46.10865875869479],[14.95911828008462,46.10111399981128],[14.95555260576822,46.09909861910603],[14.95147016841361,46.0973932967633],[14.94697431811034,46.09617890083564],[14.93069624193805,46.09403432892117],[14.91844892717631,46.09408600486529],[14.91457319539671,46.09364675619292],[14.91131758034209,46.09287160893763],[14.90806196528752,46.09356924092776],[14.90341108625267,46.09573965126395],[14.89235232899682,46.10886546516912],[14.89173221227185,46.11361969699146],[14.89312747625206,46.1169786648336],[14.89405765133961,46.12150035355853],[14.89390262170866,46.124678453348],[14.89049197792247,46.12777903877168],[14.88181033657781,46.12922597869601],[14.83933231033791,46.12958771390191],[14.83478478409057,46.13697744405385],[14.8396423678011,46.14142161751369],[14.83943566312541,46.14524567334922],[14.84057254378791,46.1489663763972],[14.82842858181363,46.16028351517213],[14.82501793802749,46.1660195989254],[14.81819664865645,46.1687584500425],[14.81680138467624,46.17051544922867],[14.81990197099924,46.17191071230957],[14.88568606925674,46.17728506085695],[14.89266238825866,46.17924876651739],[14.90170576301063,46.19097931644234],[14.8989152359494,46.20867849411724],[14.91007734509344,46.21053884519159],[14.91534834175263,46.20136627923046],[14.93007612521308,46.19366648981668],[14.93736250167814,46.19185781468644]]],"type":"Polygon"}
+}

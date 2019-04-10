@@ -1,0 +1,71 @@
+{
+  "id": 1276260805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.15265,46.50471,16.15265,46.50471",
+    "geom:latitude":46.50471,
+    "geom:longitude":16.15265,
+    "gn:admin1_code":"I6",
+    "gn:asciiname":"Mekotnjak",
+    "gn:country_code":"SI",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987236,
+    "gn:latitude":46.50471,
+    "gn:longitude":16.15265,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Mekotnjak",
+    "gn:population":210,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959499,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987236,
+        "wk:page":"Mekotnjak"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7875e45fd5c2413ac7ce4cf267a43640",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959499,
+            "locality_id":1276260805,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1276260805,
+    "wof:lastmodified":1537573473,
+    "wof:name":"Mekotnjak",
+    "wof:parent_id":1108959499,
+    "wof:placetype":"locality",
+    "wof:population":210,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.15265,
+    46.50471,
+    16.15265,
+    46.50471
+],
+  "geometry": {"coordinates":[16.15265,46.50471],"type":"Point"}
+}

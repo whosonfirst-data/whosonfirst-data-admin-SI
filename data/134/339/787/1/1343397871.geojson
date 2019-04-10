@@ -1,0 +1,74 @@
+{
+  "id": 1343397871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.96667,46.53333,14.96667,46.53333",
+    "geom:latitude":46.53333,
+    "geom:longitude":14.96667,
+    "gn:admin1_code":"K8",
+    "gn:asciiname":"Navrski Vrh",
+    "gn:country_code":"SI",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194573,
+    "gn:latitude":46.53333,
+    "gn:longitude":14.96667,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Navr\u0161ki Vrh",
+    "gn:population":62,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Navr\u0161ki Vrh"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959643,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194573,
+        "wk:page":"Navr%C5%A1ki_Vrh"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e0204fa2fc83a278293b883656f43489",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959643,
+            "locality_id":1343397871,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1343397871,
+    "wof:lastmodified":1537700216,
+    "wof:name":"Navrski Vrh",
+    "wof:parent_id":1108959643,
+    "wof:placetype":"locality",
+    "wof:population":62,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.96667,
+    46.53333,
+    14.96667,
+    46.53333
+],
+  "geometry": {"coordinates":[14.96667,46.53333],"type":"Point"}
+}

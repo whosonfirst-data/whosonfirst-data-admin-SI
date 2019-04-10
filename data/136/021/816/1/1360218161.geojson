@@ -1,0 +1,71 @@
+{
+  "id": 1360218161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.8625,45.94417,14.8625,45.94417",
+    "geom:latitude":45.94417,
+    "geom:longitude":14.8625,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Radohova Vas",
+    "gn:country_code":"SI",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192109,
+    "gn:latitude":45.94417,
+    "gn:longitude":14.8625,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Radohova Vas",
+    "gn:population":180,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959583,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192109,
+        "wk:page":"Radohova_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8f8c16c0eeb3b71d1d90056852e03cc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959583,
+            "locality_id":1360218161,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1360218161,
+    "wof:lastmodified":1537573407,
+    "wof:name":"Radohova Vas",
+    "wof:parent_id":1108959583,
+    "wof:placetype":"locality",
+    "wof:population":180,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.8625,
+    45.94417,
+    14.8625,
+    45.94417
+],
+  "geometry": {"coordinates":[14.8625,45.94417],"type":"Point"}
+}

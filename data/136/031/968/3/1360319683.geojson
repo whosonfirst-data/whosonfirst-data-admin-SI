@@ -1,0 +1,74 @@
+{
+  "id": 1360319683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.87685,46.63817,15.87685,46.63817",
+    "geom:latitude":46.63817,
+    "geom:longitude":15.87685,
+    "gn:admin1_code":"F4",
+    "gn:asciiname":"Spodnja Backova",
+    "gn:country_code":"SI",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989502,
+    "gn:latitude":46.63817,
+    "gn:longitude":15.87685,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Spodnja Ba\u010dkova",
+    "gn:population":123,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Spodnja Ba\u010dkova"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959829,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989502,
+        "wk:page":"Spodnja_Ba%C4%8Dkova"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"272a501abaa46f0a56e813c3aee65e9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959829,
+            "locality_id":1360319683,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1360319683,
+    "wof:lastmodified":1537700327,
+    "wof:name":"Spodnja Backova",
+    "wof:parent_id":1108959829,
+    "wof:placetype":"locality",
+    "wof:population":123,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.87685,
+    46.63817,
+    15.87685,
+    46.63817
+],
+  "geometry": {"coordinates":[15.87685,46.63817],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1209552423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.51667,46.21667,15.51667,46.21667",
+    "geom:latitude":46.21667,
+    "geom:longitude":15.51667,
+    "gn:admin1_code":"C5",
+    "gn:asciiname":"Jesovec pri Smarju",
+    "gn:country_code":"SI",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198641,
+    "gn:latitude":46.21667,
+    "gn:longitude":15.51667,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Je\u0161ovec pri \u0160marju",
+    "gn:population":62,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jesovec",
+        "Je\u0161ovec pri \u0160marju"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198641,
+        "wk:page":"Je%C5%A1ovec_pri_%C5%A0marju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"59b942ce7aca42d8ef05ea44afb6308e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209552423
+        }
+    ],
+    "wof:id":1209552423,
+    "wof:lastmodified":1537700235,
+    "wof:name":"Jesovec pri Smarju",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":62,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.51667,
+    46.21667,
+    15.51667,
+    46.21667
+],
+  "geometry": {"coordinates":[15.51667,46.21667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293620241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.77222,45.51,13.77222,45.51",
+    "geom:latitude":45.51,
+    "geom:longitude":13.77222,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Mali Centur",
+    "gn:country_code":"SI",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195728,
+    "gn:latitude":45.51,
+    "gn:longitude":13.77222,
+    "gn:modification_date":"2008-11-06",
+    "gn:name":"Mali \u010centur",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959527,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195728
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7ac67983ac18dd0aef6fd439a2d8abc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959527,
+            "locality_id":1293620241,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1293620241,
+    "wof:lastmodified":1537089719,
+    "wof:name":"Mali Centur",
+    "wof:parent_id":1108959527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.77222,
+    45.51,
+    13.77222,
+    45.51
+],
+  "geometry": {"coordinates":[13.77222,45.51],"type":"Point"}
+}

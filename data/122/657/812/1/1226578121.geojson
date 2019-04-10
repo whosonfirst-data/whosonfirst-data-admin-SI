@@ -1,0 +1,75 @@
+{
+  "id": 1226578121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.5515,46.24185,13.5515,46.24185",
+    "geom:latitude":46.24185,
+    "geom:longitude":13.5515,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Suzid",
+    "gn:country_code":"SI",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189409,
+    "gn:latitude":46.24185,
+    "gn:longitude":13.5515,
+    "gn:modification_date":"2017-03-18",
+    "gn:name":"Su\u017eid",
+    "gn:population":129,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Susida",
+        "Su\u017eid"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959523,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189409,
+        "wk:page":"Su%C5%BEid"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3c488f0ab011e4b013e99b4dd0a931dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959523,
+            "locality_id":1226578121,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1226578121,
+    "wof:lastmodified":1537700183,
+    "wof:name":"Suzid",
+    "wof:parent_id":1108959523,
+    "wof:placetype":"locality",
+    "wof:population":129,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.5515,
+    46.24185,
+    13.5515,
+    46.24185
+],
+  "geometry": {"coordinates":[13.5515,46.24185],"type":"Point"}
+}

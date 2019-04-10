@@ -1,0 +1,71 @@
+{
+  "id": 1225975625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.88333,46.55,15.88333,46.55",
+    "geom:latitude":46.55,
+    "geom:longitude":15.88333,
+    "gn:admin1_code":"M7",
+    "gn:asciiname":"Spodnja Senarska",
+    "gn:country_code":"SI",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190237,
+    "gn:latitude":46.55,
+    "gn:longitude":15.88333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Spodnja Senarska",
+    "gn:population":125,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959717,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190237,
+        "wk:page":"Spodnja_Senarska"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"dc7f2ac3a5aae924fd3456e454cadb13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959717,
+            "locality_id":1225975625,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1225975625,
+    "wof:lastmodified":1537573399,
+    "wof:name":"Spodnja Senarska",
+    "wof:parent_id":1108959717,
+    "wof:placetype":"locality",
+    "wof:population":125,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.88333,
+    46.55,
+    15.88333,
+    46.55
+],
+  "geometry": {"coordinates":[15.88333,46.55],"type":"Point"}
+}

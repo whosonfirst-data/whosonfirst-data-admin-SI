@@ -1,0 +1,71 @@
+{
+  "id": 1226571595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.88088,45.87233,14.88088,45.87233",
+    "geom:latitude":45.87233,
+    "geom:longitude":14.88088,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Zavrh",
+    "gn:country_code":"SI",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989373,
+    "gn:latitude":45.87233,
+    "gn:longitude":14.88088,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Zavrh",
+    "gn:population":4,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959839,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989373,
+        "wk:page":"Zavrh%2C_Trebnje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e3ca1f8c719d0e92d108cd0d452ecb1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959839,
+            "locality_id":1226571595,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1226571595,
+    "wof:lastmodified":1537573540,
+    "wof:name":"Zavrh",
+    "wof:parent_id":1108959839,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.88088,
+    45.87233,
+    14.88088,
+    45.87233
+],
+  "geometry": {"coordinates":[14.88088,45.87233],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1343698779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.19059,46.86084,16.19059,46.86084",
+    "geom:latitude":46.86084,
+    "geom:longitude":16.19059,
+    "gn:admin1_code":"L4",
+    "gn:asciiname":"Cepinci",
+    "gn:country_code":"SI",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202742,
+    "gn:latitude":46.86084,
+    "gn:longitude":16.19059,
+    "gn:modification_date":"2015-07-21",
+    "gn:name":"\u010cepinci",
+    "gn:population":283,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marokr\u00e9t",
+        "\u010copinci",
+        "Kerkaf\u0151",
+        "\u010cepinci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959567,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202742,
+        "wk:page":"%C4%8Cepinci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"beffb36f88559da3aae7b3aa37502540",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959567,
+            "locality_id":1343698779,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1343698779,
+    "wof:lastmodified":1537700258,
+    "wof:name":"Cepinci",
+    "wof:parent_id":1108959567,
+    "wof:placetype":"locality",
+    "wof:population":283,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.19059,
+    46.86084,
+    16.19059,
+    46.86084
+],
+  "geometry": {"coordinates":[16.19059,46.86084],"type":"Point"}
+}

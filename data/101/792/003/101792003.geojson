@@ -1,0 +1,152 @@
+{
+  "id": 101792003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000102,
+    "geom:area_square_m":867809.320702,
+    "geom:bbox":"16.3325311093,46.5690380246,16.3551563112,46.5766731508",
+    "geom:latitude":46.572303,
+    "geom:longitude":16.344084,
+    "gn:population":929,
+    "iso:country":"SI",
+    "lbl:latitude":46.573354,
+    "lbl:longitude":16.343868,
+    "mps:latitude":46.573354,
+    "mps:longitude":16.343868,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Velika Polana"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u010dina Velika Polana"
+    ],
+    "name:deu_x_preferred":[
+        "Velika Polana"
+    ],
+    "name:dut_x_preferred":[
+        "Velika Polana"
+    ],
+    "name:eng_x_preferred":[
+        "Velika Polana"
+    ],
+    "name:epo_x_preferred":[
+        "Velika Polana"
+    ],
+    "name:fra_x_preferred":[
+        "Velika Polana"
+    ],
+    "name:hbs_x_preferred":[
+        "Velika Polana"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Velika Polana"
+    ],
+    "name:hun_x_preferred":[
+        "Nagypalina"
+    ],
+    "name:ita_x_preferred":[
+        "Velika Polana"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a7\u30ea\u30ab\u30fb\u30dd\u30e9\u30ca"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca8\ub9ac\uce74\ud3f4\ub77c\ub098"
+    ],
+    "name:nld_x_preferred":[
+        "Velika Polana"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Velika Polana"
+    ],
+    "name:por_x_preferred":[
+        "Velika Polana"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Velika Polana"
+    ],
+    "name:rum_x_preferred":[
+        "Velika Polana"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0430 \u041f\u043e\u043b\u044f\u043d\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Velika Polana"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0412\u0435\u043b\u0438\u043a\u0430 \u041f\u043e\u043b\u0430\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0430 \u041f\u043e\u043b\u0430\u043d\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Palina"
+    ],
+    "name:vie_x_preferred":[
+        "Velika Polana"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"Velika Polana",
+    "qs:la_lc":"*SI187000",
+    "qs:level":"locality",
+    "qs:loc":"Velika Polana",
+    "qs:loc_alt":"Velika Polana",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959697,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188181,
+        "gp:id":55852290,
+        "qs:id":4,
+        "wd:id":"Q1043463",
+        "wk:page":"Velika Polana"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"849b161ebb64c851ea4466a5a8cf372c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959697,
+            "locality_id":101792003,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":101792003,
+    "wof:lastmodified":1531170199,
+    "wof:name":"Velika Polana",
+    "wof:parent_id":1108959697,
+    "wof:placetype":"locality",
+    "wof:population":929,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.33253110930525,
+    46.56903802455213,
+    16.35515631124463,
+    46.57667315084603
+],
+  "geometry": {"coordinates":[[[16.35136540566532,46.57426461496664],[16.35125810067376,46.57336787868229],[16.35515631124463,46.57313698366153],[16.35472687784625,46.56955005034899],[16.3482302767103,46.56993476691235],[16.34812303838999,46.56903802455213],[16.34682372963857,46.56911491926905],[16.34693094628585,46.57001166312671],[16.34043424321754,46.57039590870266],[16.34032713493622,46.569499157363],[16.33253110930525,46.56995972498703],[16.33295905015302,46.57354676252999],[16.33945618018043,46.57316296553114],[16.33956328541495,46.57405971590447],[16.34086272291887,46.57398290790593],[16.3411841316086,46.57667315084603],[16.34638210781486,46.57636574388073],[16.34627488020635,46.57546900283643],[16.34757434408436,46.57539211333813],[16.34746709946035,46.57449537317564],[16.35136540566532,46.57426461496664]]],"type":"Polygon"}
+}

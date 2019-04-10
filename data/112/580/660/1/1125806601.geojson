@@ -1,0 +1,126 @@
+{
+  "id": 1125806601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.60556,45.525,13.60556,45.525",
+    "geom:latitude":45.525,
+    "geom:longitude":13.60556,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":576,
+    "iso:country":"SI",
+    "lbl:latitude":45.525,
+    "lbl:longitude":13.60556,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Strunjan"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u0440\u0443\u043d\u044f\u043d"
+    ],
+    "name:dut_x_preferred":[
+        "Strunjan"
+    ],
+    "name:eng_x_preferred":[
+        "Strunjan"
+    ],
+    "name:ger_x_preferred":[
+        "Strunjan"
+    ],
+    "name:ita_x_preferred":[
+        "Strugnano"
+    ],
+    "name:rum_x_preferred":[
+        "Strunjan"
+    ],
+    "name:slv_x_preferred":[
+        "Strunjan"
+    ],
+    "name:spa_x_preferred":[
+        "Strunjan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0440\u0443\u043d\u044f\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Madonna di Strugnano"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3189668,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Strunjan",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Piran",
+    "qs_pg:photos":48,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":48,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1165741,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":531815,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Piran",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959613,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189668,
+        "gp:id":531815,
+        "qs_pg:id":1165741,
+        "wd:id":"Q565179"
+    },
+    "wof:country":"SI",
+    "wof:created":1497291490,
+    "wof:geomhash":"32eef2f960bdfe034d762d52ec9a9135",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959613,
+            "locality_id":1125806601,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1125806601,
+    "wof:lastmodified":1531170305,
+    "wof:name":"Strunjan",
+    "wof:parent_id":1108959613,
+    "wof:placetype":"locality",
+    "wof:population":576,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.60556,
+    45.525,
+    13.60556,
+    45.525
+],
+  "geometry": {"coordinates":[13.60556,45.525],"type":"Point"}
+}

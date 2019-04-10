@@ -1,0 +1,71 @@
+{
+  "id": 1210052831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.19201,46.1461,15.19201,46.1461",
+    "geom:latitude":46.1461,
+    "geom:longitude":15.19201,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Trnovo",
+    "gn:country_code":"SI",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987842,
+    "gn:latitude":46.1461,
+    "gn:longitude":15.19201,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Trnovo",
+    "gn:population":98,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959879,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987842,
+        "wk:page":"Trnovo%2C_La%C5%A1ko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c532e661873681a1a9fdc1dec67c1546",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959879,
+            "locality_id":1210052831,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1210052831,
+    "wof:lastmodified":1537573493,
+    "wof:name":"Trnovo",
+    "wof:parent_id":1108959879,
+    "wof:placetype":"locality",
+    "wof:population":98,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.19201,
+    46.1461,
+    15.19201,
+    46.1461
+],
+  "geometry": {"coordinates":[15.19201,46.1461],"type":"Point"}
+}

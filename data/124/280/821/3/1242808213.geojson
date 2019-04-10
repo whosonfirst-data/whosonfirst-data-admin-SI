@@ -1,0 +1,76 @@
+{
+  "id": 1242808213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.23194,46.39972,16.23194,46.39972",
+    "geom:latitude":46.39972,
+    "geom:longitude":16.23194,
+    "gn:admin1_code":"P4",
+    "gn:asciiname":"Obrez",
+    "gn:country_code":"SI",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194257,
+    "gn:latitude":46.39972,
+    "gn:longitude":16.23194,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Obre\u017e",
+    "gn:population":528,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Obri\u0161",
+        "Obrisch",
+        "Obre\u017e"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959725,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194257,
+        "wk:page":"Obre%C5%BE%2C_Sredi%C5%A1%C4%8De_ob_Dravi"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"888e329e0b8c5836cfcd2e141f4cabac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959725,
+            "locality_id":1242808213,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1242808213,
+    "wof:lastmodified":1537700214,
+    "wof:name":"Obrez",
+    "wof:parent_id":1108959725,
+    "wof:placetype":"locality",
+    "wof:population":528,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.23194,
+    46.39972,
+    16.23194,
+    46.39972
+],
+  "geometry": {"coordinates":[16.23194,46.39972],"type":"Point"}
+}

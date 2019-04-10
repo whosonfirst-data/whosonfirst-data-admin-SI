@@ -1,0 +1,74 @@
+{
+  "id": 1277110525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.99641,46.15804,14.99641,46.15804",
+    "geom:latitude":46.15804,
+    "geom:longitude":14.99641,
+    "gn:admin1_code":"E7",
+    "gn:asciiname":"Kotredez",
+    "gn:country_code":"SI",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197529,
+    "gn:latitude":46.15804,
+    "gn:longitude":14.99641,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Kotrede\u017e",
+    "gn:population":191,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kotrede\u017e"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959683,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197529,
+        "wk:page":"Kotrede%C5%BE"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e67272139d170d877c3f66a9f3aac13f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959683,
+            "locality_id":1277110525,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1277110525,
+    "wof:lastmodified":1537700230,
+    "wof:name":"Kotredez",
+    "wof:parent_id":1108959683,
+    "wof:placetype":"locality",
+    "wof:population":191,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.99641,
+    46.15804,
+    14.99641,
+    46.15804
+],
+  "geometry": {"coordinates":[14.99641,46.15804],"type":"Point"}
+}

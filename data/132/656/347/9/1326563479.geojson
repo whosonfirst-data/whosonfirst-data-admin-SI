@@ -1,0 +1,71 @@
+{
+  "id": 1326563479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.46778,46.18028,14.46778,46.18028",
+    "geom:latitude":46.18028,
+    "geom:longitude":14.46778,
+    "gn:admin1_code":"E3",
+    "gn:asciiname":"Zapoge",
+    "gn:country_code":"SI",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186785,
+    "gn:latitude":46.18028,
+    "gn:longitude":14.46778,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Zapoge",
+    "gn:population":266,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959923,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186785,
+        "wk:page":"Zapoge"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"51e5a3c634b2f4fffc1313046fab54a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959923,
+            "locality_id":1326563479,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1326563479,
+    "wof:lastmodified":1537573383,
+    "wof:name":"Zapoge",
+    "wof:parent_id":1108959923,
+    "wof:placetype":"locality",
+    "wof:population":266,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.46778,
+    46.18028,
+    14.46778,
+    46.18028
+],
+  "geometry": {"coordinates":[14.46778,46.18028],"type":"Point"}
+}

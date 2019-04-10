@@ -1,0 +1,74 @@
+{
+  "id": 1259417429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.67941,46.26527,14.67941,46.26527",
+    "geom:latitude":46.26527,
+    "geom:longitude":14.67941,
+    "gn:admin1_code":"H6",
+    "gn:asciiname":"Zavrh pri Crnivcu",
+    "gn:country_code":"SI",
+    "gn:dem":884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988944,
+    "gn:latitude":46.26527,
+    "gn:longitude":14.67941,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Zavrh pri \u010crnivcu",
+    "gn:population":25,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zavrh pri \u010crnivcu"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959941,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988944,
+        "wk:page":"Zavrh_pri_%C4%8Crnivcu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"458d65a88b284670321c6c1491a54030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959941,
+            "locality_id":1259417429,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1259417429,
+    "wof:lastmodified":1537700316,
+    "wof:name":"Zavrh pri Crnivcu",
+    "wof:parent_id":1108959941,
+    "wof:placetype":"locality",
+    "wof:population":25,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.67941,
+    46.26527,
+    14.67941,
+    46.26527
+],
+  "geometry": {"coordinates":[14.67941,46.26527],"type":"Point"}
+}

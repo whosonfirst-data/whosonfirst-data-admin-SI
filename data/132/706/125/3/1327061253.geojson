@@ -1,0 +1,71 @@
+{
+  "id": 1327061253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.3425,46.23306,14.3425,46.23306",
+    "geom:latitude":46.23306,
+    "geom:longitude":14.3425,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Strazisce",
+    "gn:country_code":"SI",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215694,
+    "gn:latitude":46.23306,
+    "gn:longitude":14.3425,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Stra\u017ei\u0161\u010de",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stra\u017ei\u0161\u010de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959933,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215694,
+        "wk:page":"Stra%C5%BEi%C5%A1%C4%8De%2C_Kranj"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e86eaa17535836f9332991bd1287339b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959933,
+            "locality_id":1327061253,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1327061253,
+    "wof:lastmodified":1537700269,
+    "wof:name":"Strazisce",
+    "wof:parent_id":1108959933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.3425,
+    46.23306,
+    14.3425,
+    46.23306
+],
+  "geometry": {"coordinates":[14.3425,46.23306],"type":"Point"}
+}

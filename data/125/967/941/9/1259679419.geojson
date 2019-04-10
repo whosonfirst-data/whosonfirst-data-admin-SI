@@ -1,0 +1,71 @@
+{
+  "id": 1259679419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.59545,45.94555,15.59545,45.94555",
+    "geom:latitude":45.94555,
+    "geom:longitude":15.59545,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Glogov Brod",
+    "gn:country_code":"SI",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987603,
+    "gn:latitude":45.94555,
+    "gn:longitude":15.59545,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Glogov Brod",
+    "gn:population":124,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987603,
+        "wk:page":"Glogov_Brod"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"27b57883884e2897bfde2c16713329ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1259679419,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1259679419,
+    "wof:lastmodified":1537573485,
+    "wof:name":"Glogov Brod",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:population":124,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.59545,
+    45.94555,
+    15.59545,
+    45.94555
+],
+  "geometry": {"coordinates":[15.59545,45.94555],"type":"Point"}
+}

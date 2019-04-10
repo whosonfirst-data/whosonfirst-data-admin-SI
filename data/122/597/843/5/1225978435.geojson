@@ -1,0 +1,71 @@
+{
+  "id": 1225978435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.90228,45.78804,13.90228,45.78804",
+    "geom:latitude":45.78804,
+    "geom:longitude":13.90228,
+    "gn:admin1_code":"B7",
+    "gn:asciiname":"Dolenje",
+    "gn:country_code":"SI",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989614,
+    "gn:latitude":45.78804,
+    "gn:longitude":13.90228,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Dolenje",
+    "gn:population":28,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959789,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989614,
+        "wk:page":"Dolenje%2C_Se%C5%BEana"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ffa3a7499a62d22798dde44db1459a33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959789,
+            "locality_id":1225978435,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1225978435,
+    "wof:lastmodified":1537573547,
+    "wof:name":"Dolenje",
+    "wof:parent_id":1108959789,
+    "wof:placetype":"locality",
+    "wof:population":28,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.90228,
+    45.78804,
+    13.90228,
+    45.78804
+],
+  "geometry": {"coordinates":[13.90228,45.78804],"type":"Point"}
+}

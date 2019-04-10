@@ -1,0 +1,74 @@
+{
+  "id": 1310629949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.96972,45.58139,14.96972,45.58139",
+    "geom:latitude":45.58139,
+    "geom:longitude":14.96972,
+    "gn:admin1_code":"H7",
+    "gn:asciiname":"Kacji Potok",
+    "gn:country_code":"SI",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198506,
+    "gn:latitude":45.58139,
+    "gn:longitude":14.96972,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Ka\u010dji Potok",
+    "gn:population":3,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ka\u010dji Potok"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959919,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198506,
+        "wk:page":"Ka%C4%8Dji_Potok"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"114a7902b81aa6e6562480b0a2e057d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959919,
+            "locality_id":1310629949,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1310629949,
+    "wof:lastmodified":1537700234,
+    "wof:name":"Kacji Potok",
+    "wof:parent_id":1108959919,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.96972,
+    45.58139,
+    14.96972,
+    45.58139
+],
+  "geometry": {"coordinates":[14.96972,45.58139],"type":"Point"}
+}

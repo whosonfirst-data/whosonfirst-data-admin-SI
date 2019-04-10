@@ -1,0 +1,71 @@
+{
+  "id": 1293822897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.49222,45.9525,14.49222,45.9525",
+    "geom:latitude":45.9525,
+    "geom:longitude":14.49222,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Vrbljene",
+    "gn:country_code":"SI",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187280,
+    "gn:latitude":45.9525,
+    "gn:longitude":14.49222,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Vrbljene",
+    "gn:population":241,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959887,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187280,
+        "wk:page":"Vrbljene"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"501010e9c1e7313fbbd8f88569cf7762",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959887,
+            "locality_id":1293822897,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1293822897,
+    "wof:lastmodified":1537573386,
+    "wof:name":"Vrbljene",
+    "wof:parent_id":1108959887,
+    "wof:placetype":"locality",
+    "wof:population":241,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.49222,
+    45.9525,
+    14.49222,
+    45.9525
+],
+  "geometry": {"coordinates":[14.49222,45.9525],"type":"Point"}
+}

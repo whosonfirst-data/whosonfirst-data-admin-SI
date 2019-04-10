@@ -1,0 +1,71 @@
+{
+  "id": 1260220243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.12036,45.79398,15.12036,45.79398",
+    "geom:latitude":45.79398,
+    "geom:longitude":15.12036,
+    "gn:admin1_code":"J7",
+    "gn:asciiname":"Zalog",
+    "gn:country_code":"SI",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186831,
+    "gn:latitude":45.79398,
+    "gn:longitude":15.12036,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Zalog",
+    "gn:population":137,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959793,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186831,
+        "wk:page":"Zalog%2C_Stra%C5%BEa"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7916f103bcbf919da401fc6cec75122c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959793,
+            "locality_id":1260220243,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1260220243,
+    "wof:lastmodified":1537573384,
+    "wof:name":"Zalog",
+    "wof:parent_id":1108959793,
+    "wof:placetype":"locality",
+    "wof:population":137,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.12036,
+    45.79398,
+    15.12036,
+    45.79398
+],
+  "geometry": {"coordinates":[15.12036,45.79398],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293814595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.08907,46.23119,14.08907,46.23119",
+    "geom:latitude":46.23119,
+    "geom:longitude":14.08907,
+    "gn:admin1_code":"F1",
+    "gn:asciiname":"Torka",
+    "gn:country_code":"SI",
+    "gn:dem":1308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989401,
+    "gn:latitude":46.23119,
+    "gn:longitude":14.08907,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Torka",
+    "gn:population":2,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959701,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989401,
+        "wk:page":"Torka"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c95b21ecdae2f08ef7d727b0edbf93c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959701,
+            "locality_id":1293814595,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1293814595,
+    "wof:lastmodified":1537573541,
+    "wof:name":"Torka",
+    "wof:parent_id":1108959701,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.08907,
+    46.23119000000001,
+    14.08907,
+    46.23119000000001
+],
+  "geometry": {"coordinates":[14.08907,46.23119000000001],"type":"Point"}
+}

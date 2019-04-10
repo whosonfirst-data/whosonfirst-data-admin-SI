@@ -1,0 +1,71 @@
+{
+  "id": 1343892133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.89222,46.08444,14.89222,46.08444",
+    "geom:latitude":46.08444,
+    "geom:longitude":14.89222,
+    "gn:admin1_code":"I5",
+    "gn:asciiname":"Spodnji Log",
+    "gn:country_code":"SI",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190189,
+    "gn:latitude":46.08444,
+    "gn:longitude":14.89222,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Spodnji Log",
+    "gn:population":235,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959907,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190189,
+        "wk:page":"Spodnji_Log%2C_Litija"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8e7734f0a4e6ebbb6cec73c66dc30190",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959907,
+            "locality_id":1343892133,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1343892133,
+    "wof:lastmodified":1537573397,
+    "wof:name":"Spodnji Log",
+    "wof:parent_id":1108959907,
+    "wof:placetype":"locality",
+    "wof:population":235,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.89222,
+    46.08444,
+    14.89222,
+    46.08444
+],
+  "geometry": {"coordinates":[14.89222,46.08444],"type":"Point"}
+}

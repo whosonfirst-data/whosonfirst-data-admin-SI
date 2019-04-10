@@ -1,0 +1,75 @@
+{
+  "id": 1309741629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.22278,45.65083,14.22278,45.65083",
+    "geom:latitude":45.65083,
+    "geom:longitude":14.22278,
+    "gn:admin1_code":"91",
+    "gn:asciiname":"Drskovce",
+    "gn:country_code":"SI",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201149,
+    "gn:latitude":45.65083,
+    "gn:longitude":14.22278,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Drskov\u010de",
+    "gn:population":105,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Drescozze",
+        "Drskov\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959587,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201149,
+        "wk:page":"Drskov%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9ef4f132ce7fe40a78d66de6d787e206",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959587,
+            "locality_id":1309741629,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1309741629,
+    "wof:lastmodified":1537700249,
+    "wof:name":"Drskovce",
+    "wof:parent_id":1108959587,
+    "wof:placetype":"locality",
+    "wof:population":105,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.22278,
+    45.65083,
+    14.22278,
+    45.65083
+],
+  "geometry": {"coordinates":[14.22278,45.65083],"type":"Point"}
+}

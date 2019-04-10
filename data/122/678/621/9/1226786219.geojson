@@ -1,0 +1,74 @@
+{
+  "id": 1226786219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.22238,46.0517,15.22238,46.0517",
+    "geom:latitude":46.0517,
+    "geom:longitude":15.22238,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Racica",
+    "gn:country_code":"SI",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987255,
+    "gn:latitude":46.0517,
+    "gn:longitude":15.22238,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ra\u010dica",
+    "gn:population":202,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ra\u010dica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987255,
+        "wk:page":"Ra%C4%8Dica%2C_Sevnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b7f43897ad0ae3820e8feca04f7ec22b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1226786219,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1226786219,
+    "wof:lastmodified":1537700283,
+    "wof:name":"Racica",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":202,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.22238,
+    46.0517,
+    15.22238,
+    46.0517
+],
+  "geometry": {"coordinates":[15.22238,46.0517],"type":"Point"}
+}

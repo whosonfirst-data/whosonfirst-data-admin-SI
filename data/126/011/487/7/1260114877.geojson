@@ -1,0 +1,80 @@
+{
+  "id": 1260114877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.18593,45.94858,15.18593,45.94858",
+    "geom:latitude":45.94858,
+    "geom:longitude":15.18593,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Skovec",
+    "gn:country_code":"SI",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988118,
+    "gn:latitude":45.94858,
+    "gn:longitude":15.18593,
+    "gn:modification_date":"2015-12-03",
+    "gn:name":"\u0160kovec",
+    "gn:population":72,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Skovec"
+    ],
+    "name:slv_x_preferred":[
+        "Skovec"
+    ],
+    "name:und_x_variant":[
+        "\u0160kovec"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988118,
+        "wk:page":"%C5%A0kovec%2C_Sevnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"68e1eb16fecc9cb5b49f089384563989",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1260114877,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1260114877,
+    "wof:lastmodified":1537700300,
+    "wof:name":"Skovec",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":72,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.18593,
+    45.94858,
+    15.18593,
+    45.94858
+],
+  "geometry": {"coordinates":[15.18593,45.94858],"type":"Point"}
+}

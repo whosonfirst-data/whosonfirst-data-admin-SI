@@ -1,0 +1,74 @@
+{
+  "id": 1259718269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.69222,46.41889,15.69222,46.41889",
+    "geom:latitude":46.41889,
+    "geom:longitude":15.69222,
+    "gn:admin1_code":"98",
+    "gn:asciiname":"Spodnja Gorica",
+    "gn:country_code":"SI",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200333,
+    "gn:latitude":46.41889,
+    "gn:longitude":15.69222,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Spodnja Gorica",
+    "gn:population":251,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gorica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959589,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200333,
+        "wk:page":"Spodnja_Gorica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"006149bd533cb72ae4a2dd6bd94f1ce0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959589,
+            "locality_id":1259718269,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1259718269,
+    "wof:lastmodified":1537700244,
+    "wof:name":"Spodnja Gorica",
+    "wof:parent_id":1108959589,
+    "wof:placetype":"locality",
+    "wof:population":251,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.69222,
+    46.41889000000001,
+    15.69222,
+    46.41889000000001
+],
+  "geometry": {"coordinates":[15.69222,46.41889000000001],"type":"Point"}
+}

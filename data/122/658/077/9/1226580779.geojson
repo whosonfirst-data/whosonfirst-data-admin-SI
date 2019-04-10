@@ -1,0 +1,77 @@
+{
+  "id": 1226580779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.24694,46.78889,16.24694,46.78889",
+    "geom:latitude":46.78889,
+    "geom:longitude":16.24694,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Krizevci",
+    "gn:country_code":"SI",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197229,
+    "gn:latitude":46.78889,
+    "gn:longitude":16.24694,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kri\u017eevci",
+    "gn:population":402,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u00f3tkereszt\u00far",
+        "Kri\u017eovci",
+        "Kri\u017eevci v Prekmurju",
+        "Kri\u017eevci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959531,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197229,
+        "wk:page":"Kri%C5%BEevci%2C_Gornji_Petrovci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"52a92ee32f22624e152ca0aa40e60519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959531,
+            "locality_id":1226580779,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1226580779,
+    "wof:lastmodified":1537700228,
+    "wof:name":"Krizevci",
+    "wof:parent_id":1108959531,
+    "wof:placetype":"locality",
+    "wof:population":402,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.24694,
+    46.78889,
+    16.24694,
+    46.78889
+],
+  "geometry": {"coordinates":[16.24694,46.78889],"type":"Point"}
+}

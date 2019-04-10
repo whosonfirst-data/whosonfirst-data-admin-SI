@@ -1,0 +1,75 @@
+{
+  "id": 1293443275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.1,45.55028,14.1,45.55028",
+    "geom:latitude":45.55028,
+    "geom:longitude":14.1,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Javorje",
+    "gn:country_code":"SI",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198771,
+    "gn:latitude":45.55028,
+    "gn:longitude":14.1,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Javorje",
+    "gn:population":131,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Giavorie",
+        "Javorje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959549,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198771,
+        "wk:page":"Javorje%2C_Hrpelje%E2%80%93Kozina"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"34b971635832091f7eb86d18071cb698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959549,
+            "locality_id":1293443275,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1293443275,
+    "wof:lastmodified":1537700236,
+    "wof:name":"Javorje",
+    "wof:parent_id":1108959549,
+    "wof:placetype":"locality",
+    "wof:population":131,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.1,
+    45.55028,
+    14.1,
+    45.55028
+],
+  "geometry": {"coordinates":[14.1,45.55028],"type":"Point"}
+}

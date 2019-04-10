@@ -1,0 +1,71 @@
+{
+  "id": 1326959833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.22422,45.9829,14.22422,45.9829",
+    "geom:latitude":45.9829,
+    "geom:longitude":14.22422,
+    "gn:admin1_code":"E5",
+    "gn:asciiname":"Mizni Dol",
+    "gn:country_code":"SI",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987469,
+    "gn:latitude":45.9829,
+    "gn:longitude":14.22422,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Mizni Dol",
+    "gn:population":147,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959851,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987469,
+        "wk:page":"Mizni_Dol"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ce082c7e1d380f46a686750cd5fd2b69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959851,
+            "locality_id":1326959833,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1326959833,
+    "wof:lastmodified":1537573481,
+    "wof:name":"Mizni Dol",
+    "wof:parent_id":1108959851,
+    "wof:placetype":"locality",
+    "wof:population":147,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.22422,
+    45.9829,
+    14.22422,
+    45.9829
+],
+  "geometry": {"coordinates":[14.22422,45.9829],"type":"Point"}
+}

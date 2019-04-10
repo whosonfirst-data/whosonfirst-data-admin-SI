@@ -1,0 +1,184 @@
+{
+  "id": 85677611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.014061,
+    "geom:area_square_m":120645948.167391,
+    "geom:bbox":"14.1868139986,46.0140133727,14.4408036641,46.1064883493",
+    "geom:latitude":46.06228,
+    "geom:longitude":14.310745,
+    "iso:country":"SI",
+    "lbl:latitude":46.072206,
+    "lbl:longitude":14.308327,
+    "mps:latitude":46.072206,
+    "mps:longitude":14.308327,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:bos_x_preferred":[
+        "Dobrova\u2013Polhov Gradec"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u010dina Dobrova-Polhov Gradec"
+    ],
+    "name:deu_x_preferred":[
+        "Dobrova-Polhov Gradec"
+    ],
+    "name:eng_x_preferred":[
+        "Dobrova-Polhov Gradec"
+    ],
+    "name:fra_x_preferred":[
+        "Dobrova-Polhov Gradec"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Dobrova-Polhov Gradec"
+    ],
+    "name:ita_x_preferred":[
+        "Dobrova-Polhov Gradec"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30d6\u30ed\u30f4\u30a1\uff1d\u30dd\u30eb\u30db\u30d5\u30fb\u30b0\u30e9\u30c7\u30c4"
+    ],
+    "name:kor_x_preferred":[
+        "\ub3c4\ube0c\ub85c\ubc14\ud3f4\ud638\ube0c\uadf8\ub77c\ub370\uce20"
+    ],
+    "name:nld_x_preferred":[
+        "Dobrova-Polhov Gradec"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Dobrova-Polhov Gradec"
+    ],
+    "name:und_x_preferred":[
+        "Ljubljana"
+    ],
+    "name:unk_x_variant":[
+        "Dobrova-Horjul-Polhov Gradec"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-204",
+    "ne:adm1_code":"SVN-204",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SI.LJ.DP",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"204",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SIG4",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.G4",
+    "ne:gn_id":"3239096",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Dobrova-Polhov Gradec",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI27",
+    "ne:gns_id":"243495",
+    "ne:gns_lang":"div",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Dobrova-Polhov Gradec, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"46.07160000000",
+    "ne:longitude":"14.31380000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Dobrova-Polhov Gradec",
+    "ne:name_alt":"Dobrova-Horjul-Polhov Gradec",
+    "ne:name_len":21,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"DP",
+    "ne:provnum_ne":"131",
+    "ne:region":"Osrednjeslovenska",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":-55848364,
+    "ne:woe_label":"",
+    "ne:woe_name":"",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Dobrova-Polhov Gradec",
+    "qs:a1_lc":"SVN-204",
+    "qs:a1r":"Osrednjeslovenska",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "qs:woeid":55848364,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "unlc:subdivision":"SI-021",
+    "wd:wordcount":176,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SIG4",
+        "gn:id":3239096,
+        "gp:id":-55848364,
+        "hasc:id":"SI.LJ.DP",
+        "unlc:id":"SI-021",
+        "wd:id":"Q1005208"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b37e188d75ae679fec36d33f65f4b7df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677611
+        }
+    ],
+    "wof:id":85677611,
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616731,
+    "wof:name":"Dobrova-Polhov Gradec",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:shortcode":"DP",
+    "wof:subdivision":"SI-021",
+    "wof:superseded_by":[
+        1108959847
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.18681399856723,
+    46.01401337271903,
+    14.44080366405791,
+    46.10648834925797
+],
+  "geometry": {"coordinates":[[[14.32504845482237,46.09832347275011],[14.33310997944204,46.09046865550408],[14.33812259278346,46.08695465803112],[14.35036990664594,46.08341482213638],[14.37191898037668,46.09008108187646],[14.40855757007586,46.08287221887787],[14.41506880108437,46.08276886698968],[14.42080488483759,46.08106354374758],[14.42406049989222,46.07824717916407],[14.43243208197504,46.0630284692885],[14.4347575210428,46.06065135427662],[14.4372379897415,46.05618134239506],[14.43987348807104,46.05021271374579],[14.44080366405791,46.04096263341887],[14.44033857606451,46.03615672475308],[14.43956342880927,46.03375377131954],[14.42886640765863,46.02902537701959],[14.41243330185546,46.0348648144597],[14.40731733572653,46.03576915112546],[14.38525149895759,46.0322293161301],[14.36664798281822,46.02747508430775],[14.35951663598399,46.02070547088084],[14.34199832456306,46.01401337271903],[14.34323855981171,46.01941356148672],[14.34447879416109,46.0218940292861],[14.34432376542946,46.02520132118406],[14.34308353018082,46.0291028922847],[14.33714074085253,46.03762950309914],[14.33093956910585,46.04065257415704],[14.32318810374807,46.04266795486228],[14.28241539895157,46.04556183471095],[14.257093947128,46.04124685335967],[14.25259809682478,46.03972239817017],[14.24345136928531,46.03145416887486],[14.24407148601034,46.02024038288744],[14.19037967288364,46.02468455724659],[14.19286014158234,46.03468394640703],[14.18681399856723,46.03791372303994],[14.20681277778749,46.06008291349571],[14.20758792504273,46.06690420196742],[14.21006839374144,46.07346710892],[14.21115359935919,46.08814321643632],[14.23197920087949,46.09989960388367],[14.26732588118449,46.10648834925797],[14.32504845482237,46.09832347275011]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1225925097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.26703,46.28921,15.26703,46.28921",
+    "geom:latitude":46.28921,
+    "geom:longitude":15.26703,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Brezova",
+    "gn:country_code":"SI",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987182,
+    "gn:latitude":46.28921,
+    "gn:longitude":15.26703,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Brezova",
+    "gn:population":229,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959693,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987182,
+        "wk:page":"Brezova%2C_Celje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2b975b293f1f7cca37308cf4009a3fa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959693,
+            "locality_id":1225925097,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1225925097,
+    "wof:lastmodified":1537573471,
+    "wof:name":"Brezova",
+    "wof:parent_id":1108959693,
+    "wof:placetype":"locality",
+    "wof:population":229,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.26703,
+    46.28921,
+    15.26703,
+    46.28921
+],
+  "geometry": {"coordinates":[15.26703,46.28921],"type":"Point"}
+}

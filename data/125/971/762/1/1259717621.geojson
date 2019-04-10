@@ -1,0 +1,74 @@
+{
+  "id": 1259717621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.70118,46.23514,14.70118,46.23514",
+    "geom:latitude":46.23514,
+    "geom:longitude":14.70118,
+    "gn:admin1_code":"H6",
+    "gn:asciiname":"Zubejevo",
+    "gn:country_code":"SI",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989004,
+    "gn:latitude":46.23514,
+    "gn:longitude":14.70118,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u017dubejevo",
+    "gn:population":22,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017dubejevo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959941,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989004,
+        "wk:page":"%C5%BDubejevo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e702387c18d9cfafadcfa43b669827c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959941,
+            "locality_id":1259717621,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1259717621,
+    "wof:lastmodified":1537700318,
+    "wof:name":"Zubejevo",
+    "wof:parent_id":1108959941,
+    "wof:placetype":"locality",
+    "wof:population":22,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.70118,
+    46.23514,
+    14.70118,
+    46.23514
+],
+  "geometry": {"coordinates":[14.70118,46.23514],"type":"Point"}
+}

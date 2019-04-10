@@ -1,0 +1,71 @@
+{
+  "id": 1242709181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.03365,46.79672,16.03365,46.79672",
+    "geom:latitude":46.79672,
+    "geom:longitude":16.03365,
+    "gn:admin1_code":"A6",
+    "gn:asciiname":"Sveti Jurij",
+    "gn:country_code":"SI",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986920,
+    "gn:latitude":46.79672,
+    "gn:longitude":16.03365,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Sveti Jurij",
+    "gn:population":484,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959655,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986920,
+        "wk:page":"Sveti_Jurij%2C_Roga%C5%A1ovci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8b646a6168362c7ff3baaa2bb3c42910",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959655,
+            "locality_id":1242709181,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1242709181,
+    "wof:lastmodified":1537573464,
+    "wof:name":"Sveti Jurij",
+    "wof:parent_id":1108959655,
+    "wof:placetype":"locality",
+    "wof:population":484,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.03365,
+    46.79672,
+    16.03365,
+    46.79672
+],
+  "geometry": {"coordinates":[16.03365,46.79672],"type":"Point"}
+}

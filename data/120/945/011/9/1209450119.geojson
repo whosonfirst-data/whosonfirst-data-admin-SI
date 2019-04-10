@@ -1,0 +1,65 @@
+{
+  "id": 1209450119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.19944,45.76694,14.19944,45.76694",
+    "geom:latitude":45.76694,
+    "geom:longitude":14.19944,
+    "gn:admin1_code":"94",
+    "gn:asciiname":"Zalog",
+    "gn:country_code":"SI",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186832,
+    "gn:latitude":45.76694,
+    "gn:longitude":14.19944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Zalog",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saloga di Postumia",
+        "Zalog"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186832
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1a45a6be1d6edc8c2d86282674d23a71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209450119
+        }
+    ],
+    "wof:id":1209450119,
+    "wof:lastmodified":1537700171,
+    "wof:name":"Zalog",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.19944,
+    45.76694000000001,
+    14.19944,
+    45.76694000000001
+],
+  "geometry": {"coordinates":[14.19944,45.76694000000001],"type":"Point"}
+}

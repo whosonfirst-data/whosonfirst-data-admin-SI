@@ -1,0 +1,67 @@
+{
+  "id": 1343497081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.09722,46.25472,15.09722,46.25472",
+    "geom:latitude":46.25472,
+    "geom:longitude":15.09722,
+    "gn:admin1_code":"K4",
+    "gn:asciiname":"Groblje",
+    "gn:country_code":"SI",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217217,
+    "gn:latitude":46.25472,
+    "gn:longitude":15.09722,
+    "gn:modification_date":"2008-11-25",
+    "gn:name":"Groblje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959713,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217217
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"07e2b2ea8870c530e44b6df6892b06f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959713,
+            "locality_id":1343497081,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1343497081,
+    "wof:lastmodified":1536693496,
+    "wof:name":"Groblje",
+    "wof:parent_id":1108959713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.09722,
+    46.25472,
+    15.09722,
+    46.25472
+],
+  "geometry": {"coordinates":[15.09722,46.25472],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1326966483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.83333,46.23333,14.83333,46.23333",
+    "geom:latitude":46.23333,
+    "geom:longitude":14.83333,
+    "gn:admin1_code":"H6",
+    "gn:asciiname":"Okrog pri Motniku",
+    "gn:country_code":"SI",
+    "gn:dem":1033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194154,
+    "gn:latitude":46.23333,
+    "gn:longitude":14.83333,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Okrog pri Motniku",
+    "gn:population":64,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Okrog",
+        "Okrog pri Motniko"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959941,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194154,
+        "wk:page":"Okrog_pri_Motniku"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c468352209fd1c4de1049ad040b5634b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959941,
+            "locality_id":1326966483,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1326966483,
+    "wof:lastmodified":1537700213,
+    "wof:name":"Okrog pri Motniku",
+    "wof:parent_id":1108959941,
+    "wof:placetype":"locality",
+    "wof:population":64,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.83333,
+    46.23333,
+    14.83333,
+    46.23333
+],
+  "geometry": {"coordinates":[14.83333,46.23333],"type":"Point"}
+}

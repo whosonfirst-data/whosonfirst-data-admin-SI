@@ -1,0 +1,71 @@
+{
+  "id": 1226273941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.88864,45.97192,14.88864,45.97192",
+    "geom:latitude":45.97192,
+    "geom:longitude":14.88864,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Temenica",
+    "gn:country_code":"SI",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189167,
+    "gn:latitude":45.97192,
+    "gn:longitude":14.88864,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Temenica",
+    "gn:population":177,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959583,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189167,
+        "wk:page":"Temenica%2C_Ivan%C4%8Dna_Gorica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ffaa3c17d23d67d313815a4405636a83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959583,
+            "locality_id":1226273941,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1226273941,
+    "wof:lastmodified":1537573393,
+    "wof:name":"Temenica",
+    "wof:parent_id":1108959583,
+    "wof:placetype":"locality",
+    "wof:population":177,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.88864,
+    45.97192,
+    14.88864,
+    45.97192
+],
+  "geometry": {"coordinates":[14.88864,45.97192],"type":"Point"}
+}

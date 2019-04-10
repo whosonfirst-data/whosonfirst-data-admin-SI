@@ -1,0 +1,75 @@
+{
+  "id": 1327202263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.98909,46.45208,15.98909,46.45208",
+    "geom:latitude":46.45208,
+    "geom:longitude":15.98909,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Slomi",
+    "gn:country_code":"SI",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190540,
+    "gn:latitude":46.45208,
+    "gn:longitude":15.98909,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Slomi",
+    "gn:population":95,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Slom",
+        "Slomi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959761,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190540,
+        "wk:page":"Slomi"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1d04e63a2cce868d3ef1669b0b130c0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959761,
+            "locality_id":1327202263,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1327202263,
+    "wof:lastmodified":1537700192,
+    "wof:name":"Slomi",
+    "wof:parent_id":1108959761,
+    "wof:placetype":"locality",
+    "wof:population":95,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.98909,
+    46.45208,
+    15.98909,
+    46.45208
+],
+  "geometry": {"coordinates":[15.98909,46.45208],"type":"Point"}
+}

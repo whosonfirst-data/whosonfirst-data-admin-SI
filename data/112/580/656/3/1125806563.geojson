@@ -1,0 +1,114 @@
+{
+  "id": 1125806563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.4325,46.16417,14.4325,46.16417",
+    "geom:latitude":46.16417,
+    "geom:longitude":14.4325,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":500,
+    "iso:country":"SI",
+    "lbl:latitude":46.16417,
+    "lbl:longitude":14.4325,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Smlednik"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u043c\u043b\u0435\u0434\u043d\u0438\u043a"
+    ],
+    "name:dut_x_preferred":[
+        "Smlednik"
+    ],
+    "name:eng_x_preferred":[
+        "Smlednik"
+    ],
+    "name:rum_x_preferred":[
+        "Smlednik"
+    ],
+    "name:slv_x_preferred":[
+        "Smlednik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043c\u043b\u0435\u0434\u043d\u0438\u043a"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3190474,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Smlednik",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Ljubljana",
+    "qs_pg:photos":34,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":34,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1165736,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":531609,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Ljubljana",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959881,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190474,
+        "gp:id":531609,
+        "qs_pg:id":1165736,
+        "wd:id":"Q1995091"
+    },
+    "wof:country":"SI",
+    "wof:created":1497291488,
+    "wof:geomhash":"ad7241d6f95dac6ef7d0dfebe95d4dae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959881,
+            "locality_id":1125806563,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1125806563,
+    "wof:lastmodified":1531170275,
+    "wof:name":"Smlednik",
+    "wof:parent_id":1108959881,
+    "wof:placetype":"locality",
+    "wof:population":500,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.4325,
+    46.16417,
+    14.4325,
+    46.16417
+],
+  "geometry": {"coordinates":[14.4325,46.16417],"type":"Point"}
+}

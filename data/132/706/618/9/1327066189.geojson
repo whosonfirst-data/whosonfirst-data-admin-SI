@@ -1,0 +1,74 @@
+{
+  "id": 1327066189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.90709,45.95114,14.90709,45.95114",
+    "geom:latitude":45.95114,
+    "geom:longitude":14.90709,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Sentjurje",
+    "gn:country_code":"SI",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988113,
+    "gn:latitude":45.95114,
+    "gn:longitude":14.90709,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160entjurje",
+    "gn:population":72,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160entjurje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959583,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988113,
+        "wk:page":"%C5%A0entjurje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"316b9d2600a0fa9319f17408a8fb7e88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959583,
+            "locality_id":1327066189,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1327066189,
+    "wof:lastmodified":1537700300,
+    "wof:name":"Sentjurje",
+    "wof:parent_id":1108959583,
+    "wof:placetype":"locality",
+    "wof:population":72,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.90709,
+    45.95114,
+    14.90709,
+    45.95114
+],
+  "geometry": {"coordinates":[14.90709,45.95114],"type":"Point"}
+}

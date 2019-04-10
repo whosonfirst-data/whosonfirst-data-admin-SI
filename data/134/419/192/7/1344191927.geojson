@@ -1,0 +1,74 @@
+{
+  "id": 1344191927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.26193,45.91002,15.26193,45.91002",
+    "geom:latitude":45.91002,
+    "geom:longitude":15.26193,
+    "gn:admin1_code":"B8",
+    "gn:asciiname":"Zalog pri Skocjanu",
+    "gn:country_code":"SI",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988427,
+    "gn:latitude":45.91002,
+    "gn:longitude":15.26193,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Zalog pri \u0160kocjanu",
+    "gn:population":51,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zalog pri \u0160kocjanu"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959605,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988427,
+        "wk:page":"Zalog_pri_%C5%A0kocjanu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e75aa80c290fb7991fd622dea7c2fc2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959605,
+            "locality_id":1344191927,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1344191927,
+    "wof:lastmodified":1537700306,
+    "wof:name":"Zalog pri Skocjanu",
+    "wof:parent_id":1108959605,
+    "wof:placetype":"locality",
+    "wof:population":51,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.26193,
+    45.91002,
+    15.26193,
+    45.91002
+],
+  "geometry": {"coordinates":[15.26193,45.91002],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226173027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.36667,45.85,15.36667,45.85",
+    "geom:latitude":45.85,
+    "geom:longitude":15.36667,
+    "gn:admin1_code":"B4",
+    "gn:asciiname":"Groblje pri Prekopi",
+    "gn:country_code":"SI",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199536,
+    "gn:latitude":45.85,
+    "gn:longitude":15.36667,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Groblje pri Prekopi",
+    "gn:population":207,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Groblje",
+        "Groblje pri Prekopi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959937,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199536,
+        "wk:page":"Groblje_pri_Prekopi"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6143c9fc339470e40319ac96458141a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959937,
+            "locality_id":1226173027,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1226173027,
+    "wof:lastmodified":1537700240,
+    "wof:name":"Groblje pri Prekopi",
+    "wof:parent_id":1108959937,
+    "wof:placetype":"locality",
+    "wof:population":207,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.36667,
+    45.85,
+    15.36667,
+    45.85
+],
+  "geometry": {"coordinates":[15.36667,45.85],"type":"Point"}
+}

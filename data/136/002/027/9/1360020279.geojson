@@ -1,0 +1,71 @@
+{
+  "id": 1360020279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.22622,45.79232,15.22622,45.79232",
+    "geom:latitude":45.79232,
+    "geom:longitude":15.22622,
+    "gn:admin1_code":"J7",
+    "gn:asciiname":"Veliki Slatnik",
+    "gn:country_code":"SI",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187997,
+    "gn:latitude":45.79232,
+    "gn:longitude":15.22622,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Veliki Slatnik",
+    "gn:population":151,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959465,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187997,
+        "wk:page":"Veliki_Slatnik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f471ff61ce388347fb38387ab13a18f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959465,
+            "locality_id":1360020279,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1360020279,
+    "wof:lastmodified":1537573388,
+    "wof:name":"Veliki Slatnik",
+    "wof:parent_id":1108959465,
+    "wof:placetype":"locality",
+    "wof:population":151,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.22622,
+    45.79232,
+    15.22622,
+    45.79232
+],
+  "geometry": {"coordinates":[15.22622,45.79232],"type":"Point"}
+}

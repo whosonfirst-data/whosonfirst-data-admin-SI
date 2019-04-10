@@ -1,0 +1,71 @@
+{
+  "id": 1226273907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.14583,46.46222,16.14583,46.46222",
+    "geom:latitude":46.46222,
+    "geom:longitude":16.14583,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Ivanjkovci",
+    "gn:country_code":"SI",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199058,
+    "gn:latitude":46.46222,
+    "gn:longitude":16.14583,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Ivanjkovci",
+    "gn:population":251,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959765,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199058,
+        "wk:page":"Ivanjkovci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d71fb996d00afa9e6cf35b2ee50e4282",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959765,
+            "locality_id":1226273907,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1226273907,
+    "wof:lastmodified":1537573434,
+    "wof:name":"Ivanjkovci",
+    "wof:parent_id":1108959765,
+    "wof:placetype":"locality",
+    "wof:population":251,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.14583,
+    46.46222,
+    16.14583,
+    46.46222
+],
+  "geometry": {"coordinates":[16.14583,46.46222],"type":"Point"}
+}

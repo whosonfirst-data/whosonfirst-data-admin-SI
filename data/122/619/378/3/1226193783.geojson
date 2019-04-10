@@ -1,0 +1,71 @@
+{
+  "id": 1226193783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.33714,45.49767,14.33714,45.49767",
+    "geom:latitude":45.49767,
+    "geom:longitude":14.33714,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Fabci",
+    "gn:country_code":"SI",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989108,
+    "gn:latitude":45.49767,
+    "gn:longitude":14.33714,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Fabci",
+    "gn:population":17,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959873,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989108,
+        "wk:page":"Fabci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9e8c43fa55e60fbf8de7d713db254e4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959873,
+            "locality_id":1226193783,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1226193783,
+    "wof:lastmodified":1537573532,
+    "wof:name":"Fabci",
+    "wof:parent_id":1108959873,
+    "wof:placetype":"locality",
+    "wof:population":17,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.33714,
+    45.49767,
+    14.33714,
+    45.49767
+],
+  "geometry": {"coordinates":[14.33714,45.49767],"type":"Point"}
+}

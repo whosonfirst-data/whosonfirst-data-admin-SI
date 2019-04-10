@@ -1,0 +1,77 @@
+{
+  "id": 1343647189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.5612,45.84822,15.5612,45.84822",
+    "geom:latitude":45.84822,
+    "geom:longitude":15.5612,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kamence",
+    "gn:country_code":"SI",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989272,
+    "gn:latitude":45.84822,
+    "gn:longitude":15.5612,
+    "gn:modification_date":"2015-12-03",
+    "gn:name":"Kamence",
+    "gn:population":10,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Kamenice"
+    ],
+    "name:slv_x_preferred":[
+        "Kamenice"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989272,
+        "wk:page":"Kamence%2C_Bre%C5%BEice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d83b807d7dfa9f5c74fb37efc9252492",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1343647189,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1343647189,
+    "wof:lastmodified":1537700323,
+    "wof:name":"Kamence",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.5612,
+    45.84822,
+    15.5612,
+    45.84822
+],
+  "geometry": {"coordinates":[15.5612,45.84822],"type":"Point"}
+}

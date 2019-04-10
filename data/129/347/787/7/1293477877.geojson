@@ -1,0 +1,71 @@
+{
+  "id": 1293477877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.27691,46.27108,15.27691,46.27108",
+    "geom:latitude":46.27108,
+    "geom:longitude":15.27691,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Prekorje",
+    "gn:country_code":"SI",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986990,
+    "gn:latitude":46.27108,
+    "gn:longitude":15.27691,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Prekorje",
+    "gn:population":373,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959693,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986990,
+        "wk:page":"Prekorje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e14393a403d686e3a12b6070dcd8e4df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959693,
+            "locality_id":1293477877,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1293477877,
+    "wof:lastmodified":1537573466,
+    "wof:name":"Prekorje",
+    "wof:parent_id":1108959693,
+    "wof:placetype":"locality",
+    "wof:population":373,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.27691,
+    46.27108,
+    15.27691,
+    46.27108
+],
+  "geometry": {"coordinates":[15.27691,46.27108],"type":"Point"}
+}

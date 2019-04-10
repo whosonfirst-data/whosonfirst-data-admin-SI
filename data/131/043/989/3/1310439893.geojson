@@ -1,0 +1,75 @@
+{
+  "id": 1310439893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.15361,45.81611,14.15361,45.81611",
+    "geom:latitude":45.81611,
+    "geom:longitude":14.15361,
+    "gn:admin1_code":"94",
+    "gn:asciiname":"Belsko",
+    "gn:country_code":"SI",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204304,
+    "gn:latitude":45.81611,
+    "gn:longitude":14.15361,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Belsko",
+    "gn:population":207,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oblisca di Postumia",
+        "Belsko"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959559,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204304,
+        "wk:page":"Belsko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"129441c68a69a0b494afae738787b404",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959559,
+            "locality_id":1310439893,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1310439893,
+    "wof:lastmodified":1537700265,
+    "wof:name":"Belsko",
+    "wof:parent_id":1108959559,
+    "wof:placetype":"locality",
+    "wof:population":207,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.15361,
+    45.81611,
+    14.15361,
+    45.81611
+],
+  "geometry": {"coordinates":[14.15361,45.81611],"type":"Point"}
+}

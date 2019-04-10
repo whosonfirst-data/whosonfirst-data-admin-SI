@@ -1,0 +1,75 @@
+{
+  "id": 1276918483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.18556,45.53361,14.18556,45.53361",
+    "geom:latitude":45.53361,
+    "geom:longitude":14.18556,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Sabonje",
+    "gn:country_code":"SI",
+    "gn:dem":579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191370,
+    "gn:latitude":45.53361,
+    "gn:longitude":14.18556,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Sabonje",
+    "gn:population":75,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sabogna",
+        "Sabonje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959873,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191370,
+        "wk:page":"Sabonje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7d98e2c898c6f014637477bae068b3e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959873,
+            "locality_id":1276918483,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1276918483,
+    "wof:lastmodified":1537700198,
+    "wof:name":"Sabonje",
+    "wof:parent_id":1108959873,
+    "wof:placetype":"locality",
+    "wof:population":75,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.18556,
+    45.53361,
+    14.18556,
+    45.53361
+],
+  "geometry": {"coordinates":[14.18556,45.53361],"type":"Point"}
+}

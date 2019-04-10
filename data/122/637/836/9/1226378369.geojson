@@ -1,0 +1,71 @@
+{
+  "id": 1226378369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.28933,45.87174,15.28933,45.87174",
+    "geom:latitude":45.87174,
+    "geom:longitude":15.28933,
+    "gn:admin1_code":"P3",
+    "gn:asciiname":"Hrib",
+    "gn:country_code":"SI",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988652,
+    "gn:latitude":45.87174,
+    "gn:longitude":15.28933,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Hrib",
+    "gn:population":39,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959833,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988652,
+        "wk:page":"Hrib%2C_%C5%A0marje%C5%A1ke_Toplice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2554718aaafe769d8fb5cebe1b455f56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959833,
+            "locality_id":1226378369,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1226378369,
+    "wof:lastmodified":1537573518,
+    "wof:name":"Hrib",
+    "wof:parent_id":1108959833,
+    "wof:placetype":"locality",
+    "wof:population":39,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.28933,
+    45.87174,
+    15.28933,
+    45.87174
+],
+  "geometry": {"coordinates":[15.28933,45.87174],"type":"Point"}
+}

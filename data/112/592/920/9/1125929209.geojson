@@ -1,0 +1,112 @@
+{
+  "id": 1125929209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.38608,46.26582,14.38608,46.26582",
+    "geom:latitude":46.26582,
+    "geom:longitude":14.38608,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":974,
+    "gn:population":989,
+    "iso:country":"SI",
+    "lbl:latitude":46.26582,
+    "lbl:longitude":14.38608,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Predoslje"
+    ],
+    "name:dut_x_preferred":[
+        "Predoslje"
+    ],
+    "name:eng_x_preferred":[
+        "Predoslje"
+    ],
+    "name:hrv_x_preferred":[
+        "Predoslje"
+    ],
+    "name:rum_x_preferred":[
+        "Predoslje"
+    ],
+    "name:slv_x_preferred":[
+        "Predoslje"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0435\u0434\u043e\u0441\u043b\u0454"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3192549,
+    "qs_pg:gn_pop":974,
+    "qs_pg:name":"Predoslje",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Kranj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":216552,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":531228,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Kranj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959933,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192549,
+        "gp:id":531228,
+        "qs_pg:id":216552,
+        "wd:id":"Q3437459"
+    },
+    "wof:country":"SI",
+    "wof:created":1497296746,
+    "wof:geomhash":"fc46ca2b917cb3467335897e2b246e01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959933,
+            "locality_id":1125929209,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1125929209,
+    "wof:lastmodified":1531171363,
+    "wof:name":"Predoslje",
+    "wof:parent_id":1108959933,
+    "wof:placetype":"locality",
+    "wof:population":989,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.38608,
+    46.26582,
+    14.38608,
+    46.26582
+],
+  "geometry": {"coordinates":[14.38608,46.26582],"type":"Point"}
+}

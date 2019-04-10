@@ -1,0 +1,75 @@
+{
+  "id": 1259719705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.59028,45.91056,14.59028,45.91056",
+    "geom:latitude":45.91056,
+    "geom:longitude":14.59028,
+    "gn:admin1_code":"C1",
+    "gn:asciiname":"Vrh nad Zelimljami",
+    "gn:country_code":"SI",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218729,
+    "gn:latitude":45.91056,
+    "gn:longitude":14.59028,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Vrh nad \u017delimljami",
+    "gn:population":290,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vrh",
+        "Vrh nad \u017delimljami"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959891,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218729,
+        "wk:page":"Vrh_nad_%C5%BDelimljami"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"007ab396e313c819803c39c2761a030a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959891,
+            "locality_id":1259719705,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1259719705,
+    "wof:lastmodified":1537700273,
+    "wof:name":"Vrh nad Zelimljami",
+    "wof:parent_id":1108959891,
+    "wof:placetype":"locality",
+    "wof:population":290,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.59028,
+    45.91056,
+    14.59028,
+    45.91056
+],
+  "geometry": {"coordinates":[14.59028,45.91056],"type":"Point"}
+}

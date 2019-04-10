@@ -1,0 +1,71 @@
+{
+  "id": 1259915737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.64547,45.74114,14.64547,45.74114",
+    "geom:latitude":45.74114,
+    "geom:longitude":14.64547,
+    "gn:admin1_code":"M1",
+    "gn:asciiname":"Travna Gora",
+    "gn:country_code":"SI",
+    "gn:dem":884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989245,
+    "gn:latitude":45.74114,
+    "gn:longitude":14.64547,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Travna Gora",
+    "gn:population":12,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959805,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989245,
+        "wk:page":"Travna_Gora"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f9efdc01fa912cc8aa177b9acfd92cd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959805,
+            "locality_id":1259915737,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1259915737,
+    "wof:lastmodified":1537573536,
+    "wof:name":"Travna Gora",
+    "wof:parent_id":1108959805,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.64547,
+    45.74114,
+    14.64547,
+    45.74114
+],
+  "geometry": {"coordinates":[14.64547,45.74114],"type":"Point"}
+}

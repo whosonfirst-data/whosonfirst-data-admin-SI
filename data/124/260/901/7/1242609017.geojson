@@ -1,0 +1,76 @@
+{
+  "id": 1242609017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.69444,45.46278,13.69444,45.46278",
+    "geom:latitude":45.46278,
+    "geom:longitude":13.69444,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Krkavce",
+    "gn:country_code":"SI",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197202,
+    "gn:latitude":45.46278,
+    "gn:longitude":13.69444,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Krkav\u010de",
+    "gn:population":290,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carcase",
+        "Carcauzze",
+        "Krkav\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959527,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197202,
+        "wk:page":"Krkav%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"74fcf1e31a4f3372c4c006a39cd5cb08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959527,
+            "locality_id":1242609017,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1242609017,
+    "wof:lastmodified":1537700228,
+    "wof:name":"Krkavce",
+    "wof:parent_id":1108959527,
+    "wof:placetype":"locality",
+    "wof:population":290,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.69444,
+    45.46278,
+    13.69444,
+    45.46278
+],
+  "geometry": {"coordinates":[13.69444,45.46278],"type":"Point"}
+}

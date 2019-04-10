@@ -1,0 +1,73 @@
+{
+  "id": 1242933729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.74917,46.27469,14.74917,46.27469",
+    "geom:latitude":46.27469,
+    "geom:longitude":14.74917,
+    "gn:admin1_code":"30",
+    "gn:country_code":"SI",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986885,
+    "gn:latitude":46.27469,
+    "gn:longitude":14.74917,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Nova \u0160tifta",
+    "gn:population":633,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nova \u008aTifta"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959547,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986885,
+        "wk:page":"Nova_%C5%A0tifta%2C_Gornji_Grad"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a84d5d07dbceccb5f63ebc9ad9feb127",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959547,
+            "locality_id":1242933729,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1242933729,
+    "wof:lastmodified":1537700276,
+    "wof:name":"",
+    "wof:parent_id":1108959547,
+    "wof:placetype":"locality",
+    "wof:population":633,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.74917,
+    46.27469,
+    14.74917,
+    46.27469
+],
+  "geometry": {"coordinates":[14.74917,46.27469],"type":"Point"}
+}

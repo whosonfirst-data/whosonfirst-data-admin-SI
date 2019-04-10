@@ -1,0 +1,71 @@
+{
+  "id": 1293654137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.70528,45.85611,14.70528,45.85611",
+    "geom:latitude":45.85611,
+    "geom:longitude":14.70528,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Zdenska Vas",
+    "gn:country_code":"SI",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186667,
+    "gn:latitude":45.85611,
+    "gn:longitude":14.70528,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Zdenska Vas",
+    "gn:population":234,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959575,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186667,
+        "wk:page":"Zdenska_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fd134a4a5d299f9abf69e6e07b1a258a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959575,
+            "locality_id":1293654137,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1293654137,
+    "wof:lastmodified":1537573383,
+    "wof:name":"Zdenska Vas",
+    "wof:parent_id":1108959575,
+    "wof:placetype":"locality",
+    "wof:population":234,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.70528,
+    45.85611,
+    14.70528,
+    45.85611
+],
+  "geometry": {"coordinates":[14.70528,45.85611],"type":"Point"}
+}

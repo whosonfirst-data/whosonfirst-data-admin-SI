@@ -1,0 +1,71 @@
+{
+  "id": 1293037017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.92757,46.53332,14.92757,46.53332",
+    "geom:latitude":46.53332,
+    "geom:longitude":14.92757,
+    "gn:admin1_code":"K6",
+    "gn:asciiname":"Zagrad",
+    "gn:country_code":"SI",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987507,
+    "gn:latitude":46.53332,
+    "gn:longitude":14.92757,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Zagrad",
+    "gn:population":140,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959695,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987507,
+        "wk:page":"Zagrad%2C_Prevalje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"012a01082b5c16de3b7717535a8b31a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959695,
+            "locality_id":1293037017,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1293037017,
+    "wof:lastmodified":1537573482,
+    "wof:name":"Zagrad",
+    "wof:parent_id":1108959695,
+    "wof:placetype":"locality",
+    "wof:population":140,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.92757,
+    46.53332,
+    14.92757,
+    46.53332
+],
+  "geometry": {"coordinates":[14.92757,46.53332],"type":"Point"}
+}

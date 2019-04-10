@@ -1,0 +1,71 @@
+{
+  "id": 1327470175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.175,46.56389,16.175,46.56389",
+    "geom:latitude":46.56389,
+    "geom:longitude":16.175,
+    "gn:admin1_code":"I6",
+    "gn:asciiname":"Grlava",
+    "gn:country_code":"SI",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199552,
+    "gn:latitude":46.56389,
+    "gn:longitude":16.175,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Grlava",
+    "gn:population":99,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959499,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199552,
+        "wk:page":"Grlava"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0c8615ce5b410dcdbbfe9a7c12ecb354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959499,
+            "locality_id":1327470175,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1327470175,
+    "wof:lastmodified":1537573436,
+    "wof:name":"Grlava",
+    "wof:parent_id":1108959499,
+    "wof:placetype":"locality",
+    "wof:population":99,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.175,
+    46.56389,
+    16.175,
+    46.56389
+],
+  "geometry": {"coordinates":[16.175,46.56389],"type":"Point"}
+}

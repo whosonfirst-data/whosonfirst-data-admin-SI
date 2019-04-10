@@ -1,0 +1,65 @@
+{
+  "id": 1209350413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.51637,46.17313,15.51637,46.17313",
+    "geom:latitude":46.17313,
+    "geom:longitude":15.51637,
+    "gn:admin1_code":"C5",
+    "gn:asciiname":"Babna Reka",
+    "gn:country_code":"SI",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989807,
+    "gn:latitude":46.17313,
+    "gn:longitude":15.51637,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Babna Reka",
+    "gn:population":97,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989807,
+        "wk:page":"Babna_Reka"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9e2f0694c13922059d5fb5acec591543",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209350413
+        }
+    ],
+    "wof:id":1209350413,
+    "wof:lastmodified":1537573553,
+    "wof:name":"Babna Reka",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":97,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.51637,
+    46.17313,
+    15.51637,
+    46.17313
+],
+  "geometry": {"coordinates":[15.51637,46.17313],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343681813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.64556,45.97442,15.64556,45.97442",
+    "geom:latitude":45.97442,
+    "geom:longitude":15.64556,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Rapovce",
+    "gn:country_code":"SI",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":10794179,
+    "gn:latitude":45.97442,
+    "gn:longitude":15.64556,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Rapovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:deu_x_historical":[
+        "Rapowitz"
+    ],
+    "name:deu_x_preferred":[
+        "Rapowitz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10794179
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"833d7d46b67d9034ed0e4de1cf83118f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1343681813,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1343681813,
+    "wof:lastmodified":1537700336,
+    "wof:name":"Rapovce",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.64556,
+    45.97442,
+    15.64556,
+    45.97442
+],
+  "geometry": {"coordinates":[15.64556,45.97442],"type":"Point"}
+}

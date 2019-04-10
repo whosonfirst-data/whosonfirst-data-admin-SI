@@ -1,0 +1,77 @@
+{
+  "id": 1343798421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.73333,46.21667,14.73333,46.21667",
+    "geom:latitude":46.21667,
+    "geom:longitude":14.73333,
+    "gn:admin1_code":"H6",
+    "gn:asciiname":"Smartno v Tuhinju",
+    "gn:country_code":"SI",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190492,
+    "gn:latitude":46.21667,
+    "gn:longitude":14.73333,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160martno v Tuhinju",
+    "gn:population":218,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160martin",
+        "\u0160martno v Tuhinji",
+        "\u0160martno",
+        "\u0160martno v Tuhinju"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959941,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190492,
+        "wk:page":"%C5%A0martno_v_Tuhinju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b4129a93ef65b4fffc408cfc113be94b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959941,
+            "locality_id":1343798421,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1343798421,
+    "wof:lastmodified":1537700191,
+    "wof:name":"Smartno v Tuhinju",
+    "wof:parent_id":1108959941,
+    "wof:placetype":"locality",
+    "wof:population":218,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.73333,
+    46.21667,
+    14.73333,
+    46.21667
+],
+  "geometry": {"coordinates":[14.73333,46.21667],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226478883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.84306,45.87333,14.84306,45.87333",
+    "geom:latitude":45.87333,
+    "geom:longitude":14.84306,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Gabrovka pri Zagradcu",
+    "gn:country_code":"SI",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200776,
+    "gn:latitude":45.87333,
+    "gn:longitude":14.84306,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Gabrovka pri Zagradcu",
+    "gn:population":109,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gabrovka",
+        "Gabrovka pri Zagradcu"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959583,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200776,
+        "wk:page":"Gabrovka_pri_Zagradcu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b83c90c52908cf763a46a42d2a0676bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959583,
+            "locality_id":1226478883,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1226478883,
+    "wof:lastmodified":1537700247,
+    "wof:name":"Gabrovka pri Zagradcu",
+    "wof:parent_id":1108959583,
+    "wof:placetype":"locality",
+    "wof:population":109,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.84306,
+    45.87333,
+    14.84306,
+    45.87333
+],
+  "geometry": {"coordinates":[14.84306,45.87333],"type":"Point"}
+}

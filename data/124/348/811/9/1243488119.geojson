@@ -1,0 +1,74 @@
+{
+  "id": 1243488119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.16061,45.89457,15.16061,45.89457",
+    "geom:latitude":45.89457,
+    "geom:longitude":15.16061,
+    "gn:admin1_code":"O7",
+    "gn:asciiname":"Bogneca Vas",
+    "gn:country_code":"SI",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988028,
+    "gn:latitude":45.89457,
+    "gn:longitude":15.16061,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Bogne\u010da Vas",
+    "gn:population":80,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bogne\u010da Vas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959913,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988028,
+        "wk:page":"Bogne%C4%8Da_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7e02dbbe332056586df9db32bdccc306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959913,
+            "locality_id":1243488119,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1243488119,
+    "wof:lastmodified":1537700298,
+    "wof:name":"Bogneca Vas",
+    "wof:parent_id":1108959913,
+    "wof:placetype":"locality",
+    "wof:population":80,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.16061,
+    45.89457,
+    15.16061,
+    45.89457
+],
+  "geometry": {"coordinates":[15.16061,45.89457],"type":"Point"}
+}

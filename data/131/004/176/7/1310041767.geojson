@@ -1,0 +1,71 @@
+{
+  "id": 1310041767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.95453,45.93717,14.95453,45.93717",
+    "geom:latitude":45.93717,
+    "geom:longitude":14.95453,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Kukenberk",
+    "gn:country_code":"SI",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988626,
+    "gn:latitude":45.93717,
+    "gn:longitude":14.95453,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kukenberk",
+    "gn:population":40,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959839,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988626,
+        "wk:page":"Kukenberk"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2a54d6f3fcdb8f3100c862123c4c8118",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959839,
+            "locality_id":1310041767,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1310041767,
+    "wof:lastmodified":1537573518,
+    "wof:name":"Kukenberk",
+    "wof:parent_id":1108959839,
+    "wof:placetype":"locality",
+    "wof:population":40,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.95453,
+    45.93717,
+    14.95453,
+    45.93717
+],
+  "geometry": {"coordinates":[14.95453,45.93717],"type":"Point"}
+}

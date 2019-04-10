@@ -1,0 +1,65 @@
+{
+  "id": 1209042563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.72684,46.19773,14.72684,46.19773",
+    "geom:latitude":46.19773,
+    "geom:longitude":14.72684,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Zlato Polje",
+    "gn:country_code":"SI",
+    "gn:dem":619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186394,
+    "gn:latitude":46.19773,
+    "gn:longitude":14.72684,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Zlato Polje",
+    "gn:population":40,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186394,
+        "wk:page":"Zlato_Polje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b502884b1c9a299fbef9f5fca6bd8209",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209042563
+        }
+    ],
+    "wof:id":1209042563,
+    "wof:lastmodified":1537573380,
+    "wof:name":"Zlato Polje",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":40,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.72684,
+    46.19773,
+    14.72684,
+    46.19773
+],
+  "geometry": {"coordinates":[14.72684,46.19773],"type":"Point"}
+}

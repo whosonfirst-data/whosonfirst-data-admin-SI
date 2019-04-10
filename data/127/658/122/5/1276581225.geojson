@@ -1,0 +1,71 @@
+{
+  "id": 1276581225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.45179,45.91114,15.45179,45.91114",
+    "geom:latitude":45.91114,
+    "geom:longitude":15.45179,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Mali Podlog",
+    "gn:country_code":"SI",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195640,
+    "gn:latitude":45.91114,
+    "gn:longitude":15.45179,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Mali Podlog",
+    "gn:population":110,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195640,
+        "wk:page":"Mali_Podlog"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a5d02631bb3c38ab0d4eaa9671f15229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1276581225,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1276581225,
+    "wof:lastmodified":1537573421,
+    "wof:name":"Mali Podlog",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":110,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.45179,
+    45.91114,
+    15.45179,
+    45.91114
+],
+  "geometry": {"coordinates":[15.45179,45.91114],"type":"Point"}
+}

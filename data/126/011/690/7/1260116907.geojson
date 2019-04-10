@@ -1,0 +1,74 @@
+{
+  "id": 1260116907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.98847,45.79676,13.98847,45.79676",
+    "geom:latitude":45.79676,
+    "geom:longitude":13.98847,
+    "gn:admin1_code":"E1",
+    "gn:asciiname":"Hrasce",
+    "gn:country_code":"SI",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987942,
+    "gn:latitude":45.79676,
+    "gn:longitude":13.98847,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Hra\u0161\u010de",
+    "gn:population":88,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hra\u0161\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959623,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987942,
+        "wk:page":"Hra%C5%A1%C4%8De%2C_Vipava"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e45f54e64d2e7b3e46826aa25d14bbbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959623,
+            "locality_id":1260116907,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1260116907,
+    "wof:lastmodified":1537700296,
+    "wof:name":"Hrasce",
+    "wof:parent_id":1108959623,
+    "wof:placetype":"locality",
+    "wof:population":88,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.98847,
+    45.79676,
+    13.98847,
+    45.79676
+],
+  "geometry": {"coordinates":[13.98847,45.79676],"type":"Point"}
+}

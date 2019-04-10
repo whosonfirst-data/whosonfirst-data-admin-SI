@@ -1,0 +1,71 @@
+{
+  "id": 1226572315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.33333,46.21667,14.33333,46.21667",
+    "geom:latitude":46.21667,
+    "geom:longitude":14.33333,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Srednje Bitnje",
+    "gn:country_code":"SI",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190127,
+    "gn:latitude":46.21667,
+    "gn:longitude":14.33333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Srednje Bitnje",
+    "gn:population":579,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959933,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190127,
+        "wk:page":"Srednje_Bitnje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5c640f43eadac27af8c08dc8a1b068d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959933,
+            "locality_id":1226572315,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1226572315,
+    "wof:lastmodified":1537573396,
+    "wof:name":"Srednje Bitnje",
+    "wof:parent_id":1108959933,
+    "wof:placetype":"locality",
+    "wof:population":579,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.33333,
+    46.21667,
+    14.33333,
+    46.21667
+],
+  "geometry": {"coordinates":[14.33333,46.21667],"type":"Point"}
+}

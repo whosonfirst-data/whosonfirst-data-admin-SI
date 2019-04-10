@@ -1,0 +1,140 @@
+{
+  "id": 101835961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000089,
+    "geom:area_square_m":770239.708724,
+    "geom:bbox":"14.4680658539,45.7036850623,14.4797673711,45.7198246937",
+    "geom:latitude":45.712544,
+    "geom:longitude":14.473942,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":864,
+    "iso:country":"SI",
+    "lbl:latitude":45.71555,
+    "lbl:longitude":14.471593,
+    "mps:latitude":45.71555,
+    "mps:longitude":14.471593,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Stari trg pri Lo\u017eu"
+    ],
+    "name:dut_x_preferred":[
+        "Stari Trg pri Lo\u017eu"
+    ],
+    "name:eng_x_preferred":[
+        "Stari Trg pri Lo\u017eu"
+    ],
+    "name:hbs_x_preferred":[
+        "Stari trg pri Lo\u017eu"
+    ],
+    "name:hrv_x_preferred":[
+        "Stari trg pri Lo\u017eu"
+    ],
+    "name:ron_x_preferred":[
+        "Stari trg pri Lo\u017eu"
+    ],
+    "name:rum_x_preferred":[
+        "Stari trg pri Lo\u017eu"
+    ],
+    "name:slv_x_preferred":[
+        "Stari trg pri Lo\u017eu"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438 \u0422\u0440\u0433 \u043f\u0440\u0438 \u041b\u043e\u0436\u0443"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438\u0439 \u0422\u0440\u0433-\u043f\u0440\u0438-\u041b\u043e\u0436\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Altenmarkt"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"Stari trg pri Lo\u017eu",
+    "qs:la_lc":"*SI065000",
+    "qs:level":"locality",
+    "qs:loc":"Stari trg pri Lo\u017eu",
+    "qs:loc_alt":"Stari trg pri Lozu",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3189940,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Stari Trg Pri Lo\u017eu",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Cerknica",
+    "qs_pg:photos":58,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":58,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1165740,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":531769,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":151,
+    "wof:belongsto":[
+        102191581,
+        1108959863,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189940,
+        "gp:id":531769,
+        "qs:id":1165740,
+        "qs_pg:id":1165740,
+        "wd:id":"Q3437450",
+        "wk:page":"Stari Trg pri Lo\u017eu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0993e3e094950df43175d0f3e26529af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959863,
+            "locality_id":101835961,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":101835961,
+    "wof:lastmodified":1534379460,
+    "wof:name":"Stari trg pri Lo\u017eu",
+    "wof:parent_id":1108959863,
+    "wof:placetype":"locality",
+    "wof:population":864,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125806595
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.46806585389032,
+    45.70368506230773,
+    14.4797673710658,
+    45.71982469374757
+],
+  "geometry": {"coordinates":[[[14.46806881023218,45.71938455825631],[14.47838754230486,45.71982469374757],[14.47831293687568,45.71891584705776],[14.47959381193766,45.71886170075072],[14.47951998986548,45.71796259485291],[14.47695827940146,45.71807086993994],[14.47688450244323,45.7171717613902],[14.47560366474846,45.71722587470651],[14.47552991192578,45.71632676453601],[14.4742490929151,45.71638086135761],[14.47380676815607,45.71098618176319],[14.47764884082142,45.71082386345103],[14.47750129868842,45.70902563837797],[14.47878194305855,45.70897150341034],[14.47848681284779,45.70537505029904],[14.4797673710658,45.70532090399308],[14.47969357545048,45.70442179026918],[14.47585195681256,45.70458417971383],[14.47577822724486,45.70368506230773],[14.47449770408053,45.7037391601724],[14.47457141268615,45.70463827860829],[14.47329086627059,45.70469236204235],[14.47358564840636,45.70828883399724],[14.47102438098972,45.70839696271764],[14.47139272000254,45.71289254966939],[14.46883123374084,45.71300062683088],[14.46934674727726,45.71929443818613],[14.46806585389032,45.71934846077238],[14.46806881023218,45.71938455825631]]],"type":"Polygon"}
+}

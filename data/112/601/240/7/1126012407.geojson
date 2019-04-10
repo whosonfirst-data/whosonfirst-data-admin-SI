@@ -1,0 +1,111 @@
+{
+  "id": 1126012407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.881767,46.473926,15.881767,46.473926",
+    "geom:latitude":46.473926,
+    "geom:longitude":15.881767,
+    "gn:gn_country":null,
+    "iso:country":"SI",
+    "lbl:latitude":46.473926,
+    "lbl:longitude":15.881767,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Destrnik"
+    ],
+    "name:dut_x_preferred":[
+        "Destrnik"
+    ],
+    "name:eng_x_preferred":[
+        "Destrnik"
+    ],
+    "name:rum_x_preferred":[
+        "Destrnik"
+    ],
+    "name:slv_x_preferred":[
+        "Destrnik"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0435\u0441\u0442\u0440\u043d\u0438\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u0441\u0442\u0440\u043d\u0438\u043a"
+    ],
+    "name:vie_x_preferred":[
+        "Destrnik"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Destrnik",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Ptuj",
+    "qs_pg:photos":22,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":22,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":977062,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":529806,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Ptuj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959755,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":529806,
+        "qs_pg:id":977062,
+        "wd:id":"Q1255557"
+    },
+    "wof:country":"SI",
+    "wof:created":1497300350,
+    "wof:geomhash":"1bbfd2cb2b3d285572d2a294a4a8d081",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959755,
+            "locality_id":1126012407,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1126012407,
+    "wof:lastmodified":1534379460,
+    "wof:name":"Destrnik",
+    "wof:parent_id":1108959755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[
+        101858973
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.881767,
+    46.473926,
+    15.881767,
+    46.473926
+],
+  "geometry": {"coordinates":[15.881767,46.473926],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1326464459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.23333,46.66667,16.23333,46.66667",
+    "geom:latitude":46.66667,
+    "geom:longitude":16.23333,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Mlajtinci",
+    "gn:country_code":"SI",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194981,
+    "gn:latitude":46.66667,
+    "gn:longitude":16.23333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Mlajtinci",
+    "gn:population":196,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e1ln\u00e1s",
+        "Mlajtinci-Luka\u010dovci",
+        "Kism\u00e1ln\u00e1s",
+        "Mlajtince",
+        "Mlajtinci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959925,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194981,
+        "wk:page":"Mlajtinci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b9f44096f0a8994cf1ae8fa79940f27f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959925,
+            "locality_id":1326464459,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1326464459,
+    "wof:lastmodified":1537700218,
+    "wof:name":"Mlajtinci",
+    "wof:parent_id":1108959925,
+    "wof:placetype":"locality",
+    "wof:population":196,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.23333,
+    46.66667,
+    16.23333,
+    46.66667
+],
+  "geometry": {"coordinates":[16.23333,46.66667],"type":"Point"}
+}

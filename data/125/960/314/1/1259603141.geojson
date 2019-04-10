@@ -1,0 +1,73 @@
+{
+  "id": 1259603141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.66925,45.98092,15.66925,45.98092",
+    "geom:latitude":45.98092,
+    "geom:longitude":15.66925,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Makovce",
+    "gn:country_code":"SI",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":10794166,
+    "gn:latitude":45.98092,
+    "gn:longitude":15.66925,
+    "gn:modification_date":"2015-10-03",
+    "gn:name":"Makovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:deu_x_historical":[
+        "Makowitz"
+    ],
+    "name:deu_x_preferred":[
+        "Makowitz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10794166
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b2cb1ee056ffc0fad2f1423e65466065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1259603141,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1259603141,
+    "wof:lastmodified":1537700336,
+    "wof:name":"Makovce",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.66925,
+    45.98092000000001,
+    15.66925,
+    45.98092000000001
+],
+  "geometry": {"coordinates":[15.66925,45.98092000000001],"type":"Point"}
+}

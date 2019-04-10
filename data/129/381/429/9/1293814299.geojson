@@ -1,0 +1,74 @@
+{
+  "id": 1293814299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.80472,45.91639,14.80472,45.91639",
+    "geom:latitude":45.91639,
+    "geom:longitude":14.80472,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Malo Crnelo",
+    "gn:country_code":"SI",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195581,
+    "gn:latitude":45.91639,
+    "gn:longitude":14.80472,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Malo \u010crnelo",
+    "gn:population":39,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malo \u010crnelo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959583,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195581,
+        "wk:page":"Malo_%C4%8Crnelo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1f675b25481c6a72543ccb69209c2f92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959583,
+            "locality_id":1293814299,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1293814299,
+    "wof:lastmodified":1537700220,
+    "wof:name":"Malo Crnelo",
+    "wof:parent_id":1108959583,
+    "wof:placetype":"locality",
+    "wof:population":39,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.80472,
+    45.91639,
+    14.80472,
+    45.91639
+],
+  "geometry": {"coordinates":[14.80472,45.91639],"type":"Point"}
+}

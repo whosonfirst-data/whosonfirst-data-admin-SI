@@ -1,0 +1,191 @@
+{
+  "id": 85677627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.015043,
+    "geom:area_square_m":127869195.451469,
+    "geom:bbox":"15.753746779,46.4949400911,15.9559049824,46.6481607123",
+    "geom:latitude":46.574313,
+    "geom:longitude":15.833191,
+    "gn:population":8147,
+    "iso:country":"SI",
+    "lbl:latitude":46.566755,
+    "lbl:longitude":15.831659,
+    "mps:latitude":46.566755,
+    "mps:longitude":15.831659,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:bos_x_preferred":[
+        "Lenart"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u010dina Lenart"
+    ],
+    "name:eng_x_preferred":[
+        "Lenart"
+    ],
+    "name:hbs_x_preferred":[
+        "Lenart"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Lenart"
+    ],
+    "name:nld_x_preferred":[
+        "Lenart"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Lenart"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Lenart"
+    ],
+    "name:sco_x_preferred":[
+        "Municipality o Lenart"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Lenart"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041b\u0435\u043d\u0430\u0440\u0442"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u043d\u0430\u0440\u0442"
+    ],
+    "name:und_x_preferred":[
+        "Lenart"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Lenart"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-208",
+    "ne:adm1_code":"SVN-208",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SI.PD.LE",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"208",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SII3",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.I3",
+    "ne:gn_id":"3196684",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Lenart",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI12",
+    "ne:gns_id":"-86734",
+    "ne:gns_lang":"srp",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Lenart, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"46.55750000000",
+    "ne:longitude":"15.85480000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Lenart",
+    "ne:name_alt":"",
+    "ne:name_len":6,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"LE",
+    "ne:provnum_ne":"148",
+    "ne:region":"Podravska",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":55848361,
+    "ne:woe_label":"Lenart, SI, Slovenia",
+    "ne:woe_name":"Lenart",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Lenart",
+    "qs:a1_lc":"SVN-208",
+    "qs:a1r":"Podravska",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":78,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SII3",
+        "gn:id":3196684,
+        "gp:id":55848361,
+        "hasc:id":"SI.PD.LE",
+        "qs:id":204573,
+        "wd:id":"Q13365883",
+        "wk:page":"Municipality of Lenart"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5125918bf1187509507a7be333eb47c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677627
+        }
+    ],
+    "wof:id":85677627,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616731,
+    "wof:name":"Lenart",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:population":8147,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[
+        1108959477
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.75374677899072,
+    46.49494009111237,
+    15.95590498242905,
+    46.64816071234708
+],
+  "geometry": {"coordinates":[[[15.80015221475298,46.64686880115431],[15.81829064289889,46.64544770055102],[15.82340660992713,46.6401508654701],[15.82526696100149,46.63637848647801],[15.82852257695544,46.62749013955835],[15.82914269368041,46.62376943651032],[15.82929772331136,46.61898936626631],[15.83456871907117,46.61493276643409],[15.84480065312766,46.6091708442591],[15.85177697123027,46.60749136033809],[15.85678958457174,46.60733633070714],[15.8628357275868,46.61095368096767],[15.87539310071105,46.60594106672693],[15.89306644086361,46.58819021310791],[15.89818240699253,46.58428864200727],[15.90236819803397,46.58346181880796],[15.90531375472602,46.58503794994147],[15.9114115736852,46.58516714115069],[15.91513227673323,46.58583893471911],[15.92613935714564,46.59100657769147],[15.93327070487919,46.59640676555983],[15.95590498242905,46.58821605152963],[15.94350263803636,46.58118805658358],[15.9380766126456,46.57958608702836],[15.92644941640748,46.57359161995737],[15.92226362536604,46.56883738903434],[15.9196281270365,46.56532339156132],[15.92846479711272,46.54191396675623],[15.9241239764404,46.53436920787271],[15.8921362648768,46.54640981705944],[15.88422977078733,46.54222402601806],[15.8729126320124,46.53793488218912],[15.86764163625259,46.53372325272596],[15.86500613792299,46.52948578574046],[15.86190555159999,46.52563589148326],[15.86004519962631,46.51989980683067],[15.85694461420263,46.51579153105439],[15.8544641464033,46.50630890583142],[15.82340660992713,46.49494009111237],[15.81627526219364,46.49731720612419],[15.81038414880948,46.50625722898798],[15.81177941278969,46.50866018332084],[15.81441491111929,46.51204499048396],[15.81767052617391,46.51486135506752],[15.81519005657589,46.52015818924906],[15.80929894409104,46.52532583312075],[15.79095381037013,46.53462759119043],[15.78878340003394,46.5376248238266],[15.7876981953155,46.54178477644632],[15.78490766825433,46.54496287713511],[15.78087690594452,46.54697825784041],[15.77560591018465,46.54796010977128],[15.76909467917613,46.54710744904958],[15.75374677899072,46.54697825784041],[15.76924970880708,46.55940643975543],[15.76568403539,46.56129263015083],[15.76366865378537,46.56501333319881],[15.7604130387308,46.5675971537857],[15.75467695497753,46.57328156249417],[15.7599479507374,46.5881126978428],[15.75777754130053,46.60268545257162],[15.76072309709332,46.61493276643409],[15.77064497188798,46.63425975208594],[15.77328047021757,46.64327728931551],[15.77622602690968,46.64526683249835],[15.77839643724582,46.64816071234708],[15.80015221475298,46.64686880115431]]],"type":"Polygon"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1243203125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.97202,46.46863,13.97202,46.46863",
+    "geom:latitude":46.46863,
+    "geom:longitude":13.97202,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Dovje",
+    "gn:country_code":"SI",
+    "gn:dem":925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201349,
+    "gn:latitude":46.46863,
+    "gn:longitude":13.97202,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Dovje",
+    "gn:population":640,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dovie",
+        "Dovje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959843,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201349,
+        "wk:page":"Dovje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d070e7eb8f659fa3402597a1529fc80c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959843,
+            "locality_id":1243203125,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1243203125,
+    "wof:lastmodified":1537700250,
+    "wof:name":"Dovje",
+    "wof:parent_id":1108959843,
+    "wof:placetype":"locality",
+    "wof:population":640,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.97202,
+    46.46863,
+    13.97202,
+    46.46863
+],
+  "geometry": {"coordinates":[13.97202,46.46863],"type":"Point"}
+}

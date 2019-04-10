@@ -1,0 +1,65 @@
+{
+  "id": 1209036183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.2109,46.33481,14.2109,46.33481",
+    "geom:latitude":46.33481,
+    "geom:longitude":14.2109,
+    "gn:admin1_code":"A3",
+    "gn:asciiname":"Mosnje",
+    "gn:country_code":"SI",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194839,
+    "gn:latitude":46.33481,
+    "gn:longitude":14.2109,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Mo\u0161nje",
+    "gn:population":391,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194839,
+        "wk:page":"Mo%C5%A1nje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"64779bf3b012d562856c6c118f57de0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209036183
+        }
+    ],
+    "wof:id":1209036183,
+    "wof:lastmodified":1537573419,
+    "wof:name":"Mosnje",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":391,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.2109,
+    46.33481,
+    14.2109,
+    46.33481
+],
+  "geometry": {"coordinates":[14.2109,46.33481],"type":"Point"}
+}

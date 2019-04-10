@@ -1,0 +1,71 @@
+{
+  "id": 1292942231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.13015,45.93838,15.13015,45.93838",
+    "geom:latitude":45.93838,
+    "geom:longitude":15.13015,
+    "gn:admin1_code":"O7",
+    "gn:asciiname":"Ribjek",
+    "gn:country_code":"SI",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988777,
+    "gn:latitude":45.93838,
+    "gn:longitude":15.13015,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ribjek",
+    "gn:population":33,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959913,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988777,
+        "wk:page":"Ribjek%2C_Mokronog%E2%80%93Trebelno"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"71986c1e6d184aa9482b78320d0a6e40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959913,
+            "locality_id":1292942231,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1292942231,
+    "wof:lastmodified":1537573522,
+    "wof:name":"Ribjek",
+    "wof:parent_id":1108959913,
+    "wof:placetype":"locality",
+    "wof:population":33,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.13015,
+    45.93838,
+    15.13015,
+    45.93838
+],
+  "geometry": {"coordinates":[15.13015,45.93838],"type":"Point"}
+}

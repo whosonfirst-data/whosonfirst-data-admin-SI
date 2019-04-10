@@ -1,0 +1,71 @@
+{
+  "id": 1344194277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7038,46.62696,15.7038,46.62696",
+    "geom:latitude":46.62696,
+    "geom:longitude":15.7038,
+    "gn:admin1_code":"89",
+    "gn:asciiname":"Jareninski Vrh",
+    "gn:country_code":"SI",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198856,
+    "gn:latitude":46.62696,
+    "gn:longitude":15.7038,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Jareninski Vrh",
+    "gn:population":210,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959553,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198856,
+        "wk:page":"Jareninski_Vrh"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"44f18299c84a0383b6fc519aa4b5e2fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959553,
+            "locality_id":1344194277,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1344194277,
+    "wof:lastmodified":1537573433,
+    "wof:name":"Jareninski Vrh",
+    "wof:parent_id":1108959553,
+    "wof:placetype":"locality",
+    "wof:population":210,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7038,
+    46.62696,
+    15.7038,
+    46.62696
+],
+  "geometry": {"coordinates":[15.7038,46.62696],"type":"Point"}
+}

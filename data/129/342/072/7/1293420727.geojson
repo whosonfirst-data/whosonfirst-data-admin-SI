@@ -1,0 +1,71 @@
+{
+  "id": 1293420727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.16537,46.45379,16.16537,46.45379",
+    "geom:latitude":46.45379,
+    "geom:longitude":16.16537,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Mihalovci",
+    "gn:country_code":"SI",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987532,
+    "gn:latitude":46.45379,
+    "gn:longitude":16.16537,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Mihalovci",
+    "gn:population":136,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959765,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987532,
+        "wk:page":"Mihalovci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"23a2e1846e694897ad9956b73102ad33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959765,
+            "locality_id":1293420727,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1293420727,
+    "wof:lastmodified":1537573483,
+    "wof:name":"Mihalovci",
+    "wof:parent_id":1108959765,
+    "wof:placetype":"locality",
+    "wof:population":136,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.16537000000001,
+    46.45379000000001,
+    16.16537000000001,
+    46.45379000000001
+],
+  "geometry": {"coordinates":[16.16537000000001,46.45379000000001],"type":"Point"}
+}

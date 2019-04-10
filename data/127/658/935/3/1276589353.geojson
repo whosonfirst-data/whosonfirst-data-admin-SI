@@ -1,0 +1,71 @@
+{
+  "id": 1276589353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.41395,46.13371,15.41395,46.13371",
+    "geom:latitude":46.13371,
+    "geom:longitude":15.41395,
+    "gn:admin1_code":"G2",
+    "gn:asciiname":"Gorica pri Dobjem",
+    "gn:country_code":"SI",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989873,
+    "gn:latitude":46.13371,
+    "gn:longitude":15.41395,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Gorica pri Dobjem",
+    "gn:population":41,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959685,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989873,
+        "wk:page":"Gorica_pri_Dobjem"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f160f484b5f54bbaefa495d7ee521c1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959685,
+            "locality_id":1276589353,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1276589353,
+    "wof:lastmodified":1537573555,
+    "wof:name":"Gorica pri Dobjem",
+    "wof:parent_id":1108959685,
+    "wof:placetype":"locality",
+    "wof:population":41,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.41395,
+    46.13371,
+    15.41395,
+    46.13371
+],
+  "geometry": {"coordinates":[15.41395,46.13371],"type":"Point"}
+}

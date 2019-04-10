@@ -1,0 +1,74 @@
+{
+  "id": 1310682383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.29117,46.26792,15.29117,46.26792",
+    "geom:latitude":46.26792,
+    "geom:longitude":15.29117,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Skofja Vas",
+    "gn:country_code":"SI",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190714,
+    "gn:latitude":46.26792,
+    "gn:longitude":15.29117,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160kofja Vas",
+    "gn:population":485,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bischofsdorf"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959693,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190714,
+        "wk:page":"%C5%A0kofja_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6cb13e4a96fffe1ddc789053fc47d337",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959693,
+            "locality_id":1310682383,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1310682383,
+    "wof:lastmodified":1537700193,
+    "wof:name":"Skofja Vas",
+    "wof:parent_id":1108959693,
+    "wof:placetype":"locality",
+    "wof:population":485,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.29117,
+    46.26792,
+    15.29117,
+    46.26792
+],
+  "geometry": {"coordinates":[15.29117,46.26792],"type":"Point"}
+}

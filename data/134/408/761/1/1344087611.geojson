@@ -1,0 +1,74 @@
+{
+  "id": 1344087611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.66496,46.28425,14.66496,46.28425",
+    "geom:latitude":46.28425,
+    "geom:longitude":14.66496,
+    "gn:admin1_code":"H6",
+    "gn:asciiname":"Zaga",
+    "gn:country_code":"SI",
+    "gn:dem":1415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988154,
+    "gn:latitude":46.28425,
+    "gn:longitude":14.66496,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u017daga",
+    "gn:population":69,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017daga"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959941,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988154,
+        "wk:page":"%C5%BDaga%2C_Kamnik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1bc2cb2453ae36409681ad504091caf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959941,
+            "locality_id":1344087611,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1344087611,
+    "wof:lastmodified":1537700300,
+    "wof:name":"Zaga",
+    "wof:parent_id":1108959941,
+    "wof:placetype":"locality",
+    "wof:population":69,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.66496,
+    46.28425,
+    14.66496,
+    46.28425
+],
+  "geometry": {"coordinates":[14.66496,46.28425],"type":"Point"}
+}

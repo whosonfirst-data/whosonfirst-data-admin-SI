@@ -1,0 +1,74 @@
+{
+  "id": 1226081927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.45547,46.36986,15.45547,46.36986",
+    "geom:latitude":46.36986,
+    "geom:longitude":15.45547,
+    "gn:admin1_code":"J8",
+    "gn:asciiname":"Markecica",
+    "gn:country_code":"SI",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987661,
+    "gn:latitude":46.36986,
+    "gn:longitude":15.45547,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Marke\u010dica",
+    "gn:population":117,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marke\u010dica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959737,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987661,
+        "wk:page":"Marke%C4%8Dica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"99a3717518b07d1113a02a3b1054dd9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959737,
+            "locality_id":1226081927,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1226081927,
+    "wof:lastmodified":1537700291,
+    "wof:name":"Markecica",
+    "wof:parent_id":1108959737,
+    "wof:placetype":"locality",
+    "wof:population":117,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.45547,
+    46.36986,
+    15.45547,
+    46.36986
+],
+  "geometry": {"coordinates":[15.45547,46.36986],"type":"Point"}
+}

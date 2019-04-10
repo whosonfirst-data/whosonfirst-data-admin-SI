@@ -1,0 +1,75 @@
+{
+  "id": 1309746215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.76525,45.55884,14.76525,45.55884",
+    "geom:latitude":45.55884,
+    "geom:longitude":14.76525,
+    "gn:admin1_code":"H7",
+    "gn:asciiname":"Borovec pri Kocevski Reki",
+    "gn:country_code":"SI",
+    "gn:dem":812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203683,
+    "gn:latitude":45.55884,
+    "gn:longitude":14.76525,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Borovec pri Ko\u010devski Reki",
+    "gn:population":51,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Borovec",
+        "Borovec pri Ko\u010devski Reki"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959919,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203683,
+        "wk:page":"Borovec_pri_Ko%C4%8Devski_Reki"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1d18d7c0da9c70e9e5f409c7dabbaa9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959919,
+            "locality_id":1309746215,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1309746215,
+    "wof:lastmodified":1537700263,
+    "wof:name":"Borovec pri Kocevski Reki",
+    "wof:parent_id":1108959919,
+    "wof:placetype":"locality",
+    "wof:population":51,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.76525,
+    45.55884,
+    14.76525,
+    45.55884
+],
+  "geometry": {"coordinates":[14.76525,45.55884],"type":"Point"}
+}

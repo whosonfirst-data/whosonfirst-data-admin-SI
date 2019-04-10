@@ -1,0 +1,71 @@
+{
+  "id": 1293818105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.04472,46.45206,16.04472,46.45206",
+    "geom:latitude":46.45206,
+    "geom:longitude":16.04472,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Ritmerk",
+    "gn:country_code":"SI",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988392,
+    "gn:latitude":46.45206,
+    "gn:longitude":16.04472,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ritmerk",
+    "gn:population":53,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959765,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988392,
+        "wk:page":"Ritmerk"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"395ad7b9298a60ca59166061a19ba8a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959765,
+            "locality_id":1293818105,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1293818105,
+    "wof:lastmodified":1537573510,
+    "wof:name":"Ritmerk",
+    "wof:parent_id":1108959765,
+    "wof:placetype":"locality",
+    "wof:population":53,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.04472,
+    46.45206,
+    16.04472,
+    46.45206
+],
+  "geometry": {"coordinates":[16.04472,46.45206],"type":"Point"}
+}

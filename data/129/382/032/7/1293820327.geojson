@@ -1,0 +1,71 @@
+{
+  "id": 1293820327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.08299,46.02677,15.08299,46.02677",
+    "geom:latitude":46.02677,
+    "geom:longitude":15.08299,
+    "gn:admin1_code":"I5",
+    "gn:asciiname":"Dobje",
+    "gn:country_code":"SI",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989329,
+    "gn:latitude":46.02677,
+    "gn:longitude":15.08299,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Dobje",
+    "gn:population":7,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959907,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989329,
+        "wk:page":"Dobje%2C_Litija"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2adaee387a2178700daf6e81c04bf7fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959907,
+            "locality_id":1293820327,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1293820327,
+    "wof:lastmodified":1537573539,
+    "wof:name":"Dobje",
+    "wof:parent_id":1108959907,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.08299,
+    46.02677,
+    15.08299,
+    46.02677
+],
+  "geometry": {"coordinates":[15.08299,46.02677],"type":"Point"}
+}

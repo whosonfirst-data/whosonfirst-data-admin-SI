@@ -1,0 +1,67 @@
+{
+  "id": 1242814335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.86639,46.35556,14.86639,46.35556",
+    "geom:latitude":46.35556,
+    "geom:longitude":14.86639,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Gager",
+    "gn:country_code":"SI",
+    "gn:dem":837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217421,
+    "gn:latitude":46.35556,
+    "gn:longitude":14.86639,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Gager",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959503,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217421
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1e0823865ab3b483dd86ce4f025e9fdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959503,
+            "locality_id":1242814335,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1242814335,
+    "wof:lastmodified":1536723007,
+    "wof:name":"Gager",
+    "wof:parent_id":1108959503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.86639,
+    46.35556,
+    14.86639,
+    46.35556
+],
+  "geometry": {"coordinates":[14.86639,46.35556],"type":"Point"}
+}

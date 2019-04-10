@@ -1,0 +1,74 @@
+{
+  "id": 1276796171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.36016,46.22932,15.36016,46.22932",
+    "geom:latitude":46.22932,
+    "geom:longitude":15.36016,
+    "gn:admin1_code":"L7",
+    "gn:asciiname":"Zlatece pri Sentjurju",
+    "gn:country_code":"SI",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987806,
+    "gn:latitude":46.22932,
+    "gn:longitude":15.36016,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Zlate\u010de pri \u0160entjurju",
+    "gn:population":102,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zlate\u010de pri \u0160entjurju"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959791,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987806,
+        "wk:page":"Zlate%C4%8De_pri_%C5%A0entjurju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e208f6cb19ba747e7ac5e4d645120b16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959791,
+            "locality_id":1276796171,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1276796171,
+    "wof:lastmodified":1537700294,
+    "wof:name":"Zlatece pri Sentjurju",
+    "wof:parent_id":1108959791,
+    "wof:placetype":"locality",
+    "wof:population":102,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.36016,
+    46.22932,
+    15.36016,
+    46.22932
+],
+  "geometry": {"coordinates":[15.36016,46.22932],"type":"Point"}
+}

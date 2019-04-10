@@ -1,0 +1,135 @@
+{
+  "id": 101792071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00005,
+    "geom:area_square_m":428939.829815,
+    "geom:bbox":"15.2201287348,46.3335512988,15.2309260675,46.3419503134",
+    "geom:latitude":46.337149,
+    "geom:longitude":15.224488,
+    "gn:population":548,
+    "iso:country":"SI",
+    "lbl:latitude":46.336301,
+    "lbl:longitude":15.22412,
+    "mps:latitude":46.336301,
+    "mps:longitude":15.22412,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Ob\u010dina Dobrna"
+    ],
+    "name:deu_x_preferred":[
+        "Dobrna"
+    ],
+    "name:fra_x_preferred":[
+        "Dobrna"
+    ],
+    "name:hbs_x_preferred":[
+        "Dobrna"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Dobrna"
+    ],
+    "name:ita_x_preferred":[
+        "Dobrna"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30d6\u30e9\u30ca"
+    ],
+    "name:kor_x_preferred":[
+        "\ub3c4\ube0c\ub974\ub098"
+    ],
+    "name:nld_x_preferred":[
+        "Dobrna"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Dobrna"
+    ],
+    "name:por_x_preferred":[
+        "Dobrna"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Dobrna"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Dobrna"
+    ],
+    "name:spa_x_preferred":[
+        "Ob\u010dina Dobrna"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0414\u043e\u0431\u0440\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043d\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Dobrno"
+    ],
+    "name:vie_x_preferred":[
+        "Dobrna"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"Dobrna",
+    "qs:la_lc":"*SI155000",
+    "qs:level":"locality",
+    "qs:loc":"Dobrna",
+    "qs:loc_alt":"Dobrna",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":82,
+    "wof:belongsto":[
+        102191581,
+        1108959621,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201927,
+        "gp:id":529835,
+        "qs:id":6,
+        "wd:id":"Q999579",
+        "wk:page":"Municipality of Dobrna"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5eada8c373ac4c689c83f4449d6d8ec0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959621,
+            "locality_id":101792071,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":101792071,
+    "wof:lastmodified":1531170667,
+    "wof:name":"Dobrna",
+    "wof:parent_id":1108959621,
+    "wof:placetype":"locality",
+    "wof:population":548,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.22012873478667,
+    46.33355129882256,
+    15.23092606748929,
+    46.34195031343063
+],
+  "geometry": {"coordinates":[[[15.23092606748929,46.33785174767917],[15.23083828864623,46.33695367203597],[15.229543402594,46.33701700431425],[15.22945564909816,46.33611892686412],[15.22816078182126,46.33618224226399],[15.2280730536703,46.33528416300715],[15.22677820516901,46.33534746152912],[15.22660280335327,46.33355129882256],[15.22012873478667,46.33386754440608],[15.22047912277054,46.33745989199542],[15.22177402818261,46.33739666928409],[15.22203692367054,46.34009092021171],[15.22074195362006,46.34015414659638],[15.220917193172,46.34195031343063],[15.22350721670188,46.34182384010853],[15.22341955192991,46.34092575943095],[15.22471453799869,46.34086250051411],[15.22453917675745,46.33906633986936],[15.2297189209952,46.33881315747306],[15.22963115989319,46.33791508118384],[15.23092606748929,46.33785174767917]]],"type":"Polygon"}
+}

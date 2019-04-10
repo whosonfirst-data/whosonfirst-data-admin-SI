@@ -1,0 +1,64 @@
+{
+  "id": 1209352843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.74179,46.01723,13.74179,46.01723",
+    "geom:latitude":46.01723,
+    "geom:longitude":13.74179,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Piculini",
+    "gn:country_code":"SI",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLS",
+    "gn:geonameid":10858864,
+    "gn:latitude":46.01723,
+    "gn:longitude":13.74179,
+    "gn:modification_date":"2015-10-15",
+    "gn:name":"Pi\u010dulini",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_preferred":[
+        "Dolenji Konec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10858864
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0594c68d8e2be5fb1b851a6c457c493d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209352843
+        }
+    ],
+    "wof:id":1209352843,
+    "wof:lastmodified":1537700337,
+    "wof:name":"Piculini",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.74179,
+    46.01723,
+    13.74179,
+    46.01723
+],
+  "geometry": {"coordinates":[13.74179,46.01723],"type":"Point"}
+}

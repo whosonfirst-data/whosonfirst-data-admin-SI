@@ -1,0 +1,74 @@
+{
+  "id": 1277017165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.66968,45.79732,14.66968,45.79732",
+    "geom:latitude":45.79732,
+    "geom:longitude":14.66968,
+    "gn:admin1_code":"L1",
+    "gn:asciiname":"Praproce",
+    "gn:country_code":"SI",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988604,
+    "gn:latitude":45.79732,
+    "gn:longitude":14.66968,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Prapro\u010de",
+    "gn:population":41,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Prapro\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959599,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988604,
+        "wk:page":"Prapro%C4%8De%2C_Ribnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e23f894c402659a485351356bd5b1e80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959599,
+            "locality_id":1277017165,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1277017165,
+    "wof:lastmodified":1537700310,
+    "wof:name":"Praproce",
+    "wof:parent_id":1108959599,
+    "wof:placetype":"locality",
+    "wof:population":41,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.66968,
+    45.79732,
+    14.66968,
+    45.79732
+],
+  "geometry": {"coordinates":[14.66968,45.79732],"type":"Point"}
+}

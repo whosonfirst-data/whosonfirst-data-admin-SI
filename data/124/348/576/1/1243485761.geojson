@@ -1,0 +1,71 @@
+{
+  "id": 1243485761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.89627,45.50942,14.89627,45.50942",
+    "geom:latitude":45.50942,
+    "geom:longitude":14.89627,
+    "gn:admin1_code":"H9",
+    "gn:asciiname":"Lipovec pri Kostelu",
+    "gn:country_code":"SI",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989673,
+    "gn:latitude":45.50942,
+    "gn:longitude":14.89627,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Lipovec pri Kostelu",
+    "gn:population":2,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959711,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989673,
+        "wk:page":"Lipovec_pri_Kostelu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"696741da980ac689f6403d3bd96bdabf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959711,
+            "locality_id":1243485761,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1243485761,
+    "wof:lastmodified":1537573549,
+    "wof:name":"Lipovec pri Kostelu",
+    "wof:parent_id":1108959711,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.89627,
+    45.50942,
+    14.89627,
+    45.50942
+],
+  "geometry": {"coordinates":[14.89627,45.50942],"type":"Point"}
+}

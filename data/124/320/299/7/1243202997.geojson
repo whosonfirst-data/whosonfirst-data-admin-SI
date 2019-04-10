@@ -1,0 +1,71 @@
+{
+  "id": 1243202997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.65167,46.22361,15.65167,46.22361",
+    "geom:latitude":46.22361,
+    "geom:longitude":15.65167,
+    "gn:admin1_code":"A7",
+    "gn:asciiname":"Rjavica",
+    "gn:country_code":"SI",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216587,
+    "gn:latitude":46.22361,
+    "gn:longitude":15.65167,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Rjavica",
+    "gn:population":148,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959803,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216587,
+        "wk:page":"Rjavica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"af62853a95f12bdf402a697718c126ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959803,
+            "locality_id":1243202997,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1243202997,
+    "wof:lastmodified":1537573457,
+    "wof:name":"Rjavica",
+    "wof:parent_id":1108959803,
+    "wof:placetype":"locality",
+    "wof:population":148,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.65167,
+    46.22361,
+    15.65167,
+    46.22361
+],
+  "geometry": {"coordinates":[15.65167,46.22361],"type":"Point"}
+}

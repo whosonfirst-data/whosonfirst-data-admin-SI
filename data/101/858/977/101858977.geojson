@@ -1,0 +1,136 @@
+{
+  "id": 101858977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.885702,46.340069,15.885702,46.340069",
+    "geom:latitude":46.340069,
+    "geom:longitude":15.885702,
+    "gn:population":388,
+    "iso:country":"SI",
+    "lbl:latitude":46.340069,
+    "lbl:longitude":15.885702,
+    "mps:latitude":46.340069,
+    "mps:longitude":15.885702,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Ob\u010dina Podlehnik"
+    ],
+    "name:deu_x_preferred":[
+        "Podlehnik"
+    ],
+    "name:fra_x_preferred":[
+        "Podlehnik"
+    ],
+    "name:hbs_x_preferred":[
+        "Podlehnik"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Podlehnik"
+    ],
+    "name:ita_x_preferred":[
+        "Podlehnik"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30c9\u30ec\u30d5\u30cb\u30af"
+    ],
+    "name:kor_x_preferred":[
+        "\ud3ec\ub4e4\ub808\ud750\ub2c8\ud06c"
+    ],
+    "name:nld_x_preferred":[
+        "Podlehnik"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Podlehnik"
+    ],
+    "name:por_x_preferred":[
+        "Podlehnik"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Podlehnik"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Podlehnik"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041f\u043e\u0434\u043b\u0435\u0445\u043d\u0438\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Podlehnik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0434\u043b\u0435\u0445\u043d\u0438\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Podhlenik"
+    ],
+    "name:vie_x_preferred":[
+        "Podlehnik"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Podlehnik",
+    "qs:loc_alt":"Podlehnik",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959757,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192986,
+        "gp:id":531117,
+        "qs:id":4,
+        "wd:id":"Q1002247",
+        "wk:page":"Podlehnik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"455c3ee33a973bbeeb37ef9438aa8113",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959757,
+            "locality_id":101858977,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":101858977,
+    "wof:lastmodified":1544744679,
+    "wof:name":"Podlehnik",
+    "wof:parent_id":1108959757,
+    "wof:placetype":"locality",
+    "wof:population":388,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.885702,
+    46.340069,
+    15.885702,
+    46.340069
+],
+  "geometry": {"coordinates":[15.885702,46.340069],"type":"Point"}
+}

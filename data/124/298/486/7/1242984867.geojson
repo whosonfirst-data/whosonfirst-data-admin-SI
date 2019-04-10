@@ -1,0 +1,74 @@
+{
+  "id": 1242984867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.85752,45.87481,13.85752,45.87481",
+    "geom:latitude":45.87481,
+    "geom:longitude":13.85752,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Male Zablje",
+    "gn:country_code":"SI",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989736,
+    "gn:latitude":45.87481,
+    "gn:longitude":13.85752,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Male \u017dablje",
+    "gn:population":309,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Male \u017dablje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959545,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989736,
+        "wk:page":"Male_%C5%BDablje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"83c7d72d870633be7f599ba4ab4a74dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959545,
+            "locality_id":1242984867,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1242984867,
+    "wof:lastmodified":1537700332,
+    "wof:name":"Male Zablje",
+    "wof:parent_id":1108959545,
+    "wof:placetype":"locality",
+    "wof:population":309,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.85752,
+    45.87481,
+    13.85752,
+    45.87481
+],
+  "geometry": {"coordinates":[13.85752,45.87481],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209139845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.82373,45.92816,14.82373,45.92816",
+    "geom:latitude":45.92816,
+    "geom:longitude":14.82373,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Artiza Vas",
+    "gn:country_code":"SI",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988183,
+    "gn:latitude":45.92816,
+    "gn:longitude":14.82373,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Arti\u017ea Vas",
+    "gn:population":66,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arti\u017ea Vas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988183,
+        "wk:page":"Arti%C5%BEa_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7887df894a05f913c69bc9f3cc463ccd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209139845
+        }
+    ],
+    "wof:id":1209139845,
+    "wof:lastmodified":1537700301,
+    "wof:name":"Artiza Vas",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":66,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.82373,
+    45.92816,
+    14.82373,
+    45.92816
+],
+  "geometry": {"coordinates":[14.82373,45.92816],"type":"Point"}
+}

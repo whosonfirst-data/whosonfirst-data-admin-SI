@@ -1,0 +1,71 @@
+{
+  "id": 1259412153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.78967,46.16546,14.78967,46.16546",
+    "geom:latitude":46.16546,
+    "geom:longitude":14.78967,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Korpe",
+    "gn:country_code":"SI",
+    "gn:dem":638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989056,
+    "gn:latitude":46.16546,
+    "gn:longitude":14.78967,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Korpe",
+    "gn:population":20,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959807,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989056,
+        "wk:page":"Korpe"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0f0de8e6857f58c5149182fcde9dc279",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959807,
+            "locality_id":1259412153,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1259412153,
+    "wof:lastmodified":1537573530,
+    "wof:name":"Korpe",
+    "wof:parent_id":1108959807,
+    "wof:placetype":"locality",
+    "wof:population":20,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.78967,
+    46.16546,
+    14.78967,
+    46.16546
+],
+  "geometry": {"coordinates":[14.78967,46.16546],"type":"Point"}
+}

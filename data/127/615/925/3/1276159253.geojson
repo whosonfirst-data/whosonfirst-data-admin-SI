@@ -1,0 +1,74 @@
+{
+  "id": 1276159253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.37061,45.91259,15.37061,45.91259",
+    "geom:latitude":45.91259,
+    "geom:longitude":15.37061,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Dobrava pod Rako",
+    "gn:country_code":"SI",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989110,
+    "gn:latitude":45.91259,
+    "gn:longitude":15.37061,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Dobrava pod Rako",
+    "gn:population":17,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dobrava Pod Rako"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989110,
+        "wk:page":"Dobrava_pod_Rako"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2ad8ea89b723a9eeb73d2a6886d48296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1276159253,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1276159253,
+    "wof:lastmodified":1537700320,
+    "wof:name":"Dobrava pod Rako",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":17,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.37061,
+    45.91259,
+    15.37061,
+    45.91259
+],
+  "geometry": {"coordinates":[15.37061,45.91259],"type":"Point"}
+}

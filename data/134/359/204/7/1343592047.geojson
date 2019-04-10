@@ -1,0 +1,74 @@
+{
+  "id": 1343592047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.44171,45.83782,15.44171,45.83782",
+    "geom:latitude":45.83782,
+    "geom:longitude":15.44171,
+    "gn:admin1_code":"O3",
+    "gn:asciiname":"Avgustine",
+    "gn:country_code":"SI",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988851,
+    "gn:latitude":45.83782,
+    "gn:longitude":15.44171,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Avgu\u0161tine",
+    "gn:population":30,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Avgu\u0161tine"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959835,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988851,
+        "wk:page":"Avgu%C5%A1tine"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fd89bc0605f49228f26da67384b449dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959835,
+            "locality_id":1343592047,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1343592047,
+    "wof:lastmodified":1537700315,
+    "wof:name":"Avgustine",
+    "wof:parent_id":1108959835,
+    "wof:placetype":"locality",
+    "wof:population":30,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.44171,
+    45.83782,
+    15.44171,
+    45.83782
+],
+  "geometry": {"coordinates":[15.44171,45.83782],"type":"Point"}
+}

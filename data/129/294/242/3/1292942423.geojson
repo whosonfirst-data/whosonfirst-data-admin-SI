@@ -1,0 +1,74 @@
+{
+  "id": 1292942423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.67705,46.16149,14.67705,46.16149",
+    "geom:latitude":46.16149,
+    "geom:longitude":14.67705,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Sentvid pri Lukovici",
+    "gn:country_code":"SI",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989477,
+    "gn:latitude":46.16149,
+    "gn:longitude":14.67705,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"\u0160entvid pri Lukovici",
+    "gn:population":242,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160entvid pri Lukovici"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959807,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989477,
+        "wk:page":"%C5%A0entvid_pri_Lukovici"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1fa23b87dd19d4a6daeaeacca2757a7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959807,
+            "locality_id":1292942423,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1292942423,
+    "wof:lastmodified":1537700326,
+    "wof:name":"Sentvid pri Lukovici",
+    "wof:parent_id":1108959807,
+    "wof:placetype":"locality",
+    "wof:population":242,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.67705,
+    46.16149,
+    14.67705,
+    46.16149
+],
+  "geometry": {"coordinates":[14.67705,46.16149],"type":"Point"}
+}

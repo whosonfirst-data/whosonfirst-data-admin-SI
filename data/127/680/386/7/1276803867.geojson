@@ -1,0 +1,72 @@
+{
+  "id": 1276803867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.89,45.7075,14.89,45.7075",
+    "geom:latitude":45.7075,
+    "geom:longitude":14.89,
+    "gn:admin1_code":"H7",
+    "gn:asciiname":"Klec",
+    "gn:country_code":"SI",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198096,
+    "gn:latitude":45.7075,
+    "gn:longitude":14.89,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kle\u010d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kle\u010de",
+        "Kle\u010d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959919,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198096,
+        "wk:page":"Kle%C4%8D%2C_Ko%C4%8Devje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ebadba03f8d1e903b5446badc3682e36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959919,
+            "locality_id":1276803867,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1276803867,
+    "wof:lastmodified":1537700233,
+    "wof:name":"Klec",
+    "wof:parent_id":1108959919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.89,
+    45.7075,
+    14.89,
+    45.7075
+],
+  "geometry": {"coordinates":[14.89,45.7075],"type":"Point"}
+}

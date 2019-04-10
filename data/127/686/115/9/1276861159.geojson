@@ -1,0 +1,75 @@
+{
+  "id": 1276861159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.37972,45.95194,14.37972,45.95194",
+    "geom:latitude":45.95194,
+    "geom:longitude":14.37972,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Goricica pod Krimom",
+    "gn:country_code":"SI",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200316,
+    "gn:latitude":45.95194,
+    "gn:longitude":14.37972,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Goricica pod Krimom",
+    "gn:population":169,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gori\u010dica",
+        "Gori\u010dica pod Krimon"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959895,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200316,
+        "wk:page":"Gori%C4%8Dica_pod_Krimom"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e6cd14203f282f1d3c868aba523fcee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959895,
+            "locality_id":1276861159,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1276861159,
+    "wof:lastmodified":1537700244,
+    "wof:name":"Goricica pod Krimom",
+    "wof:parent_id":1108959895,
+    "wof:placetype":"locality",
+    "wof:population":169,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.37972,
+    45.95194,
+    14.37972,
+    45.95194
+],
+  "geometry": {"coordinates":[14.37972,45.95194],"type":"Point"}
+}

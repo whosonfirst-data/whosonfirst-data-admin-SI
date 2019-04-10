@@ -1,0 +1,74 @@
+{
+  "id": 1276260767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.07634,45.97924,15.07634,45.97924",
+    "geom:latitude":45.97924,
+    "geom:longitude":15.07634,
+    "gn:admin1_code":"P2",
+    "gn:asciiname":"Skrljevo",
+    "gn:country_code":"SI",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987980,
+    "gn:latitude":45.97924,
+    "gn:longitude":15.07634,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160krljevo",
+    "gn:population":85,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160krljevo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959841,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987980,
+        "wk:page":"%C5%A0krljevo%2C_%C5%A0entrupert"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3d1e3a47bf4a67e85d367b603f282280",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959841,
+            "locality_id":1276260767,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1276260767,
+    "wof:lastmodified":1537700297,
+    "wof:name":"Skrljevo",
+    "wof:parent_id":1108959841,
+    "wof:placetype":"locality",
+    "wof:population":85,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.07634,
+    45.97924,
+    15.07634,
+    45.97924
+],
+  "geometry": {"coordinates":[15.07634,45.97924],"type":"Point"}
+}

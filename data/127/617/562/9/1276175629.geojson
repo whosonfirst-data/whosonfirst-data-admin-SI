@@ -1,0 +1,75 @@
+{
+  "id": 1276175629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.26611,45.54806,14.26611,45.54806",
+    "geom:latitude":45.54806,
+    "geom:longitude":14.26611,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Dolnji Zemon",
+    "gn:country_code":"SI",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201762,
+    "gn:latitude":45.54806,
+    "gn:longitude":14.26611,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Dolnji Zemon",
+    "gn:population":508,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zemon di Sotto",
+        "Dolnji Zemon"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959873,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201762,
+        "wk:page":"Dolnji_Zemon"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"308b7c7cfbbbfb84b5e383c5ae004477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959873,
+            "locality_id":1276175629,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1276175629,
+    "wof:lastmodified":1537700251,
+    "wof:name":"Dolnji Zemon",
+    "wof:parent_id":1108959873,
+    "wof:placetype":"locality",
+    "wof:population":508,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.26611,
+    45.54806,
+    14.26611,
+    45.54806
+],
+  "geometry": {"coordinates":[14.26611,45.54806],"type":"Point"}
+}

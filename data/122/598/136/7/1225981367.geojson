@@ -1,0 +1,75 @@
+{
+  "id": 1225981367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.38333,46.1,14.38333,46.1",
+    "geom:latitude":46.1,
+    "geom:longitude":14.38333,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Topol pri Medvodah",
+    "gn:country_code":"SI",
+    "gn:dem":701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188972,
+    "gn:latitude":46.1,
+    "gn:longitude":14.38333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Topol pri Medvodah",
+    "gn:population":160,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Topol",
+        "Topol pri Medvodah"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959881,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188972,
+        "wk:page":"Topol_pri_Medvodah"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2e51402649da531e46cc480e88d49584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959881,
+            "locality_id":1225981367,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1225981367,
+    "wof:lastmodified":1537700181,
+    "wof:name":"Topol pri Medvodah",
+    "wof:parent_id":1108959881,
+    "wof:placetype":"locality",
+    "wof:population":160,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.38333,
+    46.1,
+    14.38333,
+    46.1
+],
+  "geometry": {"coordinates":[14.38333,46.1],"type":"Point"}
+}

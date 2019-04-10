@@ -1,0 +1,101 @@
+{
+  "id": 1126013087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.529003,46.239345,15.529003,46.239345",
+    "geom:latitude":46.239345,
+    "geom:longitude":15.529003,
+    "gn:gn_country":null,
+    "iso:country":"SI",
+    "lbl:latitude":46.239345,
+    "lbl:longitude":15.529003,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Bobovo pri \u0160marju"
+    ],
+    "name:eng_x_preferred":[
+        "Bobovo pri \u0160marju"
+    ],
+    "name:hrv_x_preferred":[
+        "Bobovo pri \u0160marju"
+    ],
+    "name:rum_x_preferred":[
+        "Bobovo pri \u0160marju"
+    ],
+    "name:slv_x_preferred":[
+        "Bobovo pri \u0160marju"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0431\u043e\u0432\u043e-\u043f\u0440\u0438-\u0428\u043c\u0430\u0440\u044e"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Bobovo Pri Smarju",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Smarje Pri Jelsah",
+    "qs_pg:photos":22,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":22,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":136301,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":55851245,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Smarje Pri Jelsah",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959607,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55851245,
+        "qs_pg:id":136301,
+        "wd:id":"Q2489363"
+    },
+    "wof:country":"SI",
+    "wof:created":1497300389,
+    "wof:geomhash":"16518542c6a49c2cd3da0dd2c9b26ff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959607,
+            "locality_id":1126013087,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1126013087,
+    "wof:lastmodified":1531170670,
+    "wof:name":"Bobovo Pri Smarju",
+    "wof:parent_id":1108959607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.529003,
+    46.239345,
+    15.529003,
+    46.239345
+],
+  "geometry": {"coordinates":[15.529003,46.239345],"type":"Point"}
+}

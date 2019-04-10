@@ -1,0 +1,65 @@
+{
+  "id": 1209049427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.12129,45.5721,14.12129,45.5721",
+    "geom:latitude":45.5721,
+    "geom:longitude":14.12129,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Huje",
+    "gn:country_code":"SI",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987753,
+    "gn:latitude":45.5721,
+    "gn:longitude":14.12129,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Huje",
+    "gn:population":107,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987753,
+        "wk:page":"Huje%2C_Ilirska_Bistrica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"941aa43bd65eb12f8e537f73722628ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209049427
+        }
+    ],
+    "wof:id":1209049427,
+    "wof:lastmodified":1537573490,
+    "wof:name":"Huje",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":107,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.12129,
+    45.5721,
+    14.12129,
+    45.5721
+],
+  "geometry": {"coordinates":[14.12129,45.5721],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1309939585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.38098,45.9367,15.38098,45.9367",
+    "geom:latitude":45.9367,
+    "geom:longitude":15.38098,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Gradisce pri Raki",
+    "gn:country_code":"SI",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989414,
+    "gn:latitude":45.9367,
+    "gn:longitude":15.38098,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Gradi\u0161\u010de pri Raki",
+    "gn:population":1,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gradi\u0161\u010de pri Raki"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989414,
+        "wk:page":"Gradi%C5%A1%C4%8De_pri_Raki"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"48c412c861670f0f148456b8735ecaf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1309939585,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1309939585,
+    "wof:lastmodified":1537700326,
+    "wof:name":"Gradisce pri Raki",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.38098,
+    45.9367,
+    15.38098,
+    45.9367
+],
+  "geometry": {"coordinates":[15.38098,45.9367],"type":"Point"}
+}

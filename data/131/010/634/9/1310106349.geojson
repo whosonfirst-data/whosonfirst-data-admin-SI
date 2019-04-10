@@ -1,0 +1,72 @@
+{
+  "id": 1310106349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.84461,46.32446,13.84461,46.32446",
+    "geom:latitude":46.32446,
+    "geom:longitude":13.84461,
+    "gn:admin1_code":"04",
+    "gn:country_code":"SI",
+    "gn:dem":1551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986891,
+    "gn:latitude":46.32446,
+    "gn:longitude":13.84461,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Stara Fu\u017eina",
+    "gn:population":595,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stara Fu\u008eIna"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959819,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986891
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7deec66380afa218d6c16b0d5904c81f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959819,
+            "locality_id":1310106349,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1310106349,
+    "wof:lastmodified":1537700276,
+    "wof:name":"",
+    "wof:parent_id":1108959819,
+    "wof:placetype":"locality",
+    "wof:population":595,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.84461,
+    46.32446,
+    13.84461,
+    46.32446
+],
+  "geometry": {"coordinates":[13.84461,46.32446],"type":"Point"}
+}

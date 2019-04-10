@@ -1,0 +1,71 @@
+{
+  "id": 1360121647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.499,46.2516,15.499,46.2516",
+    "geom:latitude":46.2516,
+    "geom:longitude":15.499,
+    "gn:admin1_code":"C5",
+    "gn:asciiname":"Vodenovo",
+    "gn:country_code":"SI",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987859,
+    "gn:latitude":46.2516,
+    "gn:longitude":15.499,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Vodenovo",
+    "gn:population":96,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959607,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987859,
+        "wk:page":"Vodenovo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b23608f9da6d8a60eda7ee4968db714b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959607,
+            "locality_id":1360121647,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1360121647,
+    "wof:lastmodified":1537573494,
+    "wof:name":"Vodenovo",
+    "wof:parent_id":1108959607,
+    "wof:placetype":"locality",
+    "wof:population":96,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.499,
+    46.2516,
+    15.499,
+    46.2516
+],
+  "geometry": {"coordinates":[15.499,46.2516],"type":"Point"}
+}

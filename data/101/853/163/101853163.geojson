@@ -1,0 +1,85 @@
+{
+  "id": 101853163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.645892,46.090605,13.645892,46.090605",
+    "geom:latitude":46.090605,
+    "geom:longitude":13.645892,
+    "gn:population":1269,
+    "iso:country":"SI",
+    "lbl:latitude":46.090605,
+    "lbl:longitude":13.645892,
+    "mps:latitude":46.090605,
+    "mps:longitude":13.645892,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Canale"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kanal",
+    "qs:loc_alt":"Kanal",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959537,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198354,
+        "gp:id":530382,
+        "qs:id":1044042,
+        "qs_pg:id":1044042
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1e863a8eb5b1332c574648faf248fe0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959537,
+            "locality_id":101853163,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":101853163,
+    "wof:lastmodified":1544742233,
+    "wof:name":"Kanal",
+    "wof:parent_id":1108959537,
+    "wof:placetype":"locality",
+    "wof:population":1269,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.645892,
+    46.090605,
+    13.645892,
+    46.090605
+],
+  "geometry": {"coordinates":[13.645892,46.090605],"type":"Point"}
+}

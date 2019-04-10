@@ -1,0 +1,75 @@
+{
+  "id": 1242713887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.92556,45.82222,13.92556,45.82222",
+    "geom:latitude":45.82222,
+    "geom:longitude":13.92556,
+    "gn:admin1_code":"E1",
+    "gn:asciiname":"Goce",
+    "gn:country_code":"SI",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200533,
+    "gn:latitude":45.82222,
+    "gn:longitude":13.92556,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Go\u010de",
+    "gn:population":185,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gozza",
+        "Go\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959623,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200533,
+        "wk:page":"Go%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e4dee74900e4fc1411028e1c61efbb28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959623,
+            "locality_id":1242713887,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1242713887,
+    "wof:lastmodified":1537700246,
+    "wof:name":"Goce",
+    "wof:parent_id":1108959623,
+    "wof:placetype":"locality",
+    "wof:population":185,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.92556,
+    45.82222,
+    13.92556,
+    45.82222
+],
+  "geometry": {"coordinates":[13.92556,45.82222],"type":"Point"}
+}

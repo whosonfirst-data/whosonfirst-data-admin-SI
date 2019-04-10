@@ -1,0 +1,71 @@
+{
+  "id": 1343396099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.12762,46.00822,14.12762,46.00822",
+    "geom:latitude":46.00822,
+    "geom:longitude":14.12762,
+    "gn:admin1_code":"F2",
+    "gn:asciiname":"Podklanec",
+    "gn:country_code":"SI",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989148,
+    "gn:latitude":46.00822,
+    "gn:longitude":14.12762,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Podklanec",
+    "gn:population":16,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959673,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989148,
+        "wk:page":"Podklanec%2C_%C5%BDiri"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3de400f2728ade99288ba052f2faad7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959673,
+            "locality_id":1343396099,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1343396099,
+    "wof:lastmodified":1537573533,
+    "wof:name":"Podklanec",
+    "wof:parent_id":1108959673,
+    "wof:placetype":"locality",
+    "wof:population":16,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.12762,
+    46.00822,
+    14.12762,
+    46.00822
+],
+  "geometry": {"coordinates":[14.12762,46.00822],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243492565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.70013,46.06582,13.70013,46.06582",
+    "geom:latitude":46.06582,
+    "geom:longitude":13.70013,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Mrcinje",
+    "gn:country_code":"SI",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10794058,
+    "gn:latitude":46.06582,
+    "gn:longitude":13.70013,
+    "gn:modification_date":"2015-10-02",
+    "gn:name":"Mrcinje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Mr\u010dinje"
+    ],
+    "name:slv_x_preferred":[
+        "Mr\u010dinje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959487,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10794058
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"aa53918501fad26bbfaf88f2e4ed1b82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959487,
+            "locality_id":1243492565,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1243492565,
+    "wof:lastmodified":1537700336,
+    "wof:name":"Mrcinje",
+    "wof:parent_id":1108959487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.70013,
+    46.06582,
+    13.70013,
+    46.06582
+],
+  "geometry": {"coordinates":[13.70013,46.06582],"type":"Point"}
+}

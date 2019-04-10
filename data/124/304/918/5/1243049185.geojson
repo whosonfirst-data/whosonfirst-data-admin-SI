@@ -1,0 +1,74 @@
+{
+  "id": 1243049185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.33639,46.2491,15.33639,46.2491",
+    "geom:latitude":46.2491,
+    "geom:longitude":15.33639,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Zepina",
+    "gn:country_code":"SI",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987855,
+    "gn:latitude":46.2491,
+    "gn:longitude":15.33639,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u017depina",
+    "gn:population":96,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017depina"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959693,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987855,
+        "wk:page":"%C5%BDepina"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9f56fa903762160c25867a2aca1bdfa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959693,
+            "locality_id":1243049185,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1243049185,
+    "wof:lastmodified":1537700294,
+    "wof:name":"Zepina",
+    "wof:parent_id":1108959693,
+    "wof:placetype":"locality",
+    "wof:population":96,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.33639,
+    46.2491,
+    15.33639,
+    46.2491
+],
+  "geometry": {"coordinates":[15.33639,46.2491],"type":"Point"}
+}

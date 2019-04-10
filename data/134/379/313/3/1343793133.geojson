@@ -1,0 +1,71 @@
+{
+  "id": 1343793133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.50696,46.23845,15.50696,46.23845",
+    "geom:latitude":46.23845,
+    "geom:longitude":15.50696,
+    "gn:admin1_code":"C5",
+    "gn:asciiname":"Dvor",
+    "gn:country_code":"SI",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987275,
+    "gn:latitude":46.23845,
+    "gn:longitude":15.50696,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Dvor",
+    "gn:population":192,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959607,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987275,
+        "wk:page":"Dvor%2C_%C5%A0marje_pri_Jel%C5%A1ah"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"54ae9433e0f3d8a00f138b4f48173271",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959607,
+            "locality_id":1343793133,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1343793133,
+    "wof:lastmodified":1537573474,
+    "wof:name":"Dvor",
+    "wof:parent_id":1108959607,
+    "wof:placetype":"locality",
+    "wof:population":192,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.50696,
+    46.23845,
+    15.50696,
+    46.23845
+],
+  "geometry": {"coordinates":[15.50696,46.23845],"type":"Point"}
+}

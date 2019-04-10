@@ -1,0 +1,76 @@
+{
+  "id": 1242714439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.75667,45.58278,13.75667,45.58278",
+    "geom:latitude":45.58278,
+    "geom:longitude":13.75667,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Hrvatini",
+    "gn:country_code":"SI",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199232,
+    "gn:latitude":45.58278,
+    "gn:longitude":13.75667,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Hrvatini",
+    "gn:population":1232,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Crevatini",
+        "Hrvatin",
+        "Hrvatini"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959527,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199232,
+        "wk:page":"Hrvatini"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"52d7ba39a909b8672d488f3b24e24762",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959527,
+            "locality_id":1242714439,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1242714439,
+    "wof:lastmodified":1537700238,
+    "wof:name":"Hrvatini",
+    "wof:parent_id":1108959527,
+    "wof:placetype":"locality",
+    "wof:population":1232,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.75667,
+    45.58278,
+    13.75667,
+    45.58278
+],
+  "geometry": {"coordinates":[13.75667,45.58278],"type":"Point"}
+}

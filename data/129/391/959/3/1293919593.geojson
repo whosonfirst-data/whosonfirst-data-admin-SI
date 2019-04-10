@@ -1,0 +1,75 @@
+{
+  "id": 1293919593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.68472,45.49389,13.68472,45.49389",
+    "geom:latitude":45.49389,
+    "geom:longitude":13.68472,
+    "gn:admin1_code":"J9",
+    "gn:asciiname":"Padna",
+    "gn:country_code":"SI",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193727,
+    "gn:latitude":45.49389,
+    "gn:longitude":13.68472,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Padna",
+    "gn:population":170,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Padena",
+        "Padna"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959613,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193727,
+        "wk:page":"Padna"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"454ef3aec41fe7dbd6597b655874dc97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959613,
+            "locality_id":1293919593,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1293919593,
+    "wof:lastmodified":1537700212,
+    "wof:name":"Padna",
+    "wof:parent_id":1108959613,
+    "wof:placetype":"locality",
+    "wof:population":170,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.68472,
+    45.49389,
+    13.68472,
+    45.49389
+],
+  "geometry": {"coordinates":[13.68472,45.49389],"type":"Point"}
+}

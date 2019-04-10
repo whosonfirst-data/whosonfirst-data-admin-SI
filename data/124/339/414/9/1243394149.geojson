@@ -1,0 +1,75 @@
+{
+  "id": 1243394149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.20722,46.0575,15.20722,46.0575",
+    "geom:latitude":46.0575,
+    "geom:longitude":15.20722,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Loka pri Zidanem Mostu",
+    "gn:country_code":"SI",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196270,
+    "gn:latitude":46.0575,
+    "gn:longitude":15.20722,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Loka pri Zidanem Mostu",
+    "gn:population":486,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loka",
+        "Loka pri Zidanem Mostu"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196270,
+        "wk:page":"Loka_pri_Zidanem_Mostu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"255e39241437bf4c4ef6786ca6dcda5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1243394149,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1243394149,
+    "wof:lastmodified":1537700223,
+    "wof:name":"Loka pri Zidanem Mostu",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":486,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.20722,
+    46.0575,
+    15.20722,
+    46.0575
+],
+  "geometry": {"coordinates":[15.20722,46.0575],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310533001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.35164,45.82738,15.35164,45.82738",
+    "geom:latitude":45.82738,
+    "geom:longitude":15.35164,
+    "gn:admin1_code":"B4",
+    "gn:asciiname":"Sela pri Sentjerneju",
+    "gn:country_code":"SI",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989520,
+    "gn:latitude":45.82738,
+    "gn:longitude":15.35164,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Sela pri \u0160entjerneju",
+    "gn:population":94,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sela pri \u0160entjerneju"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959937,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989520,
+        "wk:page":"Sela_pri_%C5%A0entjerneju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a45d7b91d35928a236229c8b5c3cbb6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959937,
+            "locality_id":1310533001,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1310533001,
+    "wof:lastmodified":1537700328,
+    "wof:name":"Sela pri Sentjerneju",
+    "wof:parent_id":1108959937,
+    "wof:placetype":"locality",
+    "wof:population":94,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.35164,
+    45.82738,
+    15.35164,
+    45.82738
+],
+  "geometry": {"coordinates":[15.35164,45.82738],"type":"Point"}
+}

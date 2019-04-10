@@ -1,0 +1,71 @@
+{
+  "id": 1243203155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.83569,46.63953,15.83569,46.63953",
+    "geom:latitude":46.63953,
+    "geom:longitude":15.83569,
+    "gn:admin1_code":"M3",
+    "gn:asciiname":"Kremberk",
+    "gn:country_code":"SI",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987123,
+    "gn:latitude":46.63953,
+    "gn:longitude":15.83569,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kremberk",
+    "gn:population":257,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959709,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987123,
+        "wk:page":"Kremberk"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d18ce27077baa4bc6b0cb77881c2bea3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959709,
+            "locality_id":1243203155,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1243203155,
+    "wof:lastmodified":1537573469,
+    "wof:name":"Kremberk",
+    "wof:parent_id":1108959709,
+    "wof:placetype":"locality",
+    "wof:population":257,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.83569,
+    46.63953,
+    15.83569,
+    46.63953
+],
+  "geometry": {"coordinates":[15.83569,46.63953],"type":"Point"}
+}

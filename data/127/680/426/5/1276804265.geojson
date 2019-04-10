@@ -1,0 +1,75 @@
+{
+  "id": 1276804265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.61282,46.25751,13.61282,46.25751",
+    "geom:latitude":46.25751,
+    "geom:longitude":13.61282,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Dreznica",
+    "gn:country_code":"SI",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201196,
+    "gn:latitude":46.25751,
+    "gn:longitude":13.61282,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Dre\u017enica",
+    "gn:population":229,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dresenza Picco",
+        "Dre\u017enica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959523,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201196,
+        "wk:page":"Dre%C5%BEnica%2C_Kobarid"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7ee0422abee47fef7d6aea04d415e2be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959523,
+            "locality_id":1276804265,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1276804265,
+    "wof:lastmodified":1537700250,
+    "wof:name":"Dreznica",
+    "wof:parent_id":1108959523,
+    "wof:placetype":"locality",
+    "wof:population":229,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.61282,
+    46.25751,
+    13.61282,
+    46.25751
+],
+  "geometry": {"coordinates":[13.61282,46.25751],"type":"Point"}
+}

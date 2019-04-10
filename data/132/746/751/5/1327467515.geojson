@@ -1,0 +1,74 @@
+{
+  "id": 1327467515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.43158,46.14251,14.43158,46.14251",
+    "geom:latitude":46.14251,
+    "geom:longitude":14.43158,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Zgornje Pirnice",
+    "gn:country_code":"SI",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186506,
+    "gn:latitude":46.14251,
+    "gn:longitude":14.43158,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Zgornje Pirni\u010de",
+    "gn:population":1267,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zgornje Pirni\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959881,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186506,
+        "wk:page":"Zgornje_Pirni%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"64cee702505305788a609ed752130ff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959881,
+            "locality_id":1327467515,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1327467515,
+    "wof:lastmodified":1537700168,
+    "wof:name":"Zgornje Pirnice",
+    "wof:parent_id":1108959881,
+    "wof:placetype":"locality",
+    "wof:population":1267,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.43158,
+    46.14251,
+    14.43158,
+    46.14251
+],
+  "geometry": {"coordinates":[14.43158,46.14251],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310532709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.28589,46.18078,15.28589,46.18078",
+    "geom:latitude":46.18078,
+    "geom:longitude":15.28589,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Poznica",
+    "gn:country_code":"SI",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988297,
+    "gn:latitude":46.18078,
+    "gn:longitude":15.28589,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Po\u017enica",
+    "gn:population":58,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Po\u017enica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959879,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988297,
+        "wk:page":"Po%C5%BEnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"cde24d8a2ffcc53074d793ada2310cd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959879,
+            "locality_id":1310532709,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1310532709,
+    "wof:lastmodified":1537700303,
+    "wof:name":"Poznica",
+    "wof:parent_id":1108959879,
+    "wof:placetype":"locality",
+    "wof:population":58,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.28589,
+    46.18078,
+    15.28589,
+    46.18078
+],
+  "geometry": {"coordinates":[15.28589,46.18078],"type":"Point"}
+}

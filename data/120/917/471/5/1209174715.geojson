@@ -1,0 +1,61 @@
+{
+  "id": 1209174715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.79556,46.32056,14.79556,46.32056",
+    "geom:latitude":46.32056,
+    "geom:longitude":14.79556,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Berglez",
+    "gn:country_code":"SI",
+    "gn:dem":609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217425,
+    "gn:latitude":46.32056,
+    "gn:longitude":14.79556,
+    "gn:modification_date":"2008-11-06",
+    "gn:name":"Berglez",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217425
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"880544c7d5d385fcd90fa81a72f2f6bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209174715
+        }
+    ],
+    "wof:id":1209174715,
+    "wof:lastmodified":1536295463,
+    "wof:name":"Berglez",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.79556,
+    46.32056,
+    14.79556,
+    46.32056
+],
+  "geometry": {"coordinates":[14.79556,46.32056],"type":"Point"}
+}

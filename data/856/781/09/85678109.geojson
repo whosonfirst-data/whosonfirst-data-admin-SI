@@ -1,0 +1,215 @@
+{
+  "id": 85678109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.008891,
+    "geom:area_square_m":75508573.927759,
+    "geom:bbox":"15.645743036,46.5685273298,15.7706449719,46.6768669704",
+    "geom:latitude":46.622305,
+    "geom:longitude":15.71246,
+    "gn:population":7566,
+    "iso:country":"SI",
+    "lbl:latitude":46.624281,
+    "lbl:longitude":15.71365,
+    "mps:latitude":46.624281,
+    "mps:longitude":15.71365,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:bos_x_preferred":[
+        "Pesnica"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u010dina Pesnica"
+    ],
+    "name:deu_x_preferred":[
+        "Pesnica"
+    ],
+    "name:eng_x_preferred":[
+        "Pesnica"
+    ],
+    "name:eng_x_variant":[
+        "Municipality of Pesnica"
+    ],
+    "name:fra_x_preferred":[
+        "Pesnica"
+    ],
+    "name:hbs_x_preferred":[
+        "Pesnica"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Pesnica"
+    ],
+    "name:ita_x_preferred":[
+        "Pesnica"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30da\u30b9\u30cb\u30c4\u30a1"
+    ],
+    "name:kor_x_preferred":[
+        "\ud398\uc2a4\ub2c8\ucc28"
+    ],
+    "name:nld_x_preferred":[
+        "Pesnica"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Pesnica"
+    ],
+    "name:por_x_preferred":[
+        "Pesnica"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Pesnica"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Pesnica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041f\u0435\u0441\u043d\u0438\u0446\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Pesnica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0441\u043d\u0438\u0446\u044f"
+    ],
+    "name:und_x_preferred":[
+        "Pesnica"
+    ],
+    "name:unk_x_variant":[
+        "Maribor-Pesnica"
+    ],
+    "name:vie_x_preferred":[
+        "Pesnica"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-976",
+    "ne:adm1_code":"SVN-976",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SI.PD.PE",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"976",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SI89",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.89",
+    "ne:gn_id":"3239215",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Pesnica",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI89",
+    "ne:gns_id":"243910",
+    "ne:gns_lang":"slv",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Pesnica, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"46.62540000000",
+    "ne:longitude":"15.70820000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Pesnica",
+    "ne:name_alt":"",
+    "ne:name_len":7,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"PE",
+    "ne:provnum_ne":"147",
+    "ne:region":"Podravska",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":55848374,
+    "ne:woe_label":"Pesnica, SI, Slovenia",
+    "ne:woe_name":"Pesnica",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Pesnica",
+    "qs:a1_lc":"SVN-976",
+    "qs:a1r":"Podravska",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":205,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SI89",
+        "gn:id":3239215,
+        "gp:id":55848374,
+        "hasc:id":"SI.PD.PE",
+        "qs:id":1104108,
+        "wd:id":"Q995048",
+        "wk:page":"Municipality of Pesnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a44f5f703ad44e50b61e335b4554e55a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85678109
+        }
+    ],
+    "wof:id":85678109,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616734,
+    "wof:name":"Pesnica",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:population":7566,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[
+        1108959553
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.64574303601233,
+    46.56852732977251,
+    15.77064497188798,
+    46.67686697043439
+],
+  "geometry": {"coordinates":[[[15.70455081616728,46.67547170735344],[15.71648807076792,46.67611766250019],[15.73059573660402,46.67332713543902],[15.73524661563886,46.67043325469098],[15.73757205560594,46.66759105078643],[15.73808882044278,46.66464549409432],[15.73881228995526,46.66211334945154],[15.74444502092103,46.65756582320421],[15.74894087122425,46.65524038323713],[15.75281660300385,46.65198476818256],[15.75622724768937,46.64769562435362],[15.76072309709332,46.64412995093653],[15.77064497188798,46.63425975208594],[15.76072309709332,46.61493276643409],[15.75777754130053,46.60268545257162],[15.7599479507374,46.5881126978428],[15.75467695497753,46.57328156249417],[15.74475508018287,46.56852732977251],[15.7206738618093,46.56930247702775],[15.69896976114563,46.57948273424086],[15.67984948106874,46.59281525282171],[15.64713829909329,46.59408132649207],[15.66434655125238,46.60356395081573],[15.64574303601233,46.64276052537798],[15.67240807497274,46.64604197885427],[15.67504357330233,46.64769562435362],[15.6778341003635,46.648935858703],[15.67705895400758,46.64994354905559],[15.67674889474574,46.65226898902267],[15.67845421708847,46.65715241115493],[15.68517215277268,46.66578237655551],[15.68796268073316,46.67317210490876],[15.69152835504957,46.6764018833403],[15.69416385337917,46.6767894560686],[15.6986597018838,46.67686697043439],[15.70455081616728,46.67547170735344]]],"type":"Polygon"}
+}

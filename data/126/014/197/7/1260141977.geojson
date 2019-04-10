@@ -1,0 +1,75 @@
+{
+  "id": 1260141977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.78944,45.76278,14.78944,45.76278",
+    "geom:latitude":45.76278,
+    "geom:longitude":14.78944,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Rapljevo",
+    "gn:country_code":"SI",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191968,
+    "gn:latitude":45.76278,
+    "gn:longitude":14.78944,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Rapljevo",
+    "gn:population":69,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Veliko Rapljevo",
+        "Rapljevo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959575,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191968,
+        "wk:page":"Rapljevo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6e1e4d0e6712c605e1296d93f508edde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959575,
+            "locality_id":1260141977,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1260141977,
+    "wof:lastmodified":1537700201,
+    "wof:name":"Rapljevo",
+    "wof:parent_id":1108959575,
+    "wof:placetype":"locality",
+    "wof:population":69,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.78944,
+    45.76278,
+    14.78944,
+    45.76278
+],
+  "geometry": {"coordinates":[14.78944,45.76278],"type":"Point"}
+}

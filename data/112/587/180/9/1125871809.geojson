@@ -1,0 +1,128 @@
+{
+  "id": 1125871809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.22806,46.62833,16.22806,46.62833",
+    "geom:latitude":46.62833,
+    "geom:longitude":16.22806,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1036,
+    "gn:population":1097,
+    "iso:country":"SI",
+    "lbl:latitude":46.62833,
+    "lbl:longitude":16.22806,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Lipovci"
+    ],
+    "name:dut_x_preferred":[
+        "Lipovci"
+    ],
+    "name:eng_x_preferred":[
+        "Lipovci"
+    ],
+    "name:epo_x_preferred":[
+        "Lipovci"
+    ],
+    "name:hrv_x_preferred":[
+        "Lipovci"
+    ],
+    "name:hun_x_preferred":[
+        "H\u00e1rsliget"
+    ],
+    "name:ita_x_preferred":[
+        "Lipovci"
+    ],
+    "name:pol_x_preferred":[
+        "Lipovci"
+    ],
+    "name:rum_x_preferred":[
+        "Lipovci"
+    ],
+    "name:sco_x_preferred":[
+        "Lipovci"
+    ],
+    "name:slv_x_preferred":[
+        "Lipovci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0438\u043f\u043e\u0432\u0446\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Lippah\u00f3cz"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3196496,
+    "qs_pg:gn_pop":1036,
+    "qs_pg:name":"Lipovci",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Murska Sobota",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":147186,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":530621,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Murska Sobota",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959517,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196496,
+        "gp:id":530621,
+        "qs_pg:id":147186,
+        "wd:id":"Q907800"
+    },
+    "wof:country":"SI",
+    "wof:created":1497294339,
+    "wof:geomhash":"06fb3adc7a6093747c9bf6093f4e149c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959517,
+            "locality_id":1125871809,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1125871809,
+    "wof:lastmodified":1531170197,
+    "wof:name":"Lipovci",
+    "wof:parent_id":1108959517,
+    "wof:placetype":"locality",
+    "wof:population":1097,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.22806,
+    46.62833,
+    16.22806,
+    46.62833
+],
+  "geometry": {"coordinates":[16.22806,46.62833],"type":"Point"}
+}

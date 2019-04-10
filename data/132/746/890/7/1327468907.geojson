@@ -1,0 +1,71 @@
+{
+  "id": 1327468907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.72016,45.56948,14.72016,45.56948",
+    "geom:latitude":45.56948,
+    "geom:longitude":14.72016,
+    "gn:admin1_code":"88",
+    "gn:asciiname":"Belica",
+    "gn:country_code":"SI",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989331,
+    "gn:latitude":45.56948,
+    "gn:longitude":14.72016,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Belica",
+    "gn:population":7,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959563,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989331,
+        "wk:page":"Belica%2C_Osilnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f81a97ab05c7fc4914007c9851e900d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959563,
+            "locality_id":1327468907,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1327468907,
+    "wof:lastmodified":1537573539,
+    "wof:name":"Belica",
+    "wof:parent_id":1108959563,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.72016,
+    45.56948,
+    14.72016,
+    45.56948
+],
+  "geometry": {"coordinates":[14.72016,45.56948],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243540123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.68333,45.95,15.68333,45.95",
+    "geom:latitude":45.95,
+    "geom:longitude":15.68333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Vrhje",
+    "gn:country_code":"SI",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187219,
+    "gn:latitude":45.95,
+    "gn:longitude":15.68333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Vrhje",
+    "gn:population":227,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187219,
+        "wk:page":"Vrhje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b6bc076a98e0d18a76ab1828a5600d78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1243540123,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1243540123,
+    "wof:lastmodified":1537573386,
+    "wof:name":"Vrhje",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:population":227,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.68333,
+    45.95,
+    15.68333,
+    45.95
+],
+  "geometry": {"coordinates":[15.68333,45.95],"type":"Point"}
+}

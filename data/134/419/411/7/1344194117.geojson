@@ -1,0 +1,71 @@
+{
+  "id": 1344194117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.39004,45.97652,15.39004,45.97652",
+    "geom:latitude":45.97652,
+    "geom:longitude":15.39004,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Lomno",
+    "gn:country_code":"SI",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988088,
+    "gn:latitude":45.97652,
+    "gn:longitude":15.39004,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Lomno",
+    "gn:population":74,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988088,
+        "wk:page":"Lomno%2C_Kr%C5%A1ko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"cd9138f947fa012c1d5eac08a79eb7a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1344194117,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1344194117,
+    "wof:lastmodified":1537573501,
+    "wof:name":"Lomno",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":74,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.39004,
+    45.97652,
+    15.39004,
+    45.97652
+],
+  "geometry": {"coordinates":[15.39004,45.97652],"type":"Point"}
+}

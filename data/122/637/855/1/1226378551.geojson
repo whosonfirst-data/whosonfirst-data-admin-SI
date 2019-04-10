@@ -1,0 +1,71 @@
+{
+  "id": 1226378551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.19312,45.71847,15.19312,45.71847",
+    "geom:latitude":45.71847,
+    "geom:longitude":15.19312,
+    "gn:admin1_code":"J7",
+    "gn:asciiname":"Pristava",
+    "gn:country_code":"SI",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987743,
+    "gn:latitude":45.71847,
+    "gn:longitude":15.19312,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Pristava",
+    "gn:population":108,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959465,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987743,
+        "wk:page":"Pristava%2C_Novo_Mesto"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c24e3d84c30aed9b4191dadf794af28f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959465,
+            "locality_id":1226378551,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1226378551,
+    "wof:lastmodified":1537573490,
+    "wof:name":"Pristava",
+    "wof:parent_id":1108959465,
+    "wof:placetype":"locality",
+    "wof:population":108,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.19312,
+    45.71847,
+    15.19312,
+    45.71847
+],
+  "geometry": {"coordinates":[15.19312,45.71847],"type":"Point"}
+}

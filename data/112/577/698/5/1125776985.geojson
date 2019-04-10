@@ -1,0 +1,118 @@
+{
+  "id": 1125776985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.71806,45.89,13.71806,45.89",
+    "geom:latitude":45.89,
+    "geom:longitude":13.71806,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1150,
+    "gn:population":1268,
+    "iso:country":"SI",
+    "lbl:latitude":45.89,
+    "lbl:longitude":13.71806,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Prva\u010dina"
+    ],
+    "name:dut_x_preferred":[
+        "Prva\u010dina"
+    ],
+    "name:eng_x_preferred":[
+        "Prva\u010dina"
+    ],
+    "name:hun_x_preferred":[
+        "Prva\u010dina"
+    ],
+    "name:ita_x_preferred":[
+        "Prevacina"
+    ],
+    "name:rum_x_preferred":[
+        "Prva\u010dina"
+    ],
+    "name:slv_x_preferred":[
+        "Prva\u010dina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0432\u0430\u0447\u0438\u043d\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Prevacina"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3192262,
+    "qs_pg:gn_pop":1150,
+    "qs_pg:name":"Prva\u010dina",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Nova Gorica",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":7,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1043967,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":531273,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Nova Gorica",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959487,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192262,
+        "gp:id":531273,
+        "qs_pg:id":1043967,
+        "wd:id":"Q600666"
+    },
+    "wof:country":"SI",
+    "wof:created":1497290304,
+    "wof:geomhash":"bebac4d6779029d014b0fcc4f07cd5c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959487,
+            "locality_id":1125776985,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1125776985,
+    "wof:lastmodified":1531170233,
+    "wof:name":"Prva\u010dina",
+    "wof:parent_id":1108959487,
+    "wof:placetype":"locality",
+    "wof:population":1268,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.71806,
+    45.89,
+    13.71806,
+    45.89
+],
+  "geometry": {"coordinates":[13.71806,45.89],"type":"Point"}
+}

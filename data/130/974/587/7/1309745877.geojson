@@ -1,0 +1,75 @@
+{
+  "id": 1309745877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.39,46.25444,15.39,46.25444",
+    "geom:latitude":46.25444,
+    "geom:longitude":15.39,
+    "gn:admin1_code":"L7",
+    "gn:asciiname":"Trnovec pri Dramljah",
+    "gn:country_code":"SI",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188784,
+    "gn:latitude":46.25444,
+    "gn:longitude":15.39,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Trnovec pri Dramljah",
+    "gn:population":145,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trnovec",
+        "Trnovec pri Dramljah"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959791,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188784,
+        "wk:page":"Trnovec_pri_Dramljah"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9f1f9b80c01a6baf0f01e96cb813aec0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959791,
+            "locality_id":1309745877,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1309745877,
+    "wof:lastmodified":1537700180,
+    "wof:name":"Trnovec pri Dramljah",
+    "wof:parent_id":1108959791,
+    "wof:placetype":"locality",
+    "wof:population":145,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.39,
+    46.25444,
+    15.39,
+    46.25444
+],
+  "geometry": {"coordinates":[15.39,46.25444],"type":"Point"}
+}

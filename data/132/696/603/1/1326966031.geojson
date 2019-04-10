@@ -1,0 +1,71 @@
+{
+  "id": 1326966031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.74583,46.11093,14.74583,46.11093",
+    "geom:latitude":46.11093,
+    "geom:longitude":14.74583,
+    "gn:admin1_code":"77",
+    "gn:asciiname":"Katarija",
+    "gn:country_code":"SI",
+    "gn:dem":701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988548,
+    "gn:latitude":46.11093,
+    "gn:longitude":14.74583,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Katarija",
+    "gn:population":44,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959515,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988548,
+        "wk:page":"Katarija"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"cb545dcfa8555edf0101f4be21c18cd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959515,
+            "locality_id":1326966031,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1326966031,
+    "wof:lastmodified":1537573515,
+    "wof:name":"Katarija",
+    "wof:parent_id":1108959515,
+    "wof:placetype":"locality",
+    "wof:population":44,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.74583,
+    46.11093,
+    14.74583,
+    46.11093
+],
+  "geometry": {"coordinates":[14.74583,46.11093],"type":"Point"}
+}

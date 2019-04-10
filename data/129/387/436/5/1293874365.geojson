@@ -1,0 +1,73 @@
+{
+  "id": 1293874365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.64796,45.91724,15.64796,45.91724",
+    "geom:latitude":45.91724,
+    "geom:longitude":15.64796,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Pistace",
+    "gn:country_code":"SI",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":10794189,
+    "gn:latitude":45.91724,
+    "gn:longitude":15.64796,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Pista\u010de",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:slv_x_historical":[
+        "Pesta\u010de"
+    ],
+    "name:slv_x_preferred":[
+        "Pesta\u010de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10794189
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"207df9286953c5bf1720db7654ee52fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1293874365,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1293874365,
+    "wof:lastmodified":1537700336,
+    "wof:name":"Pistace",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.64796,
+    45.91724,
+    15.64796,
+    45.91724
+],
+  "geometry": {"coordinates":[15.64796,45.91724],"type":"Point"}
+}

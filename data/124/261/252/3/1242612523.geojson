@@ -1,0 +1,77 @@
+{
+  "id": 1242612523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.77972,46.14,13.77972,46.14",
+    "geom:latitude":46.14,
+    "geom:longitude":13.77972,
+    "gn:admin1_code":"D2",
+    "gn:asciiname":"Idrija pri Baci",
+    "gn:country_code":"SI",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199168,
+    "gn:latitude":46.14,
+    "gn:longitude":13.77972,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Idrija pri Ba\u010di",
+    "gn:population":290,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Idria di Bacia",
+        "Idrija ob Ba\u010di",
+        "Idria della Baccia",
+        "Idrija pri Ba\u010di"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959617,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199168,
+        "wk:page":"Idrija_pri_Ba%C4%8Di"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"88f0b807fc3a1c2ac02ef2055f42fd5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959617,
+            "locality_id":1242612523,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1242612523,
+    "wof:lastmodified":1537700238,
+    "wof:name":"Idrija pri Baci",
+    "wof:parent_id":1108959617,
+    "wof:placetype":"locality",
+    "wof:population":290,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.77972,
+    46.14,
+    13.77972,
+    46.14
+],
+  "geometry": {"coordinates":[13.77972,46.14],"type":"Point"}
+}

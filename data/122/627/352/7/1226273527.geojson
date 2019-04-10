@@ -1,0 +1,75 @@
+{
+  "id": 1226273527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.6,46.11667,15.6,46.11667",
+    "geom:latitude":46.11667,
+    "geom:longitude":15.6,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Golobinjek ob Sotli",
+    "gn:country_code":"SI",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200448,
+    "gn:latitude":46.11667,
+    "gn:longitude":15.6,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Golobinjek ob Sotli",
+    "gn:population":48,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Golobinjek",
+        "Golobinjek ob Sotli"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959649,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200448,
+        "wk:page":"Golobinjek_ob_Sotli"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c6d6e22545e0bb54994ab1ab8177c1dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959649,
+            "locality_id":1226273527,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1226273527,
+    "wof:lastmodified":1537700246,
+    "wof:name":"Golobinjek ob Sotli",
+    "wof:parent_id":1108959649,
+    "wof:placetype":"locality",
+    "wof:population":48,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.6,
+    46.11667,
+    15.6,
+    46.11667
+],
+  "geometry": {"coordinates":[15.6,46.11667],"type":"Point"}
+}

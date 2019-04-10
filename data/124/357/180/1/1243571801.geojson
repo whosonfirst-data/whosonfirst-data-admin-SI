@@ -1,0 +1,74 @@
+{
+  "id": 1243571801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.92497,45.89603,13.92497,45.89603",
+    "geom:latitude":45.89603,
+    "geom:longitude":13.92497,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Grivce",
+    "gn:country_code":"SI",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988229,
+    "gn:latitude":45.89603,
+    "gn:longitude":13.92497,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Griv\u010de",
+    "gn:population":62,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Griv\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959545,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988229,
+        "wk:page":"Griv%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"695336ceac02b3dd80a7325a2a9b6f22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959545,
+            "locality_id":1243571801,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1243571801,
+    "wof:lastmodified":1537700302,
+    "wof:name":"Grivce",
+    "wof:parent_id":1108959545,
+    "wof:placetype":"locality",
+    "wof:population":62,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.92497,
+    45.89603,
+    13.92497,
+    45.89603
+],
+  "geometry": {"coordinates":[13.92497,45.89603],"type":"Point"}
+}

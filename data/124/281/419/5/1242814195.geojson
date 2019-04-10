@@ -1,0 +1,67 @@
+{
+  "id": 1242814195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.5,45.96667,15.5,45.96667",
+    "geom:latitude":45.96667,
+    "geom:longitude":15.5,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Videm",
+    "gn:country_code":"SI",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187812,
+    "gn:latitude":45.96667,
+    "gn:longitude":15.5,
+    "gn:modification_date":"2008-11-06",
+    "gn:name":"Videm",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187812
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"bf61871f20557a45286e67ee5c2d5564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1242814195,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1242814195,
+    "wof:lastmodified":1536723210,
+    "wof:name":"Videm",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.5,
+    45.96667,
+    15.5,
+    45.96667
+],
+  "geometry": {"coordinates":[15.5,45.96667],"type":"Point"}
+}

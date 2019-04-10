@@ -1,0 +1,74 @@
+{
+  "id": 1310531915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.54109,46.12153,15.54109,46.12153",
+    "geom:latitude":46.12153,
+    "geom:longitude":15.54109,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Doblezice",
+    "gn:country_code":"SI",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987633,
+    "gn:latitude":46.12153,
+    "gn:longitude":15.54109,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Doble\u017ei\u010de",
+    "gn:population":121,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doble\u017ei\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959581,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987633,
+        "wk:page":"Doble%C5%BEi%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"05fd9204b6730d61c0c63b2834bde105",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959581,
+            "locality_id":1310531915,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1310531915,
+    "wof:lastmodified":1537700290,
+    "wof:name":"Doblezice",
+    "wof:parent_id":1108959581,
+    "wof:placetype":"locality",
+    "wof:population":121,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.54109,
+    46.12153,
+    15.54109,
+    46.12153
+],
+  "geometry": {"coordinates":[15.54109,46.12153],"type":"Point"}
+}

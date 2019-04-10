@@ -1,0 +1,71 @@
+{
+  "id": 1226571629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.80951,46.19111,13.80951,46.19111",
+    "geom:latitude":46.19111,
+    "geom:longitude":13.80951,
+    "gn:admin1_code":"D2",
+    "gn:asciiname":"Sela nad Podmelcem",
+    "gn:country_code":"SI",
+    "gn:dem":1057,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989297,
+    "gn:latitude":46.19111,
+    "gn:longitude":13.80951,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Sela nad Podmelcem",
+    "gn:population":9,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959617,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989297,
+        "wk:page":"Sela_nad_Podmelcem"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"89d316cd9ccfb1509d1c07aa12672c17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959617,
+            "locality_id":1226571629,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1226571629,
+    "wof:lastmodified":1537573538,
+    "wof:name":"Sela nad Podmelcem",
+    "wof:parent_id":1108959617,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.80951,
+    46.19111,
+    13.80951,
+    46.19111
+],
+  "geometry": {"coordinates":[13.80951,46.19111],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343597413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.76741,46.5515,15.76741,46.5515",
+    "geom:latitude":46.5515,
+    "geom:longitude":15.76741,
+    "gn:admin1_code":"I3",
+    "gn:asciiname":"Vinicka Vas",
+    "gn:country_code":"SI",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987464,
+    "gn:latitude":46.5515,
+    "gn:longitude":15.76741,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Vini\u010dka Vas",
+    "gn:population":148,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vini\u010dka Vas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959477,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987464,
+        "wk:page":"Vini%C4%8Dka_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c1c74c56af449e9cc414ff3c74320398",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959477,
+            "locality_id":1343597413,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1343597413,
+    "wof:lastmodified":1537700287,
+    "wof:name":"Vinicka Vas",
+    "wof:parent_id":1108959477,
+    "wof:placetype":"locality",
+    "wof:population":148,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.76741,
+    46.5515,
+    15.76741,
+    46.5515
+],
+  "geometry": {"coordinates":[15.76741,46.5515],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209549971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.96111,45.98683,14.96111,45.98683",
+    "geom:latitude":45.98683,
+    "geom:longitude":14.96111,
+    "gn:admin1_code":"I5",
+    "gn:asciiname":"Gabrska Gora",
+    "gn:country_code":"SI",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989552,
+    "gn:latitude":45.98683,
+    "gn:longitude":14.96111,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Gabrska Gora",
+    "gn:population":63,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989552,
+        "wk:page":"Gabrska_Gora%2C_Litija"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9da330213b4760686bf26d09503e2045",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209549971
+        }
+    ],
+    "wof:id":1209549971,
+    "wof:lastmodified":1537573545,
+    "wof:name":"Gabrska Gora",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":63,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.96111,
+    45.98683,
+    14.96111,
+    45.98683
+],
+  "geometry": {"coordinates":[14.96111,45.98683],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1310519315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.77667,45.91056,13.77667,45.91056",
+    "geom:latitude":45.91056,
+    "geom:longitude":13.77667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Crnice",
+    "gn:country_code":"SI",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202434,
+    "gn:latitude":45.91056,
+    "gn:longitude":13.77667,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"\u010crni\u010de",
+    "gn:population":426,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cernizza Goriziana",
+        "\u010crni\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959545,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202434,
+        "wk:page":"%C4%8Crni%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d8553f56adb908c8749b1bc888d8b562",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959545,
+            "locality_id":1310519315,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1310519315,
+    "wof:lastmodified":1537700256,
+    "wof:name":"Crnice",
+    "wof:parent_id":1108959545,
+    "wof:placetype":"locality",
+    "wof:population":426,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.77667,
+    45.91056,
+    13.77667,
+    45.91056
+],
+  "geometry": {"coordinates":[13.77667,45.91056],"type":"Point"}
+}

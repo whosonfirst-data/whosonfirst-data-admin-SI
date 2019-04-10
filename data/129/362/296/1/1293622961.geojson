@@ -1,0 +1,71 @@
+{
+  "id": 1293622961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.28873,46.32513,14.28873,46.32513",
+    "geom:latitude":46.32513,
+    "geom:longitude":14.28873,
+    "gn:admin1_code":"D5",
+    "gn:asciiname":"Breg ob Bistrici",
+    "gn:country_code":"SI",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988162,
+    "gn:latitude":46.32513,
+    "gn:longitude":14.28873,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Breg ob Bistrici",
+    "gn:population":69,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959917,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988162,
+        "wk:page":"Breg_ob_Bistrici"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e10578c92a5adc3e360bcd04eb652a83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959917,
+            "locality_id":1293622961,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1293622961,
+    "wof:lastmodified":1537573504,
+    "wof:name":"Breg ob Bistrici",
+    "wof:parent_id":1108959917,
+    "wof:placetype":"locality",
+    "wof:population":69,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.28873,
+    46.32513,
+    14.28873,
+    46.32513
+],
+  "geometry": {"coordinates":[14.28873,46.32513],"type":"Point"}
+}

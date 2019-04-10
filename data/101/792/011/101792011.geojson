@@ -1,0 +1,108 @@
+{
+  "id": 101792011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000044,
+    "geom:area_square_m":379088.034874,
+    "geom:bbox":"14.4095459588,46.0491912568,14.4181275076,46.0636281165",
+    "geom:latitude":46.056512,
+    "geom:longitude":14.413304,
+    "gn:population":943,
+    "iso:country":"SI",
+    "lbl:latitude":46.054266,
+    "lbl:longitude":14.414669,
+    "mps:latitude":46.054266,
+    "mps:longitude":14.414669,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u0432\u0430"
+    ],
+    "name:hbs_x_preferred":[
+        "Dobrova"
+    ],
+    "name:nld_x_preferred":[
+        "Dobrova"
+    ],
+    "name:ron_x_preferred":[
+        "Dobrova"
+    ],
+    "name:slv_x_preferred":[
+        "Dobrova"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u0432\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u0432\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Dobrova pri Ljubljani"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"Dobrova",
+    "qs:la_lc":"*SI021000",
+    "qs:level":"locality",
+    "qs:loc":"Dobrova",
+    "qs:loc_alt":"Dobrova",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":835,
+    "wof:belongsto":[
+        102191581,
+        1108959847,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201901,
+        "gp:id":55849203,
+        "qs:id":581749,
+        "qs_pg:id":581749,
+        "wd:id":"Q2671709",
+        "wk:page":"Dobrova, Dobrova\u2013Polhov Gradec"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ea94880910c7cf430309e6fdb350ca0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959847,
+            "locality_id":101792011,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":101792011,
+    "wof:lastmodified":1531170281,
+    "wof:name":"Dobrova",
+    "wof:parent_id":1108959847,
+    "wof:placetype":"locality",
+    "wof:population":943,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.40954595881175,
+    46.04919125678845,
+    14.41812750759181,
+    46.06362811654714
+],
+  "geometry": {"coordinates":[[[14.41241772193951,46.06357472892392],[14.41234426532662,46.06267576617097],[14.4136333036999,46.06262236399493],[14.41355982892696,46.0617234017019],[14.4148488436694,46.06166998497361],[14.41440793362597,46.05627620546238],[14.41569681811399,46.05622277931872],[14.41562332287725,46.05532381510756],[14.41691218374081,46.05527037441425],[14.41683867035289,46.05437141066284],[14.41812750759181,46.05431795542029],[14.41798044768831,46.05252002826927],[14.41411405697818,46.05268034110304],[14.41404059573733,46.05178137359354],[14.41275181554738,46.0518347790258],[14.41260494520304,46.05003684025053],[14.41131620534674,46.05009022805439],[14.41124279624034,46.04919125678845],[14.40995407539992,46.04924462799102],[14.41010085414501,46.05104257200674],[14.41138961761851,46.05098919875229],[14.41168329836796,46.05458507586621],[14.41297214481722,46.05453168293047],[14.41333942362229,46.05902651141855],[14.41205047055746,46.05907990948725],[14.41212391449767,46.05997887450917],[14.40954595881175,46.06008562596446],[14.40976618167304,46.06278252378456],[14.41105522465045,46.06272915276759],[14.41112865993375,46.06362811654714],[14.41241772193951,46.06357472892392]]],"type":"Polygon"}
+}

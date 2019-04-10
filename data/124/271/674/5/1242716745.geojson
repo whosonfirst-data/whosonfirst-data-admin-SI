@@ -1,0 +1,77 @@
+{
+  "id": 1242716745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.18893,45.60377,14.18893,45.60377",
+    "geom:latitude":45.60377,
+    "geom:longitude":14.18893,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Gornja Bitnja",
+    "gn:country_code":"SI",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200284,
+    "gn:latitude":45.60377,
+    "gn:longitude":14.18893,
+    "gn:modification_date":"2015-11-02",
+    "gn:name":"Gornja Bitnja",
+    "gn:population":50,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Gorenje Bitnje"
+    ],
+    "name:slv_x_preferred":[
+        "Gorenje Bitnje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959873,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200284,
+        "wk:page":"Gornja_Bitnja"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c8cd822e25c7c41dcfe36d1e4bd1203d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959873,
+            "locality_id":1242716745,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1242716745,
+    "wof:lastmodified":1537700244,
+    "wof:name":"Gornja Bitnja",
+    "wof:parent_id":1108959873,
+    "wof:placetype":"locality",
+    "wof:population":50,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.18893,
+    45.60377,
+    14.18893,
+    45.60377
+],
+  "geometry": {"coordinates":[14.18893,45.60377],"type":"Point"}
+}

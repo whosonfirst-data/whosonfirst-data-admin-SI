@@ -1,0 +1,71 @@
+{
+  "id": 1344087271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.0235,45.81876,14.0235,45.81876",
+    "geom:latitude":45.81876,
+    "geom:longitude":14.0235,
+    "gn:admin1_code":"E1",
+    "gn:asciiname":"Nanos",
+    "gn:country_code":"SI",
+    "gn:dem":936,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989317,
+    "gn:latitude":45.81876,
+    "gn:longitude":14.0235,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Nanos",
+    "gn:population":8,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959623,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989317,
+        "wk:page":"Nanos%2C_Vipava"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9e672994decd6dbfb6b067b7067eeabe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959623,
+            "locality_id":1344087271,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1344087271,
+    "wof:lastmodified":1537573538,
+    "wof:name":"Nanos",
+    "wof:parent_id":1108959623,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.0235,
+    45.81876,
+    14.0235,
+    45.81876
+],
+  "geometry": {"coordinates":[14.0235,45.81876],"type":"Point"}
+}

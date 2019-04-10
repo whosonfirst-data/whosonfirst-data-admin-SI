@@ -1,0 +1,71 @@
+{
+  "id": 1293323041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.9025,45.78194,14.9025,45.78194",
+    "geom:latitude":45.78194,
+    "geom:longitude":14.9025,
+    "gn:admin1_code":"N8",
+    "gn:asciiname":"Lopata",
+    "gn:country_code":"SI",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196208,
+    "gn:latitude":45.78194,
+    "gn:longitude":14.9025,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Lopata",
+    "gn:population":81,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959787,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196208,
+        "wk:page":"Lopata%2C_%C5%BDu%C5%BEemberk"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"38365591f22de5497b4547e41a824240",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959787,
+            "locality_id":1293323041,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1293323041,
+    "wof:lastmodified":1537573424,
+    "wof:name":"Lopata",
+    "wof:parent_id":1108959787,
+    "wof:placetype":"locality",
+    "wof:population":81,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.9025,
+    45.78194000000001,
+    14.9025,
+    45.78194000000001
+],
+  "geometry": {"coordinates":[14.9025,45.78194000000001],"type":"Point"}
+}

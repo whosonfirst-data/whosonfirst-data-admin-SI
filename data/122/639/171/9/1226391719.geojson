@@ -1,0 +1,74 @@
+{
+  "id": 1226391719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.6234,45.98338,14.6234,45.98338",
+    "geom:latitude":45.98338,
+    "geom:longitude":14.6234,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Podgorica pri Smarju",
+    "gn:country_code":"SI",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987927,
+    "gn:latitude":45.98338,
+    "gn:longitude":14.6234,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Podgorica pri \u0160marju",
+    "gn:population":89,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Podgorica pri \u0160marju"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959533,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987927,
+        "wk:page":"Podgorica_pri_%C5%A0marju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b7c54c4e84f106e0e860954a94efd8bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959533,
+            "locality_id":1226391719,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1226391719,
+    "wof:lastmodified":1537700296,
+    "wof:name":"Podgorica pri Smarju",
+    "wof:parent_id":1108959533,
+    "wof:placetype":"locality",
+    "wof:population":89,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.6234,
+    45.98338,
+    14.6234,
+    45.98338
+],
+  "geometry": {"coordinates":[14.6234,45.98338],"type":"Point"}
+}

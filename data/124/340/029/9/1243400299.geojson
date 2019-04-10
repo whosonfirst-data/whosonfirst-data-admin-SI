@@ -1,0 +1,75 @@
+{
+  "id": 1243400299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.14722,45.65167,14.14722,45.65167",
+    "geom:latitude":45.65167,
+    "geom:longitude":14.14722,
+    "gn:admin1_code":"91",
+    "gn:asciiname":"Nova Susica",
+    "gn:country_code":"SI",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194409,
+    "gn:latitude":45.65167,
+    "gn:longitude":14.14722,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Nova Su\u0161ica",
+    "gn:population":102,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sussizza",
+        "Nova Su\u0161ica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959587,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194409,
+        "wk:page":"Nova_Su%C5%A1ica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"82f89f3518dbbe6722489b91fa84a435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959587,
+            "locality_id":1243400299,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1243400299,
+    "wof:lastmodified":1537700215,
+    "wof:name":"Nova Susica",
+    "wof:parent_id":1108959587,
+    "wof:placetype":"locality",
+    "wof:population":102,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.14722,
+    45.65167,
+    14.14722,
+    45.65167
+],
+  "geometry": {"coordinates":[14.14722,45.65167],"type":"Point"}
+}

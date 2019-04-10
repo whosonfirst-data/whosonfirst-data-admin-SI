@@ -1,0 +1,70 @@
+{
+  "id": 1326474679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.985,45.94583,13.985,45.94583",
+    "geom:latitude":45.94583,
+    "geom:longitude":13.985,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Zadlog",
+    "gn:country_code":"SI",
+    "gn:dem":733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216533,
+    "gn:latitude":45.94583,
+    "gn:longitude":13.985,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Zadlog",
+    "gn:population":276,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959535,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216533
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"858c1dfe48a4c350f09c10ddec10ea87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959535,
+            "locality_id":1326474679,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1326474679,
+    "wof:lastmodified":1537064161,
+    "wof:name":"Zadlog",
+    "wof:parent_id":1108959535,
+    "wof:placetype":"locality",
+    "wof:population":276,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.985,
+    45.94583,
+    13.985,
+    45.94583
+],
+  "geometry": {"coordinates":[13.985,45.94583],"type":"Point"}
+}

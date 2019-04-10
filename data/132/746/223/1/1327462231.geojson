@@ -1,0 +1,71 @@
+{
+  "id": 1327462231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.7525,45.71194,14.7525,45.71194",
+    "geom:latitude":45.71194,
+    "geom:longitude":14.7525,
+    "gn:admin1_code":"L1",
+    "gn:asciiname":"Prigorica",
+    "gn:country_code":"SI",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192428,
+    "gn:latitude":45.71194,
+    "gn:longitude":14.7525,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Prigorica",
+    "gn:population":438,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959599,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192428,
+        "wk:page":"Prigorica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"cb5537cda230e87604ad233b7a140621",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959599,
+            "locality_id":1327462231,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1327462231,
+    "wof:lastmodified":1537573408,
+    "wof:name":"Prigorica",
+    "wof:parent_id":1108959599,
+    "wof:placetype":"locality",
+    "wof:population":438,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.7525,
+    45.71194000000001,
+    14.7525,
+    45.71194000000001
+],
+  "geometry": {"coordinates":[14.7525,45.71194000000001],"type":"Point"}
+}

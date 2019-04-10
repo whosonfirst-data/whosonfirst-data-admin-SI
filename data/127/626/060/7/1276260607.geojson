@@ -1,0 +1,80 @@
+{
+  "id": 1276260607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.28402,45.97191,15.28402,45.97191",
+    "geom:latitude":45.97191,
+    "geom:longitude":15.28402,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Rogacice",
+    "gn:country_code":"SI",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988530,
+    "gn:latitude":45.97191,
+    "gn:longitude":15.28402,
+    "gn:modification_date":"2015-12-03",
+    "gn:name":"Roga\u010dice",
+    "gn:population":45,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Roga\u010dica"
+    ],
+    "name:slv_x_preferred":[
+        "Roga\u010dica"
+    ],
+    "name:und_x_variant":[
+        "Roga\u010dice"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988530,
+        "wk:page":"Roga%C4%8Dice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"411ddfd2715620c2698df81cc564b7b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1276260607,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1276260607,
+    "wof:lastmodified":1537700308,
+    "wof:name":"Rogacice",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":45,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.28402,
+    45.97191,
+    15.28402,
+    45.97191
+],
+  "geometry": {"coordinates":[15.28402,45.97191],"type":"Point"}
+}

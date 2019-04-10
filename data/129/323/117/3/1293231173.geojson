@@ -1,0 +1,71 @@
+{
+  "id": 1293231173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.86334,45.51997,14.86334,45.51997",
+    "geom:latitude":45.51997,
+    "geom:longitude":14.86334,
+    "gn:admin1_code":"H9",
+    "gn:asciiname":"Briga",
+    "gn:country_code":"SI",
+    "gn:dem":570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989653,
+    "gn:latitude":45.51997,
+    "gn:longitude":14.86334,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Briga",
+    "gn:population":15,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959711,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989653,
+        "wk:page":"Briga%2C_Kostel"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"65e651dec0acd93b27af050be7ece6de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959711,
+            "locality_id":1293231173,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1293231173,
+    "wof:lastmodified":1537573548,
+    "wof:name":"Briga",
+    "wof:parent_id":1108959711,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.86334,
+    45.51997,
+    14.86334,
+    45.51997
+],
+  "geometry": {"coordinates":[14.86334,45.51997],"type":"Point"}
+}

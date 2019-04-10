@@ -1,0 +1,77 @@
+{
+  "id": 1226273057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.30879,45.97203,15.30879,45.97203",
+    "geom:latitude":45.97203,
+    "geom:longitude":15.30879,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Gornje Impolje",
+    "gn:country_code":"SI",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989633,
+    "gn:latitude":45.97203,
+    "gn:longitude":15.30879,
+    "gn:modification_date":"2015-11-30",
+    "gn:name":"Gornje Impolje",
+    "gn:population":22,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Gorenje Impole"
+    ],
+    "name:slv_x_preferred":[
+        "Gorenje Impole"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989633,
+        "wk:page":"Gornje_Impolje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"dd07335ebee6c2f1e082e9be7c83b580",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1226273057,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1226273057,
+    "wof:lastmodified":1537700330,
+    "wof:name":"Gornje Impolje",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":22,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.30879,
+    45.97203,
+    15.30879,
+    45.97203
+],
+  "geometry": {"coordinates":[15.30879,45.97203],"type":"Point"}
+}

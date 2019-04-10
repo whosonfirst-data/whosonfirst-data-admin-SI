@@ -1,0 +1,71 @@
+{
+  "id": 1276265793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.42371,46.23972,15.42371,46.23972",
+    "geom:latitude":46.23972,
+    "geom:longitude":15.42371,
+    "gn:admin1_code":"L7",
+    "gn:asciiname":"Brezje ob Slomu",
+    "gn:country_code":"SI",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987990,
+    "gn:latitude":46.23972,
+    "gn:longitude":15.42371,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Brezje ob Slomu",
+    "gn:population":84,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959791,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987990,
+        "wk:page":"Brezje_ob_Slomu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2708a4236a8f575acf275f8ae9d6c622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959791,
+            "locality_id":1276265793,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1276265793,
+    "wof:lastmodified":1537573498,
+    "wof:name":"Brezje ob Slomu",
+    "wof:parent_id":1108959791,
+    "wof:placetype":"locality",
+    "wof:population":84,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.42371,
+    46.23972,
+    15.42371,
+    46.23972
+],
+  "geometry": {"coordinates":[15.42371,46.23972],"type":"Point"}
+}

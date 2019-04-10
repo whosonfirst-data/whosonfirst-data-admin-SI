@@ -1,0 +1,74 @@
+{
+  "id": 1259913547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.26866,45.82654,15.26866,45.82654",
+    "geom:latitude":45.82654,
+    "geom:longitude":15.26866,
+    "gn:admin1_code":"B4",
+    "gn:asciiname":"Zerjavin",
+    "gn:country_code":"SI",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989242,
+    "gn:latitude":45.82654,
+    "gn:longitude":15.26866,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u017derjavin",
+    "gn:population":12,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017derjavin"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959937,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989242,
+        "wk:page":"%C5%BDerjavin"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2dfb9af83e4e1442192df41a46f78f34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959937,
+            "locality_id":1259913547,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1259913547,
+    "wof:lastmodified":1537700322,
+    "wof:name":"Zerjavin",
+    "wof:parent_id":1108959937,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.26866,
+    45.82654,
+    15.26866,
+    45.82654
+],
+  "geometry": {"coordinates":[15.26866,45.82654],"type":"Point"}
+}

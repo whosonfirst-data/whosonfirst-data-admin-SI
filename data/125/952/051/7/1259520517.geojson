@@ -1,0 +1,67 @@
+{
+  "id": 1259520517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.2225,46.46944,15.2225,46.46944",
+    "geom:latitude":46.46944,
+    "geom:longitude":15.2225,
+    "gn:admin1_code":"76",
+    "gn:asciiname":"Repnik",
+    "gn:country_code":"SI",
+    "gn:dem":1148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217147,
+    "gn:latitude":46.46944,
+    "gn:longitude":15.2225,
+    "gn:modification_date":"2008-11-25",
+    "gn:name":"Repnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959467,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217147
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5ec63a1937d84ffa72a0d808547fe1c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959467,
+            "locality_id":1259520517,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1259520517,
+    "wof:lastmodified":1536805321,
+    "wof:name":"Repnik",
+    "wof:parent_id":1108959467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.2225,
+    46.46944000000001,
+    15.2225,
+    46.46944000000001
+],
+  "geometry": {"coordinates":[15.2225,46.46944000000001],"type":"Point"}
+}

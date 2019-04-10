@@ -1,0 +1,74 @@
+{
+  "id": 1343992191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.13242,46.47015,15.13242,46.47015",
+    "geom:latitude":46.47015,
+    "geom:longitude":15.13242,
+    "gn:admin1_code":"C2",
+    "gn:asciiname":"Turiska Vas",
+    "gn:country_code":"SI",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217153,
+    "gn:latitude":46.47015,
+    "gn:longitude":15.13242,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Turi\u0161ka Vas",
+    "gn:population":148,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Turi\u0161ka Vas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959645,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217153,
+        "wk:page":"Turi%C5%A1ka_Vas%2C_Slovenj_Gradec"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9f42dea7646de97d9be1f9af716ec2d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959645,
+            "locality_id":1343992191,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1343992191,
+    "wof:lastmodified":1537700271,
+    "wof:name":"Turiska Vas",
+    "wof:parent_id":1108959645,
+    "wof:placetype":"locality",
+    "wof:population":148,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.13242,
+    46.47015,
+    15.13242,
+    46.47015
+],
+  "geometry": {"coordinates":[15.13242,46.47015],"type":"Point"}
+}

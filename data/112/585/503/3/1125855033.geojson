@@ -1,0 +1,109 @@
+{
+  "id": 1125855033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.11444,46.50028,15.11444,46.50028",
+    "geom:latitude":46.50028,
+    "geom:longitude":15.11444,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":917,
+    "gn:population":1026,
+    "iso:country":"SI",
+    "lbl:latitude":46.50028,
+    "lbl:longitude":15.11444,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Legen"
+    ],
+    "name:eng_x_preferred":[
+        "Legen"
+    ],
+    "name:ita_x_preferred":[
+        "Legen"
+    ],
+    "name:rum_x_preferred":[
+        "Legen"
+    ],
+    "name:slv_x_preferred":[
+        "Legen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u0433\u0435\u043d"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3339118,
+    "qs_pg:gn_pop":917,
+    "qs_pg:name":"Legen",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Slovenj Gradec",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1098581,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":55849821,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Slovenj Gradec",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959645,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3339118,
+        "gp:id":55849821,
+        "qs_pg:id":1098581,
+        "wd:id":"Q635831"
+    },
+    "wof:country":"SI",
+    "wof:created":1497293583,
+    "wof:geomhash":"f57f1610f6e03e6b790ae608499fe1d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959645,
+            "locality_id":1125855033,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1125855033,
+    "wof:lastmodified":1531170444,
+    "wof:name":"Legen",
+    "wof:parent_id":1108959645,
+    "wof:placetype":"locality",
+    "wof:population":1026,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.11444,
+    46.50028,
+    15.11444,
+    46.50028
+],
+  "geometry": {"coordinates":[15.11444,46.50028],"type":"Point"}
+}

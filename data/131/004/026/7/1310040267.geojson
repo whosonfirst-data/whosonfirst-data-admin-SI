@@ -1,0 +1,74 @@
+{
+  "id": 1310040267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.395,46.355,15.395,46.355",
+    "geom:latitude":46.355,
+    "geom:longitude":15.395,
+    "gn:admin1_code":"C4",
+    "gn:asciiname":"Zece",
+    "gn:country_code":"SI",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217105,
+    "gn:latitude":46.355,
+    "gn:longitude":15.395,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Ze\u010de",
+    "gn:population":246,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ze\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959753,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217105,
+        "wk:page":"Ze%C4%8De%2C_Slovenske_Konjice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"86eb3665df583b681b907a747aa7df5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959753,
+            "locality_id":1310040267,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1310040267,
+    "wof:lastmodified":1537700271,
+    "wof:name":"Zece",
+    "wof:parent_id":1108959753,
+    "wof:placetype":"locality",
+    "wof:population":246,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.395,
+    46.355,
+    15.395,
+    46.355
+],
+  "geometry": {"coordinates":[15.395,46.355],"type":"Point"}
+}

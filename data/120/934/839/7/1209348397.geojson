@@ -1,0 +1,65 @@
+{
+  "id": 1209348397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.85112,46.05563,14.85112,46.05563",
+    "geom:latitude":46.05563,
+    "geom:longitude":14.85112,
+    "gn:admin1_code":"I5",
+    "gn:asciiname":"Zagorica",
+    "gn:country_code":"SI",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989008,
+    "gn:latitude":46.05563,
+    "gn:longitude":14.85112,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Zagorica",
+    "gn:population":22,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989008,
+        "wk:page":"Zagorica%2C_Litija"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"55f93db079da9cfc8ef361898e6c67c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209348397
+        }
+    ],
+    "wof:id":1209348397,
+    "wof:lastmodified":1537573529,
+    "wof:name":"Zagorica",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":22,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.85112,
+    46.05563,
+    14.85112,
+    46.05563
+],
+  "geometry": {"coordinates":[14.85112,46.05563],"type":"Point"}
+}

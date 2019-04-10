@@ -1,0 +1,74 @@
+{
+  "id": 1327367795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.87667,45.99056,14.87667,45.99056",
+    "geom:latitude":45.99056,
+    "geom:longitude":14.87667,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Sobrace",
+    "gn:country_code":"SI",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190406,
+    "gn:latitude":45.99056,
+    "gn:longitude":14.87667,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Sobra\u010de",
+    "gn:population":60,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sobra\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959583,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190406,
+        "wk:page":"Sobra%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3ff0e389bf04f7b3b9162f5c86905ae8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959583,
+            "locality_id":1327367795,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1327367795,
+    "wof:lastmodified":1537700190,
+    "wof:name":"Sobrace",
+    "wof:parent_id":1108959583,
+    "wof:placetype":"locality",
+    "wof:population":60,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.87667,
+    45.99056,
+    14.87667,
+    45.99056
+],
+  "geometry": {"coordinates":[14.87667,45.99056],"type":"Point"}
+}

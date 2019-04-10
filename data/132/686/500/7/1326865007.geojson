@@ -1,0 +1,75 @@
+{
+  "id": 1326865007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.1125,45.74333,14.1125,45.74333",
+    "geom:latitude":45.74333,
+    "geom:longitude":14.1125,
+    "gn:admin1_code":"94",
+    "gn:asciiname":"Sajevce",
+    "gn:country_code":"SI",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191353,
+    "gn:latitude":45.74333,
+    "gn:longitude":14.1125,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Sajev\u010de",
+    "gn:population":40,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saiecce Castelvecchio",
+        "Sajev\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959559,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191353,
+        "wk:page":"Sajev%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5920c53a60fb8e6135af4fb76dbd209c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959559,
+            "locality_id":1326865007,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1326865007,
+    "wof:lastmodified":1537700197,
+    "wof:name":"Sajevce",
+    "wof:parent_id":1108959559,
+    "wof:placetype":"locality",
+    "wof:population":40,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.1125,
+    45.74333,
+    14.1125,
+    45.74333
+],
+  "geometry": {"coordinates":[14.1125,45.74333],"type":"Point"}
+}

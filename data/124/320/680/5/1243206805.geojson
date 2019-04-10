@@ -1,0 +1,74 @@
+{
+  "id": 1243206805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.47403,46.216,15.47403,46.216",
+    "geom:latitude":46.216,
+    "geom:longitude":15.47403,
+    "gn:admin1_code":"C5",
+    "gn:asciiname":"Bodrez",
+    "gn:country_code":"SI",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987298,
+    "gn:latitude":46.216,
+    "gn:longitude":15.47403,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Bodre\u017e",
+    "gn:population":183,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bodre\u017e"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959607,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987298,
+        "wk:page":"Bodre%C5%BE%2C_%C5%A0marje_pri_Jel%C5%A1ah"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"57f443dc2cc3331206b20aafc31ac361",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959607,
+            "locality_id":1243206805,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1243206805,
+    "wof:lastmodified":1537700283,
+    "wof:name":"Bodrez",
+    "wof:parent_id":1108959607,
+    "wof:placetype":"locality",
+    "wof:population":183,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.47403,
+    46.216,
+    15.47403,
+    46.216
+],
+  "geometry": {"coordinates":[15.47403,46.216],"type":"Point"}
+}

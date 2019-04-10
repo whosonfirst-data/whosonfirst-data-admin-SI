@@ -1,0 +1,74 @@
+{
+  "id": 1259614807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.97885,45.93133,14.97885,45.93133",
+    "geom:latitude":45.93133,
+    "geom:longitude":14.97885,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Mrzla Luza",
+    "gn:country_code":"SI",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989602,
+    "gn:latitude":45.93133,
+    "gn:longitude":14.97885,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Mrzla Lu\u017ea",
+    "gn:population":31,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mrzla Lu\u017ea"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959839,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989602,
+        "wk:page":"Mrzla_Lu%C5%BEa"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5b0e026495a57a8025890dfb97ced33f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959839,
+            "locality_id":1259614807,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1259614807,
+    "wof:lastmodified":1537700329,
+    "wof:name":"Mrzla Luza",
+    "wof:parent_id":1108959839,
+    "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.97885,
+    45.93133,
+    14.97885,
+    45.93133
+],
+  "geometry": {"coordinates":[14.97885,45.93133],"type":"Point"}
+}

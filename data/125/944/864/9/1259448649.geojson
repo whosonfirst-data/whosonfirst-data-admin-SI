@@ -1,0 +1,76 @@
+{
+  "id": 1259448649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.03014,45.65713,14.03014,45.65713",
+    "geom:latitude":45.65713,
+    "geom:longitude":14.03014,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Vremski Britof",
+    "gn:country_code":"SI",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187237,
+    "gn:latitude":45.65713,
+    "gn:longitude":14.03014,
+    "gn:modification_date":"2015-11-02",
+    "gn:name":"Vremski Britof",
+    "gn:population":52,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cave Auremiane",
+        "Britof",
+        "Vremski Britof"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959845,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187237,
+        "wk:page":"Vremski_Britof"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"cbed4f3303c8c9d62f3e96e2a480abbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959845,
+            "locality_id":1259448649,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1259448649,
+    "wof:lastmodified":1537700174,
+    "wof:name":"Vremski Britof",
+    "wof:parent_id":1108959845,
+    "wof:placetype":"locality",
+    "wof:population":52,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.03014,
+    45.65713,
+    14.03014,
+    45.65713
+],
+  "geometry": {"coordinates":[14.03014,45.65713],"type":"Point"}
+}

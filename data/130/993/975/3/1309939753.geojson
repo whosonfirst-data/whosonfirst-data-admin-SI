@@ -1,0 +1,80 @@
+{
+  "id": 1309939753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.12557,45.93926,15.12557,45.93926",
+    "geom:latitude":45.93926,
+    "geom:longitude":15.12557,
+    "gn:admin1_code":"O7",
+    "gn:asciiname":"Beli Gric",
+    "gn:country_code":"SI",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988431,
+    "gn:latitude":45.93926,
+    "gn:longitude":15.12557,
+    "gn:modification_date":"2015-12-03",
+    "gn:name":"Beli Gri\u010d",
+    "gn:population":51,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Sveti kri\u017e"
+    ],
+    "name:slv_x_preferred":[
+        "Sveti kri\u017e"
+    ],
+    "name:und_x_variant":[
+        "Beli Gri\u010d"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959913,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988431,
+        "wk:page":"Beli_Gri%C4%8D"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9836200b1fbaff293d7ee5cb23ba1459",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959913,
+            "locality_id":1309939753,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1309939753,
+    "wof:lastmodified":1537700306,
+    "wof:name":"Beli Gric",
+    "wof:parent_id":1108959913,
+    "wof:placetype":"locality",
+    "wof:population":51,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.12557,
+    45.93926,
+    15.12557,
+    45.93926
+],
+  "geometry": {"coordinates":[15.12557,45.93926],"type":"Point"}
+}

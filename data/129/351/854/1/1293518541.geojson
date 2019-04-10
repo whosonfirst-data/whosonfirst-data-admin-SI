@@ -1,0 +1,74 @@
+{
+  "id": 1293518541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.65,46.43333,15.65,46.43333",
+    "geom:latitude":46.43333,
+    "geom:longitude":15.65,
+    "gn:admin1_code":"98",
+    "gn:asciiname":"Jesenca",
+    "gn:country_code":"SI",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198651,
+    "gn:latitude":46.43333,
+    "gn:longitude":15.65,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Je\u0161enca",
+    "gn:population":486,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Je\u0161enca"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959589,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198651,
+        "wk:page":"Je%C5%A1enca"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8a9b8000e85b51a1322e6031c58e6596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959589,
+            "locality_id":1293518541,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1293518541,
+    "wof:lastmodified":1537700236,
+    "wof:name":"Jesenca",
+    "wof:parent_id":1108959589,
+    "wof:placetype":"locality",
+    "wof:population":486,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.65,
+    46.43333,
+    15.65,
+    46.43333
+],
+  "geometry": {"coordinates":[15.65,46.43333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243006949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.7832,46.03638,14.7832,46.03638",
+    "geom:latitude":46.03638,
+    "geom:longitude":14.7832,
+    "gn:admin1_code":"L9",
+    "gn:asciiname":"Stangarske Poljane",
+    "gn:country_code":"SI",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988122,
+    "gn:latitude":46.03638,
+    "gn:longitude":14.7832,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160tangarske Poljane",
+    "gn:population":72,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160tangarske Poljane"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959745,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988122,
+        "wk:page":"%C5%A0tangarske_Poljane"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c5828ef4e455abe404efd3cccd083391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959745,
+            "locality_id":1243006949,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1243006949,
+    "wof:lastmodified":1537700300,
+    "wof:name":"Stangarske Poljane",
+    "wof:parent_id":1108959745,
+    "wof:placetype":"locality",
+    "wof:population":72,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.7832,
+    46.03638,
+    14.7832,
+    46.03638
+],
+  "geometry": {"coordinates":[14.7832,46.03638],"type":"Point"}
+}

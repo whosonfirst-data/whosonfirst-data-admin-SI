@@ -1,0 +1,71 @@
+{
+  "id": 1344187655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.84611,46.69694,15.84611,46.69694",
+    "geom:latitude":46.69694,
+    "geom:longitude":15.84611,
+    "gn:admin1_code":"N9",
+    "gn:asciiname":"Stogovci",
+    "gn:country_code":"SI",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189839,
+    "gn:latitude":46.69694,
+    "gn:longitude":15.84611,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Stogovci",
+    "gn:population":143,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959667,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189839,
+        "wk:page":"Stogovci%2C_Apa%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"71608dc6b36218119cb39a2e07e23d24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959667,
+            "locality_id":1344187655,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1344187655,
+    "wof:lastmodified":1537573395,
+    "wof:name":"Stogovci",
+    "wof:parent_id":1108959667,
+    "wof:placetype":"locality",
+    "wof:population":143,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.84611,
+    46.69694000000001,
+    15.84611,
+    46.69694000000001
+],
+  "geometry": {"coordinates":[15.84611,46.69694000000001],"type":"Point"}
+}

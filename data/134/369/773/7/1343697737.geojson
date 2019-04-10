@@ -1,0 +1,67 @@
+{
+  "id": 1343697737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.90305,45.83161,13.90305,45.83161",
+    "geom:latitude":45.83161,
+    "geom:longitude":13.90305,
+    "gn:admin1_code":"E1",
+    "gn:asciiname":"Tabor",
+    "gn:country_code":"SI",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10860668,
+    "gn:latitude":45.83161,
+    "gn:longitude":13.90305,
+    "gn:modification_date":"2015-11-04",
+    "gn:name":"Tabor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959623,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10860668
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5b0a6510859a191ce926446b4216e4c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959623,
+            "locality_id":1343697737,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1343697737,
+    "wof:lastmodified":1536901360,
+    "wof:name":"Tabor",
+    "wof:parent_id":1108959623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.90305,
+    45.83161,
+    13.90305,
+    45.83161
+],
+  "geometry": {"coordinates":[13.90305,45.83161],"type":"Point"}
+}

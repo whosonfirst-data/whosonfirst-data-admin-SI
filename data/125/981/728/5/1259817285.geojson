@@ -1,0 +1,71 @@
+{
+  "id": 1259817285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25283,45.59102,15.25283,45.59102",
+    "geom:latitude":45.59102,
+    "geom:longitude":15.25283,
+    "gn:admin1_code":"73",
+    "gn:asciiname":"Boginja Vas",
+    "gn:country_code":"SI",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989137,
+    "gn:latitude":45.59102,
+    "gn:longitude":15.25283,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Boginja Vas",
+    "gn:population":16,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959909,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989137,
+        "wk:page":"Boginja_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"90742e1913c4785b1fb0b2816aa179dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959909,
+            "locality_id":1259817285,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1259817285,
+    "wof:lastmodified":1537573533,
+    "wof:name":"Boginja Vas",
+    "wof:parent_id":1108959909,
+    "wof:placetype":"locality",
+    "wof:population":16,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25283,
+    45.59102,
+    15.25283,
+    45.59102
+],
+  "geometry": {"coordinates":[15.25283,45.59102],"type":"Point"}
+}

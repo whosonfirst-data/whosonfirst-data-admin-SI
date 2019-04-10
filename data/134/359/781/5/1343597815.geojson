@@ -1,0 +1,71 @@
+{
+  "id": 1343597815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.97154,46.18147,14.97154,46.18147",
+    "geom:latitude":46.18147,
+    "geom:longitude":14.97154,
+    "gn:admin1_code":"E7",
+    "gn:asciiname":"Jesenovo",
+    "gn:country_code":"SI",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987045,
+    "gn:latitude":46.18147,
+    "gn:longitude":14.97154,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Jesenovo",
+    "gn:population":293,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959683,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987045,
+        "wk:page":"Jesenovo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b78b39857d3dc2cf8621919a522e5232",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959683,
+            "locality_id":1343597815,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1343597815,
+    "wof:lastmodified":1537573467,
+    "wof:name":"Jesenovo",
+    "wof:parent_id":1108959683,
+    "wof:placetype":"locality",
+    "wof:population":293,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.97154,
+    46.18147,
+    14.97154,
+    46.18147
+],
+  "geometry": {"coordinates":[14.97154,46.18147],"type":"Point"}
+}

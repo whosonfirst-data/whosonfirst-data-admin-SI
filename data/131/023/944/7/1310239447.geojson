@@ -1,0 +1,71 @@
+{
+  "id": 1310239447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.16275,46.30874,15.16275,46.30874",
+    "geom:latitude":46.30874,
+    "geom:longitude":15.16275,
+    "gn:admin1_code":"N5",
+    "gn:asciiname":"Studence",
+    "gn:country_code":"SI",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986890,
+    "gn:latitude":46.30874,
+    "gn:longitude":15.16275,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Studence",
+    "gn:population":600,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959929,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986890,
+        "wk:page":"Studence%2C_%C5%BDalec"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b03d0e81f5f4e8323bfefc44afa27167",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959929,
+            "locality_id":1310239447,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1310239447,
+    "wof:lastmodified":1537573463,
+    "wof:name":"Studence",
+    "wof:parent_id":1108959929,
+    "wof:placetype":"locality",
+    "wof:population":600,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.16275,
+    46.30874,
+    15.16275,
+    46.30874
+],
+  "geometry": {"coordinates":[15.16275,46.30874],"type":"Point"}
+}

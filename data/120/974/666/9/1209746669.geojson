@@ -1,0 +1,74 @@
+{
+  "id": 1209746669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.21588,46.12949,15.21588,46.12949",
+    "geom:latitude":46.12949,
+    "geom:longitude":15.21588,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Povceno",
+    "gn:country_code":"SI",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988361,
+    "gn:latitude":46.12949,
+    "gn:longitude":15.21588,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Pov\u010deno",
+    "gn:population":54,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pov\u010deno"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959879,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988361,
+        "wk:page":"Pov%C4%8Deno"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d62010d5d5d0027e0a1844eb13b4a3bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959879,
+            "locality_id":1209746669,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1209746669,
+    "wof:lastmodified":1537700304,
+    "wof:name":"Povceno",
+    "wof:parent_id":1108959879,
+    "wof:placetype":"locality",
+    "wof:population":54,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.21588,
+    46.12949,
+    15.21588,
+    46.12949
+],
+  "geometry": {"coordinates":[15.21588,46.12949],"type":"Point"}
+}

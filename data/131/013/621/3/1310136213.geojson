@@ -1,0 +1,74 @@
+{
+  "id": 1310136213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.05,46.53333,16.05,46.53333",
+    "geom:latitude":46.53333,
+    "geom:longitude":16.05,
+    "gn:admin1_code":"I6",
+    "gn:asciiname":"Buckovci",
+    "gn:country_code":"SI",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203153,
+    "gn:latitude":46.53333,
+    "gn:longitude":16.05,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Bu\u010dkovci",
+    "gn:population":119,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bu\u010dkovci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959499,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203153,
+        "wk:page":"Bu%C4%8Dkovci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4f54c8c0b83f4cc66679a83055fbb0c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959499,
+            "locality_id":1310136213,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1310136213,
+    "wof:lastmodified":1537700260,
+    "wof:name":"Buckovci",
+    "wof:parent_id":1108959499,
+    "wof:placetype":"locality",
+    "wof:population":119,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.05,
+    46.53333,
+    16.05,
+    46.53333
+],
+  "geometry": {"coordinates":[16.05,46.53333],"type":"Point"}
+}

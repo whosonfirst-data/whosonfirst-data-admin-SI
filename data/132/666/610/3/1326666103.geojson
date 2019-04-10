@@ -1,0 +1,67 @@
+{
+  "id": 1326666103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.74029,46.07627,13.74029,46.07627",
+    "geom:latitude":46.07627,
+    "geom:longitude":13.74029,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Kacja Draga",
+    "gn:country_code":"SI",
+    "gn:dem":739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10858778,
+    "gn:latitude":46.07627,
+    "gn:longitude":13.74029,
+    "gn:modification_date":"2015-10-13",
+    "gn:name":"Ka\u010dja Draga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959537,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10858778
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e4e341256dcd4c4539622d12b2fd7d97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959537,
+            "locality_id":1326666103,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1326666103,
+    "wof:lastmodified":1536791393,
+    "wof:name":"Kacja Draga",
+    "wof:parent_id":1108959537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.74029,
+    46.07627,
+    13.74029,
+    46.07627
+],
+  "geometry": {"coordinates":[13.74029,46.07627],"type":"Point"}
+}

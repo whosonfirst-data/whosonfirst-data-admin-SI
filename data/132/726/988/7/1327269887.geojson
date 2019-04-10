@@ -1,0 +1,74 @@
+{
+  "id": 1327269887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3494,46.17143,15.3494,46.17143",
+    "geom:latitude":46.17143,
+    "geom:longitude":15.3494,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Sentrupert",
+    "gn:country_code":"SI",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986988,
+    "gn:latitude":46.17143,
+    "gn:longitude":15.3494,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"\u0160entrupert",
+    "gn:population":377,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160entrupert"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959879,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986988,
+        "wk:page":"%C5%A0entrupert%2C_La%C5%A1ko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f4e00b09dd7594623dae88bcca0f221b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959879,
+            "locality_id":1327269887,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1327269887,
+    "wof:lastmodified":1537700277,
+    "wof:name":"Sentrupert",
+    "wof:parent_id":1108959879,
+    "wof:placetype":"locality",
+    "wof:population":377,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3494,
+    46.17143,
+    15.3494,
+    46.17143
+],
+  "geometry": {"coordinates":[15.3494,46.17143],"type":"Point"}
+}

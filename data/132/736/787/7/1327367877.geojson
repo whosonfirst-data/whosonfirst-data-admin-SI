@@ -1,0 +1,71 @@
+{
+  "id": 1327367877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.13538,45.70138,15.13538,45.70138",
+    "geom:latitude":45.70138,
+    "geom:longitude":15.13538,
+    "gn:admin1_code":"J7",
+    "gn:asciiname":"Laze",
+    "gn:country_code":"SI",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196732,
+    "gn:latitude":45.70138,
+    "gn:longitude":15.13538,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Laze",
+    "gn:population":68,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959465,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196732,
+        "wk:page":"Laze%2C_Novo_Mesto"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a1db75d30fb254f8d98fdef46275aef0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959465,
+            "locality_id":1327367877,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1327367877,
+    "wof:lastmodified":1537573426,
+    "wof:name":"Laze",
+    "wof:parent_id":1108959465,
+    "wof:placetype":"locality",
+    "wof:population":68,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.13538,
+    45.70138,
+    15.13538,
+    45.70138
+],
+  "geometry": {"coordinates":[15.13538,45.70138],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327463263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.34472,46.01577,15.34472,46.01577",
+    "geom:latitude":46.01577,
+    "geom:longitude":15.34472,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Loncarjev Dol",
+    "gn:country_code":"SI",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987205,
+    "gn:latitude":46.01577,
+    "gn:longitude":15.34472,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Lon\u010darjev Dol",
+    "gn:population":220,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lon\u010darjev Dol"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987205,
+        "wk:page":"Lon%C4%8Darjev_Dol"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e631606ba285beca1172e284ac3434c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1327463263,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1327463263,
+    "wof:lastmodified":1537700281,
+    "wof:name":"Loncarjev Dol",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":220,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.34472,
+    46.01577,
+    15.34472,
+    46.01577
+],
+  "geometry": {"coordinates":[15.34472,46.01577],"type":"Point"}
+}

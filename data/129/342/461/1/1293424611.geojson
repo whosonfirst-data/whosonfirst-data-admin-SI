@@ -1,0 +1,71 @@
+{
+  "id": 1293424611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.01816,45.9548,15.01816,45.9548",
+    "geom:latitude":45.9548,
+    "geom:longitude":15.01816,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Zagorica",
+    "gn:country_code":"SI",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989865,
+    "gn:latitude":45.9548,
+    "gn:longitude":15.01816,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Zagorica",
+    "gn:population":47,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959869,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989865,
+        "wk:page":"Zagorica%2C_Mirna"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0ece9b3d98270a5d8e962477ae7f8d42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959869,
+            "locality_id":1293424611,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1293424611,
+    "wof:lastmodified":1537573555,
+    "wof:name":"Zagorica",
+    "wof:parent_id":1108959869,
+    "wof:placetype":"locality",
+    "wof:population":47,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.01816,
+    45.9548,
+    15.01816,
+    45.9548
+],
+  "geometry": {"coordinates":[15.01816,45.9548],"type":"Point"}
+}

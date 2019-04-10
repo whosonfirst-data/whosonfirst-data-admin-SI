@@ -1,0 +1,74 @@
+{
+  "id": 1242811573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.20528,45.83062,15.20528,45.83062",
+    "geom:latitude":45.83062,
+    "geom:longitude":15.20528,
+    "gn:admin1_code":"J7",
+    "gn:asciiname":"Lesnica",
+    "gn:country_code":"SI",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987794,
+    "gn:latitude":45.83062,
+    "gn:longitude":15.20528,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Le\u0161nica",
+    "gn:population":103,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Le\u0161nica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959465,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987794,
+        "wk:page":"Le%C5%A1nica%2C_Novo_Mesto"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b4528585cae7a1aeab44c600963239ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959465,
+            "locality_id":1242811573,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1242811573,
+    "wof:lastmodified":1537700293,
+    "wof:name":"Lesnica",
+    "wof:parent_id":1108959465,
+    "wof:placetype":"locality",
+    "wof:population":103,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.20528,
+    45.83062,
+    15.20528,
+    45.83062
+],
+  "geometry": {"coordinates":[15.20528,45.83062],"type":"Point"}
+}

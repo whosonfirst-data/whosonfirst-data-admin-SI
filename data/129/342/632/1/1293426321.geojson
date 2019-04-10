@@ -1,0 +1,71 @@
+{
+  "id": 1293426321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.77056,46.67667,15.77056,46.67667",
+    "geom:latitude":46.67667,
+    "geom:longitude":15.77056,
+    "gn:admin1_code":"B3",
+    "gn:asciiname":"Velka",
+    "gn:country_code":"SI",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187869,
+    "gn:latitude":46.67667,
+    "gn:longitude":15.77056,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Velka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marija Sne\u017ena",
+        "Velka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959565,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187869
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e3edb79b718f5e86870193956c9772ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959565,
+            "locality_id":1293426321,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1293426321,
+    "wof:lastmodified":1537700176,
+    "wof:name":"Velka",
+    "wof:parent_id":1108959565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.77056,
+    46.67667,
+    15.77056,
+    46.67667
+],
+  "geometry": {"coordinates":[15.77056,46.67667],"type":"Point"}
+}

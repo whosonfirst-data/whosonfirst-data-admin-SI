@@ -1,0 +1,67 @@
+{
+  "id": 1242893815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.69191,46.03833,15.69191,46.03833",
+    "geom:latitude":46.03833,
+    "geom:longitude":15.69191,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Prekosnica",
+    "gn:country_code":"SI",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10793929,
+    "gn:latitude":46.03833,
+    "gn:longitude":15.69191,
+    "gn:modification_date":"2015-09-29",
+    "gn:name":"Preko\u0161nica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10793929
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b4b0b68536bcf39e67832894b8eb7ce6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1242893815,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1242893815,
+    "wof:lastmodified":1536605246,
+    "wof:name":"Prekosnica",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.69191,
+    46.03833,
+    15.69191,
+    46.03833
+],
+  "geometry": {"coordinates":[15.69191,46.03833],"type":"Point"}
+}

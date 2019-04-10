@@ -1,0 +1,74 @@
+{
+  "id": 1242712037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.40523,45.94167,15.40523,45.94167",
+    "geom:latitude":45.94167,
+    "geom:longitude":15.40523,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Ravni",
+    "gn:country_code":"SI",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191806,
+    "gn:latitude":45.94167,
+    "gn:longitude":15.40523,
+    "gn:modification_date":"2015-11-30",
+    "gn:name":"Ravni",
+    "gn:population":63,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ravno"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191806,
+        "wk:page":"Ravni%2C_Kr%C5%A1ko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2c3e74fd718e0339d9457ca90423c20b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1242712037,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1242712037,
+    "wof:lastmodified":1537700200,
+    "wof:name":"Ravni",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":63,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.40523,
+    45.94167,
+    15.40523,
+    45.94167
+],
+  "geometry": {"coordinates":[15.40523,45.94167],"type":"Point"}
+}

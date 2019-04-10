@@ -1,0 +1,74 @@
+{
+  "id": 1310235757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.83917,46.12,14.83917,46.12",
+    "geom:latitude":46.12,
+    "geom:longitude":14.83917,
+    "gn:admin1_code":"I5",
+    "gn:asciiname":"Vace",
+    "gn:country_code":"SI",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188426,
+    "gn:latitude":46.12,
+    "gn:longitude":14.83917,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Va\u010de",
+    "gn:population":361,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Va\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959907,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188426,
+        "wk:page":"Va%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d2de6d73631e4b7e3129c00f71730837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959907,
+            "locality_id":1310235757,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1310235757,
+    "wof:lastmodified":1537700179,
+    "wof:name":"Vace",
+    "wof:parent_id":1108959907,
+    "wof:placetype":"locality",
+    "wof:population":361,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.83917,
+    46.12,
+    14.83917,
+    46.12
+],
+  "geometry": {"coordinates":[14.83917,46.12],"type":"Point"}
+}

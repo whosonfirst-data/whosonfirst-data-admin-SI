@@ -1,0 +1,71 @@
+{
+  "id": 1276260153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.57642,46.26254,15.57642,46.26254",
+    "geom:latitude":46.26254,
+    "geom:longitude":15.57642,
+    "gn:admin1_code":"A7",
+    "gn:asciiname":"Podturn",
+    "gn:country_code":"SI",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988117,
+    "gn:latitude":46.26254,
+    "gn:longitude":15.57642,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Podturn",
+    "gn:population":72,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959803,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988117,
+        "wk:page":"Podturn%2C_Roga%C5%A1ka_Slatina"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"70f69462a86c625f5437ae5d44aa3be3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959803,
+            "locality_id":1276260153,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1276260153,
+    "wof:lastmodified":1537573502,
+    "wof:name":"Podturn",
+    "wof:parent_id":1108959803,
+    "wof:placetype":"locality",
+    "wof:population":72,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.57642,
+    46.26254,
+    15.57642,
+    46.26254
+],
+  "geometry": {"coordinates":[15.57642,46.26254],"type":"Point"}
+}

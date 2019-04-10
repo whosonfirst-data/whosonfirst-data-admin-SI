@@ -1,0 +1,71 @@
+{
+  "id": 1276841589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.19111,45.50333,15.19111,45.50333",
+    "geom:latitude":45.50333,
+    "geom:longitude":15.19111,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Mali Nerajec",
+    "gn:country_code":"SI",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195657,
+    "gn:latitude":45.50333,
+    "gn:longitude":15.19111,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Mali Nerajec",
+    "gn:population":46,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959699,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195657,
+        "wk:page":"Mali_Nerajec"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"573eff3d6ca254837d99e44725db91f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959699,
+            "locality_id":1276841589,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1276841589,
+    "wof:lastmodified":1537573422,
+    "wof:name":"Mali Nerajec",
+    "wof:parent_id":1108959699,
+    "wof:placetype":"locality",
+    "wof:population":46,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.19111,
+    45.50333,
+    15.19111,
+    45.50333
+],
+  "geometry": {"coordinates":[15.19111,45.50333],"type":"Point"}
+}

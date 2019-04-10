@@ -1,0 +1,67 @@
+{
+  "id": 1209764145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.74525,45.91936,13.74525,45.91936",
+    "geom:latitude":45.91936,
+    "geom:longitude":13.74525,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Dolenje Visoko",
+    "gn:country_code":"SI",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10859144,
+    "gn:latitude":45.91936,
+    "gn:longitude":13.74525,
+    "gn:modification_date":"2015-10-21",
+    "gn:name":"Dolenje Visoko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959487,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10859144
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"76d69da89479e0f068fa1cc1ad92daa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959487,
+            "locality_id":1209764145,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1209764145,
+    "wof:lastmodified":1536387216,
+    "wof:name":"Dolenje Visoko",
+    "wof:parent_id":1108959487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.74525,
+    45.91936,
+    13.74525,
+    45.91936
+],
+  "geometry": {"coordinates":[13.74525,45.91936],"type":"Point"}
+}

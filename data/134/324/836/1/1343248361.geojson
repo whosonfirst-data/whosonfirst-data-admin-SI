@@ -1,0 +1,74 @@
+{
+  "id": 1343248361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.42528,45.7575,14.42528,45.7575",
+    "geom:latitude":45.7575,
+    "geom:longitude":14.42528,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Zerovnica",
+    "gn:country_code":"SI",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218763,
+    "gn:latitude":45.7575,
+    "gn:longitude":14.42528,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u017derovnica",
+    "gn:population":202,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017derovnica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959905,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218763,
+        "wk:page":"%C5%BDerovnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"cfc2f5c424a294500a7b195ad1f7a028",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959905,
+            "locality_id":1343248361,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1343248361,
+    "wof:lastmodified":1537700273,
+    "wof:name":"Zerovnica",
+    "wof:parent_id":1108959905,
+    "wof:placetype":"locality",
+    "wof:population":202,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.42528,
+    45.7575,
+    14.42528,
+    45.7575
+],
+  "geometry": {"coordinates":[14.42528,45.7575],"type":"Point"}
+}

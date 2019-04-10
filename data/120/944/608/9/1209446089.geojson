@@ -1,0 +1,68 @@
+{
+  "id": 1209446089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.80332,46.35104,15.80332,46.35104",
+    "geom:latitude":46.35104,
+    "geom:longitude":15.80332,
+    "gn:admin1_code":"J1",
+    "gn:asciiname":"Bolecka Vas",
+    "gn:country_code":"SI",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988365,
+    "gn:latitude":46.35104,
+    "gn:longitude":15.80332,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Bole\u010dka Vas",
+    "gn:population":54,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bole\u010dka Vas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988365,
+        "wk:page":"Bole%C4%8Dka_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"eb686a5da607ad82cf1d79024feb3832",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209446089
+        }
+    ],
+    "wof:id":1209446089,
+    "wof:lastmodified":1537700305,
+    "wof:name":"Bolecka Vas",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":54,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.80332,
+    46.35104000000001,
+    15.80332,
+    46.35104000000001
+],
+  "geometry": {"coordinates":[15.80332,46.35104000000001],"type":"Point"}
+}

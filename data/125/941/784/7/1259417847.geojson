@@ -1,0 +1,71 @@
+{
+  "id": 1259417847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.01667,46.26667,15.01667,46.26667",
+    "geom:latitude":46.26667,
+    "geom:longitude":15.01667,
+    "gn:admin1_code":"F7",
+    "gn:asciiname":"Podvrh",
+    "gn:country_code":"SI",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192884,
+    "gn:latitude":46.26667,
+    "gn:longitude":15.01667,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Podvrh",
+    "gn:population":388,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959855,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192884,
+        "wk:page":"Podvrh%2C_Braslov%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"523b63d20c8b7d7781dcc137ff553b8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959855,
+            "locality_id":1259417847,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1259417847,
+    "wof:lastmodified":1537573411,
+    "wof:name":"Podvrh",
+    "wof:parent_id":1108959855,
+    "wof:placetype":"locality",
+    "wof:population":388,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.01667,
+    46.26667,
+    15.01667,
+    46.26667
+],
+  "geometry": {"coordinates":[15.01667,46.26667],"type":"Point"}
+}

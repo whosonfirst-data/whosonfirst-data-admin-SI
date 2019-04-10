@@ -1,0 +1,65 @@
+{
+  "id": 1209249489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.39959,45.9732,15.39959,45.9732",
+    "geom:latitude":45.9732,
+    "geom:longitude":15.39959,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Dalce",
+    "gn:country_code":"SI",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989327,
+    "gn:latitude":45.9732,
+    "gn:longitude":15.39959,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Dalce",
+    "gn:population":7,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989327,
+        "wk:page":"Dalce"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7a18ca81f84bd1fae52e2b09371c1a21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209249489
+        }
+    ],
+    "wof:id":1209249489,
+    "wof:lastmodified":1537573539,
+    "wof:name":"Dalce",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.39959,
+    45.9732,
+    15.39959,
+    45.9732
+],
+  "geometry": {"coordinates":[15.39959,45.9732],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1293423801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.88111,45.71611,13.88111,45.71611",
+    "geom:latitude":45.71611,
+    "geom:longitude":13.88111,
+    "gn:admin1_code":"B7",
+    "gn:asciiname":"Dane pri Sezani",
+    "gn:country_code":"SI",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202198,
+    "gn:latitude":45.71611,
+    "gn:longitude":13.88111,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Dane pri Se\u017eani",
+    "gn:population":413,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dane",
+        "Danna",
+        "Dane pri Se\u017eani"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959789,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202198,
+        "wk:page":"Dane_pri_Se%C5%BEani"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"47f3db38b77e02b64405c47d9de3f960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959789,
+            "locality_id":1293423801,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1293423801,
+    "wof:lastmodified":1537700256,
+    "wof:name":"Dane pri Sezani",
+    "wof:parent_id":1108959789,
+    "wof:placetype":"locality",
+    "wof:population":413,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.88111,
+    45.71611,
+    13.88111,
+    45.71611
+],
+  "geometry": {"coordinates":[13.88111,45.71611],"type":"Point"}
+}

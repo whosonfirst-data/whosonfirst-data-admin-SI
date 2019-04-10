@@ -1,0 +1,74 @@
+{
+  "id": 1277018809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.48836,46.11422,15.48836,46.11422",
+    "geom:latitude":46.11422,
+    "geom:longitude":15.48836,
+    "gn:admin1_code":"L7",
+    "gn:asciiname":"Straska Gorca",
+    "gn:country_code":"SI",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987962,
+    "gn:latitude":46.11422,
+    "gn:longitude":15.48836,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Stra\u0161ka Gorca",
+    "gn:population":86,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stra\u0161ka Gorca"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959791,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987962,
+        "wk:page":"Stra%C5%A1ka_Gorca"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1c05816a1a90f9c46d9b2c1e4afefca2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959791,
+            "locality_id":1277018809,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1277018809,
+    "wof:lastmodified":1537700297,
+    "wof:name":"Straska Gorca",
+    "wof:parent_id":1108959791,
+    "wof:placetype":"locality",
+    "wof:population":86,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.48836,
+    46.11422,
+    15.48836,
+    46.11422
+],
+  "geometry": {"coordinates":[15.48836,46.11422],"type":"Point"}
+}

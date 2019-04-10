@@ -1,0 +1,74 @@
+{
+  "id": 1327060369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.84141,45.65922,14.84141,45.65922",
+    "geom:latitude":45.65922,
+    "geom:longitude":14.84141,
+    "gn:admin1_code":"H7",
+    "gn:asciiname":"Breg pri Kocevju",
+    "gn:country_code":"SI",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8990185,
+    "gn:latitude":45.65922,
+    "gn:longitude":14.84141,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Breg pri Ko\u010devju",
+    "gn:population":371,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Breg pri Ko\u010devju"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959919,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8990185,
+        "wk:page":"Breg_pri_Ko%C4%8Devju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7fce076320ef5315afa8c4b4f0bfa104",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959919,
+            "locality_id":1327060369,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1327060369,
+    "wof:lastmodified":1537700335,
+    "wof:name":"Breg pri Kocevju",
+    "wof:parent_id":1108959919,
+    "wof:placetype":"locality",
+    "wof:population":371,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.84141,
+    45.65922,
+    14.84141,
+    45.65922
+],
+  "geometry": {"coordinates":[14.84141,45.65922],"type":"Point"}
+}

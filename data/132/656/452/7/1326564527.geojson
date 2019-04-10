@@ -1,0 +1,74 @@
+{
+  "id": 1326564527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.92146,45.94089,14.92146,45.94089",
+    "geom:latitude":45.94089,
+    "geom:longitude":14.92146,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Gornje Praprece",
+    "gn:country_code":"SI",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989611,
+    "gn:latitude":45.94089,
+    "gn:longitude":14.92146,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Gornje Prapre\u010de",
+    "gn:population":29,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gornje Prapre\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959839,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989611,
+        "wk:page":"Gornje_Prapre%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5371264523b8738ee55d1abca9192e62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959839,
+            "locality_id":1326564527,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1326564527,
+    "wof:lastmodified":1537700330,
+    "wof:name":"Gornje Praprece",
+    "wof:parent_id":1108959839,
+    "wof:placetype":"locality",
+    "wof:population":29,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.92146,
+    45.94089,
+    14.92146,
+    45.94089
+],
+  "geometry": {"coordinates":[14.92146,45.94089],"type":"Point"}
+}

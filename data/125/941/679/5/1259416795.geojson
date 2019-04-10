@@ -1,0 +1,71 @@
+{
+  "id": 1259416795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.6423,46.07696,15.6423,46.07696",
+    "geom:latitude":46.07696,
+    "geom:longitude":15.6423,
+    "gn:admin1_code":"F5",
+    "gn:asciiname":"Srebrnik",
+    "gn:country_code":"SI",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987899,
+    "gn:latitude":46.07696,
+    "gn:longitude":15.6423,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Srebrnik",
+    "gn:population":93,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959915,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987899,
+        "wk:page":"Srebrnik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a8e6c55b8b538fcfe47faa4055c298f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959915,
+            "locality_id":1259416795,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1259416795,
+    "wof:lastmodified":1537573495,
+    "wof:name":"Srebrnik",
+    "wof:parent_id":1108959915,
+    "wof:placetype":"locality",
+    "wof:population":93,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.6423,
+    46.07696,
+    15.6423,
+    46.07696
+],
+  "geometry": {"coordinates":[15.6423,46.07696],"type":"Point"}
+}

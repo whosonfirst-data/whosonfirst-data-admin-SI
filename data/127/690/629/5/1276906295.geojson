@@ -1,0 +1,71 @@
+{
+  "id": 1276906295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.36171,46.25355,15.36171,46.25355",
+    "geom:latitude":46.25355,
+    "geom:longitude":15.36171,
+    "gn:admin1_code":"L7",
+    "gn:asciiname":"Cerovec",
+    "gn:country_code":"SI",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987471,
+    "gn:latitude":46.25355,
+    "gn:longitude":15.36171,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Cerovec",
+    "gn:population":146,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959791,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987471,
+        "wk:page":"Cerovec%2C_%C5%A0entjur"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b9f91fd3ea42fcac9f22e20ac5fac1e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959791,
+            "locality_id":1276906295,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1276906295,
+    "wof:lastmodified":1537573481,
+    "wof:name":"Cerovec",
+    "wof:parent_id":1108959791,
+    "wof:placetype":"locality",
+    "wof:population":146,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.36171,
+    46.25355,
+    15.36171,
+    46.25355
+],
+  "geometry": {"coordinates":[15.36171,46.25355],"type":"Point"}
+}

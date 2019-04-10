@@ -1,0 +1,74 @@
+{
+  "id": 1276264229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.43333,46.13333,15.43333,46.13333",
+    "geom:latitude":46.13333,
+    "geom:longitude":15.43333,
+    "gn:admin1_code":"G2",
+    "gn:asciiname":"Presecno",
+    "gn:country_code":"SI",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192509,
+    "gn:latitude":46.13333,
+    "gn:longitude":15.43333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Prese\u010dno",
+    "gn:population":90,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Prese\u010dno"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959685,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192509,
+        "wk:page":"Prese%C4%8Dno%2C_Dobje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"77c36f29387c64de6c02ebed34e776c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959685,
+            "locality_id":1276264229,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1276264229,
+    "wof:lastmodified":1537700204,
+    "wof:name":"Presecno",
+    "wof:parent_id":1108959685,
+    "wof:placetype":"locality",
+    "wof:population":90,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.43333,
+    46.13333,
+    15.43333,
+    46.13333
+],
+  "geometry": {"coordinates":[15.43333,46.13333],"type":"Point"}
+}

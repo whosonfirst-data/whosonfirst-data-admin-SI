@@ -1,0 +1,68 @@
+{
+  "id": 1276588695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.88325,45.45486,13.88325,45.45486",
+    "geom:latitude":45.45486,
+    "geom:longitude":13.88325,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Peraji",
+    "gn:country_code":"SI",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989430,
+    "gn:latitude":45.45486,
+    "gn:longitude":13.88325,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Peraji",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959527,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989430,
+        "wk:page":"Peraji"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"44ab46c269f91e1d6028d189ea50d209",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959527,
+            "locality_id":1276588695,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1276588695,
+    "wof:lastmodified":1537573542,
+    "wof:name":"Peraji",
+    "wof:parent_id":1108959527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.88325,
+    45.45486,
+    13.88325,
+    45.45486
+],
+  "geometry": {"coordinates":[13.88325,45.45486],"type":"Point"}
+}

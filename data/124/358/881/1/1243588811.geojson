@@ -1,0 +1,75 @@
+{
+  "id": 1243588811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.02611,46.59778,16.02611,46.59778",
+    "geom:latitude":46.59778,
+    "geom:longitude":16.02611,
+    "gn:admin1_code":"A1",
+    "gn:asciiname":"Okoslavci",
+    "gn:country_code":"SI",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194162,
+    "gn:latitude":46.59778,
+    "gn:longitude":16.02611,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Okoslavci",
+    "gn:population":246,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Okoskvici",
+        "Okoslavci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959569,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194162,
+        "wk:page":"Okoslavci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"41f44464effe5c249d0dcdbe4daae1e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959569,
+            "locality_id":1243588811,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1243588811,
+    "wof:lastmodified":1537700213,
+    "wof:name":"Okoslavci",
+    "wof:parent_id":1108959569,
+    "wof:placetype":"locality",
+    "wof:population":246,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.02611,
+    46.59778,
+    16.02611,
+    46.59778
+],
+  "geometry": {"coordinates":[16.02611,46.59778],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327364131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.18881,45.83399,15.18881,45.83399",
+    "geom:latitude":45.83399,
+    "geom:longitude":15.18881,
+    "gn:admin1_code":"J7",
+    "gn:asciiname":"Sevno",
+    "gn:country_code":"SI",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988077,
+    "gn:latitude":45.83399,
+    "gn:longitude":15.18881,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Sevno",
+    "gn:population":75,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959465,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988077,
+        "wk:page":"Sevno%2C_Novo_Mesto"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"865c837344458956bc0b370cfbff11dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959465,
+            "locality_id":1327364131,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1327364131,
+    "wof:lastmodified":1537573501,
+    "wof:name":"Sevno",
+    "wof:parent_id":1108959465,
+    "wof:placetype":"locality",
+    "wof:population":75,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.18881,
+    45.83399,
+    15.18881,
+    45.83399
+],
+  "geometry": {"coordinates":[15.18881,45.83399],"type":"Point"}
+}

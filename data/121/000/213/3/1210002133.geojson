@@ -1,0 +1,71 @@
+{
+  "id": 1210002133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.69285,46.01494,15.69285,46.01494",
+    "geom:latitude":46.01494,
+    "geom:longitude":15.69285,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Bizeljsko",
+    "gn:country_code":"SI",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204025,
+    "gn:latitude":46.01494,
+    "gn:longitude":15.69285,
+    "gn:modification_date":"2015-10-03",
+    "gn:name":"Bizeljsko",
+    "gn:population":691,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204025,
+        "wk:page":"Bizeljsko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a39924f06e57ae48a2c23ea2c58b4d09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1210002133,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1210002133,
+    "wof:lastmodified":1537573452,
+    "wof:name":"Bizeljsko",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:population":691,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.69285,
+    46.01494,
+    15.69285,
+    46.01494
+],
+  "geometry": {"coordinates":[15.69285,46.01494],"type":"Point"}
+}

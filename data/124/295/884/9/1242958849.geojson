@@ -1,0 +1,79 @@
+{
+  "id": 1242958849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.68376,46.01272,15.68376,46.01272",
+    "geom:latitude":46.01272,
+    "geom:longitude":15.68376,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Gradisce",
+    "gn:country_code":"SI",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":10794156,
+    "gn:latitude":46.01272,
+    "gn:longitude":15.68376,
+    "gn:modification_date":"2015-10-03",
+    "gn:name":"Gradi\u0161\u010de",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:deu_x_historical":[
+        "Gradischberg"
+    ],
+    "name:deu_x_preferred":[
+        "Gradischberg"
+    ],
+    "name:slv_x_historical":[
+        "Gradi\u0161e"
+    ],
+    "name:slv_x_preferred":[
+        "Gradi\u0161e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10794156
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"390bdff13b4a6ac7f895d3912c277120",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1242958849,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1242958849,
+    "wof:lastmodified":1537700336,
+    "wof:name":"Gradisce",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.68376,
+    46.01272,
+    15.68376,
+    46.01272
+],
+  "geometry": {"coordinates":[15.68376,46.01272],"type":"Point"}
+}

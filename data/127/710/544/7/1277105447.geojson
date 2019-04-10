@@ -1,0 +1,74 @@
+{
+  "id": 1277105447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.04264,45.90472,15.04264,45.90472",
+    "geom:latitude":45.90472,
+    "geom:longitude":15.04264,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Dolenja Nemska Vas",
+    "gn:country_code":"SI",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987105,
+    "gn:latitude":45.90472,
+    "gn:longitude":15.04264,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Dolenja Nem\u0161ka Vas",
+    "gn:population":273,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dolenja Nem\u0161ka Vas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959839,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987105,
+        "wk:page":"Dolenja_Nem%C5%A1ka_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"509a5667b390e1e828d0c698dc60b95c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959839,
+            "locality_id":1277105447,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1277105447,
+    "wof:lastmodified":1537700279,
+    "wof:name":"Dolenja Nemska Vas",
+    "wof:parent_id":1108959839,
+    "wof:placetype":"locality",
+    "wof:population":273,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.04264,
+    45.90472000000001,
+    15.04264,
+    45.90472000000001
+],
+  "geometry": {"coordinates":[15.04264,45.90472000000001],"type":"Point"}
+}

@@ -1,0 +1,149 @@
+{
+  "id": 85678037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.005896,
+    "geom:area_square_m":50051411.057193,
+    "geom:bbox":"15.5203081385,46.5940813265,15.6643465513,46.6781749183",
+    "geom:latitude":46.643452,
+    "geom:longitude":15.596457,
+    "iso:country":"SI",
+    "lbl:latitude":46.651273,
+    "lbl:longitude":15.597549,
+    "mps:latitude":46.651273,
+    "mps:longitude":15.597549,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:bos_x_preferred":[
+        "Kungota"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u010dina Kungota"
+    ],
+    "name:deu_x_preferred":[
+        "Kungota"
+    ],
+    "name:eng_x_preferred":[
+        "Kungota"
+    ],
+    "name:fra_x_preferred":[
+        "Kungota"
+    ],
+    "name:hbs_x_preferred":[
+        "Kungota"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Kungota"
+    ],
+    "name:ita_x_preferred":[
+        "Kungota"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30f3\u30b4\u30bf"
+    ],
+    "name:kor_x_preferred":[
+        "\ucfe4\uace0\ud0c0"
+    ],
+    "name:nld_x_preferred":[
+        "Kungota"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Kungota"
+    ],
+    "name:por_x_preferred":[
+        "Kungota"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Kungota"
+    ],
+    "name:sco_x_preferred":[
+        "Municipality o Kungota"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Kungota"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041a\u0443\u043d\u0433\u043e\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Kungota"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u043d\u0433\u043e\u0442\u0430"
+    ],
+    "name:und_x_preferred":[
+        "Pesnica"
+    ],
+    "name:vie_x_preferred":[
+        "Kungota"
+    ],
+    "name:zho_x_preferred":[
+        "\u6606\u6208\u5854"
+    ],
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Kungota",
+    "qs:a1_lc":"SVN-959",
+    "qs:a1r":"Podravska",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "qs:woeid":55848374,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "unlc:subdivision":"SI-055",
+    "wd:wordcount":47,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55848374,
+        "unlc:id":"SI-055",
+        "wd:id":"Q998566"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"bdfd341537baaaf435c0118ff3fe7731",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85678037
+        }
+    ],
+    "wof:id":85678037,
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1531169683,
+    "wof:name":"Kungota",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:subdivision":"SI-055",
+    "wof:superseded_by":[
+        1108959469
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.52030813850985,
+    46.59408132649207,
+    15.66434655125238,
+    46.67817491833785
+],
+  "geometry": {"coordinates":[[[15.64574303601233,46.64276052537798],[15.66434655125238,46.60356395081573],[15.64713829909329,46.59408132649207],[15.630860222921,46.60253042294073],[15.6272945486046,46.6096617697749],[15.61375532444873,46.61829173427617],[15.60538374236586,46.62206411416759],[15.59840742426326,46.62805858033926],[15.59081098763704,46.63038402030634],[15.57076053157334,46.629970608257],[15.53680911614782,46.63627513279118],[15.52030813850985,46.64772017134891],[15.52084029254553,46.64960845986258],[15.53065881365336,46.6638453169079],[15.54595503699539,46.67188100220653],[15.56734908019592,46.67575673488545],[15.58863977150833,46.67596344046046],[15.60372928837603,46.67301788466767],[15.61664839670618,46.67555002841112],[15.62174527112739,46.67817491833785],[15.62243696489406,46.66671255074368],[15.64574303601233,46.64276052537798]]],"type":"Polygon"}
+}

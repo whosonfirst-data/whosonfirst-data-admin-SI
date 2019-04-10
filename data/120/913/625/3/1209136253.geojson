@@ -1,0 +1,68 @@
+{
+  "id": 1209136253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.65111,46.23111,15.65111,46.23111",
+    "geom:latitude":46.23111,
+    "geom:longitude":15.65111,
+    "gn:admin1_code":"A7",
+    "gn:asciiname":"Trzisce",
+    "gn:country_code":"SI",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3338868,
+    "gn:latitude":46.23111,
+    "gn:longitude":15.65111,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Tr\u017ei\u0161\u010de",
+    "gn:population":175,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tr\u017ei\u0161\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3338868,
+        "wk:page":"Tr%C5%BEi%C5%A1%C4%8De%2C_Roga%C5%A1ka_Slatina"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b53731259e68cd3309b6458496290ae9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209136253
+        }
+    ],
+    "wof:id":1209136253,
+    "wof:lastmodified":1537700274,
+    "wof:name":"Trzisce",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":175,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.65111,
+    46.23111,
+    15.65111,
+    46.23111
+],
+  "geometry": {"coordinates":[15.65111,46.23111],"type":"Point"}
+}

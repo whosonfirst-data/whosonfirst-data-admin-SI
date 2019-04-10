@@ -1,0 +1,75 @@
+{
+  "id": 1327270445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.27278,46.535,15.27278,46.535",
+    "geom:latitude":46.535,
+    "geom:longitude":15.27278,
+    "gn:admin1_code":"L2",
+    "gn:asciiname":"Ribnica na Pohorju",
+    "gn:country_code":"SI",
+    "gn:dem":669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":3191678,
+    "gn:latitude":46.535,
+    "gn:longitude":15.27278,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Ribnica na Pohorju",
+    "gn:population":443,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ribnica",
+        "Ribnica na Pohorju"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959769,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191678,
+        "wk:page":"Ribnica_na_Pohorju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"01d7dbd4ba8a53f9ec6862112ab5fff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959769,
+            "locality_id":1327270445,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1327270445,
+    "wof:lastmodified":1537700199,
+    "wof:name":"Ribnica na Pohorju",
+    "wof:parent_id":1108959769,
+    "wof:placetype":"locality",
+    "wof:population":443,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.27278,
+    46.535,
+    15.27278,
+    46.535
+],
+  "geometry": {"coordinates":[15.27278,46.535],"type":"Point"}
+}

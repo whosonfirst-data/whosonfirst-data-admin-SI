@@ -1,0 +1,62 @@
+{
+  "id": 1209688323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.78139,46.47528,14.78139,46.47528",
+    "geom:latitude":46.47528,
+    "geom:longitude":14.78139,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Burjak",
+    "gn:country_code":"SI",
+    "gn:dem":874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217417,
+    "gn:latitude":46.47528,
+    "gn:longitude":14.78139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Burjak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217417,
+        "wk:page":"Burjak"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"98261c28937c45c185e9252ba6fe63cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209688323
+        }
+    ],
+    "wof:id":1209688323,
+    "wof:lastmodified":1537573458,
+    "wof:name":"Burjak",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.78139,
+    46.47528,
+    14.78139,
+    46.47528
+],
+  "geometry": {"coordinates":[14.78139,46.47528],"type":"Point"}
+}

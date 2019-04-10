@@ -1,0 +1,74 @@
+{
+  "id": 1259913701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.42091,46.28109,14.42091,46.28109",
+    "geom:latitude":46.28109,
+    "geom:longitude":14.42091,
+    "gn:admin1_code":"B2",
+    "gn:asciiname":"Hotemaze",
+    "gn:country_code":"SI",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199337,
+    "gn:latitude":46.28109,
+    "gn:longitude":14.42091,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Hotema\u017ee",
+    "gn:population":512,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hotema\u017ee"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959647,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199337,
+        "wk:page":"Hotema%C5%BEe"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3ec58337ce99646a8d463391d71c8749",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959647,
+            "locality_id":1259913701,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1259913701,
+    "wof:lastmodified":1537700240,
+    "wof:name":"Hotemaze",
+    "wof:parent_id":1108959647,
+    "wof:placetype":"locality",
+    "wof:population":512,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.42091,
+    46.28109,
+    14.42091,
+    46.28109
+],
+  "geometry": {"coordinates":[14.42091,46.28109],"type":"Point"}
+}

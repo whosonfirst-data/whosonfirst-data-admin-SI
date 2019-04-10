@@ -1,0 +1,111 @@
+{
+  "id": 1125930025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.2825,46.01444,15.2825,46.01444",
+    "geom:latitude":46.01444,
+    "geom:longitude":15.2825,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":312,
+    "iso:country":"SI",
+    "lbl:latitude":46.01444,
+    "lbl:longitude":15.2825,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Bo\u0161tanj"
+    ],
+    "name:eng_x_preferred":[
+        "Bo\u0161tanj"
+    ],
+    "name:rum_x_preferred":[
+        "Bo\u0161tanj"
+    ],
+    "name:slv_x_preferred":[
+        "Bo\u0161tanj"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0448\u0442\u0430\u043d\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Bo\u0161tanj"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3203629,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Bo\u00b5tanj",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Sevnica",
+    "qs_pg:photos":42,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":42,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":982808,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":529598,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Sevnica",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203629,
+        "gp:id":529598,
+        "qs_pg:id":982808,
+        "wd:id":"Q2635020"
+    },
+    "wof:country":"SI",
+    "wof:created":1497296773,
+    "wof:geomhash":"0d87187ad5e97451439584a75309210d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1125930025,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1125930025,
+    "wof:lastmodified":1531170980,
+    "wof:name":"Bo\u00b5tanj",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":312,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.2825,
+    46.01444,
+    15.2825,
+    46.01444
+],
+  "geometry": {"coordinates":[15.2825,46.01444],"type":"Point"}
+}

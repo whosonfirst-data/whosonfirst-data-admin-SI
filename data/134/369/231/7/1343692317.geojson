@@ -1,0 +1,71 @@
+{
+  "id": 1343692317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.03333,45.8,15.03333,45.8",
+    "geom:latitude":45.8,
+    "geom:longitude":15.03333,
+    "gn:admin1_code":"N8",
+    "gn:asciiname":"Veliki Lipovec",
+    "gn:country_code":"SI",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188046,
+    "gn:latitude":45.8,
+    "gn:longitude":15.03333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Veliki Lipovec",
+    "gn:population":102,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959787,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188046,
+        "wk:page":"Veliki_Lipovec%2C_%C5%BDu%C5%BEemberk"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c065dca4f1b3b64a6959602dcca1a968",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959787,
+            "locality_id":1343692317,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1343692317,
+    "wof:lastmodified":1537573388,
+    "wof:name":"Veliki Lipovec",
+    "wof:parent_id":1108959787,
+    "wof:placetype":"locality",
+    "wof:population":102,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.03333,
+    45.8,
+    15.03333,
+    45.8
+],
+  "geometry": {"coordinates":[15.03333,45.8],"type":"Point"}
+}

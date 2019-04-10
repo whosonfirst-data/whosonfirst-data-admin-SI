@@ -1,0 +1,74 @@
+{
+  "id": 1259680565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.50823,45.9842,13.50823,45.9842",
+    "geom:latitude":45.9842,
+    "geom:longitude":13.50823,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Plesivo",
+    "gn:country_code":"SI",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8990204,
+    "gn:latitude":45.9842,
+    "gn:longitude":13.50823,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Ple\u0161ivo",
+    "gn:population":239,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ple\u0161ivo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959811,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8990204,
+        "wk:page":"Ple%C5%A1ivo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"48cfacc6de5e8b69f26b78cedb327467",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959811,
+            "locality_id":1259680565,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1259680565,
+    "wof:lastmodified":1537700335,
+    "wof:name":"Plesivo",
+    "wof:parent_id":1108959811,
+    "wof:placetype":"locality",
+    "wof:population":239,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.50823,
+    45.9842,
+    13.50823,
+    45.9842
+],
+  "geometry": {"coordinates":[13.50823,45.9842],"type":"Point"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 85677853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.004942,
+    "geom:area_square_m":42135042.723984,
+    "geom:bbox":"14.1208748707,46.3721568869,14.2423232219,46.4404246546",
+    "geom:latitude":46.412324,
+    "geom:longitude":14.171498,
+    "iso:country":"SI",
+    "lbl:latitude":46.410404,
+    "lbl:longitude":14.170341,
+    "mps:latitude":46.410404,
+    "mps:longitude":14.170341,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:bos_x_preferred":[
+        "\u017dirovnica"
+    ],
+    "name:hbs_x_preferred":[
+        "\u017dirovnica"
+    ],
+    "name:nld_x_preferred":[
+        "\u017dirovnica"
+    ],
+    "name:slv_x_preferred":[
+        "\u017dirovnica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0416\u0438\u0440\u043e\u0432\u043d\u0438\u0446\u0430"
+    ],
+    "name:und_x_preferred":[
+        "Jesenice"
+    ],
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"\u017dirovnica",
+    "qs:a1_lc":"SVN-259",
+    "qs:a1r":"Gorenjska",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "qs:woeid":55848354,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "unlc:subdivision":"SI-192",
+    "wd:wordcount":90,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":-55848354,
+        "unlc:id":"SI-192"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"adc81d6add0c8c5e407ab1f77bf5c7cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677853
+        }
+    ],
+    "wof:id":85677853,
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1531169506,
+    "wof:name":"\u017dirovnica",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:subdivision":"SI-192",
+    "wof:superseded_by":[
+        1108959899
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.12087487067879,
+    46.37215688693084,
+    14.24232322193922,
+    46.4404246545742
+],
+  "geometry": {"coordinates":[[[14.24232322193922,46.43823746198933],[14.24221113493599,46.43752757403837],[14.24205610530504,46.43711416288835],[14.23818037262612,46.42525442175423],[14.22314253080322,46.42176626180361],[14.21456424314533,46.41698619245886],[14.20014651894672,46.40383454013198],[14.19487552318691,46.39368012134059],[14.19053470161526,46.38693634723467],[14.18014773882715,46.38176870426236],[14.16867557132059,46.3810452338505],[14.15932213730684,46.38171702741892],[14.13746300611291,46.37215688693084],[14.12087487067879,46.39272410693206],[14.12785118968071,46.40683177276816],[14.12940148329187,46.42512523054501],[14.13777306537474,46.43411693025217],[14.14087365079837,46.43639069337587],[14.14793308424447,46.4404246545742],[14.14986454291437,46.44006052717162],[14.24232322193922,46.43823746198933]]],"type":"Polygon"}
+}

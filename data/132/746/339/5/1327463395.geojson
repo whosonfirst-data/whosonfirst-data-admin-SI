@@ -1,0 +1,74 @@
+{
+  "id": 1327463395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.20622,46.11296,15.20622,46.11296",
+    "geom:latitude":46.11296,
+    "geom:longitude":15.20622,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Senozete",
+    "gn:country_code":"SI",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988580,
+    "gn:latitude":46.11296,
+    "gn:longitude":15.20622,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Seno\u017eete",
+    "gn:population":42,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seno\u017eete"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959879,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988580,
+        "wk:page":"Seno%C5%BEete%2C_La%C5%A1ko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7f3c47289ac2157736f4d1e8793c991f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959879,
+            "locality_id":1327463395,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1327463395,
+    "wof:lastmodified":1537700309,
+    "wof:name":"Senozete",
+    "wof:parent_id":1108959879,
+    "wof:placetype":"locality",
+    "wof:population":42,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.20622,
+    46.11296,
+    15.20622,
+    46.11296
+],
+  "geometry": {"coordinates":[15.20622,46.11296],"type":"Point"}
+}

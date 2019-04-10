@@ -1,0 +1,127 @@
+{
+  "id": 1126007525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.87972,45.90167,13.87972,45.90167",
+    "geom:latitude":45.90167,
+    "geom:longitude":13.87972,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":987,
+    "gn:population":1069,
+    "iso:country":"SI",
+    "lbl:latitude":45.90167,
+    "lbl:longitude":13.87972,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041b\u043e\u043a\u0430\u0432\u0435\u0446"
+    ],
+    "name:dut_x_preferred":[
+        "Lokavec"
+    ],
+    "name:eng_x_preferred":[
+        "Lokavec"
+    ],
+    "name:hun_x_preferred":[
+        "Lokavec"
+    ],
+    "name:ita_x_preferred":[
+        "Locavizza di Aidussina"
+    ],
+    "name:pol_x_preferred":[
+        "Lokavec"
+    ],
+    "name:rum_x_preferred":[
+        "Lokavec"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u043a\u0430\u0432\u0435\u0446"
+    ],
+    "name:slv_x_preferred":[
+        "Lokavec"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u043e\u043a\u0430\u0432\u0435\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u043a\u0430\u0432\u0435\u0446"
+    ],
+    "name:unk_x_variant":[
+        "Loavizza"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3196268,
+    "qs_pg:gn_pop":987,
+    "qs_pg:name":"Lokavec",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Ajdovscina",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":926522,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":530660,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Ajdovscina",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959545,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196268,
+        "gp:id":530660,
+        "qs_pg:id":926522,
+        "wd:id":"Q2736866"
+    },
+    "wof:country":"SI",
+    "wof:created":1497300063,
+    "wof:geomhash":"c595f0ddce827f577406c3eacbc4200c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959545,
+            "locality_id":1126007525,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1126007525,
+    "wof:lastmodified":1531170229,
+    "wof:name":"Lokavec",
+    "wof:parent_id":1108959545,
+    "wof:placetype":"locality",
+    "wof:population":1069,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.87972,
+    45.90167,
+    13.87972,
+    45.90167
+],
+  "geometry": {"coordinates":[13.87972,45.90167],"type":"Point"}
+}

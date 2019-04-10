@@ -1,0 +1,65 @@
+{
+  "id": 1209451957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.97504,45.82792,14.97504,45.82792",
+    "geom:latitude":45.82792,
+    "geom:longitude":14.97504,
+    "gn:admin1_code":"N8",
+    "gn:asciiname":"Sadinja Vas pri Dvoru",
+    "gn:country_code":"SI",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987394,
+    "gn:latitude":45.82792,
+    "gn:longitude":14.97504,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Sadinja Vas pri Dvoru",
+    "gn:population":161,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987394,
+        "wk:page":"Sadinja_Vas_pri_Dvoru"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ca4bb2b548320c6fdeaf8b95f62d02e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209451957
+        }
+    ],
+    "wof:id":1209451957,
+    "wof:lastmodified":1537573478,
+    "wof:name":"Sadinja Vas pri Dvoru",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":161,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.97504,
+    45.82792,
+    14.97504,
+    45.82792
+],
+  "geometry": {"coordinates":[14.97504,45.82792],"type":"Point"}
+}

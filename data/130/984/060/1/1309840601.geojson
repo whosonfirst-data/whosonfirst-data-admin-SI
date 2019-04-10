@@ -1,0 +1,74 @@
+{
+  "id": 1309840601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.2091,45.83295,14.2091,45.83295",
+    "geom:latitude":45.83295,
+    "geom:longitude":14.2091,
+    "gn:admin1_code":"94",
+    "gn:asciiname":"Lohaca",
+    "gn:country_code":"SI",
+    "gn:dem":786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988793,
+    "gn:latitude":45.83295,
+    "gn:longitude":14.2091,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Loha\u010da",
+    "gn:population":32,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loha\u010da"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959559,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988793,
+        "wk:page":"Loha%C4%8Da"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0b243fa5830772ad37b2a3f08cbfd14d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959559,
+            "locality_id":1309840601,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1309840601,
+    "wof:lastmodified":1537700313,
+    "wof:name":"Lohaca",
+    "wof:parent_id":1108959559,
+    "wof:placetype":"locality",
+    "wof:population":32,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.2091,
+    45.83295,
+    14.2091,
+    45.83295
+],
+  "geometry": {"coordinates":[14.2091,45.83295],"type":"Point"}
+}

@@ -1,0 +1,120 @@
+{
+  "id": 1125899375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.48083,46.30611,13.48083,46.30611",
+    "geom:latitude":46.30611,
+    "geom:longitude":13.48083,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":353,
+    "iso:country":"SI",
+    "lbl:latitude":46.30611,
+    "lbl:longitude":13.48083,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "\u017daga"
+    ],
+    "name:eng_x_preferred":[
+        "\u017daga"
+    ],
+    "name:ita_x_preferred":[
+        "Saga"
+    ],
+    "name:rum_x_preferred":[
+        "\u017daga"
+    ],
+    "name:slv_x_preferred":[
+        "\u017daga"
+    ],
+    "name:srp_x_preferred":[
+        "\u0416\u0430\u0433\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0430\u0433\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Saga"
+    ],
+    "name:urd_x_preferred":[
+        "\u0698\u0627\u06af\u0627\u060c \u0628\u0648\u0648\u06a9"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3186940,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"\u017daga",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Tolmin",
+    "qs_pg:photos":6,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":6,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":37158,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":532186,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Tolmin",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959541,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186940,
+        "gp:id":532186,
+        "qs_pg:id":37158,
+        "wd:id":"Q1827446"
+    },
+    "wof:country":"SI",
+    "wof:created":1497295738,
+    "wof:geomhash":"f245690d8c68849fdc575b246df0fc76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959541,
+            "locality_id":1125899375,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1125899375,
+    "wof:lastmodified":1531170228,
+    "wof:name":"\u017daga",
+    "wof:parent_id":1108959541,
+    "wof:placetype":"locality",
+    "wof:population":353,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.48083,
+    46.30611,
+    13.48083,
+    46.30611
+],
+  "geometry": {"coordinates":[13.48083,46.30611],"type":"Point"}
+}

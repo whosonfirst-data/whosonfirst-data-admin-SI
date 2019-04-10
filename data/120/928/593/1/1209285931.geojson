@@ -1,0 +1,65 @@
+{
+  "id": 1209285931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.07052,45.4892,15.07052,45.4892",
+    "geom:latitude":45.4892,
+    "geom:longitude":15.07052,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Kot ob Kolpi",
+    "gn:country_code":"SI",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989396,
+    "gn:latitude":45.4892,
+    "gn:longitude":15.07052,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kot ob Kolpi",
+    "gn:population":2,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989396,
+        "wk:page":"Kot_ob_Kolpi"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1587e50537275abbd6c97569db83ff8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209285931
+        }
+    ],
+    "wof:id":1209285931,
+    "wof:lastmodified":1537573541,
+    "wof:name":"Kot ob Kolpi",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.07052,
+    45.4892,
+    15.07052,
+    45.4892
+],
+  "geometry": {"coordinates":[15.07052,45.4892],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209348575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.71692,46.62479,15.71692,46.62479",
+    "geom:latitude":46.62479,
+    "geom:longitude":15.71692,
+    "gn:admin1_code":"89",
+    "gn:asciiname":"Vukovski Dol",
+    "gn:country_code":"SI",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986963,
+    "gn:latitude":46.62479,
+    "gn:longitude":15.71692,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Vukovski Dol",
+    "gn:population":421,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986963,
+        "wk:page":"Vukovski_Dol"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"42fcfae466c6aae3821c2cf9ea4828de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209348575
+        }
+    ],
+    "wof:id":1209348575,
+    "wof:lastmodified":1537573465,
+    "wof:name":"Vukovski Dol",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":421,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.71692,
+    46.62479,
+    15.71692,
+    46.62479
+],
+  "geometry": {"coordinates":[15.71692,46.62479],"type":"Point"}
+}

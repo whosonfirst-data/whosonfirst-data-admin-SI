@@ -1,0 +1,76 @@
+{
+  "id": 1259817827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.4,46.55472,16.4,46.55472",
+    "geom:latitude":46.55472,
+    "geom:longitude":16.4,
+    "gn:admin1_code":"I4",
+    "gn:asciiname":"Gaberje",
+    "gn:country_code":"SI",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200793,
+    "gn:latitude":46.55472,
+    "gn:longitude":16.4,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Gaberje",
+    "gn:population":552,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zalagyerty\u00e1nos",
+        "Gyerty\u00e1nos",
+        "Gaberje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959475,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200793,
+        "wk:page":"Gaberje%2C_Lendava"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"391336082b4de67080701ea438aeffd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959475,
+            "locality_id":1259817827,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1259817827,
+    "wof:lastmodified":1537700248,
+    "wof:name":"Gaberje",
+    "wof:parent_id":1108959475,
+    "wof:placetype":"locality",
+    "wof:population":552,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.4,
+    46.55472,
+    16.4,
+    46.55472
+],
+  "geometry": {"coordinates":[16.4,46.55472],"type":"Point"}
+}

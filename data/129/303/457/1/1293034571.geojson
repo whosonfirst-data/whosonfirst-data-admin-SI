@@ -1,0 +1,74 @@
+{
+  "id": 1293034571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.23005,46.14384,14.23005,46.14384",
+    "geom:latitude":46.14384,
+    "geom:longitude":14.23005,
+    "gn:admin1_code":"B9",
+    "gn:asciiname":"Sveti Florijan nad Skofjo Loko",
+    "gn:country_code":"SI",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988821,
+    "gn:latitude":46.14384,
+    "gn:longitude":14.23005,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Sveti Florijan nad \u0160kofjo Loko",
+    "gn:population":31,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sveti Florijan nad \u0160kofjo Loko"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959821,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988821,
+        "wk:page":"Sveti_Florijan_nad_%C5%A0kofjo_Loko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4622420a5412bdf5109762171bf57ca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959821,
+            "locality_id":1293034571,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1293034571,
+    "wof:lastmodified":1537700314,
+    "wof:name":"Sveti Florijan nad Skofjo Loko",
+    "wof:parent_id":1108959821,
+    "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.23005,
+    46.14384,
+    14.23005,
+    46.14384
+],
+  "geometry": {"coordinates":[14.23005,46.14384],"type":"Point"}
+}

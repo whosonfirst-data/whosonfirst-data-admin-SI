@@ -1,0 +1,71 @@
+{
+  "id": 1327170847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.90235,46.36164,15.90235,46.36164",
+    "geom:latitude":46.36164,
+    "geom:longitude":15.90235,
+    "gn:admin1_code":"N2",
+    "gn:asciiname":"Dravinjski Vrh",
+    "gn:country_code":"SI",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987115,
+    "gn:latitude":46.36164,
+    "gn:longitude":15.90235,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Dravinjski Vrh",
+    "gn:population":266,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959747,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987115,
+        "wk:page":"Dravinjski_Vrh"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c77163b224f3bb8a3502f09b0f70c2c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959747,
+            "locality_id":1327170847,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1327170847,
+    "wof:lastmodified":1537573469,
+    "wof:name":"Dravinjski Vrh",
+    "wof:parent_id":1108959747,
+    "wof:placetype":"locality",
+    "wof:population":266,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.90235,
+    46.36164,
+    15.90235,
+    46.36164
+],
+  "geometry": {"coordinates":[15.90235,46.36164],"type":"Point"}
+}

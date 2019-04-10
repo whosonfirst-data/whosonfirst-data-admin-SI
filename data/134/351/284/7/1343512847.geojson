@@ -1,0 +1,76 @@
+{
+  "id": 1343512847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.33257,45.62045,14.33257,45.62045",
+    "geom:latitude":45.62045,
+    "geom:longitude":14.33257,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Koritnice",
+    "gn:country_code":"SI",
+    "gn:dem":971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197675,
+    "gn:latitude":45.62045,
+    "gn:longitude":14.33257,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Koritnice",
+    "gn:population":151,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Coritenza",
+        "Koritnica",
+        "Koritnice"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959873,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197675,
+        "wk:page":"Koritnice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f0c633cc80b412b8aa2880d879221167",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959873,
+            "locality_id":1343512847,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1343512847,
+    "wof:lastmodified":1537700231,
+    "wof:name":"Koritnice",
+    "wof:parent_id":1108959873,
+    "wof:placetype":"locality",
+    "wof:population":151,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.33257,
+    45.62045,
+    14.33257,
+    45.62045
+],
+  "geometry": {"coordinates":[14.33257,45.62045],"type":"Point"}
+}

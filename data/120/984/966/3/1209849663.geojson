@@ -1,0 +1,77 @@
+{
+  "id": 1209849663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.09733,45.7678,14.09733,45.7678",
+    "geom:latitude":45.7678,
+    "geom:longitude":14.09733,
+    "gn:admin1_code":"94",
+    "gn:asciiname":"Mala Brda",
+    "gn:country_code":"SI",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195873,
+    "gn:latitude":45.7678,
+    "gn:longitude":14.09733,
+    "gn:modification_date":"2015-11-02",
+    "gn:name":"Mala Brda",
+    "gn:population":52,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Malo Brdo"
+    ],
+    "name:slv_x_preferred":[
+        "Malo Brdo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959559,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195873,
+        "wk:page":"Mala_Brda"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b030bfb7c5a948324cc795d03d4cf0ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959559,
+            "locality_id":1209849663,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1209849663,
+    "wof:lastmodified":1537700221,
+    "wof:name":"Mala Brda",
+    "wof:parent_id":1108959559,
+    "wof:placetype":"locality",
+    "wof:population":52,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.09733,
+    45.7678,
+    14.09733,
+    45.7678
+],
+  "geometry": {"coordinates":[14.09733,45.7678],"type":"Point"}
+}

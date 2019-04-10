@@ -1,0 +1,85 @@
+{
+  "id": 1226074519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.3175,46.74083,16.3175,46.74083",
+    "geom:latitude":46.74083,
+    "geom:longitude":16.3175,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Prosenjakovci",
+    "gn:country_code":"SI",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192296,
+    "gn:latitude":46.74083,
+    "gn:longitude":16.3175,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Prosenjakovci",
+    "gn:population":178,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "R\u00e1tkalak"
+    ],
+    "name:hun_x_variant":[
+        "P\u00e1rtosfalva"
+    ],
+    "name:und_x_variant":[
+        "Fokovci",
+        "Prosenjakovi\u0107i",
+        "Berkovci",
+        "Ratkovci",
+        "Prosenjakovci",
+        "P\u00e1rtosfalva",
+        "R\u00e1tkalak"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959925,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192296
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"630f9a78318aeff5be06145807e0e9bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959925,
+            "locality_id":1226074519,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1226074519,
+    "wof:lastmodified":1537700203,
+    "wof:name":"Prosenjakovci",
+    "wof:parent_id":1108959925,
+    "wof:placetype":"locality",
+    "wof:population":178,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.3175,
+    46.74083,
+    16.3175,
+    46.74083
+],
+  "geometry": {"coordinates":[16.3175,46.74083],"type":"Point"}
+}

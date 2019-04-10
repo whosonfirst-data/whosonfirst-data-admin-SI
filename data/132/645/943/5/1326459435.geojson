@@ -1,0 +1,77 @@
+{
+  "id": 1326459435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.12127,45.89854,15.12127,45.89854",
+    "geom:latitude":45.89854,
+    "geom:longitude":15.12127,
+    "gn:admin1_code":"O7",
+    "gn:asciiname":"Bitnja Vas",
+    "gn:country_code":"SI",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988651,
+    "gn:latitude":45.89854,
+    "gn:longitude":15.12127,
+    "gn:modification_date":"2015-12-13",
+    "gn:name":"Bitnja Vas",
+    "gn:population":39,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Bitna Vas"
+    ],
+    "name:slv_x_preferred":[
+        "Bitna Vas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959913,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988651,
+        "wk:page":"Bitnja_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"bcf7614892f97424b6023e34f711f343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959913,
+            "locality_id":1326459435,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1326459435,
+    "wof:lastmodified":1537700310,
+    "wof:name":"Bitnja Vas",
+    "wof:parent_id":1108959913,
+    "wof:placetype":"locality",
+    "wof:population":39,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.12127,
+    45.89854,
+    15.12127,
+    45.89854
+],
+  "geometry": {"coordinates":[15.12127,45.89854],"type":"Point"}
+}

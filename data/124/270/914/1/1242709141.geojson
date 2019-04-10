@@ -1,0 +1,71 @@
+{
+  "id": 1242709141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.15,45.91667,15.15,45.91667",
+    "geom:latitude":45.91667,
+    "geom:longitude":15.15,
+    "gn:admin1_code":"O7",
+    "gn:asciiname":"Trebelno",
+    "gn:country_code":"SI",
+    "gn:dem":511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188901,
+    "gn:latitude":45.91667,
+    "gn:longitude":15.15,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Trebelno",
+    "gn:population":99,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959913,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188901,
+        "wk:page":"Trebelno"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"950f8407cc0052ba39e391934342c039",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959913,
+            "locality_id":1242709141,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1242709141,
+    "wof:lastmodified":1537573391,
+    "wof:name":"Trebelno",
+    "wof:parent_id":1108959913,
+    "wof:placetype":"locality",
+    "wof:population":99,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.15,
+    45.91667,
+    15.15,
+    45.91667
+],
+  "geometry": {"coordinates":[15.15,45.91667],"type":"Point"}
+}

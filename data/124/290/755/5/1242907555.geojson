@@ -1,0 +1,77 @@
+{
+  "id": 1242907555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.84694,45.45667,13.84694,45.45667",
+    "geom:latitude":45.45667,
+    "geom:longitude":13.84694,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Gradin",
+    "gn:country_code":"SI",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199731,
+    "gn:latitude":45.45667,
+    "gn:longitude":13.84694,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Gradin",
+    "gn:population":73,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gr\u00e1dena",
+        "Gradigne",
+        "Gradina",
+        "Gradin"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959527,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199731,
+        "wk:page":"Gradin"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ba21f08dee6199af59ef6f22fef0f890",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959527,
+            "locality_id":1242907555,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1242907555,
+    "wof:lastmodified":1537700242,
+    "wof:name":"Gradin",
+    "wof:parent_id":1108959527,
+    "wof:placetype":"locality",
+    "wof:population":73,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.84694,
+    45.45667,
+    13.84694,
+    45.45667
+],
+  "geometry": {"coordinates":[13.84694,45.45667],"type":"Point"}
+}

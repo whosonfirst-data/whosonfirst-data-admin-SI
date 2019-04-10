@@ -1,0 +1,71 @@
+{
+  "id": 1226178969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.33013,46.21876,15.33013,46.21876",
+    "geom:latitude":46.21876,
+    "geom:longitude":15.33013,
+    "gn:admin1_code":"C9",
+    "gn:asciiname":"Draga",
+    "gn:country_code":"SI",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987713,
+    "gn:latitude":46.21876,
+    "gn:longitude":15.33013,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Draga",
+    "gn:population":111,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959631,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987713,
+        "wk:page":"Draga%2C_%C5%A0tore"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b7b0cd869cfc0898b401d73bc7910015",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959631,
+            "locality_id":1226178969,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1226178969,
+    "wof:lastmodified":1537573489,
+    "wof:name":"Draga",
+    "wof:parent_id":1108959631,
+    "wof:placetype":"locality",
+    "wof:population":111,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.33013,
+    46.21876,
+    15.33013,
+    46.21876
+],
+  "geometry": {"coordinates":[15.33013,46.21876],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343292699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.21378,46.34535,14.21378,46.34535",
+    "geom:latitude":46.34535,
+    "geom:longitude":14.21378,
+    "gn:admin1_code":"A3",
+    "gn:asciiname":"Spodnji Otok",
+    "gn:country_code":"SI",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190188,
+    "gn:latitude":46.34535,
+    "gn:longitude":14.21378,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Spodnji Otok",
+    "gn:population":111,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959825,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190188,
+        "wk:page":"Spodnji_Otok"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6bd1bcbf4917f7b54e425041382c90d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959825,
+            "locality_id":1343292699,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1343292699,
+    "wof:lastmodified":1537573397,
+    "wof:name":"Spodnji Otok",
+    "wof:parent_id":1108959825,
+    "wof:placetype":"locality",
+    "wof:population":111,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.21378,
+    46.34535,
+    14.21378,
+    46.34535
+],
+  "geometry": {"coordinates":[14.21378,46.34535],"type":"Point"}
+}

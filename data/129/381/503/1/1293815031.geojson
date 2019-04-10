@@ -1,0 +1,71 @@
+{
+  "id": 1293815031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.51412,46.00856,15.51412,46.00856",
+    "geom:latitude":46.00856,
+    "geom:longitude":15.51412,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Raztez",
+    "gn:country_code":"SI",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987955,
+    "gn:latitude":46.00856,
+    "gn:longitude":15.51412,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Raztez",
+    "gn:population":86,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987955,
+        "wk:page":"Raztez"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"28ec94990a138435b5a6f52513b11257",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1293815031,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1293815031,
+    "wof:lastmodified":1537573497,
+    "wof:name":"Raztez",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":86,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.51412,
+    46.00856,
+    15.51412,
+    46.00856
+],
+  "geometry": {"coordinates":[15.51412,46.00856],"type":"Point"}
+}

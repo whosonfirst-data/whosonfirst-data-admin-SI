@@ -1,0 +1,73 @@
+{
+  "id": 1209746951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.28859,46.11328,14.28859,46.11328",
+    "geom:latitude":46.11328,
+    "geom:longitude":14.28859,
+    "gn:admin1_code":"B9",
+    "gn:asciiname":"Sv. Ozbolt",
+    "gn:country_code":"SI",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988080,
+    "gn:latitude":46.11328,
+    "gn:longitude":14.28859,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Sv. O\u017ebolt",
+    "gn:population":75,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sv. O\u017ebolt"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959821,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988080
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"db4dc2911338d7f90615ce104dec6ee6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959821,
+            "locality_id":1209746951,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1209746951,
+    "wof:lastmodified":1537700299,
+    "wof:name":"Sv. Ozbolt",
+    "wof:parent_id":1108959821,
+    "wof:placetype":"locality",
+    "wof:population":75,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.28859,
+    46.11328,
+    14.28859,
+    46.11328
+],
+  "geometry": {"coordinates":[14.28859,46.11328],"type":"Point"}
+}

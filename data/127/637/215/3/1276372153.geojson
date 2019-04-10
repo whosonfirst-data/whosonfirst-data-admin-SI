@@ -1,0 +1,71 @@
+{
+  "id": 1276372153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.14139,46.55917,16.14139,46.55917",
+    "geom:latitude":46.55917,
+    "geom:longitude":16.14139,
+    "gn:admin1_code":"I1",
+    "gn:asciiname":"Boreci",
+    "gn:country_code":"SI",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203724,
+    "gn:latitude":46.55917,
+    "gn:longitude":16.14139,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Boreci",
+    "gn:population":289,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959775,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203724,
+        "wk:page":"Boreci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"70c945c600629f87eaab82df67f28b3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959775,
+            "locality_id":1276372153,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1276372153,
+    "wof:lastmodified":1537573452,
+    "wof:name":"Boreci",
+    "wof:parent_id":1108959775,
+    "wof:placetype":"locality",
+    "wof:population":289,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.14139,
+    46.55917,
+    16.14139,
+    46.55917
+],
+  "geometry": {"coordinates":[16.14139,46.55917],"type":"Point"}
+}

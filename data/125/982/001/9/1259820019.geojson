@@ -1,0 +1,71 @@
+{
+  "id": 1259820019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.04944,46.61659,16.04944,46.61659",
+    "geom:latitude":46.61659,
+    "geom:longitude":16.04944,
+    "gn:admin1_code":"A1",
+    "gn:asciiname":"Turjanski Vrh",
+    "gn:country_code":"SI",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989532,
+    "gn:latitude":46.61659,
+    "gn:longitude":16.04944,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Turjanski Vrh",
+    "gn:population":81,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959569,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989532,
+        "wk:page":"Turjanski_Vrh"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"035966f1bd7868f73d90843133a9cd78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959569,
+            "locality_id":1259820019,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1259820019,
+    "wof:lastmodified":1537573544,
+    "wof:name":"Turjanski Vrh",
+    "wof:parent_id":1108959569,
+    "wof:placetype":"locality",
+    "wof:population":81,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.04944,
+    46.61659,
+    16.04944,
+    46.61659
+],
+  "geometry": {"coordinates":[16.04944,46.61659],"type":"Point"}
+}

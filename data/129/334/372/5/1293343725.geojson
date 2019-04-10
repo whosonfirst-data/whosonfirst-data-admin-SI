@@ -1,0 +1,75 @@
+{
+  "id": 1293343725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.91222,45.61611,13.91222,45.61611",
+    "geom:latitude":45.61611,
+    "geom:longitude":13.91222,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Nasirec",
+    "gn:country_code":"SI",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194578,
+    "gn:latitude":45.61611,
+    "gn:longitude":13.91222,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Nasirec",
+    "gn:population":68,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nazire",
+        "Nasirec"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959549,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194578,
+        "wk:page":"Nasirec"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"dd9b9789177d236a872a56ecd2af013d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959549,
+            "locality_id":1293343725,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1293343725,
+    "wof:lastmodified":1537700216,
+    "wof:name":"Nasirec",
+    "wof:parent_id":1108959549,
+    "wof:placetype":"locality",
+    "wof:population":68,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.91222,
+    45.61611,
+    13.91222,
+    45.61611
+],
+  "geometry": {"coordinates":[13.91222,45.61611],"type":"Point"}
+}

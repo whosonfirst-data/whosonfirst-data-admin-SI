@@ -1,0 +1,74 @@
+{
+  "id": 1259411871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.31139,46.31127,15.31139,46.31127",
+    "geom:latitude":46.31127,
+    "geom:longitude":15.31139,
+    "gn:admin1_code":"N3",
+    "gn:asciiname":"Globoce",
+    "gn:country_code":"SI",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988061,
+    "gn:latitude":46.31127,
+    "gn:longitude":15.31139,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Globo\u010de",
+    "gn:population":77,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Globo\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959653,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988061,
+        "wk:page":"Globo%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7403cb02cdc4a80128b1136cff21022b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959653,
+            "locality_id":1259411871,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1259411871,
+    "wof:lastmodified":1537700299,
+    "wof:name":"Globoce",
+    "wof:parent_id":1108959653,
+    "wof:placetype":"locality",
+    "wof:population":77,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.31139,
+    46.31127,
+    15.31139,
+    46.31127
+],
+  "geometry": {"coordinates":[15.31139,46.31127],"type":"Point"}
+}

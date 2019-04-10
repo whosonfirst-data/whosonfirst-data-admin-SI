@@ -1,0 +1,71 @@
+{
+  "id": 1343796041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0061,45.9789,15.0061,45.9789",
+    "geom:latitude":45.9789,
+    "geom:longitude":15.0061,
+    "gn:admin1_code":"I5",
+    "gn:asciiname":"Kumpolje",
+    "gn:country_code":"SI",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989186,
+    "gn:latitude":45.9789,
+    "gn:longitude":15.0061,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kumpolje",
+    "gn:population":14,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959907,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989186,
+        "wk:page":"Kumpolje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"31ad639c72fea38986151bf576d9eebd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959907,
+            "locality_id":1343796041,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1343796041,
+    "wof:lastmodified":1537573534,
+    "wof:name":"Kumpolje",
+    "wof:parent_id":1108959907,
+    "wof:placetype":"locality",
+    "wof:population":14,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0061,
+    45.9789,
+    15.0061,
+    45.9789
+],
+  "geometry": {"coordinates":[15.0061,45.9789],"type":"Point"}
+}

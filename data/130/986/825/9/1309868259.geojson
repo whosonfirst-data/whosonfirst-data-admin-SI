@@ -1,0 +1,76 @@
+{
+  "id": 1309868259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.98333,45.65222,13.98333,45.65222",
+    "geom:latitude":45.65222,
+    "geom:longitude":13.98333,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Dane pri Divaci",
+    "gn:country_code":"SI",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202199,
+    "gn:latitude":45.65222,
+    "gn:longitude":13.98333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Dane pri Diva\u010di",
+    "gn:population":62,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Danne di Sesana",
+        "Dane",
+        "Dane pri Diva\u010di"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959845,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202199,
+        "wk:page":"Dane_pri_Diva%C4%8Di"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"24e82973e108e58cf6da5c4db8c036ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959845,
+            "locality_id":1309868259,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1309868259,
+    "wof:lastmodified":1537700256,
+    "wof:name":"Dane pri Divaci",
+    "wof:parent_id":1108959845,
+    "wof:placetype":"locality",
+    "wof:population":62,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.98333,
+    45.65222,
+    13.98333,
+    45.65222
+],
+  "geometry": {"coordinates":[13.98333,45.65222],"type":"Point"}
+}

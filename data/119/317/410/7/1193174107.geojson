@@ -1,0 +1,71 @@
+{
+  "id": 1193174107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.56633,45.82194,14.56633,45.82194",
+    "geom:latitude":45.82194,
+    "geom:longitude":14.56633,
+    "gn:admin1_code":"D8",
+    "gn:asciiname":"Bane",
+    "gn:country_code":"SI",
+    "gn:dem":775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218720,
+    "gn:latitude":45.82194,
+    "gn:longitude":14.56633,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Bane",
+    "gn:population":1,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959859,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218720,
+        "wk:page":"Bane%2C_Velike_La%C5%A1%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6d14d6b9670d7e2642ec1e4b7ecafd8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959859,
+            "locality_id":1193174107,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1193174107,
+    "wof:lastmodified":1537573460,
+    "wof:name":"Bane",
+    "wof:parent_id":1108959859,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.56633,
+    45.82194000000001,
+    14.56633,
+    45.82194000000001
+],
+  "geometry": {"coordinates":[14.56633,45.82194000000001],"type":"Point"}
+}

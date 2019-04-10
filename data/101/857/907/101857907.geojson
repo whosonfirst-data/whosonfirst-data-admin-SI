@@ -1,0 +1,175 @@
+{
+  "id": 101857907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.662962,46.054113,15.662962,46.054113",
+    "geom:latitude":46.054113,
+    "geom:longitude":15.662962,
+    "gn:population":272,
+    "iso:country":"SI",
+    "lbl:latitude":46.054113,
+    "lbl:longitude":15.662962,
+    "mps:latitude":46.054113,
+    "mps:longitude":15.662962,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Bistrica ob Sotli"
+    ],
+    "name:cat_x_preferred":[
+        "Bistrica ob Sotli"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u010dina Bistrica ob Sotli"
+    ],
+    "name:cze_x_preferred":[
+        "Ob\u010dina Bistrica ob Sotli"
+    ],
+    "name:deu_x_preferred":[
+        "Bistrica ob Sotli"
+    ],
+    "name:dut_x_preferred":[
+        "Bistrica ob Sotli"
+    ],
+    "name:eng_x_preferred":[
+        "Bistrica ob Sotli"
+    ],
+    "name:fra_x_preferred":[
+        "Bistrica ob Sotli"
+    ],
+    "name:fre_x_preferred":[
+        "Bistrica ob Sotli"
+    ],
+    "name:ger_x_preferred":[
+        "Bistrica ob Sotli"
+    ],
+    "name:hbs_x_preferred":[
+        "Bistrica ob Sotli"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Bistrica ob Sotli"
+    ],
+    "name:hun_x_preferred":[
+        "Bistrica ob Sotli"
+    ],
+    "name:ita_x_preferred":[
+        "Bistrica ob Sotli"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30b9\u30c8\u30ea\u30c4\u30a1\u30fb\u30aa\u30d7\u30fb\u30bd\u30c8\u30ea"
+    ],
+    "name:kor_x_preferred":[
+        "\ube44\uc2a4\ud2b8\ub9ac\ucc28\uc624\ube0c\uc18c\ud2c0\ub9ac"
+    ],
+    "name:nld_x_preferred":[
+        "Bistrica ob Sotli"
+    ],
+    "name:oci_x_preferred":[
+        "Bistrica ob Sotli"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Bistrica ob Sotli"
+    ],
+    "name:por_x_preferred":[
+        "Bistrica ob Sotli"
+    ],
+    "name:ron_x_preferred":[
+        "Bistrica ob Sotli"
+    ],
+    "name:rum_x_preferred":[
+        "Bistrica ob Sotli"
+    ],
+    "name:sco_x_preferred":[
+        "Municipality o Bistrica ob Sotli"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Bistrica ob Sotli"
+    ],
+    "name:spa_x_preferred":[
+        "Bistrica ob Sotli"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0411\u0438\u0441\u0442\u0440\u0438\u0446\u0430 \u043e\u0431 \u0421\u043e\u0442\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Bistrica ob Sotli"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0438\u0441\u0442\u0440\u0438\u0446\u044f-\u043e\u0431-\u0421\u043e\u0442\u043b\u0456"
+    ],
+    "name:unk_x_variant":[
+        "\u0160ent Peter"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0644\u062f\u06cc\u06c1 \u0628\u06cc\u0633\u062a\u0631\u06cc\u062a\u0633\u0627 \u0627\u0648\u067e \u0633\u0648\u062a\u0644\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Bistrica ob Sotli"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bistrica ob Sotli",
+    "qs:loc_alt":"Bistrica ob Sotli",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959915,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204044,
+        "gp:id":55851627,
+        "qs:id":4,
+        "wd:id":"Q46690",
+        "wk:page":"Bistrica ob Sotli"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"325305ae631aebeda3c049a130235c37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959915,
+            "locality_id":101857907,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":101857907,
+    "wof:lastmodified":1544744138,
+    "wof:name":"Bistrica ob Sotli",
+    "wof:parent_id":1108959915,
+    "wof:placetype":"locality",
+    "wof:population":272,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.662962,
+    46.054113,
+    15.662962,
+    46.054113
+],
+  "geometry": {"coordinates":[15.662962,46.054113],"type":"Point"}
+}

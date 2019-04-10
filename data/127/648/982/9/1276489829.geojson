@@ -1,0 +1,67 @@
+{
+  "id": 1276489829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.07361,45.99583,14.07361,45.99583",
+    "geom:latitude":45.99583,
+    "geom:longitude":14.07361,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Treven",
+    "gn:country_code":"SI",
+    "gn:dem":792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218983,
+    "gn:latitude":45.99583,
+    "gn:longitude":14.07361,
+    "gn:modification_date":"2008-11-06",
+    "gn:name":"Treven",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959535,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218983
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"465b9ec3c6b463c70d9e1f4c0f88d784",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959535,
+            "locality_id":1276489829,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1276489829,
+    "wof:lastmodified":1537063514,
+    "wof:name":"Treven",
+    "wof:parent_id":1108959535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.07361,
+    45.99583,
+    14.07361,
+    45.99583
+],
+  "geometry": {"coordinates":[14.07361,45.99583],"type":"Point"}
+}

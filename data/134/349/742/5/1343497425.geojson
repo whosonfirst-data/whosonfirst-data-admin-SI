@@ -1,0 +1,71 @@
+{
+  "id": 1343497425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.00337,45.96857,15.00337,45.96857",
+    "geom:latitude":45.96857,
+    "geom:longitude":15.00337,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Gornje Ravne",
+    "gn:country_code":"SI",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218233,
+    "gn:latitude":45.96857,
+    "gn:longitude":15.00337,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Gornje Ravne",
+    "gn:population":15,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959907,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218233,
+        "wk:page":"Gornje_Ravne"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a4f97310608d9a289976e66fb95bd3d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959907,
+            "locality_id":1343497425,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1343497425,
+    "wof:lastmodified":1537573459,
+    "wof:name":"Gornje Ravne",
+    "wof:parent_id":1108959907,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.00337,
+    45.96857,
+    15.00337,
+    45.96857
+],
+  "geometry": {"coordinates":[15.00337,45.96857],"type":"Point"}
+}

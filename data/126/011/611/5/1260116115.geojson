@@ -1,0 +1,68 @@
+{
+  "id": 1260116115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.73449,46.07285,13.73449,46.07285",
+    "geom:latitude":46.07285,
+    "geom:longitude":13.73449,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Okroglo, Kal nad Kanalom",
+    "gn:country_code":"SI",
+    "gn:dem":765,
+    "gn:elevation":"770.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8224717,
+    "gn:latitude":46.07285,
+    "gn:longitude":13.73449,
+    "gn:modification_date":"2013-12-30",
+    "gn:name":"Okroglo, Kal nad Kanalom",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959537,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8224717
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1401507040cc03f510076df2f2b2d71e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959537,
+            "locality_id":1260116115,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1260116115,
+    "wof:lastmodified":1536941657,
+    "wof:name":"Okroglo, Kal nad Kanalom",
+    "wof:parent_id":1108959537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.73449,
+    46.07285,
+    13.73449,
+    46.07285
+],
+  "geometry": {"coordinates":[13.73449,46.07285],"type":"Point"}
+}

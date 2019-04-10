@@ -1,0 +1,74 @@
+{
+  "id": 1293235097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.05583,46.45889,16.05583,46.45889",
+    "geom:latitude":46.45889,
+    "geom:longitude":16.05583,
+    "gn:admin1_code":"P8",
+    "gn:asciiname":"Bratonecice",
+    "gn:country_code":"SI",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215477,
+    "gn:latitude":46.45889,
+    "gn:longitude":16.05583,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Bratone\u010dice",
+    "gn:population":62,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bratone\u0107ice"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959931,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215477,
+        "wk:page":"Bratone%C4%8Dice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b9ac89ca241441885d7abfcf1d7f2532",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959931,
+            "locality_id":1293235097,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1293235097,
+    "wof:lastmodified":1537700269,
+    "wof:name":"Bratonecice",
+    "wof:parent_id":1108959931,
+    "wof:placetype":"locality",
+    "wof:population":62,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.05583,
+    46.45889,
+    16.05583,
+    46.45889
+],
+  "geometry": {"coordinates":[16.05583,46.45889],"type":"Point"}
+}

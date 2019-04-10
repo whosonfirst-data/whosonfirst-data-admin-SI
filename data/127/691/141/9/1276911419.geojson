@@ -1,0 +1,74 @@
+{
+  "id": 1276911419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0915,46.02349,15.0915,46.02349",
+    "geom:latitude":46.02349,
+    "geom:longitude":15.0915,
+    "gn:admin1_code":"I5",
+    "gn:asciiname":"Jezevec",
+    "gn:country_code":"SI",
+    "gn:dem":709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989157,
+    "gn:latitude":46.02349,
+    "gn:longitude":15.0915,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Je\u017eevec",
+    "gn:population":15,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Je\u017eevec"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959907,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989157,
+        "wk:page":"Je%C5%BEevec"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"83c124b34a6e6c567e1ab8f64bdb4b0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959907,
+            "locality_id":1276911419,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1276911419,
+    "wof:lastmodified":1537700321,
+    "wof:name":"Jezevec",
+    "wof:parent_id":1108959907,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0915,
+    46.02349,
+    15.0915,
+    46.02349
+],
+  "geometry": {"coordinates":[15.0915,46.02349],"type":"Point"}
+}

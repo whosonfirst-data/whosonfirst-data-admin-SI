@@ -1,0 +1,104 @@
+{
+  "id": 1125790417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.320148,46.131836,14.320148,46.131836",
+    "geom:latitude":46.131836,
+    "geom:longitude":14.320148,
+    "gn:gn_country":null,
+    "iso:country":"SI",
+    "lbl:latitude":46.131836,
+    "lbl:longitude":14.320148,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Osolnik"
+    ],
+    "name:dut_x_preferred":[
+        "Osolnik"
+    ],
+    "name:eng_x_preferred":[
+        "Osolnik"
+    ],
+    "name:rum_x_preferred":[
+        "Osolnik"
+    ],
+    "name:slv_x_preferred":[
+        "Osolnik"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0441\u043e\u043b\u043d\u0438\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0441\u043e\u043b\u043d\u0438\u043a"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Osolnik",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Ljubljana",
+    "qs_pg:photos":164,
+    "qs_pg:photos_1k":33,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":164,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":46797,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":55848912,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Ljubljana",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959821,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55848912,
+        "qs_pg:id":46797,
+        "wd:id":"Q2451513"
+    },
+    "wof:country":"SI",
+    "wof:created":1497290844,
+    "wof:geomhash":"942c29ddb050e839790bc5c86454620c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959821,
+            "locality_id":1125790417,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1125790417,
+    "wof:lastmodified":1553816535,
+    "wof:name":"Osolnik",
+    "wof:parent_id":1108959821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.320148,
+    46.131836,
+    14.320148,
+    46.131836
+],
+  "geometry": {"coordinates":[14.320148,46.131836],"type":"Point"}
+}

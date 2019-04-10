@@ -1,0 +1,75 @@
+{
+  "id": 1193054505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.66667,46.21667,14.66667,46.21667",
+    "geom:latitude":46.21667,
+    "geom:longitude":14.66667,
+    "gn:admin1_code":"H6",
+    "gn:asciiname":"Spodnje Palovce",
+    "gn:country_code":"SI",
+    "gn:dem":721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190214,
+    "gn:latitude":46.21667,
+    "gn:longitude":14.66667,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Spodnje Palov\u010de",
+    "gn:population":80,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Spodnje Palovi\u010de",
+        "Spodnje Palov\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959941,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190214,
+        "wk:page":"Spodnje_Palov%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6d26e724d171d0f867c9dcc8d97c5307",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959941,
+            "locality_id":1193054505,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1193054505,
+    "wof:lastmodified":1537700188,
+    "wof:name":"Spodnje Palovce",
+    "wof:parent_id":1108959941,
+    "wof:placetype":"locality",
+    "wof:population":80,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.66667,
+    46.21667,
+    14.66667,
+    46.21667
+],
+  "geometry": {"coordinates":[14.66667,46.21667],"type":"Point"}
+}

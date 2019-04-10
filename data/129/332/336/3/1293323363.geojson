@@ -1,0 +1,74 @@
+{
+  "id": 1293323363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23039,45.76618,15.23039,45.76618",
+    "geom:latitude":45.76618,
+    "geom:longitude":15.23039,
+    "gn:admin1_code":"J7",
+    "gn:asciiname":"Brezovica pri Stopicah",
+    "gn:country_code":"SI",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988856,
+    "gn:latitude":45.76618,
+    "gn:longitude":15.23039,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Brezovica pri Stopi\u010dah",
+    "gn:population":29,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brezovica pri Stopi\u010dah"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959465,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988856,
+        "wk:page":"Brezovica_pri_Stopi%C4%8Dah"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b41af172684bc6c8ce8f97977d394508",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959465,
+            "locality_id":1293323363,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1293323363,
+    "wof:lastmodified":1537700315,
+    "wof:name":"Brezovica pri Stopicah",
+    "wof:parent_id":1108959465,
+    "wof:placetype":"locality",
+    "wof:population":29,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23039,
+    45.76618,
+    15.23039,
+    45.76618
+],
+  "geometry": {"coordinates":[15.23039,45.76618],"type":"Point"}
+}

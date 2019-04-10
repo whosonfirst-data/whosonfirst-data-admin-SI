@@ -1,0 +1,71 @@
+{
+  "id": 1260010603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.04814,46.1748,15.04814,46.1748",
+    "geom:latitude":46.1748,
+    "geom:longitude":15.04814,
+    "gn:admin1_code":"D3",
+    "gn:asciiname":"Gabrsko",
+    "gn:country_code":"SI",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986998,
+    "gn:latitude":46.1748,
+    "gn:longitude":15.04814,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Gabrsko",
+    "gn:population":359,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959911,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986998,
+        "wk:page":"Gabrsko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"de5059c51951c46badc585cf12b421a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959911,
+            "locality_id":1260010603,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1260010603,
+    "wof:lastmodified":1537573466,
+    "wof:name":"Gabrsko",
+    "wof:parent_id":1108959911,
+    "wof:placetype":"locality",
+    "wof:population":359,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.04814,
+    46.1748,
+    15.04814,
+    46.1748
+],
+  "geometry": {"coordinates":[15.04814,46.1748],"type":"Point"}
+}

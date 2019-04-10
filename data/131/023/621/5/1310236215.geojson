@@ -1,0 +1,71 @@
+{
+  "id": 1310236215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.55856,46.07333,13.55856,46.07333",
+    "geom:latitude":46.07333,
+    "geom:longitude":13.55856,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Zapotok",
+    "gn:country_code":"SI",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989325,
+    "gn:latitude":46.07333,
+    "gn:longitude":13.55856,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Zapotok",
+    "gn:population":7,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959537,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989325,
+        "wk:page":"Zapotok%2C_Kanal"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"426a393731f0b4227a7779839216f7ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959537,
+            "locality_id":1310236215,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1310236215,
+    "wof:lastmodified":1537573538,
+    "wof:name":"Zapotok",
+    "wof:parent_id":1108959537,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.55856,
+    46.07333,
+    13.55856,
+    46.07333
+],
+  "geometry": {"coordinates":[13.55856,46.07333],"type":"Point"}
+}

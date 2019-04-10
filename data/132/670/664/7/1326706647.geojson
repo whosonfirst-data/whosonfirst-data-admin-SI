@@ -1,0 +1,74 @@
+{
+  "id": 1326706647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.07719,45.49359,15.07719,45.49359",
+    "geom:latitude":45.49359,
+    "geom:longitude":15.07719,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Stari Trg ob Kolpi",
+    "gn:country_code":"SI",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189941,
+    "gn:latitude":45.49359,
+    "gn:longitude":15.07719,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Stari Trg ob Kolpi",
+    "gn:population":97,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stari Trg"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959699,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189941,
+        "wk:page":"Stari_Trg_ob_Kolpi"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b69911c56a1a3dd94f8ebdce69809e64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959699,
+            "locality_id":1326706647,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1326706647,
+    "wof:lastmodified":1537700186,
+    "wof:name":"Stari Trg ob Kolpi",
+    "wof:parent_id":1108959699,
+    "wof:placetype":"locality",
+    "wof:population":97,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.07719,
+    45.49359000000001,
+    15.07719,
+    45.49359000000001
+],
+  "geometry": {"coordinates":[15.07719,45.49359000000001],"type":"Point"}
+}

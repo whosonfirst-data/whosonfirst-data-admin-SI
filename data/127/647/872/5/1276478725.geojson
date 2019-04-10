@@ -1,0 +1,78 @@
+{
+  "id": 1276478725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.09222,46.74417,16.09222,46.74417",
+    "geom:latitude":46.74417,
+    "geom:longitude":16.09222,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Bodonci",
+    "gn:country_code":"SI",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203850,
+    "gn:latitude":46.74417,
+    "gn:longitude":16.09222,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Bodonci",
+    "gn:population":431,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Radovci",
+        "Zenkovci",
+        "Bod\u00f3hegy",
+        "Tiborfa",
+        "Bodonci",
+        "Vadarci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959935,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203850
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a95934507ee5b1fcfbc6a44e24fe6ec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959935,
+            "locality_id":1276478725,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1276478725,
+    "wof:lastmodified":1537700264,
+    "wof:name":"Bodonci",
+    "wof:parent_id":1108959935,
+    "wof:placetype":"locality",
+    "wof:population":431,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.09222,
+    46.74417,
+    16.09222,
+    46.74417
+],
+  "geometry": {"coordinates":[16.09222,46.74417],"type":"Point"}
+}

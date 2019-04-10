@@ -1,0 +1,71 @@
+{
+  "id": 1310535331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.87906,46.68602,15.87906,46.68602",
+    "geom:latitude":46.68602,
+    "geom:longitude":15.87906,
+    "gn:admin1_code":"N9",
+    "gn:asciiname":"Mahovci",
+    "gn:country_code":"SI",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987729,
+    "gn:latitude":46.68602,
+    "gn:longitude":15.87906,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Mahovci",
+    "gn:population":110,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959667,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987729,
+        "wk:page":"Mahovci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a162e6e630323786038ed679631ef110",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959667,
+            "locality_id":1310535331,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1310535331,
+    "wof:lastmodified":1537573489,
+    "wof:name":"Mahovci",
+    "wof:parent_id":1108959667,
+    "wof:placetype":"locality",
+    "wof:population":110,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.87906,
+    46.68602,
+    15.87906,
+    46.68602
+],
+  "geometry": {"coordinates":[15.87906,46.68602],"type":"Point"}
+}

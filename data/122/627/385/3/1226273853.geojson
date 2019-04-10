@@ -1,0 +1,74 @@
+{
+  "id": 1226273853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.21667,45.91667,15.21667,45.91667",
+    "geom:latitude":45.91667,
+    "geom:longitude":15.21667,
+    "gn:admin1_code":"P3",
+    "gn:asciiname":"Celevec",
+    "gn:country_code":"SI",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202792,
+    "gn:latitude":45.91667,
+    "gn:longitude":15.21667,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"\u010celevec",
+    "gn:population":46,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010celevec"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959833,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202792,
+        "wk:page":"%C4%8Celevec%2C_%C5%A0marje%C5%A1ke_Toplice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3be3d93a907d32cb1e495a591197eca1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959833,
+            "locality_id":1226273853,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1226273853,
+    "wof:lastmodified":1537700258,
+    "wof:name":"Celevec",
+    "wof:parent_id":1108959833,
+    "wof:placetype":"locality",
+    "wof:population":46,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.21667,
+    45.91667,
+    15.21667,
+    45.91667
+],
+  "geometry": {"coordinates":[15.21667,45.91667],"type":"Point"}
+}

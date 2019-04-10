@@ -1,0 +1,74 @@
+{
+  "id": 1276366367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.51209,45.992,15.51209,45.992",
+    "geom:latitude":45.992,
+    "geom:longitude":15.51209,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Anze",
+    "gn:country_code":"SI",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204798,
+    "gn:latitude":45.992,
+    "gn:longitude":15.51209,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"An\u017ee",
+    "gn:population":110,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "An\u017ee"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204798,
+        "wk:page":"An%C5%BEe%2C_Kr%C5%A1ko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3c0107236779ae0ae52174d0d33445e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1276366367,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1276366367,
+    "wof:lastmodified":1537700267,
+    "wof:name":"Anze",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":110,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.51209,
+    45.992,
+    15.51209,
+    45.992
+],
+  "geometry": {"coordinates":[15.51209,45.992],"type":"Point"}
+}

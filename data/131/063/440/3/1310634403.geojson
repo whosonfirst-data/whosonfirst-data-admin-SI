@@ -1,0 +1,71 @@
+{
+  "id": 1310634403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.45228,45.96113,15.45228,45.96113",
+    "geom:latitude":45.96113,
+    "geom:longitude":15.45228,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Golek",
+    "gn:country_code":"SI",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218211,
+    "gn:latitude":45.96113,
+    "gn:longitude":15.45228,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Golek",
+    "gn:population":105,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218211,
+        "wk:page":"Golek%2C_Kr%C5%A1ko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"950ce01ae82732df2ae9c94a06036217",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1310634403,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1310634403,
+    "wof:lastmodified":1537573459,
+    "wof:name":"Golek",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":105,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.45228,
+    45.96113,
+    15.45228,
+    45.96113
+],
+  "geometry": {"coordinates":[15.45228,45.96113],"type":"Point"}
+}

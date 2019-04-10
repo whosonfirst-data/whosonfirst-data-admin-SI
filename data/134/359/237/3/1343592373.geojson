@@ -1,0 +1,71 @@
+{
+  "id": 1343592373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.37607,45.90964,15.37607,45.90964",
+    "geom:latitude":45.90964,
+    "geom:longitude":15.37607,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Smednik",
+    "gn:country_code":"SI",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190490,
+    "gn:latitude":45.90964,
+    "gn:longitude":15.37607,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Smednik",
+    "gn:population":79,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190490,
+        "wk:page":"Smednik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a5af18b7fd6113650d0413e661ec83a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1343592373,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1343592373,
+    "wof:lastmodified":1537573400,
+    "wof:name":"Smednik",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":79,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.37607,
+    45.90964,
+    15.37607,
+    45.90964
+],
+  "geometry": {"coordinates":[15.37607,45.90964],"type":"Point"}
+}

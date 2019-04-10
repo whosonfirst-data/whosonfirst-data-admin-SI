@@ -1,0 +1,70 @@
+{
+  "id": 1225875171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.64917,46.34056,15.64917,46.34056",
+    "geom:latitude":46.34056,
+    "geom:longitude":15.64917,
+    "gn:admin1_code":"O5",
+    "gn:asciiname":"Spodnja Loznica",
+    "gn:country_code":"SI",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190243,
+    "gn:latitude":46.34056,
+    "gn:longitude":15.64917,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Spodnja Lo\u017enica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Spodnja Lo\u017enica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959773,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190243
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4b5d5ce83b1f92f939cc25933acf5a14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959773,
+            "locality_id":1225875171,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1225875171,
+    "wof:lastmodified":1537700189,
+    "wof:name":"Spodnja Loznica",
+    "wof:parent_id":1108959773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.64917,
+    46.34056,
+    15.64917,
+    46.34056
+],
+  "geometry": {"coordinates":[15.64917,46.34056],"type":"Point"}
+}

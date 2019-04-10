@@ -1,0 +1,71 @@
+{
+  "id": 1226376241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.36698,45.82433,15.36698,45.82433",
+    "geom:latitude":45.82433,
+    "geom:longitude":15.36698,
+    "gn:admin1_code":"B4",
+    "gn:asciiname":"Mali Ban",
+    "gn:country_code":"SI",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195742,
+    "gn:latitude":45.82433,
+    "gn:longitude":15.36698,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Mali Ban",
+    "gn:population":26,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959937,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195742,
+        "wk:page":"Mali_Ban"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e7bc8d57dcbedd5dd76c397b9d9ede46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959937,
+            "locality_id":1226376241,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1226376241,
+    "wof:lastmodified":1537573422,
+    "wof:name":"Mali Ban",
+    "wof:parent_id":1108959937,
+    "wof:placetype":"locality",
+    "wof:population":26,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.36698,
+    45.82433,
+    15.36698,
+    45.82433
+],
+  "geometry": {"coordinates":[15.36698,45.82433],"type":"Point"}
+}

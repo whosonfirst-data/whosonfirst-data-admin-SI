@@ -1,0 +1,75 @@
+{
+  "id": 1343390155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.35,46.28333,14.35,46.28333",
+    "geom:latitude":46.28333,
+    "geom:longitude":14.35,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Mlaka pri Kranju",
+    "gn:country_code":"SI",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194977,
+    "gn:latitude":46.28333,
+    "gn:longitude":14.35,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Mlaka pri Kranju",
+    "gn:population":1566,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mlaka",
+        "Mlaka pri Kranju"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959933,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194977,
+        "wk:page":"Mlaka_pri_Kranju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"67da4b5ef4952c665c7e82e538b1549b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959933,
+            "locality_id":1343390155,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1343390155,
+    "wof:lastmodified":1537700218,
+    "wof:name":"Mlaka pri Kranju",
+    "wof:parent_id":1108959933,
+    "wof:placetype":"locality",
+    "wof:population":1566,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.35,
+    46.28333,
+    14.35,
+    46.28333
+],
+  "geometry": {"coordinates":[14.35,46.28333],"type":"Point"}
+}

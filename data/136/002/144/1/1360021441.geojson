@@ -1,0 +1,71 @@
+{
+  "id": 1360021441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.66256,45.84674,13.66256,45.84674",
+    "geom:latitude":45.84674,
+    "geom:longitude":13.66256,
+    "gn:admin1_code":"J5",
+    "gn:asciiname":"Novelo",
+    "gn:country_code":"SI",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988328,
+    "gn:latitude":45.84674,
+    "gn:longitude":13.66256,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Novelo",
+    "gn:population":56,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959481,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988328,
+        "wk:page":"Novelo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c427e8ea2c1e585677c3fe58c6646e3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959481,
+            "locality_id":1360021441,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1360021441,
+    "wof:lastmodified":1537573508,
+    "wof:name":"Novelo",
+    "wof:parent_id":1108959481,
+    "wof:placetype":"locality",
+    "wof:population":56,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.66256,
+    45.84674,
+    13.66256,
+    45.84674
+],
+  "geometry": {"coordinates":[13.66256,45.84674],"type":"Point"}
+}

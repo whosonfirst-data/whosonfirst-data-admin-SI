@@ -1,0 +1,71 @@
+{
+  "id": 1327262433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.83639,46.49278,13.83639,46.49278",
+    "geom:latitude":46.49278,
+    "geom:longitude":13.83639,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Srednji Vrh",
+    "gn:country_code":"SI",
+    "gn:dem":1020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190108,
+    "gn:latitude":46.49278,
+    "gn:longitude":13.83639,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Srednji Vrh",
+    "gn:population":32,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959843,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190108,
+        "wk:page":"Srednji_Vrh%2C_Kranjska_Gora"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1fd6e2169a427e2a609243a9aa73e4a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959843,
+            "locality_id":1327262433,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1327262433,
+    "wof:lastmodified":1537573396,
+    "wof:name":"Srednji Vrh",
+    "wof:parent_id":1108959843,
+    "wof:placetype":"locality",
+    "wof:population":32,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.83639,
+    46.49278,
+    13.83639,
+    46.49278
+],
+  "geometry": {"coordinates":[13.83639,46.49278],"type":"Point"}
+}

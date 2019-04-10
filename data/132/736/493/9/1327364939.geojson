@@ -1,0 +1,71 @@
+{
+  "id": 1327364939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.27719,45.62077,15.27719,45.62077",
+    "geom:latitude":45.62077,
+    "geom:longitude":15.27719,
+    "gn:admin1_code":"73",
+    "gn:asciiname":"Grm pri Podzemlju",
+    "gn:country_code":"SI",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988390,
+    "gn:latitude":45.62077,
+    "gn:longitude":15.27719,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Grm pri Podzemlju",
+    "gn:population":53,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959909,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988390,
+        "wk:page":"Grm_pri_Podzemlju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"80736a53061ce11da78ee7e7ecd6f992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959909,
+            "locality_id":1327364939,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1327364939,
+    "wof:lastmodified":1537573510,
+    "wof:name":"Grm pri Podzemlju",
+    "wof:parent_id":1108959909,
+    "wof:placetype":"locality",
+    "wof:population":53,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.27719,
+    45.62077,
+    15.27719,
+    45.62077
+],
+  "geometry": {"coordinates":[15.27719,45.62077],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 101791141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000043,
+    "geom:bbox":"15.8745772494,46.5687157856,15.8816726226,46.5787994524",
+    "geom:latitude":46.573225,
+    "geom:longitude":15.877438,
+    "iso:country":"SI",
+    "lbl:latitude":46.573126,
+    "lbl:longitude":15.877506,
+    "mps:latitude":46.573126,
+    "mps:longitude":15.877506,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"Sv. Trojica v Slov. goricah",
+    "qs:la_lc":"*SI204000",
+    "qs:level":"locality",
+    "qs:loc":"Sv. Trojica v Slov. goricah",
+    "qs:loc_alt":"Sv. Trojica v Slov. goricah",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1108959801,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55851656,
+        "qs:id":136303,
+        "qs_pg:id":136303
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6a21a6ac28b294439e14fa5f3a499ea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959801,
+            "locality_id":101791141,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":101791141,
+    "wof:lastmodified":1531508692,
+    "wof:name":"Sv. Trojica v Slov. goricah",
+    "wof:parent_id":1108959801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.87457724940049,
+    46.56871578561316,
+    15.88167262257895,
+    46.57879945241854
+],
+  "geometry": {"coordinates":[[[15.88167262257895,46.57395695745544],[15.88157324358286,46.57305968481933],[15.88027330844807,46.57313093606001],[15.87987592259708,46.56954183402132],[15.8785760712118,46.56961306399592],[15.8784767572771,46.56871578561316],[15.87457724940049,46.56892937709563],[15.87566922336009,46.57879945241854],[15.87826937643803,46.57865704329066],[15.8779713831351,46.57596522001631],[15.87927138975499,46.57589399604132],[15.87917204556857,46.574996721817],[15.88047202730934,46.57492548351479],[15.88037266571712,46.57402821008452],[15.88167262257895,46.57395695745544]]],"type":"Polygon"}
+}

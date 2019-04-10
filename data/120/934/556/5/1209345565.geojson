@@ -1,0 +1,70 @@
+{
+  "id": 1209345565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.9675,45.83556,13.9675,45.83556",
+    "geom:latitude":45.83556,
+    "geom:longitude":13.9675,
+    "gn:admin1_code":"E1",
+    "gn:asciiname":"Gradisce pri Vipavi",
+    "gn:country_code":"SI",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199686,
+    "gn:latitude":45.83556,
+    "gn:longitude":13.9675,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Gradi\u0161\u010de pri Vipavi",
+    "gn:population":225,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gradi\u0161\u010de",
+        "Gradischie di Vipacco",
+        "Gradi\u0161\u010de pri Vipavi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199686,
+        "wk:page":"Gradi%C5%A1%C4%8De_pri_Vipavi"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d5b34dfa63861d6fdfa8705452991e3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209345565
+        }
+    ],
+    "wof:id":1209345565,
+    "wof:lastmodified":1537700241,
+    "wof:name":"Gradisce pri Vipavi",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":225,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.9675,
+    45.83556,
+    13.9675,
+    45.83556
+],
+  "geometry": {"coordinates":[13.9675,45.83556],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1209838195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.36667,45.9375,14.36667,45.9375",
+    "geom:latitude":45.9375,
+    "geom:longitude":14.36667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Breg pri Borovnici",
+    "gn:country_code":"SI",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203466,
+    "gn:latitude":45.9375,
+    "gn:longitude":14.36667,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Breg pri Borovnici",
+    "gn:population":326,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Breg",
+        "Breg pri Borovnici"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959871,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203466,
+        "wk:page":"Breg_pri_Borovnici"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4bb76af8d69db18e53d8b603956a9769",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959871,
+            "locality_id":1209838195,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1209838195,
+    "wof:lastmodified":1537700262,
+    "wof:name":"Breg pri Borovnici",
+    "wof:parent_id":1108959871,
+    "wof:placetype":"locality",
+    "wof:population":326,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.36667,
+    45.9375,
+    14.36667,
+    45.9375
+],
+  "geometry": {"coordinates":[14.36667,45.9375],"type":"Point"}
+}

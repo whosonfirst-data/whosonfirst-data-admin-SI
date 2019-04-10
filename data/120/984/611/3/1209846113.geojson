@@ -1,0 +1,71 @@
+{
+  "id": 1209846113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.73837,46.16423,13.73837,46.16423",
+    "geom:latitude":46.16423,
+    "geom:longitude":13.73837,
+    "gn:admin1_code":"D2",
+    "gn:asciiname":"Modrejce",
+    "gn:country_code":"SI",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989796,
+    "gn:latitude":46.16423,
+    "gn:longitude":13.73837,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Modrejce",
+    "gn:population":112,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959617,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989796,
+        "wk:page":"Modrejce"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"50a03e1db0f51d307524864662d5eb82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959617,
+            "locality_id":1209846113,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1209846113,
+    "wof:lastmodified":1537573552,
+    "wof:name":"Modrejce",
+    "wof:parent_id":1108959617,
+    "wof:placetype":"locality",
+    "wof:population":112,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.73837,
+    46.16423,
+    13.73837,
+    46.16423
+],
+  "geometry": {"coordinates":[13.73837,46.16423],"type":"Point"}
+}

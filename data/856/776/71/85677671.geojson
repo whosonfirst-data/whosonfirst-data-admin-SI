@@ -1,0 +1,232 @@
+{
+  "id": 85677671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.008391,
+    "geom:area_square_m":71499533.251174,
+    "geom:bbox":"15.7814970227,46.384016629,15.9531144554,46.4973172061",
+    "geom:latitude":46.441203,
+    "geom:longitude":15.880616,
+    "gn:id":"",
+    "gn:population":23629,
+    "iso:country":"SI",
+    "lbl:latitude":46.422724,
+    "lbl:longitude":15.886467,
+    "mps:latitude":46.422724,
+    "mps:longitude":15.886467,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a\u0648\u062c"
+    ],
+    "name:bar_x_preferred":[
+        "Pettau"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u041f\u0442\u0443\u0439"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0442\u0443\u0439"
+    ],
+    "name:ces_x_preferred":[
+        "M\u011bstsk\u00e1 ob\u010dina Ptuj"
+    ],
+    "name:eng_x_preferred":[
+        "Ptuj"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u062a\u0648\u06cc"
+    ],
+    "name:hbs_x_preferred":[
+        "Ptuj"
+    ],
+    "name:hrv_x_preferred":[
+        "Gradska op\u0107ina Ptuj"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30c8\u30a5\u30a4"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10e2\u10e3\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ud504\ud22c\uc774"
+    ],
+    "name:lat_x_preferred":[
+        "Poetovium"
+    ],
+    "name:lit_x_preferred":[
+        "Ptujus"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0442\u0443\u0458"
+    ],
+    "name:pnb_x_preferred":[
+        "\u067e\u062a\u0648\u0626\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina miejska Ptuj"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna urban\u0103 Ptuj"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0442\u0443\u0439"
+    ],
+    "name:slv_x_preferred":[
+        "Mestna ob\u010dina Ptuj"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041f\u0442\u0443\u0458"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0442\u0443\u0458"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1e\u0e17\u0e39\u0e22"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0442\u0443\u0439"
+    ],
+    "name:und_x_preferred":[
+        "Ptuj"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Ptuj"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u56fe\u4f0a"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-216",
+    "ne:adm1_code":"SVN-216",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SI.PD.PT",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"216",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SIK7",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.K7",
+    "ne:gn_id":"3192240",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Mestna Obcina Ptuj",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI86",
+    "ne:gns_id":"-93439",
+    "ne:gns_lang":"mkd",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Ptuj, Mestna Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"46.42730000000",
+    "ne:longitude":"15.86730000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Ptuj",
+    "ne:name_alt":"",
+    "ne:name_len":4,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"PT",
+    "ne:provnum_ne":"47",
+    "ne:region":"Podravska",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":55848377,
+    "ne:woe_label":"Ptuj, SI, Slovenia",
+    "ne:woe_name":"Ptuj",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Ptuj",
+    "qs:a1_lc":"SVN-216",
+    "qs:a1r":"Podravska",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":103,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06f05f98-8f76-11e1-848f-cfd5bf3ef515",
+        "fips:code":"SIK7",
+        "gn:id":3192240,
+        "gp:id":55848377,
+        "hasc:id":"SI.PD.PT",
+        "qs:id":1059456,
+        "wd:id":"Q3441808",
+        "wk:page":"City Municipality of Ptuj"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8518f709704968b1c7d963370d73254d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677671
+        }
+    ],
+    "wof:id":85677671,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616731,
+    "wof:name":"Ptuj",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:population":23629,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[
+        1108959659
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7814970226695,
+    46.38401662896433,
+    15.95311445536788,
+    46.49731720612419
+],
+  "geometry": {"coordinates":[[[15.82340660992713,46.49494009111237],[15.84542076985269,46.4828478050822],[15.86996707532035,46.46000682195734],[15.88484988841168,46.45357310621392],[15.89291141123272,46.45225535749881],[15.90050784695961,46.45372813584487],[15.90546878435697,46.45654450132776],[15.90841434104902,46.46039439648428],[15.92241865409767,46.47096222642568],[15.9442777852916,46.48052236601444],[15.94350263803636,46.46000682195734],[15.95311445536788,46.45096344720537],[15.94303755094228,46.42052602835361],[15.94288252131133,46.4142215029201],[15.93916181826336,46.41050079987207],[15.93544111521533,46.40729686076156],[15.90407352127602,46.39360260697481],[15.89632205591818,46.39685822202938],[15.86950198732688,46.38401662896433],[15.87120730966967,46.38957184556426],[15.869346957696,46.39153554942612],[15.86345584521115,46.39344757734386],[15.86035525888815,46.39538544458264],[15.85787479018944,46.39784007396031],[15.85895999490788,46.40047557228991],[15.85864993744468,46.40652171530496],[15.85973514216312,46.4084337432227],[15.85973514216312,46.41125010780627],[15.8583398781829,46.41499665017534],[15.84743615055794,46.43068044714499],[15.81860070216072,46.4547875030409],[15.80480309378783,46.46682811132831],[15.8015474787332,46.46801666883425],[15.79606977739837,46.46920522723951],[15.7814970226695,46.46773244889346],[15.79472619026154,46.48000560207691],[15.80650841613055,46.48543162746768],[15.81627526219364,46.49731720612419],[15.82340660992713,46.49494009111237]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309940161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.91737,46.57015,15.91737,46.57015",
+    "geom:latitude":46.57015,
+    "geom:longitude":15.91737,
+    "gn:admin1_code":"F9",
+    "gn:asciiname":"Vanetina",
+    "gn:country_code":"SI",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188388,
+    "gn:latitude":46.57015,
+    "gn:longitude":15.91737,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Vanetina",
+    "gn:population":54,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959703,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188388,
+        "wk:page":"Vanetina"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0f00ffc1607d443e95c668fc192f01ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959703,
+            "locality_id":1309940161,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1309940161,
+    "wof:lastmodified":1537573390,
+    "wof:name":"Vanetina",
+    "wof:parent_id":1108959703,
+    "wof:placetype":"locality",
+    "wof:population":54,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.91737,
+    46.57015,
+    15.91737,
+    46.57015
+],
+  "geometry": {"coordinates":[15.91737,46.57015],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276908749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.45645,45.97909,15.45645,45.97909",
+    "geom:latitude":45.97909,
+    "geom:longitude":15.45645,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Dunaj",
+    "gn:country_code":"SI",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988640,
+    "gn:latitude":45.97909,
+    "gn:longitude":15.45645,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Dunaj",
+    "gn:population":39,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988640,
+        "wk:page":"Dunaj%2C_Kr%C5%A1ko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e26a7a58d0c0bee729533ca57983313e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1276908749,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1276908749,
+    "wof:lastmodified":1537573518,
+    "wof:name":"Dunaj",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":39,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.45645,
+    45.97909,
+    15.45645,
+    45.97909
+],
+  "geometry": {"coordinates":[15.45645,45.97909],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108943249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.5505619983,46.0429943488,14.5505619983,46.0429943488",
+    "geom:latitude":46.042994,
+    "geom:longitude":14.550562,
+    "iso:country":"SI",
+    "lbl:latitude":46.042994,
+    "lbl:longitude":14.550562,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:slv_x_preferred":[
+        "Zgornja Hru\u0161ica"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        1108959949,
+        102191581,
+        1108959501,
+        85633779,
+        101752073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"SI",
+    "wof:created":1491363623,
+    "wof:geomhash":"cbe4342f79559b36fcb0bd613d389f58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959501,
+            "locality_id":101752073,
+            "neighbourhood_id":1108943249,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1108943249,
+    "wof:lastmodified":1531170286,
+    "wof:name":"Zgornja Hrusica\n",
+    "wof:parent_id":101752073,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.55056199834381,
+    46.04299434877335,
+    14.55056199834381,
+    46.04299434877335
+],
+  "geometry": {"coordinates":[14.55056199834381,46.04299434877335],"type":"Point"}
+}

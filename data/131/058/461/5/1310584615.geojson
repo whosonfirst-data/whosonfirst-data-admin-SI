@@ -1,0 +1,71 @@
+{
+  "id": 1310584615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.05134,46.14642,14.05134,46.14642",
+    "geom:latitude":46.14642,
+    "geom:longitude":14.05134,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Gorenji Novaki",
+    "gn:country_code":"SI",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200349,
+    "gn:latitude":46.14642,
+    "gn:longitude":14.05134,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Gorenji Novaki",
+    "gn:population":226,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959577,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200349,
+        "wk:page":"Gorenji_Novaki"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ce92a3f00db99fbdad85d402073e77a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959577,
+            "locality_id":1310584615,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1310584615,
+    "wof:lastmodified":1537573439,
+    "wof:name":"Gorenji Novaki",
+    "wof:parent_id":1108959577,
+    "wof:placetype":"locality",
+    "wof:population":226,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.05134,
+    46.14642,
+    14.05134,
+    46.14642
+],
+  "geometry": {"coordinates":[14.05134,46.14642],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1360119505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.76,46.06167,14.76,46.06167",
+    "geom:latitude":46.06167,
+    "geom:longitude":14.76,
+    "gn:admin1_code":"I5",
+    "gn:asciiname":"Mala Stanga",
+    "gn:country_code":"SI",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195791,
+    "gn:latitude":46.06167,
+    "gn:longitude":14.76,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Mala \u0160tanga",
+    "gn:population":33,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mala \u0160tanga"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959907,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195791,
+        "wk:page":"Mala_%C5%A0tanga"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"59514cec85e4130c2c5913921b0da674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959907,
+            "locality_id":1360119505,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1360119505,
+    "wof:lastmodified":1537700221,
+    "wof:name":"Mala Stanga",
+    "wof:parent_id":1108959907,
+    "wof:placetype":"locality",
+    "wof:population":33,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.76,
+    46.06167,
+    14.76,
+    46.06167
+],
+  "geometry": {"coordinates":[14.76,46.06167],"type":"Point"}
+}

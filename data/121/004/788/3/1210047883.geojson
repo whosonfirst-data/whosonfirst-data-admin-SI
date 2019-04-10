@@ -1,0 +1,71 @@
+{
+  "id": 1210047883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.55532,46.21761,14.55532,46.21761",
+    "geom:latitude":46.21761,
+    "geom:longitude":14.55532,
+    "gn:admin1_code":"H8",
+    "gn:asciiname":"Mlaka",
+    "gn:country_code":"SI",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989739,
+    "gn:latitude":46.21761,
+    "gn:longitude":14.55532,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Mlaka",
+    "gn:population":282,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959837,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989739,
+        "wk:page":"Mlaka%2C_Komenda"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"482e2efded4de6ad192c5f118f6f5278",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959837,
+            "locality_id":1210047883,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1210047883,
+    "wof:lastmodified":1537573551,
+    "wof:name":"Mlaka",
+    "wof:parent_id":1108959837,
+    "wof:placetype":"locality",
+    "wof:population":282,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.55532,
+    46.21761,
+    14.55532,
+    46.21761
+],
+  "geometry": {"coordinates":[14.55532,46.21761],"type":"Point"}
+}

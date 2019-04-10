@@ -1,0 +1,74 @@
+{
+  "id": 1293424637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.50368,45.81156,14.50368,45.81156",
+    "geom:latitude":45.81156,
+    "geom:longitude":14.50368,
+    "gn:admin1_code":"F6",
+    "gn:asciiname":"Gradisko",
+    "gn:country_code":"SI",
+    "gn:dem":777,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199683,
+    "gn:latitude":45.81156,
+    "gn:longitude":14.50368,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Gradi\u0161ko",
+    "gn:population":4,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gradi\u0161ko"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959893,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199683,
+        "wk:page":"Gradi%C5%A1ko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"42a77be2fc04f0e1e313d57169165eb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959893,
+            "locality_id":1293424637,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1293424637,
+    "wof:lastmodified":1537700241,
+    "wof:name":"Gradisko",
+    "wof:parent_id":1108959893,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.50368,
+    45.81156,
+    14.50368,
+    45.81156
+],
+  "geometry": {"coordinates":[14.50368,45.81156],"type":"Point"}
+}

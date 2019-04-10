@@ -1,0 +1,71 @@
+{
+  "id": 1243491511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.13,46.30472,15.13,46.30472",
+    "geom:latitude":46.30472,
+    "geom:longitude":15.13,
+    "gn:admin1_code":"N5",
+    "gn:asciiname":"Kale",
+    "gn:country_code":"SI",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217235,
+    "gn:latitude":46.30472,
+    "gn:longitude":15.13,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Kale",
+    "gn:population":120,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959929,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217235,
+        "wk:page":"Kale%2C_%C5%BDalec"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"91faed4227f9b7d6bf9923b78f3538ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959929,
+            "locality_id":1243491511,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1243491511,
+    "wof:lastmodified":1537573458,
+    "wof:name":"Kale",
+    "wof:parent_id":1108959929,
+    "wof:placetype":"locality",
+    "wof:population":120,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.13,
+    46.30472,
+    15.13,
+    46.30472
+],
+  "geometry": {"coordinates":[15.13,46.30472],"type":"Point"}
+}

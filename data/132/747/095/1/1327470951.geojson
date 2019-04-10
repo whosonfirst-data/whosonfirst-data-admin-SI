@@ -1,0 +1,75 @@
+{
+  "id": 1327470951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.8975,45.59111,14.8975,45.59111",
+    "geom:latitude":45.59111,
+    "geom:longitude":14.8975,
+    "gn:admin1_code":"H7",
+    "gn:asciiname":"Crni Potok pri Kocevju",
+    "gn:country_code":"SI",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202412,
+    "gn:latitude":45.59111,
+    "gn:longitude":14.8975,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"\u010crni Potok pri Ko\u010devju",
+    "gn:population":141,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010crni Potok",
+        "\u010crni Potok pri Ko\u010devju"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959919,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202412,
+        "wk:page":"%C4%8Crni_Potok_pri_Ko%C4%8Devju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"834c11fa914a825482dc2945146fa84f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959919,
+            "locality_id":1327470951,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1327470951,
+    "wof:lastmodified":1537700256,
+    "wof:name":"Crni Potok pri Kocevju",
+    "wof:parent_id":1108959919,
+    "wof:placetype":"locality",
+    "wof:population":141,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.8975,
+    45.59111,
+    14.8975,
+    45.59111
+],
+  "geometry": {"coordinates":[14.8975,45.59111],"type":"Point"}
+}

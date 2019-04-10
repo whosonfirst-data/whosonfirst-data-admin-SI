@@ -1,0 +1,74 @@
+{
+  "id": 1293129447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.36819,46.0239,15.36819,46.0239",
+    "geom:latitude":46.0239,
+    "geom:longitude":15.36819,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Strzisce",
+    "gn:country_code":"SI",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988253,
+    "gn:latitude":46.0239,
+    "gn:longitude":15.36819,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Str\u017ei\u0161\u010de",
+    "gn:population":61,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Str\u017ei\u0161\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988253,
+        "wk:page":"Str%C5%BEi%C5%A1%C4%8De%2C_Sevnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7b010c6556daa18336b51afff356d516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1293129447,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1293129447,
+    "wof:lastmodified":1537700302,
+    "wof:name":"Strzisce",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":61,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.36819,
+    46.0239,
+    15.36819,
+    46.0239
+],
+  "geometry": {"coordinates":[15.36819,46.0239],"type":"Point"}
+}

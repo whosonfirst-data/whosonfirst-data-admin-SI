@@ -1,0 +1,74 @@
+{
+  "id": 1259717893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.83322,46.22032,13.83322,46.22032",
+    "geom:latitude":46.22032,
+    "geom:longitude":13.83322,
+    "gn:admin1_code":"D2",
+    "gn:asciiname":"Kneske Ravne",
+    "gn:country_code":"SI",
+    "gn:dem":832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989220,
+    "gn:latitude":46.22032,
+    "gn:longitude":13.83322,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kne\u0161ke Ravne",
+    "gn:population":13,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kne\u0161ke Ravne"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959617,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989220,
+        "wk:page":"Kne%C5%A1ke_Ravne"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2d75a07fa8d0f44af0934e5383244b85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959617,
+            "locality_id":1259717893,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1259717893,
+    "wof:lastmodified":1537700322,
+    "wof:name":"Kneske Ravne",
+    "wof:parent_id":1108959617,
+    "wof:placetype":"locality",
+    "wof:population":13,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.83322,
+    46.22032,
+    13.83322,
+    46.22032
+],
+  "geometry": {"coordinates":[13.83322,46.22032],"type":"Point"}
+}

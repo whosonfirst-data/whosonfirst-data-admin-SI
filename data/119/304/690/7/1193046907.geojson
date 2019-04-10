@@ -1,0 +1,71 @@
+{
+  "id": 1193046907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.03548,46.43067,16.03548,46.43067",
+    "geom:latitude":46.43067,
+    "geom:longitude":16.03548,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Preclava",
+    "gn:country_code":"SI",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988583,
+    "gn:latitude":46.43067,
+    "gn:longitude":16.03548,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Preclava",
+    "gn:population":42,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959765,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988583,
+        "wk:page":"Preclava"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"654dbdb02a1eb8be8085c03a86e610e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959765,
+            "locality_id":1193046907,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1193046907,
+    "wof:lastmodified":1537573516,
+    "wof:name":"Preclava",
+    "wof:parent_id":1108959765,
+    "wof:placetype":"locality",
+    "wof:population":42,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.03548,
+    46.43067,
+    16.03548,
+    46.43067
+],
+  "geometry": {"coordinates":[16.03548,46.43067],"type":"Point"}
+}

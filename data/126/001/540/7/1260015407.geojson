@@ -1,0 +1,74 @@
+{
+  "id": 1260015407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.73333,46.56667,15.73333,46.56667",
+    "geom:latitude":46.56667,
+    "geom:longitude":15.73333,
+    "gn:admin1_code":"89",
+    "gn:asciiname":"Ruperce",
+    "gn:country_code":"SI",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191406,
+    "gn:latitude":46.56667,
+    "gn:longitude":15.73333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Ruper\u010de",
+    "gn:population":411,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ruper\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959553,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191406,
+        "wk:page":"Ruper%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8a358516a08ec5ac19a51ce19a5744f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959553,
+            "locality_id":1260015407,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1260015407,
+    "wof:lastmodified":1537700198,
+    "wof:name":"Ruperce",
+    "wof:parent_id":1108959553,
+    "wof:placetype":"locality",
+    "wof:population":411,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.73333,
+    46.56667,
+    15.73333,
+    46.56667
+],
+  "geometry": {"coordinates":[15.73333,46.56667],"type":"Point"}
+}

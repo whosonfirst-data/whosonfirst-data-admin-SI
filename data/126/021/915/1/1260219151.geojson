@@ -1,0 +1,74 @@
+{
+  "id": 1260219151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.84144,46.03062,14.84144,46.03062",
+    "geom:latitude":46.03062,
+    "geom:longitude":14.84144,
+    "gn:admin1_code":"L9",
+    "gn:asciiname":"Crni Potok",
+    "gn:country_code":"SI",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987021,
+    "gn:latitude":46.03062,
+    "gn:longitude":14.84144,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"\u010crni Potok",
+    "gn:population":326,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010crni Potok"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959745,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987021,
+        "wk:page":"%C4%8Crni_Potok%2C_%C5%A0martno_pri_Litiji"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f09d96435c733bc3510590f3499dfb6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959745,
+            "locality_id":1260219151,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1260219151,
+    "wof:lastmodified":1537700278,
+    "wof:name":"Crni Potok",
+    "wof:parent_id":1108959745,
+    "wof:placetype":"locality",
+    "wof:population":326,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.84144,
+    46.03062,
+    14.84144,
+    46.03062
+],
+  "geometry": {"coordinates":[14.84144,46.03062],"type":"Point"}
+}

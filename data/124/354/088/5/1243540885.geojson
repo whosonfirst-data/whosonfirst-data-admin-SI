@@ -1,0 +1,71 @@
+{
+  "id": 1243540885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.40333,45.775,14.40333,45.775",
+    "geom:latitude":45.775,
+    "geom:longitude":14.40333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Martinjak",
+    "gn:country_code":"SI",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195429,
+    "gn:latitude":45.775,
+    "gn:longitude":14.40333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Martinjak",
+    "gn:population":316,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959905,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195429,
+        "wk:page":"Martinjak"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5eb409eab8660bab0568a56d9d1ce336",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959905,
+            "locality_id":1243540885,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1243540885,
+    "wof:lastmodified":1537573421,
+    "wof:name":"Martinjak",
+    "wof:parent_id":1108959905,
+    "wof:placetype":"locality",
+    "wof:population":316,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.40333,
+    45.775,
+    14.40333,
+    45.775
+],
+  "geometry": {"coordinates":[14.40333,45.775],"type":"Point"}
+}

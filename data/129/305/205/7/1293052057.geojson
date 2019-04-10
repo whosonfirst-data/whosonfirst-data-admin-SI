@@ -1,0 +1,73 @@
+{
+  "id": 1293052057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.02938,46.42204,16.02938,46.42204",
+    "geom:latitude":46.42204,
+    "geom:longitude":16.02938,
+    "gn:admin1_code":"28",
+    "gn:country_code":"SI",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986911,
+    "gn:latitude":46.42204,
+    "gn:longitude":16.02938,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Zamu\u0161ani",
+    "gn:population":523,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zamu\u008aAni"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959719,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986911,
+        "wk:page":"Zamu%C5%A1ani"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d000d49585d0b1da626268eab1bad635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959719,
+            "locality_id":1293052057,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1293052057,
+    "wof:lastmodified":1537700276,
+    "wof:name":"",
+    "wof:parent_id":1108959719,
+    "wof:placetype":"locality",
+    "wof:population":523,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.02938,
+    46.42204,
+    16.02938,
+    46.42204
+],
+  "geometry": {"coordinates":[16.02938,46.42204],"type":"Point"}
+}

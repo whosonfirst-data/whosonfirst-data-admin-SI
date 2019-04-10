@@ -1,0 +1,65 @@
+{
+  "id": 1209082447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.32511,45.45962,15.32511,45.45962",
+    "geom:latitude":45.45962,
+    "geom:longitude":15.32511,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Balkovci",
+    "gn:country_code":"SI",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989685,
+    "gn:latitude":45.45962,
+    "gn:longitude":15.32511,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Balkovci",
+    "gn:population":55,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989685,
+        "wk:page":"Balkovci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e15c81d4df5fbed794df2aff0503b6e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209082447
+        }
+    ],
+    "wof:id":1209082447,
+    "wof:lastmodified":1537573549,
+    "wof:name":"Balkovci",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":55,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.32511,
+    45.45962,
+    15.32511,
+    45.45962
+],
+  "geometry": {"coordinates":[15.32511,45.45962],"type":"Point"}
+}

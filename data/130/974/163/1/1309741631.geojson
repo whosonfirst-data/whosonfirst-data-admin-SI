@@ -1,0 +1,74 @@
+{
+  "id": 1309741631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56667,46.63333,15.56667,46.63333",
+    "geom:latitude":46.63333,
+    "geom:longitude":15.56667,
+    "gn:admin1_code":"55",
+    "gn:asciiname":"Vrsnik",
+    "gn:country_code":"SI",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187138,
+    "gn:latitude":46.63333,
+    "gn:longitude":15.56667,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Vr\u0161nik",
+    "gn:population":118,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vr\u0161nik"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959469,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187138,
+        "wk:page":"Vr%C5%A1nik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6ded8b0a5f7658c5441f16b60e3f9a8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959469,
+            "locality_id":1309741631,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1309741631,
+    "wof:lastmodified":1537700173,
+    "wof:name":"Vrsnik",
+    "wof:parent_id":1108959469,
+    "wof:placetype":"locality",
+    "wof:population":118,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56667,
+    46.63333,
+    15.56667,
+    46.63333
+],
+  "geometry": {"coordinates":[15.56667,46.63333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293652833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.13747,45.5627,15.13747,45.5627",
+    "geom:latitude":45.5627,
+    "geom:longitude":15.13747,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Doblicka Gora",
+    "gn:country_code":"SI",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988126,
+    "gn:latitude":45.5627,
+    "gn:longitude":15.13747,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Dobli\u010dka Gora",
+    "gn:population":71,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dobli\u010dka Gora"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959699,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988126,
+        "wk:page":"Dobli%C4%8Dka_Gora"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"aee5afbe6339fdf8fb7ccd4af55b01f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959699,
+            "locality_id":1293652833,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1293652833,
+    "wof:lastmodified":1537700300,
+    "wof:name":"Doblicka Gora",
+    "wof:parent_id":1108959699,
+    "wof:placetype":"locality",
+    "wof:population":71,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.13747,
+    45.5627,
+    15.13747,
+    45.5627
+],
+  "geometry": {"coordinates":[15.13747,45.5627],"type":"Point"}
+}

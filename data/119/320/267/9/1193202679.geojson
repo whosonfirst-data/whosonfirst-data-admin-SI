@@ -1,0 +1,75 @@
+{
+  "id": 1193202679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.18695,45.59452,14.18695,45.59452",
+    "geom:latitude":45.59452,
+    "geom:longitude":14.18695,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Smrje",
+    "gn:country_code":"SI",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190434,
+    "gn:latitude":45.59452,
+    "gn:longitude":14.18695,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Smrje",
+    "gn:population":119,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Smeria",
+        "Smrje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959873,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190434,
+        "wk:page":"Smrje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"03a17d34ab4e6f706e23ea373f954bd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959873,
+            "locality_id":1193202679,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1193202679,
+    "wof:lastmodified":1537700190,
+    "wof:name":"Smrje",
+    "wof:parent_id":1108959873,
+    "wof:placetype":"locality",
+    "wof:population":119,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.18695,
+    45.59452,
+    14.18695,
+    45.59452
+],
+  "geometry": {"coordinates":[14.18695,45.59452],"type":"Point"}
+}

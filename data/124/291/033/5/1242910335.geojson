@@ -1,0 +1,74 @@
+{
+  "id": 1242910335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.9295,45.79222,13.9295,45.79222",
+    "geom:latitude":45.79222,
+    "geom:longitude":13.9295,
+    "gn:admin1_code":"B7",
+    "gn:asciiname":"Gradisce pri Stjaku",
+    "gn:country_code":"SI",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989672,
+    "gn:latitude":45.79222,
+    "gn:longitude":13.9295,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Gradi\u0161\u010de pri \u0160tjaku",
+    "gn:population":2,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gradi\u0161\u010de pri \u0160tjaku"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959789,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989672,
+        "wk:page":"Gradi%C5%A1%C4%8De_pri_%C5%A0tjaku"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ee308db49c4a16a51dd7137b2a9f1431",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959789,
+            "locality_id":1242910335,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1242910335,
+    "wof:lastmodified":1537700331,
+    "wof:name":"Gradisce pri Stjaku",
+    "wof:parent_id":1108959789,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.9295,
+    45.79222,
+    13.9295,
+    45.79222
+],
+  "geometry": {"coordinates":[13.9295,45.79222],"type":"Point"}
+}

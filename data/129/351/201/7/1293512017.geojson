@@ -1,0 +1,80 @@
+{
+  "id": 1293512017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.5727,45.85946,15.5727,45.85946",
+    "geom:latitude":45.85946,
+    "geom:longitude":15.5727,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Globocice",
+    "gn:country_code":"SI",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987880,
+    "gn:latitude":45.85946,
+    "gn:longitude":15.5727,
+    "gn:modification_date":"2015-12-03",
+    "gn:name":"Globo\u010dice",
+    "gn:population":94,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Globo\u010dica"
+    ],
+    "name:slv_x_preferred":[
+        "Globo\u010dica"
+    ],
+    "name:und_x_variant":[
+        "Globo\u010dice"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987880,
+        "wk:page":"Globo%C4%8Dice%2C_Bre%C5%BEice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1f450c89a743152b4911fa0dd32350dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1293512017,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1293512017,
+    "wof:lastmodified":1537700295,
+    "wof:name":"Globocice",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:population":94,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.5727,
+    45.85946,
+    15.5727,
+    45.85946
+],
+  "geometry": {"coordinates":[15.5727,45.85946],"type":"Point"}
+}

@@ -1,0 +1,101 @@
+{
+  "id": 1126051459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.697633,45.904672,13.697633,45.904672",
+    "geom:latitude":45.904672,
+    "geom:longitude":13.697633,
+    "gn:gn_country":null,
+    "iso:country":"SI",
+    "lbl:latitude":45.904672,
+    "lbl:longitude":13.697633,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Vol\u010dja Draga"
+    ],
+    "name:dut_x_preferred":[
+        "Vol\u010dja Draga"
+    ],
+    "name:eng_x_preferred":[
+        "Vol\u010dja Draga"
+    ],
+    "name:rum_x_preferred":[
+        "Vol\u010dja Draga"
+    ],
+    "name:slv_x_preferred":[
+        "Vol\u010dja Draga"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u043e\u043b\u0447\u044f \u0414\u0440\u0430\u0433\u0430"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Vol\u010dja Draga",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Nova Gorica",
+    "qs_pg:photos":112,
+    "qs_pg:photos_1k":23,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":112,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":977081,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":532116,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Nova Gorica",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959733,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":532116,
+        "qs_pg:id":977081,
+        "wd:id":"Q2713033"
+    },
+    "wof:country":"SI",
+    "wof:created":1497302777,
+    "wof:geomhash":"83f2bcb9454ffaf3b5d3e36e95033749",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959733,
+            "locality_id":1126051459,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1126051459,
+    "wof:lastmodified":1531508648,
+    "wof:name":"Vol\u010dja Draga",
+    "wof:parent_id":1108959733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.697633,
+    45.904672,
+    13.697633,
+    45.904672
+],
+  "geometry": {"coordinates":[13.697633,45.904672],"type":"Point"}
+}

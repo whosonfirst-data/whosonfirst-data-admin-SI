@@ -1,0 +1,71 @@
+{
+  "id": 1260220159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.53307,46.21593,14.53307,46.21593",
+    "geom:latitude":46.21593,
+    "geom:longitude":14.53307,
+    "gn:admin1_code":"H8",
+    "gn:asciiname":"Klanec",
+    "gn:country_code":"SI",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987038,
+    "gn:latitude":46.21593,
+    "gn:longitude":14.53307,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Klanec",
+    "gn:population":300,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959837,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987038,
+        "wk:page":"Klanec%2C_Komenda"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f951573054d4a257f0ea60a0551bcf80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959837,
+            "locality_id":1260220159,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1260220159,
+    "wof:lastmodified":1537573467,
+    "wof:name":"Klanec",
+    "wof:parent_id":1108959837,
+    "wof:placetype":"locality",
+    "wof:population":300,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.53307,
+    46.21593,
+    14.53307,
+    46.21593
+],
+  "geometry": {"coordinates":[14.53307,46.21593],"type":"Point"}
+}

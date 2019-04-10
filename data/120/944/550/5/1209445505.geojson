@@ -1,0 +1,68 @@
+{
+  "id": 1209445505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.13189,45.87296,15.13189,45.87296",
+    "geom:latitude":45.87296,
+    "geom:longitude":15.13189,
+    "gn:admin1_code":"J6",
+    "gn:asciiname":"Globocdol",
+    "gn:country_code":"SI",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988722,
+    "gn:latitude":45.87296,
+    "gn:longitude":15.13189,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Globo\u010ddol",
+    "gn:population":35,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Globo\u010ddol"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988722,
+        "wk:page":"Globo%C4%8Ddol"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e8c0ad7fdd55531a5d8474a0c65ef9cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209445505
+        }
+    ],
+    "wof:id":1209445505,
+    "wof:lastmodified":1537700312,
+    "wof:name":"Globocdol",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":35,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.13189,
+    45.87296,
+    15.13189,
+    45.87296
+],
+  "geometry": {"coordinates":[15.13189,45.87296],"type":"Point"}
+}

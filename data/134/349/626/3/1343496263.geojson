@@ -1,0 +1,75 @@
+{
+  "id": 1343496263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.75,46.2,14.75,46.2",
+    "geom:latitude":46.2,
+    "geom:longitude":14.75,
+    "gn:admin1_code":"H6",
+    "gn:asciiname":"Psajnovica",
+    "gn:country_code":"SI",
+    "gn:dem":620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192247,
+    "gn:latitude":46.2,
+    "gn:longitude":14.75,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"P\u0161ajnovica",
+    "gn:population":72,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pi\u0161ajnovica",
+        "P\u0161ajnovica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959941,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192247,
+        "wk:page":"P%C5%A1ajnovica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0652883b36432587ad3168e21903d00f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959941,
+            "locality_id":1343496263,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1343496263,
+    "wof:lastmodified":1537700203,
+    "wof:name":"Psajnovica",
+    "wof:parent_id":1108959941,
+    "wof:placetype":"locality",
+    "wof:population":72,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.75,
+    46.2,
+    14.75,
+    46.2
+],
+  "geometry": {"coordinates":[14.75,46.2],"type":"Point"}
+}

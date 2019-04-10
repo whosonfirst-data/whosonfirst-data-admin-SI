@@ -1,0 +1,71 @@
+{
+  "id": 1259719951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.61895,46.63756,15.61895,46.63756",
+    "geom:latitude":46.63756,
+    "geom:longitude":15.61895,
+    "gn:admin1_code":"55",
+    "gn:asciiname":"Plintovec",
+    "gn:country_code":"SI",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986881,
+    "gn:latitude":46.63756,
+    "gn:longitude":15.61895,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Plintovec",
+    "gn:population":669,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959469,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986881,
+        "wk:page":"Plintovec"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"316be0e1b98b80b4d926a3061bd7f69a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959469,
+            "locality_id":1259719951,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1259719951,
+    "wof:lastmodified":1537573463,
+    "wof:name":"Plintovec",
+    "wof:parent_id":1108959469,
+    "wof:placetype":"locality",
+    "wof:population":669,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.61895,
+    46.63756,
+    15.61895,
+    46.63756
+],
+  "geometry": {"coordinates":[15.61895,46.63756],"type":"Point"}
+}

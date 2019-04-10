@@ -1,0 +1,71 @@
+{
+  "id": 1276264353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.78333,46.23333,14.78333,46.23333",
+    "geom:latitude":46.23333,
+    "geom:longitude":14.78333,
+    "gn:admin1_code":"H6",
+    "gn:asciiname":"Zgornji Tuhinj",
+    "gn:country_code":"SI",
+    "gn:dem":962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186482,
+    "gn:latitude":46.23333,
+    "gn:longitude":14.78333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Zgornji Tuhinj",
+    "gn:population":372,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959941,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186482,
+        "wk:page":"Zgornji_Tuhinj"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a5f4b100fc3ae3b115feda75e1c6978c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959941,
+            "locality_id":1276264353,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1276264353,
+    "wof:lastmodified":1537573380,
+    "wof:name":"Zgornji Tuhinj",
+    "wof:parent_id":1108959941,
+    "wof:placetype":"locality",
+    "wof:population":372,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.78333,
+    46.23333,
+    14.78333,
+    46.23333
+],
+  "geometry": {"coordinates":[14.78333,46.23333],"type":"Point"}
+}

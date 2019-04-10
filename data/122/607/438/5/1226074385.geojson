@@ -1,0 +1,74 @@
+{
+  "id": 1226074385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.43176,45.99273,15.43176,45.99273",
+    "geom:latitude":45.99273,
+    "geom:longitude":15.43176,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Rozno",
+    "gn:country_code":"SI",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987195,
+    "gn:latitude":45.99273,
+    "gn:longitude":15.43176,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ro\u017eno",
+    "gn:population":224,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ro\u017eno"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987195,
+        "wk:page":"Ro%C5%BEno"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1d8651f042e41dacacd8ac7f0c88a0b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1226074385,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1226074385,
+    "wof:lastmodified":1537700281,
+    "wof:name":"Rozno",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":224,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.43176,
+    45.99273,
+    15.43176,
+    45.99273
+],
+  "geometry": {"coordinates":[15.43176,45.99273],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293234665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.50058,45.93283,15.50058,45.93283",
+    "geom:latitude":45.93283,
+    "geom:longitude":15.50058,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Zadovinek",
+    "gn:country_code":"SI",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988033,
+    "gn:latitude":45.93283,
+    "gn:longitude":15.50058,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u017dadovinek",
+    "gn:population":79,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017dadovinek"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988033,
+        "wk:page":"%C5%BDadovinek"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ad3bc622ccf9037e9b3e8eab9d553a56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1293234665,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1293234665,
+    "wof:lastmodified":1537700298,
+    "wof:name":"Zadovinek",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":79,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.50058,
+    45.93283,
+    15.50058,
+    45.93283
+],
+  "geometry": {"coordinates":[15.50058,45.93283],"type":"Point"}
+}

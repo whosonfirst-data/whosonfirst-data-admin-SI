@@ -1,0 +1,74 @@
+{
+  "id": 1209750059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.8788,45.96448,14.8788,45.96448",
+    "geom:latitude":45.96448,
+    "geom:longitude":14.8788,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Praproce pri Temenici",
+    "gn:country_code":"SI",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988422,
+    "gn:latitude":45.96448,
+    "gn:longitude":14.8788,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Prapro\u010de pri Temenici",
+    "gn:population":51,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Prapro\u010de pri Temenici"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959583,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988422,
+        "wk:page":"Prapro%C4%8De_pri_Temenici"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"833720770c72aa9682c9ead08c9f834a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959583,
+            "locality_id":1209750059,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1209750059,
+    "wof:lastmodified":1537700306,
+    "wof:name":"Praproce pri Temenici",
+    "wof:parent_id":1108959583,
+    "wof:placetype":"locality",
+    "wof:population":51,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.8788,
+    45.96448,
+    14.8788,
+    45.96448
+],
+  "geometry": {"coordinates":[14.8788,45.96448],"type":"Point"}
+}

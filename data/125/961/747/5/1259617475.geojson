@@ -1,0 +1,75 @@
+{
+  "id": 1259617475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.36667,45.98333,15.36667,45.98333",
+    "geom:latitude":45.98333,
+    "geom:longitude":15.36667,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Ponikve pri Studencu",
+    "gn:country_code":"SI",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192740,
+    "gn:latitude":45.98333,
+    "gn:longitude":15.36667,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Ponikve pri Studencu",
+    "gn:population":71,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ponikve",
+        "Ponikve pri Studencu"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192740,
+        "wk:page":"Ponikve_pri_Studencu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"90ca66d525bd645a58f66199dd696f3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1259617475,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1259617475,
+    "wof:lastmodified":1537700206,
+    "wof:name":"Ponikve pri Studencu",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":71,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.36667,
+    45.98333,
+    15.36667,
+    45.98333
+],
+  "geometry": {"coordinates":[15.36667,45.98333],"type":"Point"}
+}

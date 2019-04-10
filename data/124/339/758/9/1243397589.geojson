@@ -1,0 +1,71 @@
+{
+  "id": 1243397589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.78192,45.86771,14.78192,45.86771",
+    "geom:latitude":45.86771,
+    "geom:longitude":14.78192,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Podbukovje",
+    "gn:country_code":"SI",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987435,
+    "gn:latitude":45.86771,
+    "gn:longitude":14.78192,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Podbukovje",
+    "gn:population":153,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959583,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987435,
+        "wk:page":"Podbukovje%2C_Ivan%C4%8Dna_Gorica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1682789f0c942d74524dd3ec1711fafe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959583,
+            "locality_id":1243397589,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1243397589,
+    "wof:lastmodified":1537573479,
+    "wof:name":"Podbukovje",
+    "wof:parent_id":1108959583,
+    "wof:placetype":"locality",
+    "wof:population":153,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.78192,
+    45.86771,
+    14.78192,
+    45.86771
+],
+  "geometry": {"coordinates":[14.78192,45.86771],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309721627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.81739,45.86329,13.81739,45.86329",
+    "geom:latitude":45.86329,
+    "geom:longitude":13.81739,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Brje",
+    "gn:country_code":"SI",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989733,
+    "gn:latitude":45.86329,
+    "gn:longitude":13.81739,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Brje",
+    "gn:population":384,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959545,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989733,
+        "wk:page":"Brje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"91ad0223e80c2a8e86fab738f5113a53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959545,
+            "locality_id":1309721627,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1309721627,
+    "wof:lastmodified":1537573551,
+    "wof:name":"Brje",
+    "wof:parent_id":1108959545,
+    "wof:placetype":"locality",
+    "wof:population":384,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.81739,
+    45.86329,
+    13.81739,
+    45.86329
+],
+  "geometry": {"coordinates":[13.81739,45.86329],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1210053517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.85863,46.13404,14.85863,46.13404",
+    "geom:latitude":46.13404,
+    "geom:longitude":14.85863,
+    "gn:admin1_code":"E7",
+    "gn:asciiname":"Vidrga",
+    "gn:country_code":"SI",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987738,
+    "gn:latitude":46.13404,
+    "gn:longitude":14.85863,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Vidrga",
+    "gn:population":109,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959683,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987738,
+        "wk:page":"Vidrga"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d7c0a15bfef658d5d2a6f12df5fe9780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959683,
+            "locality_id":1210053517,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1210053517,
+    "wof:lastmodified":1537573490,
+    "wof:name":"Vidrga",
+    "wof:parent_id":1108959683,
+    "wof:placetype":"locality",
+    "wof:population":109,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.85863,
+    46.13404,
+    14.85863,
+    46.13404
+],
+  "geometry": {"coordinates":[14.85863,46.13404],"type":"Point"}
+}

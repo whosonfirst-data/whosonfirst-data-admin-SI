@@ -1,0 +1,71 @@
+{
+  "id": 1259617085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2382,46.50045,16.2382,46.50045",
+    "geom:latitude":46.50045,
+    "geom:longitude":16.2382,
+    "gn:admin1_code":"I6",
+    "gn:asciiname":"Presika",
+    "gn:country_code":"SI",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192501,
+    "gn:latitude":46.50045,
+    "gn:longitude":16.2382,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Presika",
+    "gn:population":144,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959499,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192501,
+        "wk:page":"Presika%2C_Ljutomer"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"44a287d55bcf88a6bb3aa6e6369c809f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959499,
+            "locality_id":1259617085,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1259617085,
+    "wof:lastmodified":1537573408,
+    "wof:name":"Presika",
+    "wof:parent_id":1108959499,
+    "wof:placetype":"locality",
+    "wof:population":144,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2382,
+    46.50045,
+    16.2382,
+    46.50045
+],
+  "geometry": {"coordinates":[16.2382,46.50045],"type":"Point"}
+}

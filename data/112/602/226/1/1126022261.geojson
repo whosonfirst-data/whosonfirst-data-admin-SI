@@ -1,0 +1,116 @@
+{
+  "id": 1126022261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.30583,45.95667,14.30583,45.95667",
+    "geom:latitude":45.95667,
+    "geom:longitude":14.30583,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1846,
+    "gn:population":1891,
+    "iso:country":"SI",
+    "lbl:latitude":45.95667,
+    "lbl:longitude":14.30583,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Verd"
+    ],
+    "name:dut_x_preferred":[
+        "Verd"
+    ],
+    "name:eng_x_preferred":[
+        "Verd"
+    ],
+    "name:fre_x_preferred":[
+        "Verd"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0631\u062f"
+    ],
+    "name:rum_x_preferred":[
+        "Verd"
+    ],
+    "name:slv_x_preferred":[
+        "Verd"
+    ],
+    "name:spa_x_preferred":[
+        "Verd"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0440\u0434"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3187855,
+    "qs_pg:gn_pop":1846,
+    "qs_pg:name":"Verd",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Vrhnika",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":312865,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":532058,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Vrhnika",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959851,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187855,
+        "gp:id":532058,
+        "qs_pg:id":312865,
+        "wd:id":"Q1883359"
+    },
+    "wof:country":"SI",
+    "wof:created":1497300904,
+    "wof:geomhash":"fc203a5d0ee74bb12d4c02ced628922b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959851,
+            "locality_id":1126022261,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1126022261,
+    "wof:lastmodified":1553816706,
+    "wof:name":"Verd",
+    "wof:parent_id":1108959851,
+    "wof:placetype":"locality",
+    "wof:population":1891,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.30583,
+    45.95667,
+    14.30583,
+    45.95667
+],
+  "geometry": {"coordinates":[14.30583,45.95667],"type":"Point"}
+}

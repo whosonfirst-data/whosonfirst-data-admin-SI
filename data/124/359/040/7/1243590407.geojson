@@ -1,0 +1,75 @@
+{
+  "id": 1243590407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.22389,46.5125,16.22389,46.5125",
+    "geom:latitude":46.5125,
+    "geom:longitude":16.22389,
+    "gn:admin1_code":"I6",
+    "gn:asciiname":"Strocja Vas",
+    "gn:country_code":"SI",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189691,
+    "gn:latitude":46.5125,
+    "gn:longitude":16.22389,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Stro\u010dja Vas",
+    "gn:population":492,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stro\u010dja Ves",
+        "Stro\u010dja Vas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959499,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189691,
+        "wk:page":"Stro%C4%8Dja_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"81441ba6658d2d9007178fc2f3f49c82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959499,
+            "locality_id":1243590407,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1243590407,
+    "wof:lastmodified":1537700184,
+    "wof:name":"Strocja Vas",
+    "wof:parent_id":1108959499,
+    "wof:placetype":"locality",
+    "wof:population":492,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.22389,
+    46.5125,
+    16.22389,
+    46.5125
+],
+  "geometry": {"coordinates":[16.22389,46.5125],"type":"Point"}
+}

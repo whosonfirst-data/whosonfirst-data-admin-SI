@@ -1,0 +1,72 @@
+{
+  "id": 1326958861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.98,45.73444,14.98,45.73444",
+    "geom:latitude":45.73444,
+    "geom:longitude":14.98,
+    "gn:admin1_code":"G6",
+    "gn:asciiname":"Kunc",
+    "gn:country_code":"SI",
+    "gn:dem":800,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196949,
+    "gn:latitude":45.73444,
+    "gn:longitude":14.98,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kun\u010d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kun\u010de",
+        "Kun\u010d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959675,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196949,
+        "wk:page":"Kun%C4%8D"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8e92fcaf931fbc0cba6f9f5d7a847952",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959675,
+            "locality_id":1326958861,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1326958861,
+    "wof:lastmodified":1537700227,
+    "wof:name":"Kunc",
+    "wof:parent_id":1108959675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.98,
+    45.73444,
+    14.98,
+    45.73444
+],
+  "geometry": {"coordinates":[14.98,45.73444],"type":"Point"}
+}

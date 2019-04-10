@@ -1,0 +1,71 @@
+{
+  "id": 1260320705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.48879,46.21979,15.48879,46.21979",
+    "geom:latitude":46.21979,
+    "geom:longitude":15.48879,
+    "gn:admin1_code":"C5",
+    "gn:asciiname":"Predel",
+    "gn:country_code":"SI",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987776,
+    "gn:latitude":46.21979,
+    "gn:longitude":15.48879,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Predel",
+    "gn:population":105,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959607,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987776,
+        "wk:page":"Predel%2C_%C5%A0marje_pri_Jel%C5%A1ah"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f99315eb180cacfdd867b4e43a61078b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959607,
+            "locality_id":1260320705,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1260320705,
+    "wof:lastmodified":1537573491,
+    "wof:name":"Predel",
+    "wof:parent_id":1108959607,
+    "wof:placetype":"locality",
+    "wof:population":105,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.48879,
+    46.21979,
+    15.48879,
+    46.21979
+],
+  "geometry": {"coordinates":[15.48879,46.21979],"type":"Point"}
+}

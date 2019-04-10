@@ -1,0 +1,74 @@
+{
+  "id": 1226534151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.51476,46.01179,13.51476,46.01179",
+    "geom:latitude":46.01179,
+    "geom:longitude":13.51476,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Slovrenc",
+    "gn:country_code":"SI",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987732,
+    "gn:latitude":46.01179,
+    "gn:longitude":13.51476,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160lovrenc",
+    "gn:population":109,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160lovrenc"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959811,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987732,
+        "wk:page":"%C5%A0lovrenc"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4cc007d97627fe228c69fe0dc56e0433",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959811,
+            "locality_id":1226534151,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1226534151,
+    "wof:lastmodified":1537700292,
+    "wof:name":"Slovrenc",
+    "wof:parent_id":1108959811,
+    "wof:placetype":"locality",
+    "wof:population":109,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.51476,
+    46.01179000000001,
+    13.51476,
+    46.01179000000001
+],
+  "geometry": {"coordinates":[13.51476,46.01179000000001],"type":"Point"}
+}

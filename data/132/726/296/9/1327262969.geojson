@@ -1,0 +1,76 @@
+{
+  "id": 1327262969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.1,46.85,16.1,46.85",
+    "geom:latitude":46.85,
+    "geom:longitude":16.1,
+    "gn:admin1_code":"I2",
+    "gn:asciiname":"Matjasevci",
+    "gn:country_code":"SI",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195370,
+    "gn:latitude":46.85,
+    "gn:longitude":16.1,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Matja\u0161evci",
+    "gn:population":166,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Szentm\u00e1ty\u00e1s",
+        "Matja\u0161ovci",
+        "Matja\u0161evci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959511,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195370,
+        "wk:page":"Matja%C5%A1evci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"85a6b72aa6c783aa0e1b0af16502e5ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959511,
+            "locality_id":1327262969,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1327262969,
+    "wof:lastmodified":1537700219,
+    "wof:name":"Matjasevci",
+    "wof:parent_id":1108959511,
+    "wof:placetype":"locality",
+    "wof:population":166,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.1,
+    46.85,
+    16.1,
+    46.85
+],
+  "geometry": {"coordinates":[16.1,46.85],"type":"Point"}
+}

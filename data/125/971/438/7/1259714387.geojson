@@ -1,0 +1,71 @@
+{
+  "id": 1259714387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.21667,46.04028,15.21667,46.04028",
+    "geom:latitude":46.04028,
+    "geom:longitude":15.21667,
+    "gn:admin1_code":"99",
+    "gn:asciiname":"Vrhovo",
+    "gn:country_code":"SI",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187191,
+    "gn:latitude":46.04028,
+    "gn:longitude":15.21667,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Vrhovo",
+    "gn:population":250,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959883,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187191,
+        "wk:page":"Vrhovo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b33ba2dde2d81f5ef1b8c2b297d00759",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959883,
+            "locality_id":1259714387,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1259714387,
+    "wof:lastmodified":1537573385,
+    "wof:name":"Vrhovo",
+    "wof:parent_id":1108959883,
+    "wof:placetype":"locality",
+    "wof:population":250,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.21667,
+    46.04028,
+    15.21667,
+    46.04028
+],
+  "geometry": {"coordinates":[15.21667,46.04028],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1309942169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.30236,45.90363,15.30236,45.90363",
+    "geom:latitude":45.90363,
+    "geom:longitude":15.30236,
+    "gn:admin1_code":"B8",
+    "gn:asciiname":"Zavinek",
+    "gn:country_code":"SI",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988208,
+    "gn:latitude":45.90363,
+    "gn:longitude":15.30236,
+    "gn:modification_date":"2015-12-03",
+    "gn:name":"Zavinek",
+    "gn:population":64,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Zavinjek"
+    ],
+    "name:slv_x_preferred":[
+        "Zavinjek"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959605,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988208,
+        "wk:page":"Zavinek"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"64bf21d9e184ad1f1a5a63fb2af13d3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959605,
+            "locality_id":1309942169,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1309942169,
+    "wof:lastmodified":1537700301,
+    "wof:name":"Zavinek",
+    "wof:parent_id":1108959605,
+    "wof:placetype":"locality",
+    "wof:population":64,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.30236,
+    45.90363,
+    15.30236,
+    45.90363
+],
+  "geometry": {"coordinates":[15.30236,45.90363],"type":"Point"}
+}

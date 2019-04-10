@@ -1,0 +1,68 @@
+{
+  "id": 1209348263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.60222,45.9,14.60222,45.9",
+    "geom:latitude":45.9,
+    "geom:longitude":14.60222,
+    "gn:admin1_code":"D8",
+    "gn:asciiname":"Veliki Locnik",
+    "gn:country_code":"SI",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188041,
+    "gn:latitude":45.9,
+    "gn:longitude":14.60222,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Veliki Lo\u010dnik",
+    "gn:population":123,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Veliki Lo\u010dnik"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188041,
+        "wk:page":"Veliki_Lo%C4%8Dnik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"614040af6432758b33fc5a5cf6c251bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209348263
+        }
+    ],
+    "wof:id":1209348263,
+    "wof:lastmodified":1537700177,
+    "wof:name":"Veliki Locnik",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":123,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.60222,
+    45.9,
+    14.60222,
+    45.9
+],
+  "geometry": {"coordinates":[14.60222,45.9],"type":"Point"}
+}

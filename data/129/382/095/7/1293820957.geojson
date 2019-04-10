@@ -1,0 +1,71 @@
+{
+  "id": 1293820957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.85062,45.46573,14.85062,45.46573",
+    "geom:latitude":45.46573,
+    "geom:longitude":14.85062,
+    "gn:admin1_code":"H9",
+    "gn:asciiname":"Petrina",
+    "gn:country_code":"SI",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989710,
+    "gn:latitude":45.46573,
+    "gn:longitude":14.85062,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Petrina",
+    "gn:population":7,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959711,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989710,
+        "wk:page":"Petrina%2C_Kostel"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8e1e29dbc4396925333da959634406af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959711,
+            "locality_id":1293820957,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1293820957,
+    "wof:lastmodified":1537573550,
+    "wof:name":"Petrina",
+    "wof:parent_id":1108959711,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.85062,
+    45.46573,
+    14.85062,
+    45.46573
+],
+  "geometry": {"coordinates":[14.85062,45.46573],"type":"Point"}
+}

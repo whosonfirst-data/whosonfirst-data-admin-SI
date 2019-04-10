@@ -1,0 +1,65 @@
+{
+  "id": 1209651409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.58782,46.2506,15.58782,46.2506",
+    "geom:latitude":46.2506,
+    "geom:longitude":15.58782,
+    "gn:admin1_code":"A7",
+    "gn:asciiname":"Spodnja Kostrivnica",
+    "gn:country_code":"SI",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190245,
+    "gn:latitude":46.2506,
+    "gn:longitude":15.58782,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Spodnja Kostrivnica",
+    "gn:population":111,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190245,
+        "wk:page":"Spodnja_Kostrivnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"cfc10257a0e292c33a84ff18b0ac23d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209651409
+        }
+    ],
+    "wof:id":1209651409,
+    "wof:lastmodified":1537573399,
+    "wof:name":"Spodnja Kostrivnica",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":111,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.58782,
+    46.2506,
+    15.58782,
+    46.2506
+],
+  "geometry": {"coordinates":[15.58782,46.2506],"type":"Point"}
+}

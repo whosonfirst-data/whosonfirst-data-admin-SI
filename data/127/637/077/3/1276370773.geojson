@@ -1,0 +1,75 @@
+{
+  "id": 1276370773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.18528,46.75139,16.18528,46.75139",
+    "geom:latitude":46.75139,
+    "geom:longitude":16.18528,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Moscanci",
+    "gn:country_code":"SI",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194860,
+    "gn:latitude":46.75139,
+    "gn:longitude":16.18528,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Mo\u0161\u010danci",
+    "gn:population":273,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Musznya",
+        "Mo\u0161\u010danci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959935,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194860,
+        "wk:page":"Mo%C5%A1%C4%8Danci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"caa3b99744091f27bcceb07327412ddd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959935,
+            "locality_id":1276370773,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1276370773,
+    "wof:lastmodified":1537700217,
+    "wof:name":"Moscanci",
+    "wof:parent_id":1108959935,
+    "wof:placetype":"locality",
+    "wof:population":273,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.18528,
+    46.75139,
+    16.18528,
+    46.75139
+],
+  "geometry": {"coordinates":[16.18528,46.75139],"type":"Point"}
+}

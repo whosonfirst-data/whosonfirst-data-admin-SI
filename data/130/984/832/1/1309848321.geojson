@@ -1,0 +1,68 @@
+{
+  "id": 1309848321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.7575,45.86056,13.7575,45.86056",
+    "geom:latitude":45.86056,
+    "geom:longitude":13.7575,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Pedrovo",
+    "gn:country_code":"SI",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216597,
+    "gn:latitude":45.86056,
+    "gn:longitude":13.7575,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Pedrovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959487,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216597,
+        "wk:page":"Pedrovo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ed484a795e74ab692934a997355d4bdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959487,
+            "locality_id":1309848321,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1309848321,
+    "wof:lastmodified":1537573457,
+    "wof:name":"Pedrovo",
+    "wof:parent_id":1108959487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.7575,
+    45.86056,
+    13.7575,
+    45.86056
+],
+  "geometry": {"coordinates":[13.7575,45.86056],"type":"Point"}
+}

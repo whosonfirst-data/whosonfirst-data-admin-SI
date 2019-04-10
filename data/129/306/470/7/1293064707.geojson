@@ -1,0 +1,74 @@
+{
+  "id": 1293064707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.29424,45.54648,15.29424,45.54648",
+    "geom:latitude":45.54648,
+    "geom:longitude":15.29424,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Fuckovci",
+    "gn:country_code":"SI",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988522,
+    "gn:latitude":45.54648,
+    "gn:longitude":15.29424,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Fu\u010dkovci",
+    "gn:population":45,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fu\u010dkovci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959699,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988522,
+        "wk:page":"Fu%C4%8Dkovci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"268a99364d990c06401aa0d8edc6bb27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959699,
+            "locality_id":1293064707,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1293064707,
+    "wof:lastmodified":1537700308,
+    "wof:name":"Fuckovci",
+    "wof:parent_id":1108959699,
+    "wof:placetype":"locality",
+    "wof:population":45,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.29424,
+    45.54648,
+    15.29424,
+    45.54648
+],
+  "geometry": {"coordinates":[15.29424,45.54648],"type":"Point"}
+}

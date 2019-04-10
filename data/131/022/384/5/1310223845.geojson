@@ -1,0 +1,79 @@
+{
+  "id": 1310223845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.55733,45.84203,15.55733,45.84203",
+    "geom:latitude":45.84203,
+    "geom:longitude":15.55733,
+    "gn:asciiname":"Cedem",
+    "gn:country_code":"SI",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989902,
+    "gn:latitude":45.84203,
+    "gn:longitude":15.55733,
+    "gn:modification_date":"2015-12-03",
+    "gn:name":"\u010cedem",
+    "gn:population":12,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "\u010cedno"
+    ],
+    "name:slv_x_preferred":[
+        "\u010cedno"
+    ],
+    "name:und_x_variant":[
+        "\u010cedem"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989902,
+        "wk:page":"%C4%8Cedem"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"41dff36041edfe3df8526f71b2847934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1310223845,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1310223845,
+    "wof:lastmodified":1537700335,
+    "wof:name":"Cedem",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.55733,
+    45.84203,
+    15.55733,
+    45.84203
+],
+  "geometry": {"coordinates":[15.55733,45.84203],"type":"Point"}
+}

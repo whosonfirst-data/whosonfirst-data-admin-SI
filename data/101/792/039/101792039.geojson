@@ -1,0 +1,134 @@
+{
+  "id": 101792039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000111,
+    "geom:area_square_m":947649.011091,
+    "geom:bbox":"14.9511285049,46.3319432281,14.9739802339,46.3447567836",
+    "geom:latitude":46.338616,
+    "geom:longitude":14.960634,
+    "gn:population":2085,
+    "iso:country":"SI",
+    "lbl:latitude":46.337909,
+    "lbl:longitude":14.957951,
+    "mps:latitude":46.337909,
+    "mps:longitude":14.957951,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Mozirje"
+    ],
+    "name:dut_x_preferred":[
+        "Mozirje"
+    ],
+    "name:eng_x_preferred":[
+        "Mozirje"
+    ],
+    "name:hrv_x_preferred":[
+        "Mozirje"
+    ],
+    "name:ita_x_preferred":[
+        "Mozirje"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30b8\u30ea\u30a7"
+    ],
+    "name:nld_x_preferred":[
+        "Mozirje"
+    ],
+    "name:ron_x_preferred":[
+        "Mozirje"
+    ],
+    "name:rum_x_preferred":[
+        "Mozirje"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Mozirje"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u0437\u0438\u0440\u0458\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Mozirje"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0437\u0438\u0440\u0454"
+    ],
+    "name:und_x_preferred":[
+        "Mozirje"
+    ],
+    "name:und_x_variant":[
+        "Prassberg"
+    ],
+    "name:unk_x_variant":[
+        "Prassberg"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"Mozirje",
+    "qs:la_lc":"*SI079000",
+    "qs:level":"locality",
+    "qs:loc":"Mozirje",
+    "qs:loc_alt":"Mozirje",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959485,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06f2e04c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3194792,
+        "gp:id":530872,
+        "qs:id":211228,
+        "qs_pg:id":211228,
+        "wd:id":"Q2354085"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"945dbd9d1cb1c4432dd1bbff26a4ed85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959485,
+            "locality_id":101792039,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":101792039,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531170668,
+    "wof:name":"Mozirje",
+    "wof:parent_id":1108959485,
+    "wof:placetype":"locality",
+    "wof:population":2085,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.95112850487624,
+    46.33194322811806,
+    14.97398023391986,
+    46.34475678355341
+],
+  "geometry": {"coordinates":[[[14.97398023391986,46.34469655729316],[14.97364630401233,46.3411032895828],[14.97105584781946,46.34122371710907],[14.97097241753011,46.34032539642277],[14.96708677821226,46.34050591676453],[14.96675335203901,46.33691261432813],[14.96545821994658,46.33697275179577],[14.96537489400276,46.33607442359602],[14.96148954665563,46.33625473855329],[14.96140628902072,46.33535640629054],[14.96011118955022,46.33541647879554],[14.96002795708927,46.33451814479884],[14.958732876559,46.33457820048227],[14.95856646558758,46.3327815284519],[14.95727142556075,46.33284156615139],[14.95718824704721,46.33194322811806],[14.95589322595936,46.33200324899769],[14.95597638290945,46.33290158819347],[14.95468133763524,46.33296159457785],[14.95493076541857,46.33565661223167],[14.95363565282611,46.33571660644446],[14.95371878106181,46.3366149456848],[14.95112850487624,46.33673488945794],[14.95162709112304,46.34212492687504],[14.95292235995032,46.3420649558476],[14.95283923166352,46.34116661886401],[14.96320111522306,46.34068629616786],[14.96328441608665,46.3415846238459],[14.96587490385139,46.34146438424114],[14.96595825147068,46.34236270901977],[14.96984402810892,46.34218222866451],[14.96992744405969,46.34308054937657],[14.97122271924849,46.34302035677115],[14.97130616038908,46.34391867574698],[14.97260145451827,46.34385846631437],[14.9726849208501,46.34475678355341],[14.97398023391986,46.34469655729316]]],"type":"Polygon"}
+}

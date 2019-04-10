@@ -1,0 +1,65 @@
+{
+  "id": 1209645857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.31041,46.11425,15.31041,46.11425",
+    "geom:latitude":46.11425,
+    "geom:longitude":15.31041,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Velike Gorelce",
+    "gn:country_code":"SI",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988205,
+    "gn:latitude":46.11425,
+    "gn:longitude":15.31041,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Velike Gorelce",
+    "gn:population":64,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988205,
+        "wk:page":"Velike_Gorelce"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b1d9dd656106ca22cb8c1fa9cb8a676f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209645857
+        }
+    ],
+    "wof:id":1209645857,
+    "wof:lastmodified":1537573505,
+    "wof:name":"Velike Gorelce",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":64,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.31041,
+    46.11425,
+    15.31041,
+    46.11425
+],
+  "geometry": {"coordinates":[15.31041,46.11425],"type":"Point"}
+}

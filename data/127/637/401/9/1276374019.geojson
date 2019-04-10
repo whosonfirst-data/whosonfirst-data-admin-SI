@@ -1,0 +1,71 @@
+{
+  "id": 1276374019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.69015,46.43664,15.69015,46.43664",
+    "geom:latitude":46.43664,
+    "geom:longitude":15.69015,
+    "gn:admin1_code":"98",
+    "gn:asciiname":"Brezula",
+    "gn:country_code":"SI",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203324,
+    "gn:latitude":46.43664,
+    "gn:longitude":15.69015,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Brezula",
+    "gn:population":248,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959589,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203324,
+        "wk:page":"Brezula"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"45f7f20c1f450e91673fddc9ffe434f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959589,
+            "locality_id":1276374019,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1276374019,
+    "wof:lastmodified":1537573450,
+    "wof:name":"Brezula",
+    "wof:parent_id":1108959589,
+    "wof:placetype":"locality",
+    "wof:population":248,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.69015,
+    46.43664,
+    15.69015,
+    46.43664
+],
+  "geometry": {"coordinates":[15.69015,46.43664],"type":"Point"}
+}

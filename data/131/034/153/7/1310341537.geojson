@@ -1,0 +1,75 @@
+{
+  "id": 1310341537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.88472,45.85028,14.88472,45.85028",
+    "geom:latitude":45.85028,
+    "geom:longitude":14.88472,
+    "gn:admin1_code":"N8",
+    "gn:asciiname":"Smihel pri Zuzemberku",
+    "gn:country_code":"SI",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190486,
+    "gn:latitude":45.85028,
+    "gn:longitude":14.88472,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160mihel pri \u017du\u017eemberku",
+    "gn:population":116,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160mihel",
+        "\u0160mihel pri \u017du\u017eemberku"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959787,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190486,
+        "wk:page":"%C5%A0mihel_pri_%C5%BDu%C5%BEemberku"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3c03a3816ab335c740b21829330830e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959787,
+            "locality_id":1310341537,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1310341537,
+    "wof:lastmodified":1537700190,
+    "wof:name":"Smihel pri Zuzemberku",
+    "wof:parent_id":1108959787,
+    "wof:placetype":"locality",
+    "wof:population":116,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.88472,
+    45.85028,
+    14.88472,
+    45.85028
+],
+  "geometry": {"coordinates":[14.88472,45.85028],"type":"Point"}
+}

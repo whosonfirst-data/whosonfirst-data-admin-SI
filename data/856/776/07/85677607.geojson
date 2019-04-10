@@ -1,0 +1,178 @@
+{
+  "id": 85677607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003787,
+    "geom:area_square_m":32244093.917339,
+    "geom:bbox":"15.8234066099,46.4522553575,15.947223342,46.5063089058",
+    "geom:latitude":46.482762,
+    "geom:longitude":15.889456,
+    "iso:country":"SI",
+    "lbl:latitude":46.476385,
+    "lbl:longitude":15.890394,
+    "mps:latitude":46.476385,
+    "mps:longitude":15.890394,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:eng_x_preferred":[
+        "Destrnik"
+    ],
+    "name:eng_x_variant":[
+        "Municipality of Destrnik"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Destrnik"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30b9\u30c8\u30eb\u30cb\u30af"
+    ],
+    "name:kor_x_preferred":[
+        "\ub370\uc2a4\ud2b8\ub974\ub2c8\ud06c"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Destrnik"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Destrnik"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0414\u0435\u0441\u0442\u0440\u043d\u0438\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u0441\u0442\u0440\u043d\u0438\u043a"
+    ],
+    "name:und_x_preferred":[
+        "Ptuj"
+    ],
+    "name:unk_x_variant":[
+        "Ob\u010dina Destrnik"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-203",
+    "ne:adm1_code":"SVN-203",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"10",
+    "ne:code_hasc":"SI.PD.DE",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"203",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SI18",
+    "ne:fips_alt":"SIG1",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.G1",
+    "ne:gn_id":"3344926",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Destrnik",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI72",
+    "ne:gns_id":"9123443",
+    "ne:gns_lang":"kat",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Destrnik, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"46.47670000000",
+    "ne:longitude":"15.88530000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Destrnik",
+    "ne:name_alt":"",
+    "ne:name_len":8,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"DE",
+    "ne:provnum_ne":"128",
+    "ne:region":"Podravska",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":-55848377,
+    "ne:woe_label":"",
+    "ne:woe_name":"",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Destrnik",
+    "qs:a1_lc":"SVN-203",
+    "qs:a1r":"Podravska",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "qs:woeid":55848377,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "unlc:subdivision":"SI-018",
+    "wd:wordcount":203,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SI18",
+        "gn:id":3344926,
+        "gp:id":-55848377,
+        "hasc:id":"SI.PD.DE",
+        "unlc:id":"SI-018",
+        "wd:id":"Q1255557"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ac34357ae6b83e649d616bad8f83d6e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677607
+        }
+    ],
+    "wof:id":85677607,
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616731,
+    "wof:name":"Destrnik",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:shortcode":"DE",
+    "wof:subdivision":"SI-018",
+    "wof:superseded_by":[
+        1108959755
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.82340660992713,
+    46.45225535749881,
+    15.94722334198372,
+    46.50630890583142
+],
+  "geometry": {"coordinates":[[[15.88795047383536,46.4998493525656],[15.92861982584435,46.50408681955116],[15.94722334198372,46.48716278733281],[15.9442777852916,46.48052236601444],[15.92241865409767,46.47096222642568],[15.90841434104902,46.46039439648428],[15.90546878435697,46.45654450132776],[15.90050784695961,46.45372813584487],[15.89291141123272,46.45225535749881],[15.88484988841168,46.45357310621392],[15.86996707532035,46.46000682195734],[15.84542076985269,46.4828478050822],[15.82340660992713,46.49494009111237],[15.8544641464033,46.50630890583142],[15.86733157699075,46.5000560572413],[15.88795047383536,46.4998493525656]]],"type":"Polygon"}
+}

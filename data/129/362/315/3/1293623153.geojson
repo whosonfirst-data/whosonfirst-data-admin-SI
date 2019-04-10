@@ -1,0 +1,74 @@
+{
+  "id": 1293623153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.45453,46.1334,15.45453,46.1334",
+    "geom:latitude":46.1334,
+    "geom:longitude":15.45453,
+    "gn:admin1_code":"L7",
+    "gn:asciiname":"Zegar",
+    "gn:country_code":"SI",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987618,
+    "gn:latitude":46.1334,
+    "gn:longitude":15.45453,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u017degar",
+    "gn:population":123,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017degar"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959791,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987618,
+        "wk:page":"%C5%BDegar%2C_%C5%A0entjur"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"781e9de34b3abc2de4e86151d3bb909c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959791,
+            "locality_id":1293623153,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1293623153,
+    "wof:lastmodified":1537700290,
+    "wof:name":"Zegar",
+    "wof:parent_id":1108959791,
+    "wof:placetype":"locality",
+    "wof:population":123,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.45453,
+    46.1334,
+    15.45453,
+    46.1334
+],
+  "geometry": {"coordinates":[15.45453,46.1334],"type":"Point"}
+}

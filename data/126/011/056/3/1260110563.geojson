@@ -1,0 +1,74 @@
+{
+  "id": 1260110563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.14621,46.06029,15.14621,46.06029",
+    "geom:latitude":46.06029,
+    "geom:longitude":15.14621,
+    "gn:admin1_code":"99",
+    "gn:asciiname":"Zebnik",
+    "gn:country_code":"SI",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186651,
+    "gn:latitude":46.06029,
+    "gn:longitude":15.14621,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"\u017debnik",
+    "gn:population":151,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017debnik"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959883,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186651,
+        "wk:page":"%C5%BDebnik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1f6469e0940dadf562a48e9a772f8d8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959883,
+            "locality_id":1260110563,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1260110563,
+    "wof:lastmodified":1537700169,
+    "wof:name":"Zebnik",
+    "wof:parent_id":1108959883,
+    "wof:placetype":"locality",
+    "wof:population":151,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.14621,
+    46.06029,
+    15.14621,
+    46.06029
+],
+  "geometry": {"coordinates":[15.14621,46.06029],"type":"Point"}
+}

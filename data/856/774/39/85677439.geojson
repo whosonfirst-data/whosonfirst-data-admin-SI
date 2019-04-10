@@ -1,0 +1,126 @@
+{
+  "id": 85677439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.013915,
+    "geom:area_square_m":118788189.369664,
+    "geom:bbox":"14.1111080264,46.2731965205,14.2746122576,46.4252544218",
+    "geom:latitude":46.340071,
+    "geom:longitude":14.206298,
+    "gn:id":"",
+    "gn:population":18858,
+    "iso:country":"SI",
+    "lbl:latitude":46.3401,
+    "lbl:longitude":14.205059,
+    "mps:latitude":46.3401,
+    "mps:longitude":14.205059,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "Municipalitat de Radovljica"
+    ],
+    "name:eng_x_preferred":[
+        "Radovljica"
+    ],
+    "name:eng_x_variant":[
+        "Municipality of Radovljica"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Radovljica"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30c9\u30f4\u30ea\u30c4\u30a1"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\ub3c4\ube14\ub9ac\ucc28"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Radovljica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0434\u043e\u0432\u043b\u0438\u0446\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0420\u0430\u0434\u043e\u0432\u0459\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0434\u043e\u0432\u043b\u0438\u0446\u044f"
+    ],
+    "name:und_x_preferred":[
+        "Radovljica"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Radovljica"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u591a\u592b\u5229\u5bdf"
+    ],
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Radovljica",
+    "qs:a1_lc":"SVN-1016",
+    "qs:a1r":"Gorenjska",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Statistical Region",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":364,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06f05ffc-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3192062,
+        "gp:id":55848379,
+        "qs:id":1135574,
+        "wd:id":"Q604194"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a9e39655a54faa0a053cddb1d597bb11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677439
+        }
+    ],
+    "wof:id":85677439,
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1531169117,
+    "wof:name":"Radovljica",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:population":18858,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[
+        1108959825
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.11110802641434,
+    46.27319652050306,
+    14.27461225764961,
+    46.42525442175423
+],
+  "geometry": {"coordinates":[[[14.26717085065428,46.32613902389687],[14.26608564593585,46.29717438429043],[14.26763593864769,46.29035309491945],[14.27461225764961,46.27490184194653],[14.2343046399472,46.27319652050306],[14.22794843856963,46.27505687157742],[14.17906253410871,46.28415192317277],[14.18014773882715,46.29877635384571],[14.17518680232911,46.30378896718713],[14.1716211280127,46.30497752469307],[14.1649031923285,46.30430573202398],[14.15963219566936,46.30293630646543],[14.11110802641434,46.30670868635684],[14.11622399344259,46.31820669228506],[14.12909142403004,46.32595815674358],[14.13250206871555,46.33004059499751],[14.13606774303196,46.33655182600603],[14.15079552559308,46.3468095966856],[14.15219078867403,46.35184804934806],[14.14924523288124,46.35696401637631],[14.14273400187273,46.36605906797166],[14.13746300611291,46.37215688693084],[14.15932213730684,46.38171702741892],[14.16867557132059,46.3810452338505],[14.18014773882715,46.38176870426236],[14.19053470161526,46.38693634723467],[14.19487552318691,46.39368012134059],[14.20014651894672,46.40383454013198],[14.21456424314533,46.41698619245886],[14.22314253080322,46.42176626180361],[14.23818037262612,46.42525442175423],[14.25290815608656,46.41349803340756],[14.25523359515432,46.39019196228929],[14.24856733631356,46.35334666611578],[14.25042768738791,46.34750722957506],[14.25306318481819,46.34440664325206],[14.258334180578,46.34223623291587],[14.25631880077208,46.33750784041456],[14.26019453255168,46.33035065425935],[14.26717085065428,46.32613902389687]]],"type":"Polygon"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243120771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.75838,46.02835,13.75838,46.02835",
+    "geom:latitude":46.02835,
+    "geom:longitude":13.75838,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Kolenci",
+    "gn:country_code":"SI",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10858837,
+    "gn:latitude":46.02835,
+    "gn:longitude":13.75838,
+    "gn:modification_date":"2015-10-14",
+    "gn:name":"Kolenci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Kolenec"
+    ],
+    "name:slv_x_preferred":[
+        "Kolenec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959487,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10858837
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"360236b9eb86df18c09a8eced694b44c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959487,
+            "locality_id":1243120771,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1243120771,
+    "wof:lastmodified":1537700337,
+    "wof:name":"Kolenci",
+    "wof:parent_id":1108959487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.75838,
+    46.02835,
+    13.75838,
+    46.02835
+],
+  "geometry": {"coordinates":[13.75838,46.02835],"type":"Point"}
+}

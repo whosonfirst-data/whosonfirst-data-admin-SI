@@ -1,0 +1,74 @@
+{
+  "id": 1327263089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25,45.96667,15.25,45.96667",
+    "geom:latitude":45.96667,
+    "geom:longitude":15.25,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Kriz",
+    "gn:country_code":"SI",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197240,
+    "gn:latitude":45.96667,
+    "gn:longitude":15.25,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kri\u017e",
+    "gn:population":105,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kri\u017e"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197240,
+        "wk:page":"Kri%C5%BE%2C_Sevnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ce4ed1f22da954bfec5c16727f455ba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1327263089,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1327263089,
+    "wof:lastmodified":1537700228,
+    "wof:name":"Kriz",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":105,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25,
+    45.96667,
+    15.25,
+    45.96667
+],
+  "geometry": {"coordinates":[15.25,45.96667],"type":"Point"}
+}

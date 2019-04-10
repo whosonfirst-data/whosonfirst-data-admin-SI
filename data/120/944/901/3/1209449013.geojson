@@ -1,0 +1,68 @@
+{
+  "id": 1209449013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.025,46.31583,15.025,46.31583",
+    "geom:latitude":46.31583,
+    "geom:longitude":15.025,
+    "gn:admin1_code":"F7",
+    "gn:asciiname":"Letus",
+    "gn:country_code":"SI",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196623,
+    "gn:latitude":46.31583,
+    "gn:longitude":15.025,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Letu\u0161",
+    "gn:population":785,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Letu\u0161"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196623,
+        "wk:page":"Letu%C5%A1"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8a5919c2698709850797440cd1aa85cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209449013
+        }
+    ],
+    "wof:id":1209449013,
+    "wof:lastmodified":1537700225,
+    "wof:name":"Letus",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":785,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.025,
+    46.31583,
+    15.025,
+    46.31583
+],
+  "geometry": {"coordinates":[15.025,46.31583],"type":"Point"}
+}

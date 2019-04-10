@@ -1,0 +1,71 @@
+{
+  "id": 1243393737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.33912,46.36504,15.33912,46.36504",
+    "geom:latitude":46.36504,
+    "geom:longitude":15.33912,
+    "gn:admin1_code":"F3",
+    "gn:asciiname":"Mala Gora",
+    "gn:country_code":"SI",
+    "gn:dem":786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988683,
+    "gn:latitude":46.36504,
+    "gn:longitude":15.33912,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Mala Gora",
+    "gn:population":37,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959671,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988683,
+        "wk:page":"Mala_Gora%2C_Zre%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2195c5b87431a06a6b7d9a290bb8840c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959671,
+            "locality_id":1243393737,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1243393737,
+    "wof:lastmodified":1537573519,
+    "wof:name":"Mala Gora",
+    "wof:parent_id":1108959671,
+    "wof:placetype":"locality",
+    "wof:population":37,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.33912,
+    46.36504,
+    15.33912,
+    46.36504
+],
+  "geometry": {"coordinates":[15.33912,46.36504],"type":"Point"}
+}

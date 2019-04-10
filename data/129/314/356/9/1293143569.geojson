@@ -1,0 +1,77 @@
+{
+  "id": 1293143569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.18444,45.61028,14.18444,45.61028",
+    "geom:latitude":45.61028,
+    "geom:longitude":14.18444,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Dolnja Bitnja",
+    "gn:country_code":"SI",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201783,
+    "gn:latitude":45.61028,
+    "gn:longitude":14.18444,
+    "gn:modification_date":"2015-10-23",
+    "gn:name":"Dolnja Bitnja",
+    "gn:population":81,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Spodnje BItnje"
+    ],
+    "name:slv_x_preferred":[
+        "Spodnje BItnje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959873,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201783,
+        "wk:page":"Dolnja_Bitnja"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"210b28fb4e331a7b11b1a9332d595405",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959873,
+            "locality_id":1293143569,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1293143569,
+    "wof:lastmodified":1537700252,
+    "wof:name":"Dolnja Bitnja",
+    "wof:parent_id":1108959873,
+    "wof:placetype":"locality",
+    "wof:population":81,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.18444,
+    45.61028,
+    14.18444,
+    45.61028
+],
+  "geometry": {"coordinates":[14.18444,45.61028],"type":"Point"}
+}

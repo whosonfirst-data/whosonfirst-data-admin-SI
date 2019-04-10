@@ -1,0 +1,107 @@
+{
+  "id": 1126004929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.27288,45.69323,15.27288,45.69323",
+    "geom:latitude":45.69323,
+    "geom:longitude":15.27288,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":90,
+    "gn:population":94,
+    "iso:country":"SI",
+    "lbl:latitude":45.69323,
+    "lbl:longitude":15.27288,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Gornji Suhor pri Metliki"
+    ],
+    "name:eng_x_preferred":[
+        "Gornji Suhor pri Metliki"
+    ],
+    "name:hrv_x_preferred":[
+        "Gornji Suhor pri Metliki"
+    ],
+    "name:rum_x_preferred":[
+        "Gornji Suhor pri Metliki"
+    ],
+    "name:slv_x_preferred":[
+        "Gornji Suhor pri Metliki"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0456\u0439 \u0421\u0443\u0445\u043e\u0440-\u043f\u0440\u0438-\u041c\u0435\u0442\u043b\u0438\u043a\u0456"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6956377,
+    "qs_pg:gn_pop":90,
+    "qs_pg:name":"Gornji Suhor Pri Metliki",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Metlika",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":529110,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":55850245,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Metlika",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959909,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6956377,
+        "gp:id":55850245,
+        "qs_pg:id":529110,
+        "wd:id":"Q1901550"
+    },
+    "wof:country":"SI",
+    "wof:created":1497299884,
+    "wof:geomhash":"fb63c99e4a437a658e06f2b646ef3fd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959909,
+            "locality_id":1126004929,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1126004929,
+    "wof:lastmodified":1531170062,
+    "wof:name":"Gornji Suhor Pri Metliki",
+    "wof:parent_id":1108959909,
+    "wof:placetype":"locality",
+    "wof:population":94,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.27288,
+    45.69323,
+    15.27288,
+    45.69323
+],
+  "geometry": {"coordinates":[15.27288,45.69323],"type":"Point"}
+}

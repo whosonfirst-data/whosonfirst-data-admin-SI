@@ -1,0 +1,181 @@
+{
+  "id": 85677861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002506,
+    "geom:area_square_m":21553640.108161,
+    "geom:bbox":"13.5993062422,45.8971987981,13.6873096052,45.9459124482",
+    "geom:latitude":45.920152,
+    "geom:longitude":13.639608,
+    "iso:country":"SI",
+    "lbl:latitude":45.920277,
+    "lbl:longitude":13.636608,
+    "mps:latitude":45.920277,
+    "mps:longitude":13.636608,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:bos_x_preferred":[
+        "\u0160empeter\u2013Vrtojba"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u010dina \u0160empeter-Vrtojba"
+    ],
+    "name:deu_x_preferred":[
+        "\u0160empeter-Vrtojba"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160empeter-Vrtojba"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina \u0160empeter - Vrtojba"
+    ],
+    "name:hun_x_preferred":[
+        "\u0160empeter-Vrtojba"
+    ],
+    "name:ita_x_preferred":[
+        "San Pietro-Vertoiba"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30a7\u30f3\u30da\u30c6\u30eb\uff1d\u30f4\u30ed\u30c8\u30a4\u30d0"
+    ],
+    "name:kor_x_preferred":[
+        "\uc180\ud398\ud14c\ub974\ube0c\ub974\ud1a0\uc774\ubc14"
+    ],
+    "name:nld_x_preferred":[
+        "\u0160empeter-Vrtojba"
+    ],
+    "name:und_x_preferred":[
+        "Nova Gorica"
+    ],
+    "name:unk_x_variant":[
+        "Ob\u010dina \u0160empeter-Vrtojba"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-261",
+    "ne:adm1_code":"SVN-261",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"10",
+    "ne:code_hasc":"SI.SP.SV",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"261",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SI00",
+    "ne:fips_alt":"SIL6",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.L6",
+    "ne:gn_id":"3344898",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Sempeter-Vrtojba",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI72",
+    "ne:gns_id":"9123312",
+    "ne:gns_lang":"kat",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Sempeter-Vrtojba, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"45.91870000000",
+    "ne:longitude":"13.64310000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"\u0160empeter-Vrtojba",
+    "ne:name_alt":"",
+    "ne:name_len":16,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"SV",
+    "ne:provnum_ne":"93",
+    "ne:region":"Gori\u0161ka",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":-55848371,
+    "ne:woe_label":"",
+    "ne:woe_name":"",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"\u0160empeter-Vrtojba",
+    "qs:a1_lc":"SVN-261",
+    "qs:a1r":"Gori\u0161ka",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "qs:woeid":55848371,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "unlc:subdivision":"SI-183",
+    "wd:wordcount":151,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SI00",
+        "gn:id":3344898,
+        "gp:id":-55848371,
+        "hasc:id":"SI.SP.SV",
+        "unlc:id":"SI-183",
+        "wd:id":"Q391428"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1265a1ede03d2714eb6de5d7b3b6ae3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677861
+        }
+    ],
+    "wof:id":85677861,
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616732,
+    "wof:name":"\u0160empeter-Vrtojba",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:shortcode":"SV",
+    "wof:subdivision":"SI-183",
+    "wof:superseded_by":[
+        1108959629
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.59930624218936,
+    45.89719879808609,
+    13.68730960515421,
+    45.945912448201
+],
+  "geometry": {"coordinates":[[[13.66545047396028,45.92949656801227],[13.66948123537077,45.9298066272741],[13.67242679206288,45.92939321612408],[13.67444217276812,45.92843720171555],[13.67661258310426,45.92680939373861],[13.67924808143385,45.92587921775174],[13.68265872611937,45.92556916028855],[13.68622439863714,45.92575002744189],[13.68730960515421,45.92221019154715],[13.68637942916735,45.91528554938867],[13.6851391939187,45.91296011032091],[13.68250369558911,45.91171987597153],[13.67723269982929,45.91265005105907],[13.66653567867866,45.91006623047224],[13.64695031060842,45.89719879808609],[13.61361901190793,45.90402008745713],[13.59930624218936,45.9123274993147],[13.60824385576939,45.92655181891138],[13.61532517601609,45.945912448201],[13.63299767440321,45.94179555871813],[13.63935387488146,45.9408137067872],[13.6466402522459,45.93807485656941],[13.65578698068464,45.93182200797935],[13.6604895356636,45.92996165600567],[13.66545047396028,45.92949656801227]]],"type":"Polygon"}
+}

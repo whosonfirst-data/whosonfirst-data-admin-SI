@@ -1,0 +1,71 @@
+{
+  "id": 1343595505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.1,46.06667,14.1,46.06667",
+    "geom:latitude":46.06667,
+    "geom:longitude":14.1,
+    "gn:admin1_code":"F2",
+    "gn:asciiname":"Selo",
+    "gn:country_code":"SI",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191087,
+    "gn:latitude":46.06667,
+    "gn:longitude":14.1,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Selo",
+    "gn:population":298,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959673,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191087,
+        "wk:page":"Selo%2C_%C5%BDiri"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"50dcedafa548ecb5287806a1ffec8d36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959673,
+            "locality_id":1343595505,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1343595505,
+    "wof:lastmodified":1537573403,
+    "wof:name":"Selo",
+    "wof:parent_id":1108959673,
+    "wof:placetype":"locality",
+    "wof:population":298,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.1,
+    46.06667,
+    14.1,
+    46.06667
+],
+  "geometry": {"coordinates":[14.1,46.06667],"type":"Point"}
+}

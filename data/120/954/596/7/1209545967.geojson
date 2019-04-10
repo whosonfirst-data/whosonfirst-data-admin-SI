@@ -1,0 +1,65 @@
+{
+  "id": 1209545967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.24944,46.13639,14.24944,46.13639",
+    "geom:latitude":46.13639,
+    "geom:longitude":14.24944,
+    "gn:admin1_code":"B9",
+    "gn:asciiname":"Gabrk",
+    "gn:country_code":"SI",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3214735,
+    "gn:latitude":46.13639,
+    "gn:longitude":14.24944,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Gabrk",
+    "gn:population":108,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3214735,
+        "wk:page":"Gabrk%2C_%C5%A0kofja_Loka"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9517056ffb61e5f126a92f6da1ce5a5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209545967
+        }
+    ],
+    "wof:id":1209545967,
+    "wof:lastmodified":1537573455,
+    "wof:name":"Gabrk",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":108,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.24944,
+    46.13639000000001,
+    14.24944,
+    46.13639000000001
+],
+  "geometry": {"coordinates":[14.24944,46.13639000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1225880905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.43099,45.94439,15.43099,45.94439",
+    "geom:latitude":45.94439,
+    "geom:longitude":15.43099,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Brezovska Gora",
+    "gn:country_code":"SI",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989550,
+    "gn:latitude":45.94439,
+    "gn:longitude":15.43099,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Brezovska Gora",
+    "gn:population":65,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989550,
+        "wk:page":"Brezovska_Gora"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"019064f5a5ad9e8d808ae6dd5ee2536e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1225880905,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1225880905,
+    "wof:lastmodified":1537573545,
+    "wof:name":"Brezovska Gora",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":65,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.43099,
+    45.94439000000001,
+    15.43099,
+    45.94439000000001
+],
+  "geometry": {"coordinates":[15.43099,45.94439000000001],"type":"Point"}
+}

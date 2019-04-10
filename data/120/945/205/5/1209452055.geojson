@@ -1,0 +1,65 @@
+{
+  "id": 1209452055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.8,46.1,14.8,46.1",
+    "geom:latitude":46.1,
+    "geom:longitude":14.8,
+    "gn:admin1_code":"I5",
+    "gn:asciiname":"Vernek",
+    "gn:country_code":"SI",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187847,
+    "gn:latitude":46.1,
+    "gn:longitude":14.8,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Vernek",
+    "gn:population":50,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187847,
+        "wk:page":"Vernek"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5fa07883a21e14c068d77c14ffab10f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209452055
+        }
+    ],
+    "wof:id":1209452055,
+    "wof:lastmodified":1537573387,
+    "wof:name":"Vernek",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":50,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.8,
+    46.1,
+    14.8,
+    46.1
+],
+  "geometry": {"coordinates":[14.8,46.1],"type":"Point"}
+}

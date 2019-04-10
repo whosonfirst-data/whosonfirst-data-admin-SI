@@ -1,0 +1,74 @@
+{
+  "id": 1226783365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.10242,46.34538,15.10242,46.34538",
+    "geom:latitude":46.34538,
+    "geom:longitude":15.10242,
+    "gn:admin1_code":"D7",
+    "gn:asciiname":"Kavce",
+    "gn:country_code":"SI",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986919,
+    "gn:latitude":46.34538,
+    "gn:longitude":15.10242,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Kav\u010de",
+    "gn:population":489,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kav\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959593,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986919,
+        "wk:page":"Kav%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4c97a5ce69f8a32e611a33910ad2e616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959593,
+            "locality_id":1226783365,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1226783365,
+    "wof:lastmodified":1537700277,
+    "wof:name":"Kavce",
+    "wof:parent_id":1108959593,
+    "wof:placetype":"locality",
+    "wof:population":489,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.10242,
+    46.34538,
+    15.10242,
+    46.34538
+],
+  "geometry": {"coordinates":[15.10242,46.34538],"type":"Point"}
+}

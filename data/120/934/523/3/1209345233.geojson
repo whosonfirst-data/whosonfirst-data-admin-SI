@@ -1,0 +1,71 @@
+{
+  "id": 1209345233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.90885,45.51325,14.90885,45.51325",
+    "geom:latitude":45.51325,
+    "geom:longitude":14.90885,
+    "gn:admin1_code":"H9",
+    "gn:asciiname":"Dolenja Zaga",
+    "gn:country_code":"SI",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989679,
+    "gn:latitude":45.51325,
+    "gn:longitude":14.90885,
+    "gn:modification_date":"2015-11-04",
+    "gn:name":"Dolenja \u017daga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Spodnja \u017daga"
+    ],
+    "name:slv_x_preferred":[
+        "Spodnja \u017daga"
+    ],
+    "name:und_x_variant":[
+        "Dolenja \u017daga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989679,
+        "wk:page":"Dolenja_%C5%BDaga"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7e7211768f25cd9c20e06faf926e54e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209345233
+        }
+    ],
+    "wof:id":1209345233,
+    "wof:lastmodified":1537700331,
+    "wof:name":"Dolenja Zaga",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.90885,
+    45.51325,
+    14.90885,
+    45.51325
+],
+  "geometry": {"coordinates":[14.90885,45.51325],"type":"Point"}
+}

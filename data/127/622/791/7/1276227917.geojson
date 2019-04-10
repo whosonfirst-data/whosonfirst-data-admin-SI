@@ -1,0 +1,67 @@
+{
+  "id": 1276227917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.85278,46.3275,13.85278,46.3275",
+    "geom:latitude":46.3275,
+    "geom:longitude":13.85278,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Krstenica",
+    "gn:country_code":"SI",
+    "gn:dem":1669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218210,
+    "gn:latitude":46.3275,
+    "gn:longitude":13.85278,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Krstenica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959819,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218210
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"83e72c50ca65d000018d8ebf0e43125c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959819,
+            "locality_id":1276227917,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1276227917,
+    "wof:lastmodified":1536920715,
+    "wof:name":"Krstenica",
+    "wof:parent_id":1108959819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.85278,
+    46.3275,
+    13.85278,
+    46.3275
+],
+  "geometry": {"coordinates":[13.85278,46.3275],"type":"Point"}
+}

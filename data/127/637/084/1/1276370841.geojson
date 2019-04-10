@@ -1,0 +1,71 @@
+{
+  "id": 1276370841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.15,45.83333,15.15,45.83333",
+    "geom:latitude":45.83333,
+    "geom:longitude":15.15,
+    "gn:admin1_code":"J7",
+    "gn:asciiname":"Dolenje Kamence",
+    "gn:country_code":"SI",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201838,
+    "gn:latitude":45.83333,
+    "gn:longitude":15.15,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dolenje Kamence",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dolenje Kamnice",
+        "Dolenje Kamence"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959465,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201838
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2481b16598d5714854b4aa1801ed72e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959465,
+            "locality_id":1276370841,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1276370841,
+    "wof:lastmodified":1537700253,
+    "wof:name":"Dolenje Kamence",
+    "wof:parent_id":1108959465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.15,
+    45.83333,
+    15.15,
+    45.83333
+],
+  "geometry": {"coordinates":[15.15,45.83333],"type":"Point"}
+}

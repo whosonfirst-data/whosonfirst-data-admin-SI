@@ -1,0 +1,75 @@
+{
+  "id": 1276909369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.83975,45.67218,14.83975,45.67218",
+    "geom:latitude":45.67218,
+    "geom:longitude":14.83975,
+    "gn:admin1_code":"H7",
+    "gn:asciiname":"Stara Cerkev",
+    "gn:country_code":"SI",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190022,
+    "gn:latitude":45.67218,
+    "gn:longitude":14.83975,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Stara Cerkev",
+    "gn:population":309,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stari Cerkev",
+        "Stara Cerkev"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959919,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190022,
+        "wk:page":"Stara_Cerkev"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9272a65b85614234898410413d3c01db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959919,
+            "locality_id":1276909369,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1276909369,
+    "wof:lastmodified":1537700186,
+    "wof:name":"Stara Cerkev",
+    "wof:parent_id":1108959919,
+    "wof:placetype":"locality",
+    "wof:population":309,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.83975,
+    45.67218,
+    14.83975,
+    45.67218
+],
+  "geometry": {"coordinates":[14.83975,45.67218],"type":"Point"}
+}

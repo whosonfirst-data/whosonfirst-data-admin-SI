@@ -1,0 +1,71 @@
+{
+  "id": 1293234827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.77252,46.15773,14.77252,46.15773",
+    "geom:latitude":46.15773,
+    "geom:longitude":14.77252,
+    "gn:admin1_code":"77",
+    "gn:asciiname":"Limbarska Gora",
+    "gn:country_code":"SI",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987650,
+    "gn:latitude":46.15773,
+    "gn:longitude":14.77252,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Limbarska Gora",
+    "gn:population":118,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959515,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987650,
+        "wk:page":"Limbarska_Gora"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9a90eacb7d438a62c25cb817591d42ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959515,
+            "locality_id":1293234827,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1293234827,
+    "wof:lastmodified":1537573487,
+    "wof:name":"Limbarska Gora",
+    "wof:parent_id":1108959515,
+    "wof:placetype":"locality",
+    "wof:population":118,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.77252,
+    46.15773,
+    14.77252,
+    46.15773
+],
+  "geometry": {"coordinates":[14.77252,46.15773],"type":"Point"}
+}

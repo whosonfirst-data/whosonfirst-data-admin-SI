@@ -1,0 +1,75 @@
+{
+  "id": 1326972811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.27167,45.50278,14.27167,45.50278",
+    "geom:latitude":45.50278,
+    "geom:longitude":14.27167,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Jelsane",
+    "gn:country_code":"SI",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198671,
+    "gn:latitude":45.50278,
+    "gn:longitude":14.27167,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Jel\u0161ane",
+    "gn:population":325,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Elsane",
+        "Jel\u0161ane"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959873,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198671,
+        "wk:page":"Jel%C5%A1ane"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"40ff3ca9ebbede64630da8089d8b26d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959873,
+            "locality_id":1326972811,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1326972811,
+    "wof:lastmodified":1537700236,
+    "wof:name":"Jelsane",
+    "wof:parent_id":1108959873,
+    "wof:placetype":"locality",
+    "wof:population":325,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.27167,
+    45.50278,
+    14.27167,
+    45.50278
+],
+  "geometry": {"coordinates":[14.27167,45.50278],"type":"Point"}
+}

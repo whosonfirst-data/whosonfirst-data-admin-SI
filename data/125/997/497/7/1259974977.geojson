@@ -1,0 +1,71 @@
+{
+  "id": 1259974977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.66371,45.89716,15.66371,45.89716",
+    "geom:latitude":45.89716,
+    "geom:longitude":15.66371,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dobova",
+    "gn:country_code":"SI",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201979,
+    "gn:latitude":45.89716,
+    "gn:longitude":15.66371,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Dobova",
+    "gn:population":744,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201979,
+        "wk:page":"Dobova"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e6421c12ac08d47ddb008cc05e79a0d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1259974977,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1259974977,
+    "wof:lastmodified":1537573446,
+    "wof:name":"Dobova",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:population":744,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.66371,
+    45.89716,
+    15.66371,
+    45.89716
+],
+  "geometry": {"coordinates":[15.66371,45.89716],"type":"Point"}
+}

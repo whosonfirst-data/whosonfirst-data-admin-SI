@@ -1,0 +1,65 @@
+{
+  "id": 1209651551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.59555,46.27743,15.59555,46.27743",
+    "geom:latitude":46.27743,
+    "geom:longitude":15.59555,
+    "gn:admin1_code":"A7",
+    "gn:asciiname":"Drevenik",
+    "gn:country_code":"SI",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201197,
+    "gn:latitude":46.27743,
+    "gn:longitude":15.59555,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Drevenik",
+    "gn:population":66,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201197,
+        "wk:page":"Drevenik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6108421966791c5b38c416b01a442f58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209651551
+        }
+    ],
+    "wof:id":1209651551,
+    "wof:lastmodified":1537573443,
+    "wof:name":"Drevenik",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":66,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.59555,
+    46.27743,
+    15.59555,
+    46.27743
+],
+  "geometry": {"coordinates":[15.59555,46.27743],"type":"Point"}
+}

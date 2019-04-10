@@ -1,0 +1,74 @@
+{
+  "id": 1293234439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.21667,46.31667,14.21667,46.31667",
+    "geom:latitude":46.31667,
+    "geom:longitude":14.21667,
+    "gn:admin1_code":"A3",
+    "gn:asciiname":"Misace",
+    "gn:country_code":"SI",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195030,
+    "gn:latitude":46.31667,
+    "gn:longitude":14.21667,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Mi\u0161a\u010de",
+    "gn:population":75,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mi\u0161a\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959825,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195030,
+        "wk:page":"Mi%C5%A1a%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9766e0f7968d125170f915738d49f9ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959825,
+            "locality_id":1293234439,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1293234439,
+    "wof:lastmodified":1537700218,
+    "wof:name":"Misace",
+    "wof:parent_id":1108959825,
+    "wof:placetype":"locality",
+    "wof:population":75,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.21667,
+    46.31667,
+    14.21667,
+    46.31667
+],
+  "geometry": {"coordinates":[14.21667,46.31667],"type":"Point"}
+}

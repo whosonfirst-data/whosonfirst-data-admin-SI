@@ -1,0 +1,75 @@
+{
+  "id": 1260323207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.95,46.3,15.95,46.3",
+    "geom:latitude":46.3,
+    "geom:longitude":15.95,
+    "gn:admin1_code":"N2",
+    "gn:asciiname":"Gradisce",
+    "gn:country_code":"SI",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199691,
+    "gn:latitude":46.3,
+    "gn:longitude":15.95,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Gradi\u0161\u010de",
+    "gn:population":46,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gradi\u0161a",
+        "Gradi\u0161\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959747,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199691,
+        "wk:page":"Gradi%C5%A1%C4%8De%2C_Videm"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"664c65bf2ba3eec4db8702afb2b53816",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959747,
+            "locality_id":1260323207,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1260323207,
+    "wof:lastmodified":1537700242,
+    "wof:name":"Gradisce",
+    "wof:parent_id":1108959747,
+    "wof:placetype":"locality",
+    "wof:population":46,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.95,
+    46.3,
+    15.95,
+    46.3
+],
+  "geometry": {"coordinates":[15.95,46.3],"type":"Point"}
+}

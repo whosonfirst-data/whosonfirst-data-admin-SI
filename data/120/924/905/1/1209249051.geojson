@@ -1,0 +1,68 @@
+{
+  "id": 1209249051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0375,46.27833,15.0375,46.27833",
+    "geom:latitude":46.27833,
+    "geom:longitude":15.0375,
+    "gn:admin1_code":"F7",
+    "gn:asciiname":"Spodnje Gorce",
+    "gn:country_code":"SI",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190223,
+    "gn:latitude":46.27833,
+    "gn:longitude":15.0375,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Spodnje Gor\u010de",
+    "gn:population":76,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Spodnje Gor\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190223,
+        "wk:page":"Spodnje_Gor%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"60a4538318b14fec2aa1ac7a64ba20d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209249051
+        }
+    ],
+    "wof:id":1209249051,
+    "wof:lastmodified":1537700189,
+    "wof:name":"Spodnje Gorce",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":76,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0375,
+    46.27833,
+    15.0375,
+    46.27833
+],
+  "geometry": {"coordinates":[15.0375,46.27833],"type":"Point"}
+}

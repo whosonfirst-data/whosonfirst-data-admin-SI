@@ -1,0 +1,71 @@
+{
+  "id": 1327467583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.27841,46.64011,15.27841,46.64011",
+    "geom:latitude":46.64011,
+    "geom:longitude":15.27841,
+    "gn:admin1_code":"A2",
+    "gn:asciiname":"Radelca",
+    "gn:country_code":"SI",
+    "gn:dem":835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987827,
+    "gn:latitude":46.64011,
+    "gn:longitude":15.27841,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Radelca",
+    "gn:population":99,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959557,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987827,
+        "wk:page":"Radelca"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b3c4300d71b1d8451dff02a6e8603d67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959557,
+            "locality_id":1327467583,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1327467583,
+    "wof:lastmodified":1537573493,
+    "wof:name":"Radelca",
+    "wof:parent_id":1108959557,
+    "wof:placetype":"locality",
+    "wof:population":99,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.27841,
+    46.64011,
+    15.27841,
+    46.64011
+],
+  "geometry": {"coordinates":[15.27841,46.64011],"type":"Point"}
+}

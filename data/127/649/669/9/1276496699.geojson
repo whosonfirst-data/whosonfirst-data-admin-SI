@@ -1,0 +1,74 @@
+{
+  "id": 1276496699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.96389,46.62083,15.96389,46.62083",
+    "geom:latitude":46.62083,
+    "geom:longitude":15.96389,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Ivanjsevski Vrh",
+    "gn:country_code":"SI",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199056,
+    "gn:latitude":46.62083,
+    "gn:longitude":15.96389,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ivanj\u0161evski Vrh",
+    "gn:population":170,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ivanj\u0161evci ob \u0160\u010davnici",
+        "Ivanj\u0161evski Vrh"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959817,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199056
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4dc257317b36f55839b855e4f572d879",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959817,
+            "locality_id":1276496699,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1276496699,
+    "wof:lastmodified":1537700237,
+    "wof:name":"Ivanjsevski Vrh",
+    "wof:parent_id":1108959817,
+    "wof:placetype":"locality",
+    "wof:population":170,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.96389,
+    46.62083,
+    15.96389,
+    46.62083
+],
+  "geometry": {"coordinates":[15.96389,46.62083],"type":"Point"}
+}

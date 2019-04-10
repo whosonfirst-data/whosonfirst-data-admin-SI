@@ -1,0 +1,61 @@
+{
+  "id": 1209451505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.15083,45.82833,15.15083,45.82833",
+    "geom:latitude":45.82833,
+    "geom:longitude":15.15083,
+    "gn:admin1_code":"J7",
+    "gn:asciiname":"Donje Kamnice",
+    "gn:country_code":"SI",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218314,
+    "gn:latitude":45.82833,
+    "gn:longitude":15.15083,
+    "gn:modification_date":"2008-11-25",
+    "gn:name":"Donje Kamnice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218314
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3f8d92400c818baa0715c2a64285ee46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209451505
+        }
+    ],
+    "wof:id":1209451505,
+    "wof:lastmodified":1536286658,
+    "wof:name":"Donje Kamnice",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.15083,
+    45.82833,
+    15.15083,
+    45.82833
+],
+  "geometry": {"coordinates":[15.15083,45.82833],"type":"Point"}
+}

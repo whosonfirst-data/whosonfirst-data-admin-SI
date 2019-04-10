@@ -1,0 +1,74 @@
+{
+  "id": 1242611783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.8245,45.98869,14.8245,45.98869",
+    "geom:latitude":45.98869,
+    "geom:longitude":14.8245,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Pristava nad Sticno",
+    "gn:country_code":"SI",
+    "gn:dem":683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989127,
+    "gn:latitude":45.98869,
+    "gn:longitude":14.8245,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Pristava nad Sti\u010dno",
+    "gn:population":16,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pristava nad Sti\u010dno"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959583,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989127,
+        "wk:page":"Pristava_nad_Sti%C4%8Dno"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8d9badd1a39d3ea97942a8118be92906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959583,
+            "locality_id":1242611783,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1242611783,
+    "wof:lastmodified":1537700320,
+    "wof:name":"Pristava nad Sticno",
+    "wof:parent_id":1108959583,
+    "wof:placetype":"locality",
+    "wof:population":16,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.8245,
+    45.98869000000001,
+    14.8245,
+    45.98869000000001
+],
+  "geometry": {"coordinates":[14.8245,45.98869000000001],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1360121473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.09611,46.41611,16.09611,46.41611",
+    "geom:latitude":46.41611,
+    "geom:longitude":16.09611,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Trgovisce",
+    "gn:country_code":"SI",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188847,
+    "gn:latitude":46.41611,
+    "gn:longitude":16.09611,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Trgovi\u0161\u010de",
+    "gn:population":225,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trgovi\u010d",
+        "Trgovi\u0161\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959765,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188847,
+        "wk:page":"Trgovi%C5%A1%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"20b8bfb38445493255ddfb39208dde57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959765,
+            "locality_id":1360121473,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1360121473,
+    "wof:lastmodified":1537700181,
+    "wof:name":"Trgovisce",
+    "wof:parent_id":1108959765,
+    "wof:placetype":"locality",
+    "wof:population":225,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.09611,
+    46.41611,
+    16.09611,
+    46.41611
+],
+  "geometry": {"coordinates":[16.09611,46.41611],"type":"Point"}
+}

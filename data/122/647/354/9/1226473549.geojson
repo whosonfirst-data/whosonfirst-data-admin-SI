@@ -1,0 +1,74 @@
+{
+  "id": 1226473549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.4,46.31667,14.4,46.31667",
+    "geom:latitude":46.31667,
+    "geom:longitude":14.4,
+    "gn:admin1_code":"K5",
+    "gn:asciiname":"Baselj",
+    "gn:country_code":"SI",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204448,
+    "gn:latitude":46.31667,
+    "gn:longitude":14.4,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ba\u0161elj",
+    "gn:population":422,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ba\u0161elj"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959657,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204448,
+        "wk:page":"Ba%C5%A1elj"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d8163edc09f9c06265fd50387656d574",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959657,
+            "locality_id":1226473549,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1226473549,
+    "wof:lastmodified":1537700266,
+    "wof:name":"Baselj",
+    "wof:parent_id":1108959657,
+    "wof:placetype":"locality",
+    "wof:population":422,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.4,
+    46.31667,
+    14.4,
+    46.31667
+],
+  "geometry": {"coordinates":[14.4,46.31667],"type":"Point"}
+}

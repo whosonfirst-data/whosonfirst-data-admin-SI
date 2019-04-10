@@ -1,0 +1,71 @@
+{
+  "id": 1309755397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.64383,45.971,14.64383,45.971",
+    "geom:latitude":45.971,
+    "geom:longitude":14.64383,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Hrastje pri Grosupljem",
+    "gn:country_code":"SI",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989795,
+    "gn:latitude":45.971,
+    "gn:longitude":14.64383,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Hrastje pri Grosupljem",
+    "gn:population":112,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959533,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989795,
+        "wk:page":"Hrastje_pri_Grosupljem"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ddfa80c0f79b03d2d03d23de447accaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959533,
+            "locality_id":1309755397,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1309755397,
+    "wof:lastmodified":1537573552,
+    "wof:name":"Hrastje pri Grosupljem",
+    "wof:parent_id":1108959533,
+    "wof:placetype":"locality",
+    "wof:population":112,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.64383,
+    45.971,
+    14.64383,
+    45.971
+],
+  "geometry": {"coordinates":[14.64383,45.971],"type":"Point"}
+}

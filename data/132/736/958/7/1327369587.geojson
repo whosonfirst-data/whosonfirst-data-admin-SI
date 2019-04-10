@@ -1,0 +1,74 @@
+{
+  "id": 1327369587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.46053,46.22525,15.46053,46.22525",
+    "geom:latitude":46.22525,
+    "geom:longitude":15.46053,
+    "gn:admin1_code":"C5",
+    "gn:asciiname":"Sentvid pri Grobelnem",
+    "gn:country_code":"SI",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216450,
+    "gn:latitude":46.22525,
+    "gn:longitude":15.46053,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"\u0160entvid pri Grobelnem",
+    "gn:population":198,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160entvid pri Grobelnem"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959607,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216450,
+        "wk:page":"%C5%A0entvid_pri_Grobelnem"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"230e0dd520189dfd6c7026d3a045f923",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959607,
+            "locality_id":1327369587,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1327369587,
+    "wof:lastmodified":1537700270,
+    "wof:name":"Sentvid pri Grobelnem",
+    "wof:parent_id":1108959607,
+    "wof:placetype":"locality",
+    "wof:population":198,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.46053,
+    46.22525,
+    15.46053,
+    46.22525
+],
+  "geometry": {"coordinates":[15.46053,46.22525],"type":"Point"}
+}

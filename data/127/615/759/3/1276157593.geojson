@@ -1,0 +1,71 @@
+{
+  "id": 1276157593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.85339,45.85824,14.85339,45.85824",
+    "geom:latitude":45.85824,
+    "geom:longitude":14.85339,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Breg pri Zagradcu",
+    "gn:country_code":"SI",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989640,
+    "gn:latitude":45.85824,
+    "gn:longitude":14.85339,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Breg pri Zagradcu",
+    "gn:population":20,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959583,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989640,
+        "wk:page":"Breg_pri_Zagradcu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2ce53700de95a87a87248829ebf303e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959583,
+            "locality_id":1276157593,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1276157593,
+    "wof:lastmodified":1537573548,
+    "wof:name":"Breg pri Zagradcu",
+    "wof:parent_id":1108959583,
+    "wof:placetype":"locality",
+    "wof:population":20,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.85339,
+    45.85824,
+    14.85339,
+    45.85824
+],
+  "geometry": {"coordinates":[14.85339,45.85824],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309839873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.18072,46.21925,14.18072,46.21925",
+    "geom:latitude":46.21925,
+    "geom:longitude":14.18072,
+    "gn:admin1_code":"F1",
+    "gn:asciiname":"Studeno",
+    "gn:country_code":"SI",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987313,
+    "gn:latitude":46.21925,
+    "gn:longitude":14.18072,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Studeno",
+    "gn:population":179,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959701,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987313,
+        "wk:page":"Studeno%2C_%C5%BDelezniki"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fa8ece069382d27480e9e3d7366f78b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959701,
+            "locality_id":1309839873,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1309839873,
+    "wof:lastmodified":1537573475,
+    "wof:name":"Studeno",
+    "wof:parent_id":1108959701,
+    "wof:placetype":"locality",
+    "wof:population":179,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.18072,
+    46.21925,
+    14.18072,
+    46.21925
+],
+  "geometry": {"coordinates":[14.18072,46.21925],"type":"Point"}
+}

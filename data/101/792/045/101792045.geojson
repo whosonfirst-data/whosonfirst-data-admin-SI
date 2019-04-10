@@ -1,0 +1,108 @@
+{
+  "id": 101792045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000067,
+    "geom:area_square_m":568592.93075,
+    "geom:bbox":"14.829535915,46.3362080267,14.8474275582,46.3493721438",
+    "geom:latitude":46.341807,
+    "geom:longitude":14.836984,
+    "gn:population":1104,
+    "iso:country":"SI",
+    "lbl:latitude":46.344265,
+    "lbl:longitude":14.833867,
+    "mps:latitude":46.344265,
+    "mps:longitude":14.833867,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hbs_x_preferred":[
+        "Ljubno ob Savinji"
+    ],
+    "name:nld_x_preferred":[
+        "Ljubno ob Savinji"
+    ],
+    "name:nor_x_preferred":[
+        "Ljubno"
+    ],
+    "name:pol_x_preferred":[
+        "Ljubno ob Savinji"
+    ],
+    "name:ron_x_preferred":[
+        "Ljubno ob Savinji"
+    ],
+    "name:slv_x_preferred":[
+        "Ljubno ob Savinji"
+    ],
+    "name:srp_x_preferred":[
+        "\u0409\u0443\u0431\u043d\u043e \u043e\u0431 \u0421\u0430\u0432\u0438\u045a\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Ljubno ob Savinji"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u044e\u0431\u043d\u043e-\u043e\u0431-\u0421\u0430\u0432\u0438\u043d\u044c\u0457"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:id":0,
+    "qs:la":"Ljubno ob Savinji",
+    "qs:la_lc":"*SI062000",
+    "qs:level":"locality",
+    "qs:loc":"Ljubno ob Savinji",
+    "qs:loc_alt":"Ljubno ob Savinji",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959503,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196338,
+        "gp:id":530636,
+        "qs:id":1138151,
+        "wd:id":"Q2478647",
+        "wk:page":"Ljubno ob Savinji"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c5d6ff224d1c38bd74618b1a92cdbcca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959503,
+            "locality_id":101792045,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":101792045,
+    "wof:lastmodified":1531170666,
+    "wof:name":"Ljubno ob Savinji",
+    "wof:parent_id":1108959503,
+    "wof:placetype":"locality",
+    "wof:population":1104,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.82953591499648,
+    46.33620802672334,
+    14.84742755817643,
+    46.34937214375697
+],
+  "geometry": {"coordinates":[[[14.83633774252718,46.34739962088514],[14.83576951421549,46.3411105265883],[14.8383602085961,46.34099337277735],[14.8382790040373,46.34009493074439],[14.8447555872292,46.33980177779375],[14.84483689969352,46.34070021414698],[14.84742755817643,46.34058284105475],[14.84734620255125,46.33968440697549],[14.84605089617355,46.3397431002158],[14.84596956565468,46.33884466443368],[14.84467427829003,46.33890334087477],[14.84443037262179,46.33620802672334],[14.84054468934085,46.33638395184812],[14.84062592297437,46.33728239387239],[14.8393306685096,46.33734100539317],[14.83941188408608,46.33823944798746],[14.83682132431318,46.3383566263135],[14.83690250025131,46.33925507061258],[14.8330165766439,46.33943072403804],[14.83317880959044,46.34122761774654],[14.83188345343797,46.3412861398308],[14.83204565728568,46.34308303354641],[14.83075025540637,46.3431415422346],[14.8308313410198,46.34403998937864],[14.82953591499648,46.34409848353624],[14.82969805359733,46.34589537839673],[14.83228898943173,46.34577836988274],[14.83261348153513,46.34937214375697],[14.83390903196954,46.34931361146562],[14.83374673570211,46.34751672792657],[14.83633774252718,46.34739962088514]]],"type":"Polygon"}
+}

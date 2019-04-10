@@ -1,0 +1,71 @@
+{
+  "id": 1310041605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.63936,45.78833,14.63936,45.78833",
+    "geom:latitude":45.78833,
+    "geom:longitude":14.63936,
+    "gn:admin1_code":"L1",
+    "gn:asciiname":"Andol",
+    "gn:country_code":"SI",
+    "gn:dem":659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989115,
+    "gn:latitude":45.78833,
+    "gn:longitude":14.63936,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Andol",
+    "gn:population":17,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959599,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989115,
+        "wk:page":"Andol%2C_Ribnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6a51ae03612551761c7100a6ce3ddd78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959599,
+            "locality_id":1310041605,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1310041605,
+    "wof:lastmodified":1537573532,
+    "wof:name":"Andol",
+    "wof:parent_id":1108959599,
+    "wof:placetype":"locality",
+    "wof:population":17,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.63936,
+    45.78833,
+    14.63936,
+    45.78833
+],
+  "geometry": {"coordinates":[14.63936,45.78833],"type":"Point"}
+}

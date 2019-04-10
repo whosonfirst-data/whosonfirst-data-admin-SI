@@ -1,0 +1,74 @@
+{
+  "id": 1343799085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.1326,46.38059,15.1326,46.38059",
+    "geom:latitude":46.38059,
+    "geom:longitude":15.1326,
+    "gn:admin1_code":"D7",
+    "gn:asciiname":"Senbric",
+    "gn:country_code":"SI",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987409,
+    "gn:latitude":46.38059,
+    "gn:longitude":15.1326,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160enbric",
+    "gn:population":158,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160enbric"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959593,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987409,
+        "wk:page":"%C5%A0enbric"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"51609755b952c518be668805e03b414b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959593,
+            "locality_id":1343799085,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1343799085,
+    "wof:lastmodified":1537700286,
+    "wof:name":"Senbric",
+    "wof:parent_id":1108959593,
+    "wof:placetype":"locality",
+    "wof:population":158,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.1326,
+    46.38059000000001,
+    15.1326,
+    46.38059000000001
+],
+  "geometry": {"coordinates":[15.1326,46.38059000000001],"type":"Point"}
+}

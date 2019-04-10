@@ -1,0 +1,74 @@
+{
+  "id": 1226078957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.38557,46.12632,15.38557,46.12632",
+    "geom:latitude":46.12632,
+    "geom:longitude":15.38557,
+    "gn:admin1_code":"G2",
+    "gn:asciiname":"Vecje Brdo",
+    "gn:country_code":"SI",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989836,
+    "gn:latitude":46.12632,
+    "gn:longitude":15.38557,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Ve\u010dje Brdo",
+    "gn:population":69,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ve\u010dje Brdo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959685,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989836,
+        "wk:page":"Ve%C4%8Dje_Brdo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"93a335b6a94bb05ec78cd316e3ac941a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959685,
+            "locality_id":1226078957,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1226078957,
+    "wof:lastmodified":1537700334,
+    "wof:name":"Vecje Brdo",
+    "wof:parent_id":1108959685,
+    "wof:placetype":"locality",
+    "wof:population":69,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.38557,
+    46.12632,
+    15.38557,
+    46.12632
+],
+  "geometry": {"coordinates":[15.38557,46.12632],"type":"Point"}
+}

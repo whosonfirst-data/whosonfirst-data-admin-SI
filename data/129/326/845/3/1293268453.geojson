@@ -1,0 +1,71 @@
+{
+  "id": 1293268453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.12302,45.45033,15.12302,45.45033",
+    "geom:latitude":45.45033,
+    "geom:longitude":15.12302,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Breg pri Sinjem Vrhu",
+    "gn:country_code":"SI",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989713,
+    "gn:latitude":45.45033,
+    "gn:longitude":15.12302,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Breg pri Sinjem Vrhu",
+    "gn:population":2,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959699,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989713,
+        "wk:page":"Breg_pri_Sinjem_Vrhu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"98270120897877dc08aa135c094716bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959699,
+            "locality_id":1293268453,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1293268453,
+    "wof:lastmodified":1537573550,
+    "wof:name":"Breg pri Sinjem Vrhu",
+    "wof:parent_id":1108959699,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.12302,
+    45.45033,
+    15.12302,
+    45.45033
+],
+  "geometry": {"coordinates":[15.12302,45.45033],"type":"Point"}
+}

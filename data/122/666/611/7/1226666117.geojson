@@ -1,0 +1,74 @@
+{
+  "id": 1226666117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.66324,46.00945,15.66324,46.00945",
+    "geom:latitude":46.00945,
+    "geom:longitude":15.66324,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Podgorje pri Pisecah",
+    "gn:country_code":"SI",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987235,
+    "gn:latitude":46.00945,
+    "gn:longitude":15.66324,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Podgorje pri Pi\u0161ecah",
+    "gn:population":210,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Podgorje pri Pi\u0161ecah"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987235,
+        "wk:page":"Podgorje_pri_Pi%C5%A1ecah"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"780492a7bb930e53f14e01af3c90a877",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1226666117,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1226666117,
+    "wof:lastmodified":1537700282,
+    "wof:name":"Podgorje pri Pisecah",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:population":210,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.66324,
+    46.00945,
+    15.66324,
+    46.00945
+],
+  "geometry": {"coordinates":[15.66324,46.00945],"type":"Point"}
+}

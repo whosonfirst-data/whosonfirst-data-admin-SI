@@ -1,0 +1,74 @@
+{
+  "id": 1343692101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.54196,46.30303,15.54196,46.30303",
+    "geom:latitude":46.30303,
+    "geom:longitude":15.54196,
+    "gn:admin1_code":"C4",
+    "gn:asciiname":"Spodnje Laze",
+    "gn:country_code":"SI",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987500,
+    "gn:latitude":46.30303,
+    "gn:longitude":15.54196,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Spodnje La\u017ee",
+    "gn:population":141,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Spodnje La\u017ee"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959753,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987500,
+        "wk:page":"Spodnje_La%C5%BEe"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e3ede4b0904ad250c5a43cc9c69c5ca5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959753,
+            "locality_id":1343692101,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1343692101,
+    "wof:lastmodified":1537700287,
+    "wof:name":"Spodnje Laze",
+    "wof:parent_id":1108959753,
+    "wof:placetype":"locality",
+    "wof:population":141,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.54196,
+    46.30303,
+    15.54196,
+    46.30303
+],
+  "geometry": {"coordinates":[15.54196,46.30303],"type":"Point"}
+}

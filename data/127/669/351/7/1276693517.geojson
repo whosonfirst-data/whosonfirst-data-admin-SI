@@ -1,0 +1,71 @@
+{
+  "id": 1276693517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.09167,46.45694,16.09167,46.45694",
+    "geom:latitude":46.45694,
+    "geom:longitude":16.09167,
+    "gn:admin1_code":"P8",
+    "gn:asciiname":"Senik",
+    "gn:country_code":"SI",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191057,
+    "gn:latitude":46.45694,
+    "gn:longitude":16.09167,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Senik",
+    "gn:population":90,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959931,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191057,
+        "wk:page":"Senik%2C_Sveti_Toma%C5%BE"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3c06d0a7e2c1b247898e7d9a09ca377e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959931,
+            "locality_id":1276693517,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1276693517,
+    "wof:lastmodified":1537573403,
+    "wof:name":"Senik",
+    "wof:parent_id":1108959931,
+    "wof:placetype":"locality",
+    "wof:population":90,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.09167,
+    46.45694,
+    16.09167,
+    46.45694
+],
+  "geometry": {"coordinates":[16.09167,46.45694],"type":"Point"}
+}

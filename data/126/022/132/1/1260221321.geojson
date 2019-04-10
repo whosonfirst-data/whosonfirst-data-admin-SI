@@ -1,0 +1,74 @@
+{
+  "id": 1260221321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.57009,46.10795,15.57009,46.10795",
+    "geom:latitude":46.10795,
+    "geom:longitude":15.57009,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Buce",
+    "gn:country_code":"SI",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203166,
+    "gn:latitude":46.10795,
+    "gn:longitude":15.57009,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Bu\u010de",
+    "gn:population":157,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bu\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959581,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203166,
+        "wk:page":"Bu%C4%8De%2C_Kozje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a403af3e654dd4aec86c16dab45f3de5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959581,
+            "locality_id":1260221321,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1260221321,
+    "wof:lastmodified":1537700260,
+    "wof:name":"Buce",
+    "wof:parent_id":1108959581,
+    "wof:placetype":"locality",
+    "wof:population":157,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.57009,
+    46.10795,
+    15.57009,
+    46.10795
+],
+  "geometry": {"coordinates":[15.57009,46.10795],"type":"Point"}
+}

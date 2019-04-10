@@ -1,0 +1,71 @@
+{
+  "id": 1226273123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.49162,46.4132,15.49162,46.4132",
+    "geom:latitude":46.4132,
+    "geom:longitude":15.49162,
+    "gn:admin1_code":"L8",
+    "gn:asciiname":"Malo Tinje",
+    "gn:country_code":"SI",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195562,
+    "gn:latitude":46.4132,
+    "gn:longitude":15.49162,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Malo Tinje",
+    "gn:population":84,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959641,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195562,
+        "wk:page":"Malo_Tinje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ff15d43dc8ea1d80246116a088886dd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959641,
+            "locality_id":1226273123,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1226273123,
+    "wof:lastmodified":1537573421,
+    "wof:name":"Malo Tinje",
+    "wof:parent_id":1108959641,
+    "wof:placetype":"locality",
+    "wof:population":84,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.49162,
+    46.4132,
+    15.49162,
+    46.4132
+],
+  "geometry": {"coordinates":[15.49162,46.4132],"type":"Point"}
+}

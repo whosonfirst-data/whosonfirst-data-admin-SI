@@ -1,0 +1,71 @@
+{
+  "id": 1327065013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.89235,45.51398,14.89235,45.51398",
+    "geom:latitude":45.51398,
+    "geom:longitude":14.89235,
+    "gn:admin1_code":"H9",
+    "gn:asciiname":"Selo pri Kostelu",
+    "gn:country_code":"SI",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989674,
+    "gn:latitude":45.51398,
+    "gn:longitude":14.89235,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Selo pri Kostelu",
+    "gn:population":2,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959711,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989674,
+        "wk:page":"Selo_pri_Kostelu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d243178b05b8185880351bfff796db27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959711,
+            "locality_id":1327065013,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1327065013,
+    "wof:lastmodified":1537573549,
+    "wof:name":"Selo pri Kostelu",
+    "wof:parent_id":1108959711,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.89235,
+    45.51398,
+    14.89235,
+    45.51398
+],
+  "geometry": {"coordinates":[14.89235,45.51398],"type":"Point"}
+}

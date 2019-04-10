@@ -1,0 +1,71 @@
+{
+  "id": 1243400173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.497,45.86797,15.497,45.86797",
+    "geom:latitude":45.86797,
+    "geom:longitude":15.497,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Pristava ob Krki",
+    "gn:country_code":"SI",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989588,
+    "gn:latitude":45.86797,
+    "gn:longitude":15.497,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Pristava ob Krki",
+    "gn:population":38,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989588,
+        "wk:page":"Pristava_ob_Krki"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"05b0dd907ad9d02d0b499f72c566caef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1243400173,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1243400173,
+    "wof:lastmodified":1537573546,
+    "wof:name":"Pristava ob Krki",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":38,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.497,
+    45.86797,
+    15.497,
+    45.86797
+],
+  "geometry": {"coordinates":[15.497,45.86797],"type":"Point"}
+}

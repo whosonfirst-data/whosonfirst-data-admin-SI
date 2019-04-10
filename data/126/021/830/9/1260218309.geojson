@@ -1,0 +1,74 @@
+{
+  "id": 1260218309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.80588,46.18848,14.80588,46.18848",
+    "geom:latitude":46.18848,
+    "geom:longitude":14.80588,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Jelsa",
+    "gn:country_code":"SI",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988488,
+    "gn:latitude":46.18848,
+    "gn:longitude":14.80588,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Jel\u0161a",
+    "gn:population":47,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jel\u0161a"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959807,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988488,
+        "wk:page":"Jel%C5%A1a%2C_Lukovica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"eda2978a1cfe45f377eeaf210ec41e65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959807,
+            "locality_id":1260218309,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1260218309,
+    "wof:lastmodified":1537700307,
+    "wof:name":"Jelsa",
+    "wof:parent_id":1108959807,
+    "wof:placetype":"locality",
+    "wof:population":47,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.80588,
+    46.18848,
+    14.80588,
+    46.18848
+],
+  "geometry": {"coordinates":[14.80588,46.18848],"type":"Point"}
+}

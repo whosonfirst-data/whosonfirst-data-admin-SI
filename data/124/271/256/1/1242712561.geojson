@@ -1,0 +1,74 @@
+{
+  "id": 1242712561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.60963,45.84448,14.60963,45.84448",
+    "geom:latitude":45.84448,
+    "geom:longitude":14.60963,
+    "gn:admin1_code":"D8",
+    "gn:asciiname":"Hlebce",
+    "gn:country_code":"SI",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988665,
+    "gn:latitude":45.84448,
+    "gn:longitude":14.60963,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Hleb\u010de",
+    "gn:population":38,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hleb\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959859,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988665,
+        "wk:page":"Hleb%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0a9a26533fbc2936e665028f7c190391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959859,
+            "locality_id":1242712561,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1242712561,
+    "wof:lastmodified":1537700311,
+    "wof:name":"Hlebce",
+    "wof:parent_id":1108959859,
+    "wof:placetype":"locality",
+    "wof:population":38,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.60963,
+    45.84448,
+    14.60963,
+    45.84448
+],
+  "geometry": {"coordinates":[14.60963,45.84448],"type":"Point"}
+}

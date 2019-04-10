@@ -1,0 +1,67 @@
+{
+  "id": 1226472829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.97278,46.505,15.97278,46.505",
+    "geom:latitude":46.505,
+    "geom:longitude":15.97278,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Oblaki",
+    "gn:country_code":"SI",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217922,
+    "gn:latitude":46.505,
+    "gn:longitude":15.97278,
+    "gn:modification_date":"2008-11-06",
+    "gn:name":"Oblaki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959781,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217922
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"faae0b467fad5fa372196cd918dd0964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959781,
+            "locality_id":1226472829,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1226472829,
+    "wof:lastmodified":1536603484,
+    "wof:name":"Oblaki",
+    "wof:parent_id":1108959781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.97278,
+    46.505,
+    15.97278,
+    46.505
+],
+  "geometry": {"coordinates":[15.97278,46.505],"type":"Point"}
+}

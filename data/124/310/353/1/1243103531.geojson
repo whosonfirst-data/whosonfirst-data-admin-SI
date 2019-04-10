@@ -1,0 +1,71 @@
+{
+  "id": 1243103531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.66925,46.23983,15.66925,46.23983",
+    "geom:latitude":46.23983,
+    "geom:longitude":15.66925,
+    "gn:admin1_code":"A7",
+    "gn:asciiname":"Tuncovec",
+    "gn:country_code":"SI",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987496,
+    "gn:latitude":46.23983,
+    "gn:longitude":15.66925,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Tuncovec",
+    "gn:population":142,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959803,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987496,
+        "wk:page":"Tuncovec"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9283475cc716da65e2c2257f24c19742",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959803,
+            "locality_id":1243103531,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1243103531,
+    "wof:lastmodified":1537573482,
+    "wof:name":"Tuncovec",
+    "wof:parent_id":1108959803,
+    "wof:placetype":"locality",
+    "wof:population":142,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.66925,
+    46.23983,
+    15.66925,
+    46.23983
+],
+  "geometry": {"coordinates":[15.66925,46.23983],"type":"Point"}
+}

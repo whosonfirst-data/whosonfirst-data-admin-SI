@@ -1,0 +1,65 @@
+{
+  "id": 1209094273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.24822,46.30136,15.24822,46.30136",
+    "geom:latitude":46.30136,
+    "geom:longitude":15.24822,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Otemna",
+    "gn:country_code":"SI",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987599,
+    "gn:latitude":46.30136,
+    "gn:longitude":15.24822,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Otemna",
+    "gn:population":125,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987599,
+        "wk:page":"Otemna"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4da6da4261e40ddd2334883ed193c2a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209094273
+        }
+    ],
+    "wof:id":1209094273,
+    "wof:lastmodified":1537573485,
+    "wof:name":"Otemna",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":125,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.24822,
+    46.30136,
+    15.24822,
+    46.30136
+],
+  "geometry": {"coordinates":[15.24822,46.30136],"type":"Point"}
+}

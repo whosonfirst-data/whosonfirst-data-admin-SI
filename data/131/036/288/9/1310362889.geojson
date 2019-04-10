@@ -1,0 +1,75 @@
+{
+  "id": 1310362889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.95,46.6,14.95,46.6",
+    "geom:latitude":46.6,
+    "geom:longitude":14.95,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Libeliska Gora",
+    "gn:country_code":"SI",
+    "gn:dem":885,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196610,
+    "gn:latitude":46.6,
+    "gn:longitude":14.95,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Libeli\u0161ka Gora",
+    "gn:population":160,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Libeli\u010dka Gora",
+        "Libeli\u0161ka Gora"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959495,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196610,
+        "wk:page":"Libeli%C5%A1ka_Gora"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"313167b837eca2383686fd1919c8d93a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959495,
+            "locality_id":1310362889,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1310362889,
+    "wof:lastmodified":1537700225,
+    "wof:name":"Libeliska Gora",
+    "wof:parent_id":1108959495,
+    "wof:placetype":"locality",
+    "wof:population":160,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.95,
+    46.6,
+    14.95,
+    46.6
+],
+  "geometry": {"coordinates":[14.95,46.6],"type":"Point"}
+}

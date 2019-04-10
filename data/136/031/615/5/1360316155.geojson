@@ -1,0 +1,71 @@
+{
+  "id": 1360316155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.20256,45.98373,15.20256,45.98373",
+    "geom:latitude":45.98373,
+    "geom:longitude":15.20256,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Goveji Dol",
+    "gn:country_code":"SI",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989057,
+    "gn:latitude":45.98373,
+    "gn:longitude":15.20256,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Goveji Dol",
+    "gn:population":20,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989057,
+        "wk:page":"Goveji_Dol"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1191de1911676ea31d06e26978301077",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1360316155,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1360316155,
+    "wof:lastmodified":1537573530,
+    "wof:name":"Goveji Dol",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":20,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.20256,
+    45.98373,
+    15.20256,
+    45.98373
+],
+  "geometry": {"coordinates":[15.20256,45.98373],"type":"Point"}
+}

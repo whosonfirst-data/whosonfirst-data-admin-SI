@@ -1,0 +1,71 @@
+{
+  "id": 1293818207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.6,46.21667,15.6,46.21667",
+    "geom:latitude":46.21667,
+    "geom:longitude":15.6,
+    "gn:admin1_code":"A7",
+    "gn:asciiname":"Plat",
+    "gn:country_code":"SI",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193234,
+    "gn:latitude":46.21667,
+    "gn:longitude":15.6,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Plat",
+    "gn:population":90,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959803,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193234,
+        "wk:page":"Plat%2C_Roga%C5%A1ka_Slatina"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c7509d1d2caa06edddf73adca7d178b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959803,
+            "locality_id":1293818207,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1293818207,
+    "wof:lastmodified":1537573414,
+    "wof:name":"Plat",
+    "wof:parent_id":1108959803,
+    "wof:placetype":"locality",
+    "wof:population":90,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.6,
+    46.21667,
+    15.6,
+    46.21667
+],
+  "geometry": {"coordinates":[15.6,46.21667],"type":"Point"}
+}

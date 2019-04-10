@@ -1,0 +1,68 @@
+{
+  "id": 1209652055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.39166,46.18995,15.39166,46.18995",
+    "geom:latitude":46.18995,
+    "geom:longitude":15.39166,
+    "gn:admin1_code":"L7",
+    "gn:asciiname":"Sotensko pod Kalobjem",
+    "gn:country_code":"SI",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988840,
+    "gn:latitude":46.18995,
+    "gn:longitude":15.39166,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Sotensko pod Kalobjem",
+    "gn:population":30,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sotensko Pod Kalobjem"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988840,
+        "wk:page":"Sotensko_pod_Kalobjem"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"651f3b8632f149457594f3d9d19b779f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209652055
+        }
+    ],
+    "wof:id":1209652055,
+    "wof:lastmodified":1537700314,
+    "wof:name":"Sotensko pod Kalobjem",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":30,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.39166,
+    46.18995,
+    15.39166,
+    46.18995
+],
+  "geometry": {"coordinates":[15.39166,46.18995],"type":"Point"}
+}

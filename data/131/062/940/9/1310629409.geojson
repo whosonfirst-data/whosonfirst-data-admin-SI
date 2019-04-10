@@ -1,0 +1,76 @@
+{
+  "id": 1310629409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.84222,45.50167,13.84222,45.50167",
+    "geom:latitude":45.50167,
+    "geom:longitude":13.84222,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Zabavlje",
+    "gn:country_code":"SI",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187016,
+    "gn:latitude":45.50167,
+    "gn:longitude":13.84222,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Zabavlje",
+    "gn:population":22,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zabavje",
+        "Zabavia",
+        "Zabavlje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959527,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187016,
+        "wk:page":"Zabavlje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5d37cebd6809072abeb68ceaedcdf888",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959527,
+            "locality_id":1310629409,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1310629409,
+    "wof:lastmodified":1537700172,
+    "wof:name":"Zabavlje",
+    "wof:parent_id":1108959527,
+    "wof:placetype":"locality",
+    "wof:population":22,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.84222,
+    45.50167,
+    13.84222,
+    45.50167
+],
+  "geometry": {"coordinates":[13.84222,45.50167],"type":"Point"}
+}

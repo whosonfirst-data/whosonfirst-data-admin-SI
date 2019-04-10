@@ -1,0 +1,71 @@
+{
+  "id": 1309940295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.27257,46.18425,15.27257,46.18425",
+    "geom:latitude":46.18425,
+    "geom:longitude":15.27257,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Doblatina",
+    "gn:country_code":"SI",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988473,
+    "gn:latitude":46.18425,
+    "gn:longitude":15.27257,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Doblatina",
+    "gn:population":48,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959879,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988473,
+        "wk:page":"Doblatina"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c5f47366abb1b746efab00f6303591db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959879,
+            "locality_id":1309940295,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1309940295,
+    "wof:lastmodified":1537573513,
+    "wof:name":"Doblatina",
+    "wof:parent_id":1108959879,
+    "wof:placetype":"locality",
+    "wof:population":48,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.27257,
+    46.18425,
+    15.27257,
+    46.18425
+],
+  "geometry": {"coordinates":[15.27257,46.18425],"type":"Point"}
+}

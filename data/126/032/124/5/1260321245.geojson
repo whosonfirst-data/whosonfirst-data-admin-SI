@@ -1,0 +1,78 @@
+{
+  "id": 1260321245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.84028,46.09139,13.84028,46.09139",
+    "geom:latitude":46.09139,
+    "geom:longitude":13.84028,
+    "gn:admin1_code":"D2",
+    "gn:asciiname":"Dolenja Trebusa",
+    "gn:country_code":"SI",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201851,
+    "gn:latitude":46.09139,
+    "gn:longitude":13.84028,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Dolenja Trebu\u0161a",
+    "gn:population":286,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tridussa",
+        "Tribussa Inferiore",
+        "Tribussa di Monte Sanvito",
+        "Tribu\u0161a",
+        "Dolenja Trebu\u0161a"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959617,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201851,
+        "wk:page":"Dolenja_Trebu%C5%A1a"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0287855cde8e6d1d1b06d2766cf6d485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959617,
+            "locality_id":1260321245,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1260321245,
+    "wof:lastmodified":1537700254,
+    "wof:name":"Dolenja Trebusa",
+    "wof:parent_id":1108959617,
+    "wof:placetype":"locality",
+    "wof:population":286,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.84028,
+    46.09139,
+    13.84028,
+    46.09139
+],
+  "geometry": {"coordinates":[13.84028,46.09139],"type":"Point"}
+}

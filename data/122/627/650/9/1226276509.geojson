@@ -1,0 +1,74 @@
+{
+  "id": 1226276509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.85673,46.69874,15.85673,46.69874",
+    "geom:latitude":46.69874,
+    "geom:longitude":15.85673,
+    "gn:admin1_code":"N9",
+    "gn:asciiname":"Ziberci",
+    "gn:country_code":"SI",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987320,
+    "gn:latitude":46.69874,
+    "gn:longitude":15.85673,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u017diberci",
+    "gn:population":176,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017diberci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959667,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987320,
+        "wk:page":"%C5%BDiberci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6ae0dd90a977116b79663113c59190e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959667,
+            "locality_id":1226276509,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1226276509,
+    "wof:lastmodified":1537700284,
+    "wof:name":"Ziberci",
+    "wof:parent_id":1108959667,
+    "wof:placetype":"locality",
+    "wof:population":176,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.85673,
+    46.69874,
+    15.85673,
+    46.69874
+],
+  "geometry": {"coordinates":[15.85673,46.69874],"type":"Point"}
+}

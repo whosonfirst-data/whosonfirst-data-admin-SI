@@ -1,0 +1,74 @@
+{
+  "id": 1293819971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.7637,46.14703,14.7637,46.14703",
+    "geom:latitude":46.14703,
+    "geom:longitude":14.7637,
+    "gn:admin1_code":"77",
+    "gn:asciiname":"Selce pri Moravcah",
+    "gn:country_code":"SI",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989607,
+    "gn:latitude":46.14703,
+    "gn:longitude":14.7637,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Selce pri Morav\u010dah",
+    "gn:population":30,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Selce pri Morav\u010dah"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959515,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989607,
+        "wk:page":"Selce_pri_Morav%C4%8Dah"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ae1e266181cb09c528c258a9198c3d5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959515,
+            "locality_id":1293819971,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1293819971,
+    "wof:lastmodified":1537700330,
+    "wof:name":"Selce pri Moravcah",
+    "wof:parent_id":1108959515,
+    "wof:placetype":"locality",
+    "wof:population":30,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.7637,
+    46.14703,
+    14.7637,
+    46.14703
+],
+  "geometry": {"coordinates":[14.7637,46.14703],"type":"Point"}
+}

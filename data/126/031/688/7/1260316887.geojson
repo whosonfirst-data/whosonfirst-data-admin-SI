@@ -1,0 +1,71 @@
+{
+  "id": 1260316887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.33007,46.28273,15.33007,46.28273",
+    "geom:latitude":46.28273,
+    "geom:longitude":15.33007,
+    "gn:admin1_code":"N3",
+    "gn:asciiname":"Koblek",
+    "gn:country_code":"SI",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988914,
+    "gn:latitude":46.28273,
+    "gn:longitude":15.33007,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Koblek",
+    "gn:population":27,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959653,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988914,
+        "wk:page":"Koblek"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d97a05f64fdb9cb9cafc24040fbb405e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959653,
+            "locality_id":1260316887,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1260316887,
+    "wof:lastmodified":1537573526,
+    "wof:name":"Koblek",
+    "wof:parent_id":1108959653,
+    "wof:placetype":"locality",
+    "wof:population":27,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.33007,
+    46.28273,
+    15.33007,
+    46.28273
+],
+  "geometry": {"coordinates":[15.33007,46.28273],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259774171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.68722,45.95917,15.68722,45.95917",
+    "geom:latitude":45.95917,
+    "geom:longitude":15.68722,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Zupelevec",
+    "gn:country_code":"SI",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186285,
+    "gn:latitude":45.95917,
+    "gn:longitude":15.68722,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u017dupelevec",
+    "gn:population":211,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017dupelevec"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186285,
+        "wk:page":"%C5%BDupelevec"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b08ec3e82cfa3d411e9745ebb6df7226",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1259774171,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1259774171,
+    "wof:lastmodified":1537700166,
+    "wof:name":"Zupelevec",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:population":211,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.68722,
+    45.95917,
+    15.68722,
+    45.95917
+],
+  "geometry": {"coordinates":[15.68722,45.95917],"type":"Point"}
+}

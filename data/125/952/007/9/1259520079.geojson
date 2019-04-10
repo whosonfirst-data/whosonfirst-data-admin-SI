@@ -1,0 +1,74 @@
+{
+  "id": 1259520079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.80722,46.63306,15.80722,46.63306",
+    "geom:latitude":46.63306,
+    "geom:longitude":15.80722,
+    "gn:admin1_code":"P7",
+    "gn:asciiname":"Zitence",
+    "gn:country_code":"SI",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218013,
+    "gn:latitude":46.63306,
+    "gn:longitude":15.80722,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u017ditence",
+    "gn:population":273,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017ditence"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959815,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218013,
+        "wk:page":"%C5%BDitence"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9a2b4046b19dffa01f2ef9c28b24af0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959815,
+            "locality_id":1259520079,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1259520079,
+    "wof:lastmodified":1537700272,
+    "wof:name":"Zitence",
+    "wof:parent_id":1108959815,
+    "wof:placetype":"locality",
+    "wof:population":273,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.80722,
+    46.63306,
+    15.80722,
+    46.63306
+],
+  "geometry": {"coordinates":[15.80722,46.63306],"type":"Point"}
+}

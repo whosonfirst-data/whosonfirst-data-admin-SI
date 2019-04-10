@@ -1,0 +1,68 @@
+{
+  "id": 1209547011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.7546,46.14946,14.7546,46.14946",
+    "geom:latitude":46.14946,
+    "geom:longitude":14.7546,
+    "gn:admin1_code":"77",
+    "gn:asciiname":"Serjuce",
+    "gn:country_code":"SI",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988329,
+    "gn:latitude":46.14946,
+    "gn:longitude":14.7546,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Serju\u010de",
+    "gn:population":56,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Serju\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988329,
+        "wk:page":"Serju%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c882b617f81632925e7bf62e2b8a5de2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209547011
+        }
+    ],
+    "wof:id":1209547011,
+    "wof:lastmodified":1537700304,
+    "wof:name":"Serjuce",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":56,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.7546,
+    46.14946,
+    14.7546,
+    46.14946
+],
+  "geometry": {"coordinates":[14.7546,46.14946],"type":"Point"}
+}

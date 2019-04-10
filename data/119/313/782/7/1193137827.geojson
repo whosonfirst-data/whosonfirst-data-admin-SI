@@ -1,0 +1,71 @@
+{
+  "id": 1193137827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.97266,46.28278,13.97266,46.28278",
+    "geom:latitude":46.28278,
+    "geom:longitude":13.97266,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Lepence",
+    "gn:country_code":"SI",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988747,
+    "gn:latitude":46.28278,
+    "gn:longitude":13.97266,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Lepence",
+    "gn:population":33,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959819,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988747,
+        "wk:page":"Lepence"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c1aca4218a766512f489fbeb8fa5e6c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959819,
+            "locality_id":1193137827,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1193137827,
+    "wof:lastmodified":1537573521,
+    "wof:name":"Lepence",
+    "wof:parent_id":1108959819,
+    "wof:placetype":"locality",
+    "wof:population":33,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.97266,
+    46.28278,
+    13.97266,
+    46.28278
+],
+  "geometry": {"coordinates":[13.97266,46.28278],"type":"Point"}
+}

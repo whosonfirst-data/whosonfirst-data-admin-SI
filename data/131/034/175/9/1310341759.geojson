@@ -1,0 +1,71 @@
+{
+  "id": 1310341759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.93991,46.55427,15.93991,46.55427",
+    "geom:latitude":46.55427,
+    "geom:longitude":15.93991,
+    "gn:admin1_code":"F9",
+    "gn:asciiname":"Stanetinci",
+    "gn:country_code":"SI",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987392,
+    "gn:latitude":46.55427,
+    "gn:longitude":15.93991,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Stanetinci",
+    "gn:population":161,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959703,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987392,
+        "wk:page":"Stanetinci%2C_Cerkvenjak"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"141d95445e3e0ebb5771631600e41cbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959703,
+            "locality_id":1310341759,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1310341759,
+    "wof:lastmodified":1537573478,
+    "wof:name":"Stanetinci",
+    "wof:parent_id":1108959703,
+    "wof:placetype":"locality",
+    "wof:population":161,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.93991,
+    46.55427,
+    15.93991,
+    46.55427
+],
+  "geometry": {"coordinates":[15.93991,46.55427],"type":"Point"}
+}

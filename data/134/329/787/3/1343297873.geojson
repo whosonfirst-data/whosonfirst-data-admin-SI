@@ -1,0 +1,74 @@
+{
+  "id": 1343297873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.98426,46.50154,15.98426,46.50154",
+    "geom:latitude":46.50154,
+    "geom:longitude":15.98426,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Sakusak",
+    "gn:country_code":"SI",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191343,
+    "gn:latitude":46.50154,
+    "gn:longitude":15.98426,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Saku\u0161ak",
+    "gn:population":209,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saku\u0161ak"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959781,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191343,
+        "wk:page":"Saku%C5%A1ak"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"34ec32c13493ae2e94bf4974a8e5fde7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959781,
+            "locality_id":1343297873,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1343297873,
+    "wof:lastmodified":1537700197,
+    "wof:name":"Sakusak",
+    "wof:parent_id":1108959781,
+    "wof:placetype":"locality",
+    "wof:population":209,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.98426,
+    46.50154000000001,
+    15.98426,
+    46.50154000000001
+],
+  "geometry": {"coordinates":[15.98426,46.50154000000001],"type":"Point"}
+}

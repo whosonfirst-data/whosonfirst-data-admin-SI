@@ -1,0 +1,75 @@
+{
+  "id": 1360115885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.24306,45.90556,15.24306,45.90556",
+    "geom:latitude":45.90556,
+    "geom:longitude":15.24306,
+    "gn:admin1_code":"P3",
+    "gn:asciiname":"Zbure",
+    "gn:country_code":"SI",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186678,
+    "gn:latitude":45.90556,
+    "gn:longitude":15.24306,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Zbure",
+    "gn:population":162,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zbuke",
+        "Zbure"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959833,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186678,
+        "wk:page":"Zbure"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"568972a8576ddb38726c5e02aebffbe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959833,
+            "locality_id":1360115885,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1360115885,
+    "wof:lastmodified":1537700170,
+    "wof:name":"Zbure",
+    "wof:parent_id":1108959833,
+    "wof:placetype":"locality",
+    "wof:population":162,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.24306,
+    45.90556,
+    15.24306,
+    45.90556
+],
+  "geometry": {"coordinates":[15.24306,45.90556],"type":"Point"}
+}

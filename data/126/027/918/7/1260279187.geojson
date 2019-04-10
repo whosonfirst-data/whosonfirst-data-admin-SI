@@ -1,0 +1,74 @@
+{
+  "id": 1260279187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.68333,45.89167,15.68333,45.89167",
+    "geom:latitude":45.89167,
+    "geom:longitude":15.68333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Rigonce",
+    "gn:country_code":"SI",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3209356,
+    "gn:latitude":45.89167,
+    "gn:longitude":15.68333,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Rigonce",
+    "gn:population":175,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zgornje Rigonce"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3209356,
+        "wk:page":"Rigonce"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"00d54b55778fa11cc827ecafeb59925b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1260279187,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1260279187,
+    "wof:lastmodified":1537700268,
+    "wof:name":"Rigonce",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:population":175,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.68333,
+    45.89167,
+    15.68333,
+    45.89167
+],
+  "geometry": {"coordinates":[15.68333,45.89167],"type":"Point"}
+}

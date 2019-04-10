@@ -1,0 +1,74 @@
+{
+  "id": 1343692239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.25463,46.16271,14.25463,46.16271",
+    "geom:latitude":46.16271,
+    "geom:longitude":14.25463,
+    "gn:admin1_code":"B9",
+    "gn:asciiname":"Breznica pod Lubnikom",
+    "gn:country_code":"SI",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988393,
+    "gn:latitude":46.16271,
+    "gn:longitude":14.25463,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Breznica pod Lubnikom",
+    "gn:population":53,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Breznica Pod Lubnikom"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959821,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988393,
+        "wk:page":"Breznica_pod_Lubnikom"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b620883038128e472af8611a480b6b64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959821,
+            "locality_id":1343692239,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1343692239,
+    "wof:lastmodified":1537700305,
+    "wof:name":"Breznica pod Lubnikom",
+    "wof:parent_id":1108959821,
+    "wof:placetype":"locality",
+    "wof:population":53,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.25463,
+    46.16271,
+    14.25463,
+    46.16271
+],
+  "geometry": {"coordinates":[14.25463,46.16271],"type":"Point"}
+}

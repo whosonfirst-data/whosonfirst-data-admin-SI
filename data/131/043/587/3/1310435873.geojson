@@ -1,0 +1,74 @@
+{
+  "id": 1310435873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.93333,46.11667,14.93333,46.11667",
+    "geom:latitude":46.11667,
+    "geom:longitude":14.93333,
+    "gn:admin1_code":"E7",
+    "gn:asciiname":"Sentlambert",
+    "gn:country_code":"SI",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191027,
+    "gn:latitude":46.11667,
+    "gn:longitude":14.93333,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160entlambert",
+    "gn:population":90,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160entlambert"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959683,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191027,
+        "wk:page":"%C5%A0entlambert"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c1f831378a303d6d92396f16269af4f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959683,
+            "locality_id":1310435873,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1310435873,
+    "wof:lastmodified":1537700195,
+    "wof:name":"Sentlambert",
+    "wof:parent_id":1108959683,
+    "wof:placetype":"locality",
+    "wof:population":90,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.93333,
+    46.11667,
+    14.93333,
+    46.11667
+],
+  "geometry": {"coordinates":[14.93333,46.11667],"type":"Point"}
+}

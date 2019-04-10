@@ -1,0 +1,71 @@
+{
+  "id": 1225878827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56667,46.31667,15.56667,46.31667",
+    "geom:latitude":46.31667,
+    "geom:longitude":15.56667,
+    "gn:admin1_code":"O8",
+    "gn:asciiname":"Stanovsko",
+    "gn:country_code":"SI",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190031,
+    "gn:latitude":46.31667,
+    "gn:longitude":15.56667,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Stanovsko",
+    "gn:population":226,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959721,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190031,
+        "wk:page":"Stanovsko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fb568de8fa4e7dca84a627f8651f3908",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959721,
+            "locality_id":1225878827,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1225878827,
+    "wof:lastmodified":1537573396,
+    "wof:name":"Stanovsko",
+    "wof:parent_id":1108959721,
+    "wof:placetype":"locality",
+    "wof:population":226,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56667,
+    46.31667,
+    15.56667,
+    46.31667
+],
+  "geometry": {"coordinates":[15.56667,46.31667],"type":"Point"}
+}

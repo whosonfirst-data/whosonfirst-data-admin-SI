@@ -1,0 +1,65 @@
+{
+  "id": 1209491615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.07049,45.49848,15.07049,45.49848",
+    "geom:latitude":45.49848,
+    "geom:longitude":15.07049,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Deskova Vas",
+    "gn:country_code":"SI",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988963,
+    "gn:latitude":45.49848,
+    "gn:longitude":15.07049,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Deskova Vas",
+    "gn:population":24,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988963,
+        "wk:page":"Deskova_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b1098cae04e33761841de5637a1d53ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209491615
+        }
+    ],
+    "wof:id":1209491615,
+    "wof:lastmodified":1537573527,
+    "wof:name":"Deskova Vas",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":24,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.07049,
+    45.49848,
+    15.07049,
+    45.49848
+],
+  "geometry": {"coordinates":[15.07049,45.49848],"type":"Point"}
+}

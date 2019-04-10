@@ -1,0 +1,71 @@
+{
+  "id": 1277016797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.48333,46.2,15.48333,46.2",
+    "geom:latitude":46.2,
+    "geom:longitude":15.48333,
+    "gn:admin1_code":"C5",
+    "gn:asciiname":"Rakovec",
+    "gn:country_code":"SI",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191992,
+    "gn:latitude":46.2,
+    "gn:longitude":15.48333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Rakovec",
+    "gn:population":61,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959607,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191992,
+        "wk:page":"Rakovec%2C_%C5%A0marje_pri_Jel%C5%A1ah"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f6ecb3762ec1c483284f67a586247ab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959607,
+            "locality_id":1277016797,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1277016797,
+    "wof:lastmodified":1537573407,
+    "wof:name":"Rakovec",
+    "wof:parent_id":1108959607,
+    "wof:placetype":"locality",
+    "wof:population":61,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.48333,
+    46.2,
+    15.48333,
+    46.2
+],
+  "geometry": {"coordinates":[15.48333,46.2],"type":"Point"}
+}

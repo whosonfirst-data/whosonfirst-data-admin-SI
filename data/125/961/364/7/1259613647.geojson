@@ -1,0 +1,71 @@
+{
+  "id": 1259613647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25597,46.07415,15.25597,46.07415",
+    "geom:latitude":46.07415,
+    "geom:longitude":15.25597,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Okroglice",
+    "gn:country_code":"SI",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987959,
+    "gn:latitude":46.07415,
+    "gn:longitude":15.25597,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Okroglice",
+    "gn:population":86,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987959,
+        "wk:page":"Okroglice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b62428271af969d30a186dae282766f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1259613647,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1259613647,
+    "wof:lastmodified":1537573497,
+    "wof:name":"Okroglice",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":86,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25597,
+    46.07415,
+    15.25597,
+    46.07415
+],
+  "geometry": {"coordinates":[15.25597,46.07415],"type":"Point"}
+}

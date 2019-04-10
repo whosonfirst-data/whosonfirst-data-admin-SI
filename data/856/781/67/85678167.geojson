@@ -1,0 +1,171 @@
+{
+  "id": 85678167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.006721,
+    "geom:area_square_m":57816904.827601,
+    "geom:bbox":"15.2381193381,45.8644617777,15.363021274,45.9571434598",
+    "geom:latitude":45.916306,
+    "geom:longitude":15.311082,
+    "iso:country":"SI",
+    "lbl:latitude":45.921996,
+    "lbl:longitude":15.317233,
+    "mps:latitude":45.921996,
+    "mps:longitude":15.317233,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:bos_x_preferred":[
+        "\u0160kocjan"
+    ],
+    "name:ces_x_preferred":[
+        "\u0160kocjan"
+    ],
+    "name:deu_x_preferred":[
+        "Kanzian"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160kocjan"
+    ],
+    "name:nld_x_preferred":[
+        "\u0160kocjan"
+    ],
+    "name:ron_x_preferred":[
+        "\u0160kocjan"
+    ],
+    "name:slv_x_preferred":[
+        "\u0160kocjan"
+    ],
+    "name:und_x_preferred":[
+        "Novo Mesto"
+    ],
+    "name:unk_x_variant":[
+        "Ob\u010dina \u0160kocjan"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-989",
+    "ne:adm1_code":"SVN-989",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SI.DO.SK",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"989",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SIB8",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.B8",
+    "ne:gn_id":"3239199",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Skocjan",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI20",
+    "ne:gns_id":"243884",
+    "ne:gns_lang":"slv",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Skocjan, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"45.92210000000",
+    "ne:longitude":"15.30060000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"\u0160kocjan",
+    "ne:name_alt":"",
+    "ne:name_len":7,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"SK",
+    "ne:provnum_ne":"29",
+    "ne:region":"Jugovzhodna Slovenija",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":-55848372,
+    "ne:woe_label":"",
+    "ne:woe_name":"",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"\u0160kocjan",
+    "qs:a1_lc":"SVN-989",
+    "qs:a1r":"Jugovzhodna Slovenija",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "qs:woeid":55848372,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "unlc:subdivision":"SI-121",
+    "wd:wordcount":150,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SIB8",
+        "gn:id":3239199,
+        "gp:id":-55848372,
+        "hasc:id":"SI.DO.SK",
+        "unlc:id":"SI-121"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3a69644466b34a595633158b16168d2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85678167
+        }
+    ],
+    "wof:id":85678167,
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616734,
+    "wof:name":"\u0160kocjan",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:shortcode":"SK",
+    "wof:subdivision":"SI-121",
+    "wof:superseded_by":[
+        1108959605
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23811933813698,
+    45.86446177768892,
+    15.36302127401262,
+    45.95714345980286
+],
+  "geometry": {"coordinates":[[[15.36302127401262,45.93476756377208],[15.35418460483567,45.91644826937221],[15.35325442884886,45.89952423805317],[15.35061893141858,45.89169525832955],[15.3610058942067,45.88373708829602],[15.35573489844688,45.87409943344215],[15.34798343308904,45.86986196645665],[15.34390099483511,45.86831167284549],[15.3414205261364,45.86849253999878],[15.34002526215619,45.87081797996586],[15.32948326973718,45.87471955016719],[15.30374840676359,45.86446177768892],[15.30173302605834,45.87487457889875],[15.30607384583135,45.88123078117565],[15.30312828913929,45.88531321942958],[15.29816735174194,45.89045502398022],[15.28850385936568,45.89851654680126],[15.27765180768483,45.90383922030384],[15.26850508014536,45.9069139673058],[15.23858442613039,45.92435476346162],[15.23811933813698,45.93213206634186],[15.25517255976587,45.93853994456282],[15.25703291173954,45.94158885404244],[15.25734297010206,45.9439142931102],[15.25966841006914,45.94499949782863],[15.26602461144671,45.9447669538319],[15.27935713092688,45.93616282775236],[15.28400800996172,45.93574941750165],[15.28664350829132,45.9404002965365],[15.28509321468016,45.94546458582204],[15.28540327304268,45.94908193608256],[15.28648847776111,45.95182078719961],[15.2896407409275,45.95383616790485],[15.29568688304329,45.95605825508449],[15.31708092624382,45.95714345980286],[15.3271578297701,45.95585154950948],[15.33459923676543,45.95419790311081],[15.34250573085484,45.95140737604964],[15.34638146263444,45.94448273389111],[15.36302127401262,45.93476756377208]]],"type":"Polygon"}
+}

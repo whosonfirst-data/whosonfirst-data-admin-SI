@@ -1,0 +1,71 @@
+{
+  "id": 1260192533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.77778,45.89639,13.77778,45.89639",
+    "geom:latitude":45.89639,
+    "geom:longitude":13.77778,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Batuje",
+    "gn:country_code":"SI",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216524,
+    "gn:latitude":45.89639,
+    "gn:longitude":13.77778,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Batuje",
+    "gn:population":346,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959545,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216524,
+        "wk:page":"Batuje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5c45392b5361781ec30335d4392fde09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959545,
+            "locality_id":1260192533,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1260192533,
+    "wof:lastmodified":1537573456,
+    "wof:name":"Batuje",
+    "wof:parent_id":1108959545,
+    "wof:placetype":"locality",
+    "wof:population":346,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.77778,
+    45.89639,
+    13.77778,
+    45.89639
+],
+  "geometry": {"coordinates":[13.77778,45.89639],"type":"Point"}
+}

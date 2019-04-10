@@ -1,0 +1,74 @@
+{
+  "id": 1293037249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.3805,46.07511,14.3805,46.07511",
+    "geom:latitude":46.07511,
+    "geom:longitude":14.3805,
+    "gn:admin1_code":"G4",
+    "gn:asciiname":"Hrastenice",
+    "gn:country_code":"SI",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199308,
+    "gn:latitude":46.07511,
+    "gn:longitude":14.3805,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Hrastenice",
+    "gn:population":48,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hrastenica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959847,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199308,
+        "wk:page":"Hrastenice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e3332572670f794e8c2e50878a5b2168",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959847,
+            "locality_id":1293037249,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1293037249,
+    "wof:lastmodified":1537700239,
+    "wof:name":"Hrastenice",
+    "wof:parent_id":1108959847,
+    "wof:placetype":"locality",
+    "wof:population":48,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.3805,
+    46.07511,
+    14.3805,
+    46.07511
+],
+  "geometry": {"coordinates":[14.3805,46.07511],"type":"Point"}
+}

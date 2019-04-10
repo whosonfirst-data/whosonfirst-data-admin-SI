@@ -1,0 +1,71 @@
+{
+  "id": 1343992375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.83722,45.74417,13.83722,45.74417",
+    "geom:latitude":45.74417,
+    "geom:longitude":13.83722,
+    "gn:admin1_code":"B7",
+    "gn:asciiname":"Kreplje",
+    "gn:country_code":"SI",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197300,
+    "gn:latitude":45.74417,
+    "gn:longitude":13.83722,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Kreplje",
+    "gn:population":146,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959789,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197300,
+        "wk:page":"Kreplje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"84f1b105dd914864110ae140546debbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959789,
+            "locality_id":1343992375,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1343992375,
+    "wof:lastmodified":1537573428,
+    "wof:name":"Kreplje",
+    "wof:parent_id":1108959789,
+    "wof:placetype":"locality",
+    "wof:population":146,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.83722,
+    45.74417,
+    13.83722,
+    45.74417
+],
+  "geometry": {"coordinates":[13.83722,45.74417],"type":"Point"}
+}

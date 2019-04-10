@@ -1,0 +1,74 @@
+{
+  "id": 1276854509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.98771,46.14334,13.98771,46.14334",
+    "geom:latitude":46.14334,
+    "geom:longitude":13.98771,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Trebence",
+    "gn:country_code":"SI",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987864,
+    "gn:latitude":46.14334,
+    "gn:longitude":13.98771,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Treben\u010de",
+    "gn:population":95,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Treben\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959577,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987864,
+        "wk:page":"Treben%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a89b6d16a397b4e906b526a22c3d3e7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959577,
+            "locality_id":1276854509,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1276854509,
+    "wof:lastmodified":1537700295,
+    "wof:name":"Trebence",
+    "wof:parent_id":1108959577,
+    "wof:placetype":"locality",
+    "wof:population":95,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.98771,
+    46.14334,
+    13.98771,
+    46.14334
+],
+  "geometry": {"coordinates":[13.98771,46.14334],"type":"Point"}
+}

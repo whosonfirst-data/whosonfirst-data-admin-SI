@@ -1,0 +1,65 @@
+{
+  "id": 1209251279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.28333,45.83333,15.28333,45.83333",
+    "geom:latitude":45.83333,
+    "geom:longitude":15.28333,
+    "gn:admin1_code":"B4",
+    "gn:asciiname":"Dolenje Mokro Polje",
+    "gn:country_code":"SI",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201832,
+    "gn:latitude":45.83333,
+    "gn:longitude":15.28333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Dolenje Mokro Polje",
+    "gn:population":147,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201832,
+        "wk:page":"Dolenje_Mokro_Polje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"bb9179eb562360b41423affb685e0ba1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209251279
+        }
+    ],
+    "wof:id":1209251279,
+    "wof:lastmodified":1537573445,
+    "wof:name":"Dolenje Mokro Polje",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":147,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.28333,
+    45.83333,
+    15.28333,
+    45.83333
+],
+  "geometry": {"coordinates":[15.28333,45.83333],"type":"Point"}
+}

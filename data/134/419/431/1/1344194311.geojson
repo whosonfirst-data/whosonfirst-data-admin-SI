@@ -1,0 +1,74 @@
+{
+  "id": 1344194311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.45,45.86667,15.45,45.86667",
+    "geom:latitude":45.86667,
+    "geom:longitude":15.45,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Malo Mrasevo",
+    "gn:country_code":"SI",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195574,
+    "gn:latitude":45.86667,
+    "gn:longitude":15.45,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Malo Mra\u0161evo",
+    "gn:population":111,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malo Mra\u0161evo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195574,
+        "wk:page":"Malo_Mra%C5%A1evo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e7d0eac1f81ecb29ff757efd2d0181b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1344194311,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1344194311,
+    "wof:lastmodified":1537700220,
+    "wof:name":"Malo Mrasevo",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":111,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.45,
+    45.86667,
+    15.45,
+    45.86667
+],
+  "geometry": {"coordinates":[15.45,45.86667],"type":"Point"}
+}

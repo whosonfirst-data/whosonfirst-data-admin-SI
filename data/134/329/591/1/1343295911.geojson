@@ -1,0 +1,71 @@
+{
+  "id": 1343295911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7275,46.38806,15.7275,46.38806",
+    "geom:latitude":46.38806,
+    "geom:longitude":15.7275,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Dragonja Vas",
+    "gn:country_code":"SI",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216743,
+    "gn:latitude":46.38806,
+    "gn:longitude":15.7275,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Dragonja Vas",
+    "gn:population":187,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959739,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216743,
+        "wk:page":"Dragonja_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"074a620392146993e048638f846de1cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959739,
+            "locality_id":1343295911,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1343295911,
+    "wof:lastmodified":1537573457,
+    "wof:name":"Dragonja Vas",
+    "wof:parent_id":1108959739,
+    "wof:placetype":"locality",
+    "wof:population":187,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7275,
+    46.38806,
+    15.7275,
+    46.38806
+],
+  "geometry": {"coordinates":[15.7275,46.38806],"type":"Point"}
+}

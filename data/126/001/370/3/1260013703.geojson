@@ -1,0 +1,71 @@
+{
+  "id": 1260013703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.71667,46.25,14.71667,46.25",
+    "geom:latitude":46.25,
+    "geom:longitude":14.71667,
+    "gn:admin1_code":"H6",
+    "gn:asciiname":"Poljane nad Blagovicom",
+    "gn:country_code":"SI",
+    "gn:dem":775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192814,
+    "gn:latitude":46.25,
+    "gn:longitude":14.71667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Poljane nad Blagovicom",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poljane",
+        "Poljane nad Blagovicom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959941,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192814
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fd65108e988bcefa5fd2d4dd02402409",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959941,
+            "locality_id":1260013703,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1260013703,
+    "wof:lastmodified":1537700207,
+    "wof:name":"Poljane nad Blagovicom",
+    "wof:parent_id":1108959941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.71667,
+    46.25,
+    14.71667,
+    46.25
+],
+  "geometry": {"coordinates":[14.71667,46.25],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310236277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.24751,45.95543,15.24751,45.95543",
+    "geom:latitude":45.95543,
+    "geom:longitude":15.24751,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Jeperjek",
+    "gn:country_code":"SI",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988735,
+    "gn:latitude":45.95543,
+    "gn:longitude":15.24751,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Jeperjek",
+    "gn:population":34,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988735,
+        "wk:page":"Jeperjek"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d1445eb204b79935f9f5b8e9da05c41a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1310236277,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1310236277,
+    "wof:lastmodified":1537573521,
+    "wof:name":"Jeperjek",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":34,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.24751,
+    45.95543,
+    15.24751,
+    45.95543
+],
+  "geometry": {"coordinates":[15.24751,45.95543],"type":"Point"}
+}

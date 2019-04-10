@@ -1,0 +1,71 @@
+{
+  "id": 1276371109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.86544,46.55975,14.86544,46.55975",
+    "geom:latitude":46.55975,
+    "geom:longitude":14.86544,
+    "gn:admin1_code":"K6",
+    "gn:asciiname":"Dolga Brda",
+    "gn:country_code":"SI",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987015,
+    "gn:latitude":46.55975,
+    "gn:longitude":14.86544,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Dolga Brda",
+    "gn:population":335,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959695,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987015,
+        "wk:page":"Dolga_Brda"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"cc2b5846cc58e8b88149ab384ce98479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959695,
+            "locality_id":1276371109,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1276371109,
+    "wof:lastmodified":1537573467,
+    "wof:name":"Dolga Brda",
+    "wof:parent_id":1108959695,
+    "wof:placetype":"locality",
+    "wof:population":335,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.86544,
+    46.55975,
+    14.86544,
+    46.55975
+],
+  "geometry": {"coordinates":[14.86544,46.55975],"type":"Point"}
+}

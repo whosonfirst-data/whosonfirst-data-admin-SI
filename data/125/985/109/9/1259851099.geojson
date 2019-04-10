@@ -1,0 +1,74 @@
+{
+  "id": 1259851099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.31202,45.53005,15.31202,45.53005",
+    "geom:latitude":45.53005,
+    "geom:longitude":15.31202,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Pobrezje",
+    "gn:country_code":"SI",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989705,
+    "gn:latitude":45.53005,
+    "gn:longitude":15.31202,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Pobre\u017eje",
+    "gn:population":9,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pobre\u017eje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959699,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989705,
+        "wk:page":"Pobre%C5%BEje%2C_%C4%8Crnomelj"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"42a183f75a267493c0cdb9b3b80d7f66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959699,
+            "locality_id":1259851099,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1259851099,
+    "wof:lastmodified":1537700332,
+    "wof:name":"Pobrezje",
+    "wof:parent_id":1108959699,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.31202,
+    45.53005,
+    15.31202,
+    45.53005
+],
+  "geometry": {"coordinates":[15.31202,45.53005],"type":"Point"}
+}

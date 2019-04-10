@@ -1,0 +1,71 @@
+{
+  "id": 1210047179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.55328,45.78498,14.55328,45.78498",
+    "geom:latitude":45.78498,
+    "geom:longitude":14.55328,
+    "gn:admin1_code":"M1",
+    "gn:asciiname":"Kotel",
+    "gn:country_code":"SI",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989392,
+    "gn:latitude":45.78498,
+    "gn:longitude":14.55328,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kotel",
+    "gn:population":3,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959805,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989392,
+        "wk:page":"Kotel%2C_Sodra%C5%BEica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6637a21f72d0f73bdb4297c1b782763a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959805,
+            "locality_id":1210047179,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1210047179,
+    "wof:lastmodified":1537573541,
+    "wof:name":"Kotel",
+    "wof:parent_id":1108959805,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.55328,
+    45.78498,
+    14.55328,
+    45.78498
+],
+  "geometry": {"coordinates":[14.55328,45.78498],"type":"Point"}
+}

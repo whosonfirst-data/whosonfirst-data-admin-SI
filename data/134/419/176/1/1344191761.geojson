@@ -1,0 +1,71 @@
+{
+  "id": 1344191761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.97409,46.31538,14.97409,46.31538",
+    "geom:latitude":46.31538,
+    "geom:longitude":14.97409,
+    "gn:admin1_code":"79",
+    "gn:asciiname":"Dobrovlje pri Mozirju",
+    "gn:country_code":"SI",
+    "gn:dem":661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989843,
+    "gn:latitude":46.31538,
+    "gn:longitude":14.97409,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Dobrovlje pri Mozirju",
+    "gn:population":64,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959485,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989843,
+        "wk:page":"Dobrovlje_pri_Mozirju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d426adc100a27143e0b8a789af0ca6c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959485,
+            "locality_id":1344191761,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1344191761,
+    "wof:lastmodified":1537573554,
+    "wof:name":"Dobrovlje pri Mozirju",
+    "wof:parent_id":1108959485,
+    "wof:placetype":"locality",
+    "wof:population":64,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.97409,
+    46.31538,
+    14.97409,
+    46.31538
+],
+  "geometry": {"coordinates":[14.97409,46.31538],"type":"Point"}
+}

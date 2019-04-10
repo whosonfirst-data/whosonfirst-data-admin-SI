@@ -1,0 +1,74 @@
+{
+  "id": 1310678113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.51667,46.25,14.51667,46.25",
+    "geom:latitude":46.25,
+    "geom:longitude":14.51667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Smartno",
+    "gn:country_code":"SI",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190501,
+    "gn:latitude":46.25,
+    "gn:longitude":14.51667,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160martno",
+    "gn:population":151,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160martno"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959493,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190501,
+        "wk:page":"%C5%A0martno%2C_Cerklje_na_Gorenjskem"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e057814a8529f85b528ad36a7b7377ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959493,
+            "locality_id":1310678113,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1310678113,
+    "wof:lastmodified":1537700191,
+    "wof:name":"Smartno",
+    "wof:parent_id":1108959493,
+    "wof:placetype":"locality",
+    "wof:population":151,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.51667,
+    46.25,
+    14.51667,
+    46.25
+],
+  "geometry": {"coordinates":[14.51667,46.25],"type":"Point"}
+}

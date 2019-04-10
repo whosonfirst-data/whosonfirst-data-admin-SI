@@ -1,0 +1,101 @@
+{
+  "id": 1125999975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.779688,46.181463,13.779688,46.181463",
+    "geom:latitude":46.181463,
+    "geom:longitude":13.779688,
+    "gn:gn_country":null,
+    "iso:country":"SI",
+    "lbl:latitude":46.181463,
+    "lbl:longitude":13.779688,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0421\u0435\u043b\u0430 \u043d\u0430\u0434 \u041f\u043e\u0434\u043c\u0435\u043b\u0446\u0435\u043c"
+    ],
+    "name:dut_x_preferred":[
+        "Sela nad Podmelcem"
+    ],
+    "name:eng_x_preferred":[
+        "Sela nad Podmelcem"
+    ],
+    "name:rum_x_preferred":[
+        "Sela nad Podmelcem"
+    ],
+    "name:slv_x_preferred":[
+        "Sela nad Podmelcem"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043b\u0430 \u043d\u0430\u0434 \u041f\u043e\u0434\u043c\u0435\u043b\u0446\u0435\u043c"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Sela Nad Podmelcem",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Tolmin",
+    "qs_pg:photos":44,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":44,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1003146,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":55849408,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Tolmin",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959617,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55849408,
+        "qs_pg:id":1003146,
+        "wd:id":"Q2207933"
+    },
+    "wof:country":"SI",
+    "wof:created":1497299588,
+    "wof:geomhash":"9ffe65e0eb08859857606cc0672383d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959617,
+            "locality_id":1125999975,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1125999975,
+    "wof:lastmodified":1531170230,
+    "wof:name":"Sela Nad Podmelcem",
+    "wof:parent_id":1108959617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.779688,
+    46.181463,
+    13.779688,
+    46.181463
+],
+  "geometry": {"coordinates":[13.779688,46.181463],"type":"Point"}
+}

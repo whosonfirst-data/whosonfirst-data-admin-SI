@@ -1,0 +1,134 @@
+{
+  "id": 101845289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000059,
+    "geom:area_square_m":498726.819778,
+    "geom:bbox":"15.6487490836,46.6705502916,15.6635192369,46.6839373344",
+    "geom:latitude":46.676333,
+    "geom:longitude":15.656836,
+    "iso:country":"SI",
+    "lbl:latitude":46.675336,
+    "lbl:longitude":15.657956,
+    "mps:latitude":46.675336,
+    "mps:longitude":15.657956,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "\u0160entilj v Slovenskih goricah"
+    ],
+    "name:deu_x_preferred":[
+        "\u0160entilj"
+    ],
+    "name:dut_x_preferred":[
+        "\u0160entilj v Slovenskih goricah"
+    ],
+    "name:eng_x_preferred":[
+        "\u0160entilj"
+    ],
+    "name:hbs_x_preferred":[
+        "\u0160entilj v Slovenskih goricah"
+    ],
+    "name:ita_x_preferred":[
+        "\u0160entilj"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30a7\u30f3\u30c6\u30a3\u30ea"
+    ],
+    "name:nld_x_preferred":[
+        "\u0160entilj v Slovenskih goricah"
+    ],
+    "name:nld_x_variant":[
+        "\u0160entilj"
+    ],
+    "name:ron_x_preferred":[
+        "\u0160entilj v Slovenskih goricah"
+    ],
+    "name:ron_x_variant":[
+        "\u0160entilj"
+    ],
+    "name:rum_x_preferred":[
+        "\u0160entilj v Slovenskih goricah"
+    ],
+    "name:slv_x_preferred":[
+        "\u0160entilj v Slovenskih goricah"
+    ],
+    "name:slv_x_variant":[
+        "Ob\u010dina \u0160entilj"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0435\u043d\u0442\u0438\u0459 \u0432 \u0421\u043b\u043e\u0432\u0435\u043d\u0441\u043a\u0438\u0445 \u0413\u043e\u0440\u0438\u0446\u0430\u0445"
+    ],
+    "name:swe_x_preferred":[
+        "Sentilj"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0435\u043d\u0442\u0438\u043b\u044c-\u0432-\u0421\u043b\u043e\u0432\u0435\u043d\u0441\u044c\u043a\u0438\u0445 \u0413\u043e\u0440\u0438\u0446\u044f\u0445"
+    ],
+    "name:unk_x_variant":[
+        "Sveti Ilj"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"\u0160entilj v Slov. goricah",
+    "qs:la_lc":"*SI118000",
+    "qs:level":"locality",
+    "qs:loc":"\u0160entilj v Slov. goricah",
+    "qs:loc_alt":"Sentilj v Slov. goricah",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":118,
+    "wof:belongsto":[
+        102191581,
+        1108959565,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191039,
+        "gp:id":531497,
+        "qs:id":988370,
+        "qs_pg:id":1043930,
+        "wd:id":"Q283389",
+        "wk:page":"\u0160entilj v Slovenskih Goricah"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"30f095824dc42926aa2d7bfaa104aee4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959565,
+            "locality_id":101845289,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":101845289,
+    "wof:lastmodified":1531170945,
+    "wof:name":"\u0160entilj v Slov. goricah",
+    "wof:parent_id":1108959565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.64874908361867,
+    46.67055029164356,
+    15.66351923685568,
+    46.68393733440001
+],
+  "geometry": {"coordinates":[[[15.66351923685568,46.67414011132524],[15.6631353317494,46.67055029164356],[15.66053023312958,46.670687530728],[15.66062615942366,46.67158498919855],[15.65802100489816,46.67172216794836],[15.65811689166793,46.67261962852143],[15.6568142879778,46.67268819560513],[15.65691015707409,46.67358565693939],[15.65560752848012,46.67365420960817],[15.65579923550229,46.67544913322183],[15.65449656014715,46.67551767281446],[15.65459239807035,46.67641513509358],[15.65328969780944,46.67648366027021],[15.65348134247563,46.67827858577283],[15.65217859544714,46.67834709787155],[15.65227440218746,46.67924456109512],[15.64966885526792,46.67938154070021],[15.65005194910475,46.68297139852791],[15.64874908361867,46.68303987004845],[15.64884484565448,46.68393733440001],[15.65145061731357,46.68380037292246],[15.65116321254158,46.68110798616789],[15.65246602820406,46.68103948580887],[15.65237021310668,46.68014202374087],[15.65627857621786,46.6799364321372],[15.65618269971253,46.67903897351033],[15.65748545945706,46.67897041280156],[15.65738956527241,46.67807295493691],[15.65869230010634,46.6780043798118],[15.65859638824406,46.67710692270919],[15.65989909816835,46.67703833316858],[15.65980316863028,46.67614087682841],[15.66110585364578,46.67607227287243],[15.66091396340573,46.67427736113871],[15.66351923685568,46.67414011132524]]],"type":"Polygon"}
+}

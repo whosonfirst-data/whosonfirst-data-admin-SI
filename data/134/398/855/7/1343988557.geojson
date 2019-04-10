@@ -1,0 +1,71 @@
+{
+  "id": 1343988557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.88212,45.52151,14.88212,45.52151",
+    "geom:latitude":45.52151,
+    "geom:longitude":14.88212,
+    "gn:admin1_code":"H9",
+    "gn:asciiname":"Srednji Potok",
+    "gn:country_code":"SI",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989676,
+    "gn:latitude":45.52151,
+    "gn:longitude":14.88212,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Srednji Potok",
+    "gn:population":1,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959711,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989676,
+        "wk:page":"Srednji_Potok"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8dcc72345b3646a132a92d0b96e4c6b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959711,
+            "locality_id":1343988557,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1343988557,
+    "wof:lastmodified":1537573549,
+    "wof:name":"Srednji Potok",
+    "wof:parent_id":1108959711,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.88212,
+    45.52151,
+    14.88212,
+    45.52151
+],
+  "geometry": {"coordinates":[14.88212,45.52151],"type":"Point"}
+}

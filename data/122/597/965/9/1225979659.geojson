@@ -1,0 +1,71 @@
+{
+  "id": 1225979659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.00912,46.3932,15.00912,46.3932",
+    "geom:latitude":46.3932,
+    "geom:longitude":15.00912,
+    "gn:admin1_code":"C7",
+    "gn:asciiname":"Florjan",
+    "gn:country_code":"SI",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986871,
+    "gn:latitude":46.3932,
+    "gn:longitude":15.00912,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Florjan",
+    "gn:population":836,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959731,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986871,
+        "wk:page":"Florjan%2C_%C5%A0o%C5%A1tanj"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8ee4e720486658063c71f71122ebefd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959731,
+            "locality_id":1225979659,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1225979659,
+    "wof:lastmodified":1537573463,
+    "wof:name":"Florjan",
+    "wof:parent_id":1108959731,
+    "wof:placetype":"locality",
+    "wof:population":836,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.00912,
+    46.3932,
+    15.00912,
+    46.3932
+],
+  "geometry": {"coordinates":[15.00912,46.3932],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327364247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.5492,46.03798,15.5492,46.03798",
+    "geom:latitude":46.03798,
+    "geom:longitude":15.5492,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Vojsko",
+    "gn:country_code":"SI",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988006,
+    "gn:latitude":46.03798,
+    "gn:longitude":15.5492,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Vojsko",
+    "gn:population":82,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959581,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988006,
+        "wk:page":"Vojsko%2C_Kozje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e0bff537114f72ed78f164beec3407bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959581,
+            "locality_id":1327364247,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1327364247,
+    "wof:lastmodified":1537573498,
+    "wof:name":"Vojsko",
+    "wof:parent_id":1108959581,
+    "wof:placetype":"locality",
+    "wof:population":82,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.5492,
+    46.03798,
+    15.5492,
+    46.03798
+],
+  "geometry": {"coordinates":[15.5492,46.03798],"type":"Point"}
+}

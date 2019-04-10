@@ -1,0 +1,67 @@
+{
+  "id": 1360220955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.8175,46.17944,13.8175,46.17944",
+    "geom:latitude":46.17944,
+    "geom:longitude":13.8175,
+    "gn:admin1_code":"D2",
+    "gn:asciiname":"Selo",
+    "gn:country_code":"SI",
+    "gn:dem":800,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218339,
+    "gn:latitude":46.17944,
+    "gn:longitude":13.8175,
+    "gn:modification_date":"2008-11-25",
+    "gn:name":"Selo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959617,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218339
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5bca5a512605874a0ae81bbd1a72e1f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959617,
+            "locality_id":1360220955,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1360220955,
+    "wof:lastmodified":1536749475,
+    "wof:name":"Selo",
+    "wof:parent_id":1108959617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.8175,
+    46.17944,
+    13.8175,
+    46.17944
+],
+  "geometry": {"coordinates":[13.8175,46.17944],"type":"Point"}
+}

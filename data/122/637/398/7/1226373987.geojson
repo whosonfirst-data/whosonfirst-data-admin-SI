@@ -1,0 +1,71 @@
+{
+  "id": 1226373987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.51603,46.20318,14.51603,46.20318",
+    "geom:latitude":46.20318,
+    "geom:longitude":14.51603,
+    "gn:admin1_code":"H8",
+    "gn:asciiname":"Breg pri Komendi",
+    "gn:country_code":"SI",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989773,
+    "gn:latitude":46.20318,
+    "gn:longitude":14.51603,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Breg pri Komendi",
+    "gn:population":163,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959837,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989773,
+        "wk:page":"Breg_pri_Komendi"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"48a1a9089e1d0562a72cb3db9288ed7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959837,
+            "locality_id":1226373987,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1226373987,
+    "wof:lastmodified":1537573552,
+    "wof:name":"Breg pri Komendi",
+    "wof:parent_id":1108959837,
+    "wof:placetype":"locality",
+    "wof:population":163,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.51603,
+    46.20318,
+    14.51603,
+    46.20318
+],
+  "geometry": {"coordinates":[14.51603,46.20318],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259719673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.41122,45.82979,15.41122,45.82979",
+    "geom:latitude":45.82979,
+    "geom:longitude":15.41122,
+    "gn:admin1_code":"O3",
+    "gn:asciiname":"Gric",
+    "gn:country_code":"SI",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988864,
+    "gn:latitude":45.82979,
+    "gn:longitude":15.41122,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Gri\u010d",
+    "gn:population":29,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gri\u010d"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959835,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988864,
+        "wk:page":"Gri%C4%8D%2C_Kostanjevica_na_Krki"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2583c3092cdfe9ad2681e245dbc40409",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959835,
+            "locality_id":1259719673,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1259719673,
+    "wof:lastmodified":1537700315,
+    "wof:name":"Gric",
+    "wof:parent_id":1108959835,
+    "wof:placetype":"locality",
+    "wof:population":29,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.41122,
+    45.82979,
+    15.41122,
+    45.82979
+],
+  "geometry": {"coordinates":[15.41122,45.82979],"type":"Point"}
+}

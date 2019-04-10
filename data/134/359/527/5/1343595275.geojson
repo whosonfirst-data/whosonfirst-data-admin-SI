@@ -1,0 +1,74 @@
+{
+  "id": 1343595275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.63115,46.33084,15.63115,46.33084",
+    "geom:latitude":46.33084,
+    "geom:longitude":15.63115,
+    "gn:admin1_code":"L8",
+    "gn:asciiname":"Jesovec",
+    "gn:country_code":"SI",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989118,
+    "gn:latitude":46.33084,
+    "gn:longitude":15.63115,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Je\u0161ovec",
+    "gn:population":17,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Je\u0161ovec"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959641,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989118,
+        "wk:page":"Je%C5%A1ovec%2C_Slovenska_Bistrica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"725c3868e5d93d7d846c85f3a2623b38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959641,
+            "locality_id":1343595275,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1343595275,
+    "wof:lastmodified":1537700320,
+    "wof:name":"Jesovec",
+    "wof:parent_id":1108959641,
+    "wof:placetype":"locality",
+    "wof:population":17,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.63115,
+    46.33084,
+    15.63115,
+    46.33084
+],
+  "geometry": {"coordinates":[15.63115,46.33084],"type":"Point"}
+}

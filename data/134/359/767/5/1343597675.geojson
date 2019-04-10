@@ -1,0 +1,71 @@
+{
+  "id": 1343597675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.92306,46.19611,13.92306,46.19611",
+    "geom:latitude":46.19611,
+    "geom:longitude":13.92306,
+    "gn:admin1_code":"D2",
+    "gn:asciiname":"Znojile",
+    "gn:country_code":"SI",
+    "gn:dem":690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186364,
+    "gn:latitude":46.19611,
+    "gn:longitude":13.92306,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Znojile",
+    "gn:population":11,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959617,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186364,
+        "wk:page":"Znojile%2C_Tolmin"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0a98e9416c38405ba4ea4de45081dc95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959617,
+            "locality_id":1343597675,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1343597675,
+    "wof:lastmodified":1537573380,
+    "wof:name":"Znojile",
+    "wof:parent_id":1108959617,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.92306,
+    46.19611,
+    13.92306,
+    46.19611
+],
+  "geometry": {"coordinates":[13.92306,46.19611],"type":"Point"}
+}

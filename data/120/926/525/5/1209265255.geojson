@@ -1,0 +1,68 @@
+{
+  "id": 1209265255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.00245,46.60665,16.00245,46.60665",
+    "geom:latitude":46.60665,
+    "geom:longitude":16.00245,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Oceslavci",
+    "gn:country_code":"SI",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989774,
+    "gn:latitude":46.60665,
+    "gn:longitude":16.00245,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"O\u010deslavci",
+    "gn:population":159,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "O\u010deslavci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989774,
+        "wk:page":"O%C4%8Deslavci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fbecebacefd4674d916def3779182db3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209265255
+        }
+    ],
+    "wof:id":1209265255,
+    "wof:lastmodified":1537700332,
+    "wof:name":"Oceslavci",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":159,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.00245,
+    46.60665,
+    16.00245,
+    46.60665
+],
+  "geometry": {"coordinates":[16.00245,46.60665],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327171085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.29675,46.32506,15.29675,46.32506",
+    "geom:latitude":46.32506,
+    "geom:longitude":15.29675,
+    "gn:admin1_code":"N3",
+    "gn:asciiname":"Novake",
+    "gn:country_code":"SI",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987778,
+    "gn:latitude":46.32506,
+    "gn:longitude":15.29675,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Novake",
+    "gn:population":105,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959653,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987778,
+        "wk:page":"Novake%2C_Vojnik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f0589d111e234212b4473b8346c34600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959653,
+            "locality_id":1327171085,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1327171085,
+    "wof:lastmodified":1537573491,
+    "wof:name":"Novake",
+    "wof:parent_id":1108959653,
+    "wof:placetype":"locality",
+    "wof:population":105,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.29675,
+    46.32506,
+    15.29675,
+    46.32506
+],
+  "geometry": {"coordinates":[15.29675,46.32506],"type":"Point"}
+}

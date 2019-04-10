@@ -1,0 +1,74 @@
+{
+  "id": 1209697099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.316,46.24678,15.316,46.24678",
+    "geom:latitude":46.24678,
+    "geom:longitude":15.316,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Zacret",
+    "gn:country_code":"SI",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987014,
+    "gn:latitude":46.24678,
+    "gn:longitude":15.316,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Za\u010dret",
+    "gn:population":341,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Za\u010dret"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959693,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987014,
+        "wk:page":"Za%C4%8Dret"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d89b9e47551d35e31860ed4d4b389d49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959693,
+            "locality_id":1209697099,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1209697099,
+    "wof:lastmodified":1537700278,
+    "wof:name":"Zacret",
+    "wof:parent_id":1108959693,
+    "wof:placetype":"locality",
+    "wof:population":341,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.316,
+    46.24678,
+    15.316,
+    46.24678
+],
+  "geometry": {"coordinates":[15.316,46.24678],"type":"Point"}
+}

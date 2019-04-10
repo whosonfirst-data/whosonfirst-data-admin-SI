@@ -1,0 +1,71 @@
+{
+  "id": 1226178365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.17753,46.32525,14.17753,46.32525",
+    "geom:latitude":46.32525,
+    "geom:longitude":14.17753,
+    "gn:admin1_code":"A3",
+    "gn:asciiname":"Zgornja Lipnica",
+    "gn:country_code":"SI",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186537,
+    "gn:latitude":46.32525,
+    "gn:longitude":14.17753,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Zgornja Lipnica",
+    "gn:population":168,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959825,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186537,
+        "wk:page":"Zgornja_Lipnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"bca6a9655e26b5f57dd7c370885944ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959825,
+            "locality_id":1226178365,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1226178365,
+    "wof:lastmodified":1537573382,
+    "wof:name":"Zgornja Lipnica",
+    "wof:parent_id":1108959825,
+    "wof:placetype":"locality",
+    "wof:population":168,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.17753,
+    46.32525,
+    14.17753,
+    46.32525
+],
+  "geometry": {"coordinates":[14.17753,46.32525],"type":"Point"}
+}

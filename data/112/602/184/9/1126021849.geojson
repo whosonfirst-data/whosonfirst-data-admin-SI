@@ -1,0 +1,110 @@
+{
+  "id": 1126021849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.16944,46.26028,15.16944,46.26028",
+    "geom:latitude":46.26028,
+    "geom:longitude":15.16944,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1132,
+    "gn:population":1216,
+    "iso:country":"SI",
+    "lbl:latitude":46.26028,
+    "lbl:longitude":15.16944,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Gotovlje"
+    ],
+    "name:dut_x_preferred":[
+        "Gotovlje"
+    ],
+    "name:eng_x_preferred":[
+        "Gotovlje"
+    ],
+    "name:hrv_x_preferred":[
+        "Gotovlje"
+    ],
+    "name:rum_x_preferred":[
+        "Gotovlje"
+    ],
+    "name:slv_x_preferred":[
+        "Gotovlje"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0442\u043e\u0432\u043b\u0454"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3199856,
+    "qs_pg:gn_pop":1132,
+    "qs_pg:name":"Gotovlje",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Zalec",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":312318,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":530147,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Zalec",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959929,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199856,
+        "gp:id":530147,
+        "qs_pg:id":312318,
+        "wd:id":"Q3499613"
+    },
+    "wof:country":"SI",
+    "wof:created":1497300878,
+    "wof:geomhash":"47f9c6c01d19639bfdcc98f181a87a0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959929,
+            "locality_id":1126021849,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1126021849,
+    "wof:lastmodified":1531170671,
+    "wof:name":"Gotovlje",
+    "wof:parent_id":1108959929,
+    "wof:placetype":"locality",
+    "wof:population":1216,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.16944,
+    46.26028,
+    15.16944,
+    46.26028
+],
+  "geometry": {"coordinates":[15.16944,46.26028],"type":"Point"}
+}

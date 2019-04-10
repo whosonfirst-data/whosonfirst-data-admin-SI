@@ -1,0 +1,74 @@
+{
+  "id": 1193091397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.1702,46.14122,14.1702,46.14122",
+    "geom:latitude":46.14122,
+    "geom:longitude":14.1702,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Lom nad Volco",
+    "gn:country_code":"SI",
+    "gn:dem":555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988505,
+    "gn:latitude":46.14122,
+    "gn:longitude":14.1702,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Lom nad Vol\u010do",
+    "gn:population":46,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lom nad Vol\u010do"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959897,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988505,
+        "wk:page":"Lom_nad_Vol%C4%8Do"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"44b412957954b5f7a7ef63cc9650ab6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959897,
+            "locality_id":1193091397,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1193091397,
+    "wof:lastmodified":1537700308,
+    "wof:name":"Lom nad Volco",
+    "wof:parent_id":1108959897,
+    "wof:placetype":"locality",
+    "wof:population":46,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.1702,
+    46.14122,
+    14.1702,
+    46.14122
+],
+  "geometry": {"coordinates":[14.1702,46.14122],"type":"Point"}
+}

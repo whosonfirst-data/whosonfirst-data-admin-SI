@@ -1,0 +1,75 @@
+{
+  "id": 1293332757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.77194,45.9925,13.77194,45.9925",
+    "geom:latitude":45.9925,
+    "geom:longitude":13.77194,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Nemci",
+    "gn:country_code":"SI",
+    "gn:dem":852,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194544,
+    "gn:latitude":45.9925,
+    "gn:longitude":13.77194,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Nemci",
+    "gn:population":26,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Casali Nenzi",
+        "Nemci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959487,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194544,
+        "wk:page":"Nemci%2C_Nova_Gorica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8cb380e25c79f0c56e6a37a1fcc9664e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959487,
+            "locality_id":1293332757,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1293332757,
+    "wof:lastmodified":1537700215,
+    "wof:name":"Nemci",
+    "wof:parent_id":1108959487,
+    "wof:placetype":"locality",
+    "wof:population":26,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.77194,
+    45.9925,
+    13.77194,
+    45.9925
+],
+  "geometry": {"coordinates":[13.77194,45.9925],"type":"Point"}
+}

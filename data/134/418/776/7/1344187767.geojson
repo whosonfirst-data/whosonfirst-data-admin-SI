@@ -1,0 +1,75 @@
+{
+  "id": 1344187767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.5743,46.2537,15.5743,46.2537",
+    "geom:latitude":46.2537,
+    "geom:longitude":15.5743,
+    "gn:admin1_code":"A7",
+    "gn:asciiname":"Brezje pri Podplatu",
+    "gn:country_code":"SI",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203387,
+    "gn:latitude":46.2537,
+    "gn:longitude":15.5743,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Brezje pri Podplatu",
+    "gn:population":63,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brezje",
+        "Brezje pri Podplatu"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959803,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203387,
+        "wk:page":"Brezje_pri_Podplatu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1170673f1399f3cf8e1693cd7e98d0a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959803,
+            "locality_id":1344187767,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1344187767,
+    "wof:lastmodified":1537700262,
+    "wof:name":"Brezje pri Podplatu",
+    "wof:parent_id":1108959803,
+    "wof:placetype":"locality",
+    "wof:population":63,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.5743,
+    46.2537,
+    15.5743,
+    46.2537
+],
+  "geometry": {"coordinates":[15.5743,46.2537],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1193179519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.66461,46.04726,13.66461,46.04726",
+    "geom:latitude":46.04726,
+    "geom:longitude":13.66461,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Dragovica",
+    "gn:country_code":"SI",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988391,
+    "gn:latitude":46.04726,
+    "gn:longitude":13.66461,
+    "gn:modification_date":"2015-10-02",
+    "gn:name":"Dragovica",
+    "gn:population":53,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Dragovce"
+    ],
+    "name:slv_x_preferred":[
+        "Dragovce"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959487,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988391
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0889397816ae5d08aecf7fc6dadd3e1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959487,
+            "locality_id":1193179519,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1193179519,
+    "wof:lastmodified":1537700305,
+    "wof:name":"Dragovica",
+    "wof:parent_id":1108959487,
+    "wof:placetype":"locality",
+    "wof:population":53,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.66461,
+    46.04726,
+    13.66461,
+    46.04726
+],
+  "geometry": {"coordinates":[13.66461,46.04726],"type":"Point"}
+}

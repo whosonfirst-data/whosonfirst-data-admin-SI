@@ -1,0 +1,70 @@
+{
+  "id": 1293625759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.58844,46.09067,13.58844,46.09067",
+    "geom:latitude":46.09067,
+    "geom:longitude":13.58844,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Bajti",
+    "gn:country_code":"SI",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10794022,
+    "gn:latitude":46.09067,
+    "gn:longitude":13.58844,
+    "gn:modification_date":"2015-10-01",
+    "gn:name":"Bajti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_preferred":[
+        "Prapo\u0161\u010de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959537,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10794022
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"76a9f099b3450733ade1aabb6aa98a4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959537,
+            "locality_id":1293625759,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1293625759,
+    "wof:lastmodified":1537700336,
+    "wof:name":"Bajti",
+    "wof:parent_id":1108959537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.58844,
+    46.09067,
+    13.58844,
+    46.09067
+],
+  "geometry": {"coordinates":[13.58844,46.09067],"type":"Point"}
+}

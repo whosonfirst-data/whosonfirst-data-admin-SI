@@ -1,0 +1,71 @@
+{
+  "id": 1309842751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.84206,46.01571,14.84206,46.01571",
+    "geom:latitude":46.01571,
+    "geom:longitude":14.84206,
+    "gn:admin1_code":"L9",
+    "gn:asciiname":"Riharjevec",
+    "gn:country_code":"SI",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989564,
+    "gn:latitude":46.01571,
+    "gn:longitude":14.84206,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Riharjevec",
+    "gn:population":55,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959745,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989564,
+        "wk:page":"Riharjevec"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8f73583da52d84aaabe3b56aa8aa9a64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959745,
+            "locality_id":1309842751,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1309842751,
+    "wof:lastmodified":1537573545,
+    "wof:name":"Riharjevec",
+    "wof:parent_id":1108959745,
+    "wof:placetype":"locality",
+    "wof:population":55,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.84206,
+    46.01571,
+    14.84206,
+    46.01571
+],
+  "geometry": {"coordinates":[14.84206,46.01571],"type":"Point"}
+}

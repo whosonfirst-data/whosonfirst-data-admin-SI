@@ -1,0 +1,71 @@
+{
+  "id": 1327170981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.97972,45.79667,13.97972,45.79667",
+    "geom:latitude":45.79667,
+    "geom:longitude":13.97972,
+    "gn:admin1_code":"E1",
+    "gn:asciiname":"Podbreg",
+    "gn:country_code":"SI",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343540,
+    "gn:latitude":45.79667,
+    "gn:longitude":13.97972,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Podbreg",
+    "gn:population":110,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959623,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343540,
+        "wk:page":"Podbreg%2C_Vipava"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"235348c4239a908fe4e018938b7e5188",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959623,
+            "locality_id":1327170981,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1327170981,
+    "wof:lastmodified":1537573462,
+    "wof:name":"Podbreg",
+    "wof:parent_id":1108959623,
+    "wof:placetype":"locality",
+    "wof:population":110,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.97972,
+    45.79667,
+    13.97972,
+    45.79667
+],
+  "geometry": {"coordinates":[13.97972,45.79667],"type":"Point"}
+}

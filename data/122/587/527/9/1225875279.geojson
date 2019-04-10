@@ -1,0 +1,71 @@
+{
+  "id": 1225875279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.74527,46.11468,13.74527,46.11468",
+    "geom:latitude":46.11468,
+    "geom:longitude":13.74527,
+    "gn:admin1_code":"D2",
+    "gn:asciiname":"Dolgi Laz",
+    "gn:country_code":"SI",
+    "gn:dem":690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989193,
+    "gn:latitude":46.11468,
+    "gn:longitude":13.74527,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Dolgi Laz",
+    "gn:population":14,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959617,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989193,
+        "wk:page":"Dolgi_Laz"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ec9318c4ae8d4bb77e5eb13d043e9fa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959617,
+            "locality_id":1225875279,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1225875279,
+    "wof:lastmodified":1537573535,
+    "wof:name":"Dolgi Laz",
+    "wof:parent_id":1108959617,
+    "wof:placetype":"locality",
+    "wof:population":14,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.74527,
+    46.11468,
+    13.74527,
+    46.11468
+],
+  "geometry": {"coordinates":[13.74527,46.11468],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1309939573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0575,45.50778,15.0575,45.50778",
+    "geom:latitude":45.50778,
+    "geom:longitude":15.0575,
+    "gn:admin1_code":"H7",
+    "gn:asciiname":"Predgrad",
+    "gn:country_code":"SI",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192558,
+    "gn:latitude":45.50778,
+    "gn:longitude":15.0575,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Predgrad",
+    "gn:population":111,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pregrad",
+        "Predgrad"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959919,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192558,
+        "wk:page":"Predgrad"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"71555cba6a5da5b251d8ce260feb2f3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959919,
+            "locality_id":1309939573,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1309939573,
+    "wof:lastmodified":1537700205,
+    "wof:name":"Predgrad",
+    "wof:parent_id":1108959919,
+    "wof:placetype":"locality",
+    "wof:population":111,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0575,
+    45.50778,
+    15.0575,
+    45.50778
+],
+  "geometry": {"coordinates":[15.0575,45.50778],"type":"Point"}
+}

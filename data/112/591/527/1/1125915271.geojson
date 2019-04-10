@@ -1,0 +1,120 @@
+{
+  "id": 1125915271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.78417,45.85722,13.78417,45.85722",
+    "geom:latitude":45.85722,
+    "geom:longitude":13.78417,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":997,
+    "gn:population":960,
+    "iso:country":"SI",
+    "lbl:latitude":45.85722,
+    "lbl:longitude":13.78417,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Branik"
+    ],
+    "name:dut_x_preferred":[
+        "Branik"
+    ],
+    "name:eng_x_preferred":[
+        "Branik"
+    ],
+    "name:hun_x_preferred":[
+        "Branik"
+    ],
+    "name:ita_x_preferred":[
+        "Rifembergo"
+    ],
+    "name:rum_x_preferred":[
+        "Branik"
+    ],
+    "name:slv_x_preferred":[
+        "Branik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0430\u043d\u0456\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Rihemberk"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3203563,
+    "qs_pg:gn_pop":997,
+    "qs_pg:name":"Branik",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Nova Gorica",
+    "qs_pg:photos":29,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":29,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":982809,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":529602,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Nova Gorica",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959487,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203563,
+        "gp:id":529602,
+        "qs_pg:id":982809,
+        "wd:id":"Q2430375"
+    },
+    "wof:country":"SI",
+    "wof:created":1497296296,
+    "wof:geomhash":"83a37a7d98a463ebd03af254c7d5cfd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959487,
+            "locality_id":1125915271,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1125915271,
+    "wof:lastmodified":1531170232,
+    "wof:name":"Branik",
+    "wof:parent_id":1108959487,
+    "wof:placetype":"locality",
+    "wof:population":960,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.78417,
+    45.85722,
+    13.78417,
+    45.85722
+],
+  "geometry": {"coordinates":[13.78417,45.85722],"type":"Point"}
+}

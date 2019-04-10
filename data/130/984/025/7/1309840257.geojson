@@ -1,0 +1,74 @@
+{
+  "id": 1309840257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.00636,45.94655,15.00636,45.94655",
+    "geom:latitude":45.94655,
+    "geom:longitude":15.00636,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Mala Sevnica",
+    "gn:country_code":"SI",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989644,
+    "gn:latitude":45.94655,
+    "gn:longitude":15.00636,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Mala \u0160evnica",
+    "gn:population":18,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mala \u0160evnica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959839,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989644,
+        "wk:page":"Mala_%C5%A0evnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"36a8540f37ea6e737a76a6b2d4ad5476",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959839,
+            "locality_id":1309840257,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1309840257,
+    "wof:lastmodified":1537700330,
+    "wof:name":"Mala Sevnica",
+    "wof:parent_id":1108959839,
+    "wof:placetype":"locality",
+    "wof:population":18,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.00636,
+    45.94655,
+    15.00636,
+    45.94655
+],
+  "geometry": {"coordinates":[15.00636,45.94655],"type":"Point"}
+}

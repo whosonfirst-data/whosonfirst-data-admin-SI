@@ -1,0 +1,71 @@
+{
+  "id": 1327061395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.23262,46.1045,14.23262,46.1045",
+    "geom:latitude":46.1045,
+    "geom:longitude":14.23262,
+    "gn:admin1_code":"B9",
+    "gn:asciiname":"Bukov Vrh nad Visokim",
+    "gn:country_code":"SI",
+    "gn:dem":749,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989855,
+    "gn:latitude":46.1045,
+    "gn:longitude":14.23262,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Bukov Vrh nad Visokim",
+    "gn:population":53,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959821,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989855,
+        "wk:page":"Bukov_Vrh_nad_Visokim"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"04104161552b034feae66ebc27d3215c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959821,
+            "locality_id":1327061395,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1327061395,
+    "wof:lastmodified":1537573554,
+    "wof:name":"Bukov Vrh nad Visokim",
+    "wof:parent_id":1108959821,
+    "wof:placetype":"locality",
+    "wof:population":53,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.23262,
+    46.1045,
+    14.23262,
+    46.1045
+],
+  "geometry": {"coordinates":[14.23262,46.1045],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343905397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.02472,46.40306,16.02472,46.40306",
+    "geom:latitude":46.40306,
+    "geom:longitude":16.02472,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Gajevci",
+    "gn:country_code":"SI",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200754,
+    "gn:latitude":46.40306,
+    "gn:longitude":16.02472,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Gajevci",
+    "gn:population":295,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gajovci",
+        "Gajevci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959719,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200754,
+        "wk:page":"Gajevci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4fd4559f213e7bdb75e9e09fccde47cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959719,
+            "locality_id":1343905397,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1343905397,
+    "wof:lastmodified":1537700247,
+    "wof:name":"Gajevci",
+    "wof:parent_id":1108959719,
+    "wof:placetype":"locality",
+    "wof:population":295,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.02472,
+    46.40306,
+    16.02472,
+    46.40306
+],
+  "geometry": {"coordinates":[16.02472,46.40306],"type":"Point"}
+}

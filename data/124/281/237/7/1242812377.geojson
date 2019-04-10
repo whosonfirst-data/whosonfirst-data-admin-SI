@@ -1,0 +1,74 @@
+{
+  "id": 1242812377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.0393,46.62353,16.0393,46.62353",
+    "geom:latitude":46.62353,
+    "geom:longitude":16.0393,
+    "gn:admin1_code":"A1",
+    "gn:asciiname":"Paricjak",
+    "gn:country_code":"SI",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987175,
+    "gn:latitude":46.62353,
+    "gn:longitude":16.0393,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Pari\u010djak",
+    "gn:population":232,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pari\u010djak"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959569,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987175,
+        "wk:page":"Pari%C4%8Djak"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7852d29369775c2e40a8c6a300089782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959569,
+            "locality_id":1242812377,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1242812377,
+    "wof:lastmodified":1537700281,
+    "wof:name":"Paricjak",
+    "wof:parent_id":1108959569,
+    "wof:placetype":"locality",
+    "wof:population":232,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.0393,
+    46.62353,
+    16.0393,
+    46.62353
+],
+  "geometry": {"coordinates":[16.0393,46.62353],"type":"Point"}
+}

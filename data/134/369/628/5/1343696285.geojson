@@ -1,0 +1,72 @@
+{
+  "id": 1343696285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.95,46.56667,14.95,46.56667",
+    "geom:latitude":46.56667,
+    "geom:longitude":14.95,
+    "gn:admin1_code":"K8",
+    "gn:asciiname":"Tolsti Vrh pri Ravnah na Koroskem",
+    "gn:country_code":"SI",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189025,
+    "gn:latitude":46.56667,
+    "gn:longitude":14.95,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tolsti Vrh pri Ravnah na Koro\u0161kem",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tolsti Vrh",
+        "Tolsti Vrh pri Ravnah na Koro\u0161kem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959643,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189025,
+        "wk:page":"Tolsti_Vrh_pri_Ravnah_na_Koro%C5%A1kem%2C_Ravne_na_Koro%C5%A1kem"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e3998c8bb3ddb14e8f390ded8b933f2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959643,
+            "locality_id":1343696285,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1343696285,
+    "wof:lastmodified":1537700182,
+    "wof:name":"Tolsti Vrh pri Ravnah na Koroskem",
+    "wof:parent_id":1108959643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.95,
+    46.56667,
+    14.95,
+    46.56667
+],
+  "geometry": {"coordinates":[14.95,46.56667],"type":"Point"}
+}

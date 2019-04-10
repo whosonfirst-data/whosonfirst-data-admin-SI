@@ -1,0 +1,73 @@
+{
+  "id": 1343395027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.95,45.68333,14.95,45.68333",
+    "geom:latitude":45.68333,
+    "geom:longitude":14.95,
+    "gn:admin1_code":"H7",
+    "gn:asciiname":"Novi Breg",
+    "gn:cc2":"SI",
+    "gn:country_code":"SI",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203465,
+    "gn:latitude":45.68333,
+    "gn:longitude":14.95,
+    "gn:modification_date":"2014-04-22",
+    "gn:name":"Novi Breg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Breg",
+        "Breg pri Ko\u010devju"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959919,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203465,
+        "wk:page":"Novi_Breg"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"379a6ea17502136e1076f31804444da9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959919,
+            "locality_id":1343395027,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1343395027,
+    "wof:lastmodified":1537700262,
+    "wof:name":"Novi Breg",
+    "wof:parent_id":1108959919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.95,
+    45.68333,
+    14.95,
+    45.68333
+],
+  "geometry": {"coordinates":[14.95,45.68333],"type":"Point"}
+}

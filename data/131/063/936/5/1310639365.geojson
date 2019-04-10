@@ -1,0 +1,75 @@
+{
+  "id": 1310639365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.24111,45.53167,14.24111,45.53167",
+    "geom:latitude":45.53167,
+    "geom:longitude":14.24111,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Mala Bukovica",
+    "gn:country_code":"SI",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195868,
+    "gn:latitude":45.53167,
+    "gn:longitude":14.24111,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Mala Bukovica",
+    "gn:population":162,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bucovizza Piccola",
+        "Mala Bukovica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959873,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195868,
+        "wk:page":"Mala_Bukovica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"bc4603e8a43b96bc1d336fd019aea48c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959873,
+            "locality_id":1310639365,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1310639365,
+    "wof:lastmodified":1537700221,
+    "wof:name":"Mala Bukovica",
+    "wof:parent_id":1108959873,
+    "wof:placetype":"locality",
+    "wof:population":162,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.24111,
+    45.53167,
+    14.24111,
+    45.53167
+],
+  "geometry": {"coordinates":[14.24111,45.53167],"type":"Point"}
+}

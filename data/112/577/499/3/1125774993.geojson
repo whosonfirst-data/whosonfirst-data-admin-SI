@@ -1,0 +1,117 @@
+{
+  "id": 1125774993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.75194,45.77028,13.75194,45.77028",
+    "geom:latitude":45.77028,
+    "geom:longitude":13.75194,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":123,
+    "iso:country":"SI",
+    "lbl:latitude":45.77028,
+    "lbl:longitude":13.75194,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Veliki Dol"
+    ],
+    "name:eng_x_preferred":[
+        "Veliki Dol"
+    ],
+    "name:ita_x_preferred":[
+        "Dol Grande"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0644\u06cc\u06a9\u06cc \u062f\u0648\u0644\u060c \u0633\u0698\u0627\u0646\u0627"
+    ],
+    "name:rum_x_preferred":[
+        "Veliki Dol"
+    ],
+    "name:slv_x_preferred":[
+        "Veliki Dol"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u0456\u043a\u0456 \u0414\u043e\u043b"
+    ],
+    "name:unk_x_variant":[
+        "Dol Grande"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3188093,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Veliki Dol",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Sezana",
+    "qs_pg:photos":7,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":7,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":910297,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":532026,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Sezana",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959789,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188093,
+        "gp:id":532026,
+        "qs_pg:id":910297,
+        "wd:id":"Q554990"
+    },
+    "wof:country":"SI",
+    "wof:created":1497290220,
+    "wof:geomhash":"96f9efd8a7a21fa79e2ed75b989265f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959789,
+            "locality_id":1125774993,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1125774993,
+    "wof:lastmodified":1531170308,
+    "wof:name":"Veliki Dol",
+    "wof:parent_id":1108959789,
+    "wof:placetype":"locality",
+    "wof:population":123,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.75194,
+    45.77028,
+    13.75194,
+    45.77028
+],
+  "geometry": {"coordinates":[13.75194,45.77028],"type":"Point"}
+}

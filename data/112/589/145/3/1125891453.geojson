@@ -1,0 +1,120 @@
+{
+  "id": 1125891453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.38222,45.81806,14.38222,45.81806",
+    "geom:latitude":45.81806,
+    "geom:longitude":14.38222,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":658,
+    "iso:country":"SI",
+    "lbl:latitude":45.81806,
+    "lbl:longitude":14.38222,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Begunje pri Cerknici"
+    ],
+    "name:dut_x_preferred":[
+        "Begunje pri Cerknici"
+    ],
+    "name:eng_x_preferred":[
+        "Begunje pri Cerknici"
+    ],
+    "name:hrv_x_preferred":[
+        "Begunje pri Cerknici"
+    ],
+    "name:ita_x_preferred":[
+        "Begunje pri Cerknici"
+    ],
+    "name:rum_x_preferred":[
+        "Begunje pri Cerknici"
+    ],
+    "name:slv_x_preferred":[
+        "Begunje pri Cerknici"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0433\u0443\u043d\u0454-\u043f\u0440\u0438-\u0426\u0435\u0440\u043a\u043d\u0438\u0446\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Wigaun"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3204362,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Begunje Pri Cerknici",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Cerknica",
+    "qs_pg:photos":88,
+    "qs_pg:photos_1k":18,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":88,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1117120,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":529517,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Cerknica",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959905,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204362,
+        "gp:id":529517,
+        "qs_pg:id":1117120,
+        "wd:id":"Q1820853"
+    },
+    "wof:country":"SI",
+    "wof:created":1497295338,
+    "wof:geomhash":"d2ae1194137da4c8ad6d94663d31714c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959905,
+            "locality_id":1125891453,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1125891453,
+    "wof:lastmodified":1531170332,
+    "wof:name":"Begunje Pri Cerknici",
+    "wof:parent_id":1108959905,
+    "wof:placetype":"locality",
+    "wof:population":658,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.38222,
+    45.81806,
+    14.38222,
+    45.81806
+],
+  "geometry": {"coordinates":[14.38222,45.81806],"type":"Point"}
+}

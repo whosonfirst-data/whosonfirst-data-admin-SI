@@ -1,0 +1,75 @@
+{
+  "id": 1293914275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.82361,45.46278,13.82361,45.46278",
+    "geom:latitude":45.46278,
+    "geom:longitude":13.82361,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Belvedur",
+    "gn:country_code":"SI",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204302,
+    "gn:latitude":45.46278,
+    "gn:longitude":13.82361,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Belvedur",
+    "gn:population":3,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Belveder",
+        "Belvedur"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959527,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204302,
+        "wk:page":"Belvedur"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"43c288372a99212e3489c6746d45823d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959527,
+            "locality_id":1293914275,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1293914275,
+    "wof:lastmodified":1537700265,
+    "wof:name":"Belvedur",
+    "wof:parent_id":1108959527,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.82361,
+    45.46278,
+    13.82361,
+    45.46278
+],
+  "geometry": {"coordinates":[13.82361,45.46278],"type":"Point"}
+}

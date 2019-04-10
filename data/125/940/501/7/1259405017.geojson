@@ -1,0 +1,71 @@
+{
+  "id": 1259405017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.52826,45.85256,15.52826,45.85256",
+    "geom:latitude":45.85256,
+    "geom:longitude":15.52826,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Vinji Vrh",
+    "gn:country_code":"SI",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217990,
+    "gn:latitude":45.85256,
+    "gn:longitude":15.52826,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Vinji Vrh",
+    "gn:population":47,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217990,
+        "wk:page":"Vinji_Vrh%2C_Bre%C5%BEice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"194847efce09438dd0c9b1d2c8d860ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1259405017,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1259405017,
+    "wof:lastmodified":1537573459,
+    "wof:name":"Vinji Vrh",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:population":47,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.52826,
+    45.85256,
+    15.52826,
+    45.85256
+],
+  "geometry": {"coordinates":[15.52826,45.85256],"type":"Point"}
+}

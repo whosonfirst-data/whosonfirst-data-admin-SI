@@ -1,0 +1,74 @@
+{
+  "id": 1209953761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.08273,46.44593,16.08273,46.44593",
+    "geom:latitude":46.44593,
+    "geom:longitude":16.08273,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Vicanci",
+    "gn:country_code":"SI",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987133,
+    "gn:latitude":46.44593,
+    "gn:longitude":16.08273,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Vi\u010danci",
+    "gn:population":248,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vi\u010danci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959765,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987133,
+        "wk:page":"Vi%C4%8Danci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"09296c5cb012bc9bf3780d9134292e77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959765,
+            "locality_id":1209953761,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1209953761,
+    "wof:lastmodified":1537700280,
+    "wof:name":"Vicanci",
+    "wof:parent_id":1108959765,
+    "wof:placetype":"locality",
+    "wof:population":248,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.08273,
+    46.44593,
+    16.08273,
+    46.44593
+],
+  "geometry": {"coordinates":[16.08273,46.44593],"type":"Point"}
+}

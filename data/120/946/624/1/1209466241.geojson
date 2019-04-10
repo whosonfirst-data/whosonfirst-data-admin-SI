@@ -1,0 +1,65 @@
+{
+  "id": 1209466241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.67915,45.51597,13.67915,45.51597",
+    "geom:latitude":45.51597,
+    "geom:longitude":13.67915,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Baredi",
+    "gn:country_code":"SI",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989778,
+    "gn:latitude":45.51597,
+    "gn:longitude":13.67915,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Baredi",
+    "gn:population":145,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989778,
+        "wk:page":"Baredi"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"38e8029934e51538813220211a5ca192",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209466241
+        }
+    ],
+    "wof:id":1209466241,
+    "wof:lastmodified":1537573552,
+    "wof:name":"Baredi",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":145,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.67915,
+    45.51597,
+    13.67915,
+    45.51597
+],
+  "geometry": {"coordinates":[13.67915,45.51597],"type":"Point"}
+}

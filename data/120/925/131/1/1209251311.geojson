@@ -1,0 +1,69 @@
+{
+  "id": 1209251311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.61361,46.30278,15.61361,46.30278",
+    "geom:latitude":46.30278,
+    "geom:longitude":15.61361,
+    "gn:admin1_code":"O8",
+    "gn:asciiname":"Studenice",
+    "gn:country_code":"SI",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189630,
+    "gn:latitude":46.30278,
+    "gn:longitude":15.61361,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Studenice",
+    "gn:population":145,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Studenitz",
+        "Studenice"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189630,
+        "wk:page":"Studenice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"83bdd983b1db23b76abca7833cd013ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209251311
+        }
+    ],
+    "wof:id":1209251311,
+    "wof:lastmodified":1537700184,
+    "wof:name":"Studenice",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":145,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.61361,
+    46.30278,
+    15.61361,
+    46.30278
+],
+  "geometry": {"coordinates":[15.61361,46.30278],"type":"Point"}
+}

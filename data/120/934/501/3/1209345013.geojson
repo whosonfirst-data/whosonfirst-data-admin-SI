@@ -1,0 +1,68 @@
+{
+  "id": 1209345013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.31061,46.20659,14.31061,46.20659",
+    "geom:latitude":46.20659,
+    "geom:longitude":14.31061,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Sutna",
+    "gn:country_code":"SI",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986958,
+    "gn:latitude":46.20659,
+    "gn:longitude":14.31061,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"\u0160utna",
+    "gn:population":444,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160utna"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986958,
+        "wk:page":"%C5%A0utna%2C_Kranj"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"258ed6cb1b23acd7de034160309902ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209345013
+        }
+    ],
+    "wof:id":1209345013,
+    "wof:lastmodified":1537700277,
+    "wof:name":"Sutna",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":444,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.31061,
+    46.20659000000001,
+    14.31061,
+    46.20659000000001
+],
+  "geometry": {"coordinates":[14.31061,46.20659000000001],"type":"Point"}
+}

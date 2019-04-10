@@ -1,0 +1,67 @@
+{
+  "id": 1310260165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.07417,46.57167,15.07417,46.57167",
+    "geom:latitude":46.57167,
+    "geom:longitude":15.07417,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Ghamus",
+    "gn:country_code":"SI",
+    "gn:dem":675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218491,
+    "gn:latitude":46.57167,
+    "gn:longitude":15.07417,
+    "gn:modification_date":"2008-11-05",
+    "gn:name":"Ghamus",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959495,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218491
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4ba9676c957022ef180935a8f67da112",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959495,
+            "locality_id":1310260165,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1310260165,
+    "wof:lastmodified":1536774061,
+    "wof:name":"Ghamus",
+    "wof:parent_id":1108959495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.07417,
+    46.57167000000001,
+    15.07417,
+    46.57167000000001
+],
+  "geometry": {"coordinates":[15.07417,46.57167000000001],"type":"Point"}
+}

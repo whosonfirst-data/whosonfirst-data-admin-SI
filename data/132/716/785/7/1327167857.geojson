@@ -1,0 +1,75 @@
+{
+  "id": 1327167857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.07167,46.73222,16.07167,46.73222",
+    "geom:latitude":46.73222,
+    "geom:longitude":16.07167,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Beznovci",
+    "gn:country_code":"SI",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204244,
+    "gn:latitude":46.73222,
+    "gn:longitude":16.07167,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Beznovci",
+    "gn:population":169,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buzahely",
+        "Beznovci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959935,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204244,
+        "wk:page":"Beznovci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e90826112f483fd7ed308267b2fd6324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959935,
+            "locality_id":1327167857,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1327167857,
+    "wof:lastmodified":1537700265,
+    "wof:name":"Beznovci",
+    "wof:parent_id":1108959935,
+    "wof:placetype":"locality",
+    "wof:population":169,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.07167,
+    46.73222,
+    16.07167,
+    46.73222
+],
+  "geometry": {"coordinates":[16.07167,46.73222],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276263883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.18944,45.98472,15.18944,45.98472",
+    "geom:latitude":45.98472,
+    "geom:longitude":15.18944,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Krmelj",
+    "gn:country_code":"SI",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197192,
+    "gn:latitude":45.98472,
+    "gn:longitude":15.18944,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Krmelj",
+    "gn:population":708,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197192,
+        "wk:page":"Krmelj"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5ca2978899c5619bcfab244385e31839",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1276263883,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1276263883,
+    "wof:lastmodified":1537573427,
+    "wof:name":"Krmelj",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":708,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.18944,
+    45.98472,
+    15.18944,
+    45.98472
+],
+  "geometry": {"coordinates":[15.18944,45.98472],"type":"Point"}
+}

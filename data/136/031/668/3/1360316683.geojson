@@ -1,0 +1,84 @@
+{
+  "id": 1360316683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.78381,45.51319,14.78381,45.51319",
+    "geom:latitude":45.51319,
+    "geom:longitude":14.78381,
+    "gn:admin1_code":"88",
+    "gn:asciiname":"Mirtovici",
+    "gn:country_code":"SI",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989294,
+    "gn:latitude":45.51319,
+    "gn:longitude":14.78381,
+    "gn:modification_date":"2015-11-20",
+    "gn:name":"Mirtovi\u010di",
+    "gn:population":9,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Mrtovc",
+        "Mrtovec"
+    ],
+    "name:slv_x_preferred":[
+        "Mrtovc"
+    ],
+    "name:slv_x_variant":[
+        "Mrtovec"
+    ],
+    "name:und_x_variant":[
+        "Mirtovi\u010di"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959563,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989294,
+        "wk:page":"Mirtovi%C4%8Di"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"734b17fdea4a8de7f2844800d819c15f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959563,
+            "locality_id":1360316683,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1360316683,
+    "wof:lastmodified":1537700323,
+    "wof:name":"Mirtovici",
+    "wof:parent_id":1108959563,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.78381,
+    45.51319,
+    14.78381,
+    45.51319
+],
+  "geometry": {"coordinates":[14.78381,45.51319],"type":"Point"}
+}

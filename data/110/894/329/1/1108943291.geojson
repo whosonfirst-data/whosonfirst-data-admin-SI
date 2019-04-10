@@ -1,0 +1,64 @@
+{
+  "id": 1108943291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.5801504977,46.0506762056,14.5801504977,46.0506762056",
+    "geom:latitude":46.050676,
+    "geom:longitude":14.58015,
+    "iso:country":"SI",
+    "lbl:latitude":46.050676,
+    "lbl:longitude":14.58015,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        1108959949,
+        102191581,
+        1108959501,
+        85633779,
+        101752073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"SI",
+    "wof:created":1491363642,
+    "wof:geomhash":"5bc6134a83c62737d3decfcac3ada4b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959501,
+            "locality_id":101752073,
+            "neighbourhood_id":1108943291,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1108943291,
+    "wof:lastmodified":1531170287,
+    "wof:name":"Slape",
+    "wof:parent_id":101752073,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.58015049773718,
+    46.05067620559779,
+    14.58015049773718,
+    46.05067620559779
+],
+  "geometry": {"coordinates":[14.58015049773718,46.05067620559779],"type":"Point"}
+}

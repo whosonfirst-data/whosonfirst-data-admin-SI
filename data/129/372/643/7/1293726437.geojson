@@ -1,0 +1,74 @@
+{
+  "id": 1293726437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.00483,45.77123,15.00483,45.77123",
+    "geom:latitude":45.77123,
+    "geom:longitude":15.00483,
+    "gn:admin1_code":"G6",
+    "gn:asciiname":"Loska Vas",
+    "gn:country_code":"SI",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988074,
+    "gn:latitude":45.77123,
+    "gn:longitude":15.00483,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Lo\u0161ka Vas",
+    "gn:population":76,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lo\u0161ka Vas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959675,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988074,
+        "wk:page":"Lo%C5%A1ka_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5fc2166c9701eaa09351e2c8281aff23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959675,
+            "locality_id":1293726437,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1293726437,
+    "wof:lastmodified":1537700299,
+    "wof:name":"Loska Vas",
+    "wof:parent_id":1108959675,
+    "wof:placetype":"locality",
+    "wof:population":76,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.00483,
+    45.77123,
+    15.00483,
+    45.77123
+],
+  "geometry": {"coordinates":[15.00483,45.77123],"type":"Point"}
+}

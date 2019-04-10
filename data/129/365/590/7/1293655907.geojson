@@ -1,0 +1,75 @@
+{
+  "id": 1293655907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.15,46.13333,14.15,46.13333",
+    "geom:latitude":46.13333,
+    "geom:longitude":14.15,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Gorenje Brdo",
+    "gn:country_code":"SI",
+    "gn:dem":714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200373,
+    "gn:latitude":46.13333,
+    "gn:longitude":14.15,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Gorenje Brdo",
+    "gn:population":82,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gorenja Brdo",
+        "Gorenje Brdo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959897,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200373,
+        "wk:page":"Gorenje_Brdo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8a8976b8d3909cff1f26d2160bca377c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959897,
+            "locality_id":1293655907,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1293655907,
+    "wof:lastmodified":1537700245,
+    "wof:name":"Gorenje Brdo",
+    "wof:parent_id":1108959897,
+    "wof:placetype":"locality",
+    "wof:population":82,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.15,
+    46.13333,
+    14.15,
+    46.13333
+],
+  "geometry": {"coordinates":[14.15,46.13333],"type":"Point"}
+}

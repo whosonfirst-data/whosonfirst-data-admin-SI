@@ -1,0 +1,65 @@
+{
+  "id": 1209657623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.65842,45.99579,13.65842,45.99579",
+    "geom:latitude":45.99579,
+    "geom:longitude":13.65842,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Sveta Gora",
+    "gn:country_code":"SI",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989094,
+    "gn:latitude":45.99579,
+    "gn:longitude":13.65842,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Sveta Gora",
+    "gn:population":18,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989094,
+        "wk:page":"Sveta_Gora"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"88a5cba9b31c2afa5708ed84f6a8fcbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209657623
+        }
+    ],
+    "wof:id":1209657623,
+    "wof:lastmodified":1537573531,
+    "wof:name":"Sveta Gora",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":18,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.65842,
+    45.99579,
+    13.65842,
+    45.99579
+],
+  "geometry": {"coordinates":[13.65842,45.99579],"type":"Point"}
+}

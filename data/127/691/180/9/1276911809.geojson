@@ -1,0 +1,76 @@
+{
+  "id": 1276911809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.31667,46.55,15.31667,46.55",
+    "geom:latitude":46.55,
+    "geom:longitude":15.31667,
+    "gn:admin1_code":"K2",
+    "gn:asciiname":"Lehen na Pohorju",
+    "gn:country_code":"SI",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196698,
+    "gn:latitude":46.55,
+    "gn:longitude":15.31667,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Lehen na Pohorju",
+    "gn:population":183,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lehen",
+        "Legen",
+        "Lehen na Pohorju"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959555,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196698,
+        "wk:page":"Lehen_na_Pohorju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"216eaa701e0cf51e42d1d18315c2db42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959555,
+            "locality_id":1276911809,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1276911809,
+    "wof:lastmodified":1537700226,
+    "wof:name":"Lehen na Pohorju",
+    "wof:parent_id":1108959555,
+    "wof:placetype":"locality",
+    "wof:population":183,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.31667,
+    46.55,
+    15.31667,
+    46.55
+],
+  "geometry": {"coordinates":[15.31667,46.55],"type":"Point"}
+}

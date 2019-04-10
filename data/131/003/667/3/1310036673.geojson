@@ -1,0 +1,71 @@
+{
+  "id": 1310036673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.1728,46.34105,15.1728,46.34105",
+    "geom:latitude":46.34105,
+    "geom:longitude":15.1728,
+    "gn:admin1_code":"D7",
+    "gn:asciiname":"Vinska Gora",
+    "gn:country_code":"SI",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986996,
+    "gn:latitude":46.34105,
+    "gn:longitude":15.1728,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Vinska Gora",
+    "gn:population":368,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959593,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986996,
+        "wk:page":"Vinska_Gora"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0d7a29467561f28a1e7b65941a104767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959593,
+            "locality_id":1310036673,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1310036673,
+    "wof:lastmodified":1537573466,
+    "wof:name":"Vinska Gora",
+    "wof:parent_id":1108959593,
+    "wof:placetype":"locality",
+    "wof:population":368,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.1728,
+    46.34105,
+    15.1728,
+    46.34105
+],
+  "geometry": {"coordinates":[15.1728,46.34105],"type":"Point"}
+}

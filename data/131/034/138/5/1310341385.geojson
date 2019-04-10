@@ -1,0 +1,71 @@
+{
+  "id": 1310341385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.01193,46.62029,16.01193,46.62029",
+    "geom:latitude":46.62029,
+    "geom:longitude":16.01193,
+    "gn:admin1_code":"A1",
+    "gn:asciiname":"Melanjski Vrh",
+    "gn:country_code":"SI",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988954,
+    "gn:latitude":46.62029,
+    "gn:longitude":16.01193,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Melanjski Vrh",
+    "gn:population":25,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959569,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988954,
+        "wk:page":"Melanjski_Vrh"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d63114b3c97f352a6692e0887499f4d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959569,
+            "locality_id":1310341385,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1310341385,
+    "wof:lastmodified":1537573527,
+    "wof:name":"Melanjski Vrh",
+    "wof:parent_id":1108959569,
+    "wof:placetype":"locality",
+    "wof:population":25,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.01193,
+    46.62029,
+    16.01193,
+    46.62029
+],
+  "geometry": {"coordinates":[16.01193,46.62029],"type":"Point"}
+}

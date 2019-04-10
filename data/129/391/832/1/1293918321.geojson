@@ -1,0 +1,71 @@
+{
+  "id": 1293918321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.45378,45.95082,15.45378,45.95082",
+    "geom:latitude":45.95082,
+    "geom:longitude":15.45378,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Volovnik",
+    "gn:country_code":"SI",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988758,
+    "gn:latitude":45.95082,
+    "gn:longitude":15.45378,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Volovnik",
+    "gn:population":33,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988758,
+        "wk:page":"Volovnik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a17878afc2305b1a57ab3c786165da32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1293918321,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1293918321,
+    "wof:lastmodified":1537573522,
+    "wof:name":"Volovnik",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":33,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.45378,
+    45.95082,
+    15.45378,
+    45.95082
+],
+  "geometry": {"coordinates":[15.45378,45.95082],"type":"Point"}
+}

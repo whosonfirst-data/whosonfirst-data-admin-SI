@@ -1,0 +1,71 @@
+{
+  "id": 1209952967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.94674,46.19808,14.94674,46.19808",
+    "geom:latitude":46.19808,
+    "geom:longitude":14.94674,
+    "gn:admin1_code":"N4",
+    "gn:asciiname":"Zaplanina",
+    "gn:country_code":"SI",
+    "gn:dem":593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987923,
+    "gn:latitude":46.19808,
+    "gn:longitude":14.94674,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Zaplanina",
+    "gn:population":90,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959827,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987923,
+        "wk:page":"Zaplanina"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8480d45c96cbc08e5af07f659ecabda3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959827,
+            "locality_id":1209952967,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1209952967,
+    "wof:lastmodified":1537573496,
+    "wof:name":"Zaplanina",
+    "wof:parent_id":1108959827,
+    "wof:placetype":"locality",
+    "wof:population":90,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.94674,
+    46.19808,
+    14.94674,
+    46.19808
+],
+  "geometry": {"coordinates":[14.94674,46.19808],"type":"Point"}
+}

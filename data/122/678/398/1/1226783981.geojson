@@ -1,0 +1,71 @@
+{
+  "id": 1226783981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.53333,46.3,15.53333,46.3",
+    "geom:latitude":46.3,
+    "geom:longitude":15.53333,
+    "gn:admin1_code":"C4",
+    "gn:asciiname":"Zbelovo",
+    "gn:country_code":"SI",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186690,
+    "gn:latitude":46.3,
+    "gn:longitude":15.53333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Zbelovo",
+    "gn:population":273,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959753,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186690,
+        "wk:page":"Zbelovo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2a2c96c687cde7511ac9315eb4d33531",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959753,
+            "locality_id":1226783981,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1226783981,
+    "wof:lastmodified":1537573383,
+    "wof:name":"Zbelovo",
+    "wof:parent_id":1108959753,
+    "wof:placetype":"locality",
+    "wof:population":273,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.53333,
+    46.3,
+    15.53333,
+    46.3
+],
+  "geometry": {"coordinates":[15.53333,46.3],"type":"Point"}
+}

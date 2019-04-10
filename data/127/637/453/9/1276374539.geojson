@@ -1,0 +1,73 @@
+{
+  "id": 1276374539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.64798,45.89676,13.64798,45.89676",
+    "geom:latitude":45.89676,
+    "geom:longitude":13.64798,
+    "gn:admin1_code":"J5",
+    "gn:asciiname":"Frnaza",
+    "gn:country_code":"SI",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10858840,
+    "gn:latitude":45.89676,
+    "gn:longitude":13.64798,
+    "gn:modification_date":"2015-10-14",
+    "gn:name":"Frna\u017ea",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Forna\u017ea"
+    ],
+    "name:slv_x_preferred":[
+        "Forna\u017ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959481,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10858840
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c230d1e3c178b8734051425e9a89ce9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959481,
+            "locality_id":1276374539,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1276374539,
+    "wof:lastmodified":1537700337,
+    "wof:name":"Frnaza",
+    "wof:parent_id":1108959481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.64798,
+    45.89676,
+    13.64798,
+    45.89676
+],
+  "geometry": {"coordinates":[13.64798,45.89676],"type":"Point"}
+}

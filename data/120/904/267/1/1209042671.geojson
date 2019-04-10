@@ -1,0 +1,65 @@
+{
+  "id": 1209042671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.96778,45.92889,14.96778,45.92889",
+    "geom:latitude":45.92889,
+    "geom:longitude":14.96778,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Velika Loka",
+    "gn:country_code":"SI",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188209,
+    "gn:latitude":45.92889,
+    "gn:longitude":14.96778,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Velika Loka",
+    "gn:population":239,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188209,
+        "wk:page":"Velika_Loka%2C_Trebnje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6faf90010bd73758de612bc1d2327ba1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209042671
+        }
+    ],
+    "wof:id":1209042671,
+    "wof:lastmodified":1537573389,
+    "wof:name":"Velika Loka",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":239,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.96778,
+    45.92889,
+    14.96778,
+    45.92889
+],
+  "geometry": {"coordinates":[14.96778,45.92889],"type":"Point"}
+}

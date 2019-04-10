@@ -1,0 +1,71 @@
+{
+  "id": 1343707361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.68805,45.92194,14.68805,45.92194",
+    "geom:latitude":45.92194,
+    "geom:longitude":14.68805,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Zagradec pri Grosupljem",
+    "gn:country_code":"SI",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987282,
+    "gn:latitude":45.92194,
+    "gn:longitude":14.68805,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Zagradec pri Grosupljem",
+    "gn:population":189,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959533,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987282,
+        "wk:page":"Zagradec_pri_Grosupljem"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ab23c17e91fbb7177bbd1fbfb2ae3efe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959533,
+            "locality_id":1343707361,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1343707361,
+    "wof:lastmodified":1537573474,
+    "wof:name":"Zagradec pri Grosupljem",
+    "wof:parent_id":1108959533,
+    "wof:placetype":"locality",
+    "wof:population":189,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.68805,
+    45.92194,
+    14.68805,
+    45.92194
+],
+  "geometry": {"coordinates":[14.68805,45.92194],"type":"Point"}
+}

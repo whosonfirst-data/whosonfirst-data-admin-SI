@@ -1,0 +1,71 @@
+{
+  "id": 1310241805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.67222,45.60389,14.67222,45.60389",
+    "geom:latitude":45.60389,
+    "geom:longitude":14.67222,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Trava",
+    "gn:country_code":"SI",
+    "gn:dem":766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188927,
+    "gn:latitude":45.60389,
+    "gn:longitude":14.67222,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Trava",
+    "gn:population":28,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959513,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188927,
+        "wk:page":"Trava%2C_Lo%C5%A1ki_Potok"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"19b09f86f4b144fa15267129f782aba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959513,
+            "locality_id":1310241805,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1310241805,
+    "wof:lastmodified":1537573391,
+    "wof:name":"Trava",
+    "wof:parent_id":1108959513,
+    "wof:placetype":"locality",
+    "wof:population":28,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.67222,
+    45.60389,
+    14.67222,
+    45.60389
+],
+  "geometry": {"coordinates":[14.67222,45.60389],"type":"Point"}
+}

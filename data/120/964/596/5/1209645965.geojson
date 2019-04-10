@@ -1,0 +1,70 @@
+{
+  "id": 1209645965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.19914,45.78297,14.19914,45.78297",
+    "geom:latitude":45.78297,
+    "geom:longitude":14.19914,
+    "gn:admin1_code":"94",
+    "gn:asciiname":"Veliki Otok",
+    "gn:country_code":"SI",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188025,
+    "gn:latitude":45.78297,
+    "gn:longitude":14.19914,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Veliki Otok",
+    "gn:population":157,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ottocco",
+        "Otok",
+        "Veliki Otok"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188025,
+        "wk:page":"Veliki_Otok"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8525ea15e80a18c8004dac90cebad2d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209645965
+        }
+    ],
+    "wof:id":1209645965,
+    "wof:lastmodified":1537700177,
+    "wof:name":"Veliki Otok",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":157,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.19914,
+    45.78297,
+    14.19914,
+    45.78297
+],
+  "geometry": {"coordinates":[14.19914,45.78297],"type":"Point"}
+}

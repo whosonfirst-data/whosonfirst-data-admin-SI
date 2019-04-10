@@ -1,0 +1,74 @@
+{
+  "id": 1293565325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.28279,45.53255,15.28279,45.53255",
+    "geom:latitude":45.53255,
+    "geom:longitude":15.28279,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Jankovici",
+    "gn:country_code":"SI",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988613,
+    "gn:latitude":45.53255,
+    "gn:longitude":15.28279,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Jankovi\u010di",
+    "gn:population":40,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jankovi\u010di"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959699,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988613,
+        "wk:page":"Jankovi%C4%8Di"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ab0045eacb8b772eb7bc64b0b9dc7bb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959699,
+            "locality_id":1293565325,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1293565325,
+    "wof:lastmodified":1537700310,
+    "wof:name":"Jankovici",
+    "wof:parent_id":1108959699,
+    "wof:placetype":"locality",
+    "wof:population":40,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.28279,
+    45.53255,
+    15.28279,
+    45.53255
+],
+  "geometry": {"coordinates":[15.28279,45.53255],"type":"Point"}
+}

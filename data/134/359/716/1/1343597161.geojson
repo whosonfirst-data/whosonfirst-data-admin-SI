@@ -1,0 +1,75 @@
+{
+  "id": 1343597161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.96917,45.99833,14.96917,45.99833",
+    "geom:latitude":45.99833,
+    "geom:longitude":14.96917,
+    "gn:admin1_code":"I5",
+    "gn:asciiname":"Moravce pri Gabrovki",
+    "gn:country_code":"SI",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194872,
+    "gn:latitude":45.99833,
+    "gn:longitude":14.96917,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Morav\u010de pri Gabrovki",
+    "gn:population":213,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Morav\u010de",
+        "Morav\u010de pri Gabrovki"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959907,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194872,
+        "wk:page":"Morav%C4%8De_pri_Gabrovki"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"693bb887c7d87e02b106f61cf848dd79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959907,
+            "locality_id":1343597161,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1343597161,
+    "wof:lastmodified":1537700217,
+    "wof:name":"Moravce pri Gabrovki",
+    "wof:parent_id":1108959907,
+    "wof:placetype":"locality",
+    "wof:population":213,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.96917,
+    45.99833,
+    14.96917,
+    45.99833
+],
+  "geometry": {"coordinates":[14.96917,45.99833],"type":"Point"}
+}

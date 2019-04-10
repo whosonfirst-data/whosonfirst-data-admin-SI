@@ -1,0 +1,74 @@
+{
+  "id": 1343629123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.00093,46.58848,15.00093,46.58848",
+    "geom:latitude":46.58848,
+    "geom:longitude":15.00093,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Crnece",
+    "gn:country_code":"SI",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202442,
+    "gn:latitude":46.58848,
+    "gn:longitude":15.00093,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"\u010crne\u010de",
+    "gn:population":665,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010crne\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959495,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202442,
+        "wk:page":"%C4%8Crne%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"356e6df685166cc6128dd639686ae6cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959495,
+            "locality_id":1343629123,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1343629123,
+    "wof:lastmodified":1537700256,
+    "wof:name":"Crnece",
+    "wof:parent_id":1108959495,
+    "wof:placetype":"locality",
+    "wof:population":665,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.00093,
+    46.58848,
+    15.00093,
+    46.58848
+],
+  "geometry": {"coordinates":[15.00093,46.58848],"type":"Point"}
+}

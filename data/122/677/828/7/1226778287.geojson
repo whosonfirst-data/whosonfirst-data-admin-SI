@@ -1,0 +1,75 @@
+{
+  "id": 1226778287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.40944,46.11139,15.40944,46.11139",
+    "geom:latitude":46.11139,
+    "geom:longitude":15.40944,
+    "gn:admin1_code":"L7",
+    "gn:asciiname":"Planina pri Sevnici",
+    "gn:country_code":"SI",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193253,
+    "gn:latitude":46.11139,
+    "gn:longitude":15.40944,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Planina pri Sevnici",
+    "gn:population":378,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Planina",
+        "Planina pri Sevnici"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959791,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193253,
+        "wk:page":"Planina_pri_Sevnici"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fb15482bc8e654914d13c32a8320be03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959791,
+            "locality_id":1226778287,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1226778287,
+    "wof:lastmodified":1537700210,
+    "wof:name":"Planina pri Sevnici",
+    "wof:parent_id":1108959791,
+    "wof:placetype":"locality",
+    "wof:population":378,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.40944,
+    46.11139,
+    15.40944,
+    46.11139
+],
+  "geometry": {"coordinates":[15.40944,46.11139],"type":"Point"}
+}

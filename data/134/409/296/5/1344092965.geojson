@@ -1,0 +1,71 @@
+{
+  "id": 1344092965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.29111,46.29278,14.29111,46.29278",
+    "geom:latitude":46.29278,
+    "geom:longitude":14.29111,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Zeje",
+    "gn:country_code":"SI",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217762,
+    "gn:latitude":46.29278,
+    "gn:longitude":14.29111,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u017deje",
+    "gn:population":95,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959497,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217762,
+        "wk:page":"%C5%BDeje%2C_Naklo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"99106053baa7734ceedf28181a136b0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959497,
+            "locality_id":1344092965,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1344092965,
+    "wof:lastmodified":1537573458,
+    "wof:name":"Zeje",
+    "wof:parent_id":1108959497,
+    "wof:placetype":"locality",
+    "wof:population":95,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.29111,
+    46.29278,
+    14.29111,
+    46.29278
+],
+  "geometry": {"coordinates":[14.29111,46.29278],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1277052143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.15,45.53333,15.15,45.53333",
+    "geom:latitude":45.53333,
+    "geom:longitude":15.15,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Tanca Gora",
+    "gn:country_code":"SI",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189211,
+    "gn:latitude":45.53333,
+    "gn:longitude":15.15,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Tan\u010da Gora",
+    "gn:population":207,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tan\u010da Gora"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959699,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189211,
+        "wk:page":"Tan%C4%8Da_Gora"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6ac04d095a853ecb25a896fada17a835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959699,
+            "locality_id":1277052143,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1277052143,
+    "wof:lastmodified":1537700183,
+    "wof:name":"Tanca Gora",
+    "wof:parent_id":1108959699,
+    "wof:placetype":"locality",
+    "wof:population":207,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.15,
+    45.53333,
+    15.15,
+    45.53333
+],
+  "geometry": {"coordinates":[15.15,45.53333],"type":"Point"}
+}

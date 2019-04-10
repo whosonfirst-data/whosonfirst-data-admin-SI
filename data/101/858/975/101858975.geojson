@@ -1,0 +1,295 @@
+{
+  "id": 101858975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.84457,46.647458,15.84457,46.647458",
+    "geom:latitude":46.647458,
+    "geom:longitude":15.84457,
+    "gn:population":176661,
+    "iso:country":"SI",
+    "lbl:latitude":46.647458,
+    "lbl:longitude":15.84457,
+    "mps:latitude":46.647458,
+    "mps:longitude":15.84457,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.7,
+    "name:afr_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0421\u0430\u043d\u0442\u0430-\u0410\u043d\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0421\u0430\u043d\u0442\u0430-\u0410\u043d\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430 \u0410\u043d\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:ces_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:deu_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bd\u03c4\u03b1 \u0386\u03bd\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:epo_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0622\u0646\u0627\u060c \u0627\u0644\u0633\u0627\u0644\u0648\u0627\u062f\u0648\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:fra_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8\u05d4 \u05d0\u05e0\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u093e\u0928\u0924\u093e-\u0906\u0928\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576\u057f\u0561 \u0531\u0576\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30bf\u30fb\u30a2\u30ca"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\ud0c0\uc544\ub098"
+    ],
+    "name:lav_x_preferred":[
+        "Santaana"
+    ],
+    "name:lit_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:nah_x_preferred":[
+        "Cihuatehuahcan"
+    ],
+    "name:nld_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:por_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:que_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u0410\u043d\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430 \u0410\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:szl_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:tur_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:unk_x_variant":[
+        "Santa Ana"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0622\u0646\u0627\u060c \u0627\u06cc\u0644 \u0633\u06cc\u0644\u0648\u0627\u0688\u0648\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:war_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5b89\u5a1c"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"El Salvador",
+    "ne:ADM0_A3":"SLV",
+    "ne:ADM1NAME":"Santa Ana",
+    "ne:ADMIN1_COD":11,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3583334,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"Santa Ana",
+    "ne:GN_POP":176661,
+    "ne:GTOPO30":655.0,
+    "ne:ISO_A2":"SV",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":13.99461,
+    "ne:LONGITUDE":-89.559764,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Santa Ana",
+    "ne:MAX_AREAKM":61.0,
+    "ne:MAX_AREAMI":23.0,
+    "ne:MAX_BBXMAX":-89.466667,
+    "ne:MAX_BBXMIN":-89.6,
+    "ne:MAX_BBYMAX":14.05,
+    "ne:MAX_BBYMIN":13.958333,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":71.0,
+    "ne:MAX_PERMI":44.0,
+    "ne:MAX_POP10":234478,
+    "ne:MAX_POP20":234478,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-89.541039,
+    "ne:MEAN_BBYC":13.998002,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":61.0,
+    "ne:MIN_AREAMI":23.0,
+    "ne:MIN_BBXMAX":-89.466667,
+    "ne:MIN_BBXMIN":-89.6,
+    "ne:MIN_BBYMAX":14.05,
+    "ne:MIN_BBYMIN":13.958333,
+    "ne:MIN_PERKM":71.0,
+    "ne:MIN_PERMI":44.0,
+    "ne:NAME":"Santa Ana",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Santa Ana",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":234478,
+    "ne:POP_MIN":176661,
+    "ne:POP_OTHER":234478,
+    "ne:RANK_MAX":10,
+    "ne:RANK_MIN":9,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"El Salvador",
+    "ne:SOV_A3":"SLV",
+    "ne:TIMEZONE":"America/El_Salvador",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Sv. Ana v Slov. goricah",
+    "qs:loc_alt":"Sv. Ana v Slov. goricah",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:elevation":665.0,
+    "wd:latitude":13.983333,
+    "wd:longitude":-89.533333,
+    "wd:wordcount":2530,
+    "wof:belongsto":[
+        102191581,
+        1108959709,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583334,
+        "gp:id":79847,
+        "qs:id":898293,
+        "wk:page":"Santa Ana, El Salvador"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d917c26ae11a9272ee79229b7f771a4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959709,
+            "locality_id":101858975,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":101858975,
+    "wof:lastmodified":1544744677,
+    "wof:name":"Sv. Ana v Slov. goricah",
+    "wof:parent_id":1108959709,
+    "wof:placetype":"locality",
+    "wof:population":176661,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.84457,
+    46.647458,
+    15.84457,
+    46.647458
+],
+  "geometry": {"coordinates":[15.84457,46.647458],"type":"Point"}
+}

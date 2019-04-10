@@ -1,0 +1,75 @@
+{
+  "id": 1226823545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.68861,45.86194,14.68861,45.86194",
+    "geom:latitude":45.86194,
+    "geom:longitude":14.68861,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Cesta",
+    "gn:country_code":"SI",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202657,
+    "gn:latitude":45.86194,
+    "gn:longitude":14.68861,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Cesta",
+    "gn:population":273,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zesta",
+        "Cesta"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959575,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202657,
+        "wk:page":"Cesta%2C_Dobrepolje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"39735615413e6e8b4ef0f9865722a05a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959575,
+            "locality_id":1226823545,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1226823545,
+    "wof:lastmodified":1537700258,
+    "wof:name":"Cesta",
+    "wof:parent_id":1108959575,
+    "wof:placetype":"locality",
+    "wof:population":273,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.68861,
+    45.86194,
+    14.68861,
+    45.86194
+],
+  "geometry": {"coordinates":[14.68861,45.86194],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310538017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.96832,46.57472,15.96832,46.57472",
+    "geom:latitude":46.57472,
+    "geom:longitude":15.96832,
+    "gn:admin1_code":"F9",
+    "gn:asciiname":"Grabonoski Vrh",
+    "gn:country_code":"SI",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199819,
+    "gn:latitude":46.57472,
+    "gn:longitude":15.96832,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Grabono\u0161ki Vrh",
+    "gn:population":66,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grabono\u0161ki Vrh"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959703,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199819,
+        "wk:page":"Grabono%C5%A1ki_Vrh"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"df9d32892e05e091076858d664122bc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959703,
+            "locality_id":1310538017,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1310538017,
+    "wof:lastmodified":1537700242,
+    "wof:name":"Grabonoski Vrh",
+    "wof:parent_id":1108959703,
+    "wof:placetype":"locality",
+    "wof:population":66,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.96832,
+    46.57472,
+    15.96832,
+    46.57472
+],
+  "geometry": {"coordinates":[15.96832,46.57472],"type":"Point"}
+}

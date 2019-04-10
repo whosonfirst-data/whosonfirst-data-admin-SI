@@ -1,0 +1,67 @@
+{
+  "id": 1193075021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.77306,46.04111,13.77306,46.04111",
+    "geom:latitude":46.04111,
+    "geom:longitude":13.77306,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Mokrini",
+    "gn:country_code":"SI",
+    "gn:dem":845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10858817,
+    "gn:latitude":46.04111,
+    "gn:longitude":13.77306,
+    "gn:modification_date":"2015-10-13",
+    "gn:name":"Mokrini",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959487,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10858817
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"af6a3b1825209de898e47d8326f009c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959487,
+            "locality_id":1193075021,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1193075021,
+    "wof:lastmodified":1536364909,
+    "wof:name":"Mokrini",
+    "wof:parent_id":1108959487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.77306,
+    46.04111,
+    13.77306,
+    46.04111
+],
+  "geometry": {"coordinates":[13.77306,46.04111],"type":"Point"}
+}

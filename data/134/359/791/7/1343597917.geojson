@@ -1,0 +1,71 @@
+{
+  "id": 1343597917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.54131,45.68632,14.54131,45.68632",
+    "geom:latitude":45.68632,
+    "geom:longitude":14.54131,
+    "gn:admin1_code":"I7",
+    "gn:asciiname":"Dolenje Poljane",
+    "gn:country_code":"SI",
+    "gn:dem":992,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201830,
+    "gn:latitude":45.68632,
+    "gn:longitude":14.54131,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Dolenje Poljane",
+    "gn:population":11,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959863,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201830,
+        "wk:page":"Dolenje_Poljane"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1dcf38f38f6b7366a9fd5f6bb97e7d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959863,
+            "locality_id":1343597917,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1343597917,
+    "wof:lastmodified":1537573445,
+    "wof:name":"Dolenje Poljane",
+    "wof:parent_id":1108959863,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.54131,
+    45.68632,
+    14.54131,
+    45.68632
+],
+  "geometry": {"coordinates":[14.54131,45.68632],"type":"Point"}
+}

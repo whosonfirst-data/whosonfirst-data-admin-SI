@@ -1,0 +1,71 @@
+{
+  "id": 1343894387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.61997,46.25008,15.61997,46.25008",
+    "geom:latitude":46.25008,
+    "geom:longitude":15.61997,
+    "gn:admin1_code":"A7",
+    "gn:asciiname":"Spodnje Negonje",
+    "gn:country_code":"SI",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987103,
+    "gn:latitude":46.25008,
+    "gn:longitude":15.61997,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Spodnje Negonje",
+    "gn:population":273,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959803,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987103,
+        "wk:page":"Spodnje_Negonje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fb6230f41ea5bc8d7fd2e8238b07ba4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959803,
+            "locality_id":1343894387,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1343894387,
+    "wof:lastmodified":1537573468,
+    "wof:name":"Spodnje Negonje",
+    "wof:parent_id":1108959803,
+    "wof:placetype":"locality",
+    "wof:population":273,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.61997,
+    46.25008,
+    15.61997,
+    46.25008
+],
+  "geometry": {"coordinates":[15.61997,46.25008],"type":"Point"}
+}

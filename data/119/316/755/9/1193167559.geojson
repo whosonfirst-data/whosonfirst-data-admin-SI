@@ -1,0 +1,73 @@
+{
+  "id": 1193167559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.63508,45.61077,14.63508,45.61077",
+    "geom:latitude":45.61077,
+    "geom:longitude":14.63508,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Hrib",
+    "gn:country_code":"SI",
+    "gn:dem":799,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10942278,
+    "gn:latitude":45.61077,
+    "gn:longitude":14.63508,
+    "gn:modification_date":"2015-11-20",
+    "gn:name":"Hrib",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Na Hribu"
+    ],
+    "name:slv_x_preferred":[
+        "Na Hribu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959513,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10942278
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8efe06cff532d7f83065902245a40047",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959513,
+            "locality_id":1193167559,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1193167559,
+    "wof:lastmodified":1537700338,
+    "wof:name":"Hrib",
+    "wof:parent_id":1108959513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.63508,
+    45.61077,
+    14.63508,
+    45.61077
+],
+  "geometry": {"coordinates":[14.63508,45.61077],"type":"Point"}
+}

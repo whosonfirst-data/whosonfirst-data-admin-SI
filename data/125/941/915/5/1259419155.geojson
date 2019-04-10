@@ -1,0 +1,76 @@
+{
+  "id": 1259419155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.945,45.71472,13.945,45.71472",
+    "geom:latitude":45.71472,
+    "geom:longitude":13.945,
+    "gn:admin1_code":"B7",
+    "gn:asciiname":"Brestovica pri Povirju",
+    "gn:country_code":"SI",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203431,
+    "gn:latitude":45.71472,
+    "gn:longitude":13.945,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Brestovica pri Povirju",
+    "gn:population":49,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brestovizza di Poverio",
+        "Brestovica",
+        "Brestovica pri Povirju"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959789,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203431,
+        "wk:page":"Brestovica_pri_Povirju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"942bae6692b409d40f4ce2906f112d7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959789,
+            "locality_id":1259419155,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1259419155,
+    "wof:lastmodified":1537700262,
+    "wof:name":"Brestovica pri Povirju",
+    "wof:parent_id":1108959789,
+    "wof:placetype":"locality",
+    "wof:population":49,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.945,
+    45.71472,
+    13.945,
+    45.71472
+],
+  "geometry": {"coordinates":[13.945,45.71472],"type":"Point"}
+}

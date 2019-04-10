@@ -1,0 +1,74 @@
+{
+  "id": 1243400495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.1165,46.51765,16.1165,46.51765",
+    "geom:latitude":46.51765,
+    "geom:longitude":16.1165,
+    "gn:admin1_code":"I6",
+    "gn:asciiname":"Vogricevci",
+    "gn:country_code":"SI",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987369,
+    "gn:latitude":46.51765,
+    "gn:longitude":16.1165,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Vogri\u010devci",
+    "gn:population":164,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vogri\u010devci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959499,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987369,
+        "wk:page":"Vogri%C4%8Devci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"162a4a5db3eeeb779c279f7bcc671855",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959499,
+            "locality_id":1243400495,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1243400495,
+    "wof:lastmodified":1537700285,
+    "wof:name":"Vogricevci",
+    "wof:parent_id":1108959499,
+    "wof:placetype":"locality",
+    "wof:population":164,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.1165,
+    46.51765,
+    16.1165,
+    46.51765
+],
+  "geometry": {"coordinates":[16.1165,46.51765],"type":"Point"}
+}

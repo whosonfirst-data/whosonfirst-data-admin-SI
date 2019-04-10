@@ -1,0 +1,74 @@
+{
+  "id": 1344134951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3,46.23333,15.3,46.23333",
+    "geom:latitude":46.23333,
+    "geom:longitude":15.3,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Bukovzlak",
+    "gn:country_code":"SI",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203016,
+    "gn:latitude":46.23333,
+    "gn:longitude":15.3,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Bukov\u017elak",
+    "gn:population":354,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bukov\u017elak"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959693,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203016,
+        "wk:page":"Bukov%C5%BElak"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"acf2f8179e46d09cf2dc6d4e04d83db7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959693,
+            "locality_id":1344134951,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1344134951,
+    "wof:lastmodified":1537700259,
+    "wof:name":"Bukovzlak",
+    "wof:parent_id":1108959693,
+    "wof:placetype":"locality",
+    "wof:population":354,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3,
+    46.23333,
+    15.3,
+    46.23333
+],
+  "geometry": {"coordinates":[15.3,46.23333],"type":"Point"}
+}

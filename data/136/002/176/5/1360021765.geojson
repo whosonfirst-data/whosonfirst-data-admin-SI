@@ -1,0 +1,71 @@
+{
+  "id": 1360021765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.63333,46.18333,14.63333,46.18333",
+    "geom:latitude":46.18333,
+    "geom:longitude":14.63333,
+    "gn:admin1_code":"G7",
+    "gn:asciiname":"Rova",
+    "gn:country_code":"SI",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191527,
+    "gn:latitude":46.18333,
+    "gn:longitude":14.63333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Rova",
+    "gn:population":466,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959799,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191527,
+        "wk:page":"Rova%2C_Dom%C5%BEale"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1c9fc950335382f951d1a18d5639c150",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959799,
+            "locality_id":1360021765,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1360021765,
+    "wof:lastmodified":1537573405,
+    "wof:name":"Rova",
+    "wof:parent_id":1108959799,
+    "wof:placetype":"locality",
+    "wof:population":466,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.63333,
+    46.18333,
+    14.63333,
+    46.18333
+],
+  "geometry": {"coordinates":[14.63333,46.18333],"type":"Point"}
+}

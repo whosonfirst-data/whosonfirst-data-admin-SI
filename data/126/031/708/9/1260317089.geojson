@@ -1,0 +1,75 @@
+{
+  "id": 1260317089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.88861,45.63639,14.88861,45.63639",
+    "geom:latitude":45.63639,
+    "geom:longitude":14.88861,
+    "gn:admin1_code":"H7",
+    "gn:asciiname":"Cvislerji",
+    "gn:country_code":"SI",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202252,
+    "gn:latitude":45.63639,
+    "gn:longitude":14.88861,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Cvi\u0161lerji",
+    "gn:population":207,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cvi\u0161larji",
+        "Cvi\u0161lerji"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959919,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202252,
+        "wk:page":"Cvi%C5%A1lerji"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6b4ff98d585541c7f45709d722d1d210",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959919,
+            "locality_id":1260317089,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1260317089,
+    "wof:lastmodified":1537700256,
+    "wof:name":"Cvislerji",
+    "wof:parent_id":1108959919,
+    "wof:placetype":"locality",
+    "wof:population":207,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.88861,
+    45.63639000000001,
+    14.88861,
+    45.63639000000001
+],
+  "geometry": {"coordinates":[14.88861,45.63639000000001],"type":"Point"}
+}

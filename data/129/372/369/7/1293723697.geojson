@@ -1,0 +1,71 @@
+{
+  "id": 1293723697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.73456,46.19185,14.73456,46.19185",
+    "geom:latitude":46.19185,
+    "geom:longitude":14.73456,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Brezovica pri Zlatem Polju",
+    "gn:country_code":"SI",
+    "gn:dem":546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989618,
+    "gn:latitude":46.19185,
+    "gn:longitude":14.73456,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Brezovica pri Zlatem Polju",
+    "gn:population":26,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959807,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989618,
+        "wk:page":"Brezovica_pri_Zlatem_Polju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fb63c4765cee922dd24467b2a6bd3c31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959807,
+            "locality_id":1293723697,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1293723697,
+    "wof:lastmodified":1537573547,
+    "wof:name":"Brezovica pri Zlatem Polju",
+    "wof:parent_id":1108959807,
+    "wof:placetype":"locality",
+    "wof:population":26,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.73456,
+    46.19185,
+    14.73456,
+    46.19185
+],
+  "geometry": {"coordinates":[14.73456,46.19185],"type":"Point"}
+}

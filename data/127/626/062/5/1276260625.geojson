@@ -1,0 +1,74 @@
+{
+  "id": 1276260625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.78139,46.04404,14.78139,46.04404",
+    "geom:latitude":46.04404,
+    "geom:longitude":14.78139,
+    "gn:admin1_code":"L9",
+    "gn:asciiname":"Dragovsek",
+    "gn:country_code":"SI",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988111,
+    "gn:latitude":46.04404,
+    "gn:longitude":14.78139,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Dragov\u0161ek",
+    "gn:population":73,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dragov\u0161ek"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959745,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988111,
+        "wk:page":"Dragov%C5%A1ek"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c71aaa17ffc8ea75204a8ed3546cda22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959745,
+            "locality_id":1276260625,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1276260625,
+    "wof:lastmodified":1537700300,
+    "wof:name":"Dragovsek",
+    "wof:parent_id":1108959745,
+    "wof:placetype":"locality",
+    "wof:population":73,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.78139,
+    46.04404,
+    14.78139,
+    46.04404
+],
+  "geometry": {"coordinates":[14.78139,46.04404],"type":"Point"}
+}

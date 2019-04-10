@@ -1,0 +1,71 @@
+{
+  "id": 1193054759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.96806,45.85667,14.96806,45.85667",
+    "geom:latitude":45.85667,
+    "geom:longitude":14.96806,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Dobrava",
+    "gn:country_code":"SI",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201965,
+    "gn:latitude":45.85667,
+    "gn:longitude":14.96806,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Dobrava",
+    "gn:population":74,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959839,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201965,
+        "wk:page":"Dobrava%2C_Trebnje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f2ca18c0c2bb869e30927aa46cad8b93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959839,
+            "locality_id":1193054759,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1193054759,
+    "wof:lastmodified":1537573446,
+    "wof:name":"Dobrava",
+    "wof:parent_id":1108959839,
+    "wof:placetype":"locality",
+    "wof:population":74,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.96806,
+    45.85667,
+    14.96806,
+    45.85667
+],
+  "geometry": {"coordinates":[14.96806,45.85667],"type":"Point"}
+}

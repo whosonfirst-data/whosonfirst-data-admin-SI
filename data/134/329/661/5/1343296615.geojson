@@ -1,0 +1,71 @@
+{
+  "id": 1343296615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.47756,46.22409,15.47756,46.22409",
+    "geom:latitude":46.22409,
+    "geom:longitude":15.47756,
+    "gn:admin1_code":"C5",
+    "gn:asciiname":"Gornja Vas",
+    "gn:country_code":"SI",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987414,
+    "gn:latitude":46.22409,
+    "gn:longitude":15.47756,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Gornja Vas",
+    "gn:population":157,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959607,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987414,
+        "wk:page":"Gornja_Vas%2C_%C5%A0marje_pri_Jel%C5%A1ah"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d0414548befab4721d809d28267d62fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959607,
+            "locality_id":1343296615,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1343296615,
+    "wof:lastmodified":1537573479,
+    "wof:name":"Gornja Vas",
+    "wof:parent_id":1108959607,
+    "wof:placetype":"locality",
+    "wof:population":157,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.47756,
+    46.22409,
+    15.47756,
+    46.22409
+],
+  "geometry": {"coordinates":[15.47756,46.22409],"type":"Point"}
+}

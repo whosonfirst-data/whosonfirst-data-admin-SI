@@ -1,0 +1,74 @@
+{
+  "id": 1210047877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.43333,46.11667,14.43333,46.11667",
+    "geom:latitude":46.11667,
+    "geom:longitude":14.43333,
+    "gn:admin1_code":"61",
+    "gn:asciiname":"Stanezice",
+    "gn:country_code":"SI",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190050,
+    "gn:latitude":46.11667,
+    "gn:longitude":14.43333,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Stane\u017ei\u010de",
+    "gn:population":716,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stane\u017ei\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959501,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190050,
+        "wk:page":"Stane%C5%BEi%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b4bc9443da944ad8f867843e6237c943",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959501,
+            "locality_id":1210047877,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1210047877,
+    "wof:lastmodified":1537700187,
+    "wof:name":"Stanezice",
+    "wof:parent_id":1108959501,
+    "wof:placetype":"locality",
+    "wof:population":716,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.43333,
+    46.11667,
+    14.43333,
+    46.11667
+],
+  "geometry": {"coordinates":[14.43333,46.11667],"type":"Point"}
+}

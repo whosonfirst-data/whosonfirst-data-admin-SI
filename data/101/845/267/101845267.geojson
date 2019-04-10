@@ -1,0 +1,114 @@
+{
+  "id": 101845267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000073,
+    "geom:area_square_m":628558.230048,
+    "geom:bbox":"13.7853853408,45.5587000166,13.8032744938,45.5736456408",
+    "geom:latitude":45.566724,
+    "geom:longitude":13.794728,
+    "gn:population":1402,
+    "iso:country":"SI",
+    "lbl:latitude":45.570648,
+    "lbl:longitude":13.79161,
+    "mps:latitude":45.570648,
+    "mps:longitude":13.79161,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Spodnje \u0160kofije"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u043f\u043e\u0434\u043d\u0435 \u0428\u043a\u043e\u0444\u0438\u0435"
+    ],
+    "name:dan_x_preferred":[
+        "Spodnje \u0160kofije"
+    ],
+    "name:dut_x_preferred":[
+        "Spodnje \u0160kofije"
+    ],
+    "name:eng_x_preferred":[
+        "Spodnje \u0160kofije"
+    ],
+    "name:ita_x_preferred":[
+        "Scoffie"
+    ],
+    "name:nld_x_preferred":[
+        "Spodnje \u0160kofije"
+    ],
+    "name:ron_x_preferred":[
+        "Spodnje \u0160kofije"
+    ],
+    "name:rum_x_preferred":[
+        "Spodnje \u0160kofije"
+    ],
+    "name:slv_x_preferred":[
+        "Spodnje \u0160kofije"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043f\u043e\u0434\u043d\u0454 \u0428\u043a\u043e\u0444\u0456\u0454"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:id":0,
+    "qs:la":"Koper",
+    "qs:la_lc":"*SI050000",
+    "qs:level":"locality",
+    "qs:loc":"Spodnje \u0160kofije",
+    "qs:loc_alt":"Spodnje Skofije",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":358,
+    "wof:belongsto":[
+        102191581,
+        1108959527,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343529,
+        "gp:id":55852090,
+        "wd:id":"Q2227842",
+        "wk:page":"Spodnje \u0160kofije"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b32e85f1ee45660722c593252c69f450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959527,
+            "locality_id":101845267,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":101845267,
+    "wof:lastmodified":1531170307,
+    "wof:name":"Spodnje \u0160kofije",
+    "wof:parent_id":1108959527,
+    "wof:placetype":"locality",
+    "wof:population":1402,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.78538534083646,
+    45.55870001662674,
+    13.80327449384163,
+    45.57364564080603
+],
+  "geometry": {"coordinates":[[[13.79482809551047,45.57242526681074],[13.79476581982721,45.57152554980587],[13.79348787609183,45.57157140258238],[13.79323888347989,45.56797252530265],[13.79835031283272,45.56778903554164],[13.79828798783672,45.56688931825715],[13.80084364918929,45.56679748254567],[13.80078128511241,45.56589776642488],[13.80205909201976,45.56585182629794],[13.80199670973678,45.56495211047024],[13.80327449384163,45.56490615578662],[13.8031496955345,45.56310672413866],[13.80187195316904,45.56315267707862],[13.80162247202202,45.55955380335001],[13.80034481119475,45.5595997373776],[13.80028246843608,45.55870001662674],[13.79900482654386,45.55874593435715],[13.79912947299385,45.56054537702153],[13.79785178744038,45.56059128106722],[13.79822566550416,45.56598960039429],[13.79567003817738,45.56608137265073],[13.79573231876446,45.56698109225442],[13.79062095748247,45.567164455105],[13.79049656595038,45.56536500836194],[13.78538534083646,45.56554811740421],[13.78544745178272,45.56644784453874],[13.78672528182062,45.56640208955247],[13.78678741629523,45.56730181524074],[13.78806526528274,45.56725604395763],[13.78812742328773,45.5681557681994],[13.78940529122468,45.56810998061889],[13.78959184381,45.57080914726964],[13.78831391324451,45.57085493745655],[13.78837608187814,45.57175465938622],[13.78709812850957,45.57180043501148],[13.78716027892153,45.57270015723196],[13.78588230274954,45.57274591829514],[13.78594443493836,45.57364564080603],[13.78850042711747,45.57355410151223],[13.78843825316903,45.57265438073824],[13.79482809551047,45.57242526681074]]],"type":"Polygon"}
+}

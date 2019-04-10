@@ -1,0 +1,71 @@
+{
+  "id": 1209953587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.49989,46.03283,15.49989,46.03283",
+    "geom:latitude":46.03283,
+    "geom:longitude":15.49989,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Mali Kamen",
+    "gn:country_code":"SI",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195695,
+    "gn:latitude":46.03283,
+    "gn:longitude":15.49989,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Mali Kamen",
+    "gn:population":260,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195695,
+        "wk:page":"Mali_Kamen"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c510b65d22ff1a1199fbafba32486445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1209953587,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1209953587,
+    "wof:lastmodified":1537573422,
+    "wof:name":"Mali Kamen",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":260,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.49989,
+    46.03283,
+    15.49989,
+    46.03283
+],
+  "geometry": {"coordinates":[15.49989,46.03283],"type":"Point"}
+}

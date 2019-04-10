@@ -1,0 +1,71 @@
+{
+  "id": 1310436377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.58056,46.21758,15.58056,46.21758",
+    "geom:latitude":46.21758,
+    "geom:longitude":15.58056,
+    "gn:admin1_code":"C5",
+    "gn:asciiname":"Kristan Vrh",
+    "gn:country_code":"SI",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986981,
+    "gn:latitude":46.21758,
+    "gn:longitude":15.58056,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Kristan Vrh",
+    "gn:population":390,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959607,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986981,
+        "wk:page":"Kristan_Vrh"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8ee778dd17f0627e51b740a75f94a8f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959607,
+            "locality_id":1310436377,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1310436377,
+    "wof:lastmodified":1537573466,
+    "wof:name":"Kristan Vrh",
+    "wof:parent_id":1108959607,
+    "wof:placetype":"locality",
+    "wof:population":390,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.58056,
+    46.21758,
+    15.58056,
+    46.21758
+],
+  "geometry": {"coordinates":[15.58056,46.21758],"type":"Point"}
+}

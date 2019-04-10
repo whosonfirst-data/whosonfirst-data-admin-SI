@@ -1,0 +1,71 @@
+{
+  "id": 1327060775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.66667,46.03333,14.66667,46.03333",
+    "geom:latitude":46.03333,
+    "geom:longitude":14.66667,
+    "gn:admin1_code":"61",
+    "gn:asciiname":"Besnica",
+    "gn:country_code":"SI",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204257,
+    "gn:latitude":46.03333,
+    "gn:longitude":14.66667,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Besnica",
+    "gn:population":229,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959501,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204257,
+        "wk:page":"Besnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"37c004e6951314980fb51bf9f24d61ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959501,
+            "locality_id":1327060775,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1327060775,
+    "wof:lastmodified":1537573453,
+    "wof:name":"Besnica",
+    "wof:parent_id":1108959501,
+    "wof:placetype":"locality",
+    "wof:population":229,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.66667,
+    46.03333,
+    14.66667,
+    46.03333
+],
+  "geometry": {"coordinates":[14.66667,46.03333],"type":"Point"}
+}

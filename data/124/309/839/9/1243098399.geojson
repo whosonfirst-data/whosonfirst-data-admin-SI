@@ -1,0 +1,74 @@
+{
+  "id": 1243098399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.20906,45.82522,15.20906,45.82522",
+    "geom:latitude":45.82522,
+    "geom:longitude":15.20906,
+    "gn:admin1_code":"J7",
+    "gn:asciiname":"Zihovo Selo",
+    "gn:country_code":"SI",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988660,
+    "gn:latitude":45.82522,
+    "gn:longitude":15.20906,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u017dihovo Selo",
+    "gn:population":38,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017dihovo Selo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959465,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988660,
+        "wk:page":"%C5%BDihovo_Selo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"03bd0b794c6c4031e85cad25531d0393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959465,
+            "locality_id":1243098399,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1243098399,
+    "wof:lastmodified":1537700311,
+    "wof:name":"Zihovo Selo",
+    "wof:parent_id":1108959465,
+    "wof:placetype":"locality",
+    "wof:population":38,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.20906,
+    45.82522,
+    15.20906,
+    45.82522
+],
+  "geometry": {"coordinates":[15.20906,45.82522],"type":"Point"}
+}

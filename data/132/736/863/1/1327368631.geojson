@@ -1,0 +1,71 @@
+{
+  "id": 1327368631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.65337,45.72987,14.65337,45.72987",
+    "geom:latitude":45.72987,
+    "geom:longitude":14.65337,
+    "gn:admin1_code":"M1",
+    "gn:asciiname":"Ravni Dol",
+    "gn:country_code":"SI",
+    "gn:dem":956,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989064,
+    "gn:latitude":45.72987,
+    "gn:longitude":14.65337,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ravni Dol",
+    "gn:population":20,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959805,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989064,
+        "wk:page":"Ravni_Dol%2C_Sodra%C5%BEica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6bc5ae6b0454d4a4ca6dc88402bbd985",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959805,
+            "locality_id":1327368631,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1327368631,
+    "wof:lastmodified":1537573530,
+    "wof:name":"Ravni Dol",
+    "wof:parent_id":1108959805,
+    "wof:placetype":"locality",
+    "wof:population":20,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.65337,
+    45.72987,
+    14.65337,
+    45.72987
+],
+  "geometry": {"coordinates":[14.65337,45.72987],"type":"Point"}
+}

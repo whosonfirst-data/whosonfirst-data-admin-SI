@@ -1,0 +1,71 @@
+{
+  "id": 1193171649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.845,46.09139,14.845,46.09139",
+    "geom:latitude":46.09139,
+    "geom:longitude":14.845,
+    "gn:admin1_code":"I5",
+    "gn:asciiname":"Konj",
+    "gn:country_code":"SI",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215946,
+    "gn:latitude":46.09139,
+    "gn:longitude":14.845,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Konj",
+    "gn:population":81,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959907,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215946,
+        "wk:page":"Konj%2C_Litija"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6ed33a57309acb75e42d4f0fd98de0c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959907,
+            "locality_id":1193171649,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1193171649,
+    "wof:lastmodified":1537573455,
+    "wof:name":"Konj",
+    "wof:parent_id":1108959907,
+    "wof:placetype":"locality",
+    "wof:population":81,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.845,
+    46.09139,
+    14.845,
+    46.09139
+],
+  "geometry": {"coordinates":[14.845,46.09139],"type":"Point"}
+}

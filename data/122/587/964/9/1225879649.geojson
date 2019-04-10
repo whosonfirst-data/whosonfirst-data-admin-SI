@@ -1,0 +1,74 @@
+{
+  "id": 1225879649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.07903,46.39715,15.07903,46.39715",
+    "geom:latitude":46.39715,
+    "geom:longitude":15.07903,
+    "gn:admin1_code":"C7",
+    "gn:asciiname":"Gaberke",
+    "gn:country_code":"SI",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200791,
+    "gn:latitude":46.39715,
+    "gn:longitude":15.07903,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Gaberke",
+    "gn:population":684,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gabrke"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959731,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200791,
+        "wk:page":"Gaberke"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fe8d65e6ac87b57350362808d16a3b30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959731,
+            "locality_id":1225879649,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1225879649,
+    "wof:lastmodified":1537700248,
+    "wof:name":"Gaberke",
+    "wof:parent_id":1108959731,
+    "wof:placetype":"locality",
+    "wof:population":684,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.07903,
+    46.39715,
+    15.07903,
+    46.39715
+],
+  "geometry": {"coordinates":[15.07903,46.39715],"type":"Point"}
+}

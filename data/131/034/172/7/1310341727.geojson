@@ -1,0 +1,74 @@
+{
+  "id": 1310341727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.19889,45.90778,14.19889,45.90778",
+    "geom:latitude":45.90778,
+    "geom:longitude":14.19889,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Gorenji Logatec",
+    "gn:country_code":"SI",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200351,
+    "gn:latitude":45.90778,
+    "gn:longitude":14.19889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gorenji Logatec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Longatico di Sopra"
+    ],
+    "name:und_x_variant":[
+        "Ober-loitsch",
+        "Gorenji Logatec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959889,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200351
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"49643889bb55852b582621f29d584831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959889,
+            "locality_id":1310341727,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1310341727,
+    "wof:lastmodified":1537700245,
+    "wof:name":"Gorenji Logatec",
+    "wof:parent_id":1108959889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.19889,
+    45.90778,
+    14.19889,
+    45.90778
+],
+  "geometry": {"coordinates":[14.19889,45.90778],"type":"Point"}
+}

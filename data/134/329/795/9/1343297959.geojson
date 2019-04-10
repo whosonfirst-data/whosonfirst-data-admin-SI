@@ -1,0 +1,71 @@
+{
+  "id": 1343297959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.2525,45.84306,14.2525,45.84306",
+    "geom:latitude":45.84306,
+    "geom:longitude":14.2525,
+    "gn:admin1_code":"94",
+    "gn:asciiname":"Liplje",
+    "gn:country_code":"SI",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196529,
+    "gn:latitude":45.84306,
+    "gn:longitude":14.2525,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Liplje",
+    "gn:population":20,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959559,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196529,
+        "wk:page":"Liplje%2C_Postojna"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"58794932014aa076065a51b32f0c527d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959559,
+            "locality_id":1343297959,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1343297959,
+    "wof:lastmodified":1537573425,
+    "wof:name":"Liplje",
+    "wof:parent_id":1108959559,
+    "wof:placetype":"locality",
+    "wof:population":20,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.2525,
+    45.84306,
+    14.2525,
+    45.84306
+],
+  "geometry": {"coordinates":[14.2525,45.84306],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344171137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.89194,45.91611,13.89194,45.91611",
+    "geom:latitude":45.91611,
+    "geom:longitude":13.89194,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Slokarji",
+    "gn:country_code":"SI",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216538,
+    "gn:latitude":45.91611,
+    "gn:longitude":13.89194,
+    "gn:modification_date":"2008-11-03",
+    "gn:name":"Slokarji",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959545,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216538
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"52e3590c5689646ecff7f146cd9d4fe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959545,
+            "locality_id":1344171137,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1344171137,
+    "wof:lastmodified":1536716141,
+    "wof:name":"Slokarji",
+    "wof:parent_id":1108959545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.89194,
+    45.91611,
+    13.89194,
+    45.91611
+],
+  "geometry": {"coordinates":[13.89194,45.91611],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327470329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.20893,46.2276,15.20893,46.2276",
+    "geom:latitude":46.2276,
+    "geom:longitude":15.20893,
+    "gn:admin1_code":"N5",
+    "gn:asciiname":"Brnica",
+    "gn:country_code":"SI",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988397,
+    "gn:latitude":46.2276,
+    "gn:longitude":15.20893,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Brnica",
+    "gn:population":53,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959929,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988397,
+        "wk:page":"Brnica%2C_%C5%BDalec"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"82d7a815d620a1424ae897b6a7ab5b26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959929,
+            "locality_id":1327470329,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1327470329,
+    "wof:lastmodified":1537573510,
+    "wof:name":"Brnica",
+    "wof:parent_id":1108959929,
+    "wof:placetype":"locality",
+    "wof:population":53,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.20893,
+    46.2276,
+    15.20893,
+    46.2276
+],
+  "geometry": {"coordinates":[15.20893,46.2276],"type":"Point"}
+}

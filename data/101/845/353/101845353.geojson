@@ -1,0 +1,117 @@
+{
+  "id": 101845353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000059,
+    "geom:area_square_m":498731.65194,
+    "geom:bbox":"15.6102141173,46.6339412779,15.6213598404,46.6435290186",
+    "geom:latitude":46.638913,
+    "geom:longitude":15.615587,
+    "gn:population":535,
+    "iso:country":"SI",
+    "lbl:latitude":46.638953,
+    "lbl:longitude":15.615503,
+    "mps:latitude":46.638953,
+    "mps:longitude":15.615503,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Zgornja Kungota"
+    ],
+    "name:dut_x_preferred":[
+        "Zgornja Kungota"
+    ],
+    "name:eng_x_preferred":[
+        "Zgornja Kungota"
+    ],
+    "name:hbs_x_preferred":[
+        "Zgornja Kungota"
+    ],
+    "name:hrv_x_preferred":[
+        "Zgornja Kungota"
+    ],
+    "name:nld_x_preferred":[
+        "Zgornja Kungota"
+    ],
+    "name:ron_x_preferred":[
+        "Zgornja Kungota"
+    ],
+    "name:rum_x_preferred":[
+        "Zgornja Kungota"
+    ],
+    "name:slv_x_preferred":[
+        "Zgornja Kungota"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0433\u043e\u0440\u045a\u0430 \u041a\u0443\u043d\u0433\u043e\u0442\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0433\u043e\u0440\u043d\u044f \u041a\u0443\u043d\u0433\u043e\u0442\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Ober Sankt Kunigund"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"Zgornja Kungota",
+    "qs:la_lc":"*SI055000",
+    "qs:level":"locality",
+    "qs:loc":"Zgornja Kungota",
+    "qs:loc_alt":"Zgornja Kungota",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":129,
+    "wof:belongsto":[
+        102191581,
+        1108959469,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186538,
+        "gp:id":55869209,
+        "qs:id":4,
+        "wd:id":"Q3434908",
+        "wk:page":"Zgornja Kungota"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c60617455911f2c7ddcdca64661fdcbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959469,
+            "locality_id":101845353,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":101845353,
+    "wof:lastmodified":1531170945,
+    "wof:name":"Zgornja Kungota",
+    "wof:parent_id":1108959469,
+    "wof:placetype":"locality",
+    "wof:population":535,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.61021411733162,
+    46.63394127786773,
+    15.62135984044016,
+    46.64352901855904
+],
+  "geometry": {"coordinates":[[[15.62053386307895,46.63939450697706],[15.6200581216558,46.63490691191566],[15.62135984044016,46.63483879728722],[15.62126468277597,46.63394127786773],[15.61866128582091,46.6340774887226],[15.61875639984919,46.63497501080127],[15.61745467502101,46.63504309394415],[15.61754977137525,46.63594061677321],[15.61364451330883,46.63614477573014],[15.61354948241296,46.63524724891511],[15.61224774550482,46.63531526908594],[15.61234275458099,46.63621279722912],[15.61104099283477,46.63628080298463],[15.61113598423015,46.63717833187695],[15.61243776779747,46.63711032479358],[15.6127228322913,46.6398029040152],[15.61142098325541,46.63987091508238],[15.61151599121087,46.64076844166061],[15.61021411733162,46.64083643831088],[15.61049910056295,46.64352901855904],[15.61440490958421,46.64332496942006],[15.61430984555057,46.6424274472335],[15.61691365947468,46.6422913384032],[15.61681855593241,46.64139381829608],[15.61812043653572,46.64132574159214],[15.61802531531339,46.64042822223587],[15.6193271710697,46.64036013111649],[15.6192320321689,46.63946261251107],[15.62053386307895,46.63939450697706]]],"type":"Polygon"}
+}

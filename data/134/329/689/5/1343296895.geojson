@@ -1,0 +1,74 @@
+{
+  "id": 1343296895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.53333,46.43333,15.53333,46.43333",
+    "geom:latitude":46.43333,
+    "geom:longitude":15.53333,
+    "gn:admin1_code":"L8",
+    "gn:asciiname":"Oselj",
+    "gn:country_code":"SI",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193940,
+    "gn:latitude":46.43333,
+    "gn:longitude":15.53333,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"O\u0161elj",
+    "gn:population":74,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "O\u0161elj"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959641,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193940,
+        "wk:page":"O%C5%A1elj"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8c37331946719616547c9fdda7e1f7b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959641,
+            "locality_id":1343296895,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1343296895,
+    "wof:lastmodified":1537700213,
+    "wof:name":"Oselj",
+    "wof:parent_id":1108959641,
+    "wof:placetype":"locality",
+    "wof:population":74,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.53333,
+    46.43333,
+    15.53333,
+    46.43333
+],
+  "geometry": {"coordinates":[15.53333,46.43333],"type":"Point"}
+}

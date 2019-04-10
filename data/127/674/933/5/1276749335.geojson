@@ -1,0 +1,71 @@
+{
+  "id": 1276749335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.67293,45.99384,15.67293,45.99384",
+    "geom:latitude":45.99384,
+    "geom:longitude":15.67293,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Vitna Vas",
+    "gn:country_code":"SI",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217979,
+    "gn:latitude":45.99384,
+    "gn:longitude":15.67293,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Vitna Vas",
+    "gn:population":56,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217979,
+        "wk:page":"Vitna_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"37b097f8cd5ed7724f6be3e439dd237c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1276749335,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1276749335,
+    "wof:lastmodified":1537573458,
+    "wof:name":"Vitna Vas",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:population":56,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.67293,
+    45.99384000000001,
+    15.67293,
+    45.99384000000001
+],
+  "geometry": {"coordinates":[15.67293,45.99384000000001],"type":"Point"}
+}

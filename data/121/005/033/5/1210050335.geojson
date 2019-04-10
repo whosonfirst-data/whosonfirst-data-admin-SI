@@ -1,0 +1,71 @@
+{
+  "id": 1210050335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.32638,46.15768,15.32638,46.15768",
+    "geom:latitude":46.15768,
+    "geom:longitude":15.32638,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Mala Breza",
+    "gn:country_code":"SI",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987214,
+    "gn:latitude":46.15768,
+    "gn:longitude":15.32638,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Mala Breza",
+    "gn:population":216,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959879,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987214,
+        "wk:page":"Mala_Breza"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3b121e3311e114cc55e97bc2644431ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959879,
+            "locality_id":1210050335,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1210050335,
+    "wof:lastmodified":1537573472,
+    "wof:name":"Mala Breza",
+    "wof:parent_id":1108959879,
+    "wof:placetype":"locality",
+    "wof:population":216,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.32638,
+    46.15768,
+    15.32638,
+    46.15768
+],
+  "geometry": {"coordinates":[15.32638,46.15768],"type":"Point"}
+}

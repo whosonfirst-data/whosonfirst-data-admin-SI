@@ -1,0 +1,75 @@
+{
+  "id": 1293283067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.5,45.9,15.5,45.9",
+    "geom:latitude":45.9,
+    "geom:longitude":15.5,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Hrastje pri Cerkljah",
+    "gn:country_code":"SI",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199300,
+    "gn:latitude":45.9,
+    "gn:longitude":15.5,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Hrastje pri Cerkljah",
+    "gn:population":134,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hrastje",
+        "Hrastje pri Cerkljah"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199300,
+        "wk:page":"Hrastje_pri_Cerkljah"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c11663b8d8e57b78d8a7bd9a8f1d3b74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1293283067,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1293283067,
+    "wof:lastmodified":1537700239,
+    "wof:name":"Hrastje pri Cerkljah",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:population":134,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.5,
+    45.9,
+    15.5,
+    45.9
+],
+  "geometry": {"coordinates":[15.5,45.9],"type":"Point"}
+}

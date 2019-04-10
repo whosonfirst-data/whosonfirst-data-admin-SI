@@ -1,0 +1,74 @@
+{
+  "id": 1276689527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.25,46.28333,14.25,46.28333",
+    "geom:latitude":46.28333,
+    "geom:longitude":14.25,
+    "gn:admin1_code":"A3",
+    "gn:asciiname":"Ovsise",
+    "gn:country_code":"SI",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193757,
+    "gn:latitude":46.28333,
+    "gn:longitude":14.25,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ovsi\u0161e",
+    "gn:population":218,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ovsi\u0161e"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959825,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193757,
+        "wk:page":"Ovsi%C5%A1e"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"368ddfff87018e10bd87aa47ae52ad81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959825,
+            "locality_id":1276689527,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1276689527,
+    "wof:lastmodified":1537700212,
+    "wof:name":"Ovsise",
+    "wof:parent_id":1108959825,
+    "wof:placetype":"locality",
+    "wof:population":218,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.25,
+    46.28333,
+    14.25,
+    46.28333
+],
+  "geometry": {"coordinates":[14.25,46.28333],"type":"Point"}
+}

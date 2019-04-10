@@ -1,0 +1,71 @@
+{
+  "id": 1327470799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56667,46.41667,15.56667,46.41667",
+    "geom:latitude":46.41667,
+    "geom:longitude":15.56667,
+    "gn:admin1_code":"L8",
+    "gn:asciiname":"Spodnje Prebukovje",
+    "gn:country_code":"SI",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190211,
+    "gn:latitude":46.41667,
+    "gn:longitude":15.56667,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Spodnje Prebukovje",
+    "gn:population":147,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959641,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190211,
+        "wk:page":"Spodnje_Prebukovje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d61e303188089f2dbe9ba79c4608372f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959641,
+            "locality_id":1327470799,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1327470799,
+    "wof:lastmodified":1537573398,
+    "wof:name":"Spodnje Prebukovje",
+    "wof:parent_id":1108959641,
+    "wof:placetype":"locality",
+    "wof:population":147,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56667,
+    46.41667,
+    15.56667,
+    46.41667
+],
+  "geometry": {"coordinates":[15.56667,46.41667],"type":"Point"}
+}

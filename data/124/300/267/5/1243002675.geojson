@@ -1,0 +1,67 @@
+{
+  "id": 1243002675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.52308,45.97072,15.52308,45.97072",
+    "geom:latitude":45.97072,
+    "geom:longitude":15.52308,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Loke",
+    "gn:country_code":"SI",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":10794192,
+    "gn:latitude":45.97072,
+    "gn:longitude":15.52308,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Loke",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10794192
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a75761da0edaf5f31cfe04cc8f4aed7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1243002675,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1243002675,
+    "wof:lastmodified":1536948749,
+    "wof:name":"Loke",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.52308,
+    45.97072,
+    15.52308,
+    45.97072
+],
+  "geometry": {"coordinates":[15.52308,45.97072],"type":"Point"}
+}

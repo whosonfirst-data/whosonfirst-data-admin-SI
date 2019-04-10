@@ -1,0 +1,74 @@
+{
+  "id": 1243590409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.83633,46.51119,15.83633,46.51119",
+    "geom:latitude":46.51119,
+    "geom:longitude":15.83633,
+    "gn:admin1_code":"I3",
+    "gn:asciiname":"Straze",
+    "gn:country_code":"SI",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189759,
+    "gn:latitude":46.51119,
+    "gn:longitude":15.83633,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Stra\u017ee",
+    "gn:population":97,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stra\u017ee"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959477,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189759,
+        "wk:page":"Stra%C5%BEe"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c5fba2b501b68930d49b10e025cab0a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959477,
+            "locality_id":1243590409,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1243590409,
+    "wof:lastmodified":1537700185,
+    "wof:name":"Straze",
+    "wof:parent_id":1108959477,
+    "wof:placetype":"locality",
+    "wof:population":97,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.83633,
+    46.51119,
+    15.83633,
+    46.51119
+],
+  "geometry": {"coordinates":[15.83633,46.51119],"type":"Point"}
+}

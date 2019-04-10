@@ -1,0 +1,68 @@
+{
+  "id": 1209550027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.47671,45.96112,15.47671,45.96112",
+    "geom:latitude":45.96112,
+    "geom:longitude":15.47671,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Trska Gora",
+    "gn:country_code":"SI",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987337,
+    "gn:latitude":45.96112,
+    "gn:longitude":15.47671,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Tr\u0161ka Gora",
+    "gn:population":170,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tr\u0161ka Gora"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987337,
+        "wk:page":"Tr%C5%A1ka_Gora%2C_Kr%C5%A1ko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0f26882ab5a1b5caa5c08723ca6b0c01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209550027
+        }
+    ],
+    "wof:id":1209550027,
+    "wof:lastmodified":1537700284,
+    "wof:name":"Trska Gora",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":170,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.47671,
+    45.96112,
+    15.47671,
+    45.96112
+],
+  "geometry": {"coordinates":[15.47671,45.96112],"type":"Point"}
+}

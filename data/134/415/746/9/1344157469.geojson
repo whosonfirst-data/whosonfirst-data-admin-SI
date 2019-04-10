@@ -1,0 +1,74 @@
+{
+  "id": 1344157469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.91345,46.24407,13.91345,46.24407",
+    "geom:latitude":46.24407,
+    "geom:longitude":13.91345,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Zlan",
+    "gn:country_code":"SI",
+    "gn:dem":1148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989227,
+    "gn:latitude":46.24407,
+    "gn:longitude":13.91345,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u017dlan",
+    "gn:population":12,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017dlan"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959819,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989227,
+        "wk:page":"%C5%BDlan"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4caeebaff96045c20d6da233dce98c7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959819,
+            "locality_id":1344157469,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1344157469,
+    "wof:lastmodified":1537700322,
+    "wof:name":"Zlan",
+    "wof:parent_id":1108959819,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.91345,
+    46.24407,
+    13.91345,
+    46.24407
+],
+  "geometry": {"coordinates":[13.91345,46.24407],"type":"Point"}
+}

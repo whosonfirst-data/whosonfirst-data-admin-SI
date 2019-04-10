@@ -1,0 +1,75 @@
+{
+  "id": 1277112709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.41027,46.34867,15.41027,46.34867",
+    "geom:latitude":46.34867,
+    "geom:longitude":15.41027,
+    "gn:admin1_code":"C4",
+    "gn:asciiname":"Dobrava pri Konjicah",
+    "gn:country_code":"SI",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201963,
+    "gn:latitude":46.34867,
+    "gn:longitude":15.41027,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Dobrava pri Konjicah",
+    "gn:population":88,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dobrova",
+        "Dobrava pri Konjicah"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959753,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201963,
+        "wk:page":"Dobrava_pri_Konjicah"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"aefd60d1014374b5db581ddb7bb18fe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959753,
+            "locality_id":1277112709,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1277112709,
+    "wof:lastmodified":1537700255,
+    "wof:name":"Dobrava pri Konjicah",
+    "wof:parent_id":1108959753,
+    "wof:placetype":"locality",
+    "wof:population":88,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.41027,
+    46.34867,
+    15.41027,
+    46.34867
+],
+  "geometry": {"coordinates":[15.41027,46.34867],"type":"Point"}
+}

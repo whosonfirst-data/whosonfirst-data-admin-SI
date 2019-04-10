@@ -1,0 +1,71 @@
+{
+  "id": 1225879593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.89861,45.56417,14.89861,45.56417",
+    "geom:latitude":45.56417,
+    "geom:longitude":14.89861,
+    "gn:admin1_code":"H7",
+    "gn:asciiname":"Rogati Hrib",
+    "gn:country_code":"SI",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191575,
+    "gn:latitude":45.56417,
+    "gn:longitude":14.89861,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Rogati Hrib",
+    "gn:population":2,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959919,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191575,
+        "wk:page":"Rogati_Hrib"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e41895015de3c8bdb90844b5b7421f56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959919,
+            "locality_id":1225879593,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1225879593,
+    "wof:lastmodified":1537573405,
+    "wof:name":"Rogati Hrib",
+    "wof:parent_id":1108959919,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.89861,
+    45.56417,
+    14.89861,
+    45.56417
+],
+  "geometry": {"coordinates":[14.89861,45.56417],"type":"Point"}
+}

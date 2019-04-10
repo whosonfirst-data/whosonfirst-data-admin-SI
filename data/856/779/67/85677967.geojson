@@ -1,0 +1,194 @@
+{
+  "id": 85677967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.028448,
+    "geom:area_square_m":245229911.617686,
+    "geom:bbox":"14.2583341806,45.707494615,14.5050891464,45.8912301703",
+    "geom:latitude":45.802814,
+    "geom:longitude":14.377364,
+    "gn:population":11226,
+    "iso:country":"SI",
+    "lbl:latitude":45.799411,
+    "lbl:longitude":14.375014,
+    "mps:latitude":45.799411,
+    "mps:longitude":14.375014,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ces_x_preferred":[
+        "Ob\u010dina Cerknica"
+    ],
+    "name:eng_x_preferred":[
+        "Cerknica"
+    ],
+    "name:hbs_x_preferred":[
+        "Cerknica"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Cerknica"
+    ],
+    "name:nld_x_preferred":[
+        "Cerknica"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Cerknica"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Cerknica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0435\u0440\u043a\u043d\u0438\u0446\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Municipality o Cerknica"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Cerknica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0426\u0435\u0440\u043a\u043d\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0435\u0440\u043a\u043d\u0438\u0446\u044f"
+    ],
+    "name:und_x_preferred":[
+        "Cerknica"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Cerknica"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0644\u062f\u06cc\u06c1 \u062a\u0633\u06cc\u0631\u06a9\u0646\u06cc\u062a\u0633\u0627"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-943",
+    "ne:adm1_code":"SVN-943",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SI.NO.CE",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"943",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SI13",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.13",
+    "ne:gn_id":"3202707",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Cerknica",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI13",
+    "ne:gns_id":"-77247",
+    "ne:gns_lang":"srp",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Cerknica, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"45.78860000000",
+    "ne:longitude":"14.38170000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Cerknica",
+    "ne:name_alt":"",
+    "ne:name_len":8,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"CE",
+    "ne:provnum_ne":"115",
+    "ne:region":"Notranjsko-kra\u0161ka",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":55848344,
+    "ne:woe_label":"Cerknica, SI, Slovenia",
+    "ne:woe_name":"Cerknica",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Cerknica",
+    "qs:a1_lc":"SVN-943",
+    "qs:a1r":"Notranjsko-kra\u0161ka",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":110,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SI13",
+        "gn:id":3202707,
+        "gp:id":55848344,
+        "hasc:id":"SI.NO.CE",
+        "qs:id":1104103,
+        "wd:id":"Q13107298",
+        "wk:page":"Municipality of Cerknica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5a47417c8318843684560acaed6965f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677967
+        }
+    ],
+    "wof:id":85677967,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616733,
+    "wof:name":"Cerknica",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:population":11226,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[
+        1108959905
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.258334180578,
+    45.70749461498457,
+    14.50508914644701,
+    45.89123017033614
+],
+  "geometry": {"coordinates":[[[14.36478763174387,45.86748485054545],[14.37625980014968,45.87148977353428],[14.38463138223256,45.86505605689155],[14.38881717327399,45.86298900024224],[14.39305464025949,45.86040517785671],[14.39987592873115,45.86120616353367],[14.40607710137715,45.86738149685863],[14.4175492688837,45.87089549433165],[14.43584272576123,45.86293732429812],[14.4421989271388,45.86345408823564],[14.49015465741155,45.88086904596975],[14.49821618023259,45.87035289197246],[14.49620079862802,45.86216217704288],[14.49713097461483,45.8518268910982],[14.50508914644701,45.84076813384235],[14.49310021320434,45.83554881402659],[14.48348839677215,45.83288747817465],[14.45713341617426,45.817203681205],[14.45062218606506,45.81177765581424],[14.44628136629206,45.80686839526027],[14.4421989271388,45.80048635546098],[14.4421989271388,45.79575796206035],[14.44659142375525,45.78924673105183],[14.46348961755189,45.77544912447757],[14.48131798733527,45.76565643999277],[14.48658898309515,45.76408030885921],[14.49015465741155,45.75961029697766],[14.49248009557999,45.75570872677639],[14.4783724297439,45.74785390953036],[14.4105729507811,45.71007843737004],[14.3861816749444,45.70749461498457],[14.32768395405128,45.73981822423173],[14.32318810374807,45.75410675722111],[14.29931359184883,45.75725902038755],[14.28753136597982,45.76289175135332],[14.26949629062136,45.77632762272168],[14.258334180578,45.79059031818866],[14.25941938619576,45.80144236897019],[14.27926313578513,45.83722829884698],[14.27647260872396,45.84611664486732],[14.29915856311726,45.8857266305796],[14.30939049627443,45.89123017033614],[14.32566857334604,45.88732860013482],[14.36478763174387,45.86748485054545]]],"type":"Polygon"}
+}

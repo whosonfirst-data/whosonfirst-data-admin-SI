@@ -1,0 +1,75 @@
+{
+  "id": 1260215319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.15,45.9,15.15,45.9",
+    "geom:latitude":45.9,
+    "geom:longitude":15.15,
+    "gn:admin1_code":"O7",
+    "gn:asciiname":"Cesnjice pri Trebelnem",
+    "gn:country_code":"SI",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202659,
+    "gn:latitude":45.9,
+    "gn:longitude":15.15,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u010ce\u0161njice pri Trebelnem",
+    "gn:population":99,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ce\u0161njice",
+        "\u010ce\u0161njice pri Trebelnem"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959913,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202659,
+        "wk:page":"%C4%8Ce%C5%A1njice_pri_Trebelnem"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d9c913b90852705752eaff5f42a27baf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959913,
+            "locality_id":1260215319,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1260215319,
+    "wof:lastmodified":1537700258,
+    "wof:name":"Cesnjice pri Trebelnem",
+    "wof:parent_id":1108959913,
+    "wof:placetype":"locality",
+    "wof:population":99,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.15,
+    45.9,
+    15.15,
+    45.9
+],
+  "geometry": {"coordinates":[15.15,45.9],"type":"Point"}
+}

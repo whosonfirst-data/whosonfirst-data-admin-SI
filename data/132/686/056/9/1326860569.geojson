@@ -1,0 +1,75 @@
+{
+  "id": 1326860569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.62639,45.855,14.62639,45.855",
+    "geom:latitude":45.855,
+    "geom:longitude":14.62639,
+    "gn:admin1_code":"D8",
+    "gn:asciiname":"Rasica",
+    "gn:country_code":"SI",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186234,
+    "gn:latitude":45.855,
+    "gn:longitude":14.62639,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ra\u0161ica",
+    "gn:population":267,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ra\u0161\u010dica",
+        "Ra\u0161ica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959859,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186234,
+        "wk:page":"Ra%C5%A1ica%2C_Velike_La%C5%A1%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4e7f0afff724f8aa6c17e773fd6c61cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959859,
+            "locality_id":1326860569,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1326860569,
+    "wof:lastmodified":1537700166,
+    "wof:name":"Rasica",
+    "wof:parent_id":1108959859,
+    "wof:placetype":"locality",
+    "wof:population":267,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.62639,
+    45.855,
+    14.62639,
+    45.855
+],
+  "geometry": {"coordinates":[14.62639,45.855],"type":"Point"}
+}

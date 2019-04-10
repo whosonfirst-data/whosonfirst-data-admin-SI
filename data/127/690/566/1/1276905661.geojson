@@ -1,0 +1,74 @@
+{
+  "id": 1276905661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.43333,46.28333,14.43333,46.28333",
+    "geom:latitude":46.28333,
+    "geom:longitude":14.43333,
+    "gn:admin1_code":"B2",
+    "gn:asciiname":"Olsevek",
+    "gn:country_code":"SI",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194130,
+    "gn:latitude":46.28333,
+    "gn:longitude":14.43333,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ol\u0161evek",
+    "gn:population":343,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ol\u0161evek"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959647,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194130,
+        "wk:page":"Ol%C5%A1evek"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"125cd7599d6138b73414af6ad05adfa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959647,
+            "locality_id":1276905661,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1276905661,
+    "wof:lastmodified":1537700213,
+    "wof:name":"Olsevek",
+    "wof:parent_id":1108959647,
+    "wof:placetype":"locality",
+    "wof:population":343,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.43333,
+    46.28333,
+    14.43333,
+    46.28333
+],
+  "geometry": {"coordinates":[14.43333,46.28333],"type":"Point"}
+}

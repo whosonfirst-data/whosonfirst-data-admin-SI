@@ -1,0 +1,75 @@
+{
+  "id": 1260214217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.36528,46.36361,15.36528,46.36361",
+    "geom:latitude":46.36361,
+    "geom:longitude":15.36528,
+    "gn:admin1_code":"F3",
+    "gn:asciiname":"Stranice",
+    "gn:country_code":"SI",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189776,
+    "gn:latitude":46.36361,
+    "gn:longitude":15.36528,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Stranice",
+    "gn:population":192,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stranica",
+        "Stranice"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959671,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189776,
+        "wk:page":"Stranice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1e6af2e70ec8313f23de201ad9828b3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959671,
+            "locality_id":1260214217,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1260214217,
+    "wof:lastmodified":1537700185,
+    "wof:name":"Stranice",
+    "wof:parent_id":1108959671,
+    "wof:placetype":"locality",
+    "wof:population":192,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.36528,
+    46.36361,
+    15.36528,
+    46.36361
+],
+  "geometry": {"coordinates":[15.36528,46.36361],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243119301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.98296,46.60562,15.98296,46.60562",
+    "geom:latitude":46.60562,
+    "geom:longitude":15.98296,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Stavesinci",
+    "gn:country_code":"SI",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189910,
+    "gn:latitude":46.60562,
+    "gn:longitude":15.98296,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Stave\u0161inci",
+    "gn:population":80,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stave\u0161inci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959817,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189910,
+        "wk:page":"Stave%C5%A1inci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4cfab2256ad1c29f1bd4289528bb1699",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959817,
+            "locality_id":1243119301,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1243119301,
+    "wof:lastmodified":1537700186,
+    "wof:name":"Stavesinci",
+    "wof:parent_id":1108959817,
+    "wof:placetype":"locality",
+    "wof:population":80,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.98296,
+    46.60562,
+    15.98296,
+    46.60562
+],
+  "geometry": {"coordinates":[15.98296,46.60562],"type":"Point"}
+}

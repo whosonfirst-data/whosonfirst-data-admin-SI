@@ -1,0 +1,80 @@
+{
+  "id": 1276365683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.08894,45.77524,14.08894,45.77524",
+    "geom:latitude":45.77524,
+    "geom:longitude":14.08894,
+    "gn:admin1_code":"94",
+    "gn:asciiname":"Brezje pod Nanosom",
+    "gn:country_code":"SI",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988566,
+    "gn:latitude":45.77524,
+    "gn:longitude":14.08894,
+    "gn:modification_date":"2015-11-02",
+    "gn:name":"Brezje pod Nanosom",
+    "gn:population":43,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Brezje"
+    ],
+    "name:slv_x_preferred":[
+        "Brezje"
+    ],
+    "name:und_x_variant":[
+        "Brezje Pod Nanosom"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959559,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988566,
+        "wk:page":"Brezje_pod_Nanosom"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"cc59b0c917efa36bcd2dbec6567a736f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959559,
+            "locality_id":1276365683,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1276365683,
+    "wof:lastmodified":1537700309,
+    "wof:name":"Brezje pod Nanosom",
+    "wof:parent_id":1108959559,
+    "wof:placetype":"locality",
+    "wof:population":43,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.08894,
+    45.77524,
+    14.08894,
+    45.77524
+],
+  "geometry": {"coordinates":[14.08894,45.77524],"type":"Point"}
+}

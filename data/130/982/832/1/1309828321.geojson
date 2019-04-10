@@ -1,0 +1,67 @@
+{
+  "id": 1309828321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.73028,46.39917,13.73028,46.39917",
+    "geom:latitude":46.39917,
+    "geom:longitude":13.73028,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Zapodnem",
+    "gn:country_code":"SI",
+    "gn:dem":1600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218166,
+    "gn:latitude":46.39917,
+    "gn:longitude":13.73028,
+    "gn:modification_date":"2008-11-03",
+    "gn:name":"Zapodnem",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959541,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218166
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"763c98be01504cd40a71fd4c8d9efa81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959541,
+            "locality_id":1309828321,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1309828321,
+    "wof:lastmodified":1536898632,
+    "wof:name":"Zapodnem",
+    "wof:parent_id":1108959541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.73028,
+    46.39917,
+    13.73028,
+    46.39917
+],
+  "geometry": {"coordinates":[13.73028,46.39917],"type":"Point"}
+}

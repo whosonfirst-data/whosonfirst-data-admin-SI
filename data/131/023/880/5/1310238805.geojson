@@ -1,0 +1,74 @@
+{
+  "id": 1310238805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.27543,46.35744,14.27543,46.35744",
+    "geom:latitude":46.35744,
+    "geom:longitude":14.27543,
+    "gn:admin1_code":"D5",
+    "gn:asciiname":"Brezje pri Trzicu",
+    "gn:country_code":"SI",
+    "gn:dem":661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989473,
+    "gn:latitude":46.35744,
+    "gn:longitude":14.27543,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Brezje pri Tr\u017ei\u010du",
+    "gn:population":366,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brezje pri Tr\u017ei\u010du"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959917,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989473,
+        "wk:page":"Brezje_pri_Tr%C5%BEi%C4%8Du"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"68cd9723483ab696ed2f5062f8fba63e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959917,
+            "locality_id":1310238805,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1310238805,
+    "wof:lastmodified":1537700326,
+    "wof:name":"Brezje pri Trzicu",
+    "wof:parent_id":1108959917,
+    "wof:placetype":"locality",
+    "wof:population":366,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.27543,
+    46.35744,
+    14.27543,
+    46.35744
+],
+  "geometry": {"coordinates":[14.27543,46.35744],"type":"Point"}
+}

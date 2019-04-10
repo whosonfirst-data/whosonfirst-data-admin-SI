@@ -1,0 +1,74 @@
+{
+  "id": 1327171073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.96096,45.9527,14.96096,45.9527",
+    "geom:latitude":45.9527,
+    "geom:longitude":14.96096,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Mackovec",
+    "gn:country_code":"SI",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989613,
+    "gn:latitude":45.9527,
+    "gn:longitude":14.96096,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Ma\u010dkovec",
+    "gn:population":29,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u010dkovec"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959839,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989613,
+        "wk:page":"Ma%C4%8Dkovec%2C_Trebnje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3fa38bc592f99b4bd597a9c368e2f5df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959839,
+            "locality_id":1327171073,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1327171073,
+    "wof:lastmodified":1537700330,
+    "wof:name":"Mackovec",
+    "wof:parent_id":1108959839,
+    "wof:placetype":"locality",
+    "wof:population":29,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.96096,
+    45.9527,
+    14.96096,
+    45.9527
+],
+  "geometry": {"coordinates":[14.96096,45.9527],"type":"Point"}
+}

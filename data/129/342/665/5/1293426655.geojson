@@ -1,0 +1,74 @@
+{
+  "id": 1293426655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.85928,45.95464,14.85928,45.95464",
+    "geom:latitude":45.95464,
+    "geom:longitude":14.85928,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Sentpavel na Dolenjskem",
+    "gn:country_code":"SI",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987463,
+    "gn:latitude":45.95464,
+    "gn:longitude":14.85928,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160entpavel na Dolenjskem",
+    "gn:population":148,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160entpavel na Dolenjskem"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959583,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987463,
+        "wk:page":"%C5%A0entpavel_na_Dolenjskem"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2a8c27dbc6be65a03ca0b081516277db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959583,
+            "locality_id":1293426655,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1293426655,
+    "wof:lastmodified":1537700287,
+    "wof:name":"Sentpavel na Dolenjskem",
+    "wof:parent_id":1108959583,
+    "wof:placetype":"locality",
+    "wof:population":148,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.85928,
+    45.95464000000001,
+    14.85928,
+    45.95464000000001
+],
+  "geometry": {"coordinates":[14.85928,45.95464000000001],"type":"Point"}
+}

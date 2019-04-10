@@ -1,0 +1,74 @@
+{
+  "id": 1242812465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.15243,46.39586,15.15243,46.39586",
+    "geom:latitude":46.39586,
+    "geom:longitude":15.15243,
+    "gn:admin1_code":"D7",
+    "gn:asciiname":"Smartinske Cirkovce",
+    "gn:country_code":"SI",
+    "gn:dem":750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989828,
+    "gn:latitude":46.39586,
+    "gn:longitude":15.15243,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"\u0160martinske Cirkovce",
+    "gn:population":76,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160martinske Cirkovce"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959593,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989828,
+        "wk:page":"%C5%A0martinske_Cirkovce"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"436155be45ebc1496e644ee1d64e223b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959593,
+            "locality_id":1242812465,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1242812465,
+    "wof:lastmodified":1537700334,
+    "wof:name":"Smartinske Cirkovce",
+    "wof:parent_id":1108959593,
+    "wof:placetype":"locality",
+    "wof:population":76,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.15243,
+    46.39586,
+    15.15243,
+    46.39586
+],
+  "geometry": {"coordinates":[15.15243,46.39586],"type":"Point"}
+}

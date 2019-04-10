@@ -1,0 +1,74 @@
+{
+  "id": 1226323973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.24577,46.27854,15.24577,46.27854",
+    "geom:latitude":46.27854,
+    "geom:longitude":15.24577,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Slatina v Rozni Dolini",
+    "gn:country_code":"SI",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989744,
+    "gn:latitude":46.27854,
+    "gn:longitude":15.24577,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Slatina v Ro\u017eni Dolini",
+    "gn:population":255,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Slatina v Ro\u017eni Dolini"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959693,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989744,
+        "wk:page":"Slatina_v_Ro%C5%BEni_Dolini"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9c92a79a80c9ea61eb82541cf6a66db0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959693,
+            "locality_id":1226323973,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1226323973,
+    "wof:lastmodified":1537700332,
+    "wof:name":"Slatina v Rozni Dolini",
+    "wof:parent_id":1108959693,
+    "wof:placetype":"locality",
+    "wof:population":255,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.24577,
+    46.27854,
+    15.24577,
+    46.27854
+],
+  "geometry": {"coordinates":[15.24577,46.27854],"type":"Point"}
+}

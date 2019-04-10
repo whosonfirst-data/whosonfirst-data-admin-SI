@@ -1,0 +1,74 @@
+{
+  "id": 1259417903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.84931,46.5391,15.84931,46.5391",
+    "geom:latitude":46.5391,
+    "geom:longitude":15.84931,
+    "gn:admin1_code":"P6",
+    "gn:asciiname":"Nadbisec",
+    "gn:country_code":"SI",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194606,
+    "gn:latitude":46.5391,
+    "gn:longitude":15.84931,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Nadbi\u0161ec",
+    "gn:population":90,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nadbi\u0161ec"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959477,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194606,
+        "wk:page":"Nadbi%C5%A1ec"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c55ca6b9b332141b89c76c27db61dc6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959477,
+            "locality_id":1259417903,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1259417903,
+    "wof:lastmodified":1537700216,
+    "wof:name":"Nadbisec",
+    "wof:parent_id":1108959477,
+    "wof:placetype":"locality",
+    "wof:population":90,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.84931,
+    46.5391,
+    15.84931,
+    46.5391
+],
+  "geometry": {"coordinates":[15.84931,46.5391],"type":"Point"}
+}

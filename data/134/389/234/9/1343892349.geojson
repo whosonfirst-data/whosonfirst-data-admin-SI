@@ -1,0 +1,77 @@
+{
+  "id": 1343892349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.26868,45.93117,15.26868,45.93117",
+    "geom:latitude":45.93117,
+    "geom:longitude":15.26868,
+    "gn:admin1_code":"B8",
+    "gn:asciiname":"Gabrnik",
+    "gn:country_code":"SI",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989243,
+    "gn:latitude":45.93117,
+    "gn:longitude":15.26868,
+    "gn:modification_date":"2015-12-03",
+    "gn:name":"Gabrnik",
+    "gn:population":12,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Gabernik"
+    ],
+    "name:slv_x_preferred":[
+        "Gabernik"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959605,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989243,
+        "wk:page":"Gabrnik%2C_%C5%A0kocjan"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e38826d6ba5f48cd615ac5b43e99429f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959605,
+            "locality_id":1343892349,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1343892349,
+    "wof:lastmodified":1537700322,
+    "wof:name":"Gabrnik",
+    "wof:parent_id":1108959605,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.26868,
+    45.93117,
+    15.26868,
+    45.93117
+],
+  "geometry": {"coordinates":[15.26868,45.93117],"type":"Point"}
+}

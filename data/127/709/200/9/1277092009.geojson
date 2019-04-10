@@ -1,0 +1,67 @@
+{
+  "id": 1277092009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.88912,45.85733,13.88912,45.85733",
+    "geom:latitude":45.85733,
+    "geom:longitude":13.88912,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Strancarji",
+    "gn:country_code":"SI",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10860670,
+    "gn:latitude":45.85733,
+    "gn:longitude":13.88912,
+    "gn:modification_date":"2015-11-04",
+    "gn:name":"\u0160trancarji",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959545,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10860670
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d5ef38bfe6e99826dd3826fb7f6cf254",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959545,
+            "locality_id":1277092009,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1277092009,
+    "wof:lastmodified":1536754266,
+    "wof:name":"Strancarji",
+    "wof:parent_id":1108959545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.88912,
+    45.85733,
+    13.88912,
+    45.85733
+],
+  "geometry": {"coordinates":[13.88912,45.85733],"type":"Point"}
+}

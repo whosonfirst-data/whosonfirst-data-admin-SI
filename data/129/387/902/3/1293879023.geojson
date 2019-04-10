@@ -1,0 +1,67 @@
+{
+  "id": 1293879023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.6459,45.987,15.6459,45.987",
+    "geom:latitude":45.987,
+    "geom:longitude":15.6459,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Vosni Dol",
+    "gn:country_code":"SI",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":10794176,
+    "gn:latitude":45.987,
+    "gn:longitude":15.6459,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Vo\u0161ni Dol",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10794176
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ef73f1db14ae3abfc65bd8ece1a86c2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1293879023,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1293879023,
+    "wof:lastmodified":1536720181,
+    "wof:name":"Vosni Dol",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.6459,
+    45.987,
+    15.6459,
+    45.987
+],
+  "geometry": {"coordinates":[15.6459,45.987],"type":"Point"}
+}

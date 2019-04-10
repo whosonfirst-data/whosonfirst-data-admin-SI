@@ -1,0 +1,67 @@
+{
+  "id": 1344090435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.35889,46.10639,15.35889,46.10639",
+    "geom:latitude":46.10639,
+    "geom:longitude":15.35889,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Marof",
+    "gn:country_code":"SI",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216329,
+    "gn:latitude":46.10639,
+    "gn:longitude":15.35889,
+    "gn:modification_date":"2008-11-06",
+    "gn:name":"Marof",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959879,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216329
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d9cf18a51002a53ae5a7b0b57fa9ee1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959879,
+            "locality_id":1344090435,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1344090435,
+    "wof:lastmodified":1536831461,
+    "wof:name":"Marof",
+    "wof:parent_id":1108959879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.35889,
+    46.10639000000001,
+    15.35889,
+    46.10639000000001
+],
+  "geometry": {"coordinates":[15.35889,46.10639000000001],"type":"Point"}
+}

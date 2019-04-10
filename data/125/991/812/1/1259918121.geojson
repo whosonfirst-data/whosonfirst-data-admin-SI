@@ -1,0 +1,67 @@
+{
+  "id": 1259918121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.766,45.92771,13.766,45.92771",
+    "geom:latitude":45.92771,
+    "geom:longitude":13.766,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Badalici",
+    "gn:country_code":"SI",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10859151,
+    "gn:latitude":45.92771,
+    "gn:longitude":13.766,
+    "gn:modification_date":"2015-10-21",
+    "gn:name":"Badali\u010di",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959487,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10859151
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c154f3c7eecab3a90f16bc9b63134b77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959487,
+            "locality_id":1259918121,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1259918121,
+    "wof:lastmodified":1536729659,
+    "wof:name":"Badalici",
+    "wof:parent_id":1108959487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.766,
+    45.92771,
+    13.766,
+    45.92771
+],
+  "geometry": {"coordinates":[13.766,45.92771],"type":"Point"}
+}

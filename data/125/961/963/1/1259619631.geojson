@@ -1,0 +1,75 @@
+{
+  "id": 1259619631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.12417,45.66278,14.12417,45.66278",
+    "geom:latitude":45.66278,
+    "geom:longitude":14.12417,
+    "gn:admin1_code":"91",
+    "gn:asciiname":"Dolnja Kosana",
+    "gn:country_code":"SI",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201781,
+    "gn:latitude":45.66278,
+    "gn:longitude":14.12417,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Dolnja Ko\u0161ana",
+    "gn:population":335,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dolenja Ko\u0161ana",
+        "Dolnja Ko\u0161ana"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959587,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201781,
+        "wk:page":"Dolnja_Ko%C5%A1ana"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1bebbde6b7f34213c41c16dcde499961",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959587,
+            "locality_id":1259619631,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1259619631,
+    "wof:lastmodified":1537700252,
+    "wof:name":"Dolnja Kosana",
+    "wof:parent_id":1108959587,
+    "wof:placetype":"locality",
+    "wof:population":335,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.12417,
+    45.66278,
+    14.12417,
+    45.66278
+],
+  "geometry": {"coordinates":[14.12417,45.66278],"type":"Point"}
+}

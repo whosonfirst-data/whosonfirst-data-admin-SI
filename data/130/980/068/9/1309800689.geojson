@@ -1,0 +1,75 @@
+{
+  "id": 1309800689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.56333,45.98278,13.56333,45.98278",
+    "geom:latitude":45.98278,
+    "geom:longitude":13.56333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Gornje Cerovo",
+    "gn:country_code":"SI",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200141,
+    "gn:latitude":45.98278,
+    "gn:longitude":13.56333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Gornje Cerovo",
+    "gn:population":298,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cerovo",
+        "Gornje Cerovo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959811,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200141,
+        "wk:page":"Gornje_Cerovo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"08fa9d341bc38e9c034648812541b407",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959811,
+            "locality_id":1309800689,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1309800689,
+    "wof:lastmodified":1537700243,
+    "wof:name":"Gornje Cerovo",
+    "wof:parent_id":1108959811,
+    "wof:placetype":"locality",
+    "wof:population":298,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.56333,
+    45.98278,
+    13.56333,
+    45.98278
+],
+  "geometry": {"coordinates":[13.56333,45.98278],"type":"Point"}
+}

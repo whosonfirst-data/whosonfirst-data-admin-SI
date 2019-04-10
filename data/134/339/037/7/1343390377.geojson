@@ -1,0 +1,71 @@
+{
+  "id": 1343390377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.2856,45.91664,15.2856,45.91664",
+    "geom:latitude":45.91664,
+    "geom:longitude":15.2856,
+    "gn:admin1_code":"B8",
+    "gn:asciiname":"Zloganje",
+    "gn:country_code":"SI",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987518,
+    "gn:latitude":45.91664,
+    "gn:longitude":15.2856,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Zloganje",
+    "gn:population":138,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959605,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987518,
+        "wk:page":"Zloganje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fe337b5681766df55a5028dd694bc99c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959605,
+            "locality_id":1343390377,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1343390377,
+    "wof:lastmodified":1537573482,
+    "wof:name":"Zloganje",
+    "wof:parent_id":1108959605,
+    "wof:placetype":"locality",
+    "wof:population":138,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.2856,
+    45.91664,
+    15.2856,
+    45.91664
+],
+  "geometry": {"coordinates":[15.2856,45.91664],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1193173265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.19667,46.83,16.19667,46.83",
+    "geom:latitude":46.83,
+    "geom:longitude":16.19667,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Sulinci",
+    "gn:country_code":"SI",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189526,
+    "gn:latitude":46.83,
+    "gn:longitude":16.19667,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160ulinci",
+    "gn:population":175,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e1ndorv\u00f6lgy",
+        "\u0160ulinci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959531,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189526,
+        "wk:page":"%C5%A0ulinci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f9d0d1fdc56475b657f578604edacd3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959531,
+            "locality_id":1193173265,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1193173265,
+    "wof:lastmodified":1537700184,
+    "wof:name":"Sulinci",
+    "wof:parent_id":1108959531,
+    "wof:placetype":"locality",
+    "wof:population":175,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.19667,
+    46.83,
+    16.19667,
+    46.83
+],
+  "geometry": {"coordinates":[16.19667,46.83],"type":"Point"}
+}

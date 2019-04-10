@@ -1,0 +1,67 @@
+{
+  "id": 1276920107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.89639,46.045,13.89639,46.045",
+    "geom:latitude":46.045,
+    "geom:longitude":13.89639,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Na Ogalcah",
+    "gn:country_code":"SI",
+    "gn:dem":1050,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218455,
+    "gn:latitude":46.045,
+    "gn:longitude":13.89639,
+    "gn:modification_date":"2008-11-06",
+    "gn:name":"Na Ogalcah",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959535,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218455
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"62968e8285f938e05a52ee0e610ef578",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959535,
+            "locality_id":1276920107,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1276920107,
+    "wof:lastmodified":1536986564,
+    "wof:name":"Na Ogalcah",
+    "wof:parent_id":1108959535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.89639,
+    46.045,
+    13.89639,
+    46.045
+],
+  "geometry": {"coordinates":[13.89639,46.045],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1344193385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.70911,46.08889,13.70911,46.08889",
+    "geom:latitude":46.08889,
+    "geom:longitude":13.70911,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Sukavec",
+    "gn:country_code":"SI",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10858806,
+    "gn:latitude":46.08889,
+    "gn:longitude":13.70911,
+    "gn:modification_date":"2015-10-13",
+    "gn:name":"Sukavec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "\u0160ukavec"
+    ],
+    "name:slv_x_preferred":[
+        "\u0160ukavec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959537,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10858806
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b7f09d1877c3ba34258459bf9e3244d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959537,
+            "locality_id":1344193385,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1344193385,
+    "wof:lastmodified":1537700337,
+    "wof:name":"Sukavec",
+    "wof:parent_id":1108959537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.70911,
+    46.08889,
+    13.70911,
+    46.08889
+],
+  "geometry": {"coordinates":[13.70911,46.08889],"type":"Point"}
+}

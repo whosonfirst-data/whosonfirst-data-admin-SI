@@ -1,0 +1,71 @@
+{
+  "id": 1327462629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.41586,46.11025,14.41586,46.11025",
+    "geom:latitude":46.11025,
+    "geom:longitude":14.41586,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Golo Brdo",
+    "gn:country_code":"SI",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986965,
+    "gn:latitude":46.11025,
+    "gn:longitude":14.41586,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Golo Brdo",
+    "gn:population":418,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959881,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986965,
+        "wk:page":"Golo_Brdo%2C_Medvode"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"12ce6c6b58fc6cc88069c1507ca43c7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959881,
+            "locality_id":1327462629,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1327462629,
+    "wof:lastmodified":1537573465,
+    "wof:name":"Golo Brdo",
+    "wof:parent_id":1108959881,
+    "wof:placetype":"locality",
+    "wof:population":418,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.41586,
+    46.11025,
+    14.41586,
+    46.11025
+],
+  "geometry": {"coordinates":[14.41586,46.11025],"type":"Point"}
+}

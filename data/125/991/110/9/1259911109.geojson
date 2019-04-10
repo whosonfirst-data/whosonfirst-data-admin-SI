@@ -1,0 +1,71 @@
+{
+  "id": 1259911109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.87242,45.52314,14.87242,45.52314",
+    "geom:latitude":45.52314,
+    "geom:longitude":14.87242,
+    "gn:admin1_code":"H9",
+    "gn:asciiname":"Gorenji Potok",
+    "gn:country_code":"SI",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989417,
+    "gn:latitude":45.52314,
+    "gn:longitude":14.87242,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Gorenji Potok",
+    "gn:population":1,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959711,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989417,
+        "wk:page":"Gorenji_Potok"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5cd5f881f97b5cfd081f7a062ab31f7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959711,
+            "locality_id":1259911109,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1259911109,
+    "wof:lastmodified":1537573541,
+    "wof:name":"Gorenji Potok",
+    "wof:parent_id":1108959711,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.87242,
+    45.52314000000001,
+    14.87242,
+    45.52314000000001
+],
+  "geometry": {"coordinates":[14.87242,45.52314000000001],"type":"Point"}
+}

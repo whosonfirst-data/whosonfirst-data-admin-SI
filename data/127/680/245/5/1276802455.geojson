@@ -1,0 +1,76 @@
+{
+  "id": 1276802455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.08806,46.67611,16.08806,46.67611",
+    "geom:latitude":46.67611,
+    "geom:longitude":16.08806,
+    "gn:admin1_code":"M6",
+    "gn:asciiname":"Rankovci",
+    "gn:country_code":"SI",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191974,
+    "gn:latitude":46.67611,
+    "gn:longitude":16.08806,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Rankovci",
+    "gn:population":251,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ferenclak",
+        "Ferenczfalva",
+        "Rankovci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959519,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191974,
+        "wk:page":"Rankovci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"83fc93c15990cd11477bc134a8a5299f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959519,
+            "locality_id":1276802455,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1276802455,
+    "wof:lastmodified":1537700201,
+    "wof:name":"Rankovci",
+    "wof:parent_id":1108959519,
+    "wof:placetype":"locality",
+    "wof:population":251,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.08806,
+    46.67611,
+    16.08806,
+    46.67611
+],
+  "geometry": {"coordinates":[16.08806,46.67611],"type":"Point"}
+}

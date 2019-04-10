@@ -1,0 +1,71 @@
+{
+  "id": 1309943041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.47968,46.14284,14.47968,46.14284",
+    "geom:latitude":46.14284,
+    "geom:longitude":14.47968,
+    "gn:admin1_code":"E3",
+    "gn:asciiname":"Povodje",
+    "gn:country_code":"SI",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989167,
+    "gn:latitude":46.14284,
+    "gn:longitude":14.47968,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Povodje",
+    "gn:population":15,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959923,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989167,
+        "wk:page":"Povodje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e6c3a9a6eb9d514e966deed25d17452d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959923,
+            "locality_id":1309943041,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1309943041,
+    "wof:lastmodified":1537573534,
+    "wof:name":"Povodje",
+    "wof:parent_id":1108959923,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.47968,
+    46.14284,
+    14.47968,
+    46.14284
+],
+  "geometry": {"coordinates":[14.47968,46.14284],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209348143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.28556,46.31278,15.28556,46.31278",
+    "geom:latitude":46.31278,
+    "geom:longitude":15.28556,
+    "gn:admin1_code":"N3",
+    "gn:asciiname":"Nova Cerkev",
+    "gn:country_code":"SI",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217102,
+    "gn:latitude":46.31278,
+    "gn:longitude":15.28556,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Nova Cerkev",
+    "gn:population":457,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217102,
+        "wk:page":"Nova_Cerkev"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5ae47955c9c204b583038ad0cfebe8a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209348143
+        }
+    ],
+    "wof:id":1209348143,
+    "wof:lastmodified":1537573458,
+    "wof:name":"Nova Cerkev",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":457,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.28556,
+    46.31278,
+    15.28556,
+    46.31278
+],
+  "geometry": {"coordinates":[15.28556,46.31278],"type":"Point"}
+}

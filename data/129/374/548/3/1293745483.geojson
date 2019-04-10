@@ -1,0 +1,74 @@
+{
+  "id": 1293745483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.75921,45.77884,14.75921,45.77884",
+    "geom:latitude":45.77884,
+    "geom:longitude":14.75921,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Trzic",
+    "gn:country_code":"SI",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988867,
+    "gn:latitude":45.77884,
+    "gn:longitude":14.75921,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Tr\u017ei\u010d",
+    "gn:population":28,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tr\u017ei\u010d"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959575,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988867,
+        "wk:page":"Tr%C5%BEi%C4%8D%2C_Dobrepolje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"89b1f9671a2de9de006215b62a46fb77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959575,
+            "locality_id":1293745483,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1293745483,
+    "wof:lastmodified":1537700315,
+    "wof:name":"Trzic",
+    "wof:parent_id":1108959575,
+    "wof:placetype":"locality",
+    "wof:population":28,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.75921,
+    45.77884,
+    14.75921,
+    45.77884
+],
+  "geometry": {"coordinates":[14.75921,45.77884],"type":"Point"}
+}

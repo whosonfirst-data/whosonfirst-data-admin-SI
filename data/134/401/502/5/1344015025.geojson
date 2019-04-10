@@ -1,0 +1,71 @@
+{
+  "id": 1344015025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.73392,46.54056,15.73392,46.54056",
+    "geom:latitude":46.54056,
+    "geom:longitude":15.73392,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Metava",
+    "gn:country_code":"SI",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195226,
+    "gn:latitude":46.54056,
+    "gn:longitude":15.73392,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Metava",
+    "gn:population":305,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959785,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195226,
+        "wk:page":"Metava"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"330b0a0c9567014c4447f26c57d898c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959785,
+            "locality_id":1344015025,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1344015025,
+    "wof:lastmodified":1537573420,
+    "wof:name":"Metava",
+    "wof:parent_id":1108959785,
+    "wof:placetype":"locality",
+    "wof:population":305,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.73392,
+    46.54056,
+    15.73392,
+    46.54056
+],
+  "geometry": {"coordinates":[15.73392,46.54056],"type":"Point"}
+}

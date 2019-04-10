@@ -1,0 +1,107 @@
+{
+  "id": 101793005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000053,
+    "geom:area_square_m":458925.824599,
+    "geom:bbox":"15.0514144312,45.7515803678,15.0643942325,45.7596675364",
+    "geom:latitude":45.75627,
+    "geom:longitude":15.057258,
+    "gn:population":797,
+    "iso:country":"SI",
+    "lbl:latitude":45.756204,
+    "lbl:longitude":15.056619,
+    "mps:latitude":45.756204,
+    "mps:longitude":15.056619,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Dolenjske Toplice"
+    ],
+    "name:hbs_x_preferred":[
+        "Dolenjske Toplice"
+    ],
+    "name:hrv_x_preferred":[
+        "Dolenjske Toplice"
+    ],
+    "name:nld_x_preferred":[
+        "Dolenjske Toplice"
+    ],
+    "name:ron_x_preferred":[
+        "Dolenjske Toplice"
+    ],
+    "name:slv_x_preferred":[
+        "Dolenjske Toplice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u043b\u0435\u045a\u0441\u043a\u0435 \u0422\u043e\u043f\u043b\u0438\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043b\u0435\u043d\u044c\u0441\u044c\u043a\u0435 \u0422\u043e\u043f\u043b\u0438\u0446\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Toplice"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"Dolenjske Toplice",
+    "qs:la_lc":"*SI157000",
+    "qs:level":"locality",
+    "qs:loc":"Dolenjske Toplice",
+    "qs:loc_alt":"Dolenjske Toplice",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959675,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201817,
+        "gp:id":529895,
+        "qs:id":1075854,
+        "wd:id":"Q9015044",
+        "wk:page":"Dolenjske Toplice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"229e7a32ddaf74e15b688b4cf921873a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959675,
+            "locality_id":101793005,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":101793005,
+    "wof:lastmodified":1531170064,
+    "wof:name":"Dolenjske Toplice",
+    "wof:parent_id":1108959675,
+    "wof:placetype":"locality",
+    "wof:population":797,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.05141443120732,
+    45.75158036781528,
+    15.06439423248469,
+    45.7596675363805
+],
+  "geometry": {"coordinates":[[[15.05807114780004,45.75960639582837],[15.05798770092679,45.75870782514096],[15.06439423248469,45.75840189623244],[15.06422713977736,45.75660476469199],[15.06166461881446,45.75672717798466],[15.06149762429442,45.75493003934565],[15.0589351768192,45.75505238611908],[15.05876828047127,45.75325524038431],[15.05748709477416,45.75331638824531],[15.05740367292771,45.75241781330033],[15.05612250560256,45.75247894453338],[15.05603910829433,45.75158036781528],[15.05475795934098,45.75164148242112],[15.05492471560314,45.75343863757757],[15.05364352213036,45.75349973904883],[15.05372688465508,45.75439831687891],[15.05244566762553,45.75445940405052],[15.05269571373026,45.75715513738356],[15.05141443120732,45.7572162125827],[15.05149776608289,45.75811479030818],[15.05277906957514,45.75805371394517],[15.05286242899228,45.7589522898989],[15.05670638683216,45.75876896452803],[15.05678981273445,45.7596675363805],[15.05807114780004,45.75960639582837]]],"type":"Polygon"}
+}

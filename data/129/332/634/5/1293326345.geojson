@@ -1,0 +1,74 @@
+{
+  "id": 1293326345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.49673,46.60648,15.49673,46.60648",
+    "geom:latitude":46.60648,
+    "geom:longitude":15.49673,
+    "gn:admin1_code":"L5",
+    "gn:asciiname":"Veliki Boc",
+    "gn:country_code":"SI",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987766,
+    "gn:latitude":46.60648,
+    "gn:longitude":15.49673,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Veliki Bo\u010d",
+    "gn:population":106,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Veliki Bo\u010d"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959661,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987766,
+        "wk:page":"Veliki_Bo%C4%8D"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f5a9a3e3e54af16189c67287ee9ef23d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959661,
+            "locality_id":1293326345,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1293326345,
+    "wof:lastmodified":1537700293,
+    "wof:name":"Veliki Boc",
+    "wof:parent_id":1108959661,
+    "wof:placetype":"locality",
+    "wof:population":106,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.49673,
+    46.60648,
+    15.49673,
+    46.60648
+],
+  "geometry": {"coordinates":[15.49673,46.60648],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1327170155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.68333,46.4,15.68333,46.4",
+    "geom:latitude":46.4,
+    "geom:longitude":15.68333,
+    "gn:admin1_code":"L8",
+    "gn:asciiname":"Strazgonjca",
+    "gn:country_code":"SI",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189754,
+    "gn:latitude":46.4,
+    "gn:longitude":15.68333,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Stra\u017egonjca",
+    "gn:population":193,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stra\u017egonjci",
+        "Strgojnce",
+        "Stra\u017egonjca"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959641,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189754,
+        "wk:page":"Stra%C5%BEgonjca"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"183b3c19b6e48154ef80a64537cfb5ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959641,
+            "locality_id":1327170155,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1327170155,
+    "wof:lastmodified":1537700185,
+    "wof:name":"Strazgonjca",
+    "wof:parent_id":1108959641,
+    "wof:placetype":"locality",
+    "wof:population":193,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.68333,
+    46.4,
+    15.68333,
+    46.4
+],
+  "geometry": {"coordinates":[15.68333,46.4],"type":"Point"}
+}

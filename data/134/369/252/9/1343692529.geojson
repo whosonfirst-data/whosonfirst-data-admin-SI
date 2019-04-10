@@ -1,0 +1,77 @@
+{
+  "id": 1343692529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.90721,45.50113,14.90721,45.50113",
+    "geom:latitude":45.50113,
+    "geom:longitude":14.90721,
+    "gn:admin1_code":"H9",
+    "gn:asciiname":"Brsnik",
+    "gn:country_code":"SI",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989364,
+    "gn:latitude":45.50113,
+    "gn:longitude":14.90721,
+    "gn:modification_date":"2015-11-05",
+    "gn:name":"Brsnik",
+    "gn:population":5,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Breznik"
+    ],
+    "name:slv_x_preferred":[
+        "Breznik"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959711,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989364,
+        "wk:page":"Brsnik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6332d6b868c730878f920ac4677aa26b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959711,
+            "locality_id":1343692529,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1343692529,
+    "wof:lastmodified":1537700325,
+    "wof:name":"Brsnik",
+    "wof:parent_id":1108959711,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.90721,
+    45.50113,
+    14.90721,
+    45.50113
+],
+  "geometry": {"coordinates":[14.90721,45.50113],"type":"Point"}
+}

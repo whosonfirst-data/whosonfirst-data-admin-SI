@@ -1,0 +1,71 @@
+{
+  "id": 1326865893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.32635,45.94585,15.32635,45.94585",
+    "geom:latitude":45.94585,
+    "geom:longitude":15.32635,
+    "gn:admin1_code":"B8",
+    "gn:asciiname":"Gorenje Radulje",
+    "gn:country_code":"SI",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989549,
+    "gn:latitude":45.94585,
+    "gn:longitude":15.32635,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Gorenje Radulje",
+    "gn:population":66,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959605,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989549,
+        "wk:page":"Gorenje_Radulje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"23f87e3014b603ae15c66865a007084c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959605,
+            "locality_id":1326865893,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1326865893,
+    "wof:lastmodified":1537573545,
+    "wof:name":"Gorenje Radulje",
+    "wof:parent_id":1108959605,
+    "wof:placetype":"locality",
+    "wof:population":66,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.32635,
+    45.94585,
+    15.32635,
+    45.94585
+],
+  "geometry": {"coordinates":[15.32635,45.94585],"type":"Point"}
+}

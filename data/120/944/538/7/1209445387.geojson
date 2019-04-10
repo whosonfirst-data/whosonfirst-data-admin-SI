@@ -1,0 +1,69 @@
+{
+  "id": 1209445387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.13306,45.65167,14.13306,45.65167",
+    "geom:latitude":45.65167,
+    "geom:longitude":14.13306,
+    "gn:admin1_code":"91",
+    "gn:asciiname":"Stara Susica",
+    "gn:country_code":"SI",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189992,
+    "gn:latitude":45.65167,
+    "gn:longitude":14.13306,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Stara Su\u0161ica",
+    "gn:population":51,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sussizza",
+        "Stara Su\u0161ica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189992,
+        "wk:page":"Stara_Su%C5%A1ica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"38575f0022a329b926358c7fdcdd53bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209445387
+        }
+    ],
+    "wof:id":1209445387,
+    "wof:lastmodified":1537700186,
+    "wof:name":"Stara Susica",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":51,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.13306,
+    45.65167,
+    14.13306,
+    45.65167
+],
+  "geometry": {"coordinates":[14.13306,45.65167],"type":"Point"}
+}

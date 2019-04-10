@@ -1,0 +1,71 @@
+{
+  "id": 1310136609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.57222,45.84861,14.57222,45.84861",
+    "geom:latitude":45.84861,
+    "geom:longitude":14.57222,
+    "gn:admin1_code":"D8",
+    "gn:asciiname":"Rob",
+    "gn:country_code":"SI",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191605,
+    "gn:latitude":45.84861,
+    "gn:longitude":14.57222,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Rob",
+    "gn:population":84,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959859,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191605,
+        "wk:page":"Rob%2C_Velike_La%C5%A1%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c94634534534044cb7a9c5bffa19ffaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959859,
+            "locality_id":1310136609,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1310136609,
+    "wof:lastmodified":1537573405,
+    "wof:name":"Rob",
+    "wof:parent_id":1108959859,
+    "wof:placetype":"locality",
+    "wof:population":84,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.57222,
+    45.84861,
+    14.57222,
+    45.84861
+],
+  "geometry": {"coordinates":[14.57222,45.84861],"type":"Point"}
+}

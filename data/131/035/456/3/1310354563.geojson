@@ -1,0 +1,71 @@
+{
+  "id": 1310354563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.64548,45.965,14.64548,45.965",
+    "geom:latitude":45.965,
+    "geom:longitude":14.64548,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Brvace",
+    "gn:country_code":"SI",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987562,
+    "gn:latitude":45.965,
+    "gn:longitude":14.64548,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Brvace",
+    "gn:population":131,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959533,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987562,
+        "wk:page":"Brvace"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3cb1802cdd258b0014aa0b40cf54b2ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959533,
+            "locality_id":1310354563,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1310354563,
+    "wof:lastmodified":1537573484,
+    "wof:name":"Brvace",
+    "wof:parent_id":1108959533,
+    "wof:placetype":"locality",
+    "wof:population":131,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.64548,
+    45.965,
+    14.64548,
+    45.965
+],
+  "geometry": {"coordinates":[14.64548,45.965],"type":"Point"}
+}

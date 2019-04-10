@@ -1,0 +1,64 @@
+{
+  "id": 1108943287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.5820959943,46.0698142028,14.5820959943,46.0698142028",
+    "geom:latitude":46.069814,
+    "geom:longitude":14.582096,
+    "iso:country":"SI",
+    "lbl:latitude":46.069814,
+    "lbl:longitude":14.582096,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        1108959949,
+        102191581,
+        1108959501,
+        85633779,
+        101752073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"SI",
+    "wof:created":1491363641,
+    "wof:geomhash":"4d8f96df6a24b2f34e2d42cb091dc405",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959501,
+            "locality_id":101752073,
+            "neighbourhood_id":1108943287,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1108943287,
+    "wof:lastmodified":1531170287,
+    "wof:name":"Zgornja Zadobrova\n",
+    "wof:parent_id":101752073,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.58209599432153,
+    46.06981420281745,
+    14.58209599432153,
+    46.06981420281745
+],
+  "geometry": {"coordinates":[14.58209599432153,46.06981420281745],"type":"Point"}
+}

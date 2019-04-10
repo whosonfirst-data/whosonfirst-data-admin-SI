@@ -1,0 +1,71 @@
+{
+  "id": 1209846151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.61222,46.42556,15.61222,46.42556",
+    "geom:latitude":46.42556,
+    "geom:longitude":15.61222,
+    "gn:admin1_code":"L8",
+    "gn:asciiname":"Zgornja Polskava",
+    "gn:country_code":"SI",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186533,
+    "gn:latitude":46.42556,
+    "gn:longitude":15.61222,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Zgornja Polskava",
+    "gn:population":1208,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959641,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186533,
+        "wk:page":"Zgornja_Polskava"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"42fe06837748c21dd3837b85a753e1d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959641,
+            "locality_id":1209846151,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1209846151,
+    "wof:lastmodified":1537573382,
+    "wof:name":"Zgornja Polskava",
+    "wof:parent_id":1108959641,
+    "wof:placetype":"locality",
+    "wof:population":1208,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.61222,
+    46.42556,
+    15.61222,
+    46.42556
+],
+  "geometry": {"coordinates":[15.61222,46.42556],"type":"Point"}
+}

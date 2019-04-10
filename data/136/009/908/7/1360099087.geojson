@@ -1,0 +1,74 @@
+{
+  "id": 1360099087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.86797,45.85676,13.86797,45.85676",
+    "geom:latitude":45.85676,
+    "geom:longitude":13.86797,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vrtovce",
+    "gn:country_code":"SI",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987683,
+    "gn:latitude":45.85676,
+    "gn:longitude":13.86797,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Vrtov\u010de",
+    "gn:population":114,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vrtov\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959545,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987683,
+        "wk:page":"Vrtov%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8fcdc9208860abc56967cd5a4b538703",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959545,
+            "locality_id":1360099087,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1360099087,
+    "wof:lastmodified":1537700291,
+    "wof:name":"Vrtovce",
+    "wof:parent_id":1108959545,
+    "wof:placetype":"locality",
+    "wof:population":114,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.86797,
+    45.85676,
+    13.86797,
+    45.85676
+],
+  "geometry": {"coordinates":[13.86797,45.85676],"type":"Point"}
+}

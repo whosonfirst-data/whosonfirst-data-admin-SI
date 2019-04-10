@@ -1,0 +1,74 @@
+{
+  "id": 1360321307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.88938,45.86104,14.88938,45.86104",
+    "geom:latitude":45.86104,
+    "geom:longitude":14.88938,
+    "gn:admin1_code":"N8",
+    "gn:asciiname":"Vrh pri Krizu",
+    "gn:country_code":"SI",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988723,
+    "gn:latitude":45.86104,
+    "gn:longitude":14.88938,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Vrh pri Kri\u017eu",
+    "gn:population":35,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vrh pri Kri\u017eu"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959787,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988723,
+        "wk:page":"Vrh_pri_Kri%C5%BEu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c192238875316c2cd97f018daadc5807",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959787,
+            "locality_id":1360321307,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1360321307,
+    "wof:lastmodified":1537700312,
+    "wof:name":"Vrh pri Krizu",
+    "wof:parent_id":1108959787,
+    "wof:placetype":"locality",
+    "wof:population":35,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.88938,
+    45.86104,
+    14.88938,
+    45.86104
+],
+  "geometry": {"coordinates":[14.88938,45.86104],"type":"Point"}
+}

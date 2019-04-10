@@ -1,0 +1,68 @@
+{
+  "id": 1209142373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.276,46.31713,15.276,46.31713",
+    "geom:latitude":46.31713,
+    "geom:longitude":15.276,
+    "gn:admin1_code":"N3",
+    "gn:asciiname":"Polze",
+    "gn:country_code":"SI",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987807,
+    "gn:latitude":46.31713,
+    "gn:longitude":15.276,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Pol\u017ee",
+    "gn:population":102,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pol\u017ee"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987807,
+        "wk:page":"Pol%C5%BEe"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d283499892c7179880db07f88ae0a538",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209142373
+        }
+    ],
+    "wof:id":1209142373,
+    "wof:lastmodified":1537700294,
+    "wof:name":"Polze",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":102,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.276,
+    46.31713,
+    15.276,
+    46.31713
+],
+  "geometry": {"coordinates":[15.276,46.31713],"type":"Point"}
+}

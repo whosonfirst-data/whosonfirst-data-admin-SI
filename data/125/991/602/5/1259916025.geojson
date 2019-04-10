@@ -1,0 +1,74 @@
+{
+  "id": 1259916025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.80258,45.98857,14.80258,45.98857",
+    "geom:latitude":45.98857,
+    "geom:longitude":14.80258,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Mala Goricica",
+    "gn:country_code":"SI",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989231,
+    "gn:latitude":45.98857,
+    "gn:longitude":14.80258,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Mala Gori\u010dica",
+    "gn:population":12,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mala Gori\u010dica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959583,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989231,
+        "wk:page":"Mala_Gori%C4%8Dica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9d8f6c27c32e8ed726d8a598ac6d4b2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959583,
+            "locality_id":1259916025,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1259916025,
+    "wof:lastmodified":1537700322,
+    "wof:name":"Mala Goricica",
+    "wof:parent_id":1108959583,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.80258,
+    45.98857,
+    14.80258,
+    45.98857
+],
+  "geometry": {"coordinates":[14.80258,45.98857],"type":"Point"}
+}

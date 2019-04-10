@@ -1,0 +1,71 @@
+{
+  "id": 1243588443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.30043,46.06286,15.30043,46.06286",
+    "geom:latitude":46.06286,
+    "geom:longitude":15.30043,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Podgorica",
+    "gn:country_code":"SI",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987723,
+    "gn:latitude":46.06286,
+    "gn:longitude":15.30043,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Podgorica",
+    "gn:population":110,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987723,
+        "wk:page":"Podgorica%2C_Sevnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"38b0992adf28f83506e8a4183372ca74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1243588443,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1243588443,
+    "wof:lastmodified":1537573489,
+    "wof:name":"Podgorica",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":110,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.30043,
+    46.06286,
+    15.30043,
+    46.06286
+],
+  "geometry": {"coordinates":[15.30043,46.06286],"type":"Point"}
+}

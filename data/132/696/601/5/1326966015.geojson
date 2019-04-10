@@ -1,0 +1,74 @@
+{
+  "id": 1326966015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.04136,46.27038,15.04136,46.27038",
+    "geom:latitude":46.27038,
+    "geom:longitude":15.04136,
+    "gn:admin1_code":"F7",
+    "gn:asciiname":"Kamence",
+    "gn:country_code":"SI",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987391,
+    "gn:latitude":46.27038,
+    "gn:longitude":15.04136,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kamen\u010de",
+    "gn:population":161,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kamen\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959855,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987391,
+        "wk:page":"Kamen%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ca8de9eb58e0a9428f8b999545ed3e4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959855,
+            "locality_id":1326966015,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1326966015,
+    "wof:lastmodified":1537700285,
+    "wof:name":"Kamence",
+    "wof:parent_id":1108959855,
+    "wof:placetype":"locality",
+    "wof:population":161,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.04136,
+    46.27038,
+    15.04136,
+    46.27038
+],
+  "geometry": {"coordinates":[15.04136,46.27038],"type":"Point"}
+}

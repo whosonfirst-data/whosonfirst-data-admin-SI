@@ -1,0 +1,74 @@
+{
+  "id": 1276263143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.13834,46.0168,15.13834,46.0168",
+    "geom:latitude":46.0168,
+    "geom:longitude":15.13834,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Stajngrob",
+    "gn:country_code":"SI",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988567,
+    "gn:latitude":46.0168,
+    "gn:longitude":15.13834,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160tajngrob",
+    "gn:population":43,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160tajngrob"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988567,
+        "wk:page":"%C5%A0tajngrob"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"424321b0e35da3aa99d5cb6de04e1868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1276263143,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1276263143,
+    "wof:lastmodified":1537700309,
+    "wof:name":"Stajngrob",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":43,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.13834,
+    46.0168,
+    15.13834,
+    46.0168
+],
+  "geometry": {"coordinates":[15.13834,46.0168],"type":"Point"}
+}

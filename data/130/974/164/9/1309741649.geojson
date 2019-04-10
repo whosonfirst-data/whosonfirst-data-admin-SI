@@ -1,0 +1,71 @@
+{
+  "id": 1309741649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.64407,45.79488,14.64407,45.79488",
+    "geom:latitude":45.79488,
+    "geom:longitude":14.64407,
+    "gn:admin1_code":"L1",
+    "gn:asciiname":"Levstiki",
+    "gn:country_code":"SI",
+    "gn:dem":678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989311,
+    "gn:latitude":45.79488,
+    "gn:longitude":14.64407,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Levstiki",
+    "gn:population":8,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959599,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989311,
+        "wk:page":"Levstiki"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2791e76bca4c1f0007dfd0b415debd9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959599,
+            "locality_id":1309741649,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1309741649,
+    "wof:lastmodified":1537573538,
+    "wof:name":"Levstiki",
+    "wof:parent_id":1108959599,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.64407,
+    45.79488,
+    14.64407,
+    45.79488
+],
+  "geometry": {"coordinates":[14.64407,45.79488],"type":"Point"}
+}

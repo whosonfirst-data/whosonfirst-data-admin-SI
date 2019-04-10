@@ -1,0 +1,71 @@
+{
+  "id": 1277105439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.58824,46.06662,13.58824,46.06662",
+    "geom:latitude":46.06662,
+    "geom:longitude":13.58824,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Kamenca nad Lozicami",
+    "gn:country_code":"SI",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989423,
+    "gn:latitude":46.06662,
+    "gn:longitude":13.58824,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kamenca nad Lo\u017eicami",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kamenca nad Lo\u017eicami"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959537,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989423,
+        "wk:page":"Kamenca_nad_Lo%C5%BEicami"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c9b0c1f14302b271f78ec65bb52c712e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959537,
+            "locality_id":1277105439,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1277105439,
+    "wof:lastmodified":1537700326,
+    "wof:name":"Kamenca nad Lozicami",
+    "wof:parent_id":1108959537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.58824,
+    46.06662,
+    13.58824,
+    46.06662
+],
+  "geometry": {"coordinates":[13.58824,46.06662],"type":"Point"}
+}

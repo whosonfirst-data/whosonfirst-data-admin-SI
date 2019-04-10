@@ -1,0 +1,71 @@
+{
+  "id": 1360025535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.07972,45.91639,14.07972,45.91639",
+    "geom:latitude":45.91639,
+    "geom:longitude":14.07972,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Lome",
+    "gn:country_code":"SI",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196237,
+    "gn:latitude":45.91639,
+    "gn:longitude":14.07972,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Lome",
+    "gn:population":109,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959535,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196237,
+        "wk:page":"Lome%2C_Idrija"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c6c5ca04eee8a50505dab66e805dd2b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959535,
+            "locality_id":1360025535,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1360025535,
+    "wof:lastmodified":1537573424,
+    "wof:name":"Lome",
+    "wof:parent_id":1108959535,
+    "wof:placetype":"locality",
+    "wof:population":109,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.07972,
+    45.91639,
+    14.07972,
+    45.91639
+],
+  "geometry": {"coordinates":[14.07972,45.91639],"type":"Point"}
+}

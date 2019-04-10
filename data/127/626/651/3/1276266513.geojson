@@ -1,0 +1,71 @@
+{
+  "id": 1276266513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.78621,46.59205,15.78621,46.59205",
+    "geom:latitude":46.59205,
+    "geom:longitude":15.78621,
+    "gn:admin1_code":"P7",
+    "gn:asciiname":"Varda",
+    "gn:country_code":"SI",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188371,
+    "gn:latitude":46.59205,
+    "gn:longitude":15.78621,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Varda",
+    "gn:population":107,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959815,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188371,
+        "wk:page":"Varda%2C_Sveti_Jurij_v_Slovenskih_Goricah"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"178a045e480a1078cdfa9d4e3128ec1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959815,
+            "locality_id":1276266513,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1276266513,
+    "wof:lastmodified":1537573390,
+    "wof:name":"Varda",
+    "wof:parent_id":1108959815,
+    "wof:placetype":"locality",
+    "wof:population":107,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.78621,
+    46.59205,
+    15.78621,
+    46.59205
+],
+  "geometry": {"coordinates":[15.78621,46.59205],"type":"Point"}
+}

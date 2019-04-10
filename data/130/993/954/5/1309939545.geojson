@@ -1,0 +1,71 @@
+{
+  "id": 1309939545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.31817,46.37013,14.31817,46.37013",
+    "geom:latitude":46.37013,
+    "geom:longitude":14.31817,
+    "gn:admin1_code":"D5",
+    "gn:asciiname":"Slap",
+    "gn:country_code":"SI",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987281,
+    "gn:latitude":46.37013,
+    "gn:longitude":14.31817,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Slap",
+    "gn:population":190,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959917,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987281,
+        "wk:page":"Slap%2C_Tr%C5%BEi%C4%8D"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"593b651401f018f1c658b33038237eb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959917,
+            "locality_id":1309939545,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1309939545,
+    "wof:lastmodified":1537573474,
+    "wof:name":"Slap",
+    "wof:parent_id":1108959917,
+    "wof:placetype":"locality",
+    "wof:population":190,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.31817,
+    46.37013,
+    14.31817,
+    46.37013
+],
+  "geometry": {"coordinates":[14.31817,46.37013],"type":"Point"}
+}

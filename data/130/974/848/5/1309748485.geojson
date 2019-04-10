@@ -1,0 +1,74 @@
+{
+  "id": 1309748485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.37116,46.12531,14.37116,46.12531",
+    "geom:latitude":46.12531,
+    "geom:longitude":14.37116,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Studencice",
+    "gn:country_code":"SI",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189635,
+    "gn:latitude":46.12531,
+    "gn:longitude":14.37116,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Studen\u010dice",
+    "gn:population":150,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Studen\u010dice"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959881,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189635,
+        "wk:page":"Studen%C4%8Dice%2C_Medvode"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"045ecd0e570ab93a005cf705161abf76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959881,
+            "locality_id":1309748485,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1309748485,
+    "wof:lastmodified":1537700184,
+    "wof:name":"Studencice",
+    "wof:parent_id":1108959881,
+    "wof:placetype":"locality",
+    "wof:population":150,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.37116,
+    46.12531,
+    14.37116,
+    46.12531
+],
+  "geometry": {"coordinates":[14.37116,46.12531],"type":"Point"}
+}

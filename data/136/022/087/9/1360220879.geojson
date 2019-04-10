@@ -1,0 +1,71 @@
+{
+  "id": 1360220879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.34717,46.07712,14.34717,46.07712",
+    "geom:latitude":46.07712,
+    "geom:longitude":14.34717,
+    "gn:admin1_code":"G4",
+    "gn:asciiname":"Belica",
+    "gn:country_code":"SI",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988672,
+    "gn:latitude":46.07712,
+    "gn:longitude":14.34717,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Belica",
+    "gn:population":37,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959847,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988672,
+        "wk:page":"Belica%2C_Dobrova%E2%80%93Polhov_Gradec"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e5a95412a6c705113f7b0e93c860f20d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959847,
+            "locality_id":1360220879,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1360220879,
+    "wof:lastmodified":1537573519,
+    "wof:name":"Belica",
+    "wof:parent_id":1108959847,
+    "wof:placetype":"locality",
+    "wof:population":37,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.34717,
+    46.07712,
+    14.34717,
+    46.07712
+],
+  "geometry": {"coordinates":[14.34717,46.07712],"type":"Point"}
+}

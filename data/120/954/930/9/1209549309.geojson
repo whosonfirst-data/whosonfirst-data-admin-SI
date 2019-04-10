@@ -1,0 +1,65 @@
+{
+  "id": 1209549309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.195,46.21111,15.195,46.21111",
+    "geom:latitude":46.21111,
+    "geom:longitude":15.195,
+    "gn:admin1_code":"N5",
+    "gn:asciiname":"Liboje",
+    "gn:country_code":"SI",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196608,
+    "gn:latitude":46.21111,
+    "gn:longitude":15.195,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Liboje",
+    "gn:population":516,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196608,
+        "wk:page":"Liboje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ef7fd5fe02abb6e8d23299bf37056b07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209549309
+        }
+    ],
+    "wof:id":1209549309,
+    "wof:lastmodified":1537573425,
+    "wof:name":"Liboje",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":516,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.195,
+    46.21111,
+    15.195,
+    46.21111
+],
+  "geometry": {"coordinates":[15.195,46.21111],"type":"Point"}
+}

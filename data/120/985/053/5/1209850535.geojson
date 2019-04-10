@@ -1,0 +1,71 @@
+{
+  "id": 1209850535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.07135,46.08244,15.07135,46.08244",
+    "geom:latitude":46.08244,
+    "geom:longitude":15.07135,
+    "gn:admin1_code":"E7",
+    "gn:asciiname":"Mali Kum",
+    "gn:country_code":"SI",
+    "gn:dem":919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988998,
+    "gn:latitude":46.08244,
+    "gn:longitude":15.07135,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Mali Kum",
+    "gn:population":23,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959683,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988998,
+        "wk:page":"Mali_Kum"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"72ff761c88d85e1c8b2809b3539f99b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959683,
+            "locality_id":1209850535,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1209850535,
+    "wof:lastmodified":1537573528,
+    "wof:name":"Mali Kum",
+    "wof:parent_id":1108959683,
+    "wof:placetype":"locality",
+    "wof:population":23,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.07135,
+    46.08244000000001,
+    15.07135,
+    46.08244000000001
+],
+  "geometry": {"coordinates":[15.07135,46.08244000000001],"type":"Point"}
+}

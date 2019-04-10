@@ -1,0 +1,61 @@
+{
+  "id": 1209557737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.76214,45.92593,13.76214,45.92593",
+    "geom:latitude":45.92593,
+    "geom:longitude":13.76214,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Dolenje",
+    "gn:country_code":"SI",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10859146,
+    "gn:latitude":45.92593,
+    "gn:longitude":13.76214,
+    "gn:modification_date":"2015-10-21",
+    "gn:name":"Dolenje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10859146
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"92d513aa4d7a959ec24ed262178d3795",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209557737
+        }
+    ],
+    "wof:id":1209557737,
+    "wof:lastmodified":1536283496,
+    "wof:name":"Dolenje",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.76214,
+    45.92593,
+    13.76214,
+    45.92593
+],
+  "geometry": {"coordinates":[13.76214,45.92593],"type":"Point"}
+}

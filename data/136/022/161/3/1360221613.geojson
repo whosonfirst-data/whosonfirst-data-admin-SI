@@ -1,0 +1,74 @@
+{
+  "id": 1360221613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.19656,46.05256,15.19656,46.05256",
+    "geom:latitude":46.05256,
+    "geom:longitude":15.19656,
+    "gn:admin1_code":"99",
+    "gn:asciiname":"Hotemez",
+    "gn:country_code":"SI",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987970,
+    "gn:latitude":46.05256,
+    "gn:longitude":15.19656,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Hoteme\u017e",
+    "gn:population":85,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hoteme\u017e"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959883,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987970,
+        "wk:page":"Hoteme%C5%BE"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fcdf77469dd3954d05c78b34dfe8c581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959883,
+            "locality_id":1360221613,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1360221613,
+    "wof:lastmodified":1537700297,
+    "wof:name":"Hotemez",
+    "wof:parent_id":1108959883,
+    "wof:placetype":"locality",
+    "wof:population":85,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.19656,
+    46.05256,
+    15.19656,
+    46.05256
+],
+  "geometry": {"coordinates":[15.19656,46.05256],"type":"Point"}
+}

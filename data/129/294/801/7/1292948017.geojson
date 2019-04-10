@@ -1,0 +1,74 @@
+{
+  "id": 1292948017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.96401,46.63421,15.96401,46.63421",
+    "geom:latitude":46.63421,
+    "geom:longitude":15.96401,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Rodmosci",
+    "gn:country_code":"SI",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988357,
+    "gn:latitude":46.63421,
+    "gn:longitude":15.96401,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Rodmo\u0161ci",
+    "gn:population":54,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rodmo\u0161ci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959817,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988357,
+        "wk:page":"Rodmo%C5%A1ci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0773827f12517116e6b7f9e977265ae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959817,
+            "locality_id":1292948017,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1292948017,
+    "wof:lastmodified":1537700304,
+    "wof:name":"Rodmosci",
+    "wof:parent_id":1108959817,
+    "wof:placetype":"locality",
+    "wof:population":54,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.96401,
+    46.63421,
+    15.96401,
+    46.63421
+],
+  "geometry": {"coordinates":[15.96401,46.63421],"type":"Point"}
+}

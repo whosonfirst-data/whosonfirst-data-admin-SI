@@ -1,0 +1,68 @@
+{
+  "id": 1326783923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.03166,45.59277,14.03166,45.59277",
+    "geom:latitude":45.59277,
+    "geom:longitude":14.03166,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Odolina",
+    "gn:country_code":"SI",
+    "gn:dem":686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989422,
+    "gn:latitude":45.59277,
+    "gn:longitude":14.03166,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Odolina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959549,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989422,
+        "wk:page":"Odolina"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"78aeb949495fbe54b376e7977539a6e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959549,
+            "locality_id":1326783923,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1326783923,
+    "wof:lastmodified":1537573542,
+    "wof:name":"Odolina",
+    "wof:parent_id":1108959549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.03166,
+    45.59277,
+    14.03166,
+    45.59277
+],
+  "geometry": {"coordinates":[14.03166,45.59277],"type":"Point"}
+}

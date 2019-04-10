@@ -1,0 +1,67 @@
+{
+  "id": 1310041873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.7287,46.06043,13.7287,46.06043",
+    "geom:latitude":46.06043,
+    "geom:longitude":13.7287,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Hodnisce",
+    "gn:country_code":"SI",
+    "gn:dem":705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10858787,
+    "gn:latitude":46.06043,
+    "gn:longitude":13.7287,
+    "gn:modification_date":"2015-10-13",
+    "gn:name":"Hodni\u0161\u010de",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959537,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10858787
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2fa7a4a2b249f5a7da70e19e2f6ede8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959537,
+            "locality_id":1310041873,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1310041873,
+    "wof:lastmodified":1537084972,
+    "wof:name":"Hodnisce",
+    "wof:parent_id":1108959537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.7287,
+    46.06043,
+    13.7287,
+    46.06043
+],
+  "geometry": {"coordinates":[13.7287,46.06043],"type":"Point"}
+}

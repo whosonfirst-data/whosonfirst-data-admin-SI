@@ -1,0 +1,74 @@
+{
+  "id": 1243297573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.74869,46.45091,15.74869,46.45091",
+    "geom:latitude":46.45091,
+    "geom:longitude":15.74869,
+    "gn:admin1_code":"C8",
+    "gn:asciiname":"Trnice",
+    "gn:country_code":"SI",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986959,
+    "gn:latitude":46.45091,
+    "gn:longitude":15.74869,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Trni\u010de",
+    "gn:population":437,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trni\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959783,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986959,
+        "wk:page":"Trni%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1b2fe5ad74f0919019d7a10b1144652a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959783,
+            "locality_id":1243297573,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1243297573,
+    "wof:lastmodified":1537700277,
+    "wof:name":"Trnice",
+    "wof:parent_id":1108959783,
+    "wof:placetype":"locality",
+    "wof:population":437,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.74869,
+    46.45091,
+    15.74869,
+    46.45091
+],
+  "geometry": {"coordinates":[15.74869,46.45091],"type":"Point"}
+}

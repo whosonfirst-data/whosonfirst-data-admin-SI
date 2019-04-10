@@ -1,0 +1,67 @@
+{
+  "id": 1259603303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.67093,46.0254,15.67093,46.0254",
+    "geom:latitude":46.0254,
+    "geom:longitude":15.67093,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Vrhovnica",
+    "gn:country_code":"SI",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":10794165,
+    "gn:latitude":46.0254,
+    "gn:longitude":15.67093,
+    "gn:modification_date":"2015-10-03",
+    "gn:name":"Vrhovnica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10794165
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a6d68c0e1f306413d3a33f6f48d2446b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1259603303,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1259603303,
+    "wof:lastmodified":1536686284,
+    "wof:name":"Vrhovnica",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.67093,
+    46.0254,
+    15.67093,
+    46.0254
+],
+  "geometry": {"coordinates":[15.67093,46.0254],"type":"Point"}
+}

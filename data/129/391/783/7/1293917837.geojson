@@ -1,0 +1,74 @@
+{
+  "id": 1293917837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.58362,45.97565,14.58362,45.97565",
+    "geom:latitude":45.97565,
+    "geom:longitude":14.58362,
+    "gn:admin1_code":"C1",
+    "gn:asciiname":"Zalog pri Skofljici",
+    "gn:country_code":"SI",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987519,
+    "gn:latitude":45.97565,
+    "gn:longitude":14.58362,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Zalog pri \u0160kofljici",
+    "gn:population":138,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zalog pri \u0160kofljici"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959891,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987519,
+        "wk:page":"Zalog_pri_%C5%A0kofljici"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"00a0e724c76ab897a3ba061c279f684e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959891,
+            "locality_id":1293917837,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1293917837,
+    "wof:lastmodified":1537700288,
+    "wof:name":"Zalog pri Skofljici",
+    "wof:parent_id":1108959891,
+    "wof:placetype":"locality",
+    "wof:population":138,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.58362,
+    45.97565,
+    14.58362,
+    45.97565
+],
+  "geometry": {"coordinates":[14.58362,45.97565],"type":"Point"}
+}

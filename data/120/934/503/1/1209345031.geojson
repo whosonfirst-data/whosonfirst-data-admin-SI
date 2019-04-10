@@ -1,0 +1,68 @@
+{
+  "id": 1209345031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.91722,45.83861,14.91722,45.83861",
+    "geom:latitude":45.83861,
+    "geom:longitude":14.91722,
+    "gn:admin1_code":"N8",
+    "gn:asciiname":"Praprece",
+    "gn:country_code":"SI",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218599,
+    "gn:latitude":45.83861,
+    "gn:longitude":14.91722,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Prapre\u010de",
+    "gn:population":69,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Prapre\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218599,
+        "wk:page":"Prapre%C4%8De%2C_%C5%BDu%C5%BEemberk"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"559d0e87009f255d279537b7ee020219",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209345031
+        }
+    ],
+    "wof:id":1209345031,
+    "wof:lastmodified":1537700272,
+    "wof:name":"Praprece",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":69,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.91722,
+    45.83861,
+    14.91722,
+    45.83861
+],
+  "geometry": {"coordinates":[14.91722,45.83861],"type":"Point"}
+}

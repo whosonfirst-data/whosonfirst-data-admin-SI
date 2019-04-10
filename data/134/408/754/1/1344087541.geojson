@@ -1,0 +1,74 @@
+{
+  "id": 1344087541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.85582,45.46964,14.85582,45.46964",
+    "geom:latitude":45.46964,
+    "geom:longitude":14.85582,
+    "gn:admin1_code":"H9",
+    "gn:asciiname":"Pirce",
+    "gn:country_code":"SI",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989173,
+    "gn:latitude":45.46964,
+    "gn:longitude":14.85582,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Pir\u010de",
+    "gn:population":15,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pir\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959711,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989173,
+        "wk:page":"Pir%C4%8De%2C_Kostel"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9b71f70e1207466b2d05bf66c91b45ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959711,
+            "locality_id":1344087541,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1344087541,
+    "wof:lastmodified":1537700321,
+    "wof:name":"Pirce",
+    "wof:parent_id":1108959711,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.85582,
+    45.46964000000001,
+    14.85582,
+    45.46964000000001
+],
+  "geometry": {"coordinates":[14.85582,45.46964000000001],"type":"Point"}
+}

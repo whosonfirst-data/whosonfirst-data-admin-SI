@@ -1,0 +1,74 @@
+{
+  "id": 1310333725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.41523,46.37009,15.41523,46.37009",
+    "geom:latitude":46.37009,
+    "geom:longitude":15.41523,
+    "gn:admin1_code":"F3",
+    "gn:asciiname":"Gracic",
+    "gn:country_code":"SI",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988203,
+    "gn:latitude":46.37009,
+    "gn:longitude":15.41523,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Gra\u010di\u010d",
+    "gn:population":65,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gra\u010di\u010d"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959671,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988203,
+        "wk:page":"Gra%C4%8Di%C4%8D"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"63a02367d453d172c2d2ff447667a32f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959671,
+            "locality_id":1310333725,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1310333725,
+    "wof:lastmodified":1537700301,
+    "wof:name":"Gracic",
+    "wof:parent_id":1108959671,
+    "wof:placetype":"locality",
+    "wof:population":65,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.41523,
+    46.37009000000001,
+    15.41523,
+    46.37009000000001
+],
+  "geometry": {"coordinates":[15.41523,46.37009000000001],"type":"Point"}
+}

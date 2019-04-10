@@ -1,0 +1,74 @@
+{
+  "id": 1293914501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.27373,45.99084,15.27373,45.99084",
+    "geom:latitude":45.99084,
+    "geom:longitude":15.27373,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Laze pri Bostanju",
+    "gn:country_code":"SI",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989597,
+    "gn:latitude":45.99084,
+    "gn:longitude":15.27373,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Laze pri Bo\u0161tanju",
+    "gn:population":33,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laze pri Bo\u0161tanju"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989597,
+        "wk:page":"Laze_pri_Bo%C5%A1tanju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"dd056f692000cc7c7a3a7af2d3eaf75b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1293914501,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1293914501,
+    "wof:lastmodified":1537700329,
+    "wof:name":"Laze pri Bostanju",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":33,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.27373,
+    45.99084000000001,
+    15.27373,
+    45.99084000000001
+],
+  "geometry": {"coordinates":[15.27373,45.99084000000001],"type":"Point"}
+}

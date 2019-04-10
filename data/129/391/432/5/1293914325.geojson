@@ -1,0 +1,71 @@
+{
+  "id": 1293914325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.81667,46.16667,14.81667,46.16667",
+    "geom:latitude":46.16667,
+    "geom:longitude":14.81667,
+    "gn:admin1_code":"E7",
+    "gn:asciiname":"Borje pri Mlinsah",
+    "gn:country_code":"SI",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203709,
+    "gn:latitude":46.16667,
+    "gn:longitude":14.81667,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Borje pri Mlin\u0161ah",
+    "gn:population":40,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959683,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203709,
+        "wk:page":"Borje_pri_Mlin%C5%A1ah"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f81bf8be3d018de458a497a008293ef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959683,
+            "locality_id":1293914325,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1293914325,
+    "wof:lastmodified":1537573451,
+    "wof:name":"Borje pri Mlinsah",
+    "wof:parent_id":1108959683,
+    "wof:placetype":"locality",
+    "wof:population":40,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.81667,
+    46.16667,
+    14.81667,
+    46.16667
+],
+  "geometry": {"coordinates":[14.81667,46.16667],"type":"Point"}
+}

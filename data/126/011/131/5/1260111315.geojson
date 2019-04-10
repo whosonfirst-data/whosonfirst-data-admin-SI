@@ -1,0 +1,74 @@
+{
+  "id": 1260111315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.85226,46.71524,15.85226,46.71524",
+    "geom:latitude":46.71524,
+    "geom:longitude":15.85226,
+    "gn:admin1_code":"N9",
+    "gn:asciiname":"Spodnje Konjisce",
+    "gn:country_code":"SI",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989587,
+    "gn:latitude":46.71524,
+    "gn:longitude":15.85226,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Spodnje Konji\u0161\u010de",
+    "gn:population":39,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Spodnje Konji\u0161\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959667,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989587,
+        "wk:page":"Spodnje_Konji%C5%A1%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9c76494ed6f1c74795087f2518099a24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959667,
+            "locality_id":1260111315,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1260111315,
+    "wof:lastmodified":1537700329,
+    "wof:name":"Spodnje Konjisce",
+    "wof:parent_id":1108959667,
+    "wof:placetype":"locality",
+    "wof:population":39,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.85226,
+    46.71524,
+    15.85226,
+    46.71524
+],
+  "geometry": {"coordinates":[15.85226,46.71524],"type":"Point"}
+}

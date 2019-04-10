@@ -1,0 +1,76 @@
+{
+  "id": 1242642917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.03546,45.65989,14.03546,45.65989",
+    "geom:latitude":45.65989,
+    "geom:longitude":14.03546,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Dolnje Vreme",
+    "gn:country_code":"SI",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201769,
+    "gn:latitude":45.65989,
+    "gn:longitude":14.03546,
+    "gn:modification_date":"2015-11-02",
+    "gn:name":"Dolnje Vreme",
+    "gn:population":114,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dolenje Vreme",
+        "Auremo di Sotto",
+        "Dolnje Vreme"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959845,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201769,
+        "wk:page":"Dolnje_Vreme"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8401ab8d9ef179b262a8c5caf14f7f6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959845,
+            "locality_id":1242642917,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1242642917,
+    "wof:lastmodified":1537700251,
+    "wof:name":"Dolnje Vreme",
+    "wof:parent_id":1108959845,
+    "wof:placetype":"locality",
+    "wof:population":114,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.03546,
+    45.65989,
+    14.03546,
+    45.65989
+],
+  "geometry": {"coordinates":[14.03546,45.65989],"type":"Point"}
+}

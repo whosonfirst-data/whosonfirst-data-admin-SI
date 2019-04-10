@@ -1,0 +1,78 @@
+{
+  "id": 1226080211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.52361,46.52778,16.52361,46.52778",
+    "geom:latitude":46.52778,
+    "geom:longitude":16.52361,
+    "gn:admin1_code":"I4",
+    "gn:asciiname":"Pince",
+    "gn:country_code":"SI",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193352,
+    "gn:latitude":46.52778,
+    "gn:longitude":16.52361,
+    "gn:modification_date":"2018-01-01",
+    "gn:name":"Pince",
+    "gn:population":209,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u043d\u0446\u0435"
+    ],
+    "name:und_x_variant":[
+        "Pincze",
+        "Pince"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959475,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193352,
+        "wk:page":"Pince"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2c3bcfc19a77dc5865ec21595fcafcb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959475,
+            "locality_id":1226080211,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1226080211,
+    "wof:lastmodified":1537700210,
+    "wof:name":"Pince",
+    "wof:parent_id":1108959475,
+    "wof:placetype":"locality",
+    "wof:population":209,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.52361,
+    46.52778,
+    16.52361,
+    46.52778
+],
+  "geometry": {"coordinates":[16.52361,46.52778],"type":"Point"}
+}

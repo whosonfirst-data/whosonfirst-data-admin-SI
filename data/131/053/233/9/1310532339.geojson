@@ -1,0 +1,71 @@
+{
+  "id": 1310532339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.63333,46.21667,15.63333,46.21667",
+    "geom:latitude":46.21667,
+    "geom:longitude":15.63333,
+    "gn:admin1_code":"A7",
+    "gn:asciiname":"Rajnkovec",
+    "gn:country_code":"SI",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192027,
+    "gn:latitude":46.21667,
+    "gn:longitude":15.63333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Rajnkovec",
+    "gn:population":89,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959803,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192027,
+        "wk:page":"Rajnkovec"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ddbfbfa59fdb6b28f08d5a31a44f6be1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959803,
+            "locality_id":1310532339,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1310532339,
+    "wof:lastmodified":1537573407,
+    "wof:name":"Rajnkovec",
+    "wof:parent_id":1108959803,
+    "wof:placetype":"locality",
+    "wof:population":89,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.63333,
+    46.21667,
+    15.63333,
+    46.21667
+],
+  "geometry": {"coordinates":[15.63333,46.21667],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226177129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.46211,45.9676,15.46211,45.9676",
+    "geom:latitude":45.9676,
+    "geom:longitude":15.46211,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Cretez pri Krskem",
+    "gn:country_code":"SI",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988485,
+    "gn:latitude":45.9676,
+    "gn:longitude":15.46211,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u010crete\u017e pri Kr\u0161kem",
+    "gn:population":47,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010crete\u017e pri Kr\u0161kem"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988485,
+        "wk:page":"%C4%8Crete%C5%BE_pri_Kr%C5%A1kem"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"12dd850a578cdd9e6a7afe913424f170",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":1226177129,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1226177129,
+    "wof:lastmodified":1537700307,
+    "wof:name":"Cretez pri Krskem",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":47,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.46211,
+    45.9676,
+    15.46211,
+    45.9676
+],
+  "geometry": {"coordinates":[15.46211,45.9676],"type":"Point"}
+}

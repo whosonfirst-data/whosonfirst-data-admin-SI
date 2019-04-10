@@ -1,0 +1,107 @@
+{
+  "id": 1125794531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.29083,46.00944,15.29083,46.00944",
+    "geom:latitude":46.00944,
+    "geom:longitude":15.29083,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":560,
+    "gn:population":667,
+    "iso:country":"SI",
+    "lbl:latitude":46.00944,
+    "lbl:longitude":15.29083,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Dolenji Bo\u0161tanj"
+    ],
+    "name:eng_x_preferred":[
+        "Dolenji Bo\u0161tanj"
+    ],
+    "name:rum_x_preferred":[
+        "Dolenji Bo\u0161tanj"
+    ],
+    "name:slv_x_preferred":[
+        "Dolenji Bo\u0161tanj"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043b\u0435\u043d\u0456 \u0411\u043e\u0448\u0442\u0430\u043d\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Dolenji Bo\u0161tanj"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3339274,
+    "qs_pg:gn_pop":560,
+    "qs_pg:name":"Dolenji Bostanj",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Sevnica",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":71890,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":55869186,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Sevnica",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3339274,
+        "gp:id":55869186,
+        "qs_pg:id":71890,
+        "wd:id":"Q2230249"
+    },
+    "wof:country":"SI",
+    "wof:created":1497290995,
+    "wof:geomhash":"71462c64e5f926e15160d7273d177405",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1125794531,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1125794531,
+    "wof:lastmodified":1531170980,
+    "wof:name":"Dolenji Bostanj",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":667,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.29083,
+    46.00944,
+    15.29083,
+    46.00944
+],
+  "geometry": {"coordinates":[15.29083,46.00944],"type":"Point"}
+}

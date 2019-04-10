@@ -1,0 +1,74 @@
+{
+  "id": 1360164077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.39556,45.8325,14.39556,45.8325",
+    "geom:latitude":45.8325,
+    "geom:longitude":14.39556,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Selscek",
+    "gn:country_code":"SI",
+    "gn:dem":792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191084,
+    "gn:latitude":45.8325,
+    "gn:longitude":14.39556,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Sel\u0161\u010dek",
+    "gn:population":124,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sel\u0161\u010dek"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959905,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191084,
+        "wk:page":"Sel%C5%A1%C4%8Dek"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"37907acdc4628f7abec6596e7aed12d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959905,
+            "locality_id":1360164077,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1360164077,
+    "wof:lastmodified":1537700196,
+    "wof:name":"Selscek",
+    "wof:parent_id":1108959905,
+    "wof:placetype":"locality",
+    "wof:population":124,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.39556,
+    45.8325,
+    14.39556,
+    45.8325
+],
+  "geometry": {"coordinates":[14.39556,45.8325],"type":"Point"}
+}

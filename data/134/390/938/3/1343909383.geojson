@@ -1,0 +1,71 @@
+{
+  "id": 1343909383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.22936,45.60927,14.22936,45.60927",
+    "geom:latitude":45.60927,
+    "geom:longitude":14.22936,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Podtabor",
+    "gn:country_code":"SI",
+    "gn:dem":647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988713,
+    "gn:latitude":45.60927,
+    "gn:longitude":14.22936,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Podtabor",
+    "gn:population":35,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959873,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988713,
+        "wk:page":"Podtabor%2C_Ilirska_Bistrica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9f7ba319536265ac4bcb8408b926c867",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959873,
+            "locality_id":1343909383,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1343909383,
+    "wof:lastmodified":1537573520,
+    "wof:name":"Podtabor",
+    "wof:parent_id":1108959873,
+    "wof:placetype":"locality",
+    "wof:population":35,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.22936,
+    45.60927,
+    14.22936,
+    45.60927
+],
+  "geometry": {"coordinates":[14.22936,45.60927],"type":"Point"}
+}

@@ -1,0 +1,186 @@
+{
+  "id": 85678179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.012187,
+    "geom:area_square_m":104070474.835351,
+    "geom:bbox":"15.364416538,46.2766330018,15.557893101,46.3712525503",
+    "geom:latitude":46.322429,
+    "geom:longitude":15.467447,
+    "gn:population":14414,
+    "iso:country":"SI",
+    "lbl:latitude":46.322631,
+    "lbl:longitude":15.467447,
+    "mps:latitude":46.322631,
+    "mps:longitude":15.467447,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0633\u0644\u0648\u0641\u0646\u064a\u0633\u0643\u0647 \u0643\u0648\u0646\u062c\u064a\u062a\u0633\u0647"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u043b\u043e\u0432\u0435\u043d\u0441\u043a\u0435 \u041a\u043e\u043d\u0438\u0446\u0435"
+    ],
+    "name:eng_x_preferred":[
+        "Slovenske Konjice"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0644\u0648\u0646\u0633\u06a9\u0647 \u06a9\u0646\u06cc\u06cc\u062a\u0633\u0647"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30ed\u30f4\u30a7\u30f3\u30b9\u30b1\u30fb\u30b3\u30cb\u30c4\u30a7"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2ac\ub85c\ubca4\uc2a4\ucf00\ucf54\ub2c8\uccb4"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Slovenske Konjice"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043b\u043e\u0432\u0435\u043d\u0441\u043a\u0435-\u041a\u043e\u043d\u0438\u0446\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043b\u043e\u0432\u0435\u043d\u0441\u043a\u0435 \u041a\u043e\u045a\u0438\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043b\u043e\u0432\u0435\u043d\u0441\u044c\u043a\u0435 \u041a\u043e\u043d\u0456\u0446\u0435"
+    ],
+    "name:und_x_preferred":[
+        "Slovenske Konjice"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Slovenske Konjice"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u6d1b\u6587\u5c3c\u4e9e\u79d1\u5c3c\u91c7"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-992",
+    "ne:adm1_code":"SVN-992",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SI.SA.SK",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"992",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SIC4",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.C4",
+    "ne:gn_id":"3190529",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Slovenske Konjice",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI25",
+    "ne:gns_id":"-96099",
+    "ne:gns_lang":"sqi",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Slovenske Konjice, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"46.32320000000",
+    "ne:longitude":"15.46120000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Slovenske Konjice",
+    "ne:name_alt":"",
+    "ne:name_len":17,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"SK",
+    "ne:provnum_ne":"188",
+    "ne:region":"Savinjska",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":55848389,
+    "ne:woe_label":"Slovenske Konjice, SI, Slovenia",
+    "ne:woe_name":"Slovenske Konjice",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Slovenske Konjice",
+    "qs:a1_lc":"SVN-992",
+    "qs:a1r":"Savinjska",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SIC4",
+        "gn:id":3190529,
+        "gp:id":55848389,
+        "hasc:id":"SI.SA.SK",
+        "qs:id":1104117,
+        "wd:id":"Q13378155"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d2debcd43ee773ed46f2e1f860b3c713",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85678179
+        }
+    ],
+    "wof:id":85678179,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616734,
+    "wof:name":"Slovenske Konjice",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:population":14414,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[
+        1108959753
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.36441653799289,
+    46.27663300181166,
+    15.55789310098589,
+    46.37125255026501
+],
+  "geometry": {"coordinates":[[[15.46156823108902,46.35815257388225],[15.50296105261054,46.35954783786246],[15.5245618022854,46.35055613905462],[15.53231326674393,46.34996185985199],[15.54099490718926,46.34471670251384],[15.54781619566097,46.33386465083305],[15.55510257302535,46.30864655179698],[15.55789310098589,46.29345368124245],[15.55246707469581,46.27774404585108],[15.52998782677685,46.27663300181166],[15.51195275231771,46.28288585130105],[15.50606163893355,46.2807929553307],[15.50001549591843,46.28006948491884],[15.39619754398154,46.30187693926939],[15.37650882312374,46.31133372696996],[15.36984256428298,46.31554535643312],[15.36782718267841,46.31758657556009],[15.36565677324154,46.32146230733969],[15.36441653799289,46.32420115845673],[15.3687573577659,46.33396800451982],[15.38208987814539,46.35166718219477],[15.38813602116051,46.35629222280789],[15.39371707528284,46.35846263314409],[15.40146853974136,46.35696401637631],[15.40772138833148,46.35489695882762],[15.41221723773538,46.35484528288356],[15.42523969885309,46.37125255026501],[15.45376508978711,46.35996124901249],[15.46156823108902,46.35815257388225]]],"type":"Polygon"}
+}

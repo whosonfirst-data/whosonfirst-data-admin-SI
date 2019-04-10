@@ -1,0 +1,75 @@
+{
+  "id": 1293623477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.33639,46.36694,14.33639,46.36694",
+    "geom:latitude":46.36694,
+    "geom:longitude":14.33639,
+    "gn:admin1_code":"D5",
+    "gn:asciiname":"Lom pod Storzicem",
+    "gn:country_code":"SI",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196231,
+    "gn:latitude":46.36694,
+    "gn:longitude":14.33639,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Lom pod Storzicem",
+    "gn:population":346,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lom",
+        "Lom pod Stor\u017ei\u010dem"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959917,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196231,
+        "wk:page":"Lom_pod_Stor%C5%BEi%C4%8Dem"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f8435987648a06040d3dd177fa5461f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959917,
+            "locality_id":1293623477,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1293623477,
+    "wof:lastmodified":1537700222,
+    "wof:name":"Lom pod Storzicem",
+    "wof:parent_id":1108959917,
+    "wof:placetype":"locality",
+    "wof:population":346,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.33639,
+    46.36694,
+    14.33639,
+    46.36694
+],
+  "geometry": {"coordinates":[14.33639,46.36694],"type":"Point"}
+}

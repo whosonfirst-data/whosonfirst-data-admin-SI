@@ -1,0 +1,65 @@
+{
+  "id": 1209450099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.09164,45.95534,15.09164,45.95534",
+    "geom:latitude":45.95534,
+    "geom:longitude":15.09164,
+    "gn:admin1_code":"P2",
+    "gn:asciiname":"Slovenska Vas",
+    "gn:country_code":"SI",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986901,
+    "gn:latitude":45.95534,
+    "gn:longitude":15.09164,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Slovenska Vas",
+    "gn:population":549,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986901,
+        "wk:page":"Slovenska_Vas%2C_%C5%A0entrupert"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f9545877847a7a30054c287fbea3c5d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209450099
+        }
+    ],
+    "wof:id":1209450099,
+    "wof:lastmodified":1537573464,
+    "wof:name":"Slovenska Vas",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":549,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.09164,
+    45.95534,
+    15.09164,
+    45.95534
+],
+  "geometry": {"coordinates":[15.09164,45.95534],"type":"Point"}
+}

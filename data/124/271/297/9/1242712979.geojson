@@ -1,0 +1,71 @@
+{
+  "id": 1242712979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.48472,45.69111,14.48472,45.69111",
+    "geom:latitude":45.69111,
+    "geom:longitude":14.48472,
+    "gn:admin1_code":"I7",
+    "gn:asciiname":"Iga Vas",
+    "gn:country_code":"SI",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199160,
+    "gn:latitude":45.69111,
+    "gn:longitude":14.48472,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Iga Vas",
+    "gn:population":227,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959863,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199160,
+        "wk:page":"Iga_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6ad6d5ec5d3db7f8774b64b7943762b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959863,
+            "locality_id":1242712979,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1242712979,
+    "wof:lastmodified":1537573434,
+    "wof:name":"Iga Vas",
+    "wof:parent_id":1108959863,
+    "wof:placetype":"locality",
+    "wof:population":227,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.48472,
+    45.69111,
+    14.48472,
+    45.69111
+],
+  "geometry": {"coordinates":[14.48472,45.69111],"type":"Point"}
+}

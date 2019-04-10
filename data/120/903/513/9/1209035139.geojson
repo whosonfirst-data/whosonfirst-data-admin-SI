@@ -1,0 +1,70 @@
+{
+  "id": 1209035139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.27,46.76889,16.27,46.76889",
+    "geom:latitude":46.76889,
+    "geom:longitude":16.27,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Loncarovci",
+    "gn:country_code":"SI",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196226,
+    "gn:latitude":46.76889,
+    "gn:longitude":16.27,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Lon\u010darovci",
+    "gn:population":66,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ger\u0151h\u00e1za",
+        "Lon\u010darevci",
+        "Lon\u010darovci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196226,
+        "wk:page":"Lon%C4%8Darovci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"21334269a0a6c82ea3c2e715d9eee827",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209035139
+        }
+    ],
+    "wof:id":1209035139,
+    "wof:lastmodified":1537700222,
+    "wof:name":"Loncarovci",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":66,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.27,
+    46.76889,
+    16.27,
+    46.76889
+],
+  "geometry": {"coordinates":[16.27,46.76889],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343692601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.26425,46.14258,15.26425,46.14258",
+    "geom:latitude":46.14258,
+    "geom:longitude":15.26425,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Lahomno",
+    "gn:country_code":"SI",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196801,
+    "gn:latitude":46.14258,
+    "gn:longitude":15.26425,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Lahomno",
+    "gn:population":240,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lahovno",
+        "Lahomno"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959879,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196801,
+        "wk:page":"Lahomno"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"23abb3c8ee9e8d167d3853837c912641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959879,
+            "locality_id":1343692601,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1343692601,
+    "wof:lastmodified":1537700227,
+    "wof:name":"Lahomno",
+    "wof:parent_id":1108959879,
+    "wof:placetype":"locality",
+    "wof:population":240,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.26425,
+    46.14258,
+    15.26425,
+    46.14258
+],
+  "geometry": {"coordinates":[15.26425,46.14258],"type":"Point"}
+}

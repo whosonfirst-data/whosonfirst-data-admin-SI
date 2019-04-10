@@ -1,0 +1,101 @@
+{
+  "id": 1125999969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.9820235,46.173741,13.9820235,46.173741",
+    "geom:latitude":46.173741,
+    "geom:longitude":13.982024,
+    "gn:gn_country":null,
+    "iso:country":"SI",
+    "lbl:latitude":46.173741,
+    "lbl:longitude":13.982024,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Podporezen"
+    ],
+    "name:eng_x_preferred":[
+        "Podporezen"
+    ],
+    "name:hrv_x_preferred":[
+        "Podporezen"
+    ],
+    "name:rum_x_preferred":[
+        "Podporezen"
+    ],
+    "name:slv_x_preferred":[
+        "Podporezen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0434\u043f\u043e\u0440\u0435\u0437\u0435\u043d"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Podporezen",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Skofja Loka",
+    "qs_pg:photos":50,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":50,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1003145,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":55849402,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Skofja Loka",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959577,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55849402,
+        "qs_pg:id":1003145,
+        "wd:id":"Q2739891"
+    },
+    "wof:country":"SI",
+    "wof:created":1497299587,
+    "wof:geomhash":"bfe62a2821fd1b2e2eab0c937dda60d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959577,
+            "locality_id":1125999969,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1125999969,
+    "wof:lastmodified":1531170231,
+    "wof:name":"Podporezen",
+    "wof:parent_id":1108959577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.9820235,
+    46.173741,
+    13.9820235,
+    46.173741
+],
+  "geometry": {"coordinates":[13.9820235,46.173741],"type":"Point"}
+}

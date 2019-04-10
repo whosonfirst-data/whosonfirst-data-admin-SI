@@ -1,0 +1,68 @@
+{
+  "id": 1209451807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.93931,45.97998,14.93931,45.97998",
+    "geom:latitude":45.97998,
+    "geom:longitude":14.93931,
+    "gn:admin1_code":"L9",
+    "gn:asciiname":"Zagric",
+    "gn:country_code":"SI",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989122,
+    "gn:latitude":45.97998,
+    "gn:longitude":14.93931,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Zagri\u010d",
+    "gn:population":17,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zagri\u010d"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989122,
+        "wk:page":"Zagri%C4%8D"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1d226260836f24d05fa290d4d3bbc1c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209451807
+        }
+    ],
+    "wof:id":1209451807,
+    "wof:lastmodified":1537700320,
+    "wof:name":"Zagric",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":17,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.93931,
+    45.97998,
+    14.93931,
+    45.97998
+],
+  "geometry": {"coordinates":[14.93931,45.97998],"type":"Point"}
+}

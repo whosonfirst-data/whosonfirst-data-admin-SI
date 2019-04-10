@@ -1,0 +1,74 @@
+{
+  "id": 1360120677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.19129,46.36373,14.19129,46.36373",
+    "geom:latitude":46.36373,
+    "geom:longitude":14.19129,
+    "gn:admin1_code":"A3",
+    "gn:asciiname":"Zapuze",
+    "gn:country_code":"SI",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186774,
+    "gn:latitude":46.36373,
+    "gn:longitude":14.19129,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Zapu\u017ee",
+    "gn:population":403,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zapu\u017ee"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959825,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186774,
+        "wk:page":"Zapu%C5%BEe%2C_Radovljica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3d296e8d805ed8eacb03ed430e353a73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959825,
+            "locality_id":1360120677,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1360120677,
+    "wof:lastmodified":1537700170,
+    "wof:name":"Zapuze",
+    "wof:parent_id":1108959825,
+    "wof:placetype":"locality",
+    "wof:population":403,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.19129,
+    46.36373,
+    14.19129,
+    46.36373
+],
+  "geometry": {"coordinates":[14.19129,46.36373],"type":"Point"}
+}

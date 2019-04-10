@@ -1,0 +1,75 @@
+{
+  "id": 1243208873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.22418,46.72196,16.22418,46.72196",
+    "geom:latitude":46.72196,
+    "geom:longitude":16.22418,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Andrejci",
+    "gn:country_code":"SI",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204820,
+    "gn:latitude":46.72196,
+    "gn:longitude":16.22418,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Andrejci",
+    "gn:population":205,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Andorhegy",
+        "Andrejci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959925,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204820,
+        "wk:page":"Andrejci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fc11a5de303a4eb9a5fbc0eb0580fe40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959925,
+            "locality_id":1243208873,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1243208873,
+    "wof:lastmodified":1537700267,
+    "wof:name":"Andrejci",
+    "wof:parent_id":1108959925,
+    "wof:placetype":"locality",
+    "wof:population":205,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.22418,
+    46.72196,
+    16.22418,
+    46.72196
+],
+  "geometry": {"coordinates":[16.22418,46.72196],"type":"Point"}
+}

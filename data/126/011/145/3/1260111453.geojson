@@ -1,0 +1,74 @@
+{
+  "id": 1260111453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.66667,46.26667,14.66667,46.26667",
+    "geom:latitude":46.26667,
+    "geom:longitude":14.66667,
+    "gn:admin1_code":"H6",
+    "gn:asciiname":"Krivcevo",
+    "gn:country_code":"SI",
+    "gn:dem":785,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197252,
+    "gn:latitude":46.26667,
+    "gn:longitude":14.66667,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Kriv\u010devo",
+    "gn:population":120,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kriv\u010devo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959941,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197252,
+        "wk:page":"Kriv%C4%8Devo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1783cb76acfac07f1e7f97eeeda4b57f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959941,
+            "locality_id":1260111453,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1260111453,
+    "wof:lastmodified":1537700228,
+    "wof:name":"Krivcevo",
+    "wof:parent_id":1108959941,
+    "wof:placetype":"locality",
+    "wof:population":120,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.66667,
+    46.26667,
+    14.66667,
+    46.26667
+],
+  "geometry": {"coordinates":[14.66667,46.26667],"type":"Point"}
+}

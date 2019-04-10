@@ -1,0 +1,71 @@
+{
+  "id": 1276817551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.64041,45.9057,14.64041,45.9057",
+    "geom:latitude":45.9057,
+    "geom:longitude":14.64041,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Velike Lipljene",
+    "gn:country_code":"SI",
+    "gn:dem":511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188126,
+    "gn:latitude":45.9057,
+    "gn:longitude":14.64041,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Velike Lipljene",
+    "gn:population":141,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959533,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188126,
+        "wk:page":"Velike_Lipljene"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6821d46d7942637b331dc4f24d7c2f6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959533,
+            "locality_id":1276817551,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1276817551,
+    "wof:lastmodified":1537573389,
+    "wof:name":"Velike Lipljene",
+    "wof:parent_id":1108959533,
+    "wof:placetype":"locality",
+    "wof:population":141,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.64041,
+    45.9057,
+    14.64041,
+    45.9057
+],
+  "geometry": {"coordinates":[14.64041,45.9057],"type":"Point"}
+}

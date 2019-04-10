@@ -1,0 +1,71 @@
+{
+  "id": 1226491627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.61633,45.93408,14.61633,45.93408",
+    "geom:latitude":45.93408,
+    "geom:longitude":14.61633,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Podgorica pri Podtaboru",
+    "gn:country_code":"SI",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988506,
+    "gn:latitude":45.93408,
+    "gn:longitude":14.61633,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Podgorica pri Podtaboru",
+    "gn:population":46,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959533,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988506,
+        "wk:page":"Podgorica_pri_Podtaboru"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2bdde121e0cd0173de30baf87eeaa1bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959533,
+            "locality_id":1226491627,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1226491627,
+    "wof:lastmodified":1537573514,
+    "wof:name":"Podgorica pri Podtaboru",
+    "wof:parent_id":1108959533,
+    "wof:placetype":"locality",
+    "wof:population":46,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.61633,
+    45.93408,
+    14.61633,
+    45.93408
+],
+  "geometry": {"coordinates":[14.61633,45.93408],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226198887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.66667,46.08333,14.66667,46.08333",
+    "geom:latitude":46.08333,
+    "geom:longitude":14.66667,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Klece pri Dolu",
+    "gn:country_code":"SI",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198094,
+    "gn:latitude":46.08333,
+    "gn:longitude":14.66667,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Kle\u010de pri Dolu",
+    "gn:population":139,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kle\u010de",
+        "Kle\u010de pri Dolu"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959861,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198094,
+        "wk:page":"Kle%C4%8De_pri_Dolu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0774be686a655cf2922555664a764da1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959861,
+            "locality_id":1226198887,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1226198887,
+    "wof:lastmodified":1537700233,
+    "wof:name":"Klece pri Dolu",
+    "wof:parent_id":1108959861,
+    "wof:placetype":"locality",
+    "wof:population":139,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.66667,
+    46.08333,
+    14.66667,
+    46.08333
+],
+  "geometry": {"coordinates":[14.66667,46.08333],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 1243292975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.96917,46.54306,14.96917,46.54306",
+    "geom:latitude":46.54306,
+    "geom:longitude":14.96917,
+    "gn:admin1_code":"K8",
+    "gn:asciiname":"Ravne na Koroskem",
+    "gn:country_code":"SI",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":3191839,
+    "gn:latitude":46.54306,
+    "gn:longitude":14.96917,
+    "gn:modification_date":"2016-03-22",
+    "gn:name":"Ravne na Koro\u0161kem",
+    "gn:population":6979,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_historical":[
+        "Gutenstein"
+    ],
+    "name:deu_x_preferred":[
+        "Gutenstein"
+    ],
+    "name:deu_x_variant":[
+        "Gutenstein in K\u00e4rnten"
+    ],
+    "name:slv_x_historical":[
+        "Gu\u0161tanj"
+    ],
+    "name:slv_x_preferred":[
+        "Gu\u0161tanj"
+    ],
+    "name:slv_x_variant":[
+        "Ravne na Koro\u0161kem"
+    ],
+    "name:und_x_variant":[
+        "Ravne"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959643,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191839,
+        "wk:page":"Ravne_na_Koro%C5%A1kem"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8c55a1e25e110116d2b64ace998baa8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959643,
+            "locality_id":1243292975,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1243292975,
+    "wof:lastmodified":1537700201,
+    "wof:name":"Ravne na Koroskem",
+    "wof:parent_id":1108959643,
+    "wof:placetype":"locality",
+    "wof:population":6979,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.96917,
+    46.54306,
+    14.96917,
+    46.54306
+],
+  "geometry": {"coordinates":[14.96917,46.54306],"type":"Point"}
+}

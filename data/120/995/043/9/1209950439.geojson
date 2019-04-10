@@ -1,0 +1,74 @@
+{
+  "id": 1209950439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.53348,45.803,14.53348,45.803",
+    "geom:latitude":45.803,
+    "geom:longitude":14.53348,
+    "gn:admin1_code":"F6",
+    "gn:asciiname":"Skrabce",
+    "gn:country_code":"SI",
+    "gn:dem":774,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989200,
+    "gn:latitude":45.803,
+    "gn:longitude":14.53348,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160krab\u010de",
+    "gn:population":14,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160krab\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959893,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989200,
+        "wk:page":"%C5%A0krab%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9bdef36523431566c1a147c2cf02ad2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959893,
+            "locality_id":1209950439,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1209950439,
+    "wof:lastmodified":1537700321,
+    "wof:name":"Skrabce",
+    "wof:parent_id":1108959893,
+    "wof:placetype":"locality",
+    "wof:population":14,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.53348,
+    45.803,
+    14.53348,
+    45.803
+],
+  "geometry": {"coordinates":[14.53348,45.803],"type":"Point"}
+}

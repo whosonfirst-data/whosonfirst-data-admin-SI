@@ -1,0 +1,71 @@
+{
+  "id": 1226478477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.75,46.36667,14.75,46.36667",
+    "geom:latitude":46.36667,
+    "geom:longitude":14.75,
+    "gn:admin1_code":"I9",
+    "gn:asciiname":"Raduha",
+    "gn:country_code":"SI",
+    "gn:dem":797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192055,
+    "gn:latitude":46.36667,
+    "gn:longitude":14.75,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Raduha",
+    "gn:population":243,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959505,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192055,
+        "wk:page":"Raduha%2C_Lu%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f5cc21a5d620150af8d25df54190ce2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959505,
+            "locality_id":1226478477,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1226478477,
+    "wof:lastmodified":1537573407,
+    "wof:name":"Raduha",
+    "wof:parent_id":1108959505,
+    "wof:placetype":"locality",
+    "wof:population":243,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.75,
+    46.36667,
+    14.75,
+    46.36667
+],
+  "geometry": {"coordinates":[14.75,46.36667],"type":"Point"}
+}

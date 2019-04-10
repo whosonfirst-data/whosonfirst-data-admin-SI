@@ -1,0 +1,74 @@
+{
+  "id": 1360220759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.19965,46.07471,15.19965,46.07471",
+    "geom:latitude":46.07471,
+    "geom:longitude":15.19965,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Celovnik",
+    "gn:country_code":"SI",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988930,
+    "gn:latitude":46.07471,
+    "gn:longitude":15.19965,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u010celovnik",
+    "gn:population":26,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010celovnik"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988930,
+        "wk:page":"%C4%8Celovnik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"75f0dbbb3226506a684190252683e7aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1360220759,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1360220759,
+    "wof:lastmodified":1537700316,
+    "wof:name":"Celovnik",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":26,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.19965,
+    46.07471,
+    15.19965,
+    46.07471
+],
+  "geometry": {"coordinates":[15.19965,46.07471],"type":"Point"}
+}

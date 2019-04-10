@@ -1,0 +1,68 @@
+{
+  "id": 1209549329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.06667,46.25,15.06667,46.25",
+    "geom:latitude":46.25,
+    "geom:longitude":15.06667,
+    "gn:admin1_code":"F7",
+    "gn:asciiname":"Sentrupert",
+    "gn:country_code":"SI",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191023,
+    "gn:latitude":46.25,
+    "gn:longitude":15.06667,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u0160entrupert",
+    "gn:population":152,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160entrupert"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191023,
+        "wk:page":"%C5%A0entrupert%2C_Braslov%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"331c782734ae80310852d6e35d56788f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209549329
+        }
+    ],
+    "wof:id":1209549329,
+    "wof:lastmodified":1537700194,
+    "wof:name":"Sentrupert",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":152,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.06667,
+    46.25,
+    15.06667,
+    46.25
+],
+  "geometry": {"coordinates":[15.06667,46.25],"type":"Point"}
+}

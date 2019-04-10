@@ -1,0 +1,71 @@
+{
+  "id": 1343695559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.66667,46.56667,15.66667,46.56667",
+    "geom:latitude":46.56667,
+    "geom:longitude":15.66667,
+    "gn:admin1_code":"J2",
+    "gn:asciiname":"Meljski Hrib",
+    "gn:country_code":"SI",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195257,
+    "gn:latitude":46.56667,
+    "gn:longitude":15.66667,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Meljski Hrib",
+    "gn:population":289,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959785,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195257,
+        "wk:page":"Meljski_Hrib"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a93c6b5d287d0d8e17132788c194c9e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959785,
+            "locality_id":1343695559,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1343695559,
+    "wof:lastmodified":1537573420,
+    "wof:name":"Meljski Hrib",
+    "wof:parent_id":1108959785,
+    "wof:placetype":"locality",
+    "wof:population":289,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.66667,
+    46.56667,
+    15.66667,
+    46.56667
+],
+  "geometry": {"coordinates":[15.66667,46.56667],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1343396857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.25762,46.85456,16.25762,46.85456",
+    "geom:latitude":46.85456,
+    "geom:longitude":16.25762,
+    "gn:admin1_code":"L4",
+    "gn:asciiname":"Budinci",
+    "gn:country_code":"SI",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203125,
+    "gn:latitude":46.85456,
+    "gn:longitude":16.25762,
+    "gn:modification_date":"2015-07-21",
+    "gn:name":"Budinci",
+    "gn:population":110,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "B\u00fcdintz"
+    ],
+    "name:hun_x_preferred":[
+        "B\u0171dfalva"
+    ],
+    "name:und_x_variant":[
+        "B\u00fcdinci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959567,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203125
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b1ec2b2f64e4e2322d7950ccb8aa5c24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959567,
+            "locality_id":1343396857,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1343396857,
+    "wof:lastmodified":1537700260,
+    "wof:name":"Budinci",
+    "wof:parent_id":1108959567,
+    "wof:placetype":"locality",
+    "wof:population":110,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.25762000000001,
+    46.85456,
+    16.25762000000001,
+    46.85456
+],
+  "geometry": {"coordinates":[16.25762000000001,46.85456],"type":"Point"}
+}

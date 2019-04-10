@@ -1,0 +1,68 @@
+{
+  "id": 1209446079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.69306,45.76528,14.69306,45.76528",
+    "geom:latitude":45.76528,
+    "geom:longitude":14.69306,
+    "gn:admin1_code":"L1",
+    "gn:asciiname":"Zlebic",
+    "gn:country_code":"SI",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186392,
+    "gn:latitude":45.76528,
+    "gn:longitude":14.69306,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u017dlebi\u010d",
+    "gn:population":228,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017dlebi\u010d"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186392,
+        "wk:page":"%C5%BDlebi%C4%8D%2C_Ribnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"38b12f00b6d01f6ffe735ed555d06313",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209446079
+        }
+    ],
+    "wof:id":1209446079,
+    "wof:lastmodified":1537700167,
+    "wof:name":"Zlebic",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":228,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.69306,
+    45.76528,
+    14.69306,
+    45.76528
+],
+  "geometry": {"coordinates":[14.69306,45.76528],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276265999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.81143,45.44743,13.81143,45.44743",
+    "geom:latitude":45.44743,
+    "geom:longitude":13.81143,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Mocunigi",
+    "gn:country_code":"SI",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989714,
+    "gn:latitude":45.44743,
+    "gn:longitude":13.81143,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Mo\u010dunigi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mo\u010dunigi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959527,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989714,
+        "wk:page":"Mo%C4%8Dunigi"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ce7293ea260c164360ee50bd64ed7741",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959527,
+            "locality_id":1276265999,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1276265999,
+    "wof:lastmodified":1537700332,
+    "wof:name":"Mocunigi",
+    "wof:parent_id":1108959527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.81143,
+    45.44743,
+    13.81143,
+    45.44743
+],
+  "geometry": {"coordinates":[13.81143,45.44743],"type":"Point"}
+}

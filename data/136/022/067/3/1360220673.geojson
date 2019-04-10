@@ -1,0 +1,71 @@
+{
+  "id": 1360220673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56667,46.56667,15.56667,46.56667",
+    "geom:latitude":46.56667,
+    "geom:longitude":15.56667,
+    "gn:admin1_code":"J2",
+    "gn:asciiname":"Jelovec",
+    "gn:country_code":"SI",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198682,
+    "gn:latitude":46.56667,
+    "gn:longitude":15.56667,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Jelovec",
+    "gn:population":357,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959785,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198682,
+        "wk:page":"Jelovec%2C_Maribor"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"554bc4869222234c5a45fb2444193605",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959785,
+            "locality_id":1360220673,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1360220673,
+    "wof:lastmodified":1537573433,
+    "wof:name":"Jelovec",
+    "wof:parent_id":1108959785,
+    "wof:placetype":"locality",
+    "wof:population":357,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56667,
+    46.56667,
+    15.56667,
+    46.56667
+],
+  "geometry": {"coordinates":[15.56667,46.56667],"type":"Point"}
+}

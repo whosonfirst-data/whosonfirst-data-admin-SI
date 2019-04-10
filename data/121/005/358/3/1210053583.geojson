@@ -1,0 +1,73 @@
+{
+  "id": 1210053583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.61294,46.13539,14.61294,46.13539",
+    "geom:latitude":46.13539,
+    "geom:longitude":14.61294,
+    "gn:admin1_code":"G7",
+    "gn:country_code":"SI",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986873,
+    "gn:latitude":46.13539,
+    "gn:longitude":14.61294,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Zabor\u0161t",
+    "gn:population":752,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zabor\u008aT"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959799,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986873,
+        "wk:page":"Zabor%C5%A1t%2C_Dom%C5%BEale"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b8230b38b1842a0b9318cd76ac5cb8ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959799,
+            "locality_id":1210053583,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1210053583,
+    "wof:lastmodified":1537700275,
+    "wof:name":"",
+    "wof:parent_id":1108959799,
+    "wof:placetype":"locality",
+    "wof:population":752,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.61294,
+    46.13539,
+    14.61294,
+    46.13539
+],
+  "geometry": {"coordinates":[14.61294,46.13539],"type":"Point"}
+}

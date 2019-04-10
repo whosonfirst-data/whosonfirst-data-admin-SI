@@ -1,0 +1,71 @@
+{
+  "id": 1293724373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.20319,46.06327,15.20319,46.06327",
+    "geom:latitude":46.06327,
+    "geom:longitude":15.20319,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Slap",
+    "gn:country_code":"SI",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989142,
+    "gn:latitude":46.06327,
+    "gn:longitude":15.20319,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Slap",
+    "gn:population":16,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989142,
+        "wk:page":"Slap%2C_Sevnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a1662a66a5aeeefdaf0af56740f58753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1293724373,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1293724373,
+    "wof:lastmodified":1537573533,
+    "wof:name":"Slap",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":16,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.20319,
+    46.06327,
+    15.20319,
+    46.06327
+],
+  "geometry": {"coordinates":[15.20319,46.06327],"type":"Point"}
+}

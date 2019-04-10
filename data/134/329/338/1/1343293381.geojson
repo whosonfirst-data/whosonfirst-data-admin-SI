@@ -1,0 +1,74 @@
+{
+  "id": 1343293381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.05139,46.41306,16.05139,46.41306",
+    "geom:latitude":46.41306,
+    "geom:longitude":16.05139,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Oslusevci",
+    "gn:country_code":"SI",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193904,
+    "gn:latitude":46.41306,
+    "gn:longitude":16.05139,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Oslu\u0161evci",
+    "gn:population":197,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oslu\u0161evci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959765,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193904,
+        "wk:page":"Oslu%C5%A1evci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"210c63a23e32925926b6930eff9a0ed4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959765,
+            "locality_id":1343293381,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1343293381,
+    "wof:lastmodified":1537700213,
+    "wof:name":"Oslusevci",
+    "wof:parent_id":1108959765,
+    "wof:placetype":"locality",
+    "wof:population":197,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.05139,
+    46.41306,
+    16.05139,
+    46.41306
+],
+  "geometry": {"coordinates":[16.05139,46.41306],"type":"Point"}
+}

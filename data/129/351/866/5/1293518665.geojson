@@ -1,0 +1,74 @@
+{
+  "id": 1293518665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.75,46.05,14.75,46.05",
+    "geom:latitude":46.05,
+    "geom:longitude":14.75,
+    "gn:admin1_code":"L9",
+    "gn:asciiname":"Velika Stanga",
+    "gn:country_code":"SI",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188162,
+    "gn:latitude":46.05,
+    "gn:longitude":14.75,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Velika \u0160tanga",
+    "gn:population":103,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Velika \u0160tanga"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959745,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188162,
+        "wk:page":"Velika_%C5%A0tanga"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3386080b51d1c082cb193ae9359bcf42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959745,
+            "locality_id":1293518665,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1293518665,
+    "wof:lastmodified":1537700178,
+    "wof:name":"Velika Stanga",
+    "wof:parent_id":1108959745,
+    "wof:placetype":"locality",
+    "wof:population":103,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.75,
+    46.05,
+    14.75,
+    46.05
+],
+  "geometry": {"coordinates":[14.75,46.05],"type":"Point"}
+}

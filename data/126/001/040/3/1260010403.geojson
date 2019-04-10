@@ -1,0 +1,71 @@
+{
+  "id": 1260010403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.43307,46.37221,15.43307,46.37221",
+    "geom:latitude":46.37221,
+    "geom:longitude":15.43307,
+    "gn:admin1_code":"J8",
+    "gn:asciiname":"Malahorna",
+    "gn:country_code":"SI",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987048,
+    "gn:latitude":46.37221,
+    "gn:longitude":15.43307,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Malahorna",
+    "gn:population":292,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959737,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987048,
+        "wk:page":"Malahorna"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"bf39891be3a614873ff2d59c2a60b88e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959737,
+            "locality_id":1260010403,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1260010403,
+    "wof:lastmodified":1537573468,
+    "wof:name":"Malahorna",
+    "wof:parent_id":1108959737,
+    "wof:placetype":"locality",
+    "wof:population":292,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.43307,
+    46.37221,
+    15.43307,
+    46.37221
+],
+  "geometry": {"coordinates":[15.43307,46.37221],"type":"Point"}
+}

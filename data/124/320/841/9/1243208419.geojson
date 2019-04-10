@@ -1,0 +1,76 @@
+{
+  "id": 1243208419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.9125,46.48528,15.9125,46.48528",
+    "geom:latitude":46.48528,
+    "geom:longitude":15.9125,
+    "gn:admin1_code":"G1",
+    "gn:asciiname":"Levanjci",
+    "gn:country_code":"SI",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196622,
+    "gn:latitude":46.48528,
+    "gn:longitude":15.9125,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Levanjci",
+    "gn:population":140,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Livajnci",
+        "Levajnci",
+        "Levanjci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959755,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196622,
+        "wk:page":"Levanjci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"365c25aabd77089059c32c0986dba64a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959755,
+            "locality_id":1243208419,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1243208419,
+    "wof:lastmodified":1537700225,
+    "wof:name":"Levanjci",
+    "wof:parent_id":1108959755,
+    "wof:placetype":"locality",
+    "wof:population":140,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.9125,
+    46.48528,
+    15.9125,
+    46.48528
+],
+  "geometry": {"coordinates":[15.9125,46.48528],"type":"Point"}
+}

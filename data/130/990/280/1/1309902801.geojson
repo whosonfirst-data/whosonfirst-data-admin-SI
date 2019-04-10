@@ -1,0 +1,74 @@
+{
+  "id": 1309902801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56667,45.9,15.56667,45.9",
+    "geom:latitude":45.9,
+    "geom:longitude":15.56667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Krska Vas",
+    "gn:country_code":"SI",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197148,
+    "gn:latitude":45.9,
+    "gn:longitude":15.56667,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kr\u0161ka Vas",
+    "gn:population":555,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kr\u0161ka Vas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197148,
+        "wk:page":"Kr%C5%A1ka_Vas%2C_Bre%C5%BEice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d2458d93ef06765810832306c9b618ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1309902801,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1309902801,
+    "wof:lastmodified":1537700228,
+    "wof:name":"Krska Vas",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:population":555,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56667,
+    45.9,
+    15.56667,
+    45.9
+],
+  "geometry": {"coordinates":[15.56667,45.9],"type":"Point"}
+}

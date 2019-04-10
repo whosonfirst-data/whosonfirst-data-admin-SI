@@ -1,0 +1,118 @@
+{
+  "id": 101792015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000076,
+    "geom:area_square_m":648446.434271,
+    "geom:bbox":"15.4705362813,46.0114656769,15.4854236999,46.0293595806",
+    "geom:latitude":46.020949,
+    "geom:longitude":15.477053,
+    "gn:population":2343,
+    "iso:country":"SI",
+    "lbl:latitude":46.019619,
+    "lbl:longitude":15.47632,
+    "mps:latitude":46.019619,
+    "mps:longitude":15.47632,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Senovo"
+    ],
+    "name:dut_x_preferred":[
+        "Senovo"
+    ],
+    "name:eng_x_preferred":[
+        "Senovo"
+    ],
+    "name:hbs_x_preferred":[
+        "Senovo"
+    ],
+    "name:hrv_x_preferred":[
+        "Senovo"
+    ],
+    "name:nld_x_preferred":[
+        "Senovo"
+    ],
+    "name:ron_x_preferred":[
+        "Senovo"
+    ],
+    "name:rum_x_preferred":[
+        "Senovo"
+    ],
+    "name:slv_x_preferred":[
+        "Senovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:und_x_preferred":[
+        "Senovo"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"Kr\u0161ko",
+    "qs:la_lc":"*SI054000",
+    "qs:level":"locality",
+    "qs:loc":"Senovo",
+    "qs:loc_alt":"Senovo",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":160,
+    "wof:belongsto":[
+        102191581,
+        1108959473,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06f33b96-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3191044,
+        "gp:id":55850424,
+        "qs:id":70704,
+        "wd:id":"Q2327320",
+        "wk:page":"Senovo, Kr\u0161ko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f19f444c82c7f05930cfef1f6ad3100e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959473,
+            "locality_id":101792015,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":101792015,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531170979,
+    "wof:name":"Senovo",
+    "wof:parent_id":1108959473,
+    "wof:placetype":"locality",
+    "wof:population":2343,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.47053628126372,
+    46.0114656769174,
+    15.48542369989315,
+    46.0293595806159
+],
+  "geometry": {"coordinates":[[[15.48542369989315,46.02723196952752],[15.48533249498502,46.02633397268528],[15.48275806215577,46.02646665936703],[15.48266690357622,46.0255686593693],[15.48137970408504,46.02563497812406],[15.48119744110096,46.02383897375609],[15.4799102811595,46.02390527442378],[15.47981917675139,46.02300727005388],[15.47853203515933,46.02307355390803],[15.47762141871965,46.01409346398975],[15.47633448621951,46.01415971958795],[15.47606144128849,46.0114656769174],[15.4747745695073,46.01153191316479],[15.47486555937877,46.01242992926859],[15.47357866356504,46.01249615124902],[15.47385159311386,46.01519019971528],[15.47256463088621,46.01525640996857],[15.47265559404411,46.01615442617594],[15.47394257746316,46.01608821465237],[15.4742155540149,46.01878225580856],[15.4716414571713,46.01891467093844],[15.4718233763449,46.02071070041256],[15.47053628126372,46.02077688720709],[15.47062722552778,46.02167490230107],[15.47577567356649,46.0214100567955],[15.47623087762088,46.02590009772109],[15.47751808851058,46.02583384113524],[15.47760916228395,46.02673184622245],[15.4788963915268,46.02666557282214],[15.47916969998892,46.0293595806159],[15.48174427714497,46.0292269795533],[15.4815619827661,46.02743098005629],[15.48542369989315,46.02723196952752]]],"type":"Polygon"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1243001939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.96667,46.1,14.96667,46.1",
+    "geom:latitude":46.1,
+    "geom:longitude":14.96667,
+    "gn:admin1_code":"I5",
+    "gn:asciiname":"Renke",
+    "gn:country_code":"SI",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191735,
+    "gn:latitude":46.1,
+    "gn:longitude":14.96667,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Renke",
+    "gn:population":43,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Renki",
+        "Renke"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959907,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191735,
+        "wk:page":"Renke"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2fdb25206cb1b9964505ace7b91833d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959907,
+            "locality_id":1243001939,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1243001939,
+    "wof:lastmodified":1537700200,
+    "wof:name":"Renke",
+    "wof:parent_id":1108959907,
+    "wof:placetype":"locality",
+    "wof:population":43,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.96667,
+    46.1,
+    14.96667,
+    46.1
+],
+  "geometry": {"coordinates":[14.96667,46.1],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293231819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.91497,45.88468,14.91497,45.88468",
+    "geom:latitude":45.88468,
+    "geom:longitude":14.91497,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Log pri Zuzemberku",
+    "gn:country_code":"SI",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989642,
+    "gn:latitude":45.88468,
+    "gn:longitude":14.91497,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Log pri \u017du\u017eemberku",
+    "gn:population":20,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Log pri \u017du\u017eemberku"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959839,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989642,
+        "wk:page":"Log_pri_%C5%BDu%C5%BEemberku"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"36059b1c59a843bf70742326e38e7c89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959839,
+            "locality_id":1293231819,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1293231819,
+    "wof:lastmodified":1537700330,
+    "wof:name":"Log pri Zuzemberku",
+    "wof:parent_id":1108959839,
+    "wof:placetype":"locality",
+    "wof:population":20,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.91497,
+    45.88468,
+    14.91497,
+    45.88468
+],
+  "geometry": {"coordinates":[14.91497,45.88468],"type":"Point"}
+}

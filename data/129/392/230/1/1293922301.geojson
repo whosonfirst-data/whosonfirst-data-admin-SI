@@ -1,0 +1,71 @@
+{
+  "id": 1293922301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.19803,45.52032,14.19803,45.52032",
+    "geom:latitude":45.52032,
+    "geom:longitude":14.19803,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Pavlica",
+    "gn:country_code":"SI",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989207,
+    "gn:latitude":45.52032,
+    "gn:longitude":14.19803,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Pavlica",
+    "gn:population":13,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959873,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989207,
+        "wk:page":"Pavlica%2C_Ilirska_Bistrica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7dbf465fc8e5e6c5fa48bc222b487680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959873,
+            "locality_id":1293922301,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1293922301,
+    "wof:lastmodified":1537573535,
+    "wof:name":"Pavlica",
+    "wof:parent_id":1108959873,
+    "wof:placetype":"locality",
+    "wof:population":13,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.19803,
+    45.52032,
+    14.19803,
+    45.52032
+],
+  "geometry": {"coordinates":[14.19803,45.52032],"type":"Point"}
+}

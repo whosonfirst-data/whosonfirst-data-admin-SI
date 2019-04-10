@@ -1,0 +1,73 @@
+{
+  "id": 1243002775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.43308,46.25121,14.43308,46.25121",
+    "geom:latitude":46.25121,
+    "geom:longitude":14.43308,
+    "gn:admin1_code":"B2",
+    "gn:country_code":"SI",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986918,
+    "gn:latitude":46.25121,
+    "gn:longitude":14.43308,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Srednja Vas pri \u0160en\u010durju",
+    "gn:population":490,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Srednja Vas pri \u008aEn\u010durju"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959647,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986918,
+        "wk:page":"Srednja_Vas_pri_%C5%A0en%C4%8Durju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f52c7b993aa28426b73cabb295255215",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959647,
+            "locality_id":1243002775,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1243002775,
+    "wof:lastmodified":1537700276,
+    "wof:name":"",
+    "wof:parent_id":1108959647,
+    "wof:placetype":"locality",
+    "wof:population":490,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.43308,
+    46.25121,
+    14.43308,
+    46.25121
+],
+  "geometry": {"coordinates":[14.43308,46.25121],"type":"Point"}
+}

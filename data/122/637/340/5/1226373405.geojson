@@ -1,0 +1,74 @@
+{
+  "id": 1226373405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.62857,46.12033,14.62857,46.12033",
+    "geom:latitude":46.12033,
+    "geom:longitude":14.62857,
+    "gn:admin1_code":"G7",
+    "gn:asciiname":"Goricica pri Ihanu",
+    "gn:country_code":"SI",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987124,
+    "gn:latitude":46.12033,
+    "gn:longitude":14.62857,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Gori\u010dica pri Ihanu",
+    "gn:population":256,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gori\u010dica pri Ihanu"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959799,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987124,
+        "wk:page":"Gori%C4%8Dica_pri_Ihanu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c58955ec2ab9846514761093f0cfdd51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959799,
+            "locality_id":1226373405,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1226373405,
+    "wof:lastmodified":1537700280,
+    "wof:name":"Goricica pri Ihanu",
+    "wof:parent_id":1108959799,
+    "wof:placetype":"locality",
+    "wof:population":256,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.62857,
+    46.12033,
+    14.62857,
+    46.12033
+],
+  "geometry": {"coordinates":[14.62857,46.12033],"type":"Point"}
+}

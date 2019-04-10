@@ -1,0 +1,71 @@
+{
+  "id": 1343888969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.10131,45.80874,15.10131,45.80874",
+    "geom:latitude":45.80874,
+    "geom:longitude":15.10131,
+    "gn:admin1_code":"P5",
+    "gn:asciiname":"Podgora",
+    "gn:country_code":"SI",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987299,
+    "gn:latitude":45.80874,
+    "gn:longitude":15.10131,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Podgora",
+    "gn:population":183,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959793,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987299,
+        "wk:page":"Podgora%2C_Stra%C5%BEa"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"2c0568497719d82026fa4cdb54958604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959793,
+            "locality_id":1343888969,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1343888969,
+    "wof:lastmodified":1537573475,
+    "wof:name":"Podgora",
+    "wof:parent_id":1108959793,
+    "wof:placetype":"locality",
+    "wof:population":183,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.10131,
+    45.80874,
+    15.10131,
+    45.80874
+],
+  "geometry": {"coordinates":[15.10131,45.80874],"type":"Point"}
+}

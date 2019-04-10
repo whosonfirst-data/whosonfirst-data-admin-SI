@@ -1,0 +1,75 @@
+{
+  "id": 1260016427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.17778,45.72333,14.17778,45.72333",
+    "geom:latitude":45.72333,
+    "geom:longitude":14.17778,
+    "gn:admin1_code":"94",
+    "gn:asciiname":"Koce",
+    "gn:country_code":"SI",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197947,
+    "gn:latitude":45.72333,
+    "gn:longitude":14.17778,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Ko\u010de",
+    "gn:population":245,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cocce",
+        "Ko\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959559,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197947,
+        "wk:page":"Ko%C4%8De%2C_Postojna"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"995e30926a8c0a572c8a60a5c60ca433",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959559,
+            "locality_id":1260016427,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1260016427,
+    "wof:lastmodified":1537700232,
+    "wof:name":"Koce",
+    "wof:parent_id":1108959559,
+    "wof:placetype":"locality",
+    "wof:population":245,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.17778,
+    45.72333,
+    14.17778,
+    45.72333
+],
+  "geometry": {"coordinates":[14.17778,45.72333],"type":"Point"}
+}

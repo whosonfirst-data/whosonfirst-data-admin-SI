@@ -1,0 +1,65 @@
+{
+  "id": 1209142307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.06722,46.37917,15.06722,46.37917",
+    "geom:latitude":46.37917,
+    "geom:longitude":15.06722,
+    "gn:admin1_code":"C7",
+    "gn:asciiname":"Druzmirje",
+    "gn:country_code":"SI",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201137,
+    "gn:latitude":46.37917,
+    "gn:longitude":15.06722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dru\u017emirje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dru\u017emirje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201137,
+        "wk:page":"Dru%C5%BEmirje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"db1b81a56d81f986969bbf342b29c794",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209142307
+        }
+    ],
+    "wof:id":1209142307,
+    "wof:lastmodified":1537700249,
+    "wof:name":"Druzmirje",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.06722,
+    46.37917,
+    15.06722,
+    46.37917
+],
+  "geometry": {"coordinates":[15.06722,46.37917],"type":"Point"}
+}

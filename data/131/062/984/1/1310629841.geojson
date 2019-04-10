@@ -1,0 +1,71 @@
+{
+  "id": 1310629841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.67278,45.76083,14.67278,45.76083",
+    "geom:latitude":45.76083,
+    "geom:longitude":14.67278,
+    "gn:admin1_code":"M1",
+    "gn:asciiname":"Zapotok",
+    "gn:country_code":"SI",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186783,
+    "gn:latitude":45.76083,
+    "gn:longitude":14.67278,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Zapotok",
+    "gn:population":181,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959805,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186783,
+        "wk:page":"Zapotok%2C_Sodra%C5%BEica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0d284a50987c7184b7e99f27eb525d58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959805,
+            "locality_id":1310629841,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1310629841,
+    "wof:lastmodified":1537573383,
+    "wof:name":"Zapotok",
+    "wof:parent_id":1108959805,
+    "wof:placetype":"locality",
+    "wof:population":181,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.67278,
+    45.76083,
+    14.67278,
+    45.76083
+],
+  "geometry": {"coordinates":[14.67278,45.76083],"type":"Point"}
+}

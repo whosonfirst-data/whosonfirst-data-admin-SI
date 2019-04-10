@@ -1,0 +1,71 @@
+{
+  "id": 1242920841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.0286,46.39644,16.0286,46.39644",
+    "geom:latitude":46.39644,
+    "geom:longitude":16.0286,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Placerovci",
+    "gn:country_code":"SI",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987346,
+    "gn:latitude":46.39644,
+    "gn:longitude":16.0286,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Placerovci",
+    "gn:population":168,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959719,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987346,
+        "wk:page":"Placerovci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8288105494e3d36b9c11e678cb200c78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959719,
+            "locality_id":1242920841,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1242920841,
+    "wof:lastmodified":1537573476,
+    "wof:name":"Placerovci",
+    "wof:parent_id":1108959719,
+    "wof:placetype":"locality",
+    "wof:population":168,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.0286,
+    46.39644000000001,
+    16.0286,
+    46.39644000000001
+],
+  "geometry": {"coordinates":[16.0286,46.39644000000001],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310242105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.30556,46.16167,15.30556,46.16167",
+    "geom:latitude":46.16167,
+    "geom:longitude":15.30556,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Olesce",
+    "gn:country_code":"SI",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216393,
+    "gn:latitude":46.16167,
+    "gn:longitude":15.30556,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ole\u0161\u010de",
+    "gn:population":261,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ole\u0161\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959879,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216393,
+        "wk:page":"Ole%C5%A1%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"94a9a6f3047781b1e10e62d9fd0495e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959879,
+            "locality_id":1310242105,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1310242105,
+    "wof:lastmodified":1537700270,
+    "wof:name":"Olesce",
+    "wof:parent_id":1108959879,
+    "wof:placetype":"locality",
+    "wof:population":261,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.30556,
+    46.16167,
+    15.30556,
+    46.16167
+],
+  "geometry": {"coordinates":[15.30556,46.16167],"type":"Point"}
+}

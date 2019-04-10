@@ -1,0 +1,67 @@
+{
+  "id": 1293327377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.51,46.44583,15.51,46.44583",
+    "geom:latitude":46.44583,
+    "geom:longitude":15.51,
+    "gn:admin1_code":"L8",
+    "gn:asciiname":"Blazic",
+    "gn:country_code":"SI",
+    "gn:dem":831,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216982,
+    "gn:latitude":46.44583,
+    "gn:longitude":15.51,
+    "gn:modification_date":"2008-11-25",
+    "gn:name":"Bla\u017eic",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959641,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216982
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"868971dd50fcfd9443e09bbef73317fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959641,
+            "locality_id":1293327377,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1293327377,
+    "wof:lastmodified":1537017173,
+    "wof:name":"Blazic",
+    "wof:parent_id":1108959641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.51,
+    46.44583,
+    15.51,
+    46.44583
+],
+  "geometry": {"coordinates":[15.51,46.44583],"type":"Point"}
+}

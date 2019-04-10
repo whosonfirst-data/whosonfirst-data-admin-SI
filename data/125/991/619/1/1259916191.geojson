@@ -1,0 +1,73 @@
+{
+  "id": 1259916191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.05669,46.27973,15.05669,46.27973",
+    "geom:latitude":46.27973,
+    "geom:longitude":15.05669,
+    "gn:admin1_code":"F7",
+    "gn:country_code":"SI",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986877,
+    "gn:latitude":46.27973,
+    "gn:longitude":15.05669,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Pari\u017elje",
+    "gn:population":739,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pari\u008eLje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959855,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986877,
+        "wk:page":"Pari%C5%BElje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c344523fbcc293aa3b6f8cb2514d2a90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959855,
+            "locality_id":1259916191,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1259916191,
+    "wof:lastmodified":1537700276,
+    "wof:name":"",
+    "wof:parent_id":1108959855,
+    "wof:placetype":"locality",
+    "wof:population":739,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.05669,
+    46.27973,
+    15.05669,
+    46.27973
+],
+  "geometry": {"coordinates":[15.05669,46.27973],"type":"Point"}
+}

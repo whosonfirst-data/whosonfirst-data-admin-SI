@@ -1,0 +1,76 @@
+{
+  "id": 1343996195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.70167,45.88889,13.70167,45.88889",
+    "geom:latitude":45.88889,
+    "geom:longitude":13.70167,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Gradisce nad Prvacino",
+    "gn:country_code":"SI",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216563,
+    "gn:latitude":45.88889,
+    "gn:longitude":13.70167,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Gradi\u0161\u010de nad Prva\u010dino",
+    "gn:population":505,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gradi\u0161\u010de",
+        "Grandi\u0161\u010de",
+        "Gradi\u0161\u010de nad Prva\u010dino"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959487,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216563,
+        "wk:page":"Gradi%C5%A1%C4%8De_nad_Prva%C4%8Dino"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"53ed38c471933cad4581cd00de15936d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959487,
+            "locality_id":1343996195,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1343996195,
+    "wof:lastmodified":1537700270,
+    "wof:name":"Gradisce nad Prvacino",
+    "wof:parent_id":1108959487,
+    "wof:placetype":"locality",
+    "wof:population":505,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.70167,
+    45.88889,
+    13.70167,
+    45.88889
+],
+  "geometry": {"coordinates":[13.70167,45.88889],"type":"Point"}
+}

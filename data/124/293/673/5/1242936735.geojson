@@ -1,0 +1,71 @@
+{
+  "id": 1242936735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.24215,45.47873,15.24215,45.47873",
+    "geom:latitude":45.47873,
+    "geom:longitude":15.24215,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Perudina",
+    "gn:country_code":"SI",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988464,
+    "gn:latitude":45.47873,
+    "gn:longitude":15.24215,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Perudina",
+    "gn:population":48,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959699,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988464,
+        "wk:page":"Perudina"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"567daaced7112c759d809094449494cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959699,
+            "locality_id":1242936735,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1242936735,
+    "wof:lastmodified":1537573512,
+    "wof:name":"Perudina",
+    "wof:parent_id":1108959699,
+    "wof:placetype":"locality",
+    "wof:population":48,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.24215,
+    45.47873,
+    15.24215,
+    45.47873
+],
+  "geometry": {"coordinates":[15.24215,45.47873],"type":"Point"}
+}

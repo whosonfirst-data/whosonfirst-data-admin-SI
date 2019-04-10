@@ -1,0 +1,71 @@
+{
+  "id": 1243298773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.6746,46.19029,14.6746,46.19029",
+    "geom:latitude":46.19029,
+    "geom:longitude":14.6746,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Dupeljne",
+    "gn:country_code":"SI",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988298,
+    "gn:latitude":46.19029,
+    "gn:longitude":14.6746,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Dupeljne",
+    "gn:population":58,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959807,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988298,
+        "wk:page":"Dupeljne"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d4d902adfd6ab200eb1b0c823a5fc36c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959807,
+            "locality_id":1243298773,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1243298773,
+    "wof:lastmodified":1537573507,
+    "wof:name":"Dupeljne",
+    "wof:parent_id":1108959807,
+    "wof:placetype":"locality",
+    "wof:population":58,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.6746,
+    46.19029000000001,
+    14.6746,
+    46.19029000000001
+],
+  "geometry": {"coordinates":[14.6746,46.19029000000001],"type":"Point"}
+}

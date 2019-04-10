@@ -1,0 +1,113 @@
+{
+  "id": 1126051413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.215536,46.384241,14.215536,46.384241",
+    "geom:latitude":46.384241,
+    "geom:longitude":14.215536,
+    "gn:gn_country":null,
+    "iso:country":"SI",
+    "lbl:latitude":46.384241,
+    "lbl:longitude":14.215536,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Begunje na Gorenjskem"
+    ],
+    "name:dut_x_preferred":[
+        "Begunje na Gorenjskem"
+    ],
+    "name:eng_x_preferred":[
+        "Begunje na Gorenjskem"
+    ],
+    "name:ger_x_preferred":[
+        "Begunje"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03c0\u03ad\u03b3\u03ba\u03bf\u03c5\u03bd\u03b9\u03b5"
+    ],
+    "name:hrv_x_preferred":[
+        "Begunje na Gorenjskem"
+    ],
+    "name:rum_x_preferred":[
+        "Begunje na Gorenjskem"
+    ],
+    "name:slv_x_preferred":[
+        "Begunje na Gorenjskem"
+    ],
+    "name:swe_x_preferred":[
+        "Begunje"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0433\u0443\u043d\u0454 \u043d\u0430 \u0413\u043e\u0440\u0435\u043d\u044c\u0441\u044c\u043a\u0435\u043c"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Begunje Na Gorenjskem",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Radovljica",
+    "qs_pg:photos":109,
+    "qs_pg:photos_1k":22,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":109,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":977061,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":529516,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Radovljica",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959825,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":529516,
+        "qs_pg:id":977061,
+        "wd:id":"Q814409"
+    },
+    "wof:country":"SI",
+    "wof:created":1497302774,
+    "wof:geomhash":"8370d45a7665ecd500d5cae141360740",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959825,
+            "locality_id":1126051413,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1126051413,
+    "wof:lastmodified":1531171365,
+    "wof:name":"Begunje Na Gorenjskem",
+    "wof:parent_id":1108959825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.215536,
+    46.384241,
+    14.215536,
+    46.384241
+],
+  "geometry": {"coordinates":[14.215536,46.384241],"type":"Point"}
+}

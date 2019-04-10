@@ -1,0 +1,71 @@
+{
+  "id": 1243584541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.86833,45.69083,14.86833,45.69083",
+    "geom:latitude":45.69083,
+    "geom:longitude":14.86833,
+    "gn:admin1_code":"H7",
+    "gn:asciiname":"Mala Gora",
+    "gn:country_code":"SI",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195852,
+    "gn:latitude":45.69083,
+    "gn:longitude":14.86833,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Mala Gora",
+    "gn:population":8,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959919,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195852,
+        "wk:page":"Mala_Gora%2C_Ko%C4%8Devje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"dcce66c60b1f5faf381dad4f82903bd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959919,
+            "locality_id":1243584541,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1243584541,
+    "wof:lastmodified":1537573423,
+    "wof:name":"Mala Gora",
+    "wof:parent_id":1108959919,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.86833,
+    45.69083,
+    14.86833,
+    45.69083
+],
+  "geometry": {"coordinates":[14.86833,45.69083],"type":"Point"}
+}

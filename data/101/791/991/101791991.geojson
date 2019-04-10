@@ -1,0 +1,182 @@
+{
+  "id": 101791991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000185,
+    "geom:area_square_m":1566004.166356,
+    "geom:bbox":"16.2118476052,46.6748599458,16.2309931035,46.696978731",
+    "geom:latitude":46.684614,
+    "geom:longitude":16.221307,
+    "gn:elevation":203,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":700,
+    "gn:population":735,
+    "iso:country":"SI",
+    "lbl:latitude":46.682259,
+    "lbl:longitude":16.22051,
+    "mps:latitude":46.682259,
+    "mps:longitude":16.22051,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "name:deu_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "name:dut_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "name:eng_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "name:epo_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "name:fra_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "name:fre_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "name:ger_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "name:hbs_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "name:hrv_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "name:hun_x_preferred":[
+        "Als\u00f3mar\u00e1c"
+    ],
+    "name:ita_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30e9\u30d5\u30b9\u30b1\u30fb\u30c8\u30d7\u30ea\u30c4\u30a7"
+    ],
+    "name:kor_x_preferred":[
+        "\ubaa8\ub77c\ube0c\uc2a4\ucf00\ud1a0\ud50c\ub9ac\uccb4"
+    ],
+    "name:nld_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "name:por_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "name:ron_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "name:rum_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "name:slv_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "name:slv_x_variant":[
+        "Moravske-Toplice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u0440\u0430\u0432\u0441\u043a\u0435 \u0422\u043e\u043f\u043b\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0440\u0430\u0432\u0441\u044c\u043a\u0435 \u0422\u043e\u043f\u043b\u0438\u0446\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Moravci"
+    ],
+    "name:vie_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"Moravske Toplice",
+    "qs:la_lc":"*SI078000",
+    "qs:level":"locality",
+    "qs:loc":"Moravske Toplice",
+    "qs:loc_alt":"Moravske Toplice",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3194871,
+    "qs_pg:gn_pop":700,
+    "qs_pg:name":"Moravske Toplice",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Murska Sobota",
+    "qs_pg:photos":102,
+    "qs_pg:photos_1k":21,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":102,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1000583,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":15001052,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959925,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194871,
+        "gp:id":15001052,
+        "qs:id":1000583,
+        "qs_pg:id":1000583,
+        "wd:id":"Q678429",
+        "wk:page":"Moravske Toplice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4a40b51215c48373defd490cc8e75e47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959925,
+            "locality_id":101791991,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":101791991,
+    "wof:lastmodified":1534379460,
+    "wof:name":"Moravske Toplice",
+    "wof:parent_id":1108959925,
+    "wof:placetype":"locality",
+    "wof:population":735,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125995307
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.21184760516019,
+    46.67485994582074,
+    16.23099310345305,
+    46.69697873102785
+],
+  "geometry": {"coordinates":[[[16.23099310345305,46.69690322510655],[16.23078179120466,46.69510960161807],[16.22947927092139,46.69518510458795],[16.22916240254324,46.69249466040407],[16.230464857377,46.69241916186104],[16.2303592219788,46.69152234740204],[16.22775435258325,46.69167332579292],[16.22764876541737,46.69077650778001],[16.22374150159237,46.6910028528585],[16.22310846784768,46.68562190557236],[16.22701533907332,46.68539558703031],[16.22712089862642,46.68629240866414],[16.22972550628447,46.68614144797397],[16.2295143045493,46.68434781000212],[16.22821204601343,46.68442329526852],[16.22800090630022,46.6826296519319],[16.22669868802075,46.68270511850733],[16.22606551011557,46.67732416515844],[16.22866968169444,46.67717323395919],[16.2285641245428,46.67627640923553],[16.22205377944351,46.6766536118169],[16.22184289691785,46.67485994582074],[16.2205408614393,46.67493533617301],[16.22085712672435,46.67762583867966],[16.21434657210341,46.67800257643103],[16.2144518940475,46.67889941675196],[16.21184760516019,46.67905000461241],[16.21216346771087,46.68174053078206],[16.21346567924058,46.68166524030954],[16.21357099774207,46.68256207968864],[16.21617545436987,46.68241144857592],[16.21649156826527,46.68510195426512],[16.21518927620281,46.6851772821077],[16.21529463487838,46.68607411760303],[16.21399231765736,46.68614943117456],[16.21409765911488,46.68704626753851],[16.21670233382849,46.6868956217088],[16.21701851662846,46.68958611835171],[16.21441371104123,46.68973677301307],[16.21462443528975,46.6915304403156],[16.21722932813537,46.69137977976578],[16.21733474078161,46.69227660956858],[16.21863720399358,46.69220125420378],[16.21874264305228,46.69309808193105],[16.22004512472876,46.69302270934804],[16.21993966385372,46.69212588309387],[16.22384702331493,46.69189967529491],[16.22395254963772,46.69279649712803],[16.22655748280306,46.69264561025597],[16.22676863651839,46.69443924621555],[16.22807114169996,46.69436377621219],[16.2282823574638,46.69615740680911],[16.22958490292388,46.69608191810954],[16.22969053953233,46.69697873102785],[16.23099310345305,46.69690322510655]]],"type":"Polygon"}
+}

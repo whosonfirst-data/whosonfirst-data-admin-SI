@@ -1,0 +1,75 @@
+{
+  "id": 1309842829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.1075,46.59944,16.1075,46.59944",
+    "geom:latitude":46.59944,
+    "geom:longitude":16.1075,
+    "gn:admin1_code":"I1",
+    "gn:asciiname":"Vucja Vas",
+    "gn:country_code":"SI",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187083,
+    "gn:latitude":46.59944,
+    "gn:longitude":16.1075,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Vu\u010dja Vas",
+    "gn:population":252,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vu\u010dja Ves",
+        "Vu\u010dja Vas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959775,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187083,
+        "wk:page":"Vu%C4%8Dja_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"067815c366c0ec6ae24f9a1835b4cb9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959775,
+            "locality_id":1309842829,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1309842829,
+    "wof:lastmodified":1537700172,
+    "wof:name":"Vucja Vas",
+    "wof:parent_id":1108959775,
+    "wof:placetype":"locality",
+    "wof:population":252,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.1075,
+    46.59944,
+    16.1075,
+    46.59944
+],
+  "geometry": {"coordinates":[16.1075,46.59944],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343894271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.82278,45.77278,13.82278,45.77278",
+    "geom:latitude":45.77278,
+    "geom:longitude":13.82278,
+    "gn:admin1_code":"B7",
+    "gn:asciiname":"Skopo",
+    "gn:country_code":"SI",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190704,
+    "gn:latitude":45.77278,
+    "gn:longitude":13.82278,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Skopo",
+    "gn:population":230,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Scoppo",
+        "Scopo",
+        "Skopo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959789,
+        85633779,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190704,
+        "wk:page":"Skopo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"cdb48144c4da4172fa78d2788b070fe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959789,
+            "locality_id":1343894271,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":1343894271,
+    "wof:lastmodified":1537700193,
+    "wof:name":"Skopo",
+    "wof:parent_id":1108959789,
+    "wof:placetype":"locality",
+    "wof:population":230,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.82278,
+    45.77278,
+    13.82278,
+    45.77278
+],
+  "geometry": {"coordinates":[13.82278,45.77278],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1344092775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.59779,45.86546,14.59779,45.86546",
+    "geom:latitude":45.86546,
+    "geom:longitude":14.59779,
+    "gn:admin1_code":"D8",
+    "gn:asciiname":"Javorje",
+    "gn:country_code":"SI",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989904,
+    "gn:latitude":45.86546,
+    "gn:longitude":14.59779,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Javorje",
+    "gn:population":12,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959859,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989904,
+        "wk:page":"Javorje%2C_Velike_La%C5%A1%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"18924e1aa06c73e5710231a39e11b458",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959859,
+            "locality_id":1344092775,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1344092775,
+    "wof:lastmodified":1537573556,
+    "wof:name":"Javorje",
+    "wof:parent_id":1108959859,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.59779,
+    45.86546,
+    14.59779,
+    45.86546
+],
+  "geometry": {"coordinates":[14.59779,45.86546],"type":"Point"}
+}

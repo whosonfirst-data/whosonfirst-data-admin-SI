@@ -1,0 +1,74 @@
+{
+  "id": 1276962485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.01364,46.13219,14.01364,46.13219",
+    "geom:latitude":46.13219,
+    "geom:longitude":14.01364,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Ceplez",
+    "gn:country_code":"SI",
+    "gn:dem":683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988196,
+    "gn:latitude":46.13219,
+    "gn:longitude":14.01364,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u010ceplez",
+    "gn:population":65,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010ceplez"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959577,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988196,
+        "wk:page":"%C4%8Ceplez"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9c51e1c38aba84c2bd3d95b46db73759",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959577,
+            "locality_id":1276962485,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1276962485,
+    "wof:lastmodified":1537700301,
+    "wof:name":"Ceplez",
+    "wof:parent_id":1108959577,
+    "wof:placetype":"locality",
+    "wof:population":65,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.01364,
+    46.13219,
+    14.01364,
+    46.13219
+],
+  "geometry": {"coordinates":[14.01364,46.13219],"type":"Point"}
+}

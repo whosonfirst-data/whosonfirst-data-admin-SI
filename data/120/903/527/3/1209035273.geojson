@@ -1,0 +1,67 @@
+{
+  "id": 1209035273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.48333,46.13333,14.48333,46.13333",
+    "geom:latitude":46.13333,
+    "geom:longitude":14.48333,
+    "gn:admin1_code":"61",
+    "gn:asciiname":"Smartno pod Smarno Goro",
+    "gn:country_code":"SI",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190496,
+    "gn:latitude":46.13333,
+    "gn:longitude":14.48333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0160martno pod \u0160marno Goro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160martno",
+        "\u0160martin",
+        "\u0160martno pod \u0160marno Goro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190496,
+        "wk:page":"%C5%A0martno_pod_%C5%A0marno_Goro"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"52ea3d4534eead8a9b2a72423464caef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209035273
+        }
+    ],
+    "wof:id":1209035273,
+    "wof:lastmodified":1537700191,
+    "wof:name":"Smartno pod Smarno Goro",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.48333,
+    46.13333,
+    14.48333,
+    46.13333
+],
+  "geometry": {"coordinates":[14.48333,46.13333],"type":"Point"}
+}

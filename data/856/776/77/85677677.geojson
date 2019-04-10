@@ -1,0 +1,229 @@
+{
+  "id": 85677677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.018287,
+    "geom:area_square_m":157832220.417006,
+    "geom:bbox":"14.5869962912,45.6395401073,14.8223824397,45.8179788276",
+    "geom:latitude":45.730558,
+    "geom:longitude":14.722665,
+    "gn:id":"",
+    "gn:population":9333,
+    "iso:country":"SI",
+    "lbl:latitude":45.725361,
+    "lbl:longitude":14.724448,
+    "mps:latitude":45.725361,
+    "mps:longitude":14.724448,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ces_x_preferred":[
+        "Ob\u010dina Ribnica"
+    ],
+    "name:deu_x_preferred":[
+        "Ribnica"
+    ],
+    "name:eng_x_preferred":[
+        "Ribnica"
+    ],
+    "name:fra_x_preferred":[
+        "Ribnica"
+    ],
+    "name:hbs_x_preferred":[
+        "Ribnica"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Ribnica"
+    ],
+    "name:ita_x_preferred":[
+        "Ribnica"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30d6\u30cb\u30c4\u30a1"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9ac\ube0c\ub2c8\ucc28"
+    ],
+    "name:lmo_x_preferred":[
+        "Ribenizza"
+    ],
+    "name:nld_x_preferred":[
+        "Ribnica"
+    ],
+    "name:pms_x_preferred":[
+        "Ribnica"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Ribnica"
+    ],
+    "name:por_x_preferred":[
+        "Ribnica"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Ribnica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u0431\u043d\u0438\u0446\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Municipality o Ribnica"
+    ],
+    "name:slk_x_preferred":[
+        "Ribnica"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Ribnica"
+    ],
+    "name:spa_x_preferred":[
+        "Ribnica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0420\u0438\u0431\u043d\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Ribnica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0438\u0431\u043d\u0438\u0446\u044f"
+    ],
+    "name:und_x_preferred":[
+        "Ribnica"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Ribnica"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u5e03\u5c3c\u5bdf"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-218",
+    "ne:adm1_code":"SVN-218",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SI.LJ.RI",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"218",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SIL1",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.L1",
+    "ne:gn_id":"3191679",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Ribnica",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI00",
+    "ne:gns_id":"-94372",
+    "ne:gns_lang":"sqi",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Ribnica, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"45.74130000000",
+    "ne:longitude":"14.70470000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Ribnica",
+    "ne:name_alt":"",
+    "ne:name_len":7,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"RI",
+    "ne:provnum_ne":"31",
+    "ne:region":"Jugovzhodna Slovenija",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Opcine",
+    "ne:type_en":"Commune|Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":55848381,
+    "ne:woe_label":"Ribnica, SI, Slovenia",
+    "ne:woe_name":"Ribnica",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Ribnica",
+    "qs:a1_lc":"SVN-218",
+    "qs:a1r":"Jugovzhodna Slovenija",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Commune|Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":174,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06f06060-8f76-11e1-848f-cfd5bf3ef515",
+        "fips:code":"SIL1",
+        "gn:id":3191679,
+        "gp:id":55848381,
+        "hasc:id":"SI.LJ.RI",
+        "qs:id":1137700,
+        "wd:id":"Q15912",
+        "wk:page":"Municipality of Ribnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8628cb657ce1e5a0f00a6269e420f9b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677677
+        }
+    ],
+    "wof:id":85677677,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616731,
+    "wof:name":"Ribnica",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:population":9333,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[
+        1108959599
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.5869962912459,
+    45.63954010729014,
+    14.82238243969789,
+    45.81797882756092
+],
+  "geometry": {"coordinates":[[[14.79587243036843,45.7430996768087],[14.82238243969789,45.72785513031005],[14.78936120025924,45.67411164033996],[14.78827599464148,45.66346629513345],[14.77783735500998,45.64868683482962],[14.77070600817581,45.64186554635791],[14.75473799036604,45.63954010729014],[14.73179365355429,45.64698151338621],[14.73520429913913,45.65214915635852],[14.73458418061551,45.65555980104403],[14.73520429913913,45.65948721056634],[14.73303388790367,45.6642156030677],[14.73117353682932,45.6673161893907],[14.72057986756687,45.66977082056695],[14.70802249534194,45.67555858026429],[14.6765515477158,45.68310333914786],[14.66719811370206,45.68940786458131],[14.64626915939425,45.70749461498457],[14.65758629726986,45.71457428587462],[14.66378746901654,45.72315257443182],[14.67748172370261,45.75064443569221],[14.67810184132696,45.75953278351119],[14.67515628373553,45.76764598227629],[14.66859337678295,45.77028147970657],[14.66301232266062,45.77203847889274],[14.64378868979622,45.77454478601311],[14.62347985221345,45.77953156183219],[14.61397138766944,45.78077179618151],[14.60916547990303,45.78190867774333],[14.59955366437015,45.78555186642552],[14.5869962912459,45.79343252209327],[14.62782067198646,45.7983417835465],[14.65448571094686,45.80516307201822],[14.67045372875663,45.8141806101471],[14.68771365685984,45.81797882756092],[14.79587243036843,45.7430996768087]]],"type":"Polygon"}
+}

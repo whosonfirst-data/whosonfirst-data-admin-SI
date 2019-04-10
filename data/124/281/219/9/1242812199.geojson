@@ -1,0 +1,74 @@
+{
+  "id": 1242812199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.83637,46.52231,14.83637,46.52231",
+    "geom:latitude":46.52231,
+    "geom:longitude":14.83637,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Podkraj pri Mezici",
+    "gn:country_code":"SI",
+    "gn:dem":620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987692,
+    "gn:latitude":46.52231,
+    "gn:longitude":14.83637,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Podkraj pri Me\u017eici",
+    "gn:population":113,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Podkraj pri Me\u017eici"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959479,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987692,
+        "wk:page":"Podkraj_pri_Me%C5%BEici"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fb1c17406f3506e4a3b877b7564ffd29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959479,
+            "locality_id":1242812199,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1242812199,
+    "wof:lastmodified":1537700291,
+    "wof:name":"Podkraj pri Mezici",
+    "wof:parent_id":1108959479,
+    "wof:placetype":"locality",
+    "wof:population":113,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.83637,
+    46.52231,
+    14.83637,
+    46.52231
+],
+  "geometry": {"coordinates":[14.83637,46.52231],"type":"Point"}
+}

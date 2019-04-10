@@ -1,0 +1,74 @@
+{
+  "id": 1260317915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.93953,45.90844,14.93953,45.90844",
+    "geom:latitude":45.90844,
+    "geom:longitude":14.93953,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Krusni Vrh",
+    "gn:country_code":"SI",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988770,
+    "gn:latitude":45.90844,
+    "gn:longitude":14.93953,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kru\u0161ni Vrh",
+    "gn:population":33,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kru\u0161ni Vrh"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959839,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988770,
+        "wk:page":"Kru%C5%A1ni_Vrh"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9907e7fe92c6a3a4bcdf02a171f700d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959839,
+            "locality_id":1260317915,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1260317915,
+    "wof:lastmodified":1537700313,
+    "wof:name":"Krusni Vrh",
+    "wof:parent_id":1108959839,
+    "wof:placetype":"locality",
+    "wof:population":33,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.93953,
+    45.90844,
+    14.93953,
+    45.90844
+],
+  "geometry": {"coordinates":[14.93953,45.90844],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209348327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.63271,46.47963,15.63271,46.47963",
+    "geom:latitude":46.47963,
+    "geom:longitude":15.63271,
+    "gn:admin1_code":"H1",
+    "gn:asciiname":"Creta",
+    "gn:country_code":"SI",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987019,
+    "gn:latitude":46.47963,
+    "gn:longitude":15.63271,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"\u010creta",
+    "gn:population":329,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010creta"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987019,
+        "wk:page":"%C4%8Creta%2C_Ho%C4%8De%E2%80%93Slivnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4944380419ad46308203803ee783756f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209348327
+        }
+    ],
+    "wof:id":1209348327,
+    "wof:lastmodified":1537700278,
+    "wof:name":"Creta",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":329,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.63271,
+    46.47963,
+    15.63271,
+    46.47963
+],
+  "geometry": {"coordinates":[15.63271,46.47963],"type":"Point"}
+}

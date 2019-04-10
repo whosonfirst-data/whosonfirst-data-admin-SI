@@ -1,0 +1,72 @@
+{
+  "id": 1343495503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.48333,46.23333,15.48333,46.23333",
+    "geom:latitude":46.23333,
+    "geom:longitude":15.48333,
+    "gn:admin1_code":"C5",
+    "gn:asciiname":"Sentvid pri Planini",
+    "gn:country_code":"SI",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191020,
+    "gn:latitude":46.23333,
+    "gn:longitude":15.48333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0160entvid pri Planini",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sveti Vid",
+        "\u0160entvid",
+        "\u0160entvid pri Planini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959607,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191020
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c7b7c229e2cfa552a4bdffc802cccd4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959607,
+            "locality_id":1343495503,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1343495503,
+    "wof:lastmodified":1537700194,
+    "wof:name":"Sentvid pri Planini",
+    "wof:parent_id":1108959607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.48333,
+    46.23333,
+    15.48333,
+    46.23333
+],
+  "geometry": {"coordinates":[15.48333,46.23333],"type":"Point"}
+}

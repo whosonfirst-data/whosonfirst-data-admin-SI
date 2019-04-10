@@ -1,0 +1,74 @@
+{
+  "id": 1209950507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56594,46.12032,15.56594,46.12032",
+    "geom:latitude":46.12032,
+    "geom:longitude":15.56594,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Verace",
+    "gn:country_code":"SI",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987795,
+    "gn:latitude":46.12032,
+    "gn:longitude":15.56594,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Vera\u010de",
+    "gn:population":103,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vera\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959649,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987795,
+        "wk:page":"Vera%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"4dee8f63c1d91285e9c344d1f9b8c9f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959649,
+            "locality_id":1209950507,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1209950507,
+    "wof:lastmodified":1537700293,
+    "wof:name":"Verace",
+    "wof:parent_id":1108959649,
+    "wof:placetype":"locality",
+    "wof:population":103,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56594,
+    46.12032,
+    15.56594,
+    46.12032
+],
+  "geometry": {"coordinates":[15.56594,46.12032],"type":"Point"}
+}

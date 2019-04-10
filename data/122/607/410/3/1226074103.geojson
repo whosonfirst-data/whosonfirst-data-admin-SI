@@ -1,0 +1,71 @@
+{
+  "id": 1226074103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.64083,45.64806,14.64083,45.64806",
+    "geom:latitude":45.64806,
+    "geom:longitude":14.64083,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Podpreska",
+    "gn:country_code":"SI",
+    "gn:dem":753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192938,
+    "gn:latitude":45.64806,
+    "gn:longitude":14.64083,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Podpreska",
+    "gn:population":118,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959513,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192938,
+        "wk:page":"Podpreska"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a2c75d2de30da56e18ecd040bf387c79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959513,
+            "locality_id":1226074103,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1226074103,
+    "wof:lastmodified":1537573412,
+    "wof:name":"Podpreska",
+    "wof:parent_id":1108959513,
+    "wof:placetype":"locality",
+    "wof:population":118,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.64083,
+    45.64806,
+    14.64083,
+    45.64806
+],
+  "geometry": {"coordinates":[14.64083,45.64806],"type":"Point"}
+}

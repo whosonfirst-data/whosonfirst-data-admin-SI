@@ -1,0 +1,74 @@
+{
+  "id": 1344133131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.17073,45.52955,15.17073,45.52955",
+    "geom:latitude":45.52955,
+    "geom:longitude":15.17073,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Sela pri Dragatusu",
+    "gn:country_code":"SI",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989827,
+    "gn:latitude":45.52955,
+    "gn:longitude":15.17073,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Sela pri Dragatu\u0161u",
+    "gn:population":76,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sela pri Dragatu\u0161u"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959699,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989827,
+        "wk:page":"Sela_pri_Dragatu%C5%A1u"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"bac24b7390058a5d98629310307a87c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959699,
+            "locality_id":1344133131,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1344133131,
+    "wof:lastmodified":1537700334,
+    "wof:name":"Sela pri Dragatusu",
+    "wof:parent_id":1108959699,
+    "wof:placetype":"locality",
+    "wof:population":76,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.17073,
+    45.52955,
+    15.17073,
+    45.52955
+],
+  "geometry": {"coordinates":[15.17073,45.52955],"type":"Point"}
+}

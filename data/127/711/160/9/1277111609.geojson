@@ -1,0 +1,72 @@
+{
+  "id": 1277111609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.26639,46.31667,15.26639,46.31667",
+    "geom:latitude":46.31667,
+    "geom:longitude":15.26639,
+    "gn:admin1_code":"N3",
+    "gn:asciiname":"Lemberg pri Strmcu",
+    "gn:country_code":"SI",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196688,
+    "gn:latitude":46.31667,
+    "gn:longitude":15.26639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Lemberg pri Strmcu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lemberk",
+        "Lemberg",
+        "Lemberg pri Strmcu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959653,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196688
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"0fa9bc0686c0e3eb76f245d5f6ce2770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959653,
+            "locality_id":1277111609,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1277111609,
+    "wof:lastmodified":1537700226,
+    "wof:name":"Lemberg pri Strmcu",
+    "wof:parent_id":1108959653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.26639,
+    46.31667,
+    15.26639,
+    46.31667
+],
+  "geometry": {"coordinates":[15.26639,46.31667],"type":"Point"}
+}

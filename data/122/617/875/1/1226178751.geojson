@@ -1,0 +1,74 @@
+{
+  "id": 1226178751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.38975,45.66018,15.38975,45.66018",
+    "geom:latitude":45.66018,
+    "geom:longitude":15.38975,
+    "gn:admin1_code":"73",
+    "gn:asciiname":"Krmacina",
+    "gn:country_code":"SI",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989700,
+    "gn:latitude":45.66018,
+    "gn:longitude":15.38975,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Krma\u010dina",
+    "gn:population":20,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Krma\u010dina"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959909,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989700,
+        "wk:page":"Krma%C4%8Dina"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d980a387e35c82f693398c01ebc8586c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959909,
+            "locality_id":1226178751,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1226178751,
+    "wof:lastmodified":1537700331,
+    "wof:name":"Krmacina",
+    "wof:parent_id":1108959909,
+    "wof:placetype":"locality",
+    "wof:population":20,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.38975,
+    45.66018,
+    15.38975,
+    45.66018
+],
+  "geometry": {"coordinates":[15.38975,45.66018],"type":"Point"}
+}

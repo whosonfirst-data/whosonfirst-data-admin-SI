@@ -1,0 +1,71 @@
+{
+  "id": 1276906261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.23185,46.50002,16.23185,46.50002",
+    "geom:latitude":46.50002,
+    "geom:longitude":16.23185,
+    "gn:admin1_code":"I6",
+    "gn:asciiname":"Nunska Graba",
+    "gn:country_code":"SI",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987362,
+    "gn:latitude":46.50002,
+    "gn:longitude":16.23185,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Nunska Graba",
+    "gn:population":165,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959499,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987362,
+        "wk:page":"Nunska_Graba"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1334fe96544dd6f838a9d7e9eda1f50e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959499,
+            "locality_id":1276906261,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1276906261,
+    "wof:lastmodified":1537573477,
+    "wof:name":"Nunska Graba",
+    "wof:parent_id":1108959499,
+    "wof:placetype":"locality",
+    "wof:population":165,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.23185,
+    46.50002,
+    16.23185,
+    46.50002
+],
+  "geometry": {"coordinates":[16.23185,46.50002],"type":"Point"}
+}

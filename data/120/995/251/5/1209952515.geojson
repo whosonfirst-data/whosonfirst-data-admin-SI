@@ -1,0 +1,74 @@
+{
+  "id": 1209952515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.23164,46.18233,14.23164,46.18233",
+    "geom:latitude":46.18233,
+    "geom:longitude":14.23164,
+    "gn:admin1_code":"B9",
+    "gn:asciiname":"Spodnja Lusa",
+    "gn:country_code":"SI",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190242,
+    "gn:latitude":46.18233,
+    "gn:longitude":14.23164,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Spodnja Lu\u0161a",
+    "gn:population":147,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Spodnja Lu\u0161a"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959821,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190242,
+        "wk:page":"Spodnja_Lu%C5%A1a"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5a323d6ee9283b875b448e8e25206d5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959821,
+            "locality_id":1209952515,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1209952515,
+    "wof:lastmodified":1537700189,
+    "wof:name":"Spodnja Lusa",
+    "wof:parent_id":1108959821,
+    "wof:placetype":"locality",
+    "wof:population":147,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.23164,
+    46.18233,
+    14.23164,
+    46.18233
+],
+  "geometry": {"coordinates":[14.23164,46.18233],"type":"Point"}
+}

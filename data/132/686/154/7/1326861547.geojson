@@ -1,0 +1,71 @@
+{
+  "id": 1326861547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.86444,45.81611,14.86444,45.81611",
+    "geom:latitude":45.81611,
+    "geom:longitude":14.86444,
+    "gn:admin1_code":"N8",
+    "gn:asciiname":"Visejec",
+    "gn:country_code":"SI",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187680,
+    "gn:latitude":45.81611,
+    "gn:longitude":14.86444,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Visejec",
+    "gn:population":88,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959787,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187680,
+        "wk:page":"Visejec"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"02d07fa81a4899e2ab3daebfd7b64e95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959787,
+            "locality_id":1326861547,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1326861547,
+    "wof:lastmodified":1537573387,
+    "wof:name":"Visejec",
+    "wof:parent_id":1108959787,
+    "wof:placetype":"locality",
+    "wof:population":88,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.86444,
+    45.81611,
+    14.86444,
+    45.81611
+],
+  "geometry": {"coordinates":[14.86444,45.81611],"type":"Point"}
+}

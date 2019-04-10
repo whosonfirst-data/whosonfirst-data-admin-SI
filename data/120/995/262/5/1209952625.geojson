@@ -1,0 +1,71 @@
+{
+  "id": 1209952625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.93545,46.57978,14.93545,46.57978",
+    "geom:latitude":46.57978,
+    "geom:longitude":14.93545,
+    "gn:admin1_code":"K6",
+    "gn:asciiname":"Zelen Breg",
+    "gn:country_code":"SI",
+    "gn:dem":710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186620,
+    "gn:latitude":46.57978,
+    "gn:longitude":14.93545,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Zelen Breg",
+    "gn:population":162,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959643,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186620,
+        "wk:page":"Zelen_Breg"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"5c84703e2b9c3b2edd07f4bd735fbc33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959643,
+            "locality_id":1209952625,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1209952625,
+    "wof:lastmodified":1537573382,
+    "wof:name":"Zelen Breg",
+    "wof:parent_id":1108959643,
+    "wof:placetype":"locality",
+    "wof:population":162,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.93545,
+    46.57978,
+    14.93545,
+    46.57978
+],
+  "geometry": {"coordinates":[14.93545,46.57978],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1243349805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.46917,45.76222,14.46917,45.76222",
+    "geom:latitude":45.76222,
+    "geom:longitude":14.46917,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Bloska Polica",
+    "gn:country_code":"SI",
+    "gn:dem":719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203897,
+    "gn:latitude":45.76222,
+    "gn:longitude":14.46917,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Blo\u0161ka Polica",
+    "gn:population":69,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Blo\u0161ka",
+        "Bloschkapoliza",
+        "Blo\u0161ka Polica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959905,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203897,
+        "wk:page":"Blo%C5%A1ka_Polica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"aacc51cfd680e3e3330786cd1592b28f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959905,
+            "locality_id":1243349805,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1243349805,
+    "wof:lastmodified":1537700264,
+    "wof:name":"Bloska Polica",
+    "wof:parent_id":1108959905,
+    "wof:placetype":"locality",
+    "wof:population":69,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.46917,
+    45.76222,
+    14.46917,
+    45.76222
+],
+  "geometry": {"coordinates":[14.46917,45.76222],"type":"Point"}
+}

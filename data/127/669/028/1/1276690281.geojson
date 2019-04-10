@@ -1,0 +1,74 @@
+{
+  "id": 1276690281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.54361,46.20627,15.54361,46.20627",
+    "geom:latitude":46.20627,
+    "geom:longitude":15.54361,
+    "gn:admin1_code":"C5",
+    "gn:asciiname":"Konusko",
+    "gn:country_code":"SI",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988992,
+    "gn:latitude":46.20627,
+    "gn:longitude":15.54361,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Konu\u0161ko",
+    "gn:population":23,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Konu\u0161ko"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959607,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988992,
+        "wk:page":"Konu%C5%A1ko"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"f4496ed3a875a5bf22d652b2f30d18ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959607,
+            "locality_id":1276690281,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1276690281,
+    "wof:lastmodified":1537700317,
+    "wof:name":"Konusko",
+    "wof:parent_id":1108959607,
+    "wof:placetype":"locality",
+    "wof:population":23,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.54361,
+    46.20627,
+    15.54361,
+    46.20627
+],
+  "geometry": {"coordinates":[15.54361,46.20627],"type":"Point"}
+}

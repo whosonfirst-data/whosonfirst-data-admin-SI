@@ -1,0 +1,67 @@
+{
+  "id": 1293043939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.48556,45.90389,14.48556,45.90389",
+    "geom:latitude":45.90389,
+    "geom:longitude":14.48556,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Benko",
+    "gn:country_code":"SI",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204294,
+    "gn:latitude":45.90389,
+    "gn:longitude":14.48556,
+    "gn:modification_date":"2008-11-06",
+    "gn:name":"Benko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959887,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204294
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ef95c0dbc3f5568c541bd95dd3b0b4d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959887,
+            "locality_id":1293043939,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1293043939,
+    "wof:lastmodified":1536930391,
+    "wof:name":"Benko",
+    "wof:parent_id":1108959887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.48556,
+    45.90389,
+    14.48556,
+    45.90389
+],
+  "geometry": {"coordinates":[14.48556,45.90389],"type":"Point"}
+}

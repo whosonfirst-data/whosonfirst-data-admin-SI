@@ -1,0 +1,71 @@
+{
+  "id": 1242907829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.76667,46.23333,15.76667,46.23333",
+    "geom:latitude":46.23333,
+    "geom:longitude":15.76667,
+    "gn:admin1_code":"A8",
+    "gn:asciiname":"Log",
+    "gn:country_code":"SI",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196293,
+    "gn:latitude":46.23333,
+    "gn:longitude":15.76667,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Log",
+    "gn:population":237,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959609,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196293,
+        "wk:page":"Log%2C_Rogatec"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d523e2650a4f01e5b23970784cce9949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959609,
+            "locality_id":1242907829,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1242907829,
+    "wof:lastmodified":1537573425,
+    "wof:name":"Log",
+    "wof:parent_id":1108959609,
+    "wof:placetype":"locality",
+    "wof:population":237,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.76667,
+    46.23333,
+    15.76667,
+    46.23333
+],
+  "geometry": {"coordinates":[15.76667,46.23333],"type":"Point"}
+}

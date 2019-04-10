@@ -1,0 +1,65 @@
+{
+  "id": 1209136957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.60435,46.45851,15.60435,46.45851",
+    "geom:latitude":46.45851,
+    "geom:longitude":15.60435,
+    "gn:admin1_code":"98",
+    "gn:asciiname":"Kopivnik",
+    "gn:country_code":"SI",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987176,
+    "gn:latitude":46.45851,
+    "gn:longitude":15.60435,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Kopivnik",
+    "gn:population":231,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987176,
+        "wk:page":"Kopivnik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3e2b1b079d8ee2831ba4c2968c119a5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209136957
+        }
+    ],
+    "wof:id":1209136957,
+    "wof:lastmodified":1537573471,
+    "wof:name":"Kopivnik",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":231,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.60435,
+    46.45851,
+    15.60435,
+    46.45851
+],
+  "geometry": {"coordinates":[15.60435,46.45851],"type":"Point"}
+}

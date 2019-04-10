@@ -1,0 +1,74 @@
+{
+  "id": 1226378427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.18309,46.05385,15.18309,46.05385",
+    "geom:latitude":46.05385,
+    "geom:longitude":15.18309,
+    "gn:admin1_code":"99",
+    "gn:asciiname":"Loska Gora",
+    "gn:country_code":"SI",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989662,
+    "gn:latitude":46.05385,
+    "gn:longitude":15.18309,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Lo\u0161ka Gora",
+    "gn:population":9,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lo\u0161ka Gora"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959883,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989662,
+        "wk:page":"Lo%C5%A1ka_Gora%2C_Rade%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"617f6bf30a1ecb094d2e25be9e0791f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959883,
+            "locality_id":1226378427,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1226378427,
+    "wof:lastmodified":1537700331,
+    "wof:name":"Loska Gora",
+    "wof:parent_id":1108959883,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.18309,
+    46.05385,
+    15.18309,
+    46.05385
+],
+  "geometry": {"coordinates":[15.18309,46.05385],"type":"Point"}
+}

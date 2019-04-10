@@ -1,0 +1,74 @@
+{
+  "id": 1193172001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.48842,46.36201,15.48842,46.36201",
+    "geom:latitude":46.36201,
+    "geom:longitude":15.48842,
+    "gn:admin1_code":"J8",
+    "gn:asciiname":"Zgornje Grusovje",
+    "gn:country_code":"SI",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989505,
+    "gn:latitude":46.36201,
+    "gn:longitude":15.48842,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Zgornje Gru\u0161ovje",
+    "gn:population":116,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zgornje Gru\u0161ovje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959737,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989505,
+        "wk:page":"Zgornje_Gru%C5%A1ovje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8443599b6d83c161b973af996caf74b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959737,
+            "locality_id":1193172001,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1193172001,
+    "wof:lastmodified":1537700327,
+    "wof:name":"Zgornje Grusovje",
+    "wof:parent_id":1108959737,
+    "wof:placetype":"locality",
+    "wof:population":116,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.48842,
+    46.36201,
+    15.48842,
+    46.36201
+],
+  "geometry": {"coordinates":[15.48842,46.36201],"type":"Point"}
+}

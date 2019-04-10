@@ -1,0 +1,65 @@
+{
+  "id": 1209243463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.19281,46.59271,15.19281,46.59271",
+    "geom:latitude":46.59271,
+    "geom:longitude":15.19281,
+    "gn:admin1_code":"E6",
+    "gn:asciiname":"Sv. Vid",
+    "gn:country_code":"SI",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986971,
+    "gn:latitude":46.59271,
+    "gn:longitude":15.19281,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Sv. Vid",
+    "gn:population":408,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986971,
+        "wk:page":"Sveti_Vid%2C_Vuzenica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"3da0657760ae491b74ffb211b2ad3ff3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209243463
+        }
+    ],
+    "wof:id":1209243463,
+    "wof:lastmodified":1537573465,
+    "wof:name":"Sv. Vid",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":408,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.19281,
+    46.59271,
+    15.19281,
+    46.59271
+],
+  "geometry": {"coordinates":[15.19281,46.59271],"type":"Point"}
+}

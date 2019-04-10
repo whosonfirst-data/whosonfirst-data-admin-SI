@@ -1,0 +1,71 @@
+{
+  "id": 1243298795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.34374,45.99927,15.34374,45.99927",
+    "geom:latitude":45.99927,
+    "geom:longitude":15.34374,
+    "gn:admin1_code":"B6",
+    "gn:asciiname":"Gornje Brezovo",
+    "gn:country_code":"SI",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989851,
+    "gn:latitude":45.99927,
+    "gn:longitude":15.34374,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Gornje Brezovo",
+    "gn:population":57,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959927,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989851,
+        "wk:page":"Gornje_Brezovo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d3ff5f3a28daaf598360fa587d5b2959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959927,
+            "locality_id":1243298795,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1243298795,
+    "wof:lastmodified":1537573554,
+    "wof:name":"Gornje Brezovo",
+    "wof:parent_id":1108959927,
+    "wof:placetype":"locality",
+    "wof:population":57,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.34374,
+    45.99927,
+    15.34374,
+    45.99927
+],
+  "geometry": {"coordinates":[15.34374,45.99927],"type":"Point"}
+}

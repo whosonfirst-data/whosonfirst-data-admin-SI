@@ -1,0 +1,71 @@
+{
+  "id": 1309927179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.49346,45.99512,13.49346,45.99512",
+    "geom:latitude":45.99512,
+    "geom:longitude":13.49346,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Barbana",
+    "gn:country_code":"SI",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988247,
+    "gn:latitude":45.99512,
+    "gn:longitude":13.49346,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Barbana",
+    "gn:population":61,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959811,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988247,
+        "wk:page":"Barbana%2C_Brda"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"eb543f89af90e74bf0c66443b6a5100f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959811,
+            "locality_id":1309927179,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1309927179,
+    "wof:lastmodified":1537573506,
+    "wof:name":"Barbana",
+    "wof:parent_id":1108959811,
+    "wof:placetype":"locality",
+    "wof:population":61,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.49346,
+    45.99512,
+    13.49346,
+    45.99512
+],
+  "geometry": {"coordinates":[13.49346,45.99512],"type":"Point"}
+}

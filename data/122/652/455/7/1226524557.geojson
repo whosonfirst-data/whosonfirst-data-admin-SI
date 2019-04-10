@@ -1,0 +1,74 @@
+{
+  "id": 1226524557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.88215,46.48389,14.88215,46.48389",
+    "geom:latitude":46.48389,
+    "geom:longitude":14.88215,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Zerjav",
+    "gn:country_code":"SI",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986982,
+    "gn:latitude":46.48389,
+    "gn:longitude":14.88215,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"\u017derjav",
+    "gn:population":389,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017derjav"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959573,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986982,
+        "wk:page":"%C5%BDerjav%2C_%C4%8Crna_na_Koro%C5%A1kem"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"7d3d27bacc250325ad2ce22a83fcf899",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959573,
+            "locality_id":1226524557,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1226524557,
+    "wof:lastmodified":1537700277,
+    "wof:name":"Zerjav",
+    "wof:parent_id":1108959573,
+    "wof:placetype":"locality",
+    "wof:population":389,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.88215,
+    46.48389,
+    14.88215,
+    46.48389
+],
+  "geometry": {"coordinates":[14.88215,46.48389],"type":"Point"}
+}

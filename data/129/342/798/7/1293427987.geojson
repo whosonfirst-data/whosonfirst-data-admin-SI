@@ -1,0 +1,77 @@
+{
+  "id": 1293427987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.76896,46.04667,13.76896,46.04667",
+    "geom:latitude":46.04667,
+    "geom:longitude":13.76896,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Lokovec",
+    "gn:country_code":"SI",
+    "gn:dem":878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196258,
+    "gn:latitude":46.04667,
+    "gn:longitude":13.76896,
+    "gn:modification_date":"2015-10-13",
+    "gn:name":"Lokovec",
+    "gn:population":281,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:slv_x_historical":[
+        "Pri Cerkvi"
+    ],
+    "name:slv_x_preferred":[
+        "Pri Cerkvi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959487,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196258,
+        "wk:page":"Lokovec"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"a6fde479a2733806eefb50e1467444ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959487,
+            "locality_id":1293427987,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1293427987,
+    "wof:lastmodified":1537700223,
+    "wof:name":"Lokovec",
+    "wof:parent_id":1108959487,
+    "wof:placetype":"locality",
+    "wof:population":281,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.76896,
+    46.04667,
+    13.76896,
+    46.04667
+],
+  "geometry": {"coordinates":[13.76896,46.04667],"type":"Point"}
+}

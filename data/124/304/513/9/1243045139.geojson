@@ -1,0 +1,78 @@
+{
+  "id": 1243045139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.48436,46.23896,14.48436,46.23896",
+    "geom:latitude":46.23896,
+    "geom:longitude":14.48436,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Zgornji Brnik",
+    "gn:country_code":"SI",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186496,
+    "gn:latitude":46.23896,
+    "gn:longitude":14.48436,
+    "gn:modification_date":"2017-02-11",
+    "gn:name":"Zgornji Brnik",
+    "gn:population":704,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0433\u043e\u0440\u043d\u044c\u0438-\u0411\u0440\u043d\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Zgornji Brnjik",
+        "Zgornji Brnik"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959493,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186496,
+        "wk:page":"Zgornji_Brnik"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9fe54be0f1e4881481e10e7f8a26adc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959493,
+            "locality_id":1243045139,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1243045139,
+    "wof:lastmodified":1537700168,
+    "wof:name":"Zgornji Brnik",
+    "wof:parent_id":1108959493,
+    "wof:placetype":"locality",
+    "wof:population":704,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.48436,
+    46.23896,
+    14.48436,
+    46.23896
+],
+  "geometry": {"coordinates":[14.48436,46.23896],"type":"Point"}
+}

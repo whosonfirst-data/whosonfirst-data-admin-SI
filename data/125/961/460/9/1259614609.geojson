@@ -1,0 +1,75 @@
+{
+  "id": 1259614609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.93333,46.38333,15.93333,46.38333",
+    "geom:latitude":46.38333,
+    "geom:longitude":15.93333,
+    "gn:admin1_code":"J3",
+    "gn:asciiname":"Nova Vas pri Markovcih",
+    "gn:country_code":"SI",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194398,
+    "gn:latitude":46.38333,
+    "gn:longitude":15.93333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Nova Vas pri Markovcih",
+    "gn:population":410,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nova Vas",
+        "Nova Vas pri Markovcih"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959779,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194398,
+        "wk:page":"Nova_Vas_pri_Markovcih"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"90a1445827c534cb503910f3feda27b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959779,
+            "locality_id":1259614609,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1259614609,
+    "wof:lastmodified":1537700214,
+    "wof:name":"Nova Vas pri Markovcih",
+    "wof:parent_id":1108959779,
+    "wof:placetype":"locality",
+    "wof:population":410,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.93333,
+    46.38333,
+    15.93333,
+    46.38333
+],
+  "geometry": {"coordinates":[15.93333,46.38333],"type":"Point"}
+}

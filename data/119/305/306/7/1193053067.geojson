@@ -1,0 +1,71 @@
+{
+  "id": 1193053067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.61333,45.87722,14.61333,45.87722",
+    "geom:latitude":45.87722,
+    "geom:longitude":14.61333,
+    "gn:admin1_code":"D8",
+    "gn:asciiname":"Rasica",
+    "gn:country_code":"SI",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191951,
+    "gn:latitude":45.87722,
+    "gn:longitude":14.61333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ra\u0161i\u0107a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ra\u0161i\u0107",
+        "Ra\u0161i\u0107a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959859,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191951
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"45ba83a8b8925c819ded09400e3dd929",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959859,
+            "locality_id":1193053067,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1193053067,
+    "wof:lastmodified":1537700201,
+    "wof:name":"Rasica",
+    "wof:parent_id":1108959859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.61333,
+    45.87722,
+    14.61333,
+    45.87722
+],
+  "geometry": {"coordinates":[14.61333,45.87722],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343394653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.42086,45.82566,15.42086,45.82566",
+    "geom:latitude":45.82566,
+    "geom:longitude":15.42086,
+    "gn:admin1_code":"O3",
+    "gn:asciiname":"Orehovec",
+    "gn:country_code":"SI",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194025,
+    "gn:latitude":45.82566,
+    "gn:longitude":15.42086,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Orehovec",
+    "gn:population":226,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959835,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194025,
+        "wk:page":"Orehovec%2C_Kostanjevica_na_Krki"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ffe3a7373e69f9754722cb491835e1ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959835,
+            "locality_id":1343394653,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1343394653,
+    "wof:lastmodified":1537573416,
+    "wof:name":"Orehovec",
+    "wof:parent_id":1108959835,
+    "wof:placetype":"locality",
+    "wof:population":226,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.42086,
+    45.82566,
+    15.42086,
+    45.82566
+],
+  "geometry": {"coordinates":[15.42086,45.82566],"type":"Point"}
+}

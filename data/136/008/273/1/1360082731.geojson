@@ -1,0 +1,74 @@
+{
+  "id": 1360082731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.70985,46.0478,15.70985,46.0478",
+    "geom:latitude":46.0478,
+    "geom:longitude":15.70985,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Oresje na Bizeljskem",
+    "gn:country_code":"SI",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987198,
+    "gn:latitude":46.0478,
+    "gn:longitude":15.70985,
+    "gn:modification_date":"2015-10-03",
+    "gn:name":"Ore\u0161je na Bizeljskem",
+    "gn:population":223,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ore\u0161je na Bizeljskem"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987198,
+        "wk:page":"Ore%C5%A1je_na_Bizeljskem"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e95e780861901aa53af513d8bdf39a28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1360082731,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1360082731,
+    "wof:lastmodified":1537700281,
+    "wof:name":"Oresje na Bizeljskem",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:population":223,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.70985,
+    46.0478,
+    15.70985,
+    46.0478
+],
+  "geometry": {"coordinates":[15.70985,46.0478],"type":"Point"}
+}

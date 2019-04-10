@@ -1,0 +1,178 @@
+{
+  "id": 85677811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-04-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.012401,
+    "geom:area_square_m":107061136.564717,
+    "geom:bbox":"14.9719857107,45.6313235539,15.1240694521,45.7847767201",
+    "geom:latitude":45.720076,
+    "geom:longitude":15.038375,
+    "iso:country":"SI",
+    "lbl:latitude":45.72369,
+    "lbl:longitude":15.032039,
+    "mps:latitude":45.72369,
+    "mps:longitude":15.032039,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:eng_x_preferred":[
+        "Dolenjske Toplice"
+    ],
+    "name:eng_x_variant":[
+        "Municipality of Dolenjske Toplice"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Dolenjske Toplice"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30ec\u30fc\u30cb\u30b9\u30b1\u30fb\u30c8\u30d7\u30ea\u30fc\u30c4\u30a7"
+    ],
+    "name:kor_x_preferred":[
+        "\ub3cc\ub80c\uc2a4\ucf00\ud1a0\ud50c\ub9ac\uccb4"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Dolenjske Toplice"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Dolenjske Toplice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0414\u043e\u043b\u0435\u045a\u0441\u043a\u0435 \u0422\u043e\u043f\u043b\u0438\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043b\u0435\u043d\u044c\u0441\u044c\u043a\u0435 \u0422\u043e\u043f\u043b\u0438\u0446\u0435"
+    ],
+    "name:und_x_preferred":[
+        "Novo Mesto"
+    ],
+    "name:unk_x_variant":[
+        "Ob\u010dina Dolenjske Toplice"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SVN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"SVN-249",
+    "ne:adm1_code":"SVN-249",
+    "ne:admin":"Slovenia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"10",
+    "ne:code_hasc":"SI.DO.DT",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"249",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SI00",
+    "ne:fips_alt":"SIG6",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Slovenia",
+    "ne:gn_a1_code":"SI.G6",
+    "ne:gn_id":"3344910",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Obcina Dolenjske Toplice",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SI72",
+    "ne:gns_id":"9123423",
+    "ne:gns_lang":"kat",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Dolenjske Toplice, Obcina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SVN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SI-",
+    "ne:iso_a2":"SI",
+    "ne:labelrank":"10",
+    "ne:latitude":"45.72050000000",
+    "ne:longitude":"15.04800000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Dolenjske Toplice",
+    "ne:name_alt":"",
+    "ne:name_len":17,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"33",
+    "ne:region":"Jugovzhodna Slovenija",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SVN",
+    "ne:sub_code":"",
+    "ne:type":"Statisticna Regije",
+    "ne:type_en":"Statistical Region",
+    "ne:wikipedia":"",
+    "ne:woe_id":-55848372,
+    "ne:woe_label":"",
+    "ne:woe_name":"",
+    "qs:a0":"Slovenia",
+    "qs:a0_lc":"SI",
+    "qs:a1":"Dolenjske Toplice",
+    "qs:a1_lc":"SVN-249",
+    "qs:a1r":"Jugovzhodna Slovenija",
+    "qs:adm0":"Slovenia",
+    "qs:adm0_a3":"SVN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Statistical Region",
+    "qs:woeid":55848372,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "unlc:subdivision":"SI-157",
+    "wd:wordcount":224,
+    "wof:belongsto":[
+        102191581,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SI00",
+        "gn:id":3344910,
+        "gp:id":-55848372,
+        "hasc:id":"SI.DO.DT",
+        "unlc:id":"SI-157",
+        "wd:id":"Q9015044"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"223e4efa1e829b3393d6997dc6128da5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "region_id":85677811
+        }
+    ],
+    "wof:id":85677811,
+    "wof:lang_x_official":[
+        "slv"
+    ],
+    "wof:lang_x_spoken":[
+        "slv"
+    ],
+    "wof:lastmodified":1536616732,
+    "wof:name":"Dolenjske Toplice",
+    "wof:parent_id":85633779,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:shortcode":"DT",
+    "wof:subdivision":"SI-157",
+    "wof:superseded_by":[
+        1108959675
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.97198571067207,
+    45.6313235539389,
+    15.12406945214354,
+    45.7847767200696
+],
+  "geometry": {"coordinates":[[[15.05807864831104,45.78108185544335],[15.06288455607745,45.76836945178883],[15.0761137218708,45.75431346279612],[15.07936933782474,45.74914581982375],[15.08060957217407,45.74415904400473],[15.11425092923702,45.71837250418776],[15.12107221770873,45.71173208286939],[15.12406945214354,45.70682282231547],[15.12189904090803,45.70237864795627],[15.12003868983373,45.70046662003853],[15.11843672027845,45.69858043144183],[15.1159562515798,45.69700429940895],[15.11285566615612,45.69602244747801],[15.10572431842263,45.69276683242344],[15.1027787608312,45.68442108786297],[15.08448530395367,45.68628143983665],[15.07285810681623,45.68222484000444],[15.06365970243337,45.67555858026429],[15.04521121592495,45.65711009375588],[15.04087039615189,45.65142568594672],[15.037614780198,45.6313235539389],[15.02459231908028,45.64749827732368],[15.02009646967639,45.66501658784529],[14.99989098488112,45.6817855904327],[14.98113244001013,45.69659088825892],[14.97663658970691,45.70289541279311],[14.97198571067207,45.71157705323844],[14.98020226402332,45.74144603130935],[14.98361290870884,45.74917165824547],[14.98206261599699,45.76630239513946],[14.9964803401956,45.77973826830652],[15.00361168792909,45.78237376573674],[15.01498050264814,45.7847767200696],[15.03342898915656,45.7812110457532],[15.05807864831104,45.78108185544335]]],"type":"Polygon"}
+}

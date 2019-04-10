@@ -1,0 +1,113 @@
+{
+  "id": 101845355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000039,
+    "geom:area_square_m":329186.169115,
+    "geom:bbox":"15.0310000914,46.3264558138,15.0392765329,46.3337029223",
+    "geom:latitude":46.330249,
+    "geom:longitude":15.035284,
+    "gn:population":642,
+    "iso:country":"SI",
+    "lbl:latitude":46.330176,
+    "lbl:longitude":15.035363,
+    "mps:latitude":46.330176,
+    "mps:longitude":15.035363,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Ob\u010dina \u0160martno ob Paki"
+    ],
+    "name:deu_x_preferred":[
+        "\u0160martno ob Paki"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160martno ob Paki"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina \u0160martno ob Paki"
+    ],
+    "name:ita_x_preferred":[
+        "\u0160martno ob Paki"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e5\u30de\u30eb\u30c8\u30ce\u30fb\u30aa\u30d7\u30fb\u30d1\u30ad"
+    ],
+    "name:kor_x_preferred":[
+        "\uc288\ub9c8\ub974\ud2b8\ub178\uc624\ube0c\ud30c\ud0a4"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160martnas prie Pakos"
+    ],
+    "name:nld_x_preferred":[
+        "\u0160martno ob Paki"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina \u0160martno ob Paki"
+    ],
+    "name:unk_x_variant":[
+        "\u0160martno"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:id":0,
+    "qs:la":"\u0160martno ob Paki",
+    "qs:la_lc":"*SI125000",
+    "qs:level":"locality",
+    "qs:loc":"\u0160martno ob Paki",
+    "qs:loc_alt":"Smartno ob Paki",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959729,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190498,
+        "gp:id":530764,
+        "wd:id":"Q392188",
+        "wk:page":"\u0160martno ob Paki"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"fbefe48004a6232a2517fa0d79818284",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959729,
+            "locality_id":101845355,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":101845355,
+    "wof:lastmodified":1531170667,
+    "wof:name":"\u0160martno ob Paki",
+    "wof:parent_id":1108959729,
+    "wof:placetype":"locality",
+    "wof:population":642,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.03100009135164,
+    46.32645581375039,
+    15.03927653293186,
+    46.33370292225175
+],
+  "geometry": {"coordinates":[[[15.03927653293186,46.33351992639581],[15.03910742670189,46.33172340317742],[15.03781248600643,46.33178441508852],[15.03755891880451,46.32908962241555],[15.03885379483847,46.32902861404904],[15.03868472524812,46.32723208509589],[15.03609505672068,46.3273540814497],[15.0360105705206,46.32645581375039],[15.03471575381025,46.32651678726586],[15.03480021845974,46.32741505614592],[15.03350537753528,46.32747601518821],[15.03358982429347,46.32837428467525],[15.03100009135164,46.32849615815826],[15.03133774255213,46.33208923981431],[15.03392764792676,46.33196735689012],[15.03401211298603,46.33286562351066],[15.03530708323387,46.33280465738483],[15.03539157351122,46.33370292225175],[15.03927653293186,46.33351992639581]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226561863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.55,45.9,15.55,45.9",
+    "geom:latitude":45.9,
+    "geom:longitude":15.55,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dolenje Skopice",
+    "gn:country_code":"SI",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201827,
+    "gn:latitude":45.9,
+    "gn:longitude":15.55,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Dolenje Skopice",
+    "gn:population":210,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201827,
+        "wk:page":"Dolenje_Skopice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"565fcb268e5882bed5af72d62b4481ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1226561863,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1226561863,
+    "wof:lastmodified":1537573445,
+    "wof:name":"Dolenje Skopice",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:population":210,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.55,
+    45.9,
+    15.55,
+    45.9
+],
+  "geometry": {"coordinates":[15.55,45.9],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243393961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.41667,46.31667,14.41667,46.31667",
+    "geom:latitude":46.31667,
+    "geom:longitude":14.41667,
+    "gn:admin1_code":"K5",
+    "gn:asciiname":"Mace",
+    "gn:country_code":"SI",
+    "gn:dem":636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195988,
+    "gn:latitude":46.31667,
+    "gn:longitude":14.41667,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Ma\u010de",
+    "gn:population":134,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959657,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195988,
+        "wk:page":"Ma%C4%8De%2C_Preddvor"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6aaf0c134b08676f434cdbc71dcb2569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959657,
+            "locality_id":1243393961,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1243393961,
+    "wof:lastmodified":1537700221,
+    "wof:name":"Mace",
+    "wof:parent_id":1108959657,
+    "wof:placetype":"locality",
+    "wof:population":134,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.41667,
+    46.31667,
+    14.41667,
+    46.31667
+],
+  "geometry": {"coordinates":[14.41667,46.31667],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209512067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.5157,45.85983,15.5157,45.85983",
+    "geom:latitude":45.85983,
+    "geom:longitude":15.5157,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Vrhovska Vas",
+    "gn:country_code":"SI",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988313,
+    "gn:latitude":45.85983,
+    "gn:longitude":15.5157,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Vrhovska Vas",
+    "gn:population":57,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988313,
+        "wk:page":"Vrhovska_Vas"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"743d2a98f620297b2ab830d572ad2d0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633779,
+            "locality_id":1209512067
+        }
+    ],
+    "wof:id":1209512067,
+    "wof:lastmodified":1537573508,
+    "wof:name":"Vrhovska Vas",
+    "wof:parent_id":85633779,
+    "wof:placetype":"locality",
+    "wof:population":57,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.5157,
+    45.85983,
+    15.5157,
+    45.85983
+],
+  "geometry": {"coordinates":[15.5157,45.85983],"type":"Point"}
+}

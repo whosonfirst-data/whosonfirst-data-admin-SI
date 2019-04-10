@@ -1,0 +1,74 @@
+{
+  "id": 1293920567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.62402,45.8432,14.62402,45.8432",
+    "geom:latitude":45.8432,
+    "geom:longitude":14.62402,
+    "gn:admin1_code":"D8",
+    "gn:asciiname":"Pusce",
+    "gn:country_code":"SI",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8988415,
+    "gn:latitude":45.8432,
+    "gn:longitude":14.62402,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Pu\u0161\u010de",
+    "gn:population":52,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pu\u0161\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959859,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988415,
+        "wk:page":"Pu%C5%A1%C4%8De"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8e8c15780c3cceb3bd52219a5349752f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959859,
+            "locality_id":1293920567,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1293920567,
+    "wof:lastmodified":1537700306,
+    "wof:name":"Pusce",
+    "wof:parent_id":1108959859,
+    "wof:placetype":"locality",
+    "wof:population":52,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.62402,
+    45.8432,
+    14.62402,
+    45.8432
+],
+  "geometry": {"coordinates":[14.62402,45.8432],"type":"Point"}
+}

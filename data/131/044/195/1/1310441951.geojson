@@ -1,0 +1,71 @@
+{
+  "id": 1310441951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.98664,46.14471,14.98664,46.14471",
+    "geom:latitude":46.14471,
+    "geom:longitude":14.98664,
+    "gn:admin1_code":"E7",
+    "gn:asciiname":"Vine",
+    "gn:country_code":"SI",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989624,
+    "gn:latitude":46.14471,
+    "gn:longitude":14.98664,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Vine",
+    "gn:population":25,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959683,
+        85633779,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989624,
+        "wk:page":"Vine%2C_Zagorje_ob_Savi"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b6e3071dd1d931f082934c1c9476c090",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959683,
+            "locality_id":1310441951,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":1310441951,
+    "wof:lastmodified":1537573547,
+    "wof:name":"Vine",
+    "wof:parent_id":1108959683,
+    "wof:placetype":"locality",
+    "wof:population":25,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.98664,
+    46.14471,
+    14.98664,
+    46.14471
+],
+  "geometry": {"coordinates":[14.98664,46.14471],"type":"Point"}
+}

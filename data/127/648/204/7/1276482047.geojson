@@ -1,0 +1,71 @@
+{
+  "id": 1276482047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.48333,46.36667,15.48333,46.36667",
+    "geom:latitude":46.36667,
+    "geom:longitude":15.48333,
+    "gn:admin1_code":"J8",
+    "gn:asciiname":"Prihova",
+    "gn:country_code":"SI",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192418,
+    "gn:latitude":46.36667,
+    "gn:longitude":15.48333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Prihova",
+    "gn:population":60,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959737,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192418,
+        "wk:page":"Prihova%2C_Oplotnica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"28d0c4bb4e4bc801113da0a448ebda2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959737,
+            "locality_id":1276482047,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1276482047,
+    "wof:lastmodified":1537573408,
+    "wof:name":"Prihova",
+    "wof:parent_id":1108959737,
+    "wof:placetype":"locality",
+    "wof:population":60,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.48333,
+    46.36667,
+    15.48333,
+    46.36667
+],
+  "geometry": {"coordinates":[15.48333,46.36667],"type":"Point"}
+}

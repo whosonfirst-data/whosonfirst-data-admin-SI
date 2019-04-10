@@ -1,0 +1,71 @@
+{
+  "id": 1259519675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.94167,46.33528,15.94167,46.33528",
+    "geom:latitude":46.33528,
+    "geom:longitude":15.94167,
+    "gn:admin1_code":"N2",
+    "gn:asciiname":"Spodnji Leskovec",
+    "gn:country_code":"SI",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3190191,
+    "gn:latitude":46.33528,
+    "gn:longitude":15.94167,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Spodnji Leskovec",
+    "gn:population":112,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959747,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190191,
+        "wk:page":"Spodnji_Leskovec"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d45e897886ef812deace8df7495c9108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959747,
+            "locality_id":1259519675,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1259519675,
+    "wof:lastmodified":1537573397,
+    "wof:name":"Spodnji Leskovec",
+    "wof:parent_id":1108959747,
+    "wof:placetype":"locality",
+    "wof:population":112,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.94167,
+    46.33528,
+    15.94167,
+    46.33528
+],
+  "geometry": {"coordinates":[15.94167,46.33528],"type":"Point"}
+}

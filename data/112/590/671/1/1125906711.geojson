@@ -1,0 +1,110 @@
+{
+  "id": 1125906711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.68333,46.48333,15.68333,46.48333",
+    "geom:latitude":46.48333,
+    "geom:longitude":15.68333,
+    "gn:gn_country":"SI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":805,
+    "gn:population":967,
+    "iso:country":"SI",
+    "lbl:latitude":46.48333,
+    "lbl:longitude":15.68333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Skoke"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u043a\u043e\u043a\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Skoke"
+    ],
+    "name:eng_x_preferred":[
+        "Skoke"
+    ],
+    "name:rum_x_preferred":[
+        "Skoke"
+    ],
+    "name:slv_x_preferred":[
+        "Skoke"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043a\u043e\u043a\u0435"
+    ],
+    "qs_pg:aaroncc":"SI",
+    "qs_pg:gn_country":"SI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3190710,
+    "qs_pg:gn_pop":805,
+    "qs_pg:name":"Skoke",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Maribor",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1218462,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":531547,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Maribor",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959749,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190710,
+        "gp:id":531547,
+        "qs_pg:id":1218462,
+        "wd:id":"Q1967763"
+    },
+    "wof:country":"SI",
+    "wof:created":1497296013,
+    "wof:geomhash":"2a72507eb6c8454780dcfa619ce0d98a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959749,
+            "locality_id":1125906711,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1125906711,
+    "wof:lastmodified":1531170949,
+    "wof:name":"Skoke",
+    "wof:parent_id":1108959749,
+    "wof:placetype":"locality",
+    "wof:population":967,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.68333,
+    46.48333,
+    15.68333,
+    46.48333
+],
+  "geometry": {"coordinates":[15.68333,46.48333],"type":"Point"}
+}

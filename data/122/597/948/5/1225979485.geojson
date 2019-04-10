@@ -1,0 +1,75 @@
+{
+  "id": 1225979485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.59611,46.19667,15.59611,46.19667",
+    "geom:latitude":46.19667,
+    "geom:longitude":15.59611,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Pristava pri Mestinju",
+    "gn:country_code":"SI",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192357,
+    "gn:latitude":46.19667,
+    "gn:longitude":15.59611,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Pristava pri Mestinju",
+    "gn:population":210,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pristava",
+        "Pristava pri Mestinju"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959649,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192357,
+        "wk:page":"Pristava_pri_Mestinju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"71b434f865871593a7c5fe2a73f9a8ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959649,
+            "locality_id":1225979485,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1225979485,
+    "wof:lastmodified":1537700203,
+    "wof:name":"Pristava pri Mestinju",
+    "wof:parent_id":1108959649,
+    "wof:placetype":"locality",
+    "wof:population":210,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.59611,
+    46.19667000000001,
+    15.59611,
+    46.19667000000001
+],
+  "geometry": {"coordinates":[15.59611,46.19667000000001],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1243172585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.8975,46.29389,13.8975,46.29389",
+    "geom:latitude":46.29389,
+    "geom:longitude":13.8975,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Studor v Bohinju",
+    "gn:country_code":"SI",
+    "gn:dem":792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189627,
+    "gn:latitude":46.29389,
+    "gn:longitude":13.8975,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Studor v Bohinju",
+    "gn:population":117,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Studor",
+        "Studor v Bohinju"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959819,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189627,
+        "wk:page":"Studor_v_Bohinju"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"c3d378da772070fc1cfe6859bd4921f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959819,
+            "locality_id":1243172585,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1243172585,
+    "wof:lastmodified":1537700184,
+    "wof:name":"Studor v Bohinju",
+    "wof:parent_id":1108959819,
+    "wof:placetype":"locality",
+    "wof:population":117,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.8975,
+    46.29389000000001,
+    13.8975,
+    46.29389000000001
+],
+  "geometry": {"coordinates":[13.8975,46.29389000000001],"type":"Point"}
+}

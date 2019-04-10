@@ -1,0 +1,71 @@
+{
+  "id": 1293032011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.1502,46.32738,15.1502,46.32738",
+    "geom:latitude":46.32738,
+    "geom:longitude":15.1502,
+    "gn:admin1_code":"N5",
+    "gn:asciiname":"Podkraj",
+    "gn:country_code":"SI",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989480,
+    "gn:latitude":46.32738,
+    "gn:longitude":15.1502,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Podkraj",
+    "gn:population":209,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959929,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989480,
+        "wk:page":"Podkraj%2C_%C5%BDalec"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ae830a2abfa3c38e4e550b7363aad581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959929,
+            "locality_id":1293032011,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1293032011,
+    "wof:lastmodified":1537573543,
+    "wof:name":"Podkraj",
+    "wof:parent_id":1108959929,
+    "wof:placetype":"locality",
+    "wof:population":209,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.1502,
+    46.32738,
+    15.1502,
+    46.32738
+],
+  "geometry": {"coordinates":[15.1502,46.32738],"type":"Point"}
+}

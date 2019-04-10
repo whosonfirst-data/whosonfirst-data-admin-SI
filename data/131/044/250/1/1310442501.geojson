@@ -1,0 +1,67 @@
+{
+  "id": 1310442501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.19722,45.95222,14.19722,45.95222",
+    "geom:latitude":45.95222,
+    "geom:longitude":14.19722,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Ceste",
+    "gn:country_code":"SI",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218979,
+    "gn:latitude":45.95222,
+    "gn:longitude":14.19722,
+    "gn:modification_date":"2008-11-25",
+    "gn:name":"\u010ceste",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959889,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218979
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8367e22d6ad02972036a34f2f3ed330a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959889,
+            "locality_id":1310442501,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1310442501,
+    "wof:lastmodified":1537007015,
+    "wof:name":"Ceste",
+    "wof:parent_id":1108959889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.19722,
+    45.95222,
+    14.19722,
+    45.95222
+],
+  "geometry": {"coordinates":[14.19722,45.95222],"type":"Point"}
+}

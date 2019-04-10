@@ -1,0 +1,71 @@
+{
+  "id": 1209945801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.85535,45.67076,14.85535,45.67076",
+    "geom:latitude":45.67076,
+    "geom:longitude":14.85535,
+    "gn:admin1_code":"H7",
+    "gn:asciiname":"Gorenje",
+    "gn:country_code":"SI",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8986987,
+    "gn:latitude":45.67076,
+    "gn:longitude":14.85535,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Gorenje",
+    "gn:population":379,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959919,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8986987,
+        "wk:page":"Gorenje%2C_Ko%C4%8Devje"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"473f7dfd3f2270a31f83ce86b3d70dee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959919,
+            "locality_id":1209945801,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1209945801,
+    "wof:lastmodified":1537573466,
+    "wof:name":"Gorenje",
+    "wof:parent_id":1108959919,
+    "wof:placetype":"locality",
+    "wof:population":379,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.85535,
+    45.67076,
+    14.85535,
+    45.67076
+],
+  "geometry": {"coordinates":[14.85535,45.67076],"type":"Point"}
+}

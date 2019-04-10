@@ -1,0 +1,74 @@
+{
+  "id": 1276587091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.815,46.54444,15.815,46.54444",
+    "geom:latitude":46.54444,
+    "geom:longitude":15.815,
+    "gn:admin1_code":"I3",
+    "gn:asciiname":"Spodnja Volicina",
+    "gn:country_code":"SI",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190230,
+    "gn:latitude":46.54444,
+    "gn:longitude":15.815,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Spodnja Voli\u010dina",
+    "gn:population":679,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Spodnja Voli\u010dina"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959477,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190230,
+        "wk:page":"Spodnja_Voli%C4%8Dina"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"cd20c9c7dc125ce52d1f6d58056ac0fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959477,
+            "locality_id":1276587091,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1276587091,
+    "wof:lastmodified":1537700189,
+    "wof:name":"Spodnja Volicina",
+    "wof:parent_id":1108959477,
+    "wof:placetype":"locality",
+    "wof:population":679,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.815,
+    46.54444,
+    15.815,
+    46.54444
+],
+  "geometry": {"coordinates":[15.815,46.54444],"type":"Point"}
+}

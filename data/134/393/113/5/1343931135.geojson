@@ -1,0 +1,76 @@
+{
+  "id": 1343931135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.27889,46.55417,16.27889,46.55417",
+    "geom:latitude":46.55417,
+    "geom:longitude":16.27889,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Srednja Bistrica",
+    "gn:country_code":"SI",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190148,
+    "gn:latitude":46.55417,
+    "gn:longitude":16.27889,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Srednja Bistrica",
+    "gn:population":471,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00f6z\u00e9pbesztercze",
+        "K\u00f6z\u00e9pbeszterce",
+        "Srednja Bistrica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959823,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190148,
+        "wk:page":"Srednja_Bistrica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"1ed139466f8a9aaa86a7d3fc567e7345",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959823,
+            "locality_id":1343931135,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1343931135,
+    "wof:lastmodified":1537700187,
+    "wof:name":"Srednja Bistrica",
+    "wof:parent_id":1108959823,
+    "wof:placetype":"locality",
+    "wof:population":471,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.27889,
+    46.55417,
+    16.27889,
+    46.55417
+],
+  "geometry": {"coordinates":[16.27889,46.55417],"type":"Point"}
+}

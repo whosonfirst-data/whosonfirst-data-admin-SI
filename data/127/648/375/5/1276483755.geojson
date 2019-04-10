@@ -1,0 +1,75 @@
+{
+  "id": 1276483755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.2175,45.56639,14.2175,45.56639",
+    "geom:latitude":45.56639,
+    "geom:longitude":14.2175,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Dobropolje",
+    "gn:country_code":"SI",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201911,
+    "gn:latitude":45.56639,
+    "gn:longitude":14.2175,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Dobropolje",
+    "gn:population":70,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poglie",
+        "Dobro Polje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959873,
+        85633779,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201911,
+        "wk:page":"Dobro_Polje%2C_Ilirska_Bistrica"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"dbabfcb1c2e365179a48fed2f69b8220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959873,
+            "locality_id":1276483755,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":1276483755,
+    "wof:lastmodified":1537700254,
+    "wof:name":"Dobropolje",
+    "wof:parent_id":1108959873,
+    "wof:placetype":"locality",
+    "wof:population":70,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.2175,
+    45.56639000000001,
+    14.2175,
+    45.56639000000001
+],
+  "geometry": {"coordinates":[14.2175,45.56639000000001],"type":"Point"}
+}

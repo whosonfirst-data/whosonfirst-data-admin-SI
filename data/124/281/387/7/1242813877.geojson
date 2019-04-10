@@ -1,0 +1,71 @@
+{
+  "id": 1242813877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.69867,46.2644,15.69867,46.2644",
+    "geom:latitude":46.2644,
+    "geom:longitude":15.69867,
+    "gn:admin1_code":"A7",
+    "gn:asciiname":"Strmec pri Sv. Florijanu",
+    "gn:country_code":"SI",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987458,
+    "gn:latitude":46.2644,
+    "gn:longitude":15.69867,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Strmec pri Sv. Florijanu",
+    "gn:population":149,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959803,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987458,
+        "wk:page":"Strmec_pri_Svetem_Florijanu"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"6ba30b1b9011f6d8b5424db7bb1c150b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959803,
+            "locality_id":1242813877,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":1242813877,
+    "wof:lastmodified":1537573480,
+    "wof:name":"Strmec pri Sv. Florijanu",
+    "wof:parent_id":1108959803,
+    "wof:placetype":"locality",
+    "wof:population":149,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.69867,
+    46.2644,
+    15.69867,
+    46.2644
+],
+  "geometry": {"coordinates":[15.69867,46.2644],"type":"Point"}
+}

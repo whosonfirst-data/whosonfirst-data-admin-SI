@@ -1,0 +1,74 @@
+{
+  "id": 1326566577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.22045,46.3348,14.22045,46.3348",
+    "geom:latitude":46.3348,
+    "geom:longitude":14.22045,
+    "gn:admin1_code":"A3",
+    "gn:asciiname":"Crnivec",
+    "gn:country_code":"SI",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987141,
+    "gn:latitude":46.3348,
+    "gn:longitude":14.22045,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"\u010crnivec",
+    "gn:population":244,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010crnivec"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959825,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987141,
+        "wk:page":"%C4%8Crnivec"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8dc258b5c943439a22bc888360424384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959825,
+            "locality_id":1326566577,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1326566577,
+    "wof:lastmodified":1537700280,
+    "wof:name":"Crnivec",
+    "wof:parent_id":1108959825,
+    "wof:placetype":"locality",
+    "wof:population":244,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.22045,
+    46.3348,
+    14.22045,
+    46.3348
+],
+  "geometry": {"coordinates":[14.22045,46.3348],"type":"Point"}
+}

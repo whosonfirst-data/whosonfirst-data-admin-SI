@@ -1,0 +1,74 @@
+{
+  "id": 1360320335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.79152,46.30078,15.79152,46.30078",
+    "geom:latitude":46.30078,
+    "geom:longitude":15.79152,
+    "gn:admin1_code":"N6",
+    "gn:asciiname":"Kocice",
+    "gn:country_code":"SI",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987117,
+    "gn:latitude":46.30078,
+    "gn:longitude":15.79152,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ko\u010dice",
+    "gn:population":263,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ko\u010dice"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959767,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987117,
+        "wk:page":"Ko%C4%8Dice"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"810982209aefdc8086f4fdb9f6e8b5b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959767,
+            "locality_id":1360320335,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1360320335,
+    "wof:lastmodified":1537700279,
+    "wof:name":"Kocice",
+    "wof:parent_id":1108959767,
+    "wof:placetype":"locality",
+    "wof:population":263,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.79152,
+    46.30078,
+    15.79152,
+    46.30078
+],
+  "geometry": {"coordinates":[15.79152,46.30078],"type":"Point"}
+}

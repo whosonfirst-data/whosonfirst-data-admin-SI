@@ -1,0 +1,71 @@
+{
+  "id": 1209953301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.32113,45.84551,15.32113,45.84551",
+    "geom:latitude":45.84551,
+    "geom:longitude":15.32113,
+    "gn:admin1_code":"B4",
+    "gn:asciiname":"Dobravica",
+    "gn:country_code":"SI",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987493,
+    "gn:latitude":45.84551,
+    "gn:longitude":15.32113,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Dobravica",
+    "gn:population":143,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959937,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987493,
+        "wk:page":"Dobravica%2C_%C5%A0entjernej"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"039db1fed58131977364695f0bb372de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959937,
+            "locality_id":1209953301,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1209953301,
+    "wof:lastmodified":1537573481,
+    "wof:name":"Dobravica",
+    "wof:parent_id":1108959937,
+    "wof:placetype":"locality",
+    "wof:population":143,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.32113,
+    45.84551,
+    15.32113,
+    45.84551
+],
+  "geometry": {"coordinates":[15.32113,45.84551],"type":"Point"}
+}

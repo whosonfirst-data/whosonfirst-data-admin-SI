@@ -1,0 +1,71 @@
+{
+  "id": 1293380663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.57106,45.96059,15.57106,45.96059",
+    "geom:latitude":45.96059,
+    "geom:longitude":15.57106,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Arnovo Selo",
+    "gn:country_code":"SI",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987036,
+    "gn:latitude":45.96059,
+    "gn:longitude":15.57106,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Arnovo Selo",
+    "gn:population":302,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987036,
+        "wk:page":"Arnovo_Selo"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"639521ac47443210c064f9aabc5cec24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1293380663,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1293380663,
+    "wof:lastmodified":1537573467,
+    "wof:name":"Arnovo Selo",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:population":302,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.57106,
+    45.96059,
+    15.57106,
+    45.96059
+],
+  "geometry": {"coordinates":[15.57106,45.96059],"type":"Point"}
+}

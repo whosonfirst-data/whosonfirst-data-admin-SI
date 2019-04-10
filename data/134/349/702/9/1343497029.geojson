@@ -1,0 +1,74 @@
+{
+  "id": 1343497029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.59379,46.23912,14.59379,46.23912",
+    "geom:latitude":46.23912,
+    "geom:longitude":14.59379,
+    "gn:admin1_code":"H6",
+    "gn:asciiname":"Kosise",
+    "gn:country_code":"SI",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8987333,
+    "gn:latitude":46.23912,
+    "gn:longitude":14.59379,
+    "gn:modification_date":"2014-04-25",
+    "gn:name":"Ko\u0161i\u0161e",
+    "gn:population":171,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ko\u0161i\u0161e"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959941,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987333,
+        "wk:page":"Ko%C5%A1i%C5%A1e"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"564b58d3d35d7c94475bd21858b44493",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959941,
+            "locality_id":1343497029,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1343497029,
+    "wof:lastmodified":1537700284,
+    "wof:name":"Kosise",
+    "wof:parent_id":1108959941,
+    "wof:placetype":"locality",
+    "wof:population":171,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.59379,
+    46.23912,
+    14.59379,
+    46.23912
+],
+  "geometry": {"coordinates":[14.59379,46.23912],"type":"Point"}
+}

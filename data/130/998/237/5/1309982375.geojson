@@ -1,0 +1,71 @@
+{
+  "id": 1309982375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.17028,45.45361,15.17028,45.45361",
+    "geom:latitude":45.45361,
+    "geom:longitude":15.17028,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Sinji Vrh",
+    "gn:country_code":"SI",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190859,
+    "gn:latitude":45.45361,
+    "gn:longitude":15.17028,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Sinji Vrh",
+    "gn:population":75,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959699,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190859,
+        "wk:page":"Sinji_Vrh"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8e069e813b9f5a60d579e234b409b7bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959699,
+            "locality_id":1309982375,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1309982375,
+    "wof:lastmodified":1537573402,
+    "wof:name":"Sinji Vrh",
+    "wof:parent_id":1108959699,
+    "wof:placetype":"locality",
+    "wof:population":75,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.17028,
+    45.45361,
+    15.17028,
+    45.45361
+],
+  "geometry": {"coordinates":[15.17028,45.45361],"type":"Point"}
+}

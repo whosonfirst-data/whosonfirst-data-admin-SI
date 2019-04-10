@@ -1,0 +1,71 @@
+{
+  "id": 1259412101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.13186,46.52208,16.13186,46.52208",
+    "geom:latitude":46.52208,
+    "geom:longitude":16.13186,
+    "gn:admin1_code":"I1",
+    "gn:asciiname":"Branoslavci",
+    "gn:country_code":"SI",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203553,
+    "gn:latitude":46.52208,
+    "gn:longitude":16.13186,
+    "gn:modification_date":"2014-04-26",
+    "gn:name":"Branoslavci",
+    "gn:population":168,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959499,
+        85633779,
+        1108959945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203553,
+        "wk:page":"Branoslavci"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"9af6bc69482474a98901ec8b90e682e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959499,
+            "locality_id":1259412101,
+            "region_id":1108959945
+        }
+    ],
+    "wof:id":1259412101,
+    "wof:lastmodified":1537573451,
+    "wof:name":"Branoslavci",
+    "wof:parent_id":1108959499,
+    "wof:placetype":"locality",
+    "wof:population":168,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.13186,
+    46.52208,
+    16.13186,
+    46.52208
+],
+  "geometry": {"coordinates":[16.13186,46.52208],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360215723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.005,45.67556,15.005,45.67556",
+    "geom:latitude":45.67556,
+    "geom:longitude":15.005,
+    "gn:admin1_code":"H7",
+    "gn:asciiname":"Zaga Bog",
+    "gn:country_code":"SI",
+    "gn:dem":842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218446,
+    "gn:latitude":45.67556,
+    "gn:longitude":15.005,
+    "gn:modification_date":"2008-11-06",
+    "gn:name":"Zaga Bog",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959919,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218446
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"bfaca0763cb6ad60f95ca1937cd10c0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959919,
+            "locality_id":1360215723,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1360215723,
+    "wof:lastmodified":1536757419,
+    "wof:name":"Zaga Bog",
+    "wof:parent_id":1108959919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.005,
+    45.67556,
+    15.005,
+    45.67556
+],
+  "geometry": {"coordinates":[15.005,45.67556],"type":"Point"}
+}

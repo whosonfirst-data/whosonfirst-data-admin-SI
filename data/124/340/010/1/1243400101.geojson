@@ -1,0 +1,71 @@
+{
+  "id": 1243400101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.76611,46.18427,13.76611,46.18427",
+    "geom:latitude":46.18427,
+    "geom:longitude":13.76611,
+    "gn:admin1_code":"D2",
+    "gn:asciiname":"Poljubinj",
+    "gn:country_code":"SI",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8989731,
+    "gn:latitude":46.18427,
+    "gn:longitude":13.76611,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Poljubinj",
+    "gn:population":456,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959617,
+        85633779,
+        1108959947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989731,
+        "wk:page":"Poljubinj"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"cb41a91ac91ce78d6e3c79eeeb1f0d0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959617,
+            "locality_id":1243400101,
+            "region_id":1108959947
+        }
+    ],
+    "wof:id":1243400101,
+    "wof:lastmodified":1537573551,
+    "wof:name":"Poljubinj",
+    "wof:parent_id":1108959617,
+    "wof:placetype":"locality",
+    "wof:population":456,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.76611,
+    46.18427,
+    13.76611,
+    46.18427
+],
+  "geometry": {"coordinates":[13.76611,46.18427],"type":"Point"}
+}

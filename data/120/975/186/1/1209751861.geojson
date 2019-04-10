@@ -1,0 +1,75 @@
+{
+  "id": 1209751861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.33333,46.4,14.33333,46.4",
+    "geom:latitude":46.4,
+    "geom:longitude":14.33333,
+    "gn:admin1_code":"D5",
+    "gn:asciiname":"Dolina",
+    "gn:country_code":"SI",
+    "gn:dem":1043,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201799,
+    "gn:latitude":46.4,
+    "gn:longitude":14.33333,
+    "gn:modification_date":"2014-04-24",
+    "gn:name":"Dolina",
+    "gn:population":66,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"SI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zgorna Dolina",
+        "Dolina"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959917,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201799,
+        "wk:page":"Dolina%2C_Tr%C5%BEi%C4%8D"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"cf9c4a7607fc4f53862352dcb28d925a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959917,
+            "locality_id":1209751861,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1209751861,
+    "wof:lastmodified":1537700252,
+    "wof:name":"Dolina",
+    "wof:parent_id":1108959917,
+    "wof:placetype":"locality",
+    "wof:population":66,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.33333,
+    46.4,
+    14.33333,
+    46.4
+],
+  "geometry": {"coordinates":[14.33333,46.4],"type":"Point"}
+}

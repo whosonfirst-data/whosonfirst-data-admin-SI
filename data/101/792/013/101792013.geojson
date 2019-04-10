@@ -1,0 +1,137 @@
+{
+  "id": 101792013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000125,
+    "geom:area_square_m":1067379.52156,
+    "geom:bbox":"15.2954586269,46.2163144449,15.3274060663,46.2281831111",
+    "geom:latitude":46.222135,
+    "geom:longitude":15.311253,
+    "gn:population":1937,
+    "iso:country":"SI",
+    "lbl:latitude":46.221019,
+    "lbl:longitude":15.312584,
+    "mps:latitude":46.221019,
+    "mps:longitude":15.312584,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "\u0160tore"
+    ],
+    "name:cat_x_preferred":[
+        "\u0160tore"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u010dina \u0160tore"
+    ],
+    "name:deu_x_preferred":[
+        "\u0160tore"
+    ],
+    "name:dut_x_preferred":[
+        "\u0160tore"
+    ],
+    "name:eng_x_preferred":[
+        "\u0160tore"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160tore"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina \u0160tore"
+    ],
+    "name:ita_x_preferred":[
+        "\u0160tore"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e5\u30c8\u30ec"
+    ],
+    "name:kor_x_preferred":[
+        "\uc288\ud1a0\ub808"
+    ],
+    "name:nld_x_preferred":[
+        "\u0160tore"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina \u0160tore"
+    ],
+    "name:ron_x_preferred":[
+        "\u0160tore"
+    ],
+    "name:rum_x_preferred":[
+        "\u0160tore"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina \u0160tore"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0442\u043e\u0440\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0442\u043e\u0440\u0435"
+    ],
+    "qs:a0":"Slovenija",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Slovenija",
+    "qs:la":"\u0160tore",
+    "qs:la_lc":"*SI127000",
+    "qs:level":"locality",
+    "qs:loc":"\u0160tore",
+    "qs:loc_alt":"Store",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959631,
+        85633779,
+        1108959959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189798,
+        "gp:id":531789,
+        "qs:id":1043903,
+        "qs_pg:id":1043903,
+        "wd:id":"Q3124698",
+        "wk:page":"\u0160tore"
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"e90a72c80db8863c78afba44cd854f64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959631,
+            "locality_id":101792013,
+            "region_id":1108959959
+        }
+    ],
+    "wof:id":101792013,
+    "wof:lastmodified":1531170668,
+    "wof:name":"\u0160tore",
+    "wof:parent_id":1108959631,
+    "wof:placetype":"locality",
+    "wof:population":1937,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.29545862692981,
+    46.21631444490635,
+    15.32740606631529,
+    46.22818311107534
+],
+  "geometry": {"coordinates":[[[15.29554720145171,46.22818311107534],[15.29813161579682,46.22805487450444],[15.29804299842635,46.22715680376825],[15.30191953476839,46.22696433552215],[15.30183085696018,46.22606626791202],[15.3044151577343,46.22593788015826],[15.30432644091673,46.22503981443668],[15.31466336099737,46.22452564882474],[15.3145744766573,46.22362759243799],[15.32232692083437,46.22324131996106],[15.32223791183191,46.22234327043952],[15.32740606631529,46.22208544819438],[15.32731697549775,46.22118740305837],[15.32344092808154,46.2213807894268],[15.32335190535957,46.22048273996711],[15.32076790258247,46.22061158367012],[15.32058995433897,46.21881547800393],[15.31929799158172,46.21887987395348],[15.31920904464232,46.21798181899084],[15.31791710050129,46.21804619808722],[15.31782817881884,46.21714814129132],[15.3165362532946,46.21721250353539],[15.31644735686695,46.21631444490635],[15.31515544995926,46.21637879029845],[15.31524432497542,46.21727685016918],[15.31007658376325,46.21753408060454],[15.31016537696996,46.2184321448492],[15.30887341327326,46.21849641467281],[15.30913975168056,46.22119060758371],[15.3078477209466,46.22125486551761],[15.30802525624154,46.22305099365292],[15.30414901878908,46.22324368122315],[15.30406031347809,46.22234561373131],[15.30018411517869,46.22253815707455],[15.30027275623263,46.22343622828305],[15.29768856725696,46.22356451492749],[15.29786577517939,46.22536066052737],[15.29657363367005,46.22542478290626],[15.29675081407106,46.22722092862284],[15.29545862692981,46.22728503786379],[15.29554720145171,46.22818311107534]]],"type":"Polygon"}
+}
