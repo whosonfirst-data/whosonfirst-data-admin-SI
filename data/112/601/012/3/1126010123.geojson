@@ -22,16 +22,10 @@
     "name:afr_x_preferred":[
         "Podbrdo"
     ],
-    "name:alb_x_preferred":[
-        "Podbrdo"
-    ],
     "name:arg_x_preferred":[
         "Podbrdo"
     ],
     "name:ast_x_preferred":[
-        "Podbrdo"
-    ],
-    "name:baq_x_preferred":[
         "Podbrdo"
     ],
     "name:bar_x_preferred":[
@@ -49,16 +43,19 @@
     "name:cat_x_preferred":[
         "Podbrdo"
     ],
+    "name:ces_x_preferred":[
+        "Podbrdo"
+    ],
     "name:cos_x_preferred":[
         "Podbrdo"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Podbrdo"
     ],
     "name:dan_x_preferred":[
         "Podbrdo"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Podbrdo"
     ],
     "name:eng_x_preferred":[
@@ -70,16 +67,16 @@
     "name:est_x_preferred":[
         "Podbrdo"
     ],
+    "name:eus_x_preferred":[
+        "Podbrdo"
+    ],
     "name:fin_x_preferred":[
         "Podbrdo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Podbrdo"
     ],
     "name:fur_x_preferred":[
-        "Podbrdo"
-    ],
-    "name:ger_x_preferred":[
         "Podbrdo"
     ],
     "name:gla_x_preferred":[
@@ -100,7 +97,7 @@
     "name:hun_x_preferred":[
         "Podbrdo"
     ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "Podbrdo"
     ],
     "name:ita_x_preferred":[
@@ -127,6 +124,9 @@
     "name:nds_x_preferred":[
         "Podbrdo"
     ],
+    "name:nld_x_preferred":[
+        "Podbrdo"
+    ],
     "name:nno_x_preferred":[
         "Podbrdo"
     ],
@@ -148,7 +148,7 @@
     "name:roh_x_preferred":[
         "Podbrdo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Podbrdo"
     ],
     "name:scn_x_preferred":[
@@ -157,13 +157,16 @@
     "name:sco_x_preferred":[
         "Podbrdo"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Podbrdo"
     ],
     "name:slv_x_preferred":[
         "Podbrdo"
     ],
     "name:spa_x_preferred":[
+        "Podbrdo"
+    ],
+    "name:sqi_x_preferred":[
         "Podbrdo"
     ],
     "name:srd_x_preferred":[
@@ -185,9 +188,6 @@
         "Podbrdo"
     ],
     "name:vls_x_preferred":[
-        "Podbrdo"
-    ],
-    "name:wel_x_preferred":[
         "Podbrdo"
     ],
     "name:wln_x_preferred":[
@@ -246,7 +246,7 @@
         }
     ],
     "wof:id":1126010123,
-    "wof:lastmodified":1531170229,
+    "wof:lastmodified":1561840645,
     "wof:name":"Podbrdo",
     "wof:parent_id":1108959617,
     "wof:placetype":"locality",

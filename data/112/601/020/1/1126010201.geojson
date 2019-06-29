@@ -22,7 +22,7 @@
     "name:bos_x_preferred":[
         "Solkan"
     ],
-    "name:dut_x_preferred":[
+    "name:cym_x_preferred":[
         "Solkan"
     ],
     "name:eng_x_preferred":[
@@ -31,7 +31,7 @@
     "name:epo_x_preferred":[
         "Solkan"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Solkan"
     ],
     "name:hun_x_preferred":[
@@ -40,7 +40,10 @@
     "name:ita_x_preferred":[
         "Salcano"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Solkan"
+    ],
+    "name:ron_x_preferred":[
         "Solkan"
     ],
     "name:slv_x_preferred":[
@@ -51,9 +54,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u043e\u043b\u043a\u0430\u043d"
-    ],
-    "name:wel_x_preferred":[
-        "Solkan"
     ],
     "qs_pg:aaroncc":"SI",
     "qs_pg:gn_country":"SI",
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":1126010201,
-    "wof:lastmodified":1531170232,
+    "wof:lastmodified":1561840645,
     "wof:name":"Solkan",
     "wof:parent_id":1108959487,
     "wof:placetype":"locality",

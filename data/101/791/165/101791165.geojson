@@ -32,8 +32,11 @@
     "name:dan_x_preferred":[
         "Miklav\u017e na Dravskem Polju"
     ],
-    "name:dut_x_preferred":[
-        "Miklav\u017e na Dravskem polju"
+    "name:deu_x_preferred":[
+        "Miklav\u017e na Dravskem Polju"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b9\u03ba\u03bb\u03ac\u03b2\u03b6 \u03bd\u03b1 \u039d\u03c4\u03c1\u03ac\u03b2\u03c3\u03ba\u03b5\u03bc \u03a0\u03cc\u03bb\u03c4\u03b6\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Miklav\u017e na Dravskem Polju"
@@ -41,14 +44,8 @@
     "name:fin_x_preferred":[
         "Miklav\u017e na Dravskem Polju"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Miklav\u017e na Dravskem polju"
-    ],
-    "name:ger_x_preferred":[
-        "Miklav\u017e na Dravskem Polju"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b9\u03ba\u03bb\u03ac\u03b2\u03b6 \u03bd\u03b1 \u039d\u03c4\u03c1\u03ac\u03b2\u03c3\u03ba\u03b5\u03bc \u03a0\u03cc\u03bb\u03c4\u03b6\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abf\u0a95\u0abe\u0ab2\u0abe\u0a9c \u0aa8\u0abe \u0aa6\u0acd\u0ab0\u0ab8\u0acd\u0a95\u0ac7\u0aae \u0aaa\u0acb\u0ab2\u0a9c\u0ac1"
@@ -86,7 +83,7 @@
     "name:mar_x_preferred":[
         "\u092e\u093f\u0915\u093e\u0938\u094d\u0932\u093e\u0935 \u0928 \u0926\u094d\u0930\u0938\u094d\u0915\u0947\u092e \u092a\u094b\u0932\u094d\u091c\u0942"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Miklavz na Dravskem Polju"
     ],
     "name:nld_x_preferred":[
@@ -99,9 +96,6 @@
         "Miklav\u017e na Dravskem Polju"
     ],
     "name:ron_x_preferred":[
-        "Miklav\u017e na Dravskem polju"
-    ],
-    "name:rum_x_preferred":[
         "Miklav\u017e na Dravskem polju"
     ],
     "name:rus_x_preferred":[
@@ -215,7 +209,7 @@
         }
     ],
     "wof:id":101791165,
-    "wof:lastmodified":1534379461,
+    "wof:lastmodified":1561840633,
     "wof:name":"Miklav\u017e na Dravskem polju",
     "wof:parent_id":1108959665,
     "wof:placetype":"locality",

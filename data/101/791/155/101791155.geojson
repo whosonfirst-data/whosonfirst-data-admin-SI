@@ -20,13 +20,7 @@
     "name:bos_x_preferred":[
         "Beltinci"
     ],
-    "name:chi_x_preferred":[
-        "\u8c9d\u723e\u5ef7\u9f4a"
-    ],
     "name:deu_x_preferred":[
-        "Beltinci"
-    ],
-    "name:dut_x_preferred":[
         "Beltinci"
     ],
     "name:eng_x_preferred":[
@@ -35,10 +29,7 @@
     "name:epo_x_preferred":[
         "Beltinci"
     ],
-    "name:fre_x_preferred":[
-        "Beltinci"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Beltinci"
     ],
     "name:hrv_x_preferred":[
@@ -74,9 +65,6 @@
     "name:ron_x_preferred":[
         "Beltinci"
     ],
-    "name:rum_x_preferred":[
-        "Beltinci"
-    ],
     "name:sco_x_preferred":[
         "Beltinci"
     ],
@@ -100,6 +88,9 @@
     ],
     "name:vie_x_preferred":[
         "Beltinci"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u723e\u5ef7\u9f4a"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -149,7 +140,7 @@
         }
     ],
     "wof:id":101791155,
-    "wof:lastmodified":1531170196,
+    "wof:lastmodified":1561840633,
     "wof:name":"Beltinci",
     "wof:parent_id":1108959517,
     "wof:placetype":"locality",

@@ -29,16 +29,10 @@
     "name:deu_x_variant":[
         "Drachenburg"
     ],
-    "name:dut_x_preferred":[
-        "Kozje"
-    ],
     "name:eng_x_preferred":[
         "Kozje"
     ],
     "name:fra_x_preferred":[
-        "Kozje"
-    ],
-    "name:ger_x_preferred":[
         "Kozje"
     ],
     "name:hbs_x_preferred":[
@@ -68,7 +62,7 @@
     "name:ron_x_preferred":[
         "Comuna Kozje"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Kozje"
     ],
     "name:slv_x_preferred":[
@@ -128,7 +122,7 @@
         }
     ],
     "wof:id":101845325,
-    "wof:lastmodified":1531170667,
+    "wof:lastmodified":1561840634,
     "wof:name":"Kozje",
     "wof:parent_id":1108959581,
     "wof:placetype":"locality",

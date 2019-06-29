@@ -22,9 +22,6 @@
     "name:bos_x_preferred":[
         "Topol\u0161ica"
     ],
-    "name:dut_x_preferred":[
-        "Topol\u0161ica"
-    ],
     "name:eng_x_preferred":[
         "Topol\u0161ica"
     ],
@@ -34,7 +31,10 @@
     "name:jpn_x_preferred":[
         "\u30c8\u30dd\u30eb\u30b7\u30c4\u30a1"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Topol\u0161ica"
+    ],
+    "name:ron_x_preferred":[
         "Topol\u0161ica"
     ],
     "name:slv_x_preferred":[
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":1125832939,
-    "wof:lastmodified":1531170667,
+    "wof:lastmodified":1561840647,
     "wof:name":"Topol\u00b5ica",
     "wof:parent_id":1108959731,
     "wof:placetype":"locality",

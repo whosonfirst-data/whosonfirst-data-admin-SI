@@ -25,16 +25,13 @@
     "name:bul_x_preferred":[
         "\u041a\u0440\u043e\u043f\u0430"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kropa"
     ],
     "name:eng_x_preferred":[
         "Kropa"
     ],
-    "name:fre_x_preferred":[
-        "Kropa"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kropa"
     ],
     "name:hrv_x_preferred":[
@@ -43,7 +40,10 @@
     "name:jpn_x_preferred":[
         "\u30af\u30ed\u30d1"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Kropa"
+    ],
+    "name:ron_x_preferred":[
         "Kropa"
     ],
     "name:slv_x_preferred":[
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":1125955319,
-    "wof:lastmodified":1531171366,
+    "wof:lastmodified":1561840641,
     "wof:name":"Kropa",
     "wof:parent_id":1108959825,
     "wof:placetype":"locality",

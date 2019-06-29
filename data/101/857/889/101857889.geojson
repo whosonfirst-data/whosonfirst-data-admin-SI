@@ -23,16 +23,13 @@
     "name:ces_x_preferred":[
         "Ob\u010dina \u0160marje\u0161ke Toplice"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "\u0160marje\u0161ke Toplice"
     ],
     "name:eng_x_preferred":[
         "\u0160marje\u0161ke Toplice"
     ],
-    "name:fre_x_preferred":[
-        "\u0160marje\u0161ke Toplice"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "\u0160marje\u0161ke Toplice"
     ],
     "name:hbs_x_preferred":[
@@ -50,6 +47,9 @@
     "name:kor_x_preferred":[
         "\uc288\ub9c8\ub808\uc288\ucf00\ud1a0\ud50c\ub9ac\uccb4"
     ],
+    "name:nld_x_preferred":[
+        "\u0160marje\u0161ke Toplice"
+    ],
     "name:pol_x_preferred":[
         "Gmina \u0160marje\u0161ke Toplice"
     ],
@@ -59,7 +59,7 @@
     "name:ron_x_preferred":[
         "Comuna \u0160marje\u0161ke Toplice"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "\u0160marje\u0161ke Toplice"
     ],
     "name:slv_x_preferred":[
@@ -113,7 +113,7 @@
         }
     ],
     "wof:id":101857889,
-    "wof:lastmodified":1544744129,
+    "wof:lastmodified":1561840635,
     "wof:name":"\u0160marje\u0161ke Toplice",
     "wof:parent_id":1108959833,
     "wof:placetype":"locality",

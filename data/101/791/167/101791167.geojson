@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000169,
-    "geom:area_square_m":1436376.028404,
+    "geom:area_square_m":1436376.028405,
     "geom:bbox":"15.7143205067,46.5017516853,15.7487046814,46.5201932645",
     "geom:latitude":46.510985,
     "geom:longitude":15.729695,
@@ -20,9 +20,6 @@
     "name:bos_x_preferred":[
         "Zgornji Duplek"
     ],
-    "name:dut_x_preferred":[
-        "Zgornji Duplek"
-    ],
     "name:eng_x_preferred":[
         "Zgornji Duplek"
     ],
@@ -30,9 +27,6 @@
         "Zgornji Duplek"
     ],
     "name:ron_x_preferred":[
-        "Zgornji Duplek"
-    ],
-    "name:rum_x_preferred":[
         "Zgornji Duplek"
     ],
     "name:rus_x_preferred":[
@@ -90,7 +84,7 @@
         }
     ],
     "wof:id":101791167,
-    "wof:lastmodified":1531170952,
+    "wof:lastmodified":1561840632,
     "wof:name":"Zgornji Duplek",
     "wof:parent_id":1108959529,
     "wof:placetype":"locality",

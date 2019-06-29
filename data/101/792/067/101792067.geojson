@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000484,
-    "geom:area_square_m":4149944.40148,
+    "geom:area_square_m":4149944.401479,
     "geom:bbox":"14.382041097,46.1293578227,14.446626735,46.1541141001",
     "geom:latitude":46.140674,
     "geom:longitude":14.410533,
@@ -27,9 +27,6 @@
         "Ob\u010dina Medvode"
     ],
     "name:deu_x_preferred":[
-        "Medvode"
-    ],
-    "name:dut_x_preferred":[
         "Medvode"
     ],
     "name:eng_x_preferred":[
@@ -74,7 +71,7 @@
     "name:ron_x_preferred":[
         "Comuna Medvode"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Medvode"
     ],
     "name:rus_x_preferred":[
@@ -149,7 +146,7 @@
         }
     ],
     "wof:id":101792067,
-    "wof:lastmodified":1531170282,
+    "wof:lastmodified":1561840639,
     "wof:name":"Medvode",
     "wof:parent_id":1108959881,
     "wof:placetype":"locality",

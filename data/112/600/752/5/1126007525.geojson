@@ -22,9 +22,6 @@
     "name:bul_x_preferred":[
         "\u041b\u043e\u043a\u0430\u0432\u0435\u0446"
     ],
-    "name:dut_x_preferred":[
-        "Lokavec"
-    ],
     "name:eng_x_preferred":[
         "Lokavec"
     ],
@@ -34,10 +31,13 @@
     "name:ita_x_preferred":[
         "Locavizza di Aidussina"
     ],
+    "name:nld_x_preferred":[
+        "Lokavec"
+    ],
     "name:pol_x_preferred":[
         "Lokavec"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Lokavec"
     ],
     "name:rus_x_preferred":[
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":1126007525,
-    "wof:lastmodified":1531170229,
+    "wof:lastmodified":1561840645,
     "wof:name":"Lokavec",
     "wof:parent_id":1108959545,
     "wof:placetype":"locality",

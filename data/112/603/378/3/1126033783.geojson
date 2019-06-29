@@ -22,9 +22,6 @@
     "name:bos_x_preferred":[
         "Bakovci"
     ],
-    "name:dut_x_preferred":[
-        "Bakovci"
-    ],
     "name:eng_x_preferred":[
         "Bakovci"
     ],
@@ -40,7 +37,10 @@
     "name:ita_x_preferred":[
         "Bakovci"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Bakovci"
+    ],
+    "name:ron_x_preferred":[
         "Bakovci"
     ],
     "name:slv_x_preferred":[
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":1126033783,
-    "wof:lastmodified":1531170197,
+    "wof:lastmodified":1561840641,
     "wof:name":"Bakovci",
     "wof:parent_id":1108959483,
     "wof:placetype":"locality",

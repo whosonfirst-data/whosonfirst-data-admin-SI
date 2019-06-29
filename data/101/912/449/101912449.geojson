@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000048,
-    "geom:area_square_m":406140.76506,
+    "geom:area_square_m":406140.765061,
     "geom:bbox":"14.0957806685,46.3858816676,14.1128088596,46.392274373",
     "geom:latitude":46.388529,
     "geom:longitude":14.106157,
@@ -17,9 +17,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:bos_x_preferred":[
-        "Zasip"
-    ],
-    "name:dut_x_preferred":[
         "Zasip"
     ],
     "name:eng_x_preferred":[
@@ -38,9 +35,6 @@
         "Zasip"
     ],
     "name:ron_x_preferred":[
-        "Zasip"
-    ],
-    "name:rum_x_preferred":[
         "Zasip"
     ],
     "name:slv_x_preferred":[
@@ -92,7 +86,7 @@
         }
     ],
     "wof:id":101912449,
-    "wof:lastmodified":1531508688,
+    "wof:lastmodified":1561840636,
     "wof:name":"Zasip",
     "wof:parent_id":1108959797,
     "wof:placetype":"locality",

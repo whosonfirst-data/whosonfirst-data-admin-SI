@@ -32,8 +32,8 @@
     "name:deu_x_preferred":[
         "Puconci"
     ],
-    "name:dut_x_preferred":[
-        "Puconci"
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c5\u03ba\u03cc\u03bd\u03ba\u03b9"
     ],
     "name:eng_x_preferred":[
         "Puconci"
@@ -46,15 +46,6 @@
     ],
     "name:fra_x_preferred":[
         "Puconci"
-    ],
-    "name:fre_x_preferred":[
-        "Puconci"
-    ],
-    "name:ger_x_preferred":[
-        "Puconci"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03c5\u03ba\u03cc\u03bd\u03ba\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ac1\u0a95\u0acb\u0aa8\u0acd\u0a95\u0ac0"
@@ -95,7 +86,7 @@
     "name:mar_x_preferred":[
         "\u092a\u094b\u0915\u094b\u0902\u091a\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Puconci"
     ],
     "name:nld_x_preferred":[
@@ -111,9 +102,6 @@
         "Puconci"
     ],
     "name:ron_x_preferred":[
-        "Puconci"
-    ],
-    "name:rum_x_preferred":[
         "Puconci"
     ],
     "name:rus_x_preferred":[
@@ -200,7 +188,7 @@
         }
     ],
     "wof:id":101791191,
-    "wof:lastmodified":1531170199,
+    "wof:lastmodified":1561840633,
     "wof:name":"Puconci",
     "wof:parent_id":1108959935,
     "wof:placetype":"locality",

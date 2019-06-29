@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000107,
-    "geom:area_square_m":907704.771741,
+    "geom:area_square_m":907704.771742,
     "geom:bbox":"15.8229746565,46.5682948321,15.8418660891,46.5843758344",
     "geom:latitude":46.576663,
     "geom:longitude":15.832554,
@@ -20,14 +20,11 @@
     "name:bos_x_preferred":[
         "Lenart v Slovenskih goricah"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ob\u010dina Lenart"
     ],
     "name:deu_x_preferred":[
         "Lenart"
-    ],
-    "name:dut_x_preferred":[
-        "Lenart v Slovenskih goricah"
     ],
     "name:eng_x_preferred":[
         "Lenart v Slovenskih goricah"
@@ -36,12 +33,6 @@
         "Lenart"
     ],
     "name:fra_x_preferred":[
-        "Lenart"
-    ],
-    "name:fre_x_preferred":[
-        "Lenart"
-    ],
-    "name:ger_x_preferred":[
         "Lenart"
     ],
     "name:hbs_x_preferred":[
@@ -71,7 +62,7 @@
     "name:ron_x_preferred":[
         "Lenart v Slovenskih goricah"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Lenart"
     ],
     "name:slv_x_preferred":[
@@ -147,7 +138,7 @@
         }
     ],
     "wof:id":101845285,
-    "wof:lastmodified":1531170946,
+    "wof:lastmodified":1561840634,
     "wof:name":"Lenart v Slov. goricah",
     "wof:parent_id":1108959477,
     "wof:placetype":"locality",

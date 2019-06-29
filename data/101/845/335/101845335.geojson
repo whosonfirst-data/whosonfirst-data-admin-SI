@@ -26,13 +26,7 @@
     "name:arg_x_preferred":[
         "Idrija"
     ],
-    "name:arm_x_preferred":[
-        "\u053b\u0564\u0580\u056b\u0561"
-    ],
     "name:ast_x_preferred":[
-        "Idrija"
-    ],
-    "name:baq_x_preferred":[
         "Idrija"
     ],
     "name:bar_x_preferred":[
@@ -50,20 +44,23 @@
     "name:cat_x_preferred":[
         "Idrija"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u5fb7\u91cc\u4e9e"
+    "name:ces_x_preferred":[
+        "Idrija"
     ],
     "name:cos_x_preferred":[
         "Idrija"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Idrija"
     ],
     "name:dan_x_preferred":[
         "Idrija"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Idrija"
+    ],
+    "name:ell_x_preferred":[
+        "\u0399\u03bd\u03c4\u03c1\u03af\u03c4\u03b6\u03b1"
     ],
     "name:eng_x_preferred":[
         "Idrija"
@@ -74,22 +71,22 @@
     "name:est_x_preferred":[
         "Idrija"
     ],
+    "name:eus_x_preferred":[
+        "Idrija"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u062f\u0631\u06cc\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "Idrija"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Idrija"
     ],
     "name:frp_x_preferred":[
         "Idrija"
     ],
     "name:fur_x_preferred":[
-        "Idrija"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10d3\u10e0\u10d8\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
         "Idrija"
     ],
     "name:gla_x_preferred":[
@@ -100,9 +97,6 @@
     ],
     "name:glg_x_preferred":[
         "Idrija"
-    ],
-    "name:gre_x_preferred":[
-        "\u0399\u03bd\u03c4\u03c1\u03af\u03c4\u03b6\u03b1"
     ],
     "name:gsw_x_preferred":[
         "Idrija"
@@ -122,8 +116,8 @@
     "name:hun_x_preferred":[
         "Idrija"
     ],
-    "name:ice_x_preferred":[
-        "Idrija"
+    "name:hye_x_preferred":[
+        "\u053b\u0564\u0580\u056b\u0561"
     ],
     "name:ido_x_preferred":[
         "Idrija"
@@ -137,6 +131,9 @@
     "name:ind_x_preferred":[
         "Idrija"
     ],
+    "name:isl_x_preferred":[
+        "Idrija"
+    ],
     "name:ita_x_preferred":[
         "Idria"
     ],
@@ -145,6 +142,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c87\u0ca1\u0ccd\u0ca1\u0cbf\u0c9c\u0cbe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10d3\u10e0\u10d8\u10d8\u10d0"
     ],
     "name:kon_x_preferred":[
         "Idrija"
@@ -170,19 +170,22 @@
     "name:mar_x_preferred":[
         "\u0907\u0928\u094d\u0921\u094d\u0930\u0940\u091c"
     ],
-    "name:may_x_preferred":[
-        "Idrija"
-    ],
     "name:min_x_preferred":[
         "Idrija"
     ],
     "name:mlg_x_preferred":[
         "Idrija"
     ],
+    "name:msa_x_preferred":[
+        "Idrija"
+    ],
     "name:nap_x_preferred":[
         "Idrija"
     ],
     "name:nds_x_preferred":[
+        "Idrija"
+    ],
+    "name:nld_x_preferred":[
         "Idrija"
     ],
     "name:nno_x_preferred":[
@@ -200,9 +203,6 @@
     "name:pcd_x_preferred":[
         "Idrija"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u062f\u0631\u06cc\u06cc\u0627"
-    ],
     "name:pms_x_preferred":[
         "Idrija"
     ],
@@ -215,7 +215,7 @@
     "name:roh_x_preferred":[
         "Idrija"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Idrija"
     ],
     "name:rus_x_preferred":[
@@ -230,7 +230,7 @@
     "name:sin_x_preferred":[
         "\u0d89\u0daf\u0dca\u200d\u0dbb\u0dd2\u0da2\u0dcf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Idrija"
     ],
     "name:slv_x_preferred":[
@@ -293,9 +293,6 @@
     "name:vol_x_preferred":[
         "Idrija"
     ],
-    "name:wel_x_preferred":[
-        "Idrija"
-    ],
     "name:wln_x_preferred":[
         "Idrija"
     ],
@@ -304,6 +301,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10d8\u10d8\u10d3\u10e0\u10d8\u10d8\u10d0"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u5fb7\u91cc\u4e9e"
     ],
     "name:zul_x_preferred":[
         "Idrija"
@@ -359,7 +359,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531170233,
+    "wof:lastmodified":1561840634,
     "wof:name":"Idrija",
     "wof:parent_id":1108959535,
     "wof:placetype":"locality",

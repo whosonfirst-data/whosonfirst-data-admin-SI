@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000588,
-    "geom:area_square_m":5030221.403725,
+    "geom:area_square_m":5030221.403724,
     "geom:bbox":"14.5791399427,46.1866481446,14.6193914203,46.2405264656",
     "geom:latitude":46.213952,
     "geom:longitude":14.603037,
@@ -19,9 +19,6 @@
     "mz:is_current":1,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0645\u0646\u064a\u0643"
-    ],
-    "name:baq_x_preferred":[
-        "Kamnik"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u0430\u043c\u043d\u0456\u043a"
@@ -38,19 +35,10 @@
     "name:ces_x_preferred":[
         "Kamnik"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u59c6\u5c3c\u514b"
-    ],
-    "name:cze_x_preferred":[
-        "Kamnik"
-    ],
     "name:dan_x_preferred":[
         "Kamnik"
     ],
     "name:deu_x_preferred":[
-        "Kamnik"
-    ],
-    "name:dut_x_preferred":[
         "Kamnik"
     ],
     "name:eng_x_preferred":[
@@ -69,15 +57,6 @@
         "Kamnik"
     ],
     "name:fra_x_preferred":[
-        "Kamnik"
-    ],
-    "name:fre_x_preferred":[
-        "Kamnik"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10db\u10dc\u10d8\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Kamnik"
     ],
     "name:hbs_x_preferred":[
@@ -113,9 +92,6 @@
     "name:ltz_x_preferred":[
         "Kamnik"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0430\u043c\u043d\u0438\u043a"
-    ],
     "name:mkd_x_preferred":[
         "\u041a\u0430\u043c\u043d\u0438\u043a"
     ],
@@ -124,9 +100,6 @@
     ],
     "name:oci_x_preferred":[
         "Kamnik"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u0627\u0645\u0646\u06cc\u06a9"
     ],
     "name:pol_x_preferred":[
         "Gmina Kamnik"
@@ -137,16 +110,10 @@
     "name:ron_x_preferred":[
         "Kamnik"
     ],
-    "name:rum_x_preferred":[
-        "Kamnik"
-    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u043c\u043d\u0438\u043a"
     ],
     "name:slk_x_preferred":[
-        "Kamnik"
-    ],
-    "name:slo_x_preferred":[
         "Kamnik"
     ],
     "name:slv_x_preferred":[
@@ -240,7 +207,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531170282,
+    "wof:lastmodified":1561840636,
     "wof:name":"Kamnik",
     "wof:parent_id":1108959941,
     "wof:placetype":"locality",

@@ -16,10 +16,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:cze_x_preferred":[
-        "Rogla"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Rogla"
     ],
     "name:eng_x_preferred":[
@@ -28,7 +25,10 @@
     "name:hrv_x_preferred":[
         "Rogla"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Rogla"
+    ],
+    "name:ron_x_preferred":[
         "Rogla"
     ],
     "name:slv_x_preferred":[
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":1126003309,
-    "wof:lastmodified":1531170668,
+    "wof:lastmodified":1561840646,
     "wof:name":"Rogla",
     "wof:parent_id":1108959671,
     "wof:placetype":"locality",

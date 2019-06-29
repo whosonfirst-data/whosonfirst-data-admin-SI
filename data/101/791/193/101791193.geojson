@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000155,
-    "geom:area_square_m":1316638.323975,
+    "geom:area_square_m":1316638.323977,
     "geom:bbox":"16.0734881464,46.6418931738,16.1108191275,46.6576478238",
     "geom:latitude":46.650337,
     "geom:longitude":16.094424,
@@ -20,13 +20,10 @@
     "name:bos_x_preferred":[
         "Ti\u0161ina"
     ],
-    "name:chi_x_preferred":[
-        "\u8482\u5e0c\u7d0d"
-    ],
     "name:dan_x_preferred":[
         "Ti\u0161ina"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ti\u0161ina"
     ],
     "name:eng_x_preferred":[
@@ -38,10 +35,10 @@
     "name:fao_x_preferred":[
         "Ti\u0161ina"
     ],
-    "name:fre_x_preferred":[
-        "Ti\u0161ina"
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0634\u06cc\u0646\u0627"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ti\u0161ina"
     ],
     "name:hbs_x_preferred":[
@@ -65,7 +62,7 @@
     "name:kor_x_preferred":[
         "\ud2f0\uc2dc\ub098"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0422\u0438\u0448\u0438\u043d\u0430"
     ],
     "name:nld_x_preferred":[
@@ -77,9 +74,6 @@
     "name:nob_x_preferred":[
         "Ti\u0161ina"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u06cc\u0634\u06cc\u0646\u0627"
-    ],
     "name:pol_x_preferred":[
         "Gmina Ti\u0161ina"
     ],
@@ -87,9 +81,6 @@
         "Ti\u0161ina"
     ],
     "name:ron_x_preferred":[
-        "Ti\u0161ina"
-    ],
-    "name:rum_x_preferred":[
         "Ti\u0161ina"
     ],
     "name:slv_x_preferred":[
@@ -106,6 +97,9 @@
     ],
     "name:vie_x_preferred":[
         "Ti\u0161ina"
+    ],
+    "name:zho_x_preferred":[
+        "\u8482\u5e0c\u7d0d"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -149,7 +143,7 @@
         }
     ],
     "wof:id":101791193,
-    "wof:lastmodified":1531508505,
+    "wof:lastmodified":1561840632,
     "wof:name":"Ti\u0161ina",
     "wof:parent_id":1108959519,
     "wof:placetype":"locality",

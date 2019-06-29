@@ -20,10 +20,7 @@
     "name:bos_x_preferred":[
         "Gornji Petrovci"
     ],
-    "name:chi_x_preferred":[
-        "\u4e0a\u5f7c\u5f97\u7f85\u592b\u9f4a"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Gornji Petrovci"
     ],
     "name:eng_x_preferred":[
@@ -32,10 +29,7 @@
     "name:epo_x_preferred":[
         "Gornji Petrovci"
     ],
-    "name:fre_x_preferred":[
-        "Gornji Petrovci"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Gornji Petrovci"
     ],
     "name:hrv_x_preferred":[
@@ -53,10 +47,13 @@
     "name:kor_x_preferred":[
         "\uace0\ub974\ub2c8\ud398\ud2b8\ub85c\ube0c\uce58"
     ],
+    "name:nld_x_preferred":[
+        "Gornji Petrovci"
+    ],
     "name:por_x_preferred":[
         "Gornji Petrovci"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Gornji Petrovci"
     ],
     "name:slv_x_preferred":[
@@ -73,6 +70,9 @@
     ],
     "name:vie_x_preferred":[
         "Gornji Petrovci"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u5f7c\u5f97\u7f85\u592b\u9f4a"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -121,7 +121,7 @@
         }
     ],
     "wof:id":101858991,
-    "wof:lastmodified":1544744685,
+    "wof:lastmodified":1561840636,
     "wof:name":"Gornji Petrovci",
     "wof:parent_id":1108959531,
     "wof:placetype":"locality",

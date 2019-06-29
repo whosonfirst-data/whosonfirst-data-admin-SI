@@ -159,9 +159,6 @@
     "name:cym_x_preferred":[
         "Slofenia"
     ],
-    "name:cze_x_preferred":[
-        "Slovinsko"
-    ],
     "name:dan_x_preferred":[
         "Slovenien"
     ],
@@ -612,9 +609,6 @@
     "name:rue_x_preferred":[
         "\u0421\u043b\u043e\u0432\u0435\u043d\u0456\u044f"
     ],
-    "name:rum_x_preferred":[
-        "Slovenia"
-    ],
     "name:run_x_preferred":[
         "Siloveniya"
     ],
@@ -830,8 +824,7 @@
         "\u65af\u6d1b\u6587\u5c3c\u4e9a"
     ],
     "name:zho_x_variant":[
-        "\u65af\u6d1b\u7dad\u5c3c\u4e9e",
-        "\u65af\u6d1b\u6587\u5c3c\u4e9a"
+        "\u65af\u6d1b\u7dad\u5c3c\u4e9e"
     ],
     "name:zho_yue_x_preferred":[
         "\u65af\u6d1b\u6587\u5c3c\u4e9e"
@@ -989,7 +982,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1544059260,
+    "wof:lastmodified":1561840616,
     "wof:name":"Slovenia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

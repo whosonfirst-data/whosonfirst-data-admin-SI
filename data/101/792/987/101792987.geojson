@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000091,
-    "geom:area_square_m":788142.811589,
+    "geom:area_square_m":788142.81159,
     "geom:bbox":"13.9531709859,45.8341134545,13.964467488,45.8523417669",
     "geom:latitude":45.843297,
     "geom:longitude":13.960039,
@@ -23,10 +23,7 @@
     "name:bos_x_preferred":[
         "Vipava"
     ],
-    "name:chi_x_preferred":[
-        "\u7dad\u5e15\u74e6"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Vipava"
     ],
     "name:eng_x_preferred":[
@@ -35,10 +32,10 @@
     "name:epo_x_preferred":[
         "Vipava"
     ],
-    "name:fre_x_preferred":[
-        "Vipava"
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u067e\u0627\u0648\u0627\u060c \u0627\u0633\u0644\u0648\u0648\u0646\u06cc"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Vipava"
     ],
     "name:hun_x_preferred":[
@@ -59,16 +56,10 @@
     "name:nld_x_preferred":[
         "Vipava"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u06cc\u067e\u0627\u0648\u0627\u060c \u0627\u0633\u0644\u0648\u0648\u0646\u06cc"
-    ],
     "name:por_x_preferred":[
         "Vipava"
     ],
     "name:ron_x_preferred":[
-        "Vipava"
-    ],
-    "name:rum_x_preferred":[
         "Vipava"
     ],
     "name:rus_x_preferred":[
@@ -94,6 +85,9 @@
     ],
     "name:vie_x_preferred":[
         "Vipava"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u5e15\u74e6"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -139,7 +133,7 @@
         }
     ],
     "wof:id":101792987,
-    "wof:lastmodified":1553815507,
+    "wof:lastmodified":1561840639,
     "wof:name":"Vipava",
     "wof:parent_id":1108959623,
     "wof:placetype":"locality",

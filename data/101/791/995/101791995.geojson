@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000167,
-    "geom:area_square_m":1426487.702264,
+    "geom:area_square_m":1426487.702265,
     "geom:bbox":"15.9441106051,46.4284874367,15.9818058106,46.4403796705",
     "geom:latitude":46.433866,
     "geom:longitude":15.957992,
@@ -26,9 +26,6 @@
     "name:deu_x_preferred":[
         "Dornava"
     ],
-    "name:dut_x_preferred":[
-        "Dornava"
-    ],
     "name:eng_x_preferred":[
         "Dornava"
     ],
@@ -45,9 +42,6 @@
         "Dornava"
     ],
     "name:ron_x_preferred":[
-        "Dornava"
-    ],
-    "name:rum_x_preferred":[
         "Dornava"
     ],
     "name:slv_x_preferred":[
@@ -117,7 +111,7 @@
         }
     ],
     "wof:id":101791995,
-    "wof:lastmodified":1531170947,
+    "wof:lastmodified":1561840633,
     "wof:name":"Dornava",
     "wof:parent_id":1108959761,
     "wof:placetype":"locality",

@@ -23,20 +23,11 @@
     "name:ces_x_preferred":[
         "Hodo\u0161"
     ],
-    "name:chi_x_preferred":[
-        "\u970d\u591a\u4ec0"
-    ],
-    "name:cze_x_preferred":[
-        "Hodo\u0161"
-    ],
     "name:deu_x_preferred":[
         "Hodo\u0161"
     ],
     "name:deu_x_variant":[
         "Hodosch"
-    ],
-    "name:dut_x_preferred":[
-        "Hodo\u0161"
     ],
     "name:eng_x_preferred":[
         "Hodo\u0161"
@@ -46,12 +37,6 @@
     ],
     "name:fra_x_preferred":[
         "Hodos"
-    ],
-    "name:fre_x_preferred":[
-        "Hodos"
-    ],
-    "name:ger_x_preferred":[
-        "Hodo\u0161"
     ],
     "name:hrv_x_preferred":[
         "Hodo\u0161"
@@ -83,9 +68,6 @@
     "name:ron_x_preferred":[
         "Hodo\u0161"
     ],
-    "name:rum_x_preferred":[
-        "Hodo\u0161"
-    ],
     "name:slv_x_preferred":[
         "Ob\u010dina Hodo\u0161"
     ],
@@ -103,6 +85,9 @@
     ],
     "name:vie_x_preferred":[
         "Hodo\u0161"
+    ],
+    "name:zho_x_preferred":[
+        "\u970d\u591a\u4ec0"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -152,7 +137,7 @@
         }
     ],
     "wof:id":101859011,
-    "wof:lastmodified":1544744696,
+    "wof:lastmodified":1561840635,
     "wof:name":"Hodo\u0161",
     "wof:parent_id":1108959637,
     "wof:placetype":"locality",

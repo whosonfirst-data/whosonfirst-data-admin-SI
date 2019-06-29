@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00023,
-    "geom:area_square_m":1975291.157291,
+    "geom:area_square_m":1975291.15729,
     "geom:bbox":"14.6429762422,45.9474826405,14.6669537317,45.9672001412",
     "geom:latitude":45.957216,
     "geom:longitude":14.657005,
@@ -32,20 +32,14 @@
     "name:ces_x_preferred":[
         "Grosuplje"
     ],
-    "name:chi_x_preferred":[
-        "\u683c\u7f85\u8607\u666e\u5217"
-    ],
-    "name:cze_x_preferred":[
-        "Grosuplje"
-    ],
     "name:dan_x_preferred":[
         "Grosuplje"
     ],
     "name:deu_x_preferred":[
         "Grosuplje"
     ],
-    "name:dut_x_preferred":[
-        "Grosuplje"
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03c1\u03bf\u03c3\u03bf\u03cd\u03c0\u03bb\u03b9\u03b5"
     ],
     "name:eng_x_preferred":[
         "Grosuplje"
@@ -55,15 +49,6 @@
     ],
     "name:fra_x_preferred":[
         "Grosuplje"
-    ],
-    "name:fre_x_preferred":[
-        "Grosuplje"
-    ],
-    "name:ger_x_preferred":[
-        "Grosuplje"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03c1\u03bf\u03c3\u03bf\u03cd\u03c0\u03bb\u03b9\u03b5"
     ],
     "name:hbs_x_preferred":[
         "Grosuplje"
@@ -86,9 +71,6 @@
     "name:oci_x_preferred":[
         "Grosuplje"
     ],
-    "name:per_x_preferred":[
-        "\u06af\u0631\u0633\u0648\u067e\u0644\u06cc\u0647"
-    ],
     "name:pol_x_preferred":[
         "Gmina Grosuplje"
     ],
@@ -98,16 +80,10 @@
     "name:ron_x_preferred":[
         "Grosuplje"
     ],
-    "name:rum_x_preferred":[
-        "Grosuplje"
-    ],
     "name:rus_x_preferred":[
         "\u0413\u0440\u043e\u0441\u0443\u043f\u043b\u0435"
     ],
     "name:slk_x_preferred":[
-        "Grosuplje"
-    ],
-    "name:slo_x_preferred":[
         "Grosuplje"
     ],
     "name:slv_x_preferred":[
@@ -183,7 +159,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531170280,
+    "wof:lastmodified":1561840636,
     "wof:name":"Grosuplje",
     "wof:parent_id":1108959533,
     "wof:placetype":"locality",

@@ -32,8 +32,8 @@
     "name:deu_x_preferred":[
         "Vransko"
     ],
-    "name:dut_x_preferred":[
-        "Vransko"
+    "name:ell_x_preferred":[
+        "\u0392\u03c1\u03ac\u03bd\u03c3\u03ba\u03bf"
     ],
     "name:eng_x_preferred":[
         "Vransko"
@@ -43,15 +43,6 @@
     ],
     "name:fra_x_preferred":[
         "Vransko"
-    ],
-    "name:fre_x_preferred":[
-        "Vransko"
-    ],
-    "name:ger_x_preferred":[
-        "Vransko"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03c1\u03ac\u03bd\u03c3\u03ba\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0acd\u0ab0\u0abe\u0aa8\u0acd\u0ab8\u0acd\u0a95\u0acb"
@@ -89,7 +80,10 @@
     "name:mar_x_preferred":[
         "\u0935\u094d\u0930\u093e\u0928\u094d\u0938\u094d\u0915\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Vransko"
+    ],
+    "name:nld_x_preferred":[
         "Vransko"
     ],
     "name:nob_x_preferred":[
@@ -102,9 +96,6 @@
         "Vransko"
     ],
     "name:ron_x_preferred":[
-        "Vransko"
-    ],
-    "name:rum_x_preferred":[
         "Vransko"
     ],
     "name:rus_x_preferred":[
@@ -193,7 +184,7 @@
         }
     ],
     "wof:id":101857915,
-    "wof:lastmodified":1544744143,
+    "wof:lastmodified":1561840635,
     "wof:name":"Vransko",
     "wof:parent_id":1108959827,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000128,
-    "geom:area_square_m":1097359.181608,
+    "geom:area_square_m":1097359.181609,
     "geom:bbox":"14.1059487604,46.0432215299,14.1206065544,46.0585080825",
     "geom:latitude":46.051244,
     "geom:longitude":14.112632,
@@ -32,8 +32,11 @@
     "name:dan_x_preferred":[
         "\u017diri"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "\u017diri"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03af\u03c1\u03b9"
     ],
     "name:eng_x_preferred":[
         "\u017diri"
@@ -41,14 +44,8 @@
     "name:fin_x_preferred":[
         "\u017diri"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "\u017diri"
-    ],
-    "name:ger_x_preferred":[
-        "\u017diri"
-    ],
-    "name:gre_x_preferred":[
-        "\u0396\u03af\u03c1\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0abf\u0ab0\u0ac0"
@@ -86,7 +83,7 @@
     "name:mar_x_preferred":[
         "\u091c\u093f\u0930\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ziri"
     ],
     "name:nld_x_preferred":[
@@ -102,9 +99,6 @@
         "Ziri"
     ],
     "name:ron_x_preferred":[
-        "\u017diri"
-    ],
-    "name:rum_x_preferred":[
         "\u017diri"
     ],
     "name:rus_x_preferred":[
@@ -198,7 +192,7 @@
         }
     ],
     "wof:id":101793001,
-    "wof:lastmodified":1553815507,
+    "wof:lastmodified":1561840637,
     "wof:name":"\u017diri",
     "wof:parent_id":1108959673,
     "wof:placetype":"locality",

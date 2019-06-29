@@ -30,9 +30,6 @@
     "name:bam_x_preferred":[
         "Ankaran"
     ],
-    "name:baq_x_preferred":[
-        "Ankaran"
-    ],
     "name:bar_x_preferred":[
         "Ankaran"
     ],
@@ -48,22 +45,19 @@
     "name:cat_x_preferred":[
         "Ankaran"
     ],
-    "name:chi_x_preferred":[
-        "\u5b89\u5361\u862d"
+    "name:ces_x_preferred":[
+        "Ankaran"
     ],
     "name:cos_x_preferred":[
         "Ankaran"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Ankaran"
     ],
     "name:dan_x_preferred":[
         "Ankaran"
     ],
     "name:deu_x_preferred":[
-        "Ankaran"
-    ],
-    "name:dut_x_preferred":[
         "Ankaran"
     ],
     "name:eng_x_preferred":[
@@ -75,22 +69,22 @@
     "name:est_x_preferred":[
         "Ankaran"
     ],
+    "name:eus_x_preferred":[
+        "Ankaran"
+    ],
     "name:fin_x_preferred":[
         "Ankaran"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Ankaran"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Ankaran"
     ],
     "name:frp_x_preferred":[
         "Ankaran"
     ],
     "name:fur_x_preferred":[
-        "Ankaran"
-    ],
-    "name:ger_x_preferred":[
         "Ankaran"
     ],
     "name:gla_x_preferred":[
@@ -159,13 +153,13 @@
     "name:ltz_x_preferred":[
         "Ankaran"
     ],
-    "name:may_x_preferred":[
-        "Ankaran"
-    ],
     "name:min_x_preferred":[
         "Ankaran"
     ],
     "name:mlg_x_preferred":[
+        "Ankaran"
+    ],
+    "name:msa_x_preferred":[
         "Ankaran"
     ],
     "name:nap_x_preferred":[
@@ -216,9 +210,6 @@
     "name:ron_x_preferred":[
         "Ankaran"
     ],
-    "name:rum_x_preferred":[
-        "Ankaran"
-    ],
     "name:rus_x_preferred":[
         "\u0410\u043d\u043a\u0430\u0440\u0430\u043d"
     ],
@@ -228,7 +219,7 @@
     "name:sco_x_preferred":[
         "Ankaran"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ankaran"
     ],
     "name:slv_x_preferred":[
@@ -273,14 +264,14 @@
     "name:vol_x_preferred":[
         "Ankaran"
     ],
-    "name:wel_x_preferred":[
-        "Ankaran"
-    ],
     "name:wln_x_preferred":[
         "Ankaran"
     ],
     "name:wol_x_preferred":[
         "Ankaran"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u5361\u862d"
     ],
     "name:zul_x_preferred":[
         "Ankaran"
@@ -331,7 +322,7 @@
         }
     ],
     "wof:id":101794117,
-    "wof:lastmodified":1531508730,
+    "wof:lastmodified":1561840637,
     "wof:name":"Ankaran",
     "wof:parent_id":1108959857,
     "wof:placetype":"locality",

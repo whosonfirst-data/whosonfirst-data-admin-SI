@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000347,
-    "geom:area_square_m":3003067.627802,
+    "geom:area_square_m":3003067.627803,
     "geom:bbox":"14.8497578202,45.6291918469,14.8813326287,45.6597350316",
     "geom:latitude":45.642704,
     "geom:longitude":14.8636,
@@ -33,19 +33,14 @@
         "Gottschee"
     ],
     "name:deu_x_variant":[
-        "Ko\u010devje"
-    ],
-    "name:dut_x_preferred":[
-        "Ko\u010devje"
+        "Ko\u010devje",
+        "Gotschee"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03c4\u03c3\u03ad\u03b2\u03b9\u03b5"
     ],
     "name:eng_x_preferred":[
         "Ko\u010devje"
-    ],
-    "name:ger_x_preferred":[
-        "Gotschee"
     ],
     "name:hbs_x_preferred":[
         "Ko\u010devje"
@@ -84,9 +79,6 @@
         "Gmina Ko\u010devje"
     ],
     "name:ron_x_preferred":[
-        "Ko\u010devje"
-    ],
-    "name:rum_x_preferred":[
         "Ko\u010devje"
     ],
     "name:rus_x_preferred":[
@@ -178,7 +170,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531170065,
+    "wof:lastmodified":1561840637,
     "wof:name":"Ko\u010devje",
     "wof:parent_id":1108959919,
     "wof:placetype":"locality",

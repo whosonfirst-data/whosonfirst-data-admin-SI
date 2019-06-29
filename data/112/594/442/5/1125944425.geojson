@@ -22,10 +22,7 @@
     "name:bos_x_preferred":[
         "Brestanica"
     ],
-    "name:cze_x_preferred":[
-        "Brestanica"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Brestanica"
     ],
     "name:eng_x_preferred":[
@@ -34,7 +31,10 @@
     "name:hrv_x_preferred":[
         "Brestanica"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Brestanica"
+    ],
+    "name:ron_x_preferred":[
         "Brestanica"
     ],
     "name:slv_x_preferred":[
@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":1125944425,
-    "wof:lastmodified":1531170979,
+    "wof:lastmodified":1561840639,
     "wof:name":"Brestanica",
     "wof:parent_id":1108959473,
     "wof:placetype":"locality",
