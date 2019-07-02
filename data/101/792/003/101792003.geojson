@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000102,
-    "geom:area_square_m":867809.320702,
+    "geom:area_square_m":867809.320701,
     "geom:bbox":"16.3325311093,46.5690380246,16.3551563112,46.5766731508",
     "geom:latitude":46.572303,
     "geom:longitude":16.344084,
@@ -24,9 +24,6 @@
         "Ob\u010dina Velika Polana"
     ],
     "name:deu_x_preferred":[
-        "Velika Polana"
-    ],
-    "name:dut_x_preferred":[
         "Velika Polana"
     ],
     "name:eng_x_preferred":[
@@ -68,7 +65,7 @@
     "name:ron_x_preferred":[
         "Comuna Velika Polana"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Velika Polana"
     ],
     "name:rus_x_preferred":[
@@ -131,7 +128,7 @@
         }
     ],
     "wof:id":101792003,
-    "wof:lastmodified":1531170199,
+    "wof:lastmodified":1561840638,
     "wof:name":"Velika Polana",
     "wof:parent_id":1108959697,
     "wof:placetype":"locality",

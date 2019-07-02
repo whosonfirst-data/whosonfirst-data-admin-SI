@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000209,
-    "geom:area_square_m":1785573.827933,
+    "geom:area_square_m":1785573.827934,
     "geom:bbox":"15.4128211608,46.3286121631,15.4360334166,46.3458691483",
     "geom:latitude":46.337538,
     "geom:longitude":15.425669,
@@ -35,17 +35,14 @@
     "name:cat_x_variant":[
         "Slovenske Konice"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u6d1b\u6587\u5c3c\u4e9e\u79d1\u5c3c\u91c7"
-    ],
     "name:dan_x_preferred":[
         "Slovenske Konjice"
     ],
     "name:deu_x_preferred":[
         "Slovenske Konjice"
     ],
-    "name:dut_x_preferred":[
-        "Slovenske Konjice"
+    "name:ell_x_preferred":[
+        "\u03a3\u03bb\u03bf\u03b2\u03ad\u03bd\u03c3\u03ba\u03b5 \u039a\u03bf\u03bd\u03c4\u03b6\u03af\u03ba\u03b5"
     ],
     "name:eng_x_preferred":[
         "Slovenske Konjice"
@@ -58,15 +55,6 @@
     ],
     "name:fra_x_preferred":[
         "Slovenske Konjice"
-    ],
-    "name:fre_x_preferred":[
-        "Slovenske Konjice"
-    ],
-    "name:ger_x_preferred":[
-        "Slovenske Konjice"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03bb\u03bf\u03b2\u03ad\u03bd\u03c3\u03ba\u03b5 \u039a\u03bf\u03bd\u03c4\u03b6\u03af\u03ba\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acd\u0ab2\u0acb\u0ab5\u0ac7\u0a82\u0ab8\u0acd\u0a95 \u0a95\u0acb\u0aa8\u0acd\u0a9c\u0abf\u0ab8"
@@ -107,7 +95,7 @@
     "name:mar_x_preferred":[
         "\u0938\u094d\u0932\u094b\u0935\u094d\u0939\u0947\u0928\u094d\u0938\u094d\u0915 \u0915\u094b\u0928\u091c\u093f\u0938"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Slovenske Konjice"
     ],
     "name:nld_x_preferred":[
@@ -119,9 +107,6 @@
     "name:oci_x_preferred":[
         "Slovenske Konjice"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0644\u0648\u0646\u0633\u06a9\u0647 \u06a9\u0646\u06cc\u06cc\u062a\u0633\u0647"
-    ],
     "name:pol_x_preferred":[
         "Gmina Slovenske Konjice"
     ],
@@ -131,9 +116,6 @@
     "name:ron_x_preferred":[
         "Slovenske Konjice"
     ],
-    "name:rum_x_preferred":[
-        "Slovenske Konjice"
-    ],
     "name:rus_x_preferred":[
         "\u0421\u043b\u043e\u0432\u0435\u043d\u0441\u043a\u0435-\u041a\u043e\u043d\u0438\u0446\u0435"
     ],
@@ -141,9 +123,6 @@
         "\u0dc3\u0dca\u0dbd\u0ddd\u0dc0\u0dd9\u0db1\u0dca\u0dc3\u0dca\u0d9a\u0dda \u0d9a\u0ddc\u0db1\u0dca\u0da2\u0dd2\u0dc3\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Slovenske Konjice"
-    ],
-    "name:slo_x_preferred":[
         "Slovenske Konjice"
     ],
     "name:slv_x_preferred":[
@@ -249,7 +228,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531170668,
+    "wof:lastmodified":1561840638,
     "wof:name":"Slovenske Konjice",
     "wof:parent_id":1108959753,
     "wof:placetype":"locality",

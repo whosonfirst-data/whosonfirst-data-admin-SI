@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000413,
-    "geom:area_square_m":3551573.838254,
+    "geom:area_square_m":3551573.838253,
     "geom:bbox":"14.1896895364,45.8930326205,14.2417077203,45.9255206592",
     "geom:latitude":45.913366,
     "geom:longitude":14.222697,
@@ -23,11 +23,11 @@
     "name:bos_x_preferred":[
         "Logatec"
     ],
-    "name:dut_x_preferred":[
-        "Logatec"
-    ],
     "name:eng_x_preferred":[
         "Logatec"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u06af\u0627\u062a\u062a\u0633"
     ],
     "name:hbs_x_preferred":[
         "Logatec"
@@ -47,13 +47,7 @@
     "name:nld_x_preferred":[
         "Logatec"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u06af\u0627\u062a\u062a\u0633"
-    ],
     "name:ron_x_preferred":[
-        "Logatec"
-    ],
-    "name:rum_x_preferred":[
         "Logatec"
     ],
     "name:slv_x_preferred":[
@@ -120,7 +114,7 @@
         }
     ],
     "wof:id":101793019,
-    "wof:lastmodified":1531170282,
+    "wof:lastmodified":1561840637,
     "wof:name":"Logatec",
     "wof:parent_id":1108959889,
     "wof:placetype":"locality",

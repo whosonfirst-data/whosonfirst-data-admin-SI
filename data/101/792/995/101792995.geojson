@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000168,
-    "geom:area_square_m":1446564.692696,
+    "geom:area_square_m":1446564.692695,
     "geom:bbox":"14.3580600819,45.9121213824,14.3720573757,45.9453871722",
     "geom:latitude":45.924713,
     "geom:longitude":14.36484,
@@ -20,25 +20,13 @@
     "name:bos_x_preferred":[
         "Borovnica"
     ],
-    "name:chi_x_preferred":[
-        "\u535a\u7f85\u592b\u5c3c\u5bdf"
-    ],
     "name:deu_x_preferred":[
-        "Borovnica"
-    ],
-    "name:dut_x_preferred":[
         "Borovnica"
     ],
     "name:eng_x_preferred":[
         "Borovnica"
     ],
     "name:fra_x_preferred":[
-        "Borovnica"
-    ],
-    "name:fre_x_preferred":[
-        "Borovnica"
-    ],
-    "name:ger_x_preferred":[
         "Borovnica"
     ],
     "name:hbs_x_preferred":[
@@ -69,9 +57,6 @@
         "Borovnica"
     ],
     "name:ron_x_preferred":[
-        "Borovnica"
-    ],
-    "name:rum_x_preferred":[
         "Borovnica"
     ],
     "name:rus_x_preferred":[
@@ -143,7 +128,7 @@
         }
     ],
     "wof:id":101792995,
-    "wof:lastmodified":1531170278,
+    "wof:lastmodified":1561840638,
     "wof:name":"Borovnica",
     "wof:parent_id":1108959871,
     "wof:placetype":"locality",

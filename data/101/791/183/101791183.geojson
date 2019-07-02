@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000102,
-    "geom:area_square_m":867817.700141,
+    "geom:area_square_m":867817.700142,
     "geom:bbox":"14.8429749542,46.5112161819,14.8644129327,46.5270175982",
     "geom:latitude":46.519132,
     "geom:longitude":14.853039,
@@ -29,29 +29,26 @@
     "name:cat_x_preferred":[
         "Me\u017eica"
     ],
-    "name:chi_x_preferred":[
-        "\u6885\u65e5\u5bdf"
-    ],
     "name:dan_x_preferred":[
         "Me\u017eica"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Me\u017eica"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03b6\u03af\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Me\u017eica"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0698\u06cc\u062a\u0633\u0627"
+    ],
     "name:fin_x_preferred":[
         "Me\u017eica"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Me\u017eica"
-    ],
-    "name:ger_x_preferred":[
-        "Me\u017eica"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b5\u03b6\u03af\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0a9d\u0abf\u0a95\u0abe"
@@ -86,8 +83,11 @@
     "name:mar_x_preferred":[
         "\u092e\u0947\u091d\u093f\u0915\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Mezica"
+    ],
+    "name:nld_x_preferred":[
+        "Me\u017eica"
     ],
     "name:nob_x_preferred":[
         "Mezica"
@@ -95,16 +95,13 @@
     "name:oci_x_preferred":[
         "Me\u017eica"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0698\u06cc\u062a\u0633\u0627"
-    ],
     "name:pol_x_preferred":[
         "Gmina Me\u017eica"
     ],
     "name:por_x_preferred":[
         "Me\u017eica"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Me\u017eica"
     ],
     "name:rus_x_preferred":[
@@ -113,7 +110,7 @@
     "name:sin_x_preferred":[
         "\u0db8\u0dd9\u0dc3\u0dd2\u0d9a\u0dcf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Me\u017eica"
     ],
     "name:slv_x_preferred":[
@@ -151,6 +148,9 @@
     ],
     "name:vie_x_preferred":[
         "Me\u017eica"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u65e5\u5bdf"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -199,7 +199,7 @@
         }
     ],
     "wof:id":101791183,
-    "wof:lastmodified":1531170445,
+    "wof:lastmodified":1561840633,
     "wof:name":"Me\u017eica",
     "wof:parent_id":1108959479,
     "wof:placetype":"locality",

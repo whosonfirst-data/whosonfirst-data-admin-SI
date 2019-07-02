@@ -20,16 +20,10 @@
     "name:bos_x_preferred":[
         "Radlje ob Dravi"
     ],
-    "name:chi_x_preferred":[
-        "\u5fb7\u62c9\u74e6\u6cb3\u7554\u62c9\u5fb7\u5217"
-    ],
-    "name:dut_x_preferred":[
-        "Radlje ob Dravi"
-    ],
     "name:eng_x_preferred":[
         "Radlje ob Dravi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Radlje ob Dravi"
     ],
     "name:ita_x_preferred":[
@@ -42,9 +36,6 @@
         "Radlje ob Dravi"
     ],
     "name:ron_x_preferred":[
-        "Radlje ob Dravi"
-    ],
-    "name:rum_x_preferred":[
         "Radlje ob Dravi"
     ],
     "name:rus_x_preferred":[
@@ -71,6 +62,9 @@
     ],
     "name:unk_x_variant":[
         "Marenberg"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u62c9\u74e6\u6cb3\u7554\u62c9\u5fb7\u5217"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -120,7 +114,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531170444,
+    "wof:lastmodified":1561840633,
     "wof:name":"Radlje ob Dravi",
     "wof:parent_id":1108959557,
     "wof:placetype":"locality",

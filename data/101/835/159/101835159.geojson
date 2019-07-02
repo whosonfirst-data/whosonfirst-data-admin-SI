@@ -23,9 +23,6 @@
     "name:arg_x_preferred":[
         "Ptuj"
     ],
-    "name:baq_x_preferred":[
-        "Ptuj"
-    ],
     "name:bar_x_preferred":[
         "Pettau"
     ],
@@ -50,10 +47,7 @@
     "name:ces_x_preferred":[
         "Ptuj"
     ],
-    "name:chi_x_preferred":[
-        "\u666e\u56fe\u4f0a"
-    ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Ptuj"
     ],
     "name:dan_x_preferred":[
@@ -65,8 +59,8 @@
     "name:deu_x_variant":[
         "Pettau"
     ],
-    "name:dut_x_preferred":[
-        "Ptuj"
+    "name:ell_x_preferred":[
+        "\u03a0\u03c4\u03bf\u03cd\u03b9"
     ],
     "name:eng_x_preferred":[
         "Ptuj"
@@ -89,20 +83,8 @@
     "name:fra_x_preferred":[
         "Ptuj"
     ],
-    "name:fre_x_preferred":[
-        "Ptuj"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10e2\u10e3\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Ptuj"
-    ],
     "name:glg_x_preferred":[
         "Ptuj"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03c4\u03bf\u03cd\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0a9f\u0ac1\u0a9c"
@@ -152,17 +134,14 @@
     "name:lmo_x_preferred":[
         "Ptuj"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u0442\u0443\u0458"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u091f\u0941\u091c"
     ],
-    "name:may_x_preferred":[
-        "Ptuj"
-    ],
     "name:mkd_x_preferred":[
         "\u041f\u0442\u0443\u0458"
+    ],
+    "name:msa_x_preferred":[
+        "Ptuj"
     ],
     "name:nld_x_preferred":[
         "Ptuj"
@@ -176,9 +155,6 @@
     "name:oci_x_preferred":[
         "Ptuj"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u062a\u0648\u06cc"
-    ],
     "name:pnb_x_preferred":[
         "\u067e\u062a\u0648\u0626\u06cc"
     ],
@@ -191,9 +167,6 @@
     "name:ron_x_preferred":[
         "Ptuj"
     ],
-    "name:rum_x_preferred":[
-        "Ptuj"
-    ],
     "name:rus_x_preferred":[
         "\u041f\u0442\u0443\u0439"
     ],
@@ -204,9 +177,6 @@
         "\u0db4\u0dca\u200d\u0da7\u0dd2\u0dba\u0dd4\u0da2\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Ptuj"
-    ],
-    "name:slo_x_preferred":[
         "Ptuj"
     ],
     "name:slv_x_preferred":[
@@ -255,9 +225,6 @@
         "Ptuj"
     ],
     "name:vol_x_preferred":[
-        "Ptuj"
-    ],
-    "name:wel_x_preferred":[
         "Ptuj"
     ],
     "name:zho_x_preferred":[
@@ -314,7 +281,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1535390433,
+    "wof:lastmodified":1561840635,
     "wof:name":"Ptuj",
     "wof:parent_id":1108959659,
     "wof:placetype":"locality",

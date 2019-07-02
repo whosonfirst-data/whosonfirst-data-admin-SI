@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000062,
-    "geom:area_square_m":538750.856285,
+    "geom:area_square_m":538750.856286,
     "geom:bbox":"13.9626907232,45.6779749199,13.9734566188,45.6879656138",
     "geom:latitude":45.683168,
     "geom:longitude":13.967842,
@@ -20,25 +20,16 @@
     "name:bos_x_preferred":[
         "Diva\u010da"
     ],
-    "name:chi_x_preferred":[
-        "\u8fea\u74e6\u5361"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Diva\u010da"
     ],
     "name:deu_x_preferred":[
         "Diva\u010da"
     ],
-    "name:dut_x_preferred":[
-        "Diva\u010da"
-    ],
     "name:eng_x_preferred":[
         "Diva\u010da"
     ],
-    "name:fre_x_preferred":[
-        "Diva\u010da"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Diva\u010da"
     ],
     "name:heb_x_preferred":[
@@ -65,9 +56,6 @@
     "name:ron_x_preferred":[
         "Diva\u010da"
     ],
-    "name:rum_x_preferred":[
-        "Diva\u010da"
-    ],
     "name:slv_x_preferred":[
         "Diva\u010da"
     ],
@@ -82,6 +70,9 @@
     ],
     "name:vie_x_preferred":[
         "Diva\u010da"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fea\u74e6\u5361"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -127,7 +118,7 @@
         }
     ],
     "wof:id":101794119,
-    "wof:lastmodified":1531170309,
+    "wof:lastmodified":1561840637,
     "wof:name":"Diva\u010da",
     "wof:parent_id":1108959845,
     "wof:placetype":"locality",

@@ -20,9 +20,6 @@
     "name:ara_x_preferred":[
         "\u062f\u0631\u0627\u0648\u063a\u0631\u0627\u062f"
     ],
-    "name:arm_x_preferred":[
-        "\u0534\u0580\u0561\u057e\u0578\u0563\u0580\u0561\u0564"
-    ],
     "name:bos_x_preferred":[
         "Dravograd"
     ],
@@ -35,19 +32,10 @@
     "name:ces_x_preferred":[
         "Dravograd"
     ],
-    "name:chi_x_preferred":[
-        "\u5fb7\u62c9\u6c83\u683c\u52d2"
-    ],
-    "name:cze_x_preferred":[
-        "Dravograd"
-    ],
     "name:dan_x_preferred":[
         "Dravograd"
     ],
     "name:deu_x_preferred":[
-        "Dravograd"
-    ],
-    "name:dut_x_preferred":[
         "Dravograd"
     ],
     "name:eng_x_preferred":[
@@ -59,12 +47,6 @@
     "name:fra_x_preferred":[
         "Dravograd"
     ],
-    "name:fre_x_preferred":[
-        "Dravograd"
-    ],
-    "name:ger_x_preferred":[
-        "Dravograd"
-    ],
     "name:glg_x_preferred":[
         "Dravograd"
     ],
@@ -73,6 +55,9 @@
     ],
     "name:hrv_x_preferred":[
         "Dravograd"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0580\u0561\u057e\u0578\u0563\u0580\u0561\u0564"
     ],
     "name:ita_x_preferred":[
         "Dravograd"
@@ -92,9 +77,6 @@
     "name:oci_x_preferred":[
         "Dravograd"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0631\u0627\u0648\u06af\u0631\u0627\u062f"
-    ],
     "name:pol_x_preferred":[
         "Gmina Dravograd"
     ],
@@ -104,16 +86,10 @@
     "name:ron_x_preferred":[
         "Dravograd"
     ],
-    "name:rum_x_preferred":[
-        "Dravograd"
-    ],
     "name:rus_x_preferred":[
         "\u0414\u0440\u0430\u0432\u043e\u0433\u0440\u0430\u0434"
     ],
     "name:slk_x_preferred":[
-        "Dravograd"
-    ],
-    "name:slo_x_preferred":[
         "Dravograd"
     ],
     "name:slv_x_preferred":[
@@ -201,7 +177,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531170445,
+    "wof:lastmodified":1561840634,
     "wof:name":"Dravograd",
     "wof:parent_id":1108959495,
     "wof:placetype":"locality",

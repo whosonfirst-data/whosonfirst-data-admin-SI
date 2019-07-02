@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000091,
-    "geom:area_square_m":778101.387677,
+    "geom:area_square_m":778101.387676,
     "geom:bbox":"15.0806624358,46.2315202063,15.097636286,46.2409344395",
     "geom:latitude":46.236574,
     "geom:longitude":15.089966,
@@ -26,9 +26,6 @@
     "name:deu_x_preferred":[
         "Prebold"
     ],
-    "name:dut_x_preferred":[
-        "Prebold"
-    ],
     "name:eng_x_preferred":[
         "Prebold"
     ],
@@ -45,9 +42,6 @@
         "Prebold"
     ],
     "name:ron_x_preferred":[
-        "Prebold"
-    ],
-    "name:rum_x_preferred":[
         "Prebold"
     ],
     "name:slv_x_preferred":[
@@ -110,7 +104,7 @@
         }
     ],
     "wof:id":101845293,
-    "wof:lastmodified":1531170667,
+    "wof:lastmodified":1561840634,
     "wof:name":"Prebold",
     "wof:parent_id":1108959713,
     "wof:placetype":"locality",

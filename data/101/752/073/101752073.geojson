@@ -69,6 +69,9 @@
     "name:ces_x_preferred":[
         "Lubla\u0148"
     ],
+    "name:ces_x_variant":[
+        "Lublan"
+    ],
     "name:che_x_preferred":[
         "\u041b\u044e\u0431\u043b\u044f\u043d\u0430"
     ],
@@ -86,9 +89,6 @@
     ],
     "name:cym_x_preferred":[
         "Ljubljana"
-    ],
-    "name:cze_x_preferred":[
-        "Lublan"
     ],
     "name:cze_x_variant":[
         "Lubla\u0148"
@@ -458,7 +458,6 @@
         "\u5362\u5e03\u5c14\u96c5\u90a3"
     ],
     "name:zho_x_variant":[
-        "\u5362\u5e03\u5c14\u96c5\u90a3",
         "\u76e7\u5e03\u4e9e\u90a3"
     ],
     "name:zho_yue_x_preferred":[
@@ -614,7 +613,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1536947517,
+    "wof:lastmodified":1561840632,
     "wof:megacity":0,
     "wof:name":"Ljubljana",
     "wof:parent_id":1108959501,

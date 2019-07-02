@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000146,
-    "geom:area_square_m":1246912.110904,
+    "geom:area_square_m":1246912.110905,
     "geom:bbox":"14.1644178324,46.3361701861,14.1842430232,46.3538579755",
     "geom:latitude":46.345051,
     "geom:longitude":14.174057,
@@ -26,16 +26,13 @@
     "name:cat_x_preferred":[
         "Radovljica"
     ],
-    "name:dut_x_preferred":[
-        "Radovljica"
-    ],
     "name:eng_x_preferred":[
         "Radovljica"
     ],
     "name:fas_x_preferred":[
         "\u0631\u0627\u062f\u0648\u0644\u06cc\u06cc\u062a\u0633\u0627"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Radovljica"
     ],
     "name:hbs_x_preferred":[
@@ -50,22 +47,16 @@
     "name:jpn_x_preferred":[
         "\u30e9\u30c9\u30f4\u30ea\u30c4\u30a1"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0420\u0430\u0434\u043e\u0432\u0459\u0438\u0446\u0430"
     ],
     "name:nld_x_preferred":[
         "Radovljica"
     ],
-    "name:per_x_preferred":[
-        "\u0631\u0627\u062f\u0648\u0644\u06cc\u06cc\u062a\u0633\u0627"
-    ],
     "name:pol_x_preferred":[
         "Gmina Radovljica"
     ],
     "name:ron_x_preferred":[
-        "Radovljica"
-    ],
-    "name:rum_x_preferred":[
         "Radovljica"
     ],
     "name:slv_x_preferred":[
@@ -147,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531171365,
+    "wof:lastmodified":1561840637,
     "wof:name":"Radovljica",
     "wof:parent_id":1108959825,
     "wof:placetype":"locality",

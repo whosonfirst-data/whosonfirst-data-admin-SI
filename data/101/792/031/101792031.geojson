@@ -20,9 +20,6 @@
     "name:afr_x_preferred":[
         "Celje"
     ],
-    "name:alb_x_preferred":[
-        "Celje"
-    ],
     "name:ara_x_preferred":[
         "\u062a\u0633\u0644\u064a\u0647"
     ],
@@ -32,13 +29,7 @@
     "name:arg_x_preferred":[
         "Celje"
     ],
-    "name:arm_x_preferred":[
-        "\u0551\u0565\u056c\u0565"
-    ],
     "name:ast_x_preferred":[
-        "Celje"
-    ],
-    "name:baq_x_preferred":[
         "Celje"
     ],
     "name:bar_x_preferred":[
@@ -62,13 +53,10 @@
     "name:ces_x_preferred":[
         "Celje"
     ],
-    "name:chi_x_preferred":[
-        "\u91c7\u5217"
-    ],
     "name:cos_x_preferred":[
         "Celje"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Celje"
     ],
     "name:dan_x_preferred":[
@@ -78,9 +66,6 @@
         "Celje"
     ],
     "name:dsb_x_preferred":[
-        "Celje"
-    ],
-    "name:dut_x_preferred":[
         "Celje"
     ],
     "name:ell_x_preferred":[
@@ -113,26 +98,14 @@
     "name:fra_x_preferred":[
         "Celje"
     ],
-    "name:fre_x_preferred":[
-        "Celje"
-    ],
     "name:frr_x_preferred":[
         "Celje"
     ],
     "name:fry_x_preferred":[
         "Celje"
     ],
-    "name:geo_x_preferred":[
-        "\u10ea\u10d4\u10da\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Celje"
-    ],
     "name:glg_x_preferred":[
         "Celje"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03ad\u03bb\u03b9\u03b5"
     ],
     "name:gsw_x_preferred":[
         "Celje"
@@ -152,13 +125,16 @@
     "name:hun_x_preferred":[
         "Celje"
     ],
-    "name:ice_x_preferred":[
-        "Celje"
+    "name:hye_x_preferred":[
+        "\u0551\u0565\u056c\u0565"
     ],
     "name:ile_x_preferred":[
         "Celje"
     ],
     "name:ind_x_preferred":[
+        "Celje"
+    ],
+    "name:isl_x_preferred":[
         "Celje"
     ],
     "name:ita_x_preferred":[
@@ -172,6 +148,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10ea\u10d4\u10da\u10d8\u10d4"
+    ],
+    "name:kat_x_variant":[
+        "\u10ea\u10d4\u10da\u10d4"
     ],
     "name:kir_x_preferred":[
         "\u0426\u0435\u043b\u043b\u0435"
@@ -190,9 +169,6 @@
     ],
     "name:ltz_x_preferred":[
         "Celje"
-    ],
-    "name:mac_x_preferred":[
-        "\u0426\u0435\u043b\u0458\u0435"
     ],
     "name:min_x_preferred":[
         "Celje"
@@ -221,9 +197,6 @@
     "name:oci_x_preferred":[
         "Celje"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0633\u0644\u06cc\u0647"
-    ],
     "name:pnb_x_preferred":[
         "\u0633\u06cc\u0644\u06cc\u06d2"
     ],
@@ -239,9 +212,6 @@
     "name:ron_x_preferred":[
         "Celje"
     ],
-    "name:rum_x_preferred":[
-        "Celje"
-    ],
     "name:rus_x_preferred":[
         "\u0426\u0435\u043b\u0435"
     ],
@@ -254,9 +224,6 @@
     "name:slk_x_preferred":[
         "Celje"
     ],
-    "name:slo_x_preferred":[
-        "Celje"
-    ],
     "name:slv_x_preferred":[
         "Celje"
     ],
@@ -264,6 +231,9 @@
         "Celje"
     ],
     "name:spa_x_preferred":[
+        "Celje"
+    ],
+    "name:sqi_x_preferred":[
         "Celje"
     ],
     "name:srd_x_preferred":[
@@ -316,9 +286,6 @@
         "Celje"
     ],
     "name:vol_x_preferred":[
-        "Celje"
-    ],
-    "name:wel_x_preferred":[
         "Celje"
     ],
     "name:wln_x_preferred":[
@@ -380,7 +347,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531170670,
+    "wof:lastmodified":1561840638,
     "wof:name":"Celje",
     "wof:parent_id":1108959693,
     "wof:placetype":"locality",

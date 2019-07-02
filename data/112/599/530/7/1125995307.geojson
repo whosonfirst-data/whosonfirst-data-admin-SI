@@ -24,7 +24,7 @@
     "name:bos_x_preferred":[
         "Moravske Toplice"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Moravske Toplice"
     ],
     "name:eng_x_preferred":[
@@ -33,10 +33,7 @@
     "name:epo_x_preferred":[
         "Moravske Toplice"
     ],
-    "name:fre_x_preferred":[
-        "Moravske Toplice"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Moravske Toplice"
     ],
     "name:hrv_x_preferred":[
@@ -54,10 +51,13 @@
     "name:kor_x_preferred":[
         "\ubaa8\ub77c\ube0c\uc2a4\ucf00\ud1a0\ud50c\ub9ac\uccb4"
     ],
+    "name:nld_x_preferred":[
+        "Moravske Toplice"
+    ],
     "name:por_x_preferred":[
         "Moravske Toplice"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Moravske Toplice"
     ],
     "name:slv_x_preferred":[
@@ -131,7 +131,7 @@
         }
     ],
     "wof:id":1125995307,
-    "wof:lastmodified":1534379460,
+    "wof:lastmodified":1561840644,
     "wof:name":"Moravske Toplice",
     "wof:parent_id":1108959925,
     "wof:placetype":"locality",

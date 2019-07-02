@@ -22,9 +22,6 @@
     "name:bos_x_preferred":[
         "Lipovci"
     ],
-    "name:dut_x_preferred":[
-        "Lipovci"
-    ],
     "name:eng_x_preferred":[
         "Lipovci"
     ],
@@ -40,10 +37,13 @@
     "name:ita_x_preferred":[
         "Lipovci"
     ],
+    "name:nld_x_preferred":[
+        "Lipovci"
+    ],
     "name:pol_x_preferred":[
         "Lipovci"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Lipovci"
     ],
     "name:sco_x_preferred":[
@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":1125871809,
-    "wof:lastmodified":1531170197,
+    "wof:lastmodified":1561840643,
     "wof:name":"Lipovci",
     "wof:parent_id":1108959517,
     "wof:placetype":"locality",

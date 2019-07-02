@@ -28,8 +28,11 @@
     "name:dan_x_preferred":[
         "Solcava"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sol\u010dava"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03bb\u03ba\u03ac\u03b2\u03b1"
     ],
     "name:eng_x_preferred":[
         "Sol\u010dava"
@@ -37,14 +40,8 @@
     "name:fin_x_preferred":[
         "Sol\u010dava"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sol\u010dava"
-    ],
-    "name:ger_x_preferred":[
-        "Sol\u010dava"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03bf\u03bb\u03ba\u03ac\u03b2\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acb\u0ab2\u0a95\u0abe\u0ab5\u0abe"
@@ -82,8 +79,11 @@
     "name:mar_x_preferred":[
         "\u0938\u094b\u0932\u091a\u093e\u0935\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Solcava"
+    ],
+    "name:nld_x_preferred":[
+        "Sol\u010dava"
     ],
     "name:nob_x_preferred":[
         "Solcava"
@@ -94,7 +94,7 @@
     "name:por_x_preferred":[
         "Sol\u010dava"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sol\u010dava"
     ],
     "name:rus_x_preferred":[
@@ -184,7 +184,7 @@
         }
     ],
     "wof:id":1125867261,
-    "wof:lastmodified":1553816584,
+    "wof:lastmodified":1561840642,
     "wof:name":"Sol\u010dava",
     "wof:parent_id":1108959639,
     "wof:placetype":"locality",

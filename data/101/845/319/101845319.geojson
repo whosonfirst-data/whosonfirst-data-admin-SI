@@ -32,16 +32,13 @@
     "name:deu_x_preferred":[
         "Semitsch"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Semi\u010d"
     ],
     "name:eng_x_preferred":[
         "Semi\u010d"
     ],
-    "name:fre_x_preferred":[
-        "Semi\u010d"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Semi\u010d"
     ],
     "name:hbs_x_preferred":[
@@ -66,9 +63,6 @@
         "Semi\u010d"
     ],
     "name:ron_x_preferred":[
-        "Semi\u010d"
-    ],
-    "name:rum_x_preferred":[
         "Semi\u010d"
     ],
     "name:slv_x_preferred":[
@@ -135,7 +129,7 @@
         }
     ],
     "wof:id":101845319,
-    "wof:lastmodified":1531170064,
+    "wof:lastmodified":1561840635,
     "wof:name":"Semi\u010d",
     "wof:parent_id":1108959601,
     "wof:placetype":"locality",

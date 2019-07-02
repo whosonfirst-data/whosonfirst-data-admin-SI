@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000177,
-    "geom:area_square_m":1506262.939723,
+    "geom:area_square_m":1506262.939724,
     "geom:bbox":"14.1023495844,46.360360098,14.1256211339,46.3815855219",
     "geom:latitude":46.370186,
     "geom:longitude":14.112603,
@@ -20,9 +20,6 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u064a\u062f"
     ],
-    "name:baq_x_preferred":[
-        "Bled"
-    ],
     "name:bos_x_preferred":[
         "Bled"
     ],
@@ -35,12 +32,6 @@
     "name:ces_x_preferred":[
         "Bled"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u83b1\u5fb7"
-    ],
-    "name:cze_x_preferred":[
-        "Bled"
-    ],
     "name:dan_x_preferred":[
         "Bled"
     ],
@@ -50,8 +41,8 @@
     "name:deu_x_variant":[
         "Veldes"
     ],
-    "name:dut_x_preferred":[
-        "Bled"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bb\u03b5\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Bled"
@@ -73,15 +64,6 @@
     ],
     "name:fra_x_preferred":[
         "Bled"
-    ],
-    "name:fre_x_preferred":[
-        "Bled"
-    ],
-    "name:ger_x_preferred":[
-        "Bled"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03bb\u03b5\u03bd\u03c4"
     ],
     "name:hbs_x_preferred":[
         "Bled"
@@ -110,9 +92,6 @@
     "name:lit_x_preferred":[
         "Bledas"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u043b\u0435\u0434"
-    ],
     "name:mkd_x_preferred":[
         "\u0411\u043b\u0435\u0434"
     ],
@@ -128,9 +107,6 @@
     "name:nor_x_preferred":[
         "Bled"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0644\u062f\u060c \u0627\u0633\u0644\u0648\u0648\u0646\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Bled"
     ],
@@ -140,9 +116,6 @@
     "name:ron_x_preferred":[
         "Bled"
     ],
-    "name:rum_x_preferred":[
-        "Bled"
-    ],
     "name:rus_x_preferred":[
         "\u0411\u043b\u0435\u0434"
     ],
@@ -150,9 +123,6 @@
         "Bled"
     ],
     "name:slk_x_preferred":[
-        "Bled"
-    ],
-    "name:slo_x_preferred":[
         "Bled"
     ],
     "name:slv_x_preferred":[
@@ -236,7 +206,7 @@
         }
     ],
     "wof:id":101792085,
-    "wof:lastmodified":1531508688,
+    "wof:lastmodified":1561840638,
     "wof:name":"Bled",
     "wof:parent_id":1108959797,
     "wof:placetype":"locality",

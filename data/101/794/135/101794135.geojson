@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000345,
-    "geom:area_square_m":2973036.917776,
+    "geom:area_square_m":2973036.917775,
     "geom:bbox":"14.1906058924,45.7629796193,14.2267628953,45.7897375737",
     "geom:latitude":45.774565,
     "geom:longitude":14.211829,
@@ -23,9 +23,6 @@
     "name:arg_x_preferred":[
         "Postojna"
     ],
-    "name:baq_x_preferred":[
-        "Postojna"
-    ],
     "name:bel_x_preferred":[
         "\u041f\u043e\u0441\u0442\u0430\u0439\u043d\u0430"
     ],
@@ -41,10 +38,7 @@
     "name:ces_x_preferred":[
         "Postojna"
     ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u65af\u6258\u4f0a\u7d0d"
-    ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Postojna"
     ],
     "name:dan_x_preferred":[
@@ -56,8 +50,8 @@
     "name:deu_x_variant":[
         "Postojna"
     ],
-    "name:dut_x_preferred":[
-        "Postojna"
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c3\u03c4\u03cc\u03b9\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Postojna"
@@ -68,20 +62,17 @@
     "name:est_x_preferred":[
         "Postojna"
     ],
+    "name:eus_x_preferred":[
+        "Postojna"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0633\u062a\u06cc\u0646\u0627"
+    ],
     "name:fra_x_preferred":[
-        "Postojna"
-    ],
-    "name:fre_x_preferred":[
-        "Postojna"
-    ],
-    "name:ger_x_preferred":[
         "Postojna"
     ],
     "name:glg_x_preferred":[
         "Postojna"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03c3\u03c4\u03cc\u03b9\u03bd\u03b1"
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05d5\u05e1\u05d8\u05d5\u05d9\u05e0\u05d4"
@@ -110,7 +101,7 @@
     "name:lit_x_preferred":[
         "Postoina"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041f\u043e\u0441\u0442\u043e\u0458\u043d\u0430"
     ],
     "name:nld_x_preferred":[
@@ -122,9 +113,6 @@
     "name:oci_x_preferred":[
         "Postojna"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0633\u062a\u06cc\u0646\u0627"
-    ],
     "name:pol_x_preferred":[
         "Postojna"
     ],
@@ -134,13 +122,10 @@
     "name:ron_x_preferred":[
         "Postojna"
     ],
-    "name:rum_x_preferred":[
-        "Postojna"
-    ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u0441\u0442\u043e\u0439\u043d\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Postojna"
     ],
     "name:slv_x_preferred":[
@@ -185,8 +170,8 @@
     "name:vie_x_preferred":[
         "Postojna"
     ],
-    "name:wel_x_preferred":[
-        "Postojna"
+    "name:zho_x_preferred":[
+        "\u6ce2\u65af\u6258\u4f0a\u7d0d"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -240,7 +225,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531170330,
+    "wof:lastmodified":1561840637,
     "wof:name":"Postojna",
     "wof:parent_id":1108959559,
     "wof:placetype":"locality",

@@ -26,26 +26,23 @@
     "name:cat_x_preferred":[
         "\u010crnomelj"
     ],
-    "name:chi_x_preferred":[
-        "\u5947\u723e\u8afe\u6885\u5229"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u010crnomelj"
     ],
     "name:deu_x_preferred":[
         "\u010crnomelj"
     ],
-    "name:dut_x_preferred":[
-        "\u010crnomelj"
+    "name:deu_x_variant":[
+        "Tschernembl"
     ],
     "name:eng_x_preferred":[
         "\u010crnomelj"
     ],
-    "name:fre_x_preferred":[
-        "\u010crnomelj"
+    "name:fas_x_preferred":[
+        "\u0686\u0631\u0646\u0645\u0644\u06cc"
     ],
-    "name:ger_x_preferred":[
-        "Tschernembl"
+    "name:fra_x_preferred":[
+        "\u010crnomelj"
     ],
     "name:hrv_x_preferred":[
         "\u010crnomelj"
@@ -68,9 +65,6 @@
     "name:oci_x_preferred":[
         "\u010crnomelj"
     ],
-    "name:per_x_preferred":[
-        "\u0686\u0631\u0646\u0645\u0644\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Gmina \u010crnomelj"
     ],
@@ -80,13 +74,10 @@
     "name:ron_x_preferred":[
         "\u010crnomelj"
     ],
-    "name:rum_x_preferred":[
-        "\u010crnomelj"
-    ],
     "name:rus_x_preferred":[
         "\u0427\u0440\u043d\u043e\u043c\u0435\u043b\u044c"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u010crnomelj"
     ],
     "name:slv_x_preferred":[
@@ -121,6 +112,9 @@
     ],
     "name:vie_x_preferred":[
         "\u010crnomelj"
+    ],
+    "name:zho_x_preferred":[
+        "\u5947\u723e\u8afe\u6885\u5229"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -174,7 +168,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531170063,
+    "wof:lastmodified":1561840637,
     "wof:name":"\u010crnomelj",
     "wof:parent_id":1108959699,
     "wof:placetype":"locality",

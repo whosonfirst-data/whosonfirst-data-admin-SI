@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000051,
-    "geom:area_square_m":438954.127321,
+    "geom:area_square_m":438954.12732,
     "geom:bbox":"15.1385882567,45.9387906709,15.1526442999,45.9461642814",
     "geom:latitude":45.942808,
     "geom:longitude":15.144956,
@@ -20,14 +20,8 @@
     "name:bul_x_preferred":[
         "\u041c\u043e\u043a\u0440\u043e\u043d\u043e\u0433"
     ],
-    "name:chi_x_preferred":[
-        "\u83ab\u54e5\u8afe"
-    ],
     "name:deu_x_preferred":[
         "Nassenfu\u00df"
-    ],
-    "name:dut_x_preferred":[
-        "Mokronog"
     ],
     "name:eng_x_preferred":[
         "Mokronog"
@@ -44,14 +38,14 @@
     "name:ron_x_preferred":[
         "Mokronog"
     ],
-    "name:rum_x_preferred":[
-        "Mokronog"
-    ],
     "name:slv_x_preferred":[
         "Mokronog"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043a\u0440\u043e\u043d\u043e\u0433"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u54e5\u8afe"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -96,7 +90,7 @@
         }
     ],
     "wof:id":101793011,
-    "wof:lastmodified":1531508766,
+    "wof:lastmodified":1561840637,
     "wof:name":"Mokronog",
     "wof:parent_id":1108959913,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000279,
-    "geom:area_square_m":2414482.100078,
+    "geom:area_square_m":2414482.100077,
     "geom:bbox":"14.2265668557,45.5572534411,14.2641252182,45.5799174037",
     "geom:latitude":45.568507,
     "geom:longitude":14.241166,
@@ -29,11 +29,11 @@
     "name:cat_x_preferred":[
         "Ilirska Bistrica"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u5229\u723e\u65af\u5361\u6bd4\u65af\u7279\u91cc\u5bdf"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ob\u010dina Ilirska Bistrica"
+    ],
+    "name:cym_x_preferred":[
+        "Ilirska Bistrica"
     ],
     "name:dan_x_preferred":[
         "Ilirska Bistrica"
@@ -41,8 +41,8 @@
     "name:deu_x_preferred":[
         "Ilirska Bistrica"
     ],
-    "name:dut_x_preferred":[
-        "Ilirska Bistrica"
+    "name:ell_x_preferred":[
+        "\u0399\u03bb\u03af\u03c1\u03c3\u03ba\u03b1 \u039c\u03c0\u03b9\u03c3\u03c4\u03c1\u03af\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Ilirska Bistrica"
@@ -55,15 +55,6 @@
     ],
     "name:fra_x_preferred":[
         "Ilirska Bistrica"
-    ],
-    "name:fre_x_preferred":[
-        "Ilirska Bistrica"
-    ],
-    "name:ger_x_preferred":[
-        "Ilirska Bistrica"
-    ],
-    "name:gre_x_preferred":[
-        "\u0399\u03bb\u03af\u03c1\u03c3\u03ba\u03b1 \u039c\u03c0\u03b9\u03c3\u03c4\u03c1\u03af\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a87\u0ab2\u0abf\u0ab0\u0acd\u0ab8\u0acd\u0a95\u0abe \u0aac\u0abf\u0ab8\u0acd\u0a9f\u0acd\u0ab0\u0ac0\u0a95\u0abe"
@@ -110,7 +101,7 @@
     "name:mar_x_preferred":[
         "\u0907\u0932\u0940\u0938\u094d\u0915\u093e \u092c\u093f\u0938\u094d\u091f\u094d\u0930\u093f\u0915\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ilirska Bistrica"
     ],
     "name:nld_x_preferred":[
@@ -122,9 +113,6 @@
     "name:oci_x_preferred":[
         "Ilirska Bistrica"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0644\u06cc\u0631\u0633\u06a9\u0627 \u0628\u06cc\u062a\u0631\u06cc\u062a\u0633\u0627"
-    ],
     "name:pol_x_preferred":[
         "Gmina Ilirska Bistrica"
     ],
@@ -134,9 +122,6 @@
     "name:ron_x_preferred":[
         "Ilirska Bistrica"
     ],
-    "name:rum_x_preferred":[
-        "Ilirska Bistrica"
-    ],
     "name:rus_x_preferred":[
         "\u0418\u043b\u0438\u0440\u0441\u043a\u0430-\u0411\u0438\u0441\u0442\u0440\u0438\u0446\u0430"
     ],
@@ -144,9 +129,6 @@
         "\u0d89\u0dbd\u0dd2\u0dbb\u0dca\u0dc3\u0dca\u0d9a\u0dcf \u0db6\u0dd2\u0dc3\u0dca\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dcf"
     ],
     "name:slk_x_preferred":[
-        "Ilirska Bistrica"
-    ],
-    "name:slo_x_preferred":[
         "Ilirska Bistrica"
     ],
     "name:slv_x_preferred":[
@@ -196,9 +178,6 @@
         "\u06cc\u0644\u06cc\u0631\u0633\u06a9\u0627 \u0628\u06cc\u0633\u062a\u0631\u06cc\u06a9\u0627"
     ],
     "name:vie_x_preferred":[
-        "Ilirska Bistrica"
-    ],
-    "name:wel_x_preferred":[
         "Ilirska Bistrica"
     ],
     "name:zho_x_preferred":[
@@ -255,7 +234,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531170331,
+    "wof:lastmodified":1561840637,
     "wof:name":"Ilirska Bistrica",
     "wof:parent_id":1108959873,
     "wof:placetype":"locality",

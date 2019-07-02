@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000042,
-    "geom:area_square_m":359138.636646,
+    "geom:area_square_m":359138.636647,
     "geom:bbox":"14.3789786523,46.0159875266,14.3880675898,46.0233387349",
     "geom:latitude":46.019665,
     "geom:longitude":14.383597,
@@ -23,9 +23,6 @@
     "name:bul_x_preferred":[
         "\u0414\u0440\u0430\u0433\u043e\u043c\u0435\u0440"
     ],
-    "name:dut_x_preferred":[
-        "Dragomer"
-    ],
     "name:eng_x_preferred":[
         "Dragomer"
     ],
@@ -36,9 +33,6 @@
         "Dragomer"
     ],
     "name:ron_x_preferred":[
-        "Dragomer"
-    ],
-    "name:rum_x_preferred":[
         "Dragomer"
     ],
     "name:slv_x_preferred":[
@@ -96,7 +90,7 @@
         }
     ],
     "wof:id":101792965,
-    "wof:lastmodified":1531508742,
+    "wof:lastmodified":1561840637,
     "wof:name":"Dragomer",
     "wof:parent_id":1108959877,
     "wof:placetype":"locality",

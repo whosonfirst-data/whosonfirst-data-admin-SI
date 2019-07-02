@@ -22,9 +22,6 @@
     "name:bos_x_preferred":[
         "\u010cernelavci"
     ],
-    "name:dut_x_preferred":[
-        "\u010cernelavci"
-    ],
     "name:eng_x_preferred":[
         "\u010cernelavci"
     ],
@@ -40,7 +37,10 @@
     "name:ita_x_preferred":[
         "\u010cernelavci"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "\u010cernelavci"
+    ],
+    "name:ron_x_preferred":[
         "\u010cernelavci"
     ],
     "name:slv_x_preferred":[
@@ -101,7 +101,7 @@
         }
     ],
     "wof:id":1126004993,
-    "wof:lastmodified":1531170198,
+    "wof:lastmodified":1561840646,
     "wof:name":"Cernelavci",
     "wof:parent_id":1108959483,
     "wof:placetype":"locality",

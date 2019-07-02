@@ -23,25 +23,16 @@
     "name:ces_x_preferred":[
         "Cirkulane"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_variant":[
         "Ob\u010dina Cirkulane"
     ],
     "name:deu_x_preferred":[
-        "Cirkulane"
-    ],
-    "name:dut_x_preferred":[
         "Cirkulane"
     ],
     "name:eng_x_preferred":[
         "Cirkulane"
     ],
     "name:fra_x_preferred":[
-        "Cirkulane"
-    ],
-    "name:fre_x_preferred":[
-        "Cirkulane"
-    ],
-    "name:ger_x_preferred":[
         "Cirkulane"
     ],
     "name:hrv_x_preferred":[
@@ -59,6 +50,9 @@
     "name:kor_x_preferred":[
         "\uce58\ub974\ucfe8\ub77c\ub124"
     ],
+    "name:nld_x_preferred":[
+        "Cirkulane"
+    ],
     "name:pol_x_preferred":[
         "Gmina Cirkulane"
     ],
@@ -66,9 +60,6 @@
         "Cirkulane"
     ],
     "name:ron_x_preferred":[
-        "Cirkulane"
-    ],
-    "name:rum_x_preferred":[
         "Cirkulane"
     ],
     "name:slv_x_preferred":[
@@ -126,7 +117,7 @@
         }
     ],
     "wof:id":101859015,
-    "wof:lastmodified":1544744698,
+    "wof:lastmodified":1561840635,
     "wof:name":"Cirkulane",
     "wof:parent_id":1108959743,
     "wof:placetype":"locality",

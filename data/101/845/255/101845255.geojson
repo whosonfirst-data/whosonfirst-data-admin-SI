@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000067,
-    "geom:area_square_m":568560.153343,
+    "geom:area_square_m":568560.153344,
     "geom:bbox":"15.3087683953,46.5885217725,15.3276543118,46.6000050369",
     "geom:latitude":46.593974,
     "geom:longitude":15.317579,
@@ -20,13 +20,13 @@
     "name:bos_x_preferred":[
         "Podvelka"
     ],
-    "name:dut_x_preferred":[
-        "Podvelka"
-    ],
     "name:eng_x_preferred":[
         "Podvelka"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Podvelka"
+    ],
+    "name:ron_x_preferred":[
         "Podvelka"
     ],
     "name:slv_x_preferred":[
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":101845255,
-    "wof:lastmodified":1531170444,
+    "wof:lastmodified":1561840635,
     "wof:name":"Podvelka",
     "wof:parent_id":1108959555,
     "wof:placetype":"locality",

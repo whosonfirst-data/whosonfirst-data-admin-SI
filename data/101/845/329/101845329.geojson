@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000244,
-    "geom:area_square_m":2094955.733668,
+    "geom:area_square_m":2094955.733666,
     "geom:bbox":"14.8141622414,46.0480945118,14.8503218889,46.0712020379",
     "geom:latitude":46.058816,
     "geom:longitude":14.829825,
@@ -29,14 +29,8 @@
     "name:cat_x_preferred":[
         "Litija"
     ],
-    "name:dut_x_preferred":[
-        "Litija"
-    ],
     "name:eng_x_preferred":[
         "Litija"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d8\u10e2\u10d8\u10d0"
     ],
     "name:hbs_x_preferred":[
         "Litija"
@@ -63,9 +57,6 @@
         "Gmina Litija"
     ],
     "name:ron_x_preferred":[
-        "Litija"
-    ],
-    "name:rum_x_preferred":[
         "Litija"
     ],
     "name:rus_x_preferred":[
@@ -166,7 +157,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1534379460,
+    "wof:lastmodified":1561840635,
     "wof:name":"Litija",
     "wof:parent_id":1108959907,
     "wof:placetype":"locality",

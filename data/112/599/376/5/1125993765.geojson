@@ -22,9 +22,6 @@
     "name:ara_x_preferred":[
         "\u0634\u0643\u0648\u0641\u062c\u0627 \u0644\u0648\u0643\u0627"
     ],
-    "name:baq_x_preferred":[
-        "\u0160kofja Loka"
-    ],
     "name:bos_x_preferred":[
         "\u0160kofja Loka"
     ],
@@ -34,10 +31,7 @@
     "name:cat_x_preferred":[
         "\u0160kofja Loka"
     ],
-    "name:chi_x_preferred":[
-        "\u4ec0\u79d1\u83f2\u4e9e\u6d1b\u5361"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u0160kofja Loka"
     ],
     "name:dan_x_preferred":[
@@ -46,22 +40,16 @@
     "name:deu_x_preferred":[
         "\u0160kofja Loka"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "\u0160kofja Loka"
     ],
-    "name:eng_x_preferred":[
+    "name:eus_x_preferred":[
         "\u0160kofja Loka"
     ],
     "name:fas_x_preferred":[
         "\u0634\u06a9\u0641\u06cc\u0627 \u0644\u06a9\u0627"
     ],
-    "name:fre_x_preferred":[
-        "\u0160kofja Loka"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e8\u10d9\u10dd\u10e4\u10d8\u10d0-\u10da\u10dd\u10d9\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "\u0160kofja Loka"
     ],
     "name:glg_x_preferred":[
@@ -97,9 +85,6 @@
     "name:ltz_x_preferred":[
         "\u0160kofja Loka"
     ],
-    "name:mac_x_preferred":[
-        "\u0428\u043a\u043e\u0444\u0458\u0430 \u041b\u043e\u043a\u0430"
-    ],
     "name:mkd_x_preferred":[
         "\u0428\u043a\u043e\u0444\u0458\u0430 \u041b\u043e\u043a\u0430"
     ],
@@ -115,9 +100,6 @@
     "name:oci_x_preferred":[
         "\u0160kofja Loka"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u06a9\u0641\u06cc\u0627 \u0644\u06a9\u0627"
-    ],
     "name:pol_x_preferred":[
         "Gmina \u0160kofja Loka"
     ],
@@ -127,16 +109,13 @@
     "name:ron_x_preferred":[
         "\u0160kofja Loka"
     ],
-    "name:rum_x_preferred":[
-        "\u0160kofja Loka"
-    ],
     "name:rus_x_preferred":[
         "\u0428\u043a\u043e\u0444\u044c\u044f-\u041b\u043e\u043a\u0430"
     ],
     "name:sco_x_preferred":[
         "\u0160kofja Loka"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u0160kofja Loka"
     ],
     "name:slv_x_preferred":[
@@ -222,7 +201,7 @@
         }
     ],
     "wof:id":1125993765,
-    "wof:lastmodified":1531171370,
+    "wof:lastmodified":1561840644,
     "wof:name":"\u00c5 Kofja Loka",
     "wof:parent_id":1108959821,
     "wof:placetype":"locality",
