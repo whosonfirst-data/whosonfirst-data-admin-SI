@@ -16,16 +16,28 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Postaja"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u043e\u0441\u0442\u0430\u044f"
     ],
+    "name:ceb_x_preferred":[
+        "Postaja"
+    ],
     "name:eng_x_preferred":[
+        "Postaja"
+    ],
+    "name:fra_x_preferred":[
         "Postaja"
     ],
     "name:ita_x_preferred":[
         "Santa Lucia Stazione"
     ],
     "name:nld_x_preferred":[
+        "Postaja"
+    ],
+    "name:pol_x_preferred":[
         "Postaja"
     ],
     "name:ron_x_preferred":[
@@ -85,7 +97,7 @@
         }
     ],
     "wof:id":1126025155,
-    "wof:lastmodified":1561840641,
+    "wof:lastmodified":1563577070,
     "wof:name":"Postaja",
     "wof:parent_id":1108959617,
     "wof:placetype":"locality",

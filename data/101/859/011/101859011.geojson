@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Hodo\u0161"
     ],
+    "name:ceb_x_preferred":[
+        "Hodo\u0161"
+    ],
     "name:ces_x_preferred":[
         "Hodo\u0161"
     ],
@@ -70,6 +73,9 @@
     ],
     "name:slv_x_preferred":[
         "Ob\u010dina Hodo\u0161"
+    ],
+    "name:slv_x_variant":[
+        "Hodo\u0161"
     ],
     "name:spa_x_preferred":[
         "Hodo\u0161"
@@ -137,7 +143,7 @@
         }
     ],
     "wof:id":101859011,
-    "wof:lastmodified":1561840635,
+    "wof:lastmodified":1563576939,
     "wof:name":"Hodo\u0161",
     "wof:parent_id":1108959637,
     "wof:placetype":"locality",

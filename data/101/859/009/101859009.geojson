@@ -20,10 +20,16 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u0644\u062a\u0634\u0627\u0641\u0627"
     ],
+    "name:arg_x_preferred":[
+        "Sol\u010dava"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09cb\u09b2\u09be\u09ad\u09be"
     ],
     "name:bos_x_preferred":[
+        "Sol\u010dava"
+    ],
+    "name:ceb_x_preferred":[
         "Sol\u010dava"
     ],
     "name:dan_x_preferred":[
@@ -55,6 +61,9 @@
     ],
     "name:hrv_x_preferred":[
         "Op\u0107ina Sol\u010dava"
+    ],
+    "name:hrv_x_variant":[
+        "Sol\u010dava"
     ],
     "name:hun_x_preferred":[
         "Sol\u010dava"
@@ -94,6 +103,9 @@
     ],
     "name:pol_x_preferred":[
         "Gmina Sol\u010dava"
+    ],
+    "name:pol_x_variant":[
+        "Sol\u010dava"
     ],
     "name:por_x_preferred":[
         "Sol\u010dava"
@@ -140,6 +152,9 @@
     "name:vie_x_preferred":[
         "Sol\u010dava"
     ],
+    "name:zho_x_preferred":[
+        "\u7d22\u723e\u5bdf\u74e6"
+    ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
     "qs:a1r":"0",
@@ -184,7 +199,7 @@
         }
     ],
     "wof:id":101859009,
-    "wof:lastmodified":1561840635,
+    "wof:lastmodified":1563576938,
     "wof:name":"Sol\u010dava",
     "wof:parent_id":1108959639,
     "wof:placetype":"locality",

@@ -17,6 +17,12 @@
     "mps:longitude":16.388719,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Brezovica"
+    ],
+    "name:ceb_x_preferred":[
+        "Brezovica"
+    ],
     "name:ces_x_preferred":[
         "Ob\u010dina Kobilje"
     ],
@@ -29,6 +35,9 @@
     "name:eng_x_preferred":[
         "Kobilje"
     ],
+    "name:eng_x_variant":[
+        "Brezovica"
+    ],
     "name:epo_x_preferred":[
         "Brezovica"
     ],
@@ -38,6 +47,9 @@
     "name:fra_x_preferred":[
         "Kobilje"
     ],
+    "name:fra_x_variant":[
+        "Brezovica"
+    ],
     "name:hbs_x_preferred":[
         "Op\u0107ina Kobilje"
     ],
@@ -46,6 +58,9 @@
     ],
     "name:hun_x_preferred":[
         "Kebeleszentm\u00e1rton"
+    ],
+    "name:hun_x_variant":[
+        "Lendvany\u00edres"
     ],
     "name:ita_x_preferred":[
         "Kobilje"
@@ -71,6 +86,9 @@
     "name:pol_x_preferred":[
         "Gmina Kobilje"
     ],
+    "name:pol_x_variant":[
+        "Brezovica"
+    ],
     "name:por_x_preferred":[
         "Kobilje"
     ],
@@ -95,6 +113,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0431\u0438\u043b\u0454"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0440\u0435\u0437\u043e\u0432\u0438\u0446\u044f"
     ],
     "name:unk_x_variant":[
         "Kebeleszentm\u00e1rton"
@@ -143,7 +164,7 @@
         }
     ],
     "wof:id":101845343,
-    "wof:lastmodified":1561840635,
+    "wof:lastmodified":1563576935,
     "wof:name":"Kobilje",
     "wof:parent_id":1108959521,
     "wof:placetype":"locality",

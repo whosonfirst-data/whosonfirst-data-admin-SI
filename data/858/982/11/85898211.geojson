@@ -24,8 +24,17 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "\u010crnu\u010de District"
+    ],
+    "name:deu_x_preferred":[
+        "\u010crnu\u010de"
+    ],
     "name:eng_x_preferred":[
         "\u010crnu\u010de"
+    ],
+    "name:eng_x_variant":[
+        "\u010crnu\u010de District"
     ],
     "name:pol_x_preferred":[
         "\u010crnu\u010de"
@@ -107,7 +116,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1536868707,
+    "wof:lastmodified":1563576312,
     "wof:name":"Crnuce",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",

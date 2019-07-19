@@ -19,13 +19,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Resnik"
+    ],
+    "name:ceb_x_preferred":[
+        "Resnik"
+    ],
     "name:eng_x_preferred":[
+        "Resnik"
+    ],
+    "name:fra_x_preferred":[
         "Resnik"
     ],
     "name:hrv_x_preferred":[
         "Resnik"
     ],
     "name:nld_x_preferred":[
+        "Resnik"
+    ],
+    "name:pol_x_preferred":[
         "Resnik"
     ],
     "name:ron_x_preferred":[
@@ -90,7 +102,7 @@
         }
     ],
     "wof:id":1125955409,
-    "wof:lastmodified":1561840641,
+    "wof:lastmodified":1563577065,
     "wof:name":"Resnik",
     "wof:parent_id":1108959671,
     "wof:placetype":"locality",

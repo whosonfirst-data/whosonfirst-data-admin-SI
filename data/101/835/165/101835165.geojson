@@ -38,6 +38,9 @@
     "name:cat_x_preferred":[
         "Velenje"
     ],
+    "name:ceb_x_preferred":[
+        "Velenje"
+    ],
     "name:ces_x_preferred":[
         "Velenje"
     ],
@@ -101,6 +104,9 @@
     "name:kor_x_preferred":[
         "\ubca8\ub808\ub15c"
     ],
+    "name:kor_x_variant":[
+        "\ubca8\ub808\ub124"
+    ],
     "name:lav_x_preferred":[
         "Velenje"
     ],
@@ -155,7 +161,13 @@
     "name:slv_x_preferred":[
         "Mestna ob\u010dina Velenje"
     ],
+    "name:slv_x_variant":[
+        "Velenje"
+    ],
     "name:spa_x_preferred":[
+        "Velenje"
+    ],
+    "name:sqi_x_preferred":[
         "Velenje"
     ],
     "name:srp_x_preferred":[
@@ -261,7 +273,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840636,
+    "wof:lastmodified":1563576956,
     "wof:name":"Velenje",
     "wof:parent_id":1108959593,
     "wof:placetype":"locality",

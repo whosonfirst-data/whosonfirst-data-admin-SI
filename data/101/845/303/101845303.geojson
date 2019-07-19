@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000131,
-    "geom:area_square_m":1117265.429532,
+    "geom:area_square_m":1117265.429531,
     "geom:bbox":"14.1432729823,46.2132113476,14.1805204549,46.2348832415",
     "geom:latitude":46.223836,
     "geom:longitude":14.164111,
@@ -17,7 +17,19 @@
     "mps:longitude":14.165381,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u064a\u0644\u064a\u0632\u0646\u064a\u0643\u064a"
+    ],
     "name:bos_x_preferred":[
+        "\u017delezniki"
+    ],
+    "name:ceb_x_preferred":[
+        "\u017delezniki"
+    ],
+    "name:eng_x_preferred":[
+        "\u017delezniki"
+    ],
+    "name:fra_x_preferred":[
         "\u017delezniki"
     ],
     "name:hbs_x_preferred":[
@@ -29,6 +41,9 @@
     "name:nld_x_preferred":[
         "\u017delezniki"
     ],
+    "name:pol_x_preferred":[
+        "\u017delezniki"
+    ],
     "name:ron_x_preferred":[
         "\u017delezniki"
     ],
@@ -36,6 +51,9 @@
         "\u017delezniki"
     ],
     "name:srp_x_preferred":[
+        "\u0416\u0435\u043b\u0435\u0437\u043d\u0438\u043a\u0438"
+    ],
+    "name:tat_x_preferred":[
         "\u0416\u0435\u043b\u0435\u0437\u043d\u0438\u043a\u0438"
     ],
     "name:ukr_x_preferred":[
@@ -89,7 +107,7 @@
         }
     ],
     "wof:id":101845303,
-    "wof:lastmodified":1531171364,
+    "wof:lastmodified":1563576919,
     "wof:name":"\u017delezniki",
     "wof:parent_id":1108959701,
     "wof:placetype":"locality",

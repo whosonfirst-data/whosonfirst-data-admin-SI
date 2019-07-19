@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Pod\u010detrtek"
     ],
+    "name:ceb_x_preferred":[
+        "Pod\u010detrtek"
+    ],
     "name:ces_x_preferred":[
         "Ob\u010dina Pod\u010detrtek"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:hrv_x_preferred":[
         "Op\u0107ina Pod\u010detrtek"
+    ],
+    "name:hrv_x_variant":[
+        "Pod\u010detrtek"
     ],
     "name:ita_x_preferred":[
         "Pod\u010detrtek"
@@ -50,6 +56,9 @@
     "name:pol_x_preferred":[
         "Gmina Pod\u010detrtek"
     ],
+    "name:pol_x_variant":[
+        "Pod\u010detrtek"
+    ],
     "name:por_x_preferred":[
         "Pod\u010detrtek"
     ],
@@ -59,8 +68,14 @@
     "name:slv_x_preferred":[
         "Ob\u010dina Pod\u010detrtek"
     ],
+    "name:slv_x_variant":[
+        "Pod\u010detrtek"
+    ],
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041f\u043e\u0434\u0447\u0435\u0442\u0440\u0442\u0435\u043a"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u043e\u0434\u0447\u0435\u0442\u0440\u0442\u0435\u043a"
     ],
     "name:swe_x_preferred":[
         "Pod\u010detrtek"
@@ -114,7 +129,7 @@
         }
     ],
     "wof:id":101857913,
-    "wof:lastmodified":1561840635,
+    "wof:lastmodified":1563576943,
     "wof:name":"Pod\u010detrtek",
     "wof:parent_id":1108959649,
     "wof:placetype":"locality",

@@ -17,14 +17,23 @@
     "mps:longitude":14.858098,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0447\u044d\u045e\u0435"
+    ],
     "name:bos_x_preferred":[
         "Ko\u010devje"
     ],
     "name:bul_x_preferred":[
         "\u041a\u043e\u0447\u0435\u0432\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Ko\u010devje"
+    ],
     "name:ces_x_preferred":[
         "Ob\u010dina Ko\u010devje"
+    ],
+    "name:ces_x_variant":[
+        "Ko\u010devje"
     ],
     "name:dan_x_preferred":[
         "Ko\u010devje"
@@ -78,6 +87,9 @@
     "name:pol_x_preferred":[
         "Gmina Ko\u010devje"
     ],
+    "name:pol_x_variant":[
+        "Ko\u010devje"
+    ],
     "name:ron_x_preferred":[
         "Ko\u010devje"
     ],
@@ -85,6 +97,12 @@
         "\u041a\u043e\u0447\u0435\u0432\u044c\u0435"
     ],
     "name:slv_x_preferred":[
+        "Ko\u010devje"
+    ],
+    "name:spa_x_preferred":[
+        "Ko\u010devje"
+    ],
+    "name:sqi_x_preferred":[
         "Ko\u010devje"
     ],
     "name:srp_x_preferred":[
@@ -101,6 +119,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0447\u0435\u0432\u0454"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u043e\u0447\u0435\u0432'\u0454"
     ],
     "name:und_x_colloquial":[
         "Kocevje"
@@ -170,7 +191,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840637,
+    "wof:lastmodified":1563576976,
     "wof:name":"Ko\u010devje",
     "wof:parent_id":1108959919,
     "wof:placetype":"locality",

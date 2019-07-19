@@ -23,6 +23,9 @@
     "name:bul_x_preferred":[
         "\u041f\u043e\u043b\u0437\u0435\u043b\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Polzela"
+    ],
     "name:ces_x_preferred":[
         "Ob\u010dina Polzela"
     ],
@@ -41,6 +44,9 @@
     "name:hrv_x_preferred":[
         "Op\u0107ina Polzela"
     ],
+    "name:hrv_x_variant":[
+        "Polzela"
+    ],
     "name:ita_x_preferred":[
         "Polzela"
     ],
@@ -55,6 +61,9 @@
     ],
     "name:pol_x_preferred":[
         "Gmina Polzela"
+    ],
+    "name:pol_x_variant":[
+        "Polzela"
     ],
     "name:por_x_preferred":[
         "Polzela"
@@ -71,8 +80,14 @@
     "name:slv_x_preferred":[
         "Ob\u010dina Polzela"
     ],
+    "name:slv_x_variant":[
+        "Polzela"
+    ],
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041f\u043e\u043b\u0437\u0435\u043b\u0430"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u043e\u043b\u0437\u0435\u043b\u0430"
     ],
     "name:swe_x_preferred":[
         "Polzela"
@@ -129,7 +144,7 @@
         }
     ],
     "wof:id":101845295,
-    "wof:lastmodified":1561840634,
+    "wof:lastmodified":1563576914,
     "wof:name":"Polzela",
     "wof:parent_id":1108959635,
     "wof:placetype":"locality",

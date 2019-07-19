@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Naklo"
     ],
+    "name:ceb_x_preferred":[
+        "Naklo"
+    ],
     "name:deu_x_preferred":[
         "Naklo"
     ],
@@ -36,6 +39,9 @@
         "Naklo"
     ],
     "name:hrv_x_preferred":[
+        "Naklo"
+    ],
+    "name:hun_x_preferred":[
         "Naklo"
     ],
     "name:ita_x_preferred":[
@@ -55,6 +61,9 @@
     ],
     "name:pol_x_preferred":[
         "Gmina Naklo"
+    ],
+    "name:pol_x_variant":[
+        "Naklo"
     ],
     "name:por_x_preferred":[
         "Naklo"
@@ -126,7 +135,7 @@
         }
     ],
     "wof:id":101792057,
-    "wof:lastmodified":1561840638,
+    "wof:lastmodified":1563577008,
     "wof:name":"Naklo",
     "wof:parent_id":1108959497,
     "wof:placetype":"locality",

@@ -22,7 +22,13 @@
     "name:bul_x_preferred":[
         "\u041f\u0440\u0435\u0434\u043c\u0435\u044f"
     ],
+    "name:ceb_x_preferred":[
+        "Predmeja"
+    ],
     "name:eng_x_preferred":[
+        "Predmeja"
+    ],
+    "name:fra_x_preferred":[
         "Predmeja"
     ],
     "name:hun_x_preferred":[
@@ -39,6 +45,9 @@
     ],
     "name:slv_x_preferred":[
         "Predmeja"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u0435\u0434\u043c\u0435\u0458\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0435\u0434\u043c\u0435\u044f"
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":1125995533,
-    "wof:lastmodified":1561840644,
+    "wof:lastmodified":1563577105,
     "wof:name":"Predmeja",
     "wof:parent_id":1108959545,
     "wof:placetype":"locality",

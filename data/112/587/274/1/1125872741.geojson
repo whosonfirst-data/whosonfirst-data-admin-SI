@@ -19,7 +19,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Matavun"
+    ],
     "name:eng_x_preferred":[
+        "Matavun"
+    ],
+    "name:fra_x_preferred":[
         "Matavun"
     ],
     "name:ita_x_preferred":[
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1125872741,
-    "wof:lastmodified":1561840643,
+    "wof:lastmodified":1563577099,
     "wof:name":"Matavun",
     "wof:parent_id":1108959845,
     "wof:placetype":"locality",

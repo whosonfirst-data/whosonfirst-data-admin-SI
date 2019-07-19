@@ -22,7 +22,16 @@
     "name:bos_x_preferred":[
         "Bohinjska Bela"
     ],
+    "name:ceb_x_preferred":[
+        "Bohinjska Bela"
+    ],
     "name:eng_x_preferred":[
+        "Bohinjska Bela"
+    ],
+    "name:epo_x_preferred":[
+        "Bohinjska Bela"
+    ],
+    "name:fra_x_preferred":[
         "Bohinjska Bela"
     ],
     "name:hrv_x_preferred":[
@@ -32,6 +41,9 @@
         "Bohinjska Bela"
     ],
     "name:nld_x_preferred":[
+        "Bohinjska Bela"
+    ],
+    "name:pol_x_preferred":[
         "Bohinjska Bela"
     ],
     "name:ron_x_preferred":[
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":1126009469,
-    "wof:lastmodified":1561840646,
+    "wof:lastmodified":1563577131,
     "wof:name":"Bohinjska Bela",
     "wof:parent_id":1108959797,
     "wof:placetype":"locality",

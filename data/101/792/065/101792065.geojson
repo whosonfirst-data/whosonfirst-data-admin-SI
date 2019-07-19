@@ -32,6 +32,9 @@
     "name:cat_x_preferred":[
         "Kobarid"
     ],
+    "name:ceb_x_preferred":[
+        "Kobarid"
+    ],
     "name:ces_x_preferred":[
         "Ob\u010dina Kobarid"
     ],
@@ -59,7 +62,13 @@
     "name:hrv_x_preferred":[
         "Op\u0107ina Kobarid"
     ],
+    "name:hrv_x_variant":[
+        "Kobarid"
+    ],
     "name:hun_x_preferred":[
+        "Kobarid"
+    ],
+    "name:ind_x_preferred":[
         "Kobarid"
     ],
     "name:ita_x_preferred":[
@@ -83,6 +92,9 @@
     "name:pol_x_preferred":[
         "Gmina Kobarid"
     ],
+    "name:pol_x_variant":[
+        "Kobarid"
+    ],
     "name:por_x_preferred":[
         "Kobarid"
     ],
@@ -94,6 +106,9 @@
     ],
     "name:slv_x_preferred":[
         "Ob\u010dina Kobarid"
+    ],
+    "name:slv_x_variant":[
+        "Kobarid"
     ],
     "name:spa_x_preferred":[
         "Kobarid"
@@ -167,7 +182,7 @@
         }
     ],
     "wof:id":101792065,
-    "wof:lastmodified":1561840638,
+    "wof:lastmodified":1563576991,
     "wof:name":"Kobarid",
     "wof:parent_id":1108959523,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:bos_x_preferred":[
         "Puconci"
     ],
+    "name:ceb_x_preferred":[
+        "Puconci"
+    ],
     "name:dan_x_preferred":[
         "Puconci"
     ],
@@ -113,6 +116,9 @@
     "name:slv_x_preferred":[
         "Ob\u010dina Puconci"
     ],
+    "name:slv_x_variant":[
+        "Puconci"
+    ],
     "name:spa_x_preferred":[
         "Puconci"
     ],
@@ -145,6 +151,9 @@
     ],
     "name:vie_x_preferred":[
         "Puconci"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u806a\u9f50"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -188,7 +197,7 @@
         }
     ],
     "wof:id":101791191,
-    "wof:lastmodified":1561840633,
+    "wof:lastmodified":1563576899,
     "wof:name":"Puconci",
     "wof:parent_id":1108959935,
     "wof:placetype":"locality",

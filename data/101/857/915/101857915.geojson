@@ -26,6 +26,9 @@
     "name:bos_x_preferred":[
         "Vransko"
     ],
+    "name:ceb_x_preferred":[
+        "Vransko"
+    ],
     "name:dan_x_preferred":[
         "Vransko"
     ],
@@ -92,6 +95,9 @@
     "name:pol_x_preferred":[
         "Gmina Vransko"
     ],
+    "name:pol_x_variant":[
+        "Vransko"
+    ],
     "name:por_x_preferred":[
         "Vransko"
     ],
@@ -140,6 +146,9 @@
     "name:vie_x_preferred":[
         "Vransko"
     ],
+    "name:zho_x_preferred":[
+        "\u5f17\u862d\u65af\u79d1"
+    ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
     "qs:a1r":"0",
@@ -184,7 +193,7 @@
         }
     ],
     "wof:id":101857915,
-    "wof:lastmodified":1561840635,
+    "wof:lastmodified":1563576943,
     "wof:name":"Vransko",
     "wof:parent_id":1108959827,
     "wof:placetype":"locality",

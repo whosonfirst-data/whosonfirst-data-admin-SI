@@ -26,6 +26,9 @@
     "name:bos_x_preferred":[
         "Mislinja"
     ],
+    "name:ceb_x_preferred":[
+        "Mislinja"
+    ],
     "name:dan_x_preferred":[
         "Mislinja"
     ],
@@ -89,6 +92,9 @@
     "name:pol_x_preferred":[
         "Gmina Mislinja"
     ],
+    "name:pol_x_variant":[
+        "Mislinja"
+    ],
     "name:por_x_preferred":[
         "Mislinja"
     ],
@@ -137,6 +143,9 @@
     "name:vie_x_preferred":[
         "Mislinja"
     ],
+    "name:zho_x_preferred":[
+        "\u7c73\u65af\u5229\u5c3c\u4e9a"
+    ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
     "qs:a1r":"0",
@@ -181,7 +190,7 @@
         }
     ],
     "wof:id":101791175,
-    "wof:lastmodified":1561840633,
+    "wof:lastmodified":1563576897,
     "wof:name":"Mislinja",
     "wof:parent_id":1108959467,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0631\u0634\u0643\u0648"
     ],
+    "name:bel_x_preferred":[
+        "\u041a\u0440\u0448\u043a\u043e"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09cd\u09b0\u09cb\u09b8\u09cd\u0995\u09cb"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:cat_x_preferred":[
         "Krsko"
+    ],
+    "name:ceb_x_preferred":[
+        "Kr\u0161ko"
     ],
     "name:ces_x_preferred":[
         "Kr\u0161ko"
@@ -116,6 +122,9 @@
     "name:pol_x_preferred":[
         "Gmina Kr\u0161ko"
     ],
+    "name:pol_x_variant":[
+        "Kr\u0161ko"
+    ],
     "name:por_x_preferred":[
         "Kr\u0161ko"
     ],
@@ -136,6 +145,9 @@
     ],
     "name:slv_x_preferred":[
         "Ob\u010dina Kr\u0161ko"
+    ],
+    "name:slv_x_variant":[
+        "Kr\u0161ko"
     ],
     "name:spa_x_preferred":[
         "Kr\u0161ko"
@@ -228,7 +240,7 @@
         }
     ],
     "wof:id":101793009,
-    "wof:lastmodified":1561840637,
+    "wof:lastmodified":1563576971,
     "wof:name":"Kr\u0161ko",
     "wof:parent_id":1108959473,
     "wof:placetype":"locality",

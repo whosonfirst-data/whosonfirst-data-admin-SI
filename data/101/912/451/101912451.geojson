@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000035,
+    "geom:area_square_m":299084.361207,
     "geom:bbox":"14.0747778226,46.3864185877,14.095792185,46.3893732915",
     "geom:latitude":46.387791,
     "geom:longitude":14.086378,
@@ -15,11 +16,20 @@
     "mps:longitude":14.086382,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0412\u0438\u043d\u0442\u0433\u0430\u0440"
+    ],
+    "name:ceb_x_preferred":[
+        "Vintgar"
+    ],
     "name:dan_x_preferred":[
         "Vintgar"
     ],
     "name:deu_x_preferred":[
         "Vintgar-Klamm"
+    ],
+    "name:eng_x_preferred":[
+        "Bled Gorge"
     ],
     "name:eus_x_preferred":[
         "Vintgar arroila"
@@ -45,8 +55,14 @@
     "name:nno_x_preferred":[
         "Vintgar"
     ],
+    "name:slk_x_preferred":[
+        "Vintgar"
+    ],
     "name:slv_x_preferred":[
         "Blejski vintgar"
+    ],
+    "name:slv_x_variant":[
+        "Blejski Vintgar"
     ],
     "name:spa_x_preferred":[
         "Vintgar"
@@ -94,7 +110,7 @@
         }
     ],
     "wof:id":101912451,
-    "wof:lastmodified":1531171369,
+    "wof:lastmodified":1563576967,
     "wof:name":"Vintgar",
     "wof:parent_id":1108959735,
     "wof:placetype":"locality",

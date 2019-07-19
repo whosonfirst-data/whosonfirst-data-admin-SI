@@ -26,6 +26,9 @@
     "name:bos_x_preferred":[
         "Vitanje"
     ],
+    "name:ceb_x_preferred":[
+        "Vitanje"
+    ],
     "name:ces_x_preferred":[
         "Ob\u010dina Vitanje"
     ],
@@ -95,6 +98,9 @@
     "name:pol_x_preferred":[
         "Gmina Vitanje"
     ],
+    "name:pol_x_variant":[
+        "Vitanje"
+    ],
     "name:por_x_preferred":[
         "Vitanje"
     ],
@@ -109,6 +115,9 @@
     ],
     "name:slv_x_preferred":[
         "Ob\u010dina Vitanje"
+    ],
+    "name:slv_x_variant":[
+        "Vitanje"
     ],
     "name:spa_x_preferred":[
         "Vitanje"
@@ -142,6 +151,9 @@
     ],
     "name:vie_x_preferred":[
         "Vitanje"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u5854\u6d85"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -187,7 +199,7 @@
         }
     ],
     "wof:id":101845357,
-    "wof:lastmodified":1561840634,
+    "wof:lastmodified":1563576919,
     "wof:name":"Vitanje",
     "wof:parent_id":1108959681,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:cat_x_preferred":[
         "Rade\u010de"
     ],
+    "name:ceb_x_preferred":[
+        "Rade\u010de"
+    ],
     "name:dan_x_preferred":[
         "Rade\u010de"
     ],
@@ -58,6 +61,9 @@
     ],
     "name:hrv_x_preferred":[
         "Rade\u010de"
+    ],
+    "name:hrv_x_variant":[
+        "Op\u0107ina Rade\u010de"
     ],
     "name:ind_x_preferred":[
         "Rade\u010de"
@@ -98,6 +104,9 @@
     "name:pol_x_preferred":[
         "Gmina Rade\u010de"
     ],
+    "name:pol_x_variant":[
+        "Rade\u010de"
+    ],
     "name:por_x_preferred":[
         "Rade\u010de"
     ],
@@ -115,6 +124,9 @@
     ],
     "name:slv_x_preferred":[
         "Ob\u010dina Rade\u010de"
+    ],
+    "name:slv_x_variant":[
+        "Rade\u010de"
     ],
     "name:spa_x_preferred":[
         "Rade\u010de"
@@ -200,7 +212,7 @@
         }
     ],
     "wof:id":101792017,
-    "wof:lastmodified":1561840638,
+    "wof:lastmodified":1563577005,
     "wof:name":"Rade\u010de",
     "wof:parent_id":1108959883,
     "wof:placetype":"locality",

@@ -23,10 +23,16 @@
     "name:bul_x_preferred":[
         "\u0413\u043e\u043b\u043d\u0438\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Golnik"
+    ],
     "name:cym_x_preferred":[
         "Golnik"
     ],
     "name:eng_x_preferred":[
+        "Golnik"
+    ],
+    "name:fra_x_preferred":[
         "Golnik"
     ],
     "name:hbs_x_preferred":[
@@ -38,14 +44,23 @@
     "name:nld_x_preferred":[
         "Golnik"
     ],
+    "name:pol_x_preferred":[
+        "Golnik"
+    ],
     "name:ron_x_preferred":[
         "Golnik"
     ],
     "name:slv_x_preferred":[
         "Golnik"
     ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u043b\u043d\u0438\u043a"
+    ],
     "name:ukr_x_preferred":[
         "\u0413\u043e\u043b\u043d\u0438\u043a"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u043e\u043b\u043d\u0456\u043a"
     ],
     "name:und_x_preferred":[
         "Golnik"
@@ -99,7 +114,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840636,
+    "wof:lastmodified":1563576962,
     "wof:name":"Golnik",
     "wof:parent_id":1108959933,
     "wof:placetype":"locality",

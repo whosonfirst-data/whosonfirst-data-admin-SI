@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Bovec"
     ],
+    "name:ceb_x_preferred":[
+        "Bovec"
+    ],
     "name:ces_x_preferred":[
         "Bovec"
     ],
@@ -41,10 +44,19 @@
     "name:fas_x_preferred":[
         "\u0628\u0648\u062a\u0633\u060c \u0627\u0633\u0644\u0648\u0648\u0646\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u0628\u0648\u062a\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Bovec"
+    ],
     "name:fra_x_preferred":[
         "Bovec"
     ],
     "name:hrv_x_preferred":[
+        "Bovec"
+    ],
+    "name:hsb_x_preferred":[
         "Bovec"
     ],
     "name:hun_x_preferred":[
@@ -77,6 +89,9 @@
     "name:pol_x_preferred":[
         "Gmina Bovec"
     ],
+    "name:pol_x_variant":[
+        "Bovec"
+    ],
     "name:por_x_preferred":[
         "Bovec"
     ],
@@ -92,7 +107,13 @@
     "name:slv_x_preferred":[
         "Ob\u010dina Bovec"
     ],
+    "name:slv_x_variant":[
+        "Bovec"
+    ],
     "name:spa_x_preferred":[
+        "Bovec"
+    ],
+    "name:sqi_x_preferred":[
         "Bovec"
     ],
     "name:srp_x_preferred":[
@@ -167,7 +188,7 @@
         }
     ],
     "wof:id":101845313,
-    "wof:lastmodified":1561840634,
+    "wof:lastmodified":1563576917,
     "wof:name":"Bovec",
     "wof:parent_id":1108959541,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Benedikt"
     ],
+    "name:ceb_x_preferred":[
+        "Benedikt"
+    ],
     "name:ces_x_preferred":[
         "Benedikt v Slovenskih goricah"
     ],
@@ -32,6 +35,9 @@
     "name:eng_x_preferred":[
         "Benedikt"
     ],
+    "name:epo_x_preferred":[
+        "Benedikt"
+    ],
     "name:fra_x_preferred":[
         "Benedikt"
     ],
@@ -40,6 +46,9 @@
     ],
     "name:hrv_x_preferred":[
         "Benedikt v Slovenskih goricah"
+    ],
+    "name:hrv_x_variant":[
+        "Op\u0107ina Benedikt"
     ],
     "name:hun_x_preferred":[
         "Benedikt"
@@ -89,6 +98,9 @@
     "name:urd_x_preferred":[
         "\u0628\u06cc\u0646\u06cc\u062f\u06cc\u06a9\u062a\u060c \u0628\u06cc\u0646\u06cc\u062f\u06cc\u06a9\u062a"
     ],
+    "name:urd_x_variant":[
+        "\u0628\u06cc\u0646\u06cc\u062f\u06cc\u06a9\u062a"
+    ],
     "name:vie_x_preferred":[
         "Benedikt"
     ],
@@ -135,7 +147,7 @@
         }
     ],
     "wof:id":101845351,
-    "wof:lastmodified":1561840634,
+    "wof:lastmodified":1563576921,
     "wof:name":"Benedikt",
     "wof:parent_id":1108959829,
     "wof:placetype":"locality",

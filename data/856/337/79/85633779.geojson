@@ -24,6 +24,9 @@
     "mz:is_current":1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":5.0,
+    "name:abk_x_preferred":[
+        "\u0421\u043b\u043e\u0432\u0435\u043d\u0438\u0430"
+    ],
     "name:ace_x_preferred":[
         "Slovenia"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:aka_x_preferred":[
         "Slovinia"
+    ],
+    "name:aka_x_variant":[
+        "Slovenia"
     ],
     "name:als_x_preferred":[
         "Slowenien"
@@ -60,6 +66,12 @@
     "name:ast_x_preferred":[
         "Eslovenia"
     ],
+    "name:ava_x_preferred":[
+        "\u0421\u043b\u043e\u0432\u0435\u043d\u0438\u044f"
+    ],
+    "name:aym_x_preferred":[
+        "Isluwi\u00f1a"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u06cc\u0633\u0644\u0648\u0648\u0646\u06cc"
     ],
@@ -75,13 +87,13 @@
     "name:bar_x_preferred":[
         "Slowenien"
     ],
+    "name:bar_x_variant":[
+        "Slow\u00e9nien"
+    ],
     "name:bcl_x_preferred":[
         "Slobinya"
     ],
     "name:bel_x_preferred":[
-        "\u0421\u043b\u0430\u0432\u0435\u043d\u0456\u044f"
-    ],
-    "name:bel_x_variant":[
         "\u0421\u043b\u0430\u0432\u0435\u043d\u0456\u044f"
     ],
     "name:ben_x_preferred":[
@@ -89,6 +101,12 @@
     ],
     "name:ben_x_variant":[
         "\u09b8\u09cd\u09b2\u09cb\u09ad\u09be\u09a8\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:bgn_x_preferred":[
+        "\u0633\u0644\u0648\u0627\u0646\u06cc\u0627"
+    ],
+    "name:bho_x_preferred":[
+        "\u0938\u094d\u0932\u094b\u0935\u0947\u0928\u093f\u092f\u093e"
     ],
     "name:bis_x_preferred":[
         "Slovenia"
@@ -114,6 +132,9 @@
     "name:bxr_x_preferred":[
         "\u0421\u043b\u043e\u0432\u0435\u043d\u0438"
     ],
+    "name:bxr_x_variant":[
+        "\u0421\u043b\u043e\u0432\u0435\u043d"
+    ],
     "name:cat_x_preferred":[
         "Eslov\u00e8nia"
     ],
@@ -125,6 +146,9 @@
     ],
     "name:ces_x_preferred":[
         "Slovinsko"
+    ],
+    "name:cha_x_preferred":[
+        "Eslovenia"
     ],
     "name:che_x_preferred":[
         "\u0421\u043b\u043e\u0432\u0435\u043d\u0438"
@@ -174,11 +198,17 @@
     "name:dsb_x_preferred":[
         "S\u0142owje\u0144ska"
     ],
+    "name:dty_x_preferred":[
+        "\u0938\u094d\u0932\u094b\u092d\u0947\u0928\u093f\u092f\u093e"
+    ],
     "name:dzo_x_preferred":[
         "\u0f66\u0f72\u0f63\u0f7c\u0f0b\u0f56\u0f7a\u0f0b\u0f53\u0f72\u0f0b\u0f61"
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03bb\u03bf\u03b2\u03b5\u03bd\u03af\u03b1"
+    ],
+    "name:eml_x_preferred":[
+        "\u015aluv\u00e8gna"
     ],
     "name:eng_x_preferred":[
         "Slovenia"
@@ -255,6 +285,9 @@
     "name:gla_x_preferred":[
         "Sloibh\u00ecnia"
     ],
+    "name:gla_x_variant":[
+        "An t-Sl\u00f2bhain"
+    ],
     "name:gle_x_preferred":[
         "An tSl\u00f3iv\u00e9in"
     ],
@@ -275,6 +308,9 @@
     ],
     "name:grn_x_preferred":[
         "Elove\u00f1a"
+    ],
+    "name:gsw_x_preferred":[
+        "Slowenia"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acd\u0ab2\u0acb\u0ab5\u0ac7\u0aa8\u0abf\u0aaf\u0abe"
@@ -321,6 +357,12 @@
     "name:hye_x_preferred":[
         "\u054d\u056c\u0578\u057e\u0565\u0576\u056b\u0561"
     ],
+    "name:hyw_x_preferred":[
+        "\u054d\u056c\u0578\u057e\u0567\u0576\u056b\u0561"
+    ],
+    "name:ibo_x_preferred":[
+        "Slovenia"
+    ],
     "name:ido_x_preferred":[
         "Slovenia"
     ],
@@ -366,6 +408,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0ccd\u0cb2\u0ccb\u0cb5\u0cc7\u0ca8\u0cbf\u0caf\u0cbe"
     ],
+    "name:kan_x_variant":[
+        "\u0cb8\u0ccd\u0cb2\u0cca\u0cb5\u0cc7\u0ca8\u0cbf\u0caf"
+    ],
     "name:kat_x_preferred":[
         "\u10e1\u10da\u10dd\u10d5\u10d4\u10dc\u10d8\u10d0"
     ],
@@ -375,6 +420,12 @@
     "name:kbd_x_preferred":[
         "\u0421\u043b\u043e\u0432\u0435\u043d\u0438\u044d"
     ],
+    "name:kbd_x_variant":[
+        "\u0421\u043b\u043e\u0443\u044d\u043d\u044d"
+    ],
+    "name:kbp_x_preferred":[
+        "Siloveni"
+    ],
     "name:khm_x_preferred":[
         "\u179f\u17d2\u179b\u17bc\u179c\u17c1\u1793\u17b8"
     ],
@@ -383,6 +434,9 @@
     ],
     "name:kin_x_preferred":[
         "Siloveniya"
+    ],
+    "name:kir_x_preferred":[
+        "\u0421\u043b\u043e\u0432\u0435\u043d\u0438\u044f"
     ],
     "name:koi_x_preferred":[
         "\u0421\u043b\u043e\u0432\u0435\u043d\u0438\u044f"
@@ -420,6 +474,12 @@
     "name:lav_x_preferred":[
         "Slov\u0113nija"
     ],
+    "name:lez_x_preferred":[
+        "\u0421\u043b\u043e\u0432\u0435\u043d\u0438\u044f"
+    ],
+    "name:lfn_x_preferred":[
+        "Slovenia"
+    ],
     "name:lij_x_preferred":[
         "Slovenia"
     ],
@@ -435,6 +495,9 @@
     "name:lit_x_preferred":[
         "Slov\u0117nija"
     ],
+    "name:liv_x_preferred":[
+        "Slov\u0113nij"
+    ],
     "name:lmo_x_preferred":[
         "Sluenia"
     ],
@@ -449,6 +512,9 @@
     ],
     "name:lug_x_preferred":[
         "Sirovenya"
+    ],
+    "name:lzh_x_preferred":[
+        "\u65af\u6d1b\u7dad\u5c3c\u4e9e"
     ],
     "name:mal_x_preferred":[
         "\u0d38\u0d4d\u0d32\u0d4a\u0d35\u0d40\u0d28\u0d4d\u0d2f"
@@ -486,6 +552,9 @@
     "name:msa_x_preferred":[
         "Slovenia"
     ],
+    "name:mwl_x_preferred":[
+        "Slob\u00e9nia"
+    ],
     "name:mya_x_preferred":[
         "\u1006\u101c\u102d\u102f\u1017\u1031\u1038\u1014\u102e\u1038\u101a\u102c\u1038\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
@@ -497,6 +566,12 @@
     ],
     "name:mzn_x_preferred":[
         "\u0627\u0633\u0644\u0648\u0646\u06cc"
+    ],
+    "name:nah_x_preferred":[
+        "Eslovenia"
+    ],
+    "name:nan_x_preferred":[
+        "Slovenia"
     ],
     "name:nau_x_preferred":[
         "Tsirobeniya"
@@ -542,6 +617,9 @@
     ],
     "name:oci_x_preferred":[
         "Eslov\u00e8nia"
+    ],
+    "name:olo_x_preferred":[
+        "Slovenii"
     ],
     "name:ori_x_preferred":[
         "\u0b38\u0b4d\u0b32\u0b4b\u0b2d\u0b47\u0b28\u0b3f\u0b06"
@@ -612,6 +690,9 @@
     "name:run_x_preferred":[
         "Siloveniya"
     ],
+    "name:rup_x_preferred":[
+        "Slovenia"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u043b\u043e\u0432\u0435\u043d\u0438\u044f"
     ],
@@ -630,6 +711,9 @@
     "name:sco_x_preferred":[
         "Slovenie"
     ],
+    "name:sgs_x_preferred":[
+        "Slovien\u0117j\u0117"
+    ],
     "name:sin_x_preferred":[
         "\u0dc3\u0dca\u0dbd\u0ddd\u0dc0\u0dda\u0db1\u0dd2\u0dba\u0dcf\u0dc0"
     ],
@@ -642,11 +726,17 @@
     "name:slv_x_variant":[
         "Republika Slovenija"
     ],
+    "name:sma_x_preferred":[
+        "Sloveenia"
+    ],
     "name:sme_x_preferred":[
         "Slovenia"
     ],
     "name:smo_x_preferred":[
         "Solovenia"
+    ],
+    "name:smo_x_variant":[
+        "Slovenia"
     ],
     "name:sna_x_preferred":[
         "Slovenia"
@@ -717,6 +807,9 @@
     "name:tgl_x_preferred":[
         "Eslobenya"
     ],
+    "name:tgl_x_variant":[
+        "Slovenia"
+    ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e2a\u0e42\u0e25\u0e27\u0e35\u0e40\u0e19\u0e35\u0e22"
     ],
@@ -728,6 +821,12 @@
     ],
     "name:ton_x_preferred":[
         "Sil\u014dvenia"
+    ],
+    "name:tpi_x_preferred":[
+        "Slovenia"
+    ],
+    "name:tso_x_preferred":[
+        "Slovenia"
     ],
     "name:tuk_x_preferred":[
         "Sloweni\u00fda"
@@ -746,6 +845,9 @@
     ],
     "name:uig_x_preferred":[
         "\u0633\u0644\u0648\u06cb\u06d0\u0646\u0649\u064a\u06d5"
+    ],
+    "name:uig_x_variant":[
+        "Slow\u00e9niye"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u043b\u043e\u0432\u0435\u043d\u0456\u044f"
@@ -787,6 +889,9 @@
     "name:vol_x_preferred":[
         "Sloveniy\u00e4n"
     ],
+    "name:vro_x_preferred":[
+        "Sloveeni\u00e4"
+    ],
     "name:war_x_preferred":[
         "Eslovenya"
     ],
@@ -814,8 +919,14 @@
     "name:yor_x_variant":[
         "Or\u00edl\u1eb9\u0301\u00e8de Silofania"
     ],
+    "name:yue_x_preferred":[
+        "\u65af\u6d1b\u6587\u5c3c\u4e9e"
+    ],
     "name:zea_x_preferred":[
         "Sloveni\u00eb"
+    ],
+    "name:zha_x_preferred":[
+        "Slovenia"
     ],
     "name:zho_min_nan_x_preferred":[
         "Slovenia"
@@ -982,7 +1093,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1561840616,
+    "wof:lastmodified":1563576309,
     "wof:name":"Slovenia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

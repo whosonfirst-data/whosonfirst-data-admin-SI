@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000132,
-    "geom:area_square_m":1137335.539672,
+    "geom:area_square_m":1137335.539673,
     "geom:bbox":"15.0623879021,45.7771491017,15.090060685,45.789360687",
     "geom:latitude":45.783154,
     "geom:longitude":15.076908,
@@ -17,17 +17,29 @@
     "mps:longitude":15.077851,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ob\u010dina Stra\u017ea"
+    ],
     "name:ces_x_preferred":[
         "Ob\u010dina Stra\u017ea"
     ],
     "name:deu_x_preferred":[
         "Stra\u017ea"
     ],
+    "name:eng_x_preferred":[
+        "Stra\u017ea Municipality"
+    ],
+    "name:epo_x_preferred":[
+        "Ob\u010dina Stra\u017ea"
+    ],
     "name:fra_x_preferred":[
         "Stra\u017ea"
     ],
     "name:hrv_x_preferred":[
         "Op\u0107ina Stra\u017ea"
+    ],
+    "name:ind_x_preferred":[
+        "Munisipalitas Stra\u017ea"
     ],
     "name:ita_x_preferred":[
         "Stra\u017ea"
@@ -47,8 +59,23 @@
     "name:por_x_preferred":[
         "Stra\u017ea"
     ],
+    "name:ron_x_preferred":[
+        "Comuna Stra\u017ea"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u0436\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Stra\u017ea"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u0436\u0430"
+    ],
     "name:unk_x_variant":[
         "Gorenja Stra\u017ea"
+    ],
+    "name:zho_x_preferred":[
+        "\u53f2\u7279\u62c9\u672d"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -97,7 +124,7 @@
         }
     ],
     "wof:id":101792971,
-    "wof:lastmodified":1531508687,
+    "wof:lastmodified":1563576998,
     "wof:name":"Stra\u017ea",
     "wof:parent_id":1108959793,
     "wof:placetype":"locality",

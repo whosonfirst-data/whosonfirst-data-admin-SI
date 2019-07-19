@@ -19,11 +19,20 @@
     "name:bos_x_preferred":[
         "\u0160entilj v Slovenskih goricah"
     ],
+    "name:ceb_x_preferred":[
+        "\u0160entilj v Slovenskih goricah"
+    ],
     "name:deu_x_preferred":[
         "\u0160entilj"
     ],
     "name:eng_x_preferred":[
         "\u0160entilj"
+    ],
+    "name:eng_x_variant":[
+        "\u0160entilj v Slovenskih Goricah"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160entilj v Slovenskih goricah"
     ],
     "name:hbs_x_preferred":[
         "\u0160entilj v Slovenskih goricah"
@@ -39,6 +48,9 @@
     ],
     "name:nld_x_variant":[
         "\u0160entilj"
+    ],
+    "name:pol_x_preferred":[
+        "\u0160entilj v Slovenskih goricah"
     ],
     "name:ron_x_preferred":[
         "\u0160entilj v Slovenskih goricah"
@@ -109,7 +121,7 @@
         }
     ],
     "wof:id":101845289,
-    "wof:lastmodified":1561840634,
+    "wof:lastmodified":1563576911,
     "wof:name":"\u0160entilj v Slov. goricah",
     "wof:parent_id":1108959565,
     "wof:placetype":"locality",

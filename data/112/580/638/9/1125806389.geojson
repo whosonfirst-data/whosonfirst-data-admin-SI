@@ -19,7 +19,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "\u010cepovan"
+    ],
+    "name:ceb_x_preferred":[
+        "\u010cepovan"
+    ],
+    "name:ces_x_preferred":[
+        "\u010cepovan"
+    ],
     "name:eng_x_preferred":[
+        "\u010cepovan"
+    ],
+    "name:fra_x_preferred":[
         "\u010cepovan"
     ],
     "name:hun_x_preferred":[
@@ -29,6 +41,9 @@
         "Chiapovano"
     ],
     "name:nld_x_preferred":[
+        "\u010cepovan"
+    ],
+    "name:pol_x_preferred":[
         "\u010cepovan"
     ],
     "name:ron_x_preferred":[
@@ -96,7 +111,7 @@
         }
     ],
     "wof:id":1125806389,
-    "wof:lastmodified":1561840643,
+    "wof:lastmodified":1563577097,
     "wof:name":"\u010cepovan",
     "wof:parent_id":1108959487,
     "wof:placetype":"locality",

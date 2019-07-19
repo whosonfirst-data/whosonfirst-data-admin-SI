@@ -20,7 +20,13 @@
     "name:bos_x_preferred":[
         "\u010cren\u0161ovci"
     ],
+    "name:ceb_x_preferred":[
+        "\u010cren\u0161ovci"
+    ],
     "name:eng_x_preferred":[
+        "\u010cren\u0161ovci"
+    ],
+    "name:fra_x_preferred":[
         "\u010cren\u0161ovci"
     ],
     "name:hbs_x_preferred":[
@@ -29,13 +35,22 @@
     "name:hrv_x_preferred":[
         "\u010cren\u0161ovci"
     ],
+    "name:hun_x_preferred":[
+        "Cserf\u00f6ld"
+    ],
     "name:nld_x_preferred":[
+        "\u010cren\u0161ovci"
+    ],
+    "name:pol_x_preferred":[
         "\u010cren\u0161ovci"
     ],
     "name:ron_x_preferred":[
         "\u010cren\u0161ovci"
     ],
     "name:slv_x_preferred":[
+        "\u010cren\u0161ovci"
+    ],
+    "name:spa_x_preferred":[
         "\u010cren\u0161ovci"
     ],
     "name:srp_x_preferred":[
@@ -95,7 +110,7 @@
         }
     ],
     "wof:id":101791153,
-    "wof:lastmodified":1561840633,
+    "wof:lastmodified":1563576898,
     "wof:name":"\u010cren\u0161ovci",
     "wof:parent_id":1108959823,
     "wof:placetype":"locality",

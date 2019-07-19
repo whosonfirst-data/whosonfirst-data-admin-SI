@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Lenart v Slovenskih goricah"
     ],
+    "name:ceb_x_preferred":[
+        "Lenart v Slov. Goricah"
+    ],
     "name:ces_x_preferred":[
         "Ob\u010dina Lenart"
     ],
@@ -56,6 +59,9 @@
     "name:pol_x_preferred":[
         "Gmina Lenart"
     ],
+    "name:pol_x_variant":[
+        "Lenart v Slovenskih goricah"
+    ],
     "name:por_x_preferred":[
         "Lenart"
     ],
@@ -70,6 +76,9 @@
     ],
     "name:spa_x_preferred":[
         "Lenart"
+    ],
+    "name:sqi_x_preferred":[
+        "Lenart v Slovenskih goricah"
     ],
     "name:srp_x_preferred":[
         "\u041b\u0435\u043d\u0430\u0440\u0442 \u0432 \u0421\u043b\u043e\u0432\u0435\u043d\u0441\u043a\u0438\u0445 \u0433\u043e\u0440\u0438\u0446\u0430\u0445"
@@ -138,7 +147,7 @@
         }
     ],
     "wof:id":101845285,
-    "wof:lastmodified":1561840634,
+    "wof:lastmodified":1563576926,
     "wof:name":"Lenart v Slov. goricah",
     "wof:parent_id":1108959477,
     "wof:placetype":"locality",

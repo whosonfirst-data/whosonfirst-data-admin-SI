@@ -20,13 +20,22 @@
     "name:ara_x_preferred":[
         "\u062a\u0631\u0628\u0648\u0641\u0644\u062c\u0647"
     ],
+    "name:bel_x_preferred":[
+        "\u0422\u0440\u0431\u043e\u045e\u043b\u0435"
+    ],
     "name:ben_x_preferred":[
         "\u099f\u09cd\u09b0\u09ac\u09cb\u09ad\u09cd\u09b2\u09bf"
     ],
     "name:bos_x_preferred":[
         "Trbovlje"
     ],
+    "name:bul_x_preferred":[
+        "\u0422\u0440\u044a\u0431\u0432\u043e\u043b\u0435"
+    ],
     "name:cat_x_preferred":[
+        "Trbovlje"
+    ],
+    "name:ceb_x_preferred":[
         "Trbovlje"
     ],
     "name:ces_x_preferred":[
@@ -74,6 +83,9 @@
     "name:hrv_x_preferred":[
         "Op\u0107ina Trbovlje"
     ],
+    "name:hrv_x_variant":[
+        "Trbovlje"
+    ],
     "name:hun_x_preferred":[
         "Trbovlje"
     ],
@@ -94,6 +106,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud2b8\ub974\ubcf4\ube14\ub808"
+    ],
+    "name:kor_x_variant":[
+        "\ud2b8\ub974\ubcf4\ube14\ub9ac\uc5d0"
     ],
     "name:lav_x_preferred":[
         "Trbovlje"
@@ -149,11 +164,17 @@
     "name:slv_x_preferred":[
         "Ob\u010dina Trbovlje"
     ],
+    "name:slv_x_variant":[
+        "Trbovlje"
+    ],
     "name:spa_x_preferred":[
         "Trbovlje"
     ],
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0422\u0440\u0431\u043e\u0432\u0459\u0435"
+    ],
+    "name:srp_x_variant":[
+        "\u0422\u0440\u0431\u043e\u0432\u0459\u0435"
     ],
     "name:swe_x_preferred":[
         "Trbovlje"
@@ -241,7 +262,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840638,
+    "wof:lastmodified":1563577007,
     "wof:name":"Trbovlje",
     "wof:parent_id":1108959911,
     "wof:placetype":"locality",

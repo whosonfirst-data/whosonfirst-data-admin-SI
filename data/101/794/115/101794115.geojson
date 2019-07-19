@@ -32,6 +32,9 @@
     "name:cat_x_preferred":[
         "Izola"
     ],
+    "name:ceb_x_preferred":[
+        "Izola"
+    ],
     "name:ces_x_preferred":[
         "Izola"
     ],
@@ -107,6 +110,9 @@
     "name:lat_x_preferred":[
         "Insulae"
     ],
+    "name:lat_x_variant":[
+        "Insula Histriae"
+    ],
     "name:lav_x_preferred":[
         "Izola"
     ],
@@ -162,6 +168,9 @@
         "Ob\u010dina Izola"
     ],
     "name:spa_x_preferred":[
+        "Izola"
+    ],
+    "name:sqi_x_preferred":[
         "Izola"
     ],
     "name:srp_x_preferred":[
@@ -262,7 +271,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840637,
+    "wof:lastmodified":1563576981,
     "wof:name":"Izola",
     "wof:parent_id":1108959551,
     "wof:placetype":"locality",

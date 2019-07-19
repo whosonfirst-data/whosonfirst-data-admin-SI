@@ -20,7 +20,19 @@
     "name:ara_x_preferred":[
         "\u0631\u0627\u0641\u0646\u0647 \u0646\u0627\u062f \u0643\u0631\u0648\u0634\u0643\u064a\u0645"
     ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09be\u09ad\u09a8\u09c7 \u09a8\u09be \u0995\u09b0\u09cb\u09b8\u09cd\u0995\u09c7"
+    ],
     "name:bos_x_preferred":[
+        "Ravne na Koro\u0161kem"
+    ],
+    "name:cat_x_preferred":[
+        "Ravne na Koro\u0161kem"
+    ],
+    "name:ceb_x_preferred":[
+        "Ravne na Koro\u0161kem"
+    ],
+    "name:ces_x_preferred":[
         "Ravne na Koro\u0161kem"
     ],
     "name:dan_x_preferred":[
@@ -33,16 +45,38 @@
         "Gutenstein"
     ],
     "name:deu_x_variant":[
-        "Gutenstein in K\u00e4rnten"
+        "Gutenstein in K\u00e4rnten",
+        "Ravne na Koro\u0161kem"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b1\u03b2\u03bd\u03ad \u03bd\u03b1 \u039a\u03bf\u03c1\u03cc\u03c3\u03ba\u03b5\u03bc"
+    ],
+    "name:eng_x_preferred":[
+        "Ravne na Koro\u0161kem"
+    ],
+    "name:epo_x_preferred":[
+        "Ravne na Koro\u0161kem"
     ],
     "name:fas_x_preferred":[
         "\u0631\u0627\u0648\u0646\u0647 \u0646\u0627\u062f \u06a9\u0631\u0634\u06a9\u0645"
     ],
+    "name:fin_x_preferred":[
+        "Ravnena Koro\u0161kem"
+    ],
     "name:fra_x_preferred":[
         "Ravne na Koro\u0161kem"
     ],
+    "name:guj_x_preferred":[
+        "\u0ab0\u0abe\u0ab5\u0aa8\u0ac7 \u0aa8\u0abe \u0a95\u0acb\u0ab0\u0acb\u0ab8\u0acd\u0a95\u0ac7\u0aae"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u0935\u0928\u0947 \u0928\u093e \u0915\u094b\u0930\u094b\u0938\u0915\u0947\u092e"
+    ],
     "name:hrv_x_preferred":[
         "Ravne na Koro\u0161kem"
+    ],
+    "name:hrv_x_variant":[
+        "Op\u0107ina Ravne na Koro\u0161kem"
     ],
     "name:hun_x_preferred":[
         "Ravne na Koro\u0161kem"
@@ -56,6 +90,54 @@
     "name:jpn_x_preferred":[
         "\u30e9\u30f4\u30cd\u30fb\u30ca\u30fb\u30b3\u30ed\u30b7\u30e5\u30b1\u30e0"
     ],
+    "name:kan_x_preferred":[
+        "\u0cb0\u0cbe\u0cb5\u0ccd\u0ca8\u0cc6 \u0ca8\u0cbe \u0c95\u0cca\u0cb0\u0cca\u0cb8\u0ccd\u0c95\u0cc6\u0cae\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\ube0c\ub124\ub098\ucf54\ub85c\uc288\ucf10"
+    ],
+    "name:lat_x_preferred":[
+        "Recta in Carinthia"
+    ],
+    "name:lav_x_preferred":[
+        "Ravne uz Koro\u0161kema"
+    ],
+    "name:lit_x_preferred":[
+        "Ravn\u0117 na Koro\u0161kemas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0930\u093e\u0935\u0928\u0947 \u0928\u093e \u0915\u094b\u0930\u094b\u0938\u094d\u0915\u092e"
+    ],
+    "name:msa_x_preferred":[
+        "Ravne na Koroskem"
+    ],
+    "name:nld_x_preferred":[
+        "Ravne na Koro\u0161kem"
+    ],
+    "name:nob_x_preferred":[
+        "Ravne na Koroskem"
+    ],
+    "name:oci_x_preferred":[
+        "Ravne na Koro\u0161kem"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Ravne na Koro\u0161kem"
+    ],
+    "name:por_x_preferred":[
+        "Ravne na Koro\u0161kem"
+    ],
+    "name:ron_x_preferred":[
+        "Ravne na Koro\u0161kem"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0432\u043d\u0435-\u043d\u0430-\u041a\u043e\u0440\u043e\u0448\u043a\u0435\u043c"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbb\u0dc0\u0dca\u0db1\u0dda \u0db1\u0dcf \u0d9a\u0ddc\u0dbb\u0ddd\u0dc3\u0dca\u0d9a\u0dd9\u0db8\u0dca"
+    ],
+    "name:slk_x_preferred":[
+        "Ravne na Koro\u0161kem"
+    ],
     "name:slv_x_historical":[
         "Gu\u0161tanj"
     ],
@@ -65,11 +147,47 @@
     "name:slv_x_variant":[
         "Ravne na Koro\u0161kem"
     ],
+    "name:spa_x_preferred":[
+        "Ravne na Koro\u0161kem"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0432\u043d\u0435 \u043d\u0430 \u041a\u043e\u0440\u043e\u0448\u043a\u0435\u043c"
+    ],
+    "name:swe_x_preferred":[
+        "Ravne na Koroskem"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb0\u0bb5\u0ba9\u0bc7 \u0ba8\u0bbe \u0b95\u0bcb\u0bb0\u0bcb\u0bb8\u0bcd\u0b95\u0bbf\u0bae\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0420\u0430\u0432\u043d\u0435-\u043d\u0430-\u041a\u043e\u0440\u043e\u0448\u043a\u0435\u043c"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c30\u0c3e\u0c35\u0c4d\u0c28\u0c47 \u0c28\u0c3e \u0c15\u0c4b\u0c30\u0c4b\u0c38\u0c4d\u0c15\u0c46\u0c2e\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e23\u0e32\u0e27\u0e40\u0e19\u0e19\u0e32\u0e04\u0e2d\u0e42\u0e23\u0e0a\u0e40\u0e04\u0e21"
+    ],
+    "name:tur_x_preferred":[
+        "Ravne na Koro\u0161kem"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0432\u043d\u0435-\u043d\u0430-\u041a\u043e\u0440\u043e\u0448\u043a\u0435\u043c"
+    ],
     "name:und_x_preferred":[
         "Ravne"
     ],
     "name:unk_x_variant":[
         "Ravne"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0627\u0648\u0646\u06cc \u0646\u0627 \u06a9\u0648\u0631\u0648\u0633\u06a9\u06cc\u0645"
+    ],
+    "name:vie_x_preferred":[
+        "Ravne na Koro\u0161kem"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u592b\u5167\u7d0d\u79d1\u7f85\u4ec0\u51f1\u59c6"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -124,7 +242,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531170445,
+    "wof:lastmodified":1563576995,
     "wof:name":"Ravne na Koro\u0161kem",
     "wof:parent_id":1108959643,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Kostanjevica na Krki"
     ],
+    "name:ceb_x_preferred":[
+        "Kostanjevica na Krki"
+    ],
     "name:ces_x_preferred":[
         "Ob\u010dina Kostanjevica na Krki"
     ],
@@ -50,6 +53,9 @@
     "name:hrv_x_preferred":[
         "Op\u0107ina Kostanjevica na Krki"
     ],
+    "name:hrv_x_variant":[
+        "Kostanjevica na Krki"
+    ],
     "name:ita_x_preferred":[
         "Kostanjevica na Krki"
     ],
@@ -67,6 +73,9 @@
     ],
     "name:pol_x_preferred":[
         "Gmina Kostanjevica na Krki"
+    ],
+    "name:pol_x_variant":[
+        "Kostanjevica na Krki"
     ],
     "name:por_x_preferred":[
         "Kostanjevica na Krki"
@@ -86,7 +95,13 @@
     "name:slv_x_preferred":[
         "Ob\u010dina Kostanjevica na Krki"
     ],
+    "name:slv_x_variant":[
+        "Kostanjevica na Krki"
+    ],
     "name:spa_x_preferred":[
+        "Kostanjevica na Krki"
+    ],
+    "name:sqi_x_preferred":[
         "Kostanjevica na Krki"
     ],
     "name:srp_x_preferred":[
@@ -154,7 +169,7 @@
         }
     ],
     "wof:id":101793007,
-    "wof:lastmodified":1561840637,
+    "wof:lastmodified":1563576970,
     "wof:name":"Kostanjevica na Krki",
     "wof:parent_id":1108959835,
     "wof:placetype":"locality",

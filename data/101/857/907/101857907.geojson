@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Bistrica ob Sotli"
     ],
+    "name:ceb_x_preferred":[
+        "Bistrica ob Sotli"
+    ],
     "name:ces_x_preferred":[
         "Ob\u010dina Bistrica ob Sotli"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:hrv_x_preferred":[
         "Op\u0107ina Bistrica ob Sotli"
+    ],
+    "name:hsb_x_preferred":[
+        "Bistrica ob Sotli"
     ],
     "name:hun_x_preferred":[
         "Bistrica ob Sotli"
@@ -74,7 +80,13 @@
     "name:slv_x_preferred":[
         "Ob\u010dina Bistrica ob Sotli"
     ],
+    "name:slv_x_variant":[
+        "Bistrica ob Sotli"
+    ],
     "name:spa_x_preferred":[
+        "Bistrica ob Sotli"
+    ],
+    "name:sqi_x_preferred":[
         "Bistrica ob Sotli"
     ],
     "name:srp_x_preferred":[
@@ -91,6 +103,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0644\u062f\u06cc\u06c1 \u0628\u06cc\u0633\u062a\u0631\u06cc\u062a\u0633\u0627 \u0627\u0648\u067e \u0633\u0648\u062a\u0644\u06cc"
+    ],
+    "name:urd_x_variant":[
+        "\u0628\u06cc\u0633\u062a\u0631\u06cc\u062a\u0633\u0627 \u0627\u0648\u067e \u0633\u0648\u062a\u0644\u06cc"
     ],
     "name:vie_x_preferred":[
         "Bistrica ob Sotli"
@@ -139,7 +154,7 @@
         }
     ],
     "wof:id":101857907,
-    "wof:lastmodified":1561840635,
+    "wof:lastmodified":1563576941,
     "wof:name":"Bistrica ob Sotli",
     "wof:parent_id":1108959915,
     "wof:placetype":"locality",

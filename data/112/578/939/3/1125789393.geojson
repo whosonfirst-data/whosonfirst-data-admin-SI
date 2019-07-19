@@ -21,7 +21,16 @@
     "name:bos_x_preferred":[
         "Medvode"
     ],
+    "name:ceb_x_preferred":[
+        "Medvode"
+    ],
+    "name:deu_x_preferred":[
+        "Medvode"
+    ],
     "name:eng_x_preferred":[
+        "Medvode"
+    ],
+    "name:fra_x_preferred":[
         "Medvode"
     ],
     "name:hrv_x_preferred":[
@@ -37,6 +46,9 @@
         "Medvode"
     ],
     "name:slv_x_preferred":[
+        "Medvode"
+    ],
+    "name:sqi_x_preferred":[
         "Medvode"
     ],
     "name:srp_x_preferred":[
@@ -100,7 +112,7 @@
         }
     ],
     "wof:id":1125789393,
-    "wof:lastmodified":1561840646,
+    "wof:lastmodified":1563577141,
     "wof:name":"Medvode",
     "wof:parent_id":1108959917,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000034,
-    "geom:area_square_m":289289.916994,
+    "geom:area_square_m":289289.916993,
     "geom:bbox":"15.0131092933,46.2317225268,15.0242067905,46.2425025466",
     "geom:latitude":46.237599,
     "geom:longitude":15.018471,
@@ -20,10 +20,25 @@
     "name:bos_x_preferred":[
         "Tabor"
     ],
+    "name:ceb_x_preferred":[
+        "Tabor"
+    ],
+    "name:eng_x_preferred":[
+        "Tabor"
+    ],
+    "name:fra_x_preferred":[
+        "Tabor"
+    ],
     "name:hbs_x_preferred":[
         "Tabor"
     ],
+    "name:ind_x_preferred":[
+        "Munisipalitas Tabor"
+    ],
     "name:nld_x_preferred":[
+        "Tabor"
+    ],
+    "name:pol_x_preferred":[
         "Tabor"
     ],
     "name:ron_x_preferred":[
@@ -34,6 +49,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0431\u043e\u0440"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u535a\u723e"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -81,7 +99,7 @@
         }
     ],
     "wof:id":101792005,
-    "wof:lastmodified":1531170667,
+    "wof:lastmodified":1563577009,
     "wof:name":"Tabor",
     "wof:parent_id":1108959715,
     "wof:placetype":"locality",

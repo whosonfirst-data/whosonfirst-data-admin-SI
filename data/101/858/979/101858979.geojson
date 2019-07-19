@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Cerkvenjak"
     ],
+    "name:ceb_x_preferred":[
+        "Cerkvenjak"
+    ],
     "name:ces_x_preferred":[
         "Ob\u010dina Cerkvenjak"
     ],
@@ -29,11 +32,17 @@
     "name:eng_x_preferred":[
         "Cerkvenjak"
     ],
+    "name:epo_x_preferred":[
+        "Cerkvenjak"
+    ],
     "name:fra_x_preferred":[
         "Cerkvenjak"
     ],
     "name:hrv_x_preferred":[
         "Op\u0107ina Cerkvenjak"
+    ],
+    "name:hrv_x_variant":[
+        "Cerkvenjak"
     ],
     "name:hun_x_preferred":[
         "Cerkvenjak"
@@ -53,6 +62,9 @@
     "name:pol_x_preferred":[
         "Gmina Cerkvenjak"
     ],
+    "name:pol_x_variant":[
+        "Cerkvenjak"
+    ],
     "name:por_x_preferred":[
         "Cerkvenjak"
     ],
@@ -61,6 +73,9 @@
     ],
     "name:slv_x_preferred":[
         "Ob\u010dina Cerkvenjak"
+    ],
+    "name:slv_x_variant":[
+        "Cerkvenjak"
     ],
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0426\u0435\u0440\u043a\u0432\u0435\u045a\u0430\u043a"
@@ -120,7 +135,7 @@
         }
     ],
     "wof:id":101858979,
-    "wof:lastmodified":1561840636,
+    "wof:lastmodified":1563576961,
     "wof:name":"Cerkvenjak",
     "wof:parent_id":1108959703,
     "wof:placetype":"locality",
