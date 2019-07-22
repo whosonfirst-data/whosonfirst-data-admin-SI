@@ -26,6 +26,9 @@
     "name:bos_x_preferred":[
         "Dobrovnik"
     ],
+    "name:ceb_x_preferred":[
+        "Dobrovnik"
+    ],
     "name:ces_x_preferred":[
         "Ob\u010dina Dobrovnik"
     ],
@@ -100,6 +103,9 @@
     ],
     "name:pol_x_preferred":[
         "Gmina Dobrovnik"
+    ],
+    "name:pol_x_variant":[
+        "Dobrovnik"
     ],
     "name:por_x_preferred":[
         "Dobrovnik"
@@ -194,7 +200,7 @@
         }
     ],
     "wof:id":101791987,
-    "wof:lastmodified":1561840633,
+    "wof:lastmodified":1563576903,
     "wof:name":"Dobrovnik",
     "wof:parent_id":1108959691,
     "wof:placetype":"locality",

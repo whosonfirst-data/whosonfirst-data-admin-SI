@@ -29,6 +29,12 @@
     "name:bos_x_preferred":[
         "Miklav\u017e na Dravskem polju"
     ],
+    "name:ceb_x_preferred":[
+        "Miklav\u017e na Dravskem Polju"
+    ],
+    "name:ces_x_preferred":[
+        "Miklav\u017e na Dravskem polju"
+    ],
     "name:dan_x_preferred":[
         "Miklav\u017e na Dravskem Polju"
     ],
@@ -91,6 +97,9 @@
     ],
     "name:pol_x_preferred":[
         "Miklav\u017e na Dravskem Polju"
+    ],
+    "name:pol_x_variant":[
+        "Miklav\u017e na Dravskem polju"
     ],
     "name:por_x_preferred":[
         "Miklav\u017e na Dravskem Polju"
@@ -209,7 +218,7 @@
         }
     ],
     "wof:id":101791165,
-    "wof:lastmodified":1561840633,
+    "wof:lastmodified":1563576899,
     "wof:name":"Miklav\u017e na Dravskem polju",
     "wof:parent_id":1108959665,
     "wof:placetype":"locality",

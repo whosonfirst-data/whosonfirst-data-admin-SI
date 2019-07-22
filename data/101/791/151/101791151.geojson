@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000447,
-    "geom:area_square_m":3800397.585199,
+    "geom:area_square_m":3800397.5852,
     "geom:bbox":"16.396956724,46.5359366501,16.4718571121,46.5767536502",
     "geom:latitude":46.554324,
     "geom:longitude":16.440305,
@@ -20,14 +20,35 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0646\u062f\u0627\u0641\u0627"
     ],
+    "name:aze_x_preferred":[
+        "Lendava"
+    ],
+    "name:bak_x_preferred":[
+        "\u041b\u0435\u043d\u0434\u0430\u0432\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09c7\u09a8\u09cd\u09a1\u09be\u09ad\u09be"
+    ],
     "name:bos_x_preferred":[
+        "Lendava"
+    ],
+    "name:cat_x_preferred":[
+        "Lendava"
+    ],
+    "name:ceb_x_preferred":[
         "Lendava"
     ],
     "name:ces_x_preferred":[
         "Lendava"
     ],
+    "name:dan_x_preferred":[
+        "Lendava"
+    ],
     "name:deu_x_preferred":[
         "Lendava"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b5\u03bd\u03c4\u03ac\u03b2\u03b1"
     ],
     "name:eng_x_preferred":[
         "Lendava"
@@ -38,8 +59,14 @@
     "name:est_x_preferred":[
         "Lendava"
     ],
+    "name:eus_x_preferred":[
+        "Lendava"
+    ],
     "name:fas_x_preferred":[
         "\u0644\u0646\u062f\u0627\u0648\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Lendava"
     ],
     "name:fra_x_preferred":[
         "Lendava"
@@ -47,11 +74,17 @@
     "name:gle_x_preferred":[
         "Lendava"
     ],
+    "name:guj_x_preferred":[
+        "\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0abe\u0ab5\u0abe"
+    ],
     "name:hbs_x_preferred":[
         "Lendava"
     ],
     "name:heb_x_preferred":[
         "\u05dc\u05e0\u05d3\u05d0\u05d5\u05d5\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u0947\u0902\u0921\u0935\u093e"
     ],
     "name:hrv_x_preferred":[
         "Lendava"
@@ -62,22 +95,43 @@
     "name:hun_x_variant":[
         "Als\u00f3lendva"
     ],
+    "name:ind_x_preferred":[
+        "Lendava"
+    ],
     "name:ita_x_preferred":[
         "Lendava"
     ],
     "name:jpn_x_preferred":[
         "\u30ec\u30f3\u30c0\u30f4\u30a1"
     ],
+    "name:kan_x_preferred":[
+        "\u0cb2\u0cc6\u0c82\u0ca1\u0cb5"
+    ],
     "name:kor_x_preferred":[
         "\ub80c\ub2e4\ubc14"
     ],
+    "name:lav_x_preferred":[
+        "Lendava"
+    ],
     "name:lit_x_preferred":[
+        "Lendava"
+    ],
+    "name:mar_x_preferred":[
+        "\u0932\u0901\u0921\u0935\u093e"
+    ],
+    "name:msa_x_preferred":[
         "Lendava"
     ],
     "name:nld_x_preferred":[
         "Lendava"
     ],
+    "name:nob_x_preferred":[
+        "Lendava"
+    ],
     "name:oci_x_preferred":[
+        "Lendava"
+    ],
+    "name:pol_x_preferred":[
         "Lendava"
     ],
     "name:por_x_preferred":[
@@ -88,6 +142,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041b\u0435\u043d\u0434\u0430\u0432\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbd\u0dd9\u0db1\u0dca\u0da9\u0dc0\u0dcf"
     ],
     "name:slk_x_preferred":[
         "Lendava"
@@ -101,8 +158,26 @@
     "name:spa_x_preferred":[
         "Lendava"
     ],
+    "name:sqi_x_preferred":[
+        "Lendava"
+    ],
     "name:srp_x_preferred":[
         "\u041b\u0435\u043d\u0434\u0430\u0432\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Lendava"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bc7\u0ba3\u0bcd\u0b9f\u0bb5\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c32\u0c46\u0c02\u0c21\u0c3e\u0c35\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e40\u0e25\u0e19\u0e14\u0e32\u0e27\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Lendava"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0435\u043d\u0434\u0430\u0432\u0430"
@@ -123,6 +198,9 @@
     ],
     "name:unk_x_variant":[
         "Unter-Limbach"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u0646\u062f\u0627\u0648\u0627"
     ],
     "name:vie_x_preferred":[
         "Lendava"
@@ -182,7 +260,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531170196,
+    "wof:lastmodified":1563576894,
     "wof:name":"Lendava",
     "wof:parent_id":1108959475,
     "wof:placetype":"locality",

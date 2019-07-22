@@ -29,7 +29,13 @@
     "name:bos_x_preferred":[
         "Kamnik"
     ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u043c\u043d\u0438\u043a"
+    ],
     "name:cat_x_preferred":[
+        "Kamnik"
+    ],
+    "name:ceb_x_preferred":[
         "Kamnik"
     ],
     "name:ces_x_preferred":[
@@ -86,6 +92,9 @@
     "name:lat_x_preferred":[
         "Lithopolis"
     ],
+    "name:lat_x_variant":[
+        "Civitas Stain"
+    ],
     "name:lit_x_preferred":[
         "Kamnikas"
     ],
@@ -120,6 +129,9 @@
         "Kamnik"
     ],
     "name:spa_x_preferred":[
+        "Kamnik"
+    ],
+    "name:sqi_x_preferred":[
         "Kamnik"
     ],
     "name:srp_x_preferred":[
@@ -207,7 +219,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840636,
+    "wof:lastmodified":1563576951,
     "wof:name":"Kamnik",
     "wof:parent_id":1108959941,
     "wof:placetype":"locality",

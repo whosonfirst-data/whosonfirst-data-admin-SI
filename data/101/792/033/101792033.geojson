@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Vojnik"
     ],
+    "name:ceb_x_preferred":[
+        "Vojnik"
+    ],
     "name:deu_x_preferred":[
         "Vojnik"
     ],
@@ -50,6 +53,9 @@
     "name:oci_x_preferred":[
         "Vojnik"
     ],
+    "name:pol_x_preferred":[
+        "Vojnik"
+    ],
     "name:por_x_preferred":[
         "Vojnik"
     ],
@@ -75,6 +81,9 @@
         "\u0412\u043e\u0439\u043d\u0438\u043a"
     ],
     "name:vie_x_preferred":[
+        "Vojnik"
+    ],
+    "name:vol_x_preferred":[
         "Vojnik"
     ],
     "qs:a0":"Slovenija",
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":101792033,
-    "wof:lastmodified":1561840638,
+    "wof:lastmodified":1563577008,
     "wof:name":"Vojnik",
     "wof:parent_id":1108959653,
     "wof:placetype":"locality",

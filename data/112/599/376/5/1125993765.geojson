@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0634\u0643\u0648\u0641\u062c\u0627 \u0644\u0648\u0643\u0627"
     ],
+    "name:bel_x_preferred":[
+        "\u0428\u043a\u043e\u0444\u2019\u044f-\u041b\u043e\u043a\u0430"
+    ],
     "name:bos_x_preferred":[
         "\u0160kofja Loka"
     ],
@@ -29,6 +32,9 @@
         "\u0428\u043a\u043e\u0444\u044f \u041b\u043e\u043a\u0430"
     ],
     "name:cat_x_preferred":[
+        "\u0160kofja Loka"
+    ],
+    "name:ceb_x_preferred":[
         "\u0160kofja Loka"
     ],
     "name:ces_x_preferred":[
@@ -39,6 +45,9 @@
     ],
     "name:deu_x_preferred":[
         "\u0160kofja Loka"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ba\u03cc\u03c6\u03b9\u03b1 \u039b\u03cc\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "\u0160kofja Loka"
@@ -102,6 +111,9 @@
     ],
     "name:pol_x_preferred":[
         "Gmina \u0160kofja Loka"
+    ],
+    "name:pol_x_variant":[
+        "\u0160kofja Loka"
     ],
     "name:por_x_preferred":[
         "\u0160kofja Loka"
@@ -201,7 +213,7 @@
         }
     ],
     "wof:id":1125993765,
-    "wof:lastmodified":1561840644,
+    "wof:lastmodified":1563577104,
     "wof:name":"\u00c5 Kofja Loka",
     "wof:parent_id":1108959821,
     "wof:placetype":"locality",

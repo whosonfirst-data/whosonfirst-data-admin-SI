@@ -23,7 +23,13 @@
     "name:bos_x_preferred":[
         "Mojstrana"
     ],
+    "name:ceb_x_preferred":[
+        "Mojstrana"
+    ],
     "name:eng_x_preferred":[
+        "Mojstrana"
+    ],
+    "name:fra_x_preferred":[
         "Mojstrana"
     ],
     "name:hbs_x_preferred":[
@@ -52,6 +58,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0439\u0441\u0442\u0440\u0430\u043d\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u65af\u5766\u90a3"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -118,7 +127,7 @@
         }
     ],
     "wof:id":101845309,
-    "wof:lastmodified":1561840633,
+    "wof:lastmodified":1563576907,
     "wof:name":"Mojstrana",
     "wof:parent_id":1108959843,
     "wof:placetype":"locality",

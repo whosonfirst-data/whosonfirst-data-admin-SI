@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Cankova"
     ],
+    "name:ceb_x_preferred":[
+        "Cankova"
+    ],
     "name:ces_x_preferred":[
         "Cankova"
     ],
@@ -67,6 +70,9 @@
     ],
     "name:pol_x_preferred":[
         "Gmina Cankova"
+    ],
+    "name:pol_x_variant":[
+        "Cankova"
     ],
     "name:por_x_preferred":[
         "Cankova"
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":101845347,
-    "wof:lastmodified":1561840634,
+    "wof:lastmodified":1563576917,
     "wof:name":"Cankova",
     "wof:parent_id":1108959707,
     "wof:placetype":"locality",

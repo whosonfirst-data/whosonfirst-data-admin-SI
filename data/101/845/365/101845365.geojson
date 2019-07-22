@@ -20,11 +20,20 @@
     "name:bos_x_preferred":[
         "Lukovica pri Dom\u017ealah"
     ],
+    "name:ceb_x_preferred":[
+        "Lukovica pri Dom\u017ealah"
+    ],
     "name:deu_x_preferred":[
         "Lukowitz"
     ],
     "name:eng_x_preferred":[
         "Lukovica"
+    ],
+    "name:eng_x_variant":[
+        "Lukovica pri Dom\u017ealah"
+    ],
+    "name:fra_x_preferred":[
+        "Lukovica pri Dom\u017ealah"
     ],
     "name:hbs_x_preferred":[
         "Lukovica pri Dom\u017ealah"
@@ -40,6 +49,9 @@
     ],
     "name:nld_x_variant":[
         "Lukovica"
+    ],
+    "name:pol_x_preferred":[
+        "Lukovica pri Dom\u017ealah"
     ],
     "name:ron_x_preferred":[
         "Lukovica"
@@ -115,7 +127,7 @@
         }
     ],
     "wof:id":101845365,
-    "wof:lastmodified":1561840633,
+    "wof:lastmodified":1563576908,
     "wof:name":"Lukovica pri Dom\u017ealah",
     "wof:parent_id":1108959807,
     "wof:placetype":"locality",

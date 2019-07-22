@@ -22,10 +22,19 @@
     "name:bos_x_preferred":[
         "Stojnci"
     ],
+    "name:ceb_x_preferred":[
+        "Stojnci"
+    ],
     "name:eng_x_preferred":[
         "Stojnci"
     ],
+    "name:fra_x_preferred":[
+        "Stojnci"
+    ],
     "name:nld_x_preferred":[
+        "Stojnci"
+    ],
+    "name:pol_x_preferred":[
         "Stojnci"
     ],
     "name:ron_x_preferred":[
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":1125879279,
-    "wof:lastmodified":1561840644,
+    "wof:lastmodified":1563577102,
     "wof:name":"Stojnci",
     "wof:parent_id":1108959779,
     "wof:placetype":"locality",

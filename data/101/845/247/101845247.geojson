@@ -23,10 +23,22 @@
     "name:bos_x_preferred":[
         "Dob"
     ],
+    "name:ceb_x_preferred":[
+        "Dob"
+    ],
     "name:eng_x_preferred":[
         "Dob"
     ],
+    "name:fra_x_preferred":[
+        "Dob"
+    ],
+    "name:lit_x_preferred":[
+        "Dobas"
+    ],
     "name:nld_x_preferred":[
+        "Dob"
+    ],
+    "name:pol_x_preferred":[
         "Dob"
     ],
     "name:ron_x_preferred":[
@@ -40,6 +52,9 @@
     ],
     "name:und_x_preferred":[
         "Dob"
+    ],
+    "name:zho_x_preferred":[
+        "\u9053\u5e03"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -105,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840634,
+    "wof:lastmodified":1563576925,
     "wof:name":"Dob",
     "wof:parent_id":1108959799,
     "wof:placetype":"locality",

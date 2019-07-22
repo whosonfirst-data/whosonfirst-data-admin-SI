@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "\u0160marje\u0161ke Toplice"
     ],
+    "name:ceb_x_preferred":[
+        "\u0160marje\u0161ke Toplice"
+    ],
     "name:ces_x_preferred":[
         "Ob\u010dina \u0160marje\u0161ke Toplice"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:hrv_x_preferred":[
         "Op\u0107ina \u0160marje\u0161ke Toplice"
+    ],
+    "name:hrv_x_variant":[
+        "\u0160marje\u0161ke Toplice"
     ],
     "name:ita_x_preferred":[
         "\u0160marje\u0161ke Toplice"
@@ -64,6 +70,9 @@
     ],
     "name:slv_x_preferred":[
         "Ob\u010dina \u0160marje\u0161ke Toplice"
+    ],
+    "name:slv_x_variant":[
+        "\u0160marje\u0161ke Toplice"
     ],
     "name:ukr_x_preferred":[
         "\u0428\u043c\u0430\u0440\u0454\u0448\u043a\u0435 \u0422\u043e\u043f\u043b\u0438\u0446\u0435"
@@ -113,7 +122,7 @@
         }
     ],
     "wof:id":101857889,
-    "wof:lastmodified":1561840635,
+    "wof:lastmodified":1563576941,
     "wof:name":"\u0160marje\u0161ke Toplice",
     "wof:parent_id":1108959833,
     "wof:placetype":"locality",

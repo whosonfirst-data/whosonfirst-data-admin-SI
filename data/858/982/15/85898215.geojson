@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":17269860.211916,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.582611,46.057052,14.582611,46.057052",
     "geom:latitude":46.057052,
     "geom:longitude":14.582611,
@@ -27,20 +27,35 @@
     "name:arg_x_preferred":[
         "Polje"
     ],
+    "name:ast_x_preferred":[
+        "Polj\u00e9"
+    ],
     "name:bos_x_preferred":[
         "Kra\u0161ko polje"
     ],
     "name:cat_x_preferred":[
         "P\u00f2lie"
     ],
+    "name:cat_x_variant":[
+        "p\u00f2lie"
+    ],
     "name:ces_x_preferred":[
         "Polje"
+    ],
+    "name:ces_x_variant":[
+        "polje"
     ],
     "name:deu_x_preferred":[
         "Polje"
     ],
+    "name:eng_x_preferred":[
+        "polje"
+    ],
     "name:eus_x_preferred":[
         "Polje"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0634\u062a \u06a9\u0627\u0631\u0633\u062a\u06cc"
     ],
     "name:fin_x_preferred":[
         "Polje"
@@ -54,11 +69,17 @@
     "name:hrv_x_preferred":[
         "Polja u kr\u0161u"
     ],
+    "name:hrv_x_variant":[
+        "kr\u0161ko polje"
+    ],
     "name:hun_x_preferred":[
         "Polje"
     ],
     "name:ita_x_preferred":[
         "Polje"
+    ],
+    "name:ita_x_variant":[
+        "polje"
     ],
     "name:jpn_x_preferred":[
         "\u30dd\u30ea\u30a8"
@@ -66,10 +87,22 @@
     "name:kor_x_preferred":[
         "\ud3f4\ub9ac\uc5d0"
     ],
+    "name:mkd_x_preferred":[
+        "\u043a\u0430\u0440\u0441\u0442\u043d\u043e \u043f\u043e\u043b\u0435"
+    ],
     "name:nld_x_preferred":[
         "Polje"
     ],
+    "name:nld_x_variant":[
+        "polje"
+    ],
     "name:nno_x_preferred":[
+        "Polje"
+    ],
+    "name:nno_x_variant":[
+        "polje"
+    ],
+    "name:nob_x_preferred":[
         "Polje"
     ],
     "name:pol_x_preferred":[
@@ -78,11 +111,17 @@
     "name:por_x_preferred":[
         "Polje"
     ],
+    "name:por_x_variant":[
+        "polje"
+    ],
     "name:ron_x_preferred":[
         "Polie"
     ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u043b\u044c\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u043f\u043e\u043b\u044c\u0435"
     ],
     "name:slk_x_preferred":[
         "Polje"
@@ -98,6 +137,9 @@
     ],
     "name:swe_x_preferred":[
         "Polje"
+    ],
+    "name:swe_x_variant":[
+        "polje"
     ],
     "name:tur_x_preferred":[
         "Polye"
@@ -141,11 +183,11 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":549,
     "wof:belongsto":[
-        1108959949,
         102191581,
         1108959501,
         85633779,
-        101752073
+        101752073,
+        1108959949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -171,7 +213,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531932030,
+    "wof:lastmodified":1563576313,
     "wof:name":"Polje",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",

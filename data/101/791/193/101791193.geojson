@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Ti\u0161ina"
     ],
+    "name:ceb_x_preferred":[
+        "Ti\u0161ina"
+    ],
     "name:dan_x_preferred":[
         "Ti\u0161ina"
     ],
@@ -50,6 +53,9 @@
     "name:hun_x_preferred":[
         "Csendlak"
     ],
+    "name:ind_x_preferred":[
+        "Munisipalitas Ti\u0161ina"
+    ],
     "name:ita_x_preferred":[
         "Ti\u0161ina"
     ],
@@ -77,6 +83,9 @@
     "name:pol_x_preferred":[
         "Gmina Ti\u0161ina"
     ],
+    "name:pol_x_variant":[
+        "Ti\u0161ina"
+    ],
     "name:por_x_preferred":[
         "Ti\u0161ina"
     ],
@@ -88,6 +97,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0422\u0438\u0448\u0438\u043d\u0430"
+    ],
+    "name:srp_x_variant":[
+        "\u0422\u0438\u0448\u0438\u043d\u0430"
     ],
     "name:swe_x_preferred":[
         "Ti\u0161ina"
@@ -143,7 +155,7 @@
         }
     ],
     "wof:id":101791193,
-    "wof:lastmodified":1561840632,
+    "wof:lastmodified":1563576892,
     "wof:name":"Ti\u0161ina",
     "wof:parent_id":1108959519,
     "wof:placetype":"locality",

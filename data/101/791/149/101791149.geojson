@@ -26,6 +26,9 @@
     "name:bos_x_preferred":[
         "Odranci"
     ],
+    "name:ceb_x_preferred":[
+        "Odranci"
+    ],
     "name:dan_x_preferred":[
         "Odranci"
     ],
@@ -58,6 +61,9 @@
     ],
     "name:hun_x_preferred":[
         "Adorj\u00e1nh\u00e1za"
+    ],
+    "name:hun_x_variant":[
+        "Adorj\u00e1nfalva"
     ],
     "name:ind_x_preferred":[
         "Odranci"
@@ -109,6 +115,9 @@
     ],
     "name:slv_x_preferred":[
         "Ob\u010dina Odranci"
+    ],
+    "name:slv_x_variant":[
+        "Odranci"
     ],
     "name:spa_x_preferred":[
         "Odranci"
@@ -194,7 +203,7 @@
         }
     ],
     "wof:id":101791149,
-    "wof:lastmodified":1561840633,
+    "wof:lastmodified":1563576905,
     "wof:name":"Odranci",
     "wof:parent_id":1108959595,
     "wof:placetype":"locality",

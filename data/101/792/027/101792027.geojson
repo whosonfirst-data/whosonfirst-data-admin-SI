@@ -35,6 +35,9 @@
     "name:cat_x_variant":[
         "Slovenske Konice"
     ],
+    "name:ceb_x_preferred":[
+        "Slovenske Konjice"
+    ],
     "name:dan_x_preferred":[
         "Slovenske Konjice"
     ],
@@ -86,6 +89,9 @@
     "name:kor_x_preferred":[
         "\uc2ac\ub85c\ubca4\uc2a4\ucf00\ucf54\ub2c8\uccb4"
     ],
+    "name:kor_x_variant":[
+        "\u200e\uc2ac\ub85c\ubca4\uc2a4\ucf00\ucf54\ub2c8\uccb4"
+    ],
     "name:lav_x_preferred":[
         "Slovenske Konjice"
     ],
@@ -109,6 +115,9 @@
     ],
     "name:pol_x_preferred":[
         "Gmina Slovenske Konjice"
+    ],
+    "name:pol_x_variant":[
+        "Slovenske Konjice"
     ],
     "name:por_x_preferred":[
         "Slovenske Konjice"
@@ -228,7 +237,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840638,
+    "wof:lastmodified":1563577002,
     "wof:name":"Slovenske Konjice",
     "wof:parent_id":1108959753,
     "wof:placetype":"locality",

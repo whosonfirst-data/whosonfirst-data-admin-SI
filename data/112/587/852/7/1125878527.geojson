@@ -19,13 +19,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Vrsno"
+    ],
     "name:bul_x_preferred":[
         "\u0412\u0440\u0441\u043d\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Vrsno"
     ],
     "name:eng_x_preferred":[
         "Vrsno"
     ],
+    "name:fra_x_preferred":[
+        "Vrsno"
+    ],
     "name:nld_x_preferred":[
+        "Vrsno"
+    ],
+    "name:pol_x_preferred":[
         "Vrsno"
     ],
     "name:ron_x_preferred":[
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":1125878527,
-    "wof:lastmodified":1561840644,
+    "wof:lastmodified":1563577101,
     "wof:name":"Vrsno",
     "wof:parent_id":1108959617,
     "wof:placetype":"locality",

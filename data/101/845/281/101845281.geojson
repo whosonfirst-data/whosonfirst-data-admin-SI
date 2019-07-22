@@ -23,6 +23,9 @@
     "name:bos_x_preferred":[
         "La\u0161ko"
     ],
+    "name:ceb_x_preferred":[
+        "La\u0161ko"
+    ],
     "name:ces_x_preferred":[
         "La\u0161ko"
     ],
@@ -38,8 +41,14 @@
     "name:fas_x_preferred":[
         "\u0644\u0627\u0634\u06a9\u0648"
     ],
+    "name:fra_x_preferred":[
+        "La\u0161ko"
+    ],
     "name:heb_x_preferred":[
         "\u05dc\u05d0\u05e9\u05e7\u05d5"
+    ],
+    "name:hrv_x_preferred":[
+        "La\u0161ko"
     ],
     "name:ita_x_preferred":[
         "La\u0161ko"
@@ -52,6 +61,9 @@
     ],
     "name:pol_x_preferred":[
         "Gmina La\u0161ko"
+    ],
+    "name:pol_x_variant":[
+        "La\u0161ko"
     ],
     "name:ron_x_preferred":[
         "La\u0161ko"
@@ -67,6 +79,9 @@
     ],
     "name:slv_x_variant":[
         "Ob\u010dina La\u0161ko"
+    ],
+    "name:sqi_x_preferred":[
+        "La\u0161ko"
     ],
     "name:srp_x_preferred":[
         "\u041b\u0430\u0448\u043a\u043e"
@@ -135,7 +150,7 @@
         }
     ],
     "wof:id":101845281,
-    "wof:lastmodified":1561840634,
+    "wof:lastmodified":1563576912,
     "wof:name":"La\u0161ko",
     "wof:parent_id":1108959879,
     "wof:placetype":"locality",

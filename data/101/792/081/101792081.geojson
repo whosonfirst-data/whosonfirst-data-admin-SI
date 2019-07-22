@@ -21,7 +21,13 @@
     "name:bos_x_preferred":[
         "Preddvor"
     ],
+    "name:ceb_x_preferred":[
+        "Preddvor"
+    ],
     "name:eng_x_preferred":[
+        "Preddvor"
+    ],
+    "name:fra_x_preferred":[
         "Preddvor"
     ],
     "name:hbs_x_preferred":[
@@ -31,6 +37,9 @@
         "Preddvor"
     ],
     "name:nld_x_preferred":[
+        "Preddvor"
+    ],
+    "name:pol_x_preferred":[
         "Preddvor"
     ],
     "name:ron_x_preferred":[
@@ -117,7 +126,7 @@
         }
     ],
     "wof:id":101792081,
-    "wof:lastmodified":1561840638,
+    "wof:lastmodified":1563577003,
     "wof:name":"Preddvor",
     "wof:parent_id":1108959657,
     "wof:placetype":"locality",

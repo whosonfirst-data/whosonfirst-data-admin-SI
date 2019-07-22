@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Rate\u010de"
     ],
+    "name:ceb_x_preferred":[
+        "Rate\u010de"
+    ],
     "name:deu_x_preferred":[
         "Rate\u010de"
     ],
@@ -41,6 +44,12 @@
         "Rate\u010de"
     ],
     "name:nld_x_preferred":[
+        "Rate\u010de"
+    ],
+    "name:nob_x_preferred":[
+        "Rate\u010de"
+    ],
+    "name:pol_x_preferred":[
         "Rate\u010de"
     ],
     "name:ron_x_preferred":[
@@ -111,7 +120,7 @@
         }
     ],
     "wof:id":1125806551,
-    "wof:lastmodified":1561840643,
+    "wof:lastmodified":1563577095,
     "wof:name":"Rate\u010de",
     "wof:parent_id":1108959843,
     "wof:placetype":"locality",

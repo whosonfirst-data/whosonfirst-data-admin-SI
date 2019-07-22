@@ -20,10 +20,16 @@
     "name:bos_x_preferred":[
         "\u017dirovnica"
     ],
+    "name:ceb_x_preferred":[
+        "\u017dirovnica"
+    ],
     "name:deu_x_preferred":[
         "\u017dirovnica"
     ],
     "name:eng_x_preferred":[
+        "\u017dirovnica"
+    ],
+    "name:fra_x_preferred":[
         "\u017dirovnica"
     ],
     "name:hbs_x_preferred":[
@@ -41,6 +47,9 @@
     "name:nld_x_preferred":[
         "\u017dirovnica"
     ],
+    "name:pol_x_preferred":[
+        "\u017dirovnica"
+    ],
     "name:ron_x_preferred":[
         "\u017dirovnica"
     ],
@@ -55,6 +64,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0416\u0438\u0440\u043e\u0432\u043d\u0438\u0446\u044f"
+    ],
+    "name:ukr_x_variant":[
+        "\u0416\u0438\u0440\u043e\u0432\u043d\u0456\u0446\u0430"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":101845369,
-    "wof:lastmodified":1531171370,
+    "wof:lastmodified":1563576920,
     "wof:name":"\u017dirovnica",
     "wof:parent_id":1108959899,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:cat_x_preferred":[
         "\u017dalec"
     ],
+    "name:ceb_x_preferred":[
+        "\u017dalec"
+    ],
     "name:ces_x_preferred":[
         "\u017dalec"
     ],
@@ -53,6 +56,9 @@
     "name:jpn_x_preferred":[
         "\u30b8\u30e3\u30ec\u30c4"
     ],
+    "name:jpn_x_variant":[
+        "\u017dalec"
+    ],
     "name:kor_x_preferred":[
         "\uc798\ub808\uce20"
     ],
@@ -64,6 +70,9 @@
     ],
     "name:pol_x_preferred":[
         "Gmina \u017dalec"
+    ],
+    "name:pol_x_variant":[
+        "\u017dalec"
     ],
     "name:por_x_preferred":[
         "\u017dalec"
@@ -79,6 +88,9 @@
     ],
     "name:slv_x_preferred":[
         "Ob\u010dina \u017dalec"
+    ],
+    "name:slv_x_variant":[
+        "\u017dalec"
     ],
     "name:spa_x_preferred":[
         "\u017dalec"
@@ -153,7 +165,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840637,
+    "wof:lastmodified":1563576986,
     "wof:name":"\u017dalec",
     "wof:parent_id":1108959929,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000372,
-    "geom:area_square_m":3154917.230601,
+    "geom:area_square_m":3154917.230602,
     "geom:bbox":"15.9614599045,46.6552275739,16.0057404947,46.6849845019",
     "geom:latitude":46.674638,
     "geom:longitude":15.990058,
@@ -20,17 +20,29 @@
     "name:ara_x_preferred":[
         "\u063a\u0631\u0646\u064a\u0627 \u0631\u0627\u062f\u063a\u0646\u0627"
     ],
+    "name:ben_x_preferred":[
+        "Gornja radgona"
+    ],
     "name:bos_x_preferred":[
         "Gornja Radgona"
     ],
     "name:cat_x_preferred":[
         "Gornja Radgona"
     ],
+    "name:ceb_x_preferred":[
+        "Gornja Radgona"
+    ],
     "name:ces_x_preferred":[
+        "Gornja Radgona"
+    ],
+    "name:dan_x_preferred":[
         "Gornja Radgona"
     ],
     "name:deu_x_preferred":[
         "Gornja Radgona"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03cc\u03c1\u03bd\u03c4\u03b6\u03b1 \u03a1\u03ac\u03bd\u03c4\u03b3\u03ba\u03bf\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Gornja Radgona"
@@ -41,11 +53,20 @@
     "name:fas_x_preferred":[
         "\u06af\u0631\u0646\u06cc\u0627 \u0631\u0627\u062f\u06af\u0646\u0627"
     ],
+    "name:fin_x_preferred":[
+        "Gornja Radgona"
+    ],
     "name:fra_x_preferred":[
         "Gornja Radgona"
     ],
+    "name:guj_x_preferred":[
+        "\u0a97\u0acb\u0ab0\u0acd\u0aa8\u0acd\u0a9c\u0abe \u0ab0\u0abe\u0aa1\u0a97\u0acb\u0aa8\u0abe"
+    ],
     "name:hbs_x_preferred":[
         "Gornja Radgona"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u094b\u0930\u094d\u091c\u0947 \u0930\u0947\u0921\u0917\u094b\u0928\u093e"
     ],
     "name:hrv_x_preferred":[
         "Gornja Radgona"
@@ -56,19 +77,43 @@
     "name:hun_x_variant":[
         "Regede"
     ],
+    "name:ind_x_preferred":[
+        "Gornja Radgona"
+    ],
     "name:ita_x_preferred":[
         "Gornja Radgona"
     ],
     "name:jpn_x_preferred":[
         "\u30b4\u30eb\u30cb\u30e3\u30fb\u30e9\u30c9\u30b4\u30ca"
     ],
+    "name:kan_x_preferred":[
+        "\u0c97\u0cca\u0cb0\u0ccd\u0ca8\u0ccd\u0c9c\u0cbe \u0cb0\u0cbe\u0ca1\u0ccd\u0c97\u0cca\u0ca8\u0cbe"
+    ],
     "name:kor_x_preferred":[
         "\uace0\ub974\ub0d0\ub77c\ub4dc\uace0\ub098"
+    ],
+    "name:lav_x_preferred":[
+        "Gornja Radgona"
+    ],
+    "name:lit_x_preferred":[
+        "Gornja Radgona"
+    ],
+    "name:mar_x_preferred":[
+        "\u0917\u094b\u0930\u094d\u0928\u0947 \u0930\u093e\u0921\u094b\u0928\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Gornja Radgona"
     ],
     "name:nld_x_preferred":[
         "Gornja Radgona"
     ],
+    "name:nob_x_preferred":[
+        "Gornja Radgona"
+    ],
     "name:oci_x_preferred":[
+        "Gornja Radgona"
+    ],
+    "name:pol_x_preferred":[
         "Gornja Radgona"
     ],
     "name:por_x_preferred":[
@@ -77,16 +122,43 @@
     "name:ron_x_preferred":[
         "Gornja Radgona"
     ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u044f \u0420\u0430\u0434\u0433\u043e\u043d\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9c\u0ddd\u0dbb\u0dca\u0db1\u0dca\u0da2\u0dcf \u0dbb\u0da9\u0dca\u0d9c\u0ddd\u0db1\u0dcf"
+    ],
     "name:slk_x_preferred":[
         "Gornja Radgona"
     ],
     "name:slv_x_preferred":[
         "Gornja Radgona"
     ],
+    "name:spa_x_preferred":[
+        "Gornja Radgona"
+    ],
+    "name:sqi_x_preferred":[
+        "Gornja Radgona"
+    ],
     "name:srp_x_preferred":[
         "\u0413\u043e\u0440\u045a\u0430 \u0420\u0430\u0434\u0433\u043e\u043d\u0430"
     ],
     "name:swe_x_preferred":[
+        "Gornja Radgona"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bcb\u0bb0\u0b9e\u0bcd\u0b9a \u0bb0\u0bc7\u0b9f\u0bcd\u0b95\u0bcb\u0ba3"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u04d9-\u0420\u0430\u0434\u0433\u043e\u043d\u0430"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c17\u0c4b\u0c02\u0c1c\u0c3e \u0c30\u0c3e\u0c21\u0c4d\u0c17\u0c4b\u0c28\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e2d\u0e19\u0e08\u0e32 \u0e23\u0e32\u0e14\u0e42\u0e01\u0e19\u0e32"
+    ],
+    "name:tur_x_preferred":[
         "Gornja Radgona"
     ],
     "name:ukr_x_preferred":[
@@ -100,6 +172,9 @@
     ],
     "name:unk_x_variant":[
         "Radgona"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0648\u0631\u0646\u062c\u0627 \u0631\u0627\u062f\u062c\u0648\u0646\u0627"
     ],
     "name:vie_x_preferred":[
         "Gornja Radgona"
@@ -160,7 +235,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531170198,
+    "wof:lastmodified":1563576957,
     "wof:name":"Gornja Radgona",
     "wof:parent_id":1108959817,
     "wof:placetype":"locality",

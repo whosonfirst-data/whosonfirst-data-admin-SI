@@ -23,7 +23,13 @@
     "name:bul_x_preferred":[
         "\u0414\u0435\u043a\u0430\u043d\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Dekani"
+    ],
     "name:eng_x_preferred":[
+        "Dekani"
+    ],
+    "name:fra_x_preferred":[
         "Dekani"
     ],
     "name:ita_x_preferred":[
@@ -33,6 +39,9 @@
         "Dekanai"
     ],
     "name:nld_x_preferred":[
+        "Dekani"
+    ],
+    "name:pol_x_preferred":[
         "Dekani"
     ],
     "name:ron_x_preferred":[
@@ -54,6 +63,9 @@
     ],
     "name:unk_x_variant":[
         "Villa Decani"
+    ],
+    "name:zho_x_preferred":[
+        "\u4ee3\u5361\u5c3c"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -105,7 +117,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840634,
+    "wof:lastmodified":1563576928,
     "wof:name":"Dekani",
     "wof:parent_id":1108959527,
     "wof:placetype":"locality",

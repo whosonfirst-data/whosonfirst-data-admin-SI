@@ -23,13 +23,22 @@
     "name:bos_x_preferred":[
         "Fram"
     ],
+    "name:ceb_x_preferred":[
+        "Fram"
+    ],
     "name:eng_x_preferred":[
+        "Fram"
+    ],
+    "name:fra_x_preferred":[
         "Fram"
     ],
     "name:hbs_x_preferred":[
         "Fram"
     ],
     "name:nld_x_preferred":[
+        "Fram"
+    ],
+    "name:pol_x_preferred":[
         "Fram"
     ],
     "name:ron_x_preferred":[
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":101845249,
-    "wof:lastmodified":1561840634,
+    "wof:lastmodified":1563576926,
     "wof:name":"Fram",
     "wof:parent_id":1108959589,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:ast_x_preferred":[
         "Slovenj Gradec"
     ],
+    "name:bak_x_preferred":[
+        "\u0421\u043b\u043e\u0432\u0435\u043d\u044c-\u0413\u0440\u0430\u0434\u0435\u0446"
+    ],
     "name:bar_x_preferred":[
         "Slovenj Gradec"
     ],
@@ -48,6 +51,9 @@
     "name:cat_x_preferred":[
         "Slovenj Gradec"
     ],
+    "name:ceb_x_preferred":[
+        "Slovenj Gradec"
+    ],
     "name:ces_x_preferred":[
         "Slovinsk\u00fd Hradec"
     ],
@@ -62,6 +68,9 @@
     ],
     "name:deu_x_preferred":[
         "Slovenj Gradec"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bb\u03bf\u03b2\u03ad\u03bd\u03b9 \u0393\u03ba\u03c1\u03ac\u03bd\u03c4\u03b5\u03c4\u03c2"
     ],
     "name:eng_x_preferred":[
         "Slovenj Gradec"
@@ -339,7 +348,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840632,
+    "wof:lastmodified":1563576893,
     "wof:name":"Slovenj Gradec",
     "wof:parent_id":1108959645,
     "wof:placetype":"locality",

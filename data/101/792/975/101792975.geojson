@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "\u0160entjernej"
     ],
+    "name:ceb_x_preferred":[
+        "\u0160entjernej"
+    ],
     "name:ces_x_preferred":[
         "Ob\u010dina \u0160entjernej"
     ],
@@ -38,6 +41,9 @@
     "name:hrv_x_preferred":[
         "Op\u0107ina \u0160entjernej"
     ],
+    "name:hrv_x_variant":[
+        "\u0160entjernej"
+    ],
     "name:ita_x_preferred":[
         "\u0160entjernej"
     ],
@@ -52,6 +58,9 @@
     ],
     "name:pol_x_preferred":[
         "Gmina \u0160entjernej"
+    ],
+    "name:pol_x_variant":[
+        "\u0160entjernej"
     ],
     "name:por_x_preferred":[
         "\u0160entjernej"
@@ -120,7 +129,7 @@
         }
     ],
     "wof:id":101792975,
-    "wof:lastmodified":1561840639,
+    "wof:lastmodified":1563577013,
     "wof:name":"\u0160entjernej",
     "wof:parent_id":1108959937,
     "wof:placetype":"locality",

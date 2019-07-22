@@ -26,6 +26,9 @@
     "name:bos_x_preferred":[
         "Radenci"
     ],
+    "name:ceb_x_preferred":[
+        "Radenci"
+    ],
     "name:dan_x_preferred":[
         "Radenci"
     ],
@@ -110,6 +113,9 @@
     "name:slv_x_preferred":[
         "Ob\u010dina Radenci"
     ],
+    "name:slv_x_variant":[
+        "Radenci"
+    ],
     "name:spa_x_preferred":[
         "Radenci"
     ],
@@ -184,7 +190,7 @@
         }
     ],
     "wof:id":101845283,
-    "wof:lastmodified":1561840634,
+    "wof:lastmodified":1563576923,
     "wof:name":"Radenci",
     "wof:parent_id":1108959569,
     "wof:placetype":"locality",

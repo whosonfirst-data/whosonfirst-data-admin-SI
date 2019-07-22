@@ -19,10 +19,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Lokavec"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u043e\u043a\u0430\u0432\u0435\u0446"
     ],
+    "name:ceb_x_preferred":[
+        "Lokavec"
+    ],
     "name:eng_x_preferred":[
+        "Lokavec"
+    ],
+    "name:fra_x_preferred":[
         "Lokavec"
     ],
     "name:hun_x_preferred":[
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":1126007525,
-    "wof:lastmodified":1561840645,
+    "wof:lastmodified":1563577128,
     "wof:name":"Lokavec",
     "wof:parent_id":1108959545,
     "wof:placetype":"locality",

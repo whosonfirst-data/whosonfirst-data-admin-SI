@@ -24,8 +24,14 @@
     "name:arg_x_preferred":[
         "Maribor"
     ],
+    "name:ast_x_preferred":[
+        "Maribor"
+    ],
     "name:aze_x_preferred":[
         "Maribor"
+    ],
+    "name:bak_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u0431\u043e\u0440"
     ],
     "name:bar_x_preferred":[
         "Marburg an da Drau"
@@ -49,6 +55,9 @@
         "\u041c\u0430\u0440\u0438\u0431\u043e\u0440"
     ],
     "name:cat_x_preferred":[
+        "Maribor"
+    ],
+    "name:ceb_x_preferred":[
         "Maribor"
     ],
     "name:ces_x_preferred":[
@@ -273,6 +282,9 @@
     "name:vec_x_preferred":[
         "Marburgo"
     ],
+    "name:vec_x_variant":[
+        "Maribor"
+    ],
     "name:vie_x_preferred":[
         "Maribor"
     ],
@@ -281,6 +293,9 @@
     ],
     "name:war_x_preferred":[
         "Maribor"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10db\u10d0\u10e0\u10d8\u10d1\u10dd\u10e0\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u9a6c\u91cc\u535a\u5c14"
@@ -430,7 +445,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840632,
+    "wof:lastmodified":1563576886,
     "wof:name":"Maribor",
     "wof:parent_id":1108959785,
     "wof:placetype":"locality",

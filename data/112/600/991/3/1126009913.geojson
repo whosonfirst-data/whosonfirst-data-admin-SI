@@ -25,7 +25,13 @@
     "name:bul_x_preferred":[
         "\u0413\u0440\u0433\u0430\u0440"
     ],
+    "name:ceb_x_preferred":[
+        "Grgar"
+    ],
     "name:eng_x_preferred":[
+        "Grgar"
+    ],
+    "name:fra_x_preferred":[
         "Grgar"
     ],
     "name:hun_x_preferred":[
@@ -37,8 +43,14 @@
     "name:nld_x_preferred":[
         "Grgar"
     ],
+    "name:pol_x_preferred":[
+        "Grgar"
+    ],
     "name:ron_x_preferred":[
         "Grgar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0433\u0430\u0440"
     ],
     "name:slv_x_preferred":[
         "Grgar"
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":1126009913,
-    "wof:lastmodified":1561840646,
+    "wof:lastmodified":1563577129,
     "wof:name":"Grgar",
     "wof:parent_id":1108959487,
     "wof:placetype":"locality",

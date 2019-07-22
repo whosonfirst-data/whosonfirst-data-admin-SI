@@ -20,11 +20,20 @@
     "name:bos_x_preferred":[
         "Lesce"
     ],
+    "name:ceb_x_preferred":[
+        "Lesce"
+    ],
     "name:eng_x_preferred":[
+        "Lesce"
+    ],
+    "name:fra_x_preferred":[
         "Lesce"
     ],
     "name:hbs_x_preferred":[
         "Lesce"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05e1\u05e6\u05d4"
     ],
     "name:hrv_x_preferred":[
         "Lesce"
@@ -33,6 +42,9 @@
         "\u30ec\u30b9\u30c4\u30a7"
     ],
     "name:nld_x_preferred":[
+        "Lesce"
+    ],
+    "name:pol_x_preferred":[
         "Lesce"
     ],
     "name:ron_x_preferred":[
@@ -107,7 +119,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840634,
+    "wof:lastmodified":1563576912,
     "wof:name":"Lesce",
     "wof:parent_id":1108959825,
     "wof:placetype":"locality",

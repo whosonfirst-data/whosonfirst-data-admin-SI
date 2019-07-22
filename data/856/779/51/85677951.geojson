@@ -22,11 +22,104 @@
     "mz:is_current":-1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u0643\u0631\u0634\u0643\u0648"
+    ],
+    "name:aze_x_preferred":[
+        "Kr\u015fko b\u0259l\u0259diyy\u0259si"
+    ],
+    "name:ceb_x_preferred":[
+        "Ob\u010dina Kr\u0161ko"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u010dina Kr\u0161ko"
+    ],
+    "name:deu_x_preferred":[
+        "Gemeinde Kr\u0161ko"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03c1\u03c3\u03ba\u03bf"
+    ],
     "name:eng_x_preferred":[
         "Krsko"
     ],
+    "name:epo_x_preferred":[
+        "Ob\u010dina Kr\u0161ko"
+    ],
+    "name:fin_x_preferred":[
+        "Kr\u0161kon kunta"
+    ],
+    "name:fra_x_preferred":[
+        "Kr\u0161ko"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0acd\u0ab0\u0ac7\u0ab8\u0acd\u0a95\u0acb \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Kr\u0161ko"
+    ],
+    "name:ind_x_preferred":[
+        "Kotamadya Kr\u0161ko"
+    ],
+    "name:ita_x_preferred":[
+        "Kr\u0161ko"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30eb\u30b7\u30e5\u30b3"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0ccd\u0cb0\u0cc1\u0c95\u0cca \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
+    ],
+    "name:lav_x_preferred":[
+        "Kr\u0161ko pa\u0161vald\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "Kr\u0161ko savivaldyb\u0117"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u094d\u0930\u0949\u0938\u094d\u0915\u094b \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
+    ],
+    "name:nld_x_preferred":[
+        "Kr\u0161ko"
+    ],
+    "name:nob_x_preferred":[
+        "Krsko kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Kr\u0161ko"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Kr\u0161ko"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0448\u043a\u043e"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Kr\u0161ko"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041a\u0440\u0448\u043a\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Krsko kommun"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bb0\u0bcd\u0bb8\u0b95\u0bcd\u0b95\u0bcb \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c3f\u0c2f\u0c3e\u0c30\u0c46\u0c38\u0c4d\u0c15\u0c4b \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
+    ],
+    "name:tur_x_preferred":[
+        "Krsko Belediyesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0448\u043a\u043e"
+    ],
     "name:und_x_preferred":[
         "Krsko"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u723e\u4ec0\u79d1\u93ae"
     ],
     "qs:a0":"Slovenia",
     "qs:a0_lc":"SI",
@@ -72,7 +165,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1553550485,
+    "wof:lastmodified":1563576311,
     "wof:name":"Krsko",
     "wof:parent_id":85633779,
     "wof:placetype":"region",

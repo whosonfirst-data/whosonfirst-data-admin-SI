@@ -29,6 +29,9 @@
     "name:cat_x_preferred":[
         "Metlika"
     ],
+    "name:ceb_x_preferred":[
+        "Metlika"
+    ],
     "name:dan_x_preferred":[
         "Metlika"
     ],
@@ -104,6 +107,9 @@
     "name:pol_x_preferred":[
         "Gmina Metlika"
     ],
+    "name:pol_x_variant":[
+        "Metlika"
+    ],
     "name:por_x_preferred":[
         "Metlika"
     ],
@@ -126,6 +132,9 @@
         "Ob\u010dina Metlika"
     ],
     "name:spa_x_preferred":[
+        "Metlika"
+    ],
+    "name:sqi_x_preferred":[
         "Metlika"
     ],
     "name:srp_x_preferred":[
@@ -225,7 +234,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840634,
+    "wof:lastmodified":1563576913,
     "wof:name":"Metlika",
     "wof:parent_id":1108959909,
     "wof:placetype":"locality",

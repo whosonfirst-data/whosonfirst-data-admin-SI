@@ -20,13 +20,25 @@
     "name:bos_x_preferred":[
         "Lu\u010de"
     ],
+    "name:ceb_x_preferred":[
+        "Lu\u010de"
+    ],
     "name:deu_x_preferred":[
         "Leutsch"
+    ],
+    "name:eng_x_preferred":[
+        "Lu\u010de"
+    ],
+    "name:fra_x_preferred":[
+        "Lu\u010de"
     ],
     "name:hbs_x_preferred":[
         "Lu\u010de"
     ],
     "name:nld_x_preferred":[
+        "Lu\u010de"
+    ],
+    "name:pol_x_preferred":[
         "Lu\u010de"
     ],
     "name:ron_x_preferred":[
@@ -89,7 +101,7 @@
         }
     ],
     "wof:id":101859007,
-    "wof:lastmodified":1544744693,
+    "wof:lastmodified":1563576938,
     "wof:name":"Lu\u010de",
     "wof:parent_id":1108959505,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Kozje"
     ],
+    "name:ceb_x_preferred":[
+        "Kozje"
+    ],
     "name:ces_x_preferred":[
         "Ob\u010dina Kozje"
     ],
@@ -41,6 +44,9 @@
     "name:hrv_x_preferred":[
         "Op\u0107ina Kozje"
     ],
+    "name:hrv_x_variant":[
+        "Kozje"
+    ],
     "name:ita_x_preferred":[
         "Kozje"
     ],
@@ -56,6 +62,9 @@
     "name:pol_x_preferred":[
         "Gmina Kozje"
     ],
+    "name:pol_x_variant":[
+        "Kozje"
+    ],
     "name:por_x_preferred":[
         "Kozje"
     ],
@@ -68,8 +77,14 @@
     "name:slv_x_preferred":[
         "Ob\u010dina Kozje"
     ],
+    "name:slv_x_variant":[
+        "Kozje"
+    ],
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041a\u043e\u0437\u0458\u0435"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u043e\u0437\u0458\u0435"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0437\u0454"
@@ -122,7 +137,7 @@
         }
     ],
     "wof:id":101845325,
-    "wof:lastmodified":1561840634,
+    "wof:lastmodified":1563576918,
     "wof:name":"Kozje",
     "wof:parent_id":1108959581,
     "wof:placetype":"locality",

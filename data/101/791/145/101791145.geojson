@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0633\u0643\u0627 \u0633\u0648\u0628\u0648\u062a\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Murska Sobota"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u0443\u0440\u0441\u043a\u0430-\u0421\u043e\u0431\u0430\u0442\u0430"
+    ],
     "name:bos_x_preferred":[
         "Murska Sobota"
     ],
@@ -29,7 +35,13 @@
     "name:cat_x_preferred":[
         "Murska Sobota"
     ],
+    "name:ceb_x_preferred":[
+        "Murska Sobota"
+    ],
     "name:ces_x_preferred":[
+        "Murska Sobota"
+    ],
+    "name:cym_x_preferred":[
         "Murska Sobota"
     ],
     "name:dan_x_preferred":[
@@ -40,6 +52,9 @@
     ],
     "name:deu_x_variant":[
         "Murska Sobota"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03cd\u03c1\u03c3\u03ba\u03b1 \u03a3\u03cc\u03bc\u03c0\u03bf\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Murska Sobota"
@@ -119,6 +134,9 @@
     "name:rus_x_preferred":[
         "\u041c\u0443\u0440\u0441\u043a\u0430 \u0421\u043e\u0431\u043e\u0442\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u041c\u0443\u0440\u0441\u043a\u0430-\u0421\u043e\u0431\u043e\u0442\u0430"
+    ],
     "name:sco_x_preferred":[
         "Murska Sobota"
     ],
@@ -128,7 +146,13 @@
     "name:slv_x_preferred":[
         "Mestna ob\u010dina Murska Sobota"
     ],
+    "name:slv_x_variant":[
+        "Murska Sobota"
+    ],
     "name:spa_x_preferred":[
+        "Murska Sobota"
+    ],
+    "name:sqi_x_preferred":[
         "Murska Sobota"
     ],
     "name:srp_x_preferred":[
@@ -223,7 +247,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840633,
+    "wof:lastmodified":1563576896,
     "wof:name":"Murska Sobota",
     "wof:parent_id":1108959483,
     "wof:placetype":"locality",

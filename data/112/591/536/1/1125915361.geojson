@@ -19,13 +19,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Podljubelj"
+    ],
+    "name:ceb_x_preferred":[
+        "Podljubelj"
+    ],
     "name:eng_x_preferred":[
+        "Podljubelj"
+    ],
+    "name:fra_x_preferred":[
         "Podljubelj"
     ],
     "name:hrv_x_preferred":[
         "Podljubelj"
     ],
     "name:nld_x_preferred":[
+        "Podljubelj"
+    ],
+    "name:pol_x_preferred":[
         "Podljubelj"
     ],
     "name:ron_x_preferred":[
@@ -93,7 +105,7 @@
         }
     ],
     "wof:id":1125915361,
-    "wof:lastmodified":1561840645,
+    "wof:lastmodified":1563577119,
     "wof:name":"Podljubelj",
     "wof:parent_id":1108959917,
     "wof:placetype":"locality",

@@ -17,10 +17,19 @@
     "mps:longitude":15.018713,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Topol\u0161ica"
+    ],
     "name:bos_x_preferred":[
         "Topol\u0161ica"
     ],
+    "name:ceb_x_preferred":[
+        "Topol\u0161ica"
+    ],
     "name:eng_x_preferred":[
+        "Topol\u0161ica"
+    ],
+    "name:fra_x_preferred":[
         "Topol\u0161ica"
     ],
     "name:hbs_x_preferred":[
@@ -35,6 +44,9 @@
     "name:nld_x_preferred":[
         "Topol\u0161ica"
     ],
+    "name:pol_x_preferred":[
+        "Topol\u0161ica"
+    ],
     "name:ron_x_preferred":[
         "Topol\u0161ica"
     ],
@@ -43,6 +55,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0422\u043e\u043f\u043e\u043b\u0448\u0438\u0446\u0430"
+    ],
+    "name:szl_x_preferred":[
+        "Topol\u0161ica"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u043e\u043f\u043e\u043b\u0448\u0438\u0446\u044f"
@@ -93,7 +108,7 @@
         }
     ],
     "wof:id":101792047,
-    "wof:lastmodified":1561840638,
+    "wof:lastmodified":1563576990,
     "wof:name":"Topol\u0161ica",
     "wof:parent_id":1108959731,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Beltinci"
     ],
+    "name:ceb_x_preferred":[
+        "Beltinci"
+    ],
     "name:deu_x_preferred":[
         "Beltinci"
     ],
@@ -70,6 +73,9 @@
     ],
     "name:slv_x_preferred":[
         "Ob\u010dina Beltinci"
+    ],
+    "name:slv_x_variant":[
+        "Beltinci"
     ],
     "name:spa_x_preferred":[
         "Beltinci"
@@ -140,7 +146,7 @@
         }
     ],
     "wof:id":101791155,
-    "wof:lastmodified":1561840633,
+    "wof:lastmodified":1563576901,
     "wof:name":"Beltinci",
     "wof:parent_id":1108959517,
     "wof:placetype":"locality",
