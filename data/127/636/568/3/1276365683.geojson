@@ -25,11 +25,35 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Brezje pod Nanosom"
+    ],
+    "name:hrv_x_preferred":[
+        "Brezje pod Nanosom"
+    ],
+    "name:ita_x_preferred":[
+        "Bresie"
+    ],
+    "name:nld_x_preferred":[
+        "Brezje pod Nanosom"
+    ],
+    "name:pol_x_preferred":[
+        "Brezje pod Nanosom"
+    ],
+    "name:ron_x_preferred":[
+        "Brezje pod Nanosom"
+    ],
     "name:slv_x_historical":[
         "Brezje"
     ],
     "name:slv_x_preferred":[
         "Brezje"
+    ],
+    "name:slv_x_variant":[
+        "Brezje pod Nanosom"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0435\u0437\u0454-\u043f\u043e\u0434-\u041d\u0430\u043d\u043e\u0441\u043e\u043c"
     ],
     "name:und_x_variant":[
         "Brezje Pod Nanosom"
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1276365683,
-    "wof:lastmodified":1537700309,
+    "wof:lastmodified":1564216083,
     "wof:name":"Brezje pod Nanosom",
     "wof:parent_id":1108959559,
     "wof:placetype":"locality",

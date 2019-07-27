@@ -24,6 +24,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u017dlebe"
+    ],
+    "name:ceb_x_preferred":[
+        "\u017dlebe"
+    ],
+    "name:nld_x_preferred":[
+        "\u017dlebe"
+    ],
+    "name:pol_x_preferred":[
+        "\u017dlebe"
+    ],
+    "name:ron_x_preferred":[
+        "\u017dlebe"
+    ],
+    "name:slv_x_preferred":[
+        "\u017dlebe"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u043b\u0435\u0431\u0435"
+    ],
     "name:und_x_variant":[
         "\u008eLebe"
     ],
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1293137407,
-    "wof:lastmodified":1537700276,
+    "wof:lastmodified":1564215904,
     "wof:name":"",
     "wof:parent_id":1108959881,
     "wof:placetype":"locality",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011074,
+    "geom:area_square_m":94688909.639749,
     "geom:bbox":"15.2092789408,46.1884733642,15.3529402224,46.3210017917",
     "geom:latitude":46.248593,
     "geom:longitude":15.266036,
@@ -13,6 +14,177 @@
     "lbl:longitude":15.261178,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062a\u0633\u0644\u064a\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Celje"
+    ],
+    "name:aze_x_preferred":[
+        "Sele"
+    ],
+    "name:bak_x_preferred":[
+        "\u0426\u0435\u043b\u0435"
+    ],
+    "name:bel_x_preferred":[
+        "\u0426\u044d\u043b\u0435"
+    ],
+    "name:bos_x_preferred":[
+        "Celje"
+    ],
+    "name:bul_x_preferred":[
+        "\u0426\u0435\u043b\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Celje"
+    ],
+    "name:ceb_x_preferred":[
+        "Celje"
+    ],
+    "name:ces_x_preferred":[
+        "Celje"
+    ],
+    "name:dan_x_preferred":[
+        "Celje"
+    ],
+    "name:deu_x_preferred":[
+        "Celje"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03ad\u03bb\u03b9\u03b5"
+    ],
+    "name:epo_x_preferred":[
+        "Celje"
+    ],
+    "name:est_x_preferred":[
+        "Celje"
+    ],
+    "name:eus_x_preferred":[
+        "Celje"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0633\u0644\u06cc\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Celje"
+    ],
+    "name:fra_x_preferred":[
+        "Celje"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6\u05dc\u05d9\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Celje"
+    ],
+    "name:hun_x_preferred":[
+        "Celje"
+    ],
+    "name:hye_x_preferred":[
+        "\u0551\u0565\u056c\u0565"
+    ],
+    "name:ile_x_preferred":[
+        "Celje"
+    ],
+    "name:ind_x_preferred":[
+        "Celje"
+    ],
+    "name:ita_x_preferred":[
+        "Celje"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c4\u30a7\u30ea\u30a7"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ea\u10d4\u10da\u10d8\u10d4"
+    ],
+    "name:kir_x_preferred":[
+        "\u0426\u0435\u043b\u043b\u0435"
+    ],
+    "name:kor_x_preferred":[
+        "\uccbc\ub808"
+    ],
+    "name:lat_x_preferred":[
+        "Celeia"
+    ],
+    "name:lit_x_preferred":[
+        "Cel\u0117"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0426\u0435\u0459\u0435"
+    ],
+    "name:nld_x_preferred":[
+        "Celje"
+    ],
+    "name:nno_x_preferred":[
+        "Celje"
+    ],
+    "name:nor_x_preferred":[
+        "Celje"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0633\u06cc\u0644\u06cc\u06d2"
+    ],
+    "name:pol_x_preferred":[
+        "Celje"
+    ],
+    "name:por_x_preferred":[
+        "Celje"
+    ],
+    "name:ron_x_preferred":[
+        "Celje"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0435\u043b\u0435"
+    ],
+    "name:sco_x_preferred":[
+        "Celje"
+    ],
+    "name:slk_x_preferred":[
+        "Celje"
+    ],
+    "name:slv_x_preferred":[
+        "Celje"
+    ],
+    "name:sot_x_preferred":[
+        "Celje"
+    ],
+    "name:spa_x_preferred":[
+        "Celje"
+    ],
+    "name:sqi_x_preferred":[
+        "Celje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0426\u0435\u0459\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Celje"
+    ],
+    "name:tat_x_preferred":[
+        "\u0426\u0435\u043b\u0435"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e0b\u0e40\u0e25\u0e35\u0e22"
+    ],
+    "name:tur_x_preferred":[
+        "Celje"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0435\u043b\u0454"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0633\u06cc\u0644\u06cc\u06d2"
+    ],
+    "name:vep_x_preferred":[
+        "Cele"
+    ],
+    "name:vie_x_preferred":[
+        "Celje"
+    ],
+    "name:vol_x_preferred":[
+        "Celje"
+    ],
     "src:geom":"svn-sma",
     "src:lbl:centroid":"mapshaper",
     "svn-sma:d_od":"1995-01-01",
@@ -44,7 +216,7 @@
         }
     ],
     "wof:id":1108959693,
-    "wof:lastmodified":1531510227,
+    "wof:lastmodified":1564216415,
     "wof:name":"Celje",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",

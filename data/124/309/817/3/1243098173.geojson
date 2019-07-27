@@ -25,6 +25,21 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Tr\u010dkov Gri\u010d"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u0686\u06a9\u0648\u0641 \u06af\u0631\u06cc\u0686"
+    ],
+    "name:pol_x_preferred":[
+        "Tr\u010dkov Gri\u010d"
+    ],
+    "name:slv_x_preferred":[
+        "Tr\u010dkov Gri\u010d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0440\u0447\u043a\u043e\u0432 \u0413\u0440\u0438\u0447"
+    ],
     "name:und_x_variant":[
         "Tr\u010dkov Gri\u010d"
     ],
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1243098173,
-    "wof:lastmodified":1537700309,
+    "wof:lastmodified":1564216666,
     "wof:name":"Trckov Gric",
     "wof:parent_id":1108959851,
     "wof:placetype":"locality",

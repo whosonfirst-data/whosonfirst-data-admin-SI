@@ -25,6 +25,15 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ledinsko Razpotje"
+    ],
+    "name:pol_x_preferred":[
+        "Ledinsko Razpotje"
+    ],
+    "name:slv_x_preferred":[
+        "Ledinsko Razpotje"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1310454807,
-    "wof:lastmodified":1537573524,
+    "wof:lastmodified":1564216501,
     "wof:name":"Ledinsko Razpotje",
     "wof:parent_id":1108959535,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Krasno"
+    ],
+    "name:nld_x_preferred":[
+        "Krasno"
+    ],
+    "name:pol_x_preferred":[
+        "Krasno"
+    ],
+    "name:ron_x_preferred":[
+        "Krasno"
+    ],
+    "name:slv_x_preferred":[
+        "Krasno"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1210013243,
-    "wof:lastmodified":1537573496,
+    "wof:lastmodified":1564216225,
     "wof:name":"Krasno",
     "wof:parent_id":1108959811,
     "wof:placetype":"locality",

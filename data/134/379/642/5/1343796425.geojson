@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Pristava pri Lesi\u010dnem"
+    ],
+    "name:hrv_x_preferred":[
+        "Pristava pri Lesi\u010dnem"
+    ],
+    "name:nld_x_preferred":[
+        "Pristava pri Lesi\u010dnem"
+    ],
+    "name:pol_x_preferred":[
+        "Pristava pri Lesi\u010dnem"
+    ],
+    "name:ron_x_preferred":[
+        "Pristava pri Lesi\u010dnem"
+    ],
+    "name:slv_x_preferred":[
+        "Pristava pri Lesi\u010dnem"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0438\u0441\u0442\u0430\u0432\u0430-\u043f\u0440\u0438-\u041b\u0435\u0441\u0438\u0447\u043d\u0435\u043c"
+    ],
     "name:und_x_variant":[
         "Pristava pri Lesi\u010dnem"
     ],
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1343796425,
-    "wof:lastmodified":1537700310,
+    "wof:lastmodified":1564215753,
     "wof:name":"Pristava pri Lesicnem",
     "wof:parent_id":1108959649,
     "wof:placetype":"locality",

@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Cogetinci"
+    ],
+    "name:ceb_x_preferred":[
+        "Cogetinci"
+    ],
+    "name:nld_x_preferred":[
+        "Cogetinci"
+    ],
+    "name:pol_x_preferred":[
+        "Cogetinci"
+    ],
+    "name:ron_x_preferred":[
+        "Cogetinci"
+    ],
+    "name:slv_x_preferred":[
+        "Cogetinci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u043e\u0433\u0435\u0442\u0438\u043d\u0446\u0456"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1243203223,
-    "wof:lastmodified":1537573447,
+    "wof:lastmodified":1564216765,
     "wof:name":"Cogetinci",
     "wof:parent_id":1108959703,
     "wof:placetype":"locality",

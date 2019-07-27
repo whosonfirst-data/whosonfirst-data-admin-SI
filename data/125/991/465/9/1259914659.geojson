@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Globoko"
+    ],
+    "name:ceb_x_preferred":[
+        "Globoko"
+    ],
+    "name:hrv_x_preferred":[
+        "Globoko"
+    ],
+    "name:nld_x_preferred":[
+        "Globoko"
+    ],
+    "name:pol_x_preferred":[
+        "Globoko"
+    ],
+    "name:ron_x_preferred":[
+        "Globoko"
+    ],
+    "name:slv_x_preferred":[
+        "Globoko"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043b\u043e\u0431\u043e\u043a\u043e"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +74,7 @@
         }
     ],
     "wof:id":1259914659,
-    "wof:lastmodified":1537573475,
+    "wof:lastmodified":1564216794,
     "wof:name":"Globoko",
     "wof:parent_id":1108959879,
     "wof:placetype":"locality",

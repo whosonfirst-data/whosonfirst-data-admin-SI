@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Metnaj"
+    ],
+    "name:ceb_x_preferred":[
+        "Metnaj"
+    ],
+    "name:nld_x_preferred":[
+        "Metnaj"
+    ],
+    "name:pol_x_preferred":[
+        "Metnaj"
+    ],
+    "name:ron_x_preferred":[
+        "Metnaj"
+    ],
+    "name:slv_x_preferred":[
+        "Metnaj"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0442\u043d\u0430\u0439"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1276586461,
-    "wof:lastmodified":1537573420,
+    "wof:lastmodified":1564216022,
     "wof:name":"Metnaj",
     "wof:parent_id":1108959583,
     "wof:placetype":"locality",

@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Slivnica pri Mariboru"
+    ],
+    "name:ceb_x_preferred":[
+        "Slivnica pri Mariboru"
+    ],
+    "name:ita_x_preferred":[
+        "Slivnica pri Mariboru"
+    ],
+    "name:nld_x_preferred":[
+        "Slivnica pri Mariboru"
+    ],
+    "name:pol_x_preferred":[
+        "Slivnica pri Mariboru"
+    ],
+    "name:ron_x_preferred":[
+        "Slivnica pri Mariboru"
+    ],
+    "name:slv_x_preferred":[
+        "Slivnica pri Mariboru"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043b\u0438\u0432\u043d\u0438\u0446\u044f-\u043f\u0440\u0438-\u041c\u0430\u0440\u0438\u0431\u043e\u0440\u0443"
+    ],
     "name:und_x_variant":[
         "Slivnica",
         "Sevnica",
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1243208913,
-    "wof:lastmodified":1537700192,
+    "wof:lastmodified":1564216767,
     "wof:name":"Slivnica pri Mariboru",
     "wof:parent_id":1108959749,
     "wof:placetype":"locality",

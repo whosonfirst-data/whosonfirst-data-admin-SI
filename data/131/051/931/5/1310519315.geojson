@@ -25,6 +25,45 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u010crni\u010de"
+    ],
+    "name:bul_x_preferred":[
+        "\u0427\u044a\u0440\u043d\u0438\u0446\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "\u010crni\u010de"
+    ],
+    "name:hun_x_preferred":[
+        "\u010crni\u010de"
+    ],
+    "name:ind_x_preferred":[
+        "\u010crni\u010de"
+    ],
+    "name:ita_x_preferred":[
+        "Cernizza"
+    ],
+    "name:nld_x_preferred":[
+        "\u010crni\u010de"
+    ],
+    "name:pol_x_preferred":[
+        "\u010crni\u010de"
+    ],
+    "name:ron_x_preferred":[
+        "\u010crni\u010de"
+    ],
+    "name:slv_x_preferred":[
+        "\u010crni\u010de"
+    ],
+    "name:spa_x_preferred":[
+        "\u010crni\u010de"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0440\u043d\u0438\u0447\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0440\u043d\u0438\u0447\u0435"
+    ],
     "name:und_x_variant":[
         "Cernizza Goriziana",
         "\u010crni\u010de"
@@ -54,7 +93,7 @@
         }
     ],
     "wof:id":1310519315,
-    "wof:lastmodified":1537700256,
+    "wof:lastmodified":1564216538,
     "wof:name":"Crnice",
     "wof:parent_id":1108959545,
     "wof:placetype":"locality",

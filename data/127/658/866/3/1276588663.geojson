@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Stelnik"
+    ],
+    "name:hrv_x_preferred":[
+        "Stelnik"
+    ],
+    "name:nld_x_preferred":[
+        "Stelnik"
+    ],
+    "name:pol_x_preferred":[
+        "Stelnik"
+    ],
+    "name:ron_x_preferred":[
+        "Stelnik"
+    ],
+    "name:sco_x_preferred":[
+        "Stelnik"
+    ],
+    "name:slv_x_preferred":[
+        "Stelnik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0435\u043b\u043d\u0438\u043a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1276588663,
-    "wof:lastmodified":1537573542,
+    "wof:lastmodified":1564216019,
     "wof:name":"Stelnik",
     "wof:parent_id":1108959711,
     "wof:placetype":"locality",

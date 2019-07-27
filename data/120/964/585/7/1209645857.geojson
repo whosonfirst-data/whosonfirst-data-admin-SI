@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Velike Gorelce"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u06cc\u06a9 \u06af\u0631\u0644\u06a9"
+    ],
+    "name:hrv_x_preferred":[
+        "Velike Gorelce"
+    ],
+    "name:nld_x_preferred":[
+        "Velike Gorelce"
+    ],
+    "name:pol_x_preferred":[
+        "Velike Gorelce"
+    ],
+    "name:ron_x_preferred":[
+        "Velike Gorelce"
+    ],
+    "name:slv_x_preferred":[
+        "Velike Gorelce"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0435 \u0413\u043e\u0440\u0435\u043b\u0446\u0435"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -44,7 +68,7 @@
         }
     ],
     "wof:id":1209645857,
-    "wof:lastmodified":1537573505,
+    "wof:lastmodified":1564216116,
     "wof:name":"Velike Gorelce",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

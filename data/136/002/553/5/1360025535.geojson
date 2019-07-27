@@ -25,6 +25,24 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Lome"
+    ],
+    "name:ceb_x_preferred":[
+        "Lome"
+    ],
+    "name:pol_x_preferred":[
+        "Lome"
+    ],
+    "name:ron_x_preferred":[
+        "Lome"
+    ],
+    "name:slv_x_preferred":[
+        "Lome"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u043c\u0435"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1360025535,
-    "wof:lastmodified":1537573424,
+    "wof:lastmodified":1564216584,
     "wof:name":"Lome",
     "wof:parent_id":1108959535,
     "wof:placetype":"locality",

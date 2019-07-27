@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Perudina"
+    ],
+    "name:hrv_x_preferred":[
+        "Perudina"
+    ],
+    "name:nld_x_preferred":[
+        "Perudina"
+    ],
+    "name:pol_x_preferred":[
+        "Perudina"
+    ],
+    "name:ron_x_preferred":[
+        "Perudina"
+    ],
+    "name:slv_x_preferred":[
+        "Perudina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0440\u0443\u0434\u0438\u043d\u0430"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1242936735,
-    "wof:lastmodified":1537573512,
+    "wof:lastmodified":1564216707,
     "wof:name":"Perudina",
     "wof:parent_id":1108959699,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Razguri"
+    ],
+    "name:nld_x_preferred":[
+        "Razguri"
+    ],
+    "name:pol_x_preferred":[
+        "Razguri"
+    ],
+    "name:ron_x_preferred":[
+        "Razguri"
+    ],
+    "name:slv_x_preferred":[
+        "Razguri"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0437\u0433\u0443\u0440\u0456"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1209945677,
-    "wof:lastmodified":1537573519,
+    "wof:lastmodified":1564216182,
     "wof:name":"Razguri",
     "wof:parent_id":1108959789,
     "wof:placetype":"locality",

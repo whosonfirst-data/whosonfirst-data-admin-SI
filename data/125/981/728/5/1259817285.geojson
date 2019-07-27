@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Boginja vas"
+    ],
+    "name:hrv_x_preferred":[
+        "Boginja vas"
+    ],
+    "name:nld_x_preferred":[
+        "Boginja vas"
+    ],
+    "name:pol_x_preferred":[
+        "Boginja vas"
+    ],
+    "name:ron_x_preferred":[
+        "Boginja vas"
+    ],
+    "name:slv_x_preferred":[
+        "Boginja vas"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0433\u0438\u043d\u044f \u0412\u0430\u0441"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1259817285,
-    "wof:lastmodified":1537573533,
+    "wof:lastmodified":1564216867,
     "wof:name":"Boginja Vas",
     "wof:parent_id":1108959909,
     "wof:placetype":"locality",

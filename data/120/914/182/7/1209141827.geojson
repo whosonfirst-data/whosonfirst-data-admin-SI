@@ -25,6 +25,18 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Krstenica"
+    ],
+    "name:pol_x_preferred":[
+        "Krestenica"
+    ],
+    "name:slv_x_preferred":[
+        "Krstenica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0435\u0441\u0442\u0435\u043d\u0438\u0446\u044f"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -44,7 +56,7 @@
         }
     ],
     "wof:id":1209141827,
-    "wof:lastmodified":1537573515,
+    "wof:lastmodified":1564216157,
     "wof:name":"Krstenica",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013135,
+    "geom:area_square_m":111907107.45353,
     "geom:bbox":"15.1226806985,46.3865382292,15.3281958575,46.5075419965",
     "geom:latitude":46.446944,
     "geom:longitude":15.219863,
@@ -13,6 +14,21 @@
     "lbl:longitude":15.212844,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Mislinja"
+    ],
+    "name:hrv_x_preferred":[
+        "Mislinja"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0441\u043b\u0438\u043d\u044c\u044f"
+    ],
+    "name:slv_x_preferred":[
+        "Mislinja"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u0441\u043b\u0438\u045a\u0430"
+    ],
     "src:geom":"svn-sma",
     "src:lbl:centroid":"mapshaper",
     "svn-sma:d_od":"1995-01-01",
@@ -44,7 +60,7 @@
         }
     ],
     "wof:id":1108959467,
-    "wof:lastmodified":1531510215,
+    "wof:lastmodified":1564216358,
     "wof:name":"Mislinja",
     "wof:parent_id":1108959955,
     "wof:placetype":"localadmin",

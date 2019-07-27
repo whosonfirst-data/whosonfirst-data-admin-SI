@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u017durge"
+    ],
+    "name:hrv_x_preferred":[
+        "\u017durge"
+    ],
+    "name:nld_x_preferred":[
+        "\u017durge"
+    ],
+    "name:pol_x_preferred":[
+        "\u017durge"
+    ],
+    "name:ron_x_preferred":[
+        "\u017durge"
+    ],
+    "name:slv_x_preferred":[
+        "\u017durge"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0443\u0440\u0433\u0435"
+    ],
     "name:und_x_variant":[
         "\u017durge"
     ],
@@ -47,7 +68,7 @@
         }
     ],
     "wof:id":1209552331,
-    "wof:lastmodified":1537700323,
+    "wof:lastmodified":1564216121,
     "wof:name":"Zurge",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

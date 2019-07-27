@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Travna Gora"
+    ],
+    "name:hrv_x_preferred":[
+        "Travna Gora"
+    ],
+    "name:nld_x_preferred":[
+        "Travna Gora"
+    ],
+    "name:pol_x_preferred":[
+        "Travna Gora"
+    ],
+    "name:ron_x_preferred":[
+        "Travna Gora"
+    ],
+    "name:slv_x_preferred":[
+        "Travna Gora"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0440\u0430\u0432\u043d\u0430 \u0413\u043e\u0440\u0430"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1259915737,
-    "wof:lastmodified":1537573536,
+    "wof:lastmodified":1564216795,
     "wof:name":"Travna Gora",
     "wof:parent_id":1108959805,
     "wof:placetype":"locality",

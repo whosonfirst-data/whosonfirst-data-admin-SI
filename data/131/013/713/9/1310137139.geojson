@@ -25,6 +25,24 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vrbovce"
+    ],
+    "name:hrv_x_preferred":[
+        "Vrbovce"
+    ],
+    "name:nld_x_preferred":[
+        "Vrbovce"
+    ],
+    "name:pol_x_preferred":[
+        "Vrbovce"
+    ],
+    "name:ron_x_preferred":[
+        "Vrbovce"
+    ],
+    "name:slv_x_preferred":[
+        "Vrbovce"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1310137139,
-    "wof:lastmodified":1537573509,
+    "wof:lastmodified":1564216467,
     "wof:name":"Vrbovce",
     "wof:parent_id":1108959937,
     "wof:placetype":"locality",

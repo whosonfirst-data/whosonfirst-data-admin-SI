@@ -25,6 +25,21 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nld_x_preferred":[
+        "Medija"
+    ],
+    "name:pol_x_preferred":[
+        "Medija"
+    ],
+    "name:ron_x_preferred":[
+        "Medija"
+    ],
+    "name:slv_x_preferred":[
+        "Medija"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0434\u0456\u044f"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -44,7 +59,7 @@
         }
     ],
     "wof:id":1209449867,
-    "wof:lastmodified":1537573421,
+    "wof:lastmodified":1564216218,
     "wof:name":"Medija",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

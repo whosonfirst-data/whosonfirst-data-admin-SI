@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004698,
+    "geom:area_square_m":40183194.92609,
     "geom:bbox":"14.3858859187,46.1882150681,14.4693140334,46.2906305817",
     "geom:latitude":46.235093,
     "geom:longitude":14.426057,
@@ -13,6 +14,33 @@
     "lbl:longitude":14.422593,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "\u0160en\u010dur"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0160en\u010dur"
+    ],
+    "name:hrv_x_preferred":[
+        "\u0160en\u010dur"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160en\u010d\u016bras"
+    ],
+    "name:pol_x_preferred":[
+        "\u0160en\u010dur"
+    ],
+    "name:ron_x_preferred":[
+        "\u0160en\u010dur"
+    ],
+    "name:slv_x_preferred":[
+        "\u0160en\u010dur"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0435\u043d\u0447\u0443\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0435\u043d\u0447\u0443\u0440"
+    ],
     "src:geom":"svn-sma",
     "src:lbl:centroid":"mapshaper",
     "svn-sma:d_od":"1995-01-01",
@@ -44,7 +72,7 @@
         }
     ],
     "wof:id":1108959647,
-    "wof:lastmodified":1531510225,
+    "wof:lastmodified":1564216336,
     "wof:name":"\u0160en\u010dur",
     "wof:parent_id":1108959967,
     "wof:placetype":"localadmin",

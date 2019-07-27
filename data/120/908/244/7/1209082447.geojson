@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Balkovci"
+    ],
+    "name:hrv_x_preferred":[
+        "Balkovci"
+    ],
+    "name:nld_x_preferred":[
+        "Balkovci"
+    ],
+    "name:pol_x_preferred":[
+        "Balkovci"
+    ],
+    "name:ron_x_preferred":[
+        "Balkovci"
+    ],
+    "name:slv_x_preferred":[
+        "Balkovci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043b\u043a\u043e\u0432\u0446\u0456"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -44,7 +65,7 @@
         }
     ],
     "wof:id":1209082447,
-    "wof:lastmodified":1537573549,
+    "wof:lastmodified":1564216110,
     "wof:name":"Balkovci",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

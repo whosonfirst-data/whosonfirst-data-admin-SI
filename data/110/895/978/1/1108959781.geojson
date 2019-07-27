@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004248,
+    "geom:area_square_m":36167826.17246,
     "geom:bbox":"15.9346318389,46.4404656454,16.0155839195,46.5254727492",
     "geom:latitude":46.485563,
     "geom:longitude":15.972916,
@@ -13,6 +14,66 @@
     "lbl:longitude":15.968889,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ob\u010dina Jur\u0161inci"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u010dina Jur\u0161inci"
+    ],
+    "name:deu_x_preferred":[
+        "Jur\u0161inci"
+    ],
+    "name:epo_x_preferred":[
+        "Ob\u010dina Jur\u0161inci"
+    ],
+    "name:fra_x_preferred":[
+        "Jur\u0161inci"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Jur\u0161inci"
+    ],
+    "name:ind_x_preferred":[
+        "Munisipalitas Jur\u0161inci"
+    ],
+    "name:ita_x_preferred":[
+        "Jur\u0161inci"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e6\u30eb\u30b7\u30f3\u30c4\u30a3"
+    ],
+    "name:kor_x_preferred":[
+        "\uc720\ub974\uc2e0\uce58"
+    ],
+    "name:nld_x_preferred":[
+        "Jur\u0161inci"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Jur\u0161inci"
+    ],
+    "name:por_x_preferred":[
+        "Jur\u0161inci"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Jur\u0161inci"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Jur\u0161inci"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0408\u0443\u0440\u0448\u0438\u043d\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Jur\u0161inci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042e\u0440\u0448\u0438\u043d\u0446\u0456"
+    ],
+    "name:vie_x_preferred":[
+        "Jur\u0161inci"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c24\u5c14\u6b23\u9f50"
+    ],
     "src:geom":"svn-sma",
     "src:lbl:centroid":"mapshaper",
     "svn-sma:d_od":"1995-01-01",
@@ -44,7 +105,7 @@
         }
     ],
     "wof:id":1108959781,
-    "wof:lastmodified":1531510231,
+    "wof:lastmodified":1564216361,
     "wof:name":"Jur\u0161inci",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",

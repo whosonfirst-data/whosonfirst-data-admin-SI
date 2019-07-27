@@ -25,6 +25,21 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nld_x_preferred":[
+        "Mali Kum"
+    ],
+    "name:pol_x_preferred":[
+        "Mali Kum"
+    ],
+    "name:ron_x_preferred":[
+        "Mali Kum"
+    ],
+    "name:slv_x_preferred":[
+        "Mali Kum"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043b\u0438\u0439 \u041a\u0443\u043c"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1209850535,
-    "wof:lastmodified":1537573528,
+    "wof:lastmodified":1564216139,
     "wof:name":"Mali Kum",
     "wof:parent_id":1108959683,
     "wof:placetype":"locality",

@@ -25,6 +25,33 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Lipce"
+    ],
+    "name:ceb_x_preferred":[
+        "Lipce"
+    ],
+    "name:hrv_x_preferred":[
+        "Lipce"
+    ],
+    "name:ita_x_preferred":[
+        "Lipce"
+    ],
+    "name:nld_x_preferred":[
+        "Lipce"
+    ],
+    "name:pol_x_preferred":[
+        "Lipce"
+    ],
+    "name:ron_x_preferred":[
+        "Lipce"
+    ],
+    "name:slv_x_preferred":[
+        "Lipce"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0438\u043f\u0446\u0435"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +77,7 @@
         }
     ],
     "wof:id":1259513627,
-    "wof:lastmodified":1537573470,
+    "wof:lastmodified":1564216849,
     "wof:name":"Lipce",
     "wof:parent_id":1108959875,
     "wof:placetype":"locality",

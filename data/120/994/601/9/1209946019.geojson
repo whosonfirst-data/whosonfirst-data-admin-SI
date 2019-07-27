@@ -25,6 +25,18 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Dvori"
+    ],
+    "name:hun_x_preferred":[
+        "Dvori"
+    ],
+    "name:slv_x_preferred":[
+        "Dvori"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0432\u043e\u0440\u0438"
+    ],
     "name:und_x_variant":[
         "Duori",
         "Dvori"
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1209946019,
-    "wof:lastmodified":1537700249,
+    "wof:lastmodified":1564216185,
     "wof:name":"Dvori",
     "wof:parent_id":1108959527,
     "wof:placetype":"locality",

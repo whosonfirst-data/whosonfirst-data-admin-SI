@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Zalog"
+    ],
+    "name:ceb_x_preferred":[
+        "Zalog"
+    ],
+    "name:hrv_x_preferred":[
+        "Zalog"
+    ],
+    "name:nld_x_preferred":[
+        "Zalog"
+    ],
+    "name:pol_x_preferred":[
+        "Zalog"
+    ],
+    "name:ron_x_preferred":[
+        "Zalog"
+    ],
+    "name:slv_x_preferred":[
+        "Zalog"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u043b\u043e\u0433"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +74,7 @@
         }
     ],
     "wof:id":1310142331,
-    "wof:lastmodified":1537573384,
+    "wof:lastmodified":1564216471,
     "wof:name":"Zalog",
     "wof:parent_id":1108959933,
     "wof:placetype":"locality",

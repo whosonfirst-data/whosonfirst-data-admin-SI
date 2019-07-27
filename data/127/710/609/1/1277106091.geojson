@@ -25,6 +25,24 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Zlati Rep"
+    ],
+    "name:nld_x_preferred":[
+        "Zlati Rep"
+    ],
+    "name:pol_x_preferred":[
+        "Zlati Rep"
+    ],
+    "name:ron_x_preferred":[
+        "Zlati Rep"
+    ],
+    "name:slv_x_preferred":[
+        "Zlati Rep"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u043b\u0430\u0442\u0438\u0439 \u0420\u0435\u043f"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1277106091,
-    "wof:lastmodified":1537573537,
+    "wof:lastmodified":1564216088,
     "wof:name":"Zlati Rep",
     "wof:parent_id":1108959599,
     "wof:placetype":"locality",

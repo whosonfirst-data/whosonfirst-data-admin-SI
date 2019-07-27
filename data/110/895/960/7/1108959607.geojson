@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012552,
+    "geom:area_square_m":107393378.884054,
     "geom:bbox":"15.4350593688,46.1540500292,15.6024188567,46.2799146778",
     "geom:latitude":46.214902,
     "geom:longitude":15.519894,
@@ -13,6 +14,63 @@
     "lbl:longitude":15.526655,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ob\u010dina \u0160marje pri Jel\u0161ah"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u010dina \u0160marje pri Jel\u0161ah"
+    ],
+    "name:deu_x_preferred":[
+        "\u0160marje pri Jel\u0161ah"
+    ],
+    "name:epo_x_preferred":[
+        "Ob\u010dina \u0160marje pri Jel\u0161ah"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160marje pri Jel\u0161ah"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina \u0160marje pri Jel\u0161ah"
+    ],
+    "name:ind_x_preferred":[
+        "Munisipalitas \u0160marje pri Jel\u0161ah"
+    ],
+    "name:ita_x_preferred":[
+        "\u0160marje pri Jel\u0161ah"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e5\u30de\u30ea\u30a7\u30fb\u30d7\u30ea\u30fb\u30a4\u30a7\u30eb\u30b7\u30e3\u30d5"
+    ],
+    "name:kor_x_preferred":[
+        "\uc288\ub9c8\ub808\ud504\ub9ac\uc610\uc0e4\ud750"
+    ],
+    "name:nld_x_preferred":[
+        "\u0160marje pri Jel\u0161ah"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina \u0160marje pri Jel\u0161ah"
+    ],
+    "name:por_x_preferred":[
+        "\u0160marje pri Jel\u0161ah"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna \u0160marje pri Jel\u0161ah"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina \u0160marje pri Jel\u0161ah"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0428\u043c\u0430\u0440\u0458\u0435 \u043f\u0440\u0438 \u0408\u0435\u043b\u0448\u0430\u0445"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u043c\u0430\u0440\u0454-\u043f\u0440\u0438-\u0404\u043b\u0448\u0430\u0445"
+    ],
+    "name:vie_x_preferred":[
+        "\u0160marje pri Jel\u0161ah"
+    ],
+    "name:zho_x_preferred":[
+        "\u8036\u723e\u6c99\u8d6b\u9644\u8fd1\u4ec0\u99ac\u5217"
+    ],
     "src:geom":"svn-sma",
     "src:lbl:centroid":"mapshaper",
     "svn-sma:d_od":"1995-01-01",
@@ -44,7 +102,7 @@
         }
     ],
     "wof:id":1108959607,
-    "wof:lastmodified":1531510223,
+    "wof:lastmodified":1564216406,
     "wof:name":"\u0160marje pri Jel\u0161ah",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",

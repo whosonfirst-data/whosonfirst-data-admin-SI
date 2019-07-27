@@ -25,6 +25,36 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Podbrezje"
+    ],
+    "name:ceb_x_preferred":[
+        "Podbrezje"
+    ],
+    "name:hrv_x_preferred":[
+        "Podbrezje"
+    ],
+    "name:ita_x_preferred":[
+        "Podbrezje"
+    ],
+    "name:nld_x_preferred":[
+        "Podbrezje"
+    ],
+    "name:pol_x_preferred":[
+        "Podbrezje"
+    ],
+    "name:ron_x_preferred":[
+        "Podbrezje"
+    ],
+    "name:slv_x_preferred":[
+        "Podbrezje"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0434\u0431\u0440\u0435\u0437\u0454"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u5fb7\u5e03\u96f7\u8332\u8036"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +80,7 @@
         }
     ],
     "wof:id":1310236077,
-    "wof:lastmodified":1537573413,
+    "wof:lastmodified":1564216462,
     "wof:name":"Podbrezje",
     "wof:parent_id":1108959497,
     "wof:placetype":"locality",

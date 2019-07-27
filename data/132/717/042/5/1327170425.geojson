@@ -25,11 +25,38 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "O\u0161trc"
+    ],
+    "name:ceb_x_preferred":[
+        "O\u0161trc"
+    ],
+    "name:deu_x_preferred":[
+        "O\u0161trc"
+    ],
+    "name:ita_x_preferred":[
+        "O\u0161trc"
+    ],
+    "name:nld_x_preferred":[
+        "O\u0161trc"
+    ],
+    "name:pol_x_preferred":[
+        "O\u0161trc"
+    ],
+    "name:ron_x_preferred":[
+        "O\u0161trc"
+    ],
     "name:slv_x_historical":[
         "Osterc"
     ],
     "name:slv_x_preferred":[
         "Osterc"
+    ],
+    "name:slv_x_variant":[
+        "O\u0161trc"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0448\u0442\u0440\u0446"
     ],
     "name:und_x_variant":[
         "O\u0161trc"
@@ -59,7 +86,7 @@
         }
     ],
     "wof:id":1327170425,
-    "wof:lastmodified":1537700213,
+    "wof:lastmodified":1564215698,
     "wof:name":"Ostrc",
     "wof:parent_id":1108959835,
     "wof:placetype":"locality",

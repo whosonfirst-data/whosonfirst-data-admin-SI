@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Okonina"
+    ],
+    "name:ceb_x_preferred":[
+        "Okonina"
+    ],
+    "name:nld_x_preferred":[
+        "Okonina"
+    ],
+    "name:pol_x_preferred":[
+        "Okonina"
+    ],
+    "name:ron_x_preferred":[
+        "Okonina"
+    ],
+    "name:slv_x_preferred":[
+        "Okonina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u043a\u043e\u043d\u0438\u043d\u0430"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1343893911,
-    "wof:lastmodified":1537573417,
+    "wof:lastmodified":1564215824,
     "wof:name":"Okonina",
     "wof:parent_id":1108959503,
     "wof:placetype":"locality",

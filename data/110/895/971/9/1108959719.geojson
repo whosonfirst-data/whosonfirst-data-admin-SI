@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003405,
+    "geom:area_square_m":29029275.048489,
     "geom:bbox":"15.971521423,46.369724592,16.0586230936,46.4393621188",
     "geom:latitude":46.405999,
     "geom:longitude":16.01061,
@@ -13,6 +14,33 @@
     "lbl:longitude":16.007648,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Gori\u0161nica"
+    ],
+    "name:ceb_x_preferred":[
+        "Gori\u0161nica"
+    ],
+    "name:ces_x_preferred":[
+        "Gori\u0161nica"
+    ],
+    "name:pol_x_preferred":[
+        "Gori\u0161nica"
+    ],
+    "name:ron_x_preferred":[
+        "Gori\u0161nica"
+    ],
+    "name:slv_x_preferred":[
+        "Gori\u0161nica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u0438\u0448\u043d\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u0438\u0448\u043d\u0438\u0446\u044f"
+    ],
+    "name:vie_x_preferred":[
+        "Gori\u0161nica"
+    ],
     "src:geom":"svn-sma",
     "src:lbl:centroid":"mapshaper",
     "svn-sma:d_od":"1995-01-01",
@@ -44,7 +72,7 @@
         }
     ],
     "wof:id":1108959719,
-    "wof:lastmodified":1531510229,
+    "wof:lastmodified":1564216366,
     "wof:name":"Gori\u0161nica",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002878,
+    "geom:area_square_m":24468858.331883,
     "geom:bbox":"15.9025029688,46.5306300699,15.9811131833,46.5888326491",
     "geom:latitude":46.560934,
     "geom:longitude":15.942477,
@@ -13,6 +14,57 @@
     "lbl:longitude":15.939315,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Cerkvenjak"
+    ],
+    "name:ceb_x_preferred":[
+        "Cerkvenjak"
+    ],
+    "name:deu_x_preferred":[
+        "Cerkvenjak"
+    ],
+    "name:epo_x_preferred":[
+        "Cerkvenjak"
+    ],
+    "name:fra_x_preferred":[
+        "Cerkvenjak"
+    ],
+    "name:hun_x_preferred":[
+        "Cerkvenjak"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c4\u30a7\u30eb\u30af\u30f4\u30a7\u30cb\u30e3\u30af"
+    ],
+    "name:kor_x_preferred":[
+        "\uccb4\ub974\ud06c\ubca0\ub0d0\ud06c"
+    ],
+    "name:nld_x_preferred":[
+        "Cerkvenjak"
+    ],
+    "name:pol_x_preferred":[
+        "Cerkvenjak"
+    ],
+    "name:por_x_preferred":[
+        "Cerkvenjak"
+    ],
+    "name:ron_x_preferred":[
+        "Cerkvenjak"
+    ],
+    "name:slv_x_preferred":[
+        "Cerkvenjak"
+    ],
+    "name:srp_x_preferred":[
+        "\u0426\u0435\u0440\u043a\u0432\u0435\u045a\u0430\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0435\u0440\u043a\u0432\u0435\u043d\u044f\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0633\u06cc\u0631\u06a9\u0648\u06cc\u0646\u06cc\u0627\u06a9"
+    ],
+    "name:vie_x_preferred":[
+        "Cerkvenjak"
+    ],
     "src:geom":"svn-sma",
     "src:lbl:centroid":"mapshaper",
     "svn-sma:d_od":"1998-11-22",
@@ -44,7 +96,7 @@
         }
     ],
     "wof:id":1108959703,
-    "wof:lastmodified":1531510228,
+    "wof:lastmodified":1564216355,
     "wof:name":"Cerkvenjak",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",

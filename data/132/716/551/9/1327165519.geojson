@@ -25,6 +25,36 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Borejci"
+    ],
+    "name:ceb_x_preferred":[
+        "Borejci"
+    ],
+    "name:epo_x_preferred":[
+        "Borejci"
+    ],
+    "name:hrv_x_preferred":[
+        "Borejci"
+    ],
+    "name:hun_x_preferred":[
+        "Borhida"
+    ],
+    "name:nld_x_preferred":[
+        "Borejci"
+    ],
+    "name:pol_x_preferred":[
+        "Borejci"
+    ],
+    "name:ron_x_preferred":[
+        "Borejci"
+    ],
+    "name:slv_x_preferred":[
+        "Borejci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0440\u0435\u0439\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Borhida",
         "Borejci"
@@ -54,7 +84,7 @@
         }
     ],
     "wof:id":1327165519,
-    "wof:lastmodified":1537700263,
+    "wof:lastmodified":1564215701,
     "wof:name":"Borejci",
     "wof:parent_id":1108959519,
     "wof:placetype":"locality",

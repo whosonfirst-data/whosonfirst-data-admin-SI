@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Nova sela"
+    ],
+    "name:hrv_x_preferred":[
+        "Nova Sela"
+    ],
+    "name:nld_x_preferred":[
+        "Nova sela"
+    ],
+    "name:pol_x_preferred":[
+        "Nova sela"
+    ],
+    "name:ron_x_preferred":[
+        "Nova Sela"
+    ],
+    "name:sco_x_preferred":[
+        "Nova Sela"
+    ],
+    "name:slv_x_preferred":[
+        "Nova sela"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u0430 \u0421\u0435\u043b\u0430"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +74,7 @@
         }
     ],
     "wof:id":1360218179,
-    "wof:lastmodified":1537573417,
+    "wof:lastmodified":1564216571,
     "wof:name":"Nova Sela",
     "wof:parent_id":1108959711,
     "wof:placetype":"locality",

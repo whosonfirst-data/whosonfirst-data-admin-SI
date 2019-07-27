@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vonarje"
+    ],
+    "name:hrv_x_preferred":[
+        "Vonarje"
+    ],
+    "name:nld_x_preferred":[
+        "Vonarje"
+    ],
+    "name:pol_x_preferred":[
+        "Vonarje"
+    ],
+    "name:ron_x_preferred":[
+        "Vonarje"
+    ],
+    "name:slv_x_preferred":[
+        "Vonarje"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u043e\u043d\u0430\u0440\u0454"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1226073611,
-    "wof:lastmodified":1537573499,
+    "wof:lastmodified":1564216997,
     "wof:name":"Vonarje",
     "wof:parent_id":1108959649,
     "wof:placetype":"locality",

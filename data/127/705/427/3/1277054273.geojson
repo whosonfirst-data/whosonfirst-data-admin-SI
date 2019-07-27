@@ -25,6 +25,39 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Zadobrova"
+    ],
+    "name:bul_x_preferred":[
+        "\u0417\u0430\u0434\u043e\u0431\u0440\u043e\u0432\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Zadobrova"
+    ],
+    "name:hrv_x_preferred":[
+        "Zadobrova"
+    ],
+    "name:ita_x_preferred":[
+        "Zadobrova"
+    ],
+    "name:nld_x_preferred":[
+        "Zadobrova"
+    ],
+    "name:pol_x_preferred":[
+        "Zadobrova"
+    ],
+    "name:ron_x_preferred":[
+        "Zadobrova"
+    ],
+    "name:slv_x_preferred":[
+        "Zadobrova"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u0434\u043e\u0431\u0440\u043e\u0432\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u062f\u0648\u0628\u0631\u0648\u0648\u0627"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +83,7 @@
         }
     ],
     "wof:id":1277054273,
-    "wof:lastmodified":1537573463,
+    "wof:lastmodified":1564216032,
     "wof:name":"Zadobrova",
     "wof:parent_id":1108959693,
     "wof:placetype":"locality",

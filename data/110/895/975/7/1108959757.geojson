@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005371,
+    "geom:area_square_m":45870017.317672,
     "geom:bbox":"15.8151046327,46.2754205105,15.9142688208,46.355057378",
     "geom:latitude":46.316264,
     "geom:longitude":15.865253,
@@ -13,6 +14,66 @@
     "lbl:longitude":15.861238,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Podlehnik"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u010dina Podlehnik"
+    ],
+    "name:deu_x_preferred":[
+        "Podlehnik"
+    ],
+    "name:epo_x_preferred":[
+        "Ob\u010dina Podlehnik"
+    ],
+    "name:fra_x_preferred":[
+        "Podlehnik"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Podlehnik"
+    ],
+    "name:ind_x_preferred":[
+        "Munisipalitas Podlehnik"
+    ],
+    "name:ita_x_preferred":[
+        "Podlehnik"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30c9\u30ec\u30d5\u30cb\u30af"
+    ],
+    "name:kor_x_preferred":[
+        "\ud3ec\ub4e4\ub808\ud750\ub2c8\ud06c"
+    ],
+    "name:nld_x_preferred":[
+        "Podlehnik"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Podlehnik"
+    ],
+    "name:por_x_preferred":[
+        "Podlehnik"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Podlehnik"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Podlehnik"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041f\u043e\u0434\u043b\u0435\u0445\u043d\u0438\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Podlehnik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0434\u043b\u0435\u0445\u043d\u0438\u043a"
+    ],
+    "name:vie_x_preferred":[
+        "Podlehnik"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u5fb7\u83b1\u8d6b\u5c3c\u514b"
+    ],
     "src:geom":"svn-sma",
     "src:lbl:centroid":"mapshaper",
     "svn-sma:d_od":"1998-11-22",
@@ -44,7 +105,7 @@
         }
     ],
     "wof:id":1108959757,
-    "wof:lastmodified":1531510230,
+    "wof:lastmodified":1564216431,
     "wof:name":"Podlehnik",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",

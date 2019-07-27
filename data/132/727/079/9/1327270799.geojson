@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gorenje Zabukovje"
+    ],
+    "name:hrv_x_preferred":[
+        "Gorenje Zabukovje"
+    ],
+    "name:nld_x_preferred":[
+        "Gorenje Zabukovje"
+    ],
+    "name:pol_x_preferred":[
+        "Gorenje Zabukovje"
+    ],
+    "name:ron_x_preferred":[
+        "Gorenje Zabukovje"
+    ],
+    "name:slv_x_preferred":[
+        "Gorenje Zabukovje"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u0435\u043d\u0454 \u0417\u0430\u0431\u0443\u043a\u043e\u0432\u0454"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1327270799,
-    "wof:lastmodified":1537573385,
+    "wof:lastmodified":1564215710,
     "wof:name":"Gorenje Zabukovje",
     "wof:parent_id":1108959913,
     "wof:placetype":"locality",

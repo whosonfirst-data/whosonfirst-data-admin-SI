@@ -25,6 +25,24 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Nevlje"
+    ],
+    "name:ceb_x_preferred":[
+        "Nevlje"
+    ],
+    "name:pol_x_preferred":[
+        "Nevlje"
+    ],
+    "name:ron_x_preferred":[
+        "Nevlje"
+    ],
+    "name:slv_x_preferred":[
+        "Nevlje"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0435\u0432\u043b\u0454"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1327168351,
-    "wof:lastmodified":1537573418,
+    "wof:lastmodified":1564215703,
     "wof:name":"Nevlje",
     "wof:parent_id":1108959941,
     "wof:placetype":"locality",

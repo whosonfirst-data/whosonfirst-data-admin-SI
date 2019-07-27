@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gabrovnik"
+    ],
+    "name:ceb_x_preferred":[
+        "Gabrovnik"
+    ],
+    "name:nld_x_preferred":[
+        "Gabrovnik"
+    ],
+    "name:pol_x_preferred":[
+        "Gabrovnik"
+    ],
+    "name:ron_x_preferred":[
+        "Gabrovnik"
+    ],
+    "name:slv_x_preferred":[
+        "Gabrovnik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0431\u0440\u043e\u0432\u043d\u0438\u043a"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1327262689,
-    "wof:lastmodified":1537573474,
+    "wof:lastmodified":1564215689,
     "wof:name":"Gabrovnik",
     "wof:parent_id":1108959753,
     "wof:placetype":"locality",

@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Bukovje pri Slivnici"
+    ],
+    "name:ceb_x_preferred":[
+        "Bukovje pri Slivnici"
+    ],
+    "name:hrv_x_preferred":[
+        "Bukovje pri Slivnici"
+    ],
+    "name:nld_x_preferred":[
+        "Bukovje pri Slivnici"
+    ],
+    "name:pol_x_preferred":[
+        "Bukovje pri Slivnici"
+    ],
+    "name:ron_x_preferred":[
+        "Bukovje pri Slivnici"
+    ],
+    "name:slv_x_preferred":[
+        "Bukovje pri Slivnici"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u043a\u043e\u0432\u0454-\u043f\u0440\u0438-\u0421\u043b\u0438\u0432\u043d\u0438\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Bukovje",
         "Bukovje pri Slivnici"
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1277105695,
-    "wof:lastmodified":1537700259,
+    "wof:lastmodified":1564216085,
     "wof:name":"Bukovje pri Slivnici",
     "wof:parent_id":1108959791,
     "wof:placetype":"locality",

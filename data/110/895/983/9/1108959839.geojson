@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018941,
+    "geom:area_square_m":162967466.715356,
     "geom:bbox":"14.860418629,45.8379684236,15.1078287689,45.9785734724",
     "geom:latitude":45.905971,
     "geom:longitude":14.973785,
@@ -13,6 +14,66 @@
     "lbl:longitude":14.98219,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062a\u0631\u0628\u0646\u062c\u0647"
+    ],
+    "name:bos_x_preferred":[
+        "Trebnje"
+    ],
+    "name:ceb_x_preferred":[
+        "Trebnje"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u0628\u0646\u06cc\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Trebnje"
+    ],
+    "name:hrv_x_preferred":[
+        "Trebnje"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30ec\u30d6\u30cb\u30a7"
+    ],
+    "name:kor_x_preferred":[
+        "\ud2b8\ub808\ube0c\ub124"
+    ],
+    "name:lat_x_preferred":[
+        "Praetorium Latobicorum"
+    ],
+    "name:nld_x_preferred":[
+        "Trebnje"
+    ],
+    "name:pol_x_preferred":[
+        "Trebnje"
+    ],
+    "name:por_x_preferred":[
+        "Trebnje"
+    ],
+    "name:ron_x_preferred":[
+        "Trebnje"
+    ],
+    "name:slk_x_preferred":[
+        "Trebnje"
+    ],
+    "name:slv_x_preferred":[
+        "Trebnje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0440\u0435\u0431\u045a\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0440\u0435\u0431\u043d\u0454"
+    ],
+    "name:vec_x_preferred":[
+        "Trebnje"
+    ],
+    "name:vie_x_preferred":[
+        "Trebnje"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u96f7\u5e03\u6d85"
+    ],
     "src:geom":"svn-sma",
     "src:lbl:centroid":"mapshaper",
     "svn-sma:d_od":"1995-01-01",
@@ -44,7 +105,7 @@
         }
     ],
     "wof:id":1108959839,
-    "wof:lastmodified":1531510235,
+    "wof:lastmodified":1564216350,
     "wof:name":"Trebnje",
     "wof:parent_id":1108959943,
     "wof:placetype":"localadmin",

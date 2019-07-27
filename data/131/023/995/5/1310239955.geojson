@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kortine"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u0440\u0442\u0438\u043d\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Kortine"
+    ],
+    "name:nld_x_preferred":[
+        "Kortine"
+    ],
+    "name:pol_x_preferred":[
+        "Kortine"
+    ],
+    "name:ron_x_preferred":[
+        "Kortine"
+    ],
+    "name:slv_x_preferred":[
+        "Kortine"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0440\u0442\u0438\u043d\u0435"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +74,7 @@
         }
     ],
     "wof:id":1310239955,
-    "wof:lastmodified":1537573487,
+    "wof:lastmodified":1564216460,
     "wof:name":"Kortine",
     "wof:parent_id":1108959527,
     "wof:placetype":"locality",

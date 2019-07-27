@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kompolje"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u043c\u043f\u043e\u043b\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Kompolje"
+    ],
+    "name:nld_x_preferred":[
+        "Kompolje"
+    ],
+    "name:pol_x_preferred":[
+        "Kompolje"
+    ],
+    "name:ron_x_preferred":[
+        "Kompolje"
+    ],
+    "name:slv_x_preferred":[
+        "Kompolje"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043c\u043f\u043e\u043b\u0454"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -44,7 +68,7 @@
         }
     ],
     "wof:id":1209589941,
-    "wof:lastmodified":1537573430,
+    "wof:lastmodified":1564216181,
     "wof:name":"Kompolje",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

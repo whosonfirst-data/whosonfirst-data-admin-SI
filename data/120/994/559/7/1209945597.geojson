@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Velike Pece"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u06cc\u06a9 \u067e\u06a9"
+    ],
+    "name:nld_x_preferred":[
+        "Velike Pece"
+    ],
+    "name:pol_x_preferred":[
+        "Velike Pece"
+    ],
+    "name:ron_x_preferred":[
+        "Velike Pece"
+    ],
+    "name:slv_x_preferred":[
+        "Velike Pece"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0435 \u041f\u0435\u0446\u0454"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1209945597,
-    "wof:lastmodified":1537573496,
+    "wof:lastmodified":1564216183,
     "wof:name":"Velike Pece",
     "wof:parent_id":1108959583,
     "wof:placetype":"locality",

@@ -25,11 +25,20 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Dolenja \u017daga"
+    ],
+    "name:pol_x_preferred":[
+        "Dolenja \u017daga"
+    ],
     "name:slv_x_historical":[
         "Spodnja \u017daga"
     ],
     "name:slv_x_preferred":[
         "Spodnja \u017daga"
+    ],
+    "name:slv_x_variant":[
+        "Dolenja \u017daga"
     ],
     "name:und_x_variant":[
         "Dolenja \u017daga"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1209345233,
-    "wof:lastmodified":1537700331,
+    "wof:lastmodified":1564216194,
     "wof:name":"Dolenja Zaga",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

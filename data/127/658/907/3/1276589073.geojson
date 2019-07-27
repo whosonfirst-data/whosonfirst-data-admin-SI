@@ -25,11 +25,35 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Mavrc"
+    ],
+    "name:hrv_x_preferred":[
+        "Mavrc"
+    ],
+    "name:nld_x_preferred":[
+        "Mavrc"
+    ],
+    "name:pol_x_preferred":[
+        "Mavrc"
+    ],
+    "name:ron_x_preferred":[
+        "Mavrc"
+    ],
+    "name:sco_x_preferred":[
+        "Mavrc"
+    ],
     "name:slv_x_historical":[
         "Maverc"
     ],
     "name:slv_x_preferred":[
         "Maverc"
+    ],
+    "name:slv_x_variant":[
+        "Mavrc"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0432\u0440\u0446"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1276589073,
-    "wof:lastmodified":1537700325,
+    "wof:lastmodified":1564216016,
     "wof:name":"Mavrc",
     "wof:parent_id":1108959711,
     "wof:placetype":"locality",

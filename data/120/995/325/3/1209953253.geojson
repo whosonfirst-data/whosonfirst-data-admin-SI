@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Voklo"
+    ],
+    "name:ceb_x_preferred":[
+        "Voklo"
+    ],
+    "name:hrv_x_preferred":[
+        "Voklo"
+    ],
+    "name:pol_x_preferred":[
+        "Voklo"
+    ],
+    "name:ron_x_preferred":[
+        "Voklo"
+    ],
+    "name:slv_x_preferred":[
+        "Voklo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u043e\u043a\u043b\u043e"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1209953253,
-    "wof:lastmodified":1537573386,
+    "wof:lastmodified":1564216161,
     "wof:name":"Voklo",
     "wof:parent_id":1108959647,
     "wof:placetype":"locality",

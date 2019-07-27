@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Bukov Vrh nad Visokim"
+    ],
+    "name:hrv_x_preferred":[
+        "Bukov Vrh nad Visokim"
+    ],
+    "name:nld_x_preferred":[
+        "Bukov Vrh nad Visokim"
+    ],
+    "name:pol_x_preferred":[
+        "Bukov Vrh nad Visokim"
+    ],
+    "name:ron_x_preferred":[
+        "Bukov Vrh nad Visokim"
+    ],
+    "name:slv_x_preferred":[
+        "Bukov Vrh nad Visokim"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u043a\u043e\u0432 \u0412\u0440\u0445-\u043d\u0430\u0434-\u0412\u0438\u0441\u043e\u043a\u0438\u043c"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1327061395,
-    "wof:lastmodified":1537573554,
+    "wof:lastmodified":1564215588,
     "wof:name":"Bukov Vrh nad Visokim",
     "wof:parent_id":1108959821,
     "wof:placetype":"locality",

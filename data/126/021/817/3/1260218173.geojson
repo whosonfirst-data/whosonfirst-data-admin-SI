@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Slaptinci"
+    ],
+    "name:ceb_x_preferred":[
+        "Slaptinci"
+    ],
+    "name:hrv_x_preferred":[
+        "Slaptinci"
+    ],
+    "name:nld_x_preferred":[
+        "Slaptinci"
+    ],
+    "name:pol_x_preferred":[
+        "Slaptinci"
+    ],
+    "name:ron_x_preferred":[
+        "Slaptinci"
+    ],
+    "name:slv_x_preferred":[
+        "Slaptinci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043b\u0430\u043f\u0442\u0438\u043d\u0446\u0456"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +74,7 @@
         }
     ],
     "wof:id":1260218173,
-    "wof:lastmodified":1537573455,
+    "wof:lastmodified":1564216301,
     "wof:name":"Slaptinci",
     "wof:parent_id":1108959591,
     "wof:placetype":"locality",

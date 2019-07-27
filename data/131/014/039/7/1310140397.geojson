@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Prekopa"
+    ],
+    "name:hrv_x_preferred":[
+        "Prekopa"
+    ],
+    "name:nld_x_preferred":[
+        "Prekopa"
+    ],
+    "name:pol_x_preferred":[
+        "Prekopa"
+    ],
+    "name:ron_x_preferred":[
+        "Prekopa"
+    ],
+    "name:slv_x_preferred":[
+        "Prekopa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0435\u043a\u043e\u043f\u0430"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1310140397,
-    "wof:lastmodified":1537573409,
+    "wof:lastmodified":1564216471,
     "wof:name":"Prekopa",
     "wof:parent_id":1108959827,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ravne pri \u0160martnem"
+    ],
+    "name:pol_x_preferred":[
+        "Ravne pri \u0160martnem"
+    ],
+    "name:ron_x_preferred":[
+        "Ravne pri \u0160martnem"
+    ],
+    "name:sco_x_preferred":[
+        "Ravne pri \u0160martnem"
+    ],
+    "name:slv_x_preferred":[
+        "Ravne pri \u0160martnem"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0432\u043d\u0435-\u043f\u0440\u0438-\u0428\u043c\u0430\u0440\u0442\u043d\u0435\u043c"
+    ],
     "name:und_x_variant":[
         "Ravne",
         "Ravne pri \u0160martnem"
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1277105533,
-    "wof:lastmodified":1537700200,
+    "wof:lastmodified":1564216088,
     "wof:name":"Ravne pri Smartnem",
     "wof:parent_id":1108959941,
     "wof:placetype":"locality",

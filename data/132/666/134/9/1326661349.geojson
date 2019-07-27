@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Brestovica pri Komnu"
+    ],
+    "name:ceb_x_preferred":[
+        "Brestovica pri Komnu"
+    ],
+    "name:ita_x_preferred":[
+        "Brestovizza in Valle"
+    ],
+    "name:nld_x_preferred":[
+        "Brestovica pri Komnu"
+    ],
+    "name:pol_x_preferred":[
+        "Brestovica pri Komnu"
+    ],
+    "name:ron_x_preferred":[
+        "Brestovica pri Komnu"
+    ],
+    "name:slv_x_preferred":[
+        "Brestovica pri Komnu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0435\u0441\u0442\u043e\u0432\u0438\u0446\u044f-\u043f\u0440\u0438-\u041a\u043e\u043c\u043d\u0443"
+    ],
     "name:und_x_variant":[
         "Brestovizza in Valle",
         "Brestovica",
@@ -57,7 +81,7 @@
         }
     ],
     "wof:id":1326661349,
-    "wof:lastmodified":1537700262,
+    "wof:lastmodified":1564215629,
     "wof:name":"Brestovica pri Komnu",
     "wof:parent_id":1108959539,
     "wof:placetype":"locality",

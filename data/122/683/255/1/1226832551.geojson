@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Lazec"
+    ],
+    "name:ceb_x_preferred":[
+        "Lazec"
+    ],
+    "name:nld_x_preferred":[
+        "Lazec"
+    ],
+    "name:pol_x_preferred":[
+        "Lazec"
+    ],
+    "name:ron_x_preferred":[
+        "Lazec"
+    ],
+    "name:slv_x_preferred":[
+        "Lazec"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0437\u0435\u0446\u044c"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1226832551,
-    "wof:lastmodified":1537573487,
+    "wof:lastmodified":1564216971,
     "wof:name":"Lazec",
     "wof:parent_id":1108959577,
     "wof:placetype":"locality",

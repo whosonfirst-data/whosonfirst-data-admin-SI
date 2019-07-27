@@ -25,6 +25,39 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Lahovna"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0430\u0445\u043e\u0432\u043d\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Lahovna"
+    ],
+    "name:hrv_x_preferred":[
+        "Lahovna"
+    ],
+    "name:ita_x_preferred":[
+        "Lahovna"
+    ],
+    "name:nld_x_preferred":[
+        "Lahovna"
+    ],
+    "name:pol_x_preferred":[
+        "Lahovna"
+    ],
+    "name:ron_x_preferred":[
+        "Lahovna"
+    ],
+    "name:slv_x_preferred":[
+        "Lahovna"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0445\u043e\u0432\u043d\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u06c1\u0648\u0648\u0646\u0627"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +83,7 @@
         }
     ],
     "wof:id":1276741417,
-    "wof:lastmodified":1537573491,
+    "wof:lastmodified":1564216004,
     "wof:name":"Lahovna",
     "wof:parent_id":1108959693,
     "wof:placetype":"locality",

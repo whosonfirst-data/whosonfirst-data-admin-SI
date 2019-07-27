@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Loje"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u043e\u0435"
+    ],
+    "name:nld_x_preferred":[
+        "Loje"
+    ],
+    "name:pol_x_preferred":[
+        "Loje"
+    ],
+    "name:ron_x_preferred":[
+        "Loje"
+    ],
+    "name:slv_x_preferred":[
+        "Loje"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0454"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -44,7 +65,7 @@
         }
     ],
     "wof:id":1209348185,
-    "wof:lastmodified":1537573537,
+    "wof:lastmodified":1564216188,
     "wof:name":"Loje",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

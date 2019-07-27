@@ -25,6 +25,24 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Veliki Hrib"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u06cc\u06a9\u06cc \u0647\u0631\u06cc\u0628"
+    ],
+    "name:pol_x_preferred":[
+        "Veliki Hrib"
+    ],
+    "name:ron_x_preferred":[
+        "Veliki Hrib"
+    ],
+    "name:slv_x_preferred":[
+        "Veliki Hrib"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u0425\u0440\u0438\u0431"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1193173459,
-    "wof:lastmodified":1537573499,
+    "wof:lastmodified":1564216262,
     "wof:name":"Veliki Hrib",
     "wof:parent_id":1108959941,
     "wof:placetype":"locality",

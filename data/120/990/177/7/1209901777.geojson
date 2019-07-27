@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Mali Cirnik"
+    ],
+    "name:hrv_x_preferred":[
+        "Mali Cirnik"
+    ],
+    "name:nld_x_preferred":[
+        "Mali Cirnik"
+    ],
+    "name:pol_x_preferred":[
+        "Mali Cirnik"
+    ],
+    "name:ron_x_preferred":[
+        "Mali Cirnik"
+    ],
+    "name:slv_x_preferred":[
+        "Mali Cirnik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043b\u0438\u0439 \u0426\u0438\u0440\u043d\u0438\u043a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1209901777,
-    "wof:lastmodified":1537573556,
+    "wof:lastmodified":1564216111,
     "wof:name":"Mali Cirnik",
     "wof:parent_id":1108959585,
     "wof:placetype":"locality",

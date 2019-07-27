@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015525,
+    "geom:area_square_m":133498781.549214,
     "geom:bbox":"14.5846569886,45.8731994633,14.7540421466,46.0152819489",
     "geom:latitude":45.939481,
     "geom:longitude":14.669402,
@@ -13,6 +14,72 @@
     "lbl:longitude":14.662547,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u063a\u0631\u0633\u0648\u0628\u0644\u064a"
+    ],
+    "name:bos_x_preferred":[
+        "Grosuplje"
+    ],
+    "name:ceb_x_preferred":[
+        "Grosuplje"
+    ],
+    "name:ces_x_preferred":[
+        "Grosuplje"
+    ],
+    "name:deu_x_preferred":[
+        "Grosuplje"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0631\u0633\u0648\u067e\u0644\u06cc\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Grosuplje"
+    ],
+    "name:hrv_x_preferred":[
+        "Grosuplje"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30ed\u30fc\u30b9\u30d7\u30ea\u30a7"
+    ],
+    "name:kor_x_preferred":[
+        "\uadf8\ub85c\uc218\ud50c\ub808"
+    ],
+    "name:nld_x_preferred":[
+        "Grosuplje"
+    ],
+    "name:pol_x_preferred":[
+        "Grosuplje"
+    ],
+    "name:por_x_preferred":[
+        "Grosuplje"
+    ],
+    "name:ron_x_preferred":[
+        "Grosuplje"
+    ],
+    "name:slk_x_preferred":[
+        "Grosuplje"
+    ],
+    "name:slv_x_preferred":[
+        "Grosuplje"
+    ],
+    "name:spa_x_preferred":[
+        "Grosuplje"
+    ],
+    "name:sqi_x_preferred":[
+        "Grosuplje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0440\u043e\u0441\u0443\u043f\u0459\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u043e\u0441\u0443\u043f\u043b\u0454"
+    ],
+    "name:vie_x_preferred":[
+        "Grosuplje"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u7f85\u8607\u666e\u5217"
+    ],
     "src:geom":"svn-sma",
     "src:lbl:centroid":"mapshaper",
     "svn-sma:d_od":"1995-01-01",
@@ -44,7 +111,7 @@
         }
     ],
     "wof:id":1108959533,
-    "wof:lastmodified":1531510219,
+    "wof:lastmodified":1564216321,
     "wof:name":"Grosuplje",
     "wof:parent_id":1108959949,
     "wof:placetype":"localadmin",

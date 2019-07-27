@@ -25,6 +25,21 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "P\u0161ajnovica"
+    ],
+    "name:pol_x_preferred":[
+        "P\u0161ajnovica"
+    ],
+    "name:ron_x_preferred":[
+        "P\u0161ajnovica"
+    ],
+    "name:slv_x_preferred":[
+        "P\u0161ajnovica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0448\u0430\u0439\u043d\u043e\u0432\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Pi\u0161ajnovica",
         "P\u0161ajnovica"
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1343496263,
-    "wof:lastmodified":1537700203,
+    "wof:lastmodified":1564215764,
     "wof:name":"Psajnovica",
     "wof:parent_id":1108959941,
     "wof:placetype":"locality",

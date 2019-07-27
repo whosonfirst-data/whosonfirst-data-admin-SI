@@ -21,12 +21,39 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_metro":30,
+    "name:bos_x_preferred":[
+        "Podlipoglav"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u0434\u043b\u0438\u043f\u043e\u0433\u043b\u0430\u0432"
+    ],
+    "name:ceb_x_preferred":[
+        "Podlipoglav"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03bd\u03c4\u03bb\u03b9\u03c0\u03cc\u03b3\u03ba\u03bb\u03b1\u03b2"
+    ],
+    "name:nld_x_preferred":[
+        "Podlipoglav"
+    ],
+    "name:pol_x_preferred":[
+        "Podlipoglav"
+    ],
+    "name:ron_x_preferred":[
+        "Podlipoglav"
+    ],
+    "name:slv_x_preferred":[
+        "Podlipoglav"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0434\u043b\u0438\u043f\u043e\u0433\u043b\u0430\u0432"
+    ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        1108959949,
         102191581,
         1108959501,
-        85633779
+        85633779,
+        1108959949
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -44,7 +71,7 @@
         }
     ],
     "wof:id":1108943321,
-    "wof:lastmodified":1531170289,
+    "wof:lastmodified":1564216443,
     "wof:name":"Podlipoglav",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

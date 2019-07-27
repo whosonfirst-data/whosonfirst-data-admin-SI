@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kobdilj"
+    ],
+    "name:ceb_x_preferred":[
+        "Kobdilj"
+    ],
+    "name:nld_x_preferred":[
+        "Kobdilj"
+    ],
+    "name:pol_x_preferred":[
+        "Kobdilj"
+    ],
+    "name:ron_x_preferred":[
+        "Kobdilj"
+    ],
+    "name:slv_x_preferred":[
+        "Kobdilj"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0431\u0434\u0438\u043b\u044c"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1310637809,
-    "wof:lastmodified":1537573462,
+    "wof:lastmodified":1564216497,
     "wof:name":"Kobdilj",
     "wof:parent_id":1108959539,
     "wof:placetype":"locality",

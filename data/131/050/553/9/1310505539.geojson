@@ -25,6 +25,36 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gozd"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u0437\u0434"
+    ],
+    "name:ceb_x_preferred":[
+        "Gozd"
+    ],
+    "name:hun_x_preferred":[
+        "Gozd"
+    ],
+    "name:nld_x_preferred":[
+        "Gozd"
+    ],
+    "name:pol_x_preferred":[
+        "Gozd"
+    ],
+    "name:ron_x_preferred":[
+        "Gozd"
+    ],
+    "name:slv_x_preferred":[
+        "Gozd"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0437\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0490\u043e\u0437\u0434"
+    ],
     "name:und_x_variant":[
         "Bosco",
         "Gozd"
@@ -54,7 +84,7 @@
         }
     ],
     "wof:id":1310505539,
-    "wof:lastmodified":1537700242,
+    "wof:lastmodified":1564216524,
     "wof:name":"Gozd",
     "wof:parent_id":1108959545,
     "wof:placetype":"locality",

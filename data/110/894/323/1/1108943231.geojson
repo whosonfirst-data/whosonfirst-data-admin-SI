@@ -21,13 +21,22 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u062a\u0633\u0646"
+    ],
+    "name:nor_x_preferred":[
+        "Tacen"
+    ],
+    "name:slv_x_preferred":[
+        "Tacen"
+    ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        1108959949,
         102191581,
         1108959501,
         85633779,
-        101752073
+        101752073,
+        1108959949
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -45,7 +54,7 @@
         }
     ],
     "wof:id":1108943231,
-    "wof:lastmodified":1531170285,
+    "wof:lastmodified":1564216440,
     "wof:name":"Tacen",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",

@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Iga vas"
+    ],
+    "name:ceb_x_preferred":[
+        "Iga Vas"
+    ],
+    "name:hrv_x_preferred":[
+        "Iga vas"
+    ],
+    "name:pol_x_preferred":[
+        "Iga vas"
+    ],
+    "name:ron_x_preferred":[
+        "Iga vas"
+    ],
+    "name:slv_x_preferred":[
+        "Iga vas"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0433\u0430-\u0412\u0430\u0441"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1242712979,
-    "wof:lastmodified":1537573434,
+    "wof:lastmodified":1564216748,
     "wof:name":"Iga Vas",
     "wof:parent_id":1108959863,
     "wof:placetype":"locality",

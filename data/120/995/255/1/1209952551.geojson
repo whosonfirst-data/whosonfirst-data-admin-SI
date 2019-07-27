@@ -25,6 +25,33 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gradac"
+    ],
+    "name:ceb_x_preferred":[
+        "Gradac"
+    ],
+    "name:deu_x_preferred":[
+        "Gradac"
+    ],
+    "name:hrv_x_preferred":[
+        "Gradac"
+    ],
+    "name:nld_x_preferred":[
+        "Gradac"
+    ],
+    "name:pol_x_preferred":[
+        "Gradac"
+    ],
+    "name:ron_x_preferred":[
+        "Gradac"
+    ],
+    "name:slv_x_preferred":[
+        "Gradac"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u0430\u0434\u0430\u0446"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +77,7 @@
         }
     ],
     "wof:id":1209952551,
-    "wof:lastmodified":1537573437,
+    "wof:lastmodified":1564216164,
     "wof:name":"Gradac",
     "wof:parent_id":1108959909,
     "wof:placetype":"locality",

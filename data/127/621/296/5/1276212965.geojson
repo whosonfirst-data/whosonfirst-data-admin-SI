@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Pirmane"
+    ],
+    "name:hrv_x_preferred":[
+        "Pirmane"
+    ],
+    "name:nld_x_preferred":[
+        "Pirmane"
+    ],
+    "name:pol_x_preferred":[
+        "Pirmane"
+    ],
+    "name:ron_x_preferred":[
+        "Pirmane"
+    ],
+    "name:slv_x_preferred":[
+        "Pirmane"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u0440\u043c\u0430\u043d\u0435"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1276212965,
-    "wof:lastmodified":1537573537,
+    "wof:lastmodified":1564215986,
     "wof:name":"Pirmane",
     "wof:parent_id":1108959905,
     "wof:placetype":"locality",

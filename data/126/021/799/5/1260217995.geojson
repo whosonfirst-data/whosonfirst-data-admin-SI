@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Reber"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0435\u0431\u0435\u0440"
+    ],
+    "name:ceb_x_preferred":[
+        "Reber"
+    ],
+    "name:nld_x_preferred":[
+        "Reber"
+    ],
+    "name:pol_x_preferred":[
+        "Reber"
+    ],
+    "name:ron_x_preferred":[
+        "Reber"
+    ],
+    "name:slv_x_preferred":[
+        "Reber"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u0431\u0435\u0440"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +74,7 @@
         }
     ],
     "wof:id":1260217995,
-    "wof:lastmodified":1537573406,
+    "wof:lastmodified":1564216299,
     "wof:name":"Reber",
     "wof:parent_id":1108959787,
     "wof:placetype":"locality",

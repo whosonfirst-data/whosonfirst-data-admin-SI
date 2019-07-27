@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Arnovo selo"
+    ],
+    "name:ceb_x_preferred":[
+        "Arnovo Selo"
+    ],
+    "name:hrv_x_preferred":[
+        "Arnovo selo"
+    ],
+    "name:nld_x_preferred":[
+        "Arnovo selo"
+    ],
+    "name:pol_x_preferred":[
+        "Arnovo selo"
+    ],
+    "name:ron_x_preferred":[
+        "Arnovo selo"
+    ],
+    "name:slv_x_preferred":[
+        "Arnovo selo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0440\u043d\u043e\u0432\u043e \u0421\u0435\u043b\u043e"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +74,7 @@
         }
     ],
     "wof:id":1293380663,
-    "wof:lastmodified":1537573467,
+    "wof:lastmodified":1564215844,
     "wof:name":"Arnovo Selo",
     "wof:parent_id":1108959585,
     "wof:placetype":"locality",

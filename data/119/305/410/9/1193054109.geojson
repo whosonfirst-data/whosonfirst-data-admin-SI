@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Zadobje"
+    ],
+    "name:hrv_x_preferred":[
+        "Zadobje"
+    ],
+    "name:nld_x_preferred":[
+        "Zadobje"
+    ],
+    "name:pol_x_preferred":[
+        "Zadobje"
+    ],
+    "name:ron_x_preferred":[
+        "Zadobje"
+    ],
+    "name:slv_x_preferred":[
+        "Zadobje"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u0434\u043e\u0431\u0454"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u062f\u0648\u0628\u062c\u06d2"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1193054109,
-    "wof:lastmodified":1536363907,
+    "wof:lastmodified":1564216246,
     "wof:name":"Zadobje",
     "wof:parent_id":1108959911,
     "wof:placetype":"locality",

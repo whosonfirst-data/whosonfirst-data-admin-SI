@@ -19,6 +19,24 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "\u0160marca"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0160marca"
+    ],
+    "name:pol_x_preferred":[
+        "\u0160marca"
+    ],
+    "name:ron_x_preferred":[
+        "\u0160marca"
+    ],
+    "name:slv_x_preferred":[
+        "\u0160marca"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u043c\u0430\u0440\u0446\u0430"
+    ],
     "qs_pg:aaroncc":"SI",
     "qs_pg:gn_country":"SI",
     "qs_pg:gn_fcode":"PPL",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1125871747,
-    "wof:lastmodified":1531170275,
+    "wof:lastmodified":1564216644,
     "wof:name":"\u0160marca",
     "wof:parent_id":1108959941,
     "wof:placetype":"locality",

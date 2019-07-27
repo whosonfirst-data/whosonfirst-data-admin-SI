@@ -19,6 +19,87 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arg_x_preferred":[
+        "Polje"
+    ],
+    "name:ast_x_preferred":[
+        "Polj\u00e9"
+    ],
+    "name:bos_x_preferred":[
+        "Kra\u0161ko polje"
+    ],
+    "name:cat_x_preferred":[
+        "P\u00f2lie"
+    ],
+    "name:ces_x_preferred":[
+        "Polje"
+    ],
+    "name:deu_x_preferred":[
+        "Polje"
+    ],
+    "name:eus_x_preferred":[
+        "Polje"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0634\u062a \u06a9\u0627\u0631\u0633\u062a\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Polje"
+    ],
+    "name:fra_x_preferred":[
+        "Polj\u00e9"
+    ],
+    "name:hun_x_preferred":[
+        "Polje"
+    ],
+    "name:ita_x_preferred":[
+        "Polje"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30ea\u30a8"
+    ],
+    "name:kor_x_preferred":[
+        "\ud3f4\ub9ac\uc5d0"
+    ],
+    "name:nld_x_preferred":[
+        "Polje"
+    ],
+    "name:nno_x_preferred":[
+        "Polje"
+    ],
+    "name:nor_x_preferred":[
+        "Polje"
+    ],
+    "name:pol_x_preferred":[
+        "Polje"
+    ],
+    "name:por_x_preferred":[
+        "Polje"
+    ],
+    "name:ron_x_preferred":[
+        "Polie"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u044c\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Polje"
+    ],
+    "name:slv_x_preferred":[
+        "Kra\u0161ko polje"
+    ],
+    "name:spa_x_preferred":[
+        "Polj\u00e9"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u0430\u0448\u043a\u043e \u043f\u043e\u0459\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Polje"
+    ],
+    "name:tur_x_preferred":[
+        "Polye"
+    ],
     "qs_pg:aaroncc":"SI",
     "qs_pg:gn_country":"SI",
     "qs_pg:gn_fcode":"PPL",
@@ -71,7 +152,7 @@
         }
     ],
     "wof:id":1125774973,
-    "wof:lastmodified":1531171368,
+    "wof:lastmodified":1564216654,
     "wof:name":"Polje",
     "wof:parent_id":1108959819,
     "wof:placetype":"locality",

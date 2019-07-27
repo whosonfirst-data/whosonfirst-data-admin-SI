@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Zdole"
+    ],
+    "name:ceb_x_preferred":[
+        "Zdole"
+    ],
+    "name:hrv_x_preferred":[
+        "Zdole"
+    ],
+    "name:nld_x_preferred":[
+        "Zdole"
+    ],
+    "name:pol_x_preferred":[
+        "Zdole"
+    ],
+    "name:ron_x_preferred":[
+        "Zdole"
+    ],
+    "name:slv_x_preferred":[
+        "Zdole"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0434\u043e\u043b\u0435"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +74,7 @@
         }
     ],
     "wof:id":1242907589,
-    "wof:lastmodified":1537573383,
+    "wof:lastmodified":1564216757,
     "wof:name":"Zdole",
     "wof:parent_id":1108959581,
     "wof:placetype":"locality",

@@ -25,6 +25,36 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Strmec"
+    ],
+    "name:ceb_x_preferred":[
+        "Strmec"
+    ],
+    "name:hrv_x_preferred":[
+        "Strmec"
+    ],
+    "name:hun_x_preferred":[
+        "Strmec"
+    ],
+    "name:nld_x_preferred":[
+        "Strmec"
+    ],
+    "name:slv_x_preferred":[
+        "Strmec"
+    ],
+    "name:spa_x_preferred":[
+        "Strmec"
+    ],
+    "name:sqi_x_preferred":[
+        "Strmec"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0440\u043c\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Strmec"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +78,7 @@
         }
     ],
     "wof:id":1226378575,
-    "wof:lastmodified":1536741953,
+    "wof:lastmodified":1564216979,
     "wof:name":"Strmec",
     "wof:parent_id":1108959537,
     "wof:placetype":"locality",

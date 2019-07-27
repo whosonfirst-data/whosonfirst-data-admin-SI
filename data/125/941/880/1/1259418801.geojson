@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gabrovo"
+    ],
+    "name:hrv_x_preferred":[
+        "Gabrovo"
+    ],
+    "name:nld_x_preferred":[
+        "Gabrovo"
+    ],
+    "name:pol_x_preferred":[
+        "Gabrovo"
+    ],
+    "name:ron_x_preferred":[
+        "Gabrovo"
+    ],
+    "name:slv_x_preferred":[
+        "Gabrovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0431\u0440\u043e\u0432\u043e"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1259418801,
-    "wof:lastmodified":1537573527,
+    "wof:lastmodified":1564216806,
     "wof:name":"Gabrovo",
     "wof:parent_id":1108959821,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Studence"
+    ],
+    "name:nld_x_preferred":[
+        "Studence"
+    ],
+    "name:pol_x_preferred":[
+        "Studence"
+    ],
+    "name:ron_x_preferred":[
+        "Studence"
+    ],
+    "name:slv_x_preferred":[
+        "Studence"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0443\u0434\u0435\u043d\u0446\u0435"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1226082909,
-    "wof:lastmodified":1537573497,
+    "wof:lastmodified":1564216993,
     "wof:name":"Studence",
     "wof:parent_id":1108959571,
     "wof:placetype":"locality",

@@ -25,11 +25,29 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u0160kovec"
+    ],
+    "name:nld_x_preferred":[
+        "\u0160kovec"
+    ],
+    "name:pol_x_preferred":[
+        "\u0160kovec"
+    ],
+    "name:ron_x_preferred":[
+        "\u0160kovec"
+    ],
     "name:slv_x_historical":[
         "Skovec"
     ],
     "name:slv_x_preferred":[
         "Skovec"
+    ],
+    "name:slv_x_variant":[
+        "\u0160kovec"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u043a\u043e\u0432\u0435\u0446\u044c"
     ],
     "name:und_x_variant":[
         "\u0160kovec"
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1260114877,
-    "wof:lastmodified":1537700300,
+    "wof:lastmodified":1564216293,
     "wof:name":"Skovec",
     "wof:parent_id":1108959927,
     "wof:placetype":"locality",

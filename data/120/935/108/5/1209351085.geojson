@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Novinci"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u043e\u0432\u0438\u043d\u0446\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Novinci"
+    ],
+    "name:nld_x_preferred":[
+        "Novinci"
+    ],
+    "name:pol_x_preferred":[
+        "Novinci"
+    ],
+    "name:ron_x_preferred":[
+        "Novinci"
+    ],
+    "name:slv_x_preferred":[
+        "Novinci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u0438\u043d\u0446\u0456"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -44,7 +68,7 @@
         }
     ],
     "wof:id":1209351085,
-    "wof:lastmodified":1537573473,
+    "wof:lastmodified":1564216169,
     "wof:name":"Novinci",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Primskovo"
+    ],
+    "name:nld_x_preferred":[
+        "Primskovo"
+    ],
+    "name:pol_x_preferred":[
+        "Primskovo"
+    ],
+    "name:ron_x_preferred":[
+        "Primskovo"
+    ],
+    "name:slv_x_preferred":[
+        "Primskovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0438\u043c\u0441\u043a\u043e\u0432\u043e"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1309746189,
-    "wof:lastmodified":1537573462,
+    "wof:lastmodified":1564216619,
     "wof:name":"Primskovo",
     "wof:parent_id":1108959745,
     "wof:placetype":"locality",

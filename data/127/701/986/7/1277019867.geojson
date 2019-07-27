@@ -25,6 +25,24 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Hrib pri Kamniku"
+    ],
+    "name:pol_x_preferred":[
+        "Hrib pri Kamniku"
+    ],
+    "name:ron_x_preferred":[
+        "Hrib pri Kamniku"
+    ],
+    "name:sco_x_preferred":[
+        "Hrib pri Kamniku"
+    ],
+    "name:slv_x_preferred":[
+        "Hrib pri Kamniku"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0440\u0438\u0431-\u043f\u0440\u0438-\u041a\u0430\u043c\u043d\u0438\u043a\u0443"
+    ],
     "name:und_x_variant":[
         "Hrib",
         "Hrib pri Kamniku"
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1277019867,
-    "wof:lastmodified":1537700239,
+    "wof:lastmodified":1564215981,
     "wof:name":"Hrib pri Kamniku",
     "wof:parent_id":1108959941,
     "wof:placetype":"locality",

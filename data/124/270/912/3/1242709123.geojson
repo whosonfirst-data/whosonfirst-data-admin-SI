@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u0160krbina"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0160krbina"
+    ],
+    "name:ita_x_preferred":[
+        "Scherbina"
+    ],
+    "name:nld_x_preferred":[
+        "\u0160krbina"
+    ],
+    "name:pol_x_preferred":[
+        "\u0160krbina"
+    ],
+    "name:ron_x_preferred":[
+        "\u0160krbina"
+    ],
+    "name:slv_x_preferred":[
+        "\u0160krbina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u043a\u0440\u0431\u0456\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Scherbina",
         "\u0160krbina"
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1242709123,
-    "wof:lastmodified":1537700193,
+    "wof:lastmodified":1564216737,
     "wof:name":"Skrbina",
     "wof:parent_id":1108959539,
     "wof:placetype":"locality",

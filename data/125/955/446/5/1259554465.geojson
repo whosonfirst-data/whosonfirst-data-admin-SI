@@ -25,9 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Jagr\u0161\u010de"
+    ],
+    "name:nld_x_preferred":[
+        "Jagr\u0161\u010de"
+    ],
+    "name:pol_x_preferred":[
+        "Jagr\u0161\u010de"
+    ],
+    "name:ron_x_preferred":[
+        "Jagr\u0161\u010de"
+    ],
+    "name:slv_x_preferred":[
+        "Jagr\u0161\u010de"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u0433\u0440\u0449\u0435"
+    ],
     "name:und_x_variant":[
         "Jager\u0161\u010de",
         "Jagr\u0161\u010de"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u06af\u0631\u0634\u0686\u0627"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1259554465,
-    "wof:lastmodified":1537700237,
+    "wof:lastmodified":1564216802,
     "wof:name":"Jagrsce",
     "wof:parent_id":1108959577,
     "wof:placetype":"locality",

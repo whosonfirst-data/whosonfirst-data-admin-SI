@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Srebrnik"
+    ],
+    "name:deu_x_preferred":[
+        "Srebrnik"
+    ],
+    "name:nld_x_preferred":[
+        "Srebrnik"
+    ],
+    "name:pol_x_preferred":[
+        "Srebrnik"
+    ],
+    "name:ron_x_preferred":[
+        "Srebrnik"
+    ],
+    "name:slv_x_preferred":[
+        "Srebrnik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0440\u0435\u0431\u0440\u043d\u0438\u043a"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1259416795,
-    "wof:lastmodified":1537573495,
+    "wof:lastmodified":1564216814,
     "wof:name":"Srebrnik",
     "wof:parent_id":1108959915,
     "wof:placetype":"locality",

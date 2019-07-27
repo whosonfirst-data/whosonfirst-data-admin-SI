@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Selska Gora"
+    ],
+    "name:hrv_x_preferred":[
+        "Selska Gora"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d4\u10da\u10e1\u10d9\u10d0-\u10d2\u10dd\u10e0\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Selska Gora"
+    ],
+    "name:pol_x_preferred":[
+        "Selska Gora"
+    ],
+    "name:ron_x_preferred":[
+        "Selska Gora"
+    ],
+    "name:slv_x_preferred":[
+        "Selska Gora"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043b\u0441\u044c\u043a\u0430 \u0413\u043e\u0440\u0430"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +74,7 @@
         }
     ],
     "wof:id":1309942555,
-    "wof:lastmodified":1537573555,
+    "wof:lastmodified":1564216616,
     "wof:name":"Selska Gora",
     "wof:parent_id":1108959869,
     "wof:placetype":"locality",

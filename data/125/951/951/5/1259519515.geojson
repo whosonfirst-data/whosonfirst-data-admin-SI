@@ -25,6 +25,24 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Podgora pri Zlatem Polju"
+    ],
+    "name:nld_x_preferred":[
+        "Podgora pri Zlatem Polju"
+    ],
+    "name:pol_x_preferred":[
+        "Podgora pri Zlatem Polju"
+    ],
+    "name:ron_x_preferred":[
+        "Podgora pri Zlatem Polju"
+    ],
+    "name:slv_x_preferred":[
+        "Podgora pri Zlatem Polju"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0434\u0433\u043e\u0440\u0430-\u043f\u0440\u0438-\u0417\u043b\u0430\u0442\u0435\u043c \u041f\u043e\u043b\u044e"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1259519515,
-    "wof:lastmodified":1537573547,
+    "wof:lastmodified":1564216852,
     "wof:name":"Podgora pri Zlatem Polju",
     "wof:parent_id":1108959807,
     "wof:placetype":"locality",

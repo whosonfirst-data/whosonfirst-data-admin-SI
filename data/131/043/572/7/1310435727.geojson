@@ -25,6 +25,33 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Lutverci"
+    ],
+    "name:ceb_x_preferred":[
+        "Lutverci"
+    ],
+    "name:ces_x_preferred":[
+        "Lutverci"
+    ],
+    "name:hrv_x_preferred":[
+        "Lutverci"
+    ],
+    "name:nld_x_preferred":[
+        "Lutverci"
+    ],
+    "name:pol_x_preferred":[
+        "Lutverci"
+    ],
+    "name:ron_x_preferred":[
+        "Lutverci"
+    ],
+    "name:slv_x_preferred":[
+        "Lutverci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u0442\u0432\u0435\u0440\u0446\u0456"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +77,7 @@
         }
     ],
     "wof:id":1310435727,
-    "wof:lastmodified":1537573423,
+    "wof:lastmodified":1564216509,
     "wof:name":"Lutverci",
     "wof:parent_id":1108959667,
     "wof:placetype":"locality",

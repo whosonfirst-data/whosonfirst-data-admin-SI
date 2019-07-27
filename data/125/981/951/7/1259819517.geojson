@@ -25,11 +25,32 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Dol\u0161ce"
+    ],
+    "name:ita_x_preferred":[
+        "Dol\u0161ce"
+    ],
+    "name:nld_x_preferred":[
+        "Dol\u0161ce"
+    ],
+    "name:pol_x_preferred":[
+        "Dol\u0161ce"
+    ],
+    "name:ron_x_preferred":[
+        "Dol\u0161ce"
+    ],
     "name:slv_x_historical":[
         "Dol\u0161ice"
     ],
     "name:slv_x_preferred":[
         "Dol\u0161ice"
+    ],
+    "name:slv_x_variant":[
+        "Dol\u0161ce"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043b\u0448\u0446\u0435"
     ],
     "name:und_x_variant":[
         "Dol\u0161ce"
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1259819517,
-    "wof:lastmodified":1537700295,
+    "wof:lastmodified":1564216865,
     "wof:name":"Dolsce",
     "wof:parent_id":1108959835,
     "wof:placetype":"locality",

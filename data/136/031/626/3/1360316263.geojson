@@ -25,6 +25,33 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Nadanje selo"
+    ],
+    "name:ceb_x_preferred":[
+        "Nadanje Selo"
+    ],
+    "name:hrv_x_preferred":[
+        "Nadanje selo"
+    ],
+    "name:ita_x_preferred":[
+        "Nadagna"
+    ],
+    "name:nld_x_preferred":[
+        "Nadanje selo"
+    ],
+    "name:pol_x_preferred":[
+        "Nadanje selo"
+    ],
+    "name:ron_x_preferred":[
+        "Nadanje selo"
+    ],
+    "name:slv_x_preferred":[
+        "Nadanje selo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u0434\u0430\u043d\u0454 \u0421\u0435\u043b\u043e"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +77,7 @@
         }
     ],
     "wof:id":1360316263,
-    "wof:lastmodified":1537573489,
+    "wof:lastmodified":1564216551,
     "wof:name":"Nadanje Selo",
     "wof:parent_id":1108959587,
     "wof:placetype":"locality",

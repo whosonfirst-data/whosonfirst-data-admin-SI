@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Rakitnica"
+    ],
+    "name:ceb_x_preferred":[
+        "Rakitnica"
+    ],
+    "name:nld_x_preferred":[
+        "Rakitnica"
+    ],
+    "name:pol_x_preferred":[
+        "Rakitnica"
+    ],
+    "name:ron_x_preferred":[
+        "Rakitnica"
+    ],
+    "name:slv_x_preferred":[
+        "Rakitnica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u043a\u0438\u0442\u043d\u0438\u0446\u044f"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1309937141,
-    "wof:lastmodified":1537573407,
+    "wof:lastmodified":1564216608,
     "wof:name":"Rakitnica",
     "wof:parent_id":1108959599,
     "wof:placetype":"locality",

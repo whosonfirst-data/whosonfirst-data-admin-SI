@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Zahrib"
+    ],
+    "name:hrv_x_preferred":[
+        "Zahrib"
+    ],
+    "name:nld_x_preferred":[
+        "Zahrib"
+    ],
+    "name:pol_x_preferred":[
+        "Zahrib"
+    ],
+    "name:ron_x_preferred":[
+        "Zahrib"
+    ],
+    "name:slv_x_preferred":[
+        "Zahrib"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u0445\u0440\u0438\u0431"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u06c1\u0631\u0628"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -44,7 +68,7 @@
         }
     ],
     "wof:id":1209601511,
-    "wof:lastmodified":1537573540,
+    "wof:lastmodified":1564216182,
     "wof:name":"Zahrib",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

@@ -25,11 +25,20 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u010colnica"
+    ],
+    "name:pol_x_preferred":[
+        "\u010colnica"
+    ],
     "name:slv_x_historical":[
         "\u010colenca"
     ],
     "name:slv_x_preferred":[
         "\u010colenca"
+    ],
+    "name:slv_x_variant":[
+        "\u010colnica"
     ],
     "name:und_x_variant":[
         "\u010colnica"
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1343296861,
-    "wof:lastmodified":1537700320,
+    "wof:lastmodified":1564215817,
     "wof:name":"Colnica",
     "wof:parent_id":1108959537,
     "wof:placetype":"locality",

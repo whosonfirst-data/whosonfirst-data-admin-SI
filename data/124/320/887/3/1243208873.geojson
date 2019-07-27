@@ -25,6 +25,36 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Andrejci"
+    ],
+    "name:ceb_x_preferred":[
+        "Andrejci"
+    ],
+    "name:epo_x_preferred":[
+        "Andrejci"
+    ],
+    "name:hrv_x_preferred":[
+        "Andrejci"
+    ],
+    "name:hun_x_preferred":[
+        "Andorhegy"
+    ],
+    "name:pol_x_preferred":[
+        "Andrejci"
+    ],
+    "name:ron_x_preferred":[
+        "Andrejci"
+    ],
+    "name:slv_x_preferred":[
+        "Andrejci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u043d\u0434\u0440\u0435\u0458\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043d\u0434\u0440\u0435\u0439\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Andorhegy",
         "Andrejci"
@@ -54,7 +84,7 @@
         }
     ],
     "wof:id":1243208873,
-    "wof:lastmodified":1537700267,
+    "wof:lastmodified":1564216762,
     "wof:name":"Andrejci",
     "wof:parent_id":1108959925,
     "wof:placetype":"locality",

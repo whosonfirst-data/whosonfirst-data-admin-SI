@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Koseze"
+    ],
+    "name:ceb_x_preferred":[
+        "Koseze"
+    ],
+    "name:hrv_x_preferred":[
+        "Koseze"
+    ],
+    "name:nld_x_preferred":[
+        "Koseze"
+    ],
+    "name:pol_x_preferred":[
+        "Koseze"
+    ],
+    "name:ron_x_preferred":[
+        "Koseze"
+    ],
+    "name:slv_x_preferred":[
+        "Koseze"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0441\u0435\u0437\u0435"
+    ],
     "name:und_x_variant":[
         "Cosesse",
         "Koseze"
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1225887405,
-    "wof:lastmodified":1537700230,
+    "wof:lastmodified":1564216926,
     "wof:name":"Koseze",
     "wof:parent_id":1108959873,
     "wof:placetype":"locality",

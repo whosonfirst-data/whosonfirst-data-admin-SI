@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Sveti Danijel"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0438 \u0414\u0430\u043d\u0438\u0435\u043b"
+    ],
+    "name:ceb_x_preferred":[
+        "Sv. Danijel"
+    ],
+    "name:nld_x_preferred":[
+        "Sv. Danijel"
+    ],
+    "name:pol_x_preferred":[
+        "Sveti Danijel"
+    ],
+    "name:ron_x_preferred":[
+        "Sveti Danijel"
+    ],
+    "name:slv_x_preferred":[
+        "Sveti Danijel"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0438\u0439 \u0414\u0430\u043d\u0456\u0454\u043b"
+    ],
     "name:und_x_variant":[
         "Sveti Danijel"
     ],
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1344224757,
-    "wof:lastmodified":1537700183,
+    "wof:lastmodified":1564215739,
     "wof:name":"Sv. Danijel",
     "wof:parent_id":1108959495,
     "wof:placetype":"locality",

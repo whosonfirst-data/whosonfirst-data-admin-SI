@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Topolc"
+    ],
+    "name:ceb_x_preferred":[
+        "Topolc"
+    ],
+    "name:hrv_x_preferred":[
+        "Topolc"
+    ],
+    "name:nld_x_preferred":[
+        "Topolc"
+    ],
+    "name:pol_x_preferred":[
+        "Topolc"
+    ],
+    "name:ron_x_preferred":[
+        "Topolc"
+    ],
+    "name:slv_x_preferred":[
+        "Topolc"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u043f\u043e\u043b\u0446"
+    ],
     "name:und_x_variant":[
         "Topolza",
         "Topolec",
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1327068741,
-    "wof:lastmodified":1537700182,
+    "wof:lastmodified":1564215582,
     "wof:name":"Topolc",
     "wof:parent_id":1108959873,
     "wof:placetype":"locality",

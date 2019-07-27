@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Jakovce"
+    ],
+    "name:nld_x_preferred":[
+        "Jakovce"
+    ],
+    "name:pol_x_preferred":[
+        "Jakovce"
+    ],
+    "name:ron_x_preferred":[
+        "Jakovce"
+    ],
+    "name:slv_x_preferred":[
+        "Jakovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0430\u043a\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u043a\u043e\u0432\u0446\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u06a9\u0648\u0648\u06a9\u06d2"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +74,7 @@
         }
     ],
     "wof:id":1276587373,
-    "wof:lastmodified":1537573528,
+    "wof:lastmodified":1564216016,
     "wof:name":"Jakovce",
     "wof:parent_id":1108959789,
     "wof:placetype":"locality",

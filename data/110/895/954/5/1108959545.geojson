@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028431,
+    "geom:area_square_m":244654494.503832,
     "geom:bbox":"13.7331491388,45.8239316118,14.1295744033,46.0005350205",
     "geom:latitude":45.899328,
     "geom:longitude":13.907621,
@@ -13,6 +14,63 @@
     "lbl:longitude":13.874658,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0622\u064a\u062f\u0648\u0634\u062a\u0634\u064a\u0646\u0627"
+    ],
+    "name:bos_x_preferred":[
+        "Ajdov\u0161\u010dina"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0439\u0434\u043e\u0432\u0448\u0447\u0438\u043d\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Ajdov\u0161\u010dina"
+    ],
+    "name:ces_x_preferred":[
+        "Ajdov\u0161\u010dina"
+    ],
+    "name:epo_x_preferred":[
+        "Ajdov\u015d\u0109ina"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u06cc\u062f\u0648\u0634\u0686\u06cc\u0646\u0627"
+    ],
+    "name:hrv_x_preferred":[
+        "Ajdov\u0161\u010dina"
+    ],
+    "name:hun_x_preferred":[
+        "Ajdov\u0161\u010dina"
+    ],
+    "name:ita_x_preferred":[
+        "Aidussina"
+    ],
+    "name:nld_x_preferred":[
+        "Ajdov\u0161\u010dina"
+    ],
+    "name:pol_x_preferred":[
+        "Ajdov\u0161\u010dina"
+    ],
+    "name:ron_x_preferred":[
+        "Ajdov\u0161\u010dina"
+    ],
+    "name:slv_x_preferred":[
+        "Ajdov\u0161\u010dina"
+    ],
+    "name:spa_x_preferred":[
+        "Ajdov\u0161\u010dina"
+    ],
+    "name:sqi_x_preferred":[
+        "Ajdov\u0161\u010dina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0458\u0434\u043e\u0432\u0448\u0447\u0438\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0439\u0434\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u06cc\u062f\u0648\u0648\u0634\u0686\u06cc\u0646\u0627"
+    ],
     "src:geom":"svn-sma",
     "src:lbl:centroid":"mapshaper",
     "svn-sma:d_od":"1995-01-01",
@@ -44,7 +102,7 @@
         }
     ],
     "wof:id":1108959545,
-    "wof:lastmodified":1531510220,
+    "wof:lastmodified":1564216319,
     "wof:name":"Ajdov\u0161\u010dina",
     "wof:parent_id":1108959947,
     "wof:placetype":"localadmin",

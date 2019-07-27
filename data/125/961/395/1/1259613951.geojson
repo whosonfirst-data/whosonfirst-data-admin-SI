@@ -25,14 +25,26 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Pugled pri Starem Logu"
+    ],
     "name:deu_x_preferred":[
         "Hohenberg"
+    ],
+    "name:pol_x_preferred":[
+        "Pugled pri Starem Logu"
+    ],
+    "name:ron_x_preferred":[
+        "Pugled pri Starem Logu"
     ],
     "name:slv_x_historical":[
         "Na Pogledu"
     ],
     "name:slv_x_preferred":[
         "Na Pogledu"
+    ],
+    "name:slv_x_variant":[
+        "Pugled pri Starem Logu"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1259613951,
-    "wof:lastmodified":1537700326,
+    "wof:lastmodified":1564216838,
     "wof:name":"Pugled pri Starem Logu",
     "wof:parent_id":1108959919,
     "wof:placetype":"locality",

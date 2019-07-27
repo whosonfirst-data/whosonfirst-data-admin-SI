@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012795,
+    "geom:area_square_m":109198499.139406,
     "geom:bbox":"14.6374152314,46.2815866134,14.8129711833,46.4319095245",
     "geom:latitude":46.355654,
     "geom:longitude":14.727729,
@@ -13,6 +14,33 @@
     "lbl:longitude":14.726389,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Lu\u010de"
+    ],
+    "name:ceb_x_preferred":[
+        "Lu\u010de"
+    ],
+    "name:nld_x_preferred":[
+        "Lu\u010de"
+    ],
+    "name:pol_x_preferred":[
+        "Lu\u010de"
+    ],
+    "name:ron_x_preferred":[
+        "Lu\u010de"
+    ],
+    "name:slv_x_preferred":[
+        "Lu\u010de"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0443\u0447\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u0447\u0435"
+    ],
+    "name:vie_x_preferred":[
+        "Lu\u010de"
+    ],
     "src:geom":"svn-sma",
     "src:lbl:centroid":"mapshaper",
     "svn-sma:d_od":"1995-01-01",
@@ -44,7 +72,7 @@
         }
     ],
     "wof:id":1108959505,
-    "wof:lastmodified":1531510218,
+    "wof:lastmodified":1564216381,
     "wof:name":"Lu\u010de",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",

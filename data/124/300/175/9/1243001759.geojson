@@ -25,8 +25,32 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u017dabljek"
+    ],
+    "name:ceb_x_preferred":[
+        "\u017dabljek"
+    ],
+    "name:nld_x_preferred":[
+        "\u017dabljek"
+    ],
+    "name:pol_x_preferred":[
+        "\u017dabljek"
+    ],
+    "name:ron_x_preferred":[
+        "\u017dabljek"
+    ],
+    "name:slv_x_preferred":[
+        "\u017dabljek"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0430\u0431\u043b\u0454\u043a"
+    ],
     "name:und_x_variant":[
         "\u017dabljek"
+    ],
+    "name:urd_x_preferred":[
+        "\u0698\u0627\u0628\u0644\u06cc\u06a9"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1243001759,
-    "wof:lastmodified":1537700274,
+    "wof:lastmodified":1564216660,
     "wof:name":"Zabljek",
     "wof:parent_id":1108959641,
     "wof:placetype":"locality",

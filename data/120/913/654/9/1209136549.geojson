@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vitan"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0438\u0442\u0430\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Vitan"
+    ],
+    "name:pol_x_preferred":[
+        "Vitan"
+    ],
+    "name:ron_x_preferred":[
+        "Vitan"
+    ],
+    "name:slv_x_preferred":[
+        "Vitan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u0442\u0430\u043d"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -44,7 +65,7 @@
         }
     ],
     "wof:id":1209136549,
-    "wof:lastmodified":1537573387,
+    "wof:lastmodified":1564216152,
     "wof:name":"Vitan",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

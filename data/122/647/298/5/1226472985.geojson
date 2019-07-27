@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Podcerkev"
+    ],
+    "name:ceb_x_preferred":[
+        "Podcerkev"
+    ],
+    "name:hrv_x_preferred":[
+        "Podcerkev"
+    ],
+    "name:pol_x_preferred":[
+        "Podcerkev"
+    ],
+    "name:ron_x_preferred":[
+        "Podcerkev"
+    ],
+    "name:slv_x_preferred":[
+        "Podcerkev"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0434\u0446\u0435\u0440\u043a\u0435\u0432"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1226472985,
-    "wof:lastmodified":1537573485,
+    "wof:lastmodified":1564216957,
     "wof:name":"Podcerkev",
     "wof:parent_id":1108959863,
     "wof:placetype":"locality",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008793,
+    "geom:area_square_m":75093873.177678,
     "geom:bbox":"15.2352806662,46.260832683,15.3788107434,46.3673139756",
     "geom:latitude":46.318315,
     "geom:longitude":15.308198,
@@ -13,6 +14,27 @@
     "lbl:longitude":15.307125,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Vojnik"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u043e\u0439\u043d\u0438\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "Vojnik"
+    ],
+    "name:fra_x_preferred":[
+        "Vojnik"
+    ],
+    "name:slv_x_preferred":[
+        "Vojnik"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u043e\u0458\u043d\u0438\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Vojnik"
+    ],
     "src:geom":"svn-sma",
     "src:lbl:centroid":"mapshaper",
     "svn-sma:d_od":"1995-01-01",
@@ -44,7 +66,7 @@
         }
     ],
     "wof:id":1108959653,
-    "wof:lastmodified":1531510225,
+    "wof:lastmodified":1564216324,
     "wof:name":"Vojnik",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",

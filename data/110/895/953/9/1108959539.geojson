@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01189,
+    "geom:area_square_m":102471481.832636,
     "geom:bbox":"13.5958602905,45.774951845,13.9079264813,45.8634586364",
     "geom:latitude":45.814924,
     "geom:longitude":13.754317,
@@ -13,6 +14,60 @@
     "lbl:longitude":13.743731,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Komen"
+    ],
+    "name:cat_x_preferred":[
+        "Komen"
+    ],
+    "name:ceb_x_preferred":[
+        "Komen"
+    ],
+    "name:deu_x_preferred":[
+        "Komen"
+    ],
+    "name:fra_x_preferred":[
+        "Komen"
+    ],
+    "name:ita_x_preferred":[
+        "Comeno"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30e1\u30f3"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u043e\u043c\u0435\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Komen"
+    ],
+    "name:pol_x_preferred":[
+        "Komen"
+    ],
+    "name:por_x_preferred":[
+        "Komen"
+    ],
+    "name:ron_x_preferred":[
+        "Komen"
+    ],
+    "name:slv_x_preferred":[
+        "Komen"
+    ],
+    "name:spa_x_preferred":[
+        "Komen"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043c\u0435\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043c\u0435\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Komen"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u9580"
+    ],
     "src:geom":"svn-sma",
     "src:lbl:centroid":"mapshaper",
     "svn-sma:d_od":"1995-01-01",
@@ -44,7 +99,7 @@
         }
     ],
     "wof:id":1108959539,
-    "wof:lastmodified":1531510219,
+    "wof:lastmodified":1564216319,
     "wof:name":"Komen",
     "wof:parent_id":1108959951,
     "wof:placetype":"localadmin",

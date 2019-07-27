@@ -21,13 +21,16 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
+    "name:slv_x_preferred":[
+        "Savlje"
+    ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        1108959949,
         102191581,
         1108959501,
         85633779,
-        101752073
+        101752073,
+        1108959949
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1108943191,
-    "wof:lastmodified":1531170294,
+    "wof:lastmodified":1564216451,
     "wof:name":"Savlje",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",

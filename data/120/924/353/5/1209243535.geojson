@@ -25,8 +25,32 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ma\u010dkovec pri Suhorju"
+    ],
+    "name:hrv_x_preferred":[
+        "Ma\u010dkovec pri Suhorju"
+    ],
+    "name:nld_x_preferred":[
+        "Ma\u010dkovec pri Suhorju"
+    ],
+    "name:pol_x_preferred":[
+        "Ma\u010dkovec pri Suhorju"
+    ],
+    "name:ron_x_preferred":[
+        "Ma\u010dkovec pri Suhorju"
+    ],
+    "name:slv_x_preferred":[
+        "Ma\u010dkovec pri Suhorju"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0447\u043a\u043e\u0432\u0435\u0446\u044c-\u043f\u0440\u0438-\u0421\u0443\u0445\u043e\u0440\u044e"
+    ],
     "name:und_x_variant":[
         "Ma\u010dkovec pri Suhorju"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0686\u06a9\u0648\u0648\u06cc\u06a9 \u067e\u0631\u06cc \u0633\u0648\u06c1\u0648\u0631\u062c\u0648"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -47,7 +71,7 @@
         }
     ],
     "wof:id":1209243535,
-    "wof:lastmodified":1537700324,
+    "wof:lastmodified":1564216133,
     "wof:name":"Mackovec pri Suhorju",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

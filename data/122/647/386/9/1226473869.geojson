@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Hlebce"
+    ],
+    "name:ceb_x_preferred":[
+        "Hlebce"
+    ],
+    "name:hrv_x_preferred":[
+        "Hlebce"
+    ],
+    "name:nld_x_preferred":[
+        "Hlebce"
+    ],
+    "name:pol_x_preferred":[
+        "Hlebce"
+    ],
+    "name:ron_x_preferred":[
+        "Hlebce"
+    ],
+    "name:slv_x_preferred":[
+        "Hlebce"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u043b\u0435\u0431\u0446\u0435"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +74,7 @@
         }
     ],
     "wof:id":1226473869,
-    "wof:lastmodified":1537573468,
+    "wof:lastmodified":1564216959,
     "wof:name":"Hlebce",
     "wof:parent_id":1108959825,
     "wof:placetype":"locality",

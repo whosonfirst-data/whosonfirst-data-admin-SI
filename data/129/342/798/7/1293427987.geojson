@@ -25,11 +25,35 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Lokovec"
+    ],
+    "name:ceb_x_preferred":[
+        "Lokovec"
+    ],
+    "name:ita_x_preferred":[
+        "Locavizza"
+    ],
+    "name:nld_x_preferred":[
+        "Lokovec"
+    ],
+    "name:pol_x_preferred":[
+        "Lokovec"
+    ],
+    "name:ron_x_preferred":[
+        "Lokovec"
+    ],
     "name:slv_x_historical":[
         "Pri Cerkvi"
     ],
     "name:slv_x_preferred":[
         "Pri Cerkvi"
+    ],
+    "name:slv_x_variant":[
+        "Lokovec"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u043a\u043e\u0432\u0435\u0446\u044c"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1293427987,
-    "wof:lastmodified":1537700223,
+    "wof:lastmodified":1564215944,
     "wof:name":"Lokovec",
     "wof:parent_id":1108959487,
     "wof:placetype":"locality",

@@ -25,6 +25,21 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pernice"
+    ],
+    "name:deu_x_preferred":[
+        "Pernice"
+    ],
+    "name:fra_x_preferred":[
+        "Pernice"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u043d\u0438\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Pernice"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -44,7 +59,7 @@
         }
     ],
     "wof:id":1209549775,
-    "wof:lastmodified":1537573414,
+    "wof:lastmodified":1564216100,
     "wof:name":"Pernice",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

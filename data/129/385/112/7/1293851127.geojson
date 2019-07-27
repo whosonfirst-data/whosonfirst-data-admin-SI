@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Sveta Barbara"
+    ],
+    "name:ceb_x_preferred":[
+        "Sv. Barbara"
+    ],
+    "name:hrv_x_preferred":[
+        "Sv. Barbara"
+    ],
+    "name:nld_x_preferred":[
+        "Sv. Barbara"
+    ],
+    "name:pol_x_preferred":[
+        "Sveta Barbara"
+    ],
+    "name:ron_x_preferred":[
+        "Sveta Barbara"
+    ],
+    "name:slv_x_preferred":[
+        "Sveta Barbara"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0430 \u0411\u0430\u0440\u0431\u0430\u0440\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1293851127,
-    "wof:lastmodified":1536760265,
+    "wof:lastmodified":1564215894,
     "wof:name":"Sveta Barbara",
     "wof:parent_id":1108959529,
     "wof:placetype":"locality",

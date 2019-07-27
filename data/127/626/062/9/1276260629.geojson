@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Hvaletinci"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u0432\u0430\u043b\u0435\u0442\u0438\u043d\u0446\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Hvaletinci"
+    ],
+    "name:nld_x_preferred":[
+        "Hvaletinci"
+    ],
+    "name:pol_x_preferred":[
+        "Hvaletinci"
+    ],
+    "name:ron_x_preferred":[
+        "Hvaletinci"
+    ],
+    "name:slv_x_preferred":[
+        "Hvaletinci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0432\u0430\u043b\u0435\u0442\u0438\u043d\u0446\u0456"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +74,7 @@
         }
     ],
     "wof:id":1276260629,
-    "wof:lastmodified":1537573490,
+    "wof:lastmodified":1564215989,
     "wof:name":"Hvaletinci",
     "wof:parent_id":1108959781,
     "wof:placetype":"locality",

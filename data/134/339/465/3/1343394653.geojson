@@ -25,6 +25,24 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Orehovec"
+    ],
+    "name:ceb_x_preferred":[
+        "Orehovec"
+    ],
+    "name:ita_x_preferred":[
+        "Orehovec"
+    ],
+    "name:pol_x_preferred":[
+        "Orehovec"
+    ],
+    "name:slv_x_preferred":[
+        "Orehovec"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0440\u0435\u0445\u043e\u0432\u0435\u0446\u044c"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1343394653,
-    "wof:lastmodified":1537573416,
+    "wof:lastmodified":1564215724,
     "wof:name":"Orehovec",
     "wof:parent_id":1108959835,
     "wof:placetype":"locality",

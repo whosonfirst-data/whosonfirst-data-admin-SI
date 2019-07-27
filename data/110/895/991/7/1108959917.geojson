@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018174,
+    "geom:area_square_m":155004265.80204,
     "geom:bbox":"14.233276014,46.3137733156,14.4421033516,46.4469977461",
     "geom:latitude":46.388439,
     "geom:longitude":14.330697,
@@ -13,6 +14,75 @@
     "lbl:longitude":14.322268,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062a\u0631\u064a\u062c\u064a\u0643"
+    ],
+    "name:ceb_x_preferred":[
+        "Ob\u010dina Tr\u017ei\u010d"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u010dina Tr\u017ei\u010d"
+    ],
+    "name:deu_x_preferred":[
+        "Tr\u017ei\u010d"
+    ],
+    "name:epo_x_preferred":[
+        "Ob\u010dina Tr\u017ei\u010d"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u0698\u06cc\u0686"
+    ],
+    "name:fra_x_preferred":[
+        "Tr\u017ei\u010d"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Tr\u017ei\u010d"
+    ],
+    "name:ind_x_preferred":[
+        "Munisipalitas Tr\u017ei\u010d"
+    ],
+    "name:ita_x_preferred":[
+        "Tr\u017ei\u010d"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30eb\u30b8\u30c3\u30c1"
+    ],
+    "name:kor_x_preferred":[
+        "\ud2b8\ub974\uc9c0\uce58"
+    ],
+    "name:nld_x_preferred":[
+        "Tr\u017ei\u010d"
+    ],
+    "name:nor_x_preferred":[
+        "Tr\u017ei\u010d"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Tr\u017ei\u010d"
+    ],
+    "name:por_x_preferred":[
+        "Tr\u017ei\u010d"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Tr\u017ei\u010d"
+    ],
+    "name:slk_x_preferred":[
+        "Tr\u017ei\u010d"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Tr\u017ei\u010d"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0422\u0440\u0436\u0438\u0447"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0440\u0436\u0438\u0447"
+    ],
+    "name:vie_x_preferred":[
+        "Tr\u017ei\u010d"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u723e\u65e5\u5947"
+    ],
     "src:geom":"svn-sma",
     "src:lbl:centroid":"mapshaper",
     "svn-sma:d_od":"1995-01-01",
@@ -44,7 +114,7 @@
         }
     ],
     "wof:id":1108959917,
-    "wof:lastmodified":1531510239,
+    "wof:lastmodified":1564216326,
     "wof:name":"Tr\u017ei\u010d",
     "wof:parent_id":1108959967,
     "wof:placetype":"localadmin",

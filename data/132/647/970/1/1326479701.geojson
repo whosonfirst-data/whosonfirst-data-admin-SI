@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gorenja vas pri Polici"
+    ],
+    "name:nld_x_preferred":[
+        "Gorenja vas pri Polici"
+    ],
+    "name:pol_x_preferred":[
+        "Gorenja vas pri Polici"
+    ],
+    "name:ron_x_preferred":[
+        "Gorenja vas pri Polici"
+    ],
+    "name:slv_x_preferred":[
+        "Gorenja vas pri Polici"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u0435\u045a\u0430 \u0412\u0430\u0441 \u043f\u0440\u0438 \u041f\u043e\u043b\u0438\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u0435\u043d\u044f \u0412\u0430\u0441-\u043f\u0440\u0438-\u041f\u043e\u043b\u0438\u0446\u0456"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1326479701,
-    "wof:lastmodified":1537573509,
+    "wof:lastmodified":1564215668,
     "wof:name":"Gorenja Vas pri Polici",
     "wof:parent_id":1108959533,
     "wof:placetype":"locality",

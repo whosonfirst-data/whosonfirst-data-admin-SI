@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Velika Pristava"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u06cc\u06a9\u0627 \u067e\u0631\u06cc\u0633\u062a\u0648\u0627"
+    ],
+    "name:hrv_x_preferred":[
+        "Velika Pristava"
+    ],
+    "name:nld_x_preferred":[
+        "Velika Pristava"
+    ],
+    "name:pol_x_preferred":[
+        "Velika Pristava"
+    ],
+    "name:ron_x_preferred":[
+        "Velika Pristava"
+    ],
+    "name:slv_x_preferred":[
+        "Velika Pristava"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0430 \u041f\u0440\u0438\u0441\u0442\u0430\u0432\u0430"
+    ],
     "name:und_x_variant":[
         "Prestava Grande",
         "Velika Pristava"
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1343988417,
-    "wof:lastmodified":1537700178,
+    "wof:lastmodified":1564215718,
     "wof:name":"Velika Pristava",
     "wof:parent_id":1108959587,
     "wof:placetype":"locality",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002122,
+    "geom:area_square_m":18110781.457176,
     "geom:bbox":"14.9942348424,46.3047092243,15.0644347092,46.3748521736",
     "geom:latitude":46.340256,
     "geom:longitude":15.030549,
@@ -13,6 +14,66 @@
     "lbl:longitude":15.030022,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ob\u010dina \u0160martno ob Paki"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u010dina \u0160martno ob Paki"
+    ],
+    "name:deu_x_preferred":[
+        "\u0160martno ob Paki"
+    ],
+    "name:epo_x_preferred":[
+        "Ob\u010dina \u0160martno ob Paki"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160martno ob Paki"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina \u0160martno ob Paki"
+    ],
+    "name:ind_x_preferred":[
+        "Munisipalitas \u0160martno ob Paki"
+    ],
+    "name:ita_x_preferred":[
+        "\u0160martno ob Paki"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e5\u30de\u30eb\u30c8\u30ce\u30fb\u30aa\u30d7\u30fb\u30d1\u30ad"
+    ],
+    "name:kor_x_preferred":[
+        "\uc288\ub9c8\ub974\ud2b8\ub178\uc624\ube0c\ud30c\ud0a4"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160martnas prie Pakos"
+    ],
+    "name:nld_x_preferred":[
+        "\u0160martno ob Paki"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina \u0160martno ob Paki"
+    ],
+    "name:por_x_preferred":[
+        "\u0160martno ob Paki"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna \u0160martno ob Paki"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina \u0160martno ob Paki"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0428\u043c\u0430\u0440\u0442\u043d\u043e \u043e\u0431 \u041f\u0430\u043a\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u043c\u0430\u0440\u0442\u043d\u043e-\u043e\u0431-\u041f\u0430\u043a\u0456"
+    ],
+    "name:vie_x_preferred":[
+        "\u0160martno ob Paki"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u5361\u6cb3\u7554\u4ec0\u99ac\u723e\u7279\u8afe"
+    ],
     "src:geom":"svn-sma",
     "src:lbl:centroid":"mapshaper",
     "svn-sma:d_od":"1995-01-01",
@@ -44,7 +105,7 @@
         }
     ],
     "wof:id":1108959729,
-    "wof:lastmodified":1531510229,
+    "wof:lastmodified":1564216433,
     "wof:name":"\u0160martno ob Paki",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",
