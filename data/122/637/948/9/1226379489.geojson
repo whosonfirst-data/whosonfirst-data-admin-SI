@@ -25,6 +25,24 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Videm pri Lukovici"
+    ],
+    "name:nld_x_preferred":[
+        "Videm pri Lukovici"
+    ],
+    "name:pol_x_preferred":[
+        "Videm pri Lukovici"
+    ],
+    "name:ron_x_preferred":[
+        "Videm pri Lukovici"
+    ],
+    "name:slv_x_preferred":[
+        "Videm pri Lukovici"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u0434\u0435\u043c-\u043f\u0440\u0438-\u041b\u0443\u043a\u043e\u0432\u0438\u0446\u0456"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1226379489,
-    "wof:lastmodified":1537573546,
+    "wof:lastmodified":1564216981,
     "wof:name":"Videm pri Lukovici",
     "wof:parent_id":1108959807,
     "wof:placetype":"locality",

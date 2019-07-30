@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Zgornja Draga"
+    ],
+    "name:ceb_x_preferred":[
+        "Zgornja Draga"
+    ],
+    "name:nld_x_preferred":[
+        "Zgornja Draga"
+    ],
+    "name:pol_x_preferred":[
+        "Zgornja Draga"
+    ],
+    "name:ron_x_preferred":[
+        "Zgornja Draga"
+    ],
+    "name:slv_x_preferred":[
+        "Zgornja Draga"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0433\u043e\u0440\u043d\u044f \u0414\u0440\u0430\u0433\u0430"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1226378995,
-    "wof:lastmodified":1537573382,
+    "wof:lastmodified":1564216987,
     "wof:name":"Zgornja Draga",
     "wof:parent_id":1108959583,
     "wof:placetype":"locality",

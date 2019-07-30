@@ -25,6 +25,33 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gorjansko"
+    ],
+    "name:ceb_x_preferred":[
+        "Gorjansko"
+    ],
+    "name:ind_x_preferred":[
+        "Gorjansko"
+    ],
+    "name:ita_x_preferred":[
+        "Goriano"
+    ],
+    "name:nld_x_preferred":[
+        "Gorjansko"
+    ],
+    "name:pol_x_preferred":[
+        "Gorjansko"
+    ],
+    "name:ron_x_preferred":[
+        "Gorjansko"
+    ],
+    "name:slv_x_preferred":[
+        "Gorjansko"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u044f\u043d\u0441\u043a\u043e"
+    ],
     "name:und_x_variant":[
         "Goriano",
         "Goreansca",
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1260117107,
-    "wof:lastmodified":1537700244,
+    "wof:lastmodified":1564216296,
     "wof:name":"Gorjansko",
     "wof:parent_id":1108959539,
     "wof:placetype":"locality",

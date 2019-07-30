@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Senovica"
+    ],
+    "name:ceb_x_preferred":[
+        "Senovica"
+    ],
+    "name:hrv_x_preferred":[
+        "Senovica"
+    ],
+    "name:nld_x_preferred":[
+        "Senovica"
+    ],
+    "name:pol_x_preferred":[
+        "Senovica"
+    ],
+    "name:ron_x_preferred":[
+        "Senovica"
+    ],
+    "name:slv_x_preferred":[
+        "Senovica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043d\u043e\u0432\u0438\u0446\u044f"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +74,7 @@
         }
     ],
     "wof:id":1309840025,
-    "wof:lastmodified":1537573483,
+    "wof:lastmodified":1564216603,
     "wof:name":"Senovica",
     "wof:parent_id":1108959607,
     "wof:placetype":"locality",

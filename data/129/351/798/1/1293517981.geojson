@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Pudob"
+    ],
+    "name:ceb_x_preferred":[
+        "Pudob"
+    ],
+    "name:hrv_x_preferred":[
+        "Pudob"
+    ],
+    "name:pol_x_preferred":[
+        "Pudob"
+    ],
+    "name:ron_x_preferred":[
+        "Pudob"
+    ],
+    "name:slv_x_preferred":[
+        "Pudob"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u0434\u043e\u0431"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1293517981,
-    "wof:lastmodified":1537573408,
+    "wof:lastmodified":1564215935,
     "wof:name":"Pudob",
     "wof:parent_id":1108959863,
     "wof:placetype":"locality",

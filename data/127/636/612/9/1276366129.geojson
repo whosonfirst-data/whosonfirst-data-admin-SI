@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kanalski Lom"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u043d\u0430\u043b\u0441\u043a\u0438 \u041b\u043e\u043c"
+    ],
+    "name:nld_x_preferred":[
+        "Kanalski Lom"
+    ],
+    "name:pol_x_preferred":[
+        "Kanalski Lom"
+    ],
+    "name:ron_x_preferred":[
+        "Kanalski Lom"
+    ],
+    "name:slv_x_preferred":[
+        "Kanalski Lom"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043d\u0430\u043b\u0441\u044c\u043a\u0438\u0439 \u041b\u043e\u043c"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1276366129,
-    "wof:lastmodified":1537573496,
+    "wof:lastmodified":1564216085,
     "wof:name":"Kanalski Lom",
     "wof:parent_id":1108959617,
     "wof:placetype":"locality",

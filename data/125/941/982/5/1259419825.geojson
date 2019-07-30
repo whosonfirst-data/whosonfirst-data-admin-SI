@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Perniki"
+    ],
+    "name:hrv_x_preferred":[
+        "Perniki"
+    ],
+    "name:nld_x_preferred":[
+        "Perniki"
+    ],
+    "name:pol_x_preferred":[
+        "Perniki"
+    ],
+    "name:ron_x_preferred":[
+        "Perniki"
+    ],
+    "name:slv_x_preferred":[
+        "Perniki"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0440\u043d\u0438\u043a\u0438"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1259419825,
-    "wof:lastmodified":1537573532,
+    "wof:lastmodified":1564216810,
     "wof:name":"Perniki",
     "wof:parent_id":1108959735,
     "wof:placetype":"locality",

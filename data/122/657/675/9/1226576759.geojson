@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Malenska vas"
+    ],
+    "name:hrv_x_preferred":[
+        "Malenska vas"
+    ],
+    "name:nld_x_preferred":[
+        "Malenska vas"
+    ],
+    "name:pol_x_preferred":[
+        "Malenska vas"
+    ],
+    "name:ron_x_preferred":[
+        "Malenska vas"
+    ],
+    "name:slv_x_preferred":[
+        "Malenska vas"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043b\u0435\u043d\u0441\u044c\u043a\u0430 \u0412\u0430\u0441"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1226576759,
-    "wof:lastmodified":1537573422,
+    "wof:lastmodified":1564216917,
     "wof:name":"Malenska Vas",
     "wof:parent_id":1108959751,
     "wof:placetype":"locality",

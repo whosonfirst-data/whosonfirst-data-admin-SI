@@ -19,6 +19,42 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0634\u0648\u0634\u062a\u0627\u0646\u062c"
+    ],
+    "name:bos_x_preferred":[
+        "\u0160o\u0161tanj"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0160o\u0161tanj"
+    ],
+    "name:deu_x_preferred":[
+        "\u0160o\u0161tanj"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0634\u062a\u0627\u0646\u06cc"
+    ],
+    "name:hrv_x_preferred":[
+        "\u0160o\u0161tanj"
+    ],
+    "name:nld_x_preferred":[
+        "\u0160o\u0161tanj"
+    ],
+    "name:pol_x_preferred":[
+        "\u0160o\u0161tanj"
+    ],
+    "name:ron_x_preferred":[
+        "\u0160o\u0161tanj"
+    ],
+    "name:slv_x_preferred":[
+        "\u0160o\u0161tanj"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u043e\u0448\u0442\u0430\u045a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u043e\u0448\u0442\u0430\u043d\u044c"
+    ],
     "name:unk_x_variant":[
         "Kostanj"
     ],
@@ -74,7 +110,7 @@
         }
     ],
     "wof:id":1125875173,
-    "wof:lastmodified":1531170276,
+    "wof:lastmodified":1564216645,
     "wof:name":"\u0160o\u0161tanj",
     "wof:parent_id":1108959941,
     "wof:placetype":"locality",

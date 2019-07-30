@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003325,
+    "geom:area_square_m":28331350.811373,
     "geom:bbox":"15.9351476,46.4174840944,16.0361569817,46.4910547012",
     "geom:latitude":46.448868,
     "geom:longitude":15.990333,
@@ -13,6 +14,36 @@
     "lbl:longitude":15.991094,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Dornava"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u0440\u043d\u0430\u0432\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Dornava"
+    ],
+    "name:nld_x_preferred":[
+        "Dornava"
+    ],
+    "name:pol_x_preferred":[
+        "Dornava"
+    ],
+    "name:ron_x_preferred":[
+        "Dornava"
+    ],
+    "name:slv_x_preferred":[
+        "Dornava"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u0440\u043d\u0430\u0432\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u0440\u043d\u0430\u0432\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Dornava"
+    ],
     "src:geom":"svn-sma",
     "src:lbl:centroid":"mapshaper",
     "svn-sma:d_od":"1995-01-01",
@@ -44,7 +75,7 @@
         }
     ],
     "wof:id":1108959761,
-    "wof:lastmodified":1531510230,
+    "wof:lastmodified":1564216377,
     "wof:name":"Dornava",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",

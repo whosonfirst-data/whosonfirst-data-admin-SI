@@ -25,8 +25,32 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kozina"
+    ],
+    "name:ceb_x_preferred":[
+        "Kozina"
+    ],
     "name:ita_x_preferred":[
         "Cosina"
+    ],
+    "name:nld_x_preferred":[
+        "Kozina"
+    ],
+    "name:pol_x_preferred":[
+        "Kozina"
+    ],
+    "name:ron_x_preferred":[
+        "Kozina"
+    ],
+    "name:slv_x_preferred":[
+        "Kozina"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0437\u0438\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0437\u0456\u043d\u0430"
     ],
     "name:und_x_variant":[
         "Cosina d\u2019Istria",
@@ -57,7 +81,7 @@
         }
     ],
     "wof:id":1226597919,
-    "wof:lastmodified":1537700230,
+    "wof:lastmodified":1564216908,
     "wof:name":"Kozina",
     "wof:parent_id":1108959549,
     "wof:placetype":"locality",

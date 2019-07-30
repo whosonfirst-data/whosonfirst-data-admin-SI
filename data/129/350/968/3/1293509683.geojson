@@ -25,6 +25,33 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Cerina"
+    ],
+    "name:ceb_x_preferred":[
+        "Cerina"
+    ],
+    "name:hrv_x_preferred":[
+        "Cerina"
+    ],
+    "name:hun_x_preferred":[
+        "Cerina"
+    ],
+    "name:ita_x_preferred":[
+        "Cerina"
+    ],
+    "name:nld_x_preferred":[
+        "Cerina"
+    ],
+    "name:slv_x_preferred":[
+        "Cerina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0426\u0435\u0440\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Cerina"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +77,7 @@
         }
     ],
     "wof:id":1293509683,
-    "wof:lastmodified":1537573478,
+    "wof:lastmodified":1564215913,
     "wof:name":"Cerina",
     "wof:parent_id":1108959585,
     "wof:placetype":"locality",

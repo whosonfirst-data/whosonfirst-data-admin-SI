@@ -25,6 +25,24 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Sveti Vid"
+    ],
+    "name:ceb_x_preferred":[
+        "Sveti Vid"
+    ],
+    "name:deu_x_preferred":[
+        "Sveti Vid"
+    ],
+    "name:hrv_x_preferred":[
+        "Sveti Vid"
+    ],
+    "name:slv_x_preferred":[
+        "Sveti Vid"
+    ],
+    "name:swe_x_preferred":[
+        "Sveti Vid"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1243588201,
-    "wof:lastmodified":1537094904,
+    "wof:lastmodified":1564216725,
     "wof:name":"Sveti Vid",
     "wof:parent_id":1108959747,
     "wof:placetype":"locality",

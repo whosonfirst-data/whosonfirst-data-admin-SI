@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ljubija"
+    ],
+    "name:ceb_x_preferred":[
+        "Ljubija"
+    ],
+    "name:nld_x_preferred":[
+        "Ljubija"
+    ],
+    "name:pol_x_preferred":[
+        "Ljubija"
+    ],
+    "name:ron_x_preferred":[
+        "Ljubija"
+    ],
+    "name:slv_x_preferred":[
+        "Ljubija"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u044e\u0431\u0456\u044f"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1260321593,
-    "wof:lastmodified":1537573425,
+    "wof:lastmodified":1564216308,
     "wof:name":"Ljubija",
     "wof:parent_id":1108959485,
     "wof:placetype":"locality",

@@ -25,11 +25,32 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kra\u010dali"
+    ],
+    "name:hrv_x_preferred":[
+        "Kra\u010dali"
+    ],
+    "name:nld_x_preferred":[
+        "Kra\u010dali"
+    ],
+    "name:pol_x_preferred":[
+        "Kra\u010dali"
+    ],
+    "name:ron_x_preferred":[
+        "Kra\u010dali"
+    ],
     "name:slv_x_historical":[
         "Kra\u010dale"
     ],
     "name:slv_x_preferred":[
         "Kra\u010dale"
+    ],
+    "name:slv_x_variant":[
+        "Kra\u010dali"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0430\u0447\u0430\u043b\u0456"
     ],
     "name:und_x_variant":[
         "Kra\u010dali"
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1344188391,
-    "wof:lastmodified":1537700311,
+    "wof:lastmodified":1564215815,
     "wof:name":"Kracali",
     "wof:parent_id":1108959805,
     "wof:placetype":"locality",

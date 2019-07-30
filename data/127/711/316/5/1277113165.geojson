@@ -25,6 +25,24 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gmajnica"
+    ],
+    "name:ceb_x_preferred":[
+        "Gmajnica"
+    ],
+    "name:pol_x_preferred":[
+        "Gmajnica"
+    ],
+    "name:ron_x_preferred":[
+        "Gmajnica"
+    ],
+    "name:slv_x_preferred":[
+        "Gmajnica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043c\u0430\u0439\u043d\u0438\u0446\u044f"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1277113165,
-    "wof:lastmodified":1537573441,
+    "wof:lastmodified":1564216094,
     "wof:name":"Gmajnica",
     "wof:parent_id":1108959837,
     "wof:placetype":"locality",

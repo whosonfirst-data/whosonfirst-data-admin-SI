@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Florjan"
+    ],
+    "name:ceb_x_preferred":[
+        "Florjan"
+    ],
+    "name:hrv_x_preferred":[
+        "Florjan"
+    ],
+    "name:nld_x_preferred":[
+        "Florjan"
+    ],
+    "name:pol_x_preferred":[
+        "Florjan"
+    ],
+    "name:ron_x_preferred":[
+        "Florjan"
+    ],
+    "name:slv_x_preferred":[
+        "Florjan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u043b\u043e\u0440\u044f\u043d"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +74,7 @@
         }
     ],
     "wof:id":1225979659,
-    "wof:lastmodified":1537573463,
+    "wof:lastmodified":1564216936,
     "wof:name":"Florjan",
     "wof:parent_id":1108959731,
     "wof:placetype":"locality",

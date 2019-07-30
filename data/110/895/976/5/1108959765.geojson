@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016571,
+    "geom:area_square_m":141209629.955341,
     "geom:bbox":"16.0165904626,46.3777118736,16.2705022452,46.5005839311",
     "geom:latitude":46.437634,
     "geom:longitude":16.151486,
@@ -13,6 +14,54 @@
     "lbl:longitude":16.15344,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Ormo\u017e"
+    ],
+    "name:bul_x_preferred":[
+        "\u041e\u0440\u043c\u043e\u0436"
+    ],
+    "name:ceb_x_preferred":[
+        "Ormo\u017e"
+    ],
+    "name:epo_x_preferred":[
+        "Ormo\u017e"
+    ],
+    "name:hrv_x_preferred":[
+        "Ormo\u017e"
+    ],
+    "name:hun_x_preferred":[
+        "Ormosd"
+    ],
+    "name:ind_x_preferred":[
+        "Munisipalitas Ormo\u017e"
+    ],
+    "name:nld_x_preferred":[
+        "Ormo\u017e"
+    ],
+    "name:pol_x_preferred":[
+        "Ormo\u017e"
+    ],
+    "name:ron_x_preferred":[
+        "Ormo\u017e"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u043c\u043e\u0436"
+    ],
+    "name:slv_x_preferred":[
+        "Ormo\u017e"
+    ],
+    "name:sqi_x_preferred":[
+        "Ormo\u017e"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0440\u043c\u043e\u0436"
+    ],
+    "name:swe_x_preferred":[
+        "Ormo\u017e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0440\u043c\u043e\u0436"
+    ],
     "src:geom":"svn-sma",
     "src:lbl:centroid":"mapshaper",
     "svn-sma:d_od":"1995-01-01",
@@ -44,7 +93,7 @@
         }
     ],
     "wof:id":1108959765,
-    "wof:lastmodified":1531510231,
+    "wof:lastmodified":1564216378,
     "wof:name":"Ormo\u017e",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",

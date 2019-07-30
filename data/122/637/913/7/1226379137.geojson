@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Temljine"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0435\u043c\u043b\u0438\u043d\u0435"
+    ],
+    "name:nld_x_preferred":[
+        "Temljine"
+    ],
+    "name:pol_x_preferred":[
+        "Temljine"
+    ],
+    "name:ron_x_preferred":[
+        "Temljine"
+    ],
+    "name:slv_x_preferred":[
+        "Temljine"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0435\u043c\u043b\u0456\u043d\u0435"
+    ],
     "name:und_x_variant":[
         "Temljina",
         "Temljine"
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1226379137,
-    "wof:lastmodified":1537700182,
+    "wof:lastmodified":1564216982,
     "wof:name":"Temljine",
     "wof:parent_id":1108959617,
     "wof:placetype":"locality",

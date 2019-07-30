@@ -25,6 +25,24 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Mali Jelnik"
+    ],
+    "name:nld_x_preferred":[
+        "Mali Jelnik"
+    ],
+    "name:pol_x_preferred":[
+        "Mali Jelnik"
+    ],
+    "name:ron_x_preferred":[
+        "Mali Jelnik"
+    ],
+    "name:slv_x_preferred":[
+        "Mali Jelnik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043b\u0438\u0439 \u0404\u043b\u043d\u0438\u043a"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1326563795,
-    "wof:lastmodified":1537573511,
+    "wof:lastmodified":1564215622,
     "wof:name":"Mali Jelnik",
     "wof:parent_id":1108959807,
     "wof:placetype":"locality",

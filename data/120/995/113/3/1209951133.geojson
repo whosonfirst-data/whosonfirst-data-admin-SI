@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vale"
+    ],
+    "name:ita_x_preferred":[
+        "Valle"
+    ],
+    "name:nld_x_preferred":[
+        "Vale"
+    ],
+    "name:pol_x_preferred":[
+        "Vale"
+    ],
+    "name:ron_x_preferred":[
+        "Vale"
+    ],
+    "name:slv_x_preferred":[
+        "Vale"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u043b\u0435"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1209951133,
-    "wof:lastmodified":1537573457,
+    "wof:lastmodified":1564216165,
     "wof:name":"Vale",
     "wof:parent_id":1108959539,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Glinek"
+    ],
+    "name:nld_x_preferred":[
+        "Glinek"
+    ],
+    "name:pol_x_preferred":[
+        "Glinek"
+    ],
+    "name:ron_x_preferred":[
+        "Glinek"
+    ],
+    "name:slv_x_preferred":[
+        "Glinek"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043b\u0438\u043d\u0435\u043a"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -44,7 +62,7 @@
         }
     ],
     "wof:id":1209450037,
-    "wof:lastmodified":1537573529,
+    "wof:lastmodified":1564216208,
     "wof:name":"Glinek",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

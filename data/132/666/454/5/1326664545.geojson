@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Podigrac"
+    ],
+    "name:hrv_x_preferred":[
+        "Podigrac"
+    ],
+    "name:nld_x_preferred":[
+        "Podigrac"
+    ],
+    "name:pol_x_preferred":[
+        "Podigrac"
+    ],
+    "name:ron_x_preferred":[
+        "Podigrac"
+    ],
+    "name:slv_x_preferred":[
+        "Podigrac"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0434\u0438\u0433\u0440\u0430\u0446"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1326664545,
-    "wof:lastmodified":1537573503,
+    "wof:lastmodified":1564215633,
     "wof:name":"Podigrac",
     "wof:parent_id":1108959469,
     "wof:placetype":"locality",

@@ -25,6 +25,21 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nld_x_preferred":[
+        "Vrh"
+    ],
+    "name:pol_x_preferred":[
+        "Vrh"
+    ],
+    "name:ron_x_preferred":[
+        "Vrh"
+    ],
+    "name:slv_x_preferred":[
+        "Vrh"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0440\u0445"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1209850143,
-    "wof:lastmodified":1537573529,
+    "wof:lastmodified":1564216139,
     "wof:name":"Vrh",
     "wof:parent_id":1108959683,
     "wof:placetype":"locality",

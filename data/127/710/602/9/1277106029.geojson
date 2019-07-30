@@ -25,11 +25,32 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ro\u017eenberk"
+    ],
     "name:deu_x_historical":[
         "Rosenberg"
     ],
     "name:deu_x_preferred":[
         "Rosenberg"
+    ],
+    "name:hrv_x_preferred":[
+        "Ro\u017eenberk"
+    ],
+    "name:nld_x_preferred":[
+        "Ro\u017eenberk"
+    ],
+    "name:pol_x_preferred":[
+        "Ro\u017eenberk"
+    ],
+    "name:ron_x_preferred":[
+        "Ro\u017eenberk"
+    ],
+    "name:slv_x_preferred":[
+        "Ro\u017eenberk"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0436\u0435\u043d\u0431\u0435\u0440\u043a"
     ],
     "name:und_x_variant":[
         "Ro\u017eenberk"
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1277106029,
-    "wof:lastmodified":1537700318,
+    "wof:lastmodified":1564216087,
     "wof:name":"Rozenberk",
     "wof:parent_id":1108959841,
     "wof:placetype":"locality",

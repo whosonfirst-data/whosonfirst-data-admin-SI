@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Pedrovo"
+    ],
+    "name:hun_x_preferred":[
+        "Pedrovo"
+    ],
+    "name:ita_x_preferred":[
+        "Pedrovo"
+    ],
+    "name:pol_x_preferred":[
+        "Pedrovo"
+    ],
+    "name:ron_x_preferred":[
+        "Pedrovo"
+    ],
+    "name:slv_x_preferred":[
+        "Pedrovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0434\u0440\u043e\u0432\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1309848321,
-    "wof:lastmodified":1537573457,
+    "wof:lastmodified":1564216600,
     "wof:name":"Pedrovo",
     "wof:parent_id":1108959487,
     "wof:placetype":"locality",

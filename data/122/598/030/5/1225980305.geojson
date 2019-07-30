@@ -25,6 +25,24 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Hohovica"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u043e\u0445\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Hohovica"
+    ],
+    "name:ron_x_preferred":[
+        "Hohovica"
+    ],
+    "name:slv_x_preferred":[
+        "Hohovica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u043e\u0445\u043e\u0432\u0438\u0446\u044f"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1225980305,
-    "wof:lastmodified":1537573527,
+    "wof:lastmodified":1564216945,
     "wof:name":"Hohovica",
     "wof:parent_id":1108959907,
     "wof:placetype":"locality",

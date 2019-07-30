@@ -25,6 +25,24 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Grajena"
+    ],
+    "name:ceb_x_preferred":[
+        "Grajena"
+    ],
+    "name:pol_x_preferred":[
+        "Grajena"
+    ],
+    "name:ron_x_preferred":[
+        "Grajena"
+    ],
+    "name:slv_x_preferred":[
+        "Grajena"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u0430\u0454\u043d\u0430"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1277016335,
-    "wof:lastmodified":1537573437,
+    "wof:lastmodified":1564215978,
     "wof:name":"Grajena",
     "wof:parent_id":1108959659,
     "wof:placetype":"locality",

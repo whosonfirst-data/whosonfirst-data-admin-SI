@@ -25,6 +25,15 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Brezje"
+    ],
+    "name:pol_x_preferred":[
+        "Brezje"
+    ],
+    "name:slv_x_preferred":[
+        "Brezje"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1243300065,
-    "wof:lastmodified":1537573531,
+    "wof:lastmodified":1564216671,
     "wof:name":"Brezje",
     "wof:parent_id":1108959927,
     "wof:placetype":"locality",

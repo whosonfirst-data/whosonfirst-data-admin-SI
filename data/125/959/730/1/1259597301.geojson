@@ -25,6 +25,33 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Place"
+    ],
+    "name:deu_x_preferred":[
+        "Place"
+    ],
+    "name:fra_x_preferred":[
+        "Place"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e7\u05d5\u05dd"
+    ],
+    "name:kor_x_preferred":[
+        "\ud50c\ub808\uc774\uc2a4"
+    ],
+    "name:nld_x_preferred":[
+        "Place"
+    ],
+    "name:por_x_preferred":[
+        "Place"
+    ],
+    "name:swe_x_preferred":[
+        "Place"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0441\u0446\u0435"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +76,7 @@
         }
     ],
     "wof:id":1259597301,
-    "wof:lastmodified":1536695004,
+    "wof:lastmodified":1564216845,
     "wof:name":"Place",
     "wof:parent_id":1108959545,
     "wof:placetype":"locality",

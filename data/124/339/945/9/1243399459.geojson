@@ -25,6 +25,21 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Komendska Dobrava"
+    ],
+    "name:pol_x_preferred":[
+        "Komendska Dobrava"
+    ],
+    "name:ron_x_preferred":[
+        "Komendska Dobrava"
+    ],
+    "name:slv_x_preferred":[
+        "Komendska Dobrava"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043c\u0435\u043d\u0434\u0441\u044c\u043a\u0430 \u0414\u043e\u0431\u0440\u0430\u0432\u0430"
+    ],
     "name:und_x_variant":[
         "Dobrava",
         "Komendska Dobrava",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1243399459,
-    "wof:lastmodified":1537700231,
+    "wof:lastmodified":1564216681,
     "wof:name":"Komendska Dobrava",
     "wof:parent_id":1108959837,
     "wof:placetype":"locality",

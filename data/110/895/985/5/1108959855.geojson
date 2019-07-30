@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006419,
+    "geom:area_square_m":54855562.052311,
     "geom:bbox":"14.9655872121,46.2268681337,15.0907902404,46.3338885964",
     "geom:latitude":46.282321,
     "geom:longitude":15.025453,
@@ -13,6 +14,60 @@
     "lbl:longitude":15.025457,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Braslov\u010de"
+    ],
+    "name:dan_x_preferred":[
+        "Braslov\u010de"
+    ],
+    "name:deu_x_preferred":[
+        "Braslov\u010de"
+    ],
+    "name:fra_x_preferred":[
+        "Braslov\u010de"
+    ],
+    "name:hrv_x_preferred":[
+        "Braslov\u010de"
+    ],
+    "name:hun_x_preferred":[
+        "Braslov\u010de"
+    ],
+    "name:ita_x_preferred":[
+        "Braslov\u010de"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30e9\u30b9\u30ed\u30d5\u30c1\u30a7"
+    ],
+    "name:kor_x_preferred":[
+        "\ube0c\ub77c\uc2ac\ub85c\ube0c\uccb4"
+    ],
+    "name:pol_x_preferred":[
+        "Braslov\u010de"
+    ],
+    "name:por_x_preferred":[
+        "Braslov\u010de"
+    ],
+    "name:ron_x_preferred":[
+        "Braslov\u010de"
+    ],
+    "name:slv_x_preferred":[
+        "Braslov\u010de"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0430\u0441\u043b\u043e\u0432\u0447\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Braslov\u010de"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0430\u0441\u043b\u043e\u0432\u0447\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0631\u0627\u0633\u0644\u0648\u0648\u0686\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Braslov\u010de"
+    ],
     "src:geom":"svn-sma",
     "src:lbl:centroid":"mapshaper",
     "svn-sma:d_od":"1998-11-22",
@@ -44,7 +99,7 @@
         }
     ],
     "wof:id":1108959855,
-    "wof:lastmodified":1531510236,
+    "wof:lastmodified":1564216370,
     "wof:name":"Braslov\u010de",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",

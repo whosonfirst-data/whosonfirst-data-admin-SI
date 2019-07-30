@@ -25,6 +25,24 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Poljane nad Blagovico"
+    ],
+    "name:nld_x_preferred":[
+        "Poljane nad Blagovico"
+    ],
+    "name:pol_x_preferred":[
+        "Poljane nad Blagovico"
+    ],
+    "name:ron_x_preferred":[
+        "Poljane nad Blagovico"
+    ],
+    "name:slv_x_preferred":[
+        "Poljane nad Blagovico"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043b\u044f\u043d\u0435-\u043d\u0430\u0434-\u0411\u043b\u0430\u0433\u043e\u0432\u0438\u0446\u043e"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1343497453,
-    "wof:lastmodified":1537573536,
+    "wof:lastmodified":1564215773,
     "wof:name":"Poljane nad Blagovico",
     "wof:parent_id":1108959807,
     "wof:placetype":"locality",

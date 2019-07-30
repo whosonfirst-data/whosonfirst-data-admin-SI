@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kal pri Dolah"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u043b \u043f\u0440\u0438 \u0414\u043e\u043b\u0430\u0445"
+    ],
+    "name:nld_x_preferred":[
+        "Kal pri Dolah"
+    ],
+    "name:pol_x_preferred":[
+        "Kal pri Dolah"
+    ],
+    "name:ron_x_preferred":[
+        "Kal pri Dolah"
+    ],
+    "name:slv_x_preferred":[
+        "Kal pri Dolah"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043b-\u043f\u0440\u0438-\u0414\u043e\u043b\u0430\u0445"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1326765111,
-    "wof:lastmodified":1537573514,
+    "wof:lastmodified":1564215661,
     "wof:name":"Kal pri Dolah",
     "wof:parent_id":1108959907,
     "wof:placetype":"locality",

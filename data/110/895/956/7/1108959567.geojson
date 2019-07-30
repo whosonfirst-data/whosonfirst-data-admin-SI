@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006857,
+    "geom:area_square_m":58007001.53583,
     "geom:bbox":"16.1751653199,46.7708817787,16.3129260181,46.8766275518",
     "geom:latitude":46.833293,
     "geom:longitude":16.261685,
@@ -13,6 +14,63 @@
     "lbl:longitude":16.268461,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "\u0160alovci"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0160alovci"
+    ],
+    "name:deu_x_preferred":[
+        "\u0160alovci"
+    ],
+    "name:epo_x_preferred":[
+        "\u0160alovci"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160alovci"
+    ],
+    "name:hrv_x_preferred":[
+        "\u0160alovci"
+    ],
+    "name:hun_x_preferred":[
+        "Sal"
+    ],
+    "name:ita_x_preferred":[
+        "\u0160alovci"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e3\u30ed\u30d5\u30c4\u30a3"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0ec\ub85c\ube0c\uce58"
+    ],
+    "name:nld_x_preferred":[
+        "\u0160alovci"
+    ],
+    "name:pol_x_preferred":[
+        "\u0160alovci"
+    ],
+    "name:por_x_preferred":[
+        "\u0160alovci"
+    ],
+    "name:ron_x_preferred":[
+        "\u0160alovci"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina \u0160alovci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0430\u043b\u043e\u0432\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0430\u043b\u043e\u0432\u0446\u0456"
+    ],
+    "name:vie_x_preferred":[
+        "\u0160alovci"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c99\u6d1b\u592b\u9f4a"
+    ],
     "src:geom":"svn-sma",
     "src:lbl:centroid":"mapshaper",
     "svn-sma:d_od":"1998-11-22",
@@ -44,7 +102,7 @@
         }
     ],
     "wof:id":1108959567,
-    "wof:lastmodified":1531510221,
+    "wof:lastmodified":1564216411,
     "wof:name":"\u0160alovci",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",

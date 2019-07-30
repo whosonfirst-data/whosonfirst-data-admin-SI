@@ -25,11 +25,32 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Brce"
+    ],
+    "name:hrv_x_preferred":[
+        "Brce"
+    ],
+    "name:nld_x_preferred":[
+        "Brce"
+    ],
+    "name:pol_x_preferred":[
+        "Brce"
+    ],
+    "name:ron_x_preferred":[
+        "Brce"
+    ],
     "name:slv_x_historical":[
         "Brdce"
     ],
     "name:slv_x_preferred":[
         "Brdce"
+    ],
+    "name:slv_x_variant":[
+        "Brce"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0446\u0435"
     ],
     "name:und_x_variant":[
         "Berze di Torrenova",
@@ -60,7 +81,7 @@
         }
     ],
     "wof:id":1243492935,
-    "wof:lastmodified":1537700263,
+    "wof:lastmodified":1564216716,
     "wof:name":"Brce",
     "wof:parent_id":1108959873,
     "wof:placetype":"locality",

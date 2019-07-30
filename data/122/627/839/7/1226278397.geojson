@@ -25,6 +25,15 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kuhlarji"
+    ],
+    "name:pol_x_preferred":[
+        "Kuhlarji"
+    ],
+    "name:slv_x_preferred":[
+        "Kuhlarji"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1226278397,
-    "wof:lastmodified":1537573542,
+    "wof:lastmodified":1564216898,
     "wof:name":"Kuhlarji",
     "wof:parent_id":1108959919,
     "wof:placetype":"locality",

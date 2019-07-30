@@ -25,6 +25,24 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ostrog"
+    ],
+    "name:ceb_x_preferred":[
+        "Ostrog"
+    ],
+    "name:hrv_x_preferred":[
+        "Ostrog"
+    ],
+    "name:pol_x_preferred":[
+        "Ostrog"
+    ],
+    "name:ron_x_preferred":[
+        "Ostrog"
+    ],
+    "name:slv_x_preferred":[
+        "Ostrog"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1210050501,
-    "wof:lastmodified":1537573476,
+    "wof:lastmodified":1564216234,
     "wof:name":"Ostrog",
     "wof:parent_id":1108959937,
     "wof:placetype":"locality",

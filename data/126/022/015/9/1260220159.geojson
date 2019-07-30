@@ -25,6 +25,24 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Klanec"
+    ],
+    "name:ceb_x_preferred":[
+        "Klanec"
+    ],
+    "name:pol_x_preferred":[
+        "Klanec"
+    ],
+    "name:ron_x_preferred":[
+        "Klanec"
+    ],
+    "name:slv_x_preferred":[
+        "Klanec"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043b\u0430\u043d\u0435\u0446\u044c"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1260220159,
-    "wof:lastmodified":1537573467,
+    "wof:lastmodified":1564216269,
     "wof:name":"Klanec",
     "wof:parent_id":1108959837,
     "wof:placetype":"locality",

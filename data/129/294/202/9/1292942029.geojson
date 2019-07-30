@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gorenja Lepa vas"
+    ],
+    "name:hrv_x_preferred":[
+        "Gorenja Lepa vas"
+    ],
+    "name:nld_x_preferred":[
+        "Gorenja Lepa vas"
+    ],
+    "name:pol_x_preferred":[
+        "Gorenja Lepa vas"
+    ],
+    "name:ron_x_preferred":[
+        "Gorenja Lepa vas"
+    ],
+    "name:slv_x_preferred":[
+        "Gorenja Lepa vas"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u0435\u043d\u044f \u041b\u0435\u043f\u0430 \u0412\u0430\u0441"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1292942029,
-    "wof:lastmodified":1537573440,
+    "wof:lastmodified":1564215873,
     "wof:name":"Gorenja Lepa Vas",
     "wof:parent_id":1108959473,
     "wof:placetype":"locality",

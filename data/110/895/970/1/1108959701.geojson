@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019099,
+    "geom:area_square_m":163403384.226432,
     "geom:bbox":"13.9855487087,46.1535301594,14.2475981411,46.2829360362",
     "geom:latitude":46.218691,
     "geom:longitude":14.110321,
@@ -13,6 +14,33 @@
     "lbl:longitude":14.141035,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "\u017delezniki"
+    ],
+    "name:ceb_x_preferred":[
+        "\u017delezniki"
+    ],
+    "name:hrv_x_preferred":[
+        "\u017delezniki"
+    ],
+    "name:nld_x_preferred":[
+        "\u017delezniki"
+    ],
+    "name:pol_x_preferred":[
+        "\u017delezniki"
+    ],
+    "name:ron_x_preferred":[
+        "\u017delezniki"
+    ],
+    "name:slv_x_preferred":[
+        "\u017delezniki"
+    ],
+    "name:srp_x_preferred":[
+        "\u0416\u0435\u043b\u0435\u0437\u043d\u0438\u043a\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0435\u043b\u0435\u0437\u043d\u0438\u043a\u0438"
+    ],
     "src:geom":"svn-sma",
     "src:lbl:centroid":"mapshaper",
     "svn-sma:d_od":"1995-01-01",
@@ -44,7 +72,7 @@
         }
     ],
     "wof:id":1108959701,
-    "wof:lastmodified":1531510228,
+    "wof:lastmodified":1564216354,
     "wof:name":"\u017delezniki",
     "wof:parent_id":1108959967,
     "wof:placetype":"localadmin",

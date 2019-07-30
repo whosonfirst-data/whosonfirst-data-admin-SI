@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kvasica"
+    ],
+    "name:hrv_x_preferred":[
+        "Kvasica"
+    ],
+    "name:nld_x_preferred":[
+        "Kvasica"
+    ],
+    "name:pol_x_preferred":[
+        "Kvasica"
+    ],
+    "name:ron_x_preferred":[
+        "Kvasica"
+    ],
+    "name:slv_x_preferred":[
+        "Kvasica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0432\u0430\u0441\u0438\u0446\u044f"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1259754649,
-    "wof:lastmodified":1537573427,
+    "wof:lastmodified":1564216868,
     "wof:name":"Kvasica",
     "wof:parent_id":1108959699,
     "wof:placetype":"locality",

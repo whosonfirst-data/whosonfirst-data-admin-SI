@@ -25,6 +25,21 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Josipdol"
+    ],
+    "name:pol_x_preferred":[
+        "Josipdol"
+    ],
+    "name:ron_x_preferred":[
+        "Josipdol"
+    ],
+    "name:slv_x_preferred":[
+        "Josipdol"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0419\u043e\u0441\u0438\u043f\u0434\u043e\u043b"
+    ],
     "name:und_x_variant":[
         "Jozefdol",
         "Josipdol"
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1243590673,
-    "wof:lastmodified":1537700235,
+    "wof:lastmodified":1564216723,
     "wof:name":"Josipdol",
     "wof:parent_id":1108959769,
     "wof:placetype":"locality",

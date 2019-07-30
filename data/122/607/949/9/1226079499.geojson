@@ -25,6 +25,21 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vir pri Nevljah"
+    ],
+    "name:pol_x_preferred":[
+        "Vir pri Nevljah"
+    ],
+    "name:ron_x_preferred":[
+        "Vir pri Nevljah"
+    ],
+    "name:slv_x_preferred":[
+        "Vir pri Nevljah"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u0440-\u043f\u0440\u0438-\u041d\u0435\u0432\u043b\u044f\u0445"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1226079499,
-    "wof:lastmodified":1537573524,
+    "wof:lastmodified":1564216997,
     "wof:name":"Vir pri Nevljah",
     "wof:parent_id":1108959941,
     "wof:placetype":"locality",

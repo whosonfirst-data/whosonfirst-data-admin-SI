@@ -25,6 +25,21 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nld_x_preferred":[
+        "Podkraj pri Zagorju"
+    ],
+    "name:pol_x_preferred":[
+        "Podkraj pri Zagorju"
+    ],
+    "name:ron_x_preferred":[
+        "Podkraj pri Zagorju"
+    ],
+    "name:slv_x_preferred":[
+        "Podkraj pri Zagorju"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0434\u043a\u0440\u0430\u0439-\u043f\u0440\u0438-\u0417\u0430\u0433\u043e\u0440\u044e"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1276260133,
-    "wof:lastmodified":1537573546,
+    "wof:lastmodified":1564215988,
     "wof:name":"Podkraj pri Zagorju",
     "wof:parent_id":1108959683,
     "wof:placetype":"locality",

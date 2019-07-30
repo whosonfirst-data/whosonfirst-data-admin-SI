@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Svetelka"
+    ],
+    "name:ceb_x_preferred":[
+        "Svetelka"
+    ],
+    "name:hrv_x_preferred":[
+        "Svetelka"
+    ],
+    "name:nld_x_preferred":[
+        "Svetelka"
+    ],
+    "name:pol_x_preferred":[
+        "Svetelka"
+    ],
+    "name:ron_x_preferred":[
+        "Svetelka"
+    ],
+    "name:slv_x_preferred":[
+        "Svetelka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0435\u043b\u043a\u0430"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +74,7 @@
         }
     ],
     "wof:id":1243002045,
-    "wof:lastmodified":1537573470,
+    "wof:lastmodified":1564216658,
     "wof:name":"Svetelka",
     "wof:parent_id":1108959791,
     "wof:placetype":"locality",

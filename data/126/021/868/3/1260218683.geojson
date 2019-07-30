@@ -25,6 +25,21 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Mestni Vrh"
+    ],
+    "name:ceb_x_preferred":[
+        "Mestni Vrh"
+    ],
+    "name:pol_x_preferred":[
+        "Mestni Vrh"
+    ],
+    "name:slv_x_preferred":[
+        "Mestni Vrh"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0441\u0442\u043d\u0438\u0439 \u0412\u0440\u0445"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1260218683,
-    "wof:lastmodified":1537573461,
+    "wof:lastmodified":1564216302,
     "wof:name":"Mestni Vrh",
     "wof:parent_id":1108959659,
     "wof:placetype":"locality",

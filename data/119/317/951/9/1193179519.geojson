@@ -25,11 +25,23 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Dragovica"
+    ],
+    "name:ita_x_preferred":[
+        "Dragovizza"
+    ],
+    "name:pol_x_preferred":[
+        "Dragovica"
+    ],
     "name:slv_x_historical":[
         "Dragovce"
     ],
     "name:slv_x_preferred":[
         "Dragovce"
+    ],
+    "name:slv_x_variant":[
+        "Dragovica"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1193179519,
-    "wof:lastmodified":1537700305,
+    "wof:lastmodified":1564216261,
     "wof:name":"Dragovica",
     "wof:parent_id":1108959487,
     "wof:placetype":"locality",

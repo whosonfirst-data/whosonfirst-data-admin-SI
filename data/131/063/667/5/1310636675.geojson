@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Prvenci"
+    ],
+    "name:ceb_x_preferred":[
+        "Prvenci"
+    ],
+    "name:nld_x_preferred":[
+        "Prvenci"
+    ],
+    "name:pol_x_preferred":[
+        "Prvenci"
+    ],
+    "name:ron_x_preferred":[
+        "Prvenci"
+    ],
+    "name:slv_x_preferred":[
+        "Prvenci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0432\u0435\u043d\u0446\u0456"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1310636675,
-    "wof:lastmodified":1537573471,
+    "wof:lastmodified":1564216492,
     "wof:name":"Prvenci",
     "wof:parent_id":1108959779,
     "wof:placetype":"locality",

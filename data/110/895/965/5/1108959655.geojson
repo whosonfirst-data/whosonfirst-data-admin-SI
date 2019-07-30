@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004731,
+    "geom:area_square_m":40044868.830363,
     "geom:bbox":"15.9852994576,46.7540066747,16.0645932032,46.8410982344",
     "geom:latitude":46.79954,
     "geom:longitude":16.025964,
@@ -13,6 +14,66 @@
     "lbl:longitude":16.025199,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ob\u010dina Roga\u0161ovci"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u010dina Roga\u0161ovci"
+    ],
+    "name:deu_x_preferred":[
+        "Roga\u0161ovci"
+    ],
+    "name:epo_x_preferred":[
+        "Ob\u010dina Roga\u0161ovci"
+    ],
+    "name:fra_x_preferred":[
+        "Roga\u0161ovci"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Roga\u0161ovci"
+    ],
+    "name:hun_x_preferred":[
+        "Szarvaslak"
+    ],
+    "name:ind_x_preferred":[
+        "Munisipalitas Roga\u0161ovci"
+    ],
+    "name:ita_x_preferred":[
+        "Roga\u0161ovci"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30ac\u30b7\u30e7\u30d5\u30c4\u30a3"
+    ],
+    "name:kor_x_preferred":[
+        "\ub85c\uac00\uc1fc\ube0c\uce58"
+    ],
+    "name:nld_x_preferred":[
+        "Roga\u0161ovci"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Roga\u0161ovci"
+    ],
+    "name:por_x_preferred":[
+        "Roga\u0161ovci"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Roga\u0161ovci"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Roga\u0161ovci"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0420\u043e\u0433\u0430\u0448\u043e\u0432\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0433\u0430\u0448\u043e\u0432\u0446\u0456"
+    ],
+    "name:vie_x_preferred":[
+        "Roga\u0161ovci"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f85\u52a0\u820d\u592b\u9f4a"
+    ],
     "src:geom":"svn-sma",
     "src:lbl:centroid":"mapshaper",
     "svn-sma:d_od":"1998-11-22",
@@ -44,7 +105,7 @@
         }
     ],
     "wof:id":1108959655,
-    "wof:lastmodified":1531510225,
+    "wof:lastmodified":1564216325,
     "wof:name":"Roga\u0161ovci",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",

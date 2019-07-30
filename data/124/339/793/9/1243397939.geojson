@@ -25,6 +25,24 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Brezovec pri Rogatcu"
+    ],
+    "name:nld_x_preferred":[
+        "Brezovec pri Rogatcu"
+    ],
+    "name:pol_x_preferred":[
+        "Brezovec pri Rogatcu"
+    ],
+    "name:ron_x_preferred":[
+        "Brezovec pri Rogatcu"
+    ],
+    "name:slv_x_preferred":[
+        "Brezovec pri Rogatcu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0435\u0437\u043e\u0432\u0435\u0446\u044c-\u043f\u0440\u0438-\u0420\u043e\u0433\u0430\u0442\u0446\u0443"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1243397939,
-    "wof:lastmodified":1537573510,
+    "wof:lastmodified":1564216678,
     "wof:name":"Brezovec pri Rogatcu",
     "wof:parent_id":1108959609,
     "wof:placetype":"locality",

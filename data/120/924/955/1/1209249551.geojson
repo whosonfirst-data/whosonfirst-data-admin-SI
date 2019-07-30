@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Prevole"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0440\u0435\u0432\u043e\u043b\u0435"
+    ],
+    "name:hrv_x_preferred":[
+        "Prevole"
+    ],
+    "name:nld_x_preferred":[
+        "Prevole"
+    ],
+    "name:pol_x_preferred":[
+        "Prevole"
+    ],
+    "name:ron_x_preferred":[
+        "Prevole"
+    ],
+    "name:slv_x_preferred":[
+        "Prevole"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0435\u0432\u043e\u043b\u0435"
+    ],
     "name:und_x_variant":[
         "Prevale",
         "Prevole"
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1209249551,
-    "wof:lastmodified":1537700272,
+    "wof:lastmodified":1564216133,
     "wof:name":"Prevole",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

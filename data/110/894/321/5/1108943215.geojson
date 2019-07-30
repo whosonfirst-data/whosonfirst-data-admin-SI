@@ -21,13 +21,43 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
+    "name:bos_x_preferred":[
+        "Poljane"
+    ],
+    "name:ceb_x_preferred":[
+        "Poljane"
+    ],
+    "name:fra_x_preferred":[
+        "Poljane"
+    ],
+    "name:hrv_x_preferred":[
+        "Poljane"
+    ],
+    "name:hun_x_preferred":[
+        "Poljane"
+    ],
+    "name:nld_x_preferred":[
+        "Poljane"
+    ],
+    "name:sco_x_preferred":[
+        "Poljane"
+    ],
+    "name:slv_x_preferred":[
+        "Poljane"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0459\u0430\u043d\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Poljane"
+    ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        1108959949,
         102191581,
         1108959501,
         85633779,
-        101752073
+        101752073,
+        1108959949
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -45,7 +75,7 @@
         }
     ],
     "wof:id":1108943215,
-    "wof:lastmodified":1531170284,
+    "wof:lastmodified":1564216453,
     "wof:name":"Poljane",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",

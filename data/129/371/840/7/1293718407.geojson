@@ -25,6 +25,24 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Korplje"
+    ],
+    "name:nld_x_preferred":[
+        "Korplje"
+    ],
+    "name:pol_x_preferred":[
+        "Korplje"
+    ],
+    "name:ron_x_preferred":[
+        "Korplje"
+    ],
+    "name:slv_x_preferred":[
+        "Korplje"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0440\u043f\u043b\u0454"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1293718407,
-    "wof:lastmodified":1537573512,
+    "wof:lastmodified":1564215896,
     "wof:name":"Korplje",
     "wof:parent_id":1108959641,
     "wof:placetype":"locality",

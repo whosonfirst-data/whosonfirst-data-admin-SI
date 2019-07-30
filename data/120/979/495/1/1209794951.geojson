@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Zibovnik"
+    ],
+    "name:hrv_x_preferred":[
+        "Zibovnik"
+    ],
+    "name:nld_x_preferred":[
+        "Zibovnik"
+    ],
+    "name:pol_x_preferred":[
+        "Zibovnik"
+    ],
+    "name:ron_x_preferred":[
+        "Zibovnik"
+    ],
+    "name:slv_x_preferred":[
+        "Zibovnik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0438\u0431\u043e\u0432\u043d\u0438\u043a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1209794951,
-    "wof:lastmodified":1537573556,
+    "wof:lastmodified":1564216131,
     "wof:name":"Zibovnik",
     "wof:parent_id":1108959905,
     "wof:placetype":"locality",

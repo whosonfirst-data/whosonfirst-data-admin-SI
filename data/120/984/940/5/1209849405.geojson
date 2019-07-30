@@ -25,6 +25,33 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Fara"
+    ],
+    "name:hrv_x_preferred":[
+        "Fara"
+    ],
+    "name:nld_x_preferred":[
+        "Fara"
+    ],
+    "name:pol_x_preferred":[
+        "Fara"
+    ],
+    "name:ron_x_preferred":[
+        "Fara"
+    ],
+    "name:sco_x_preferred":[
+        "Fara"
+    ],
+    "name:slv_x_preferred":[
+        "Fara"
+    ],
+    "name:srp_x_preferred":[
+        "\u0424\u0430\u0440\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0430\u0440\u0430"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +77,7 @@
         }
     ],
     "wof:id":1209849405,
-    "wof:lastmodified":1537573442,
+    "wof:lastmodified":1564216127,
     "wof:name":"Fara",
     "wof:parent_id":1108959711,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Zalog pod Sveto Trojico"
+    ],
+    "name:nld_x_preferred":[
+        "Zalog pod Sv. Trojico"
+    ],
+    "name:pol_x_preferred":[
+        "Zalog pod Sveto Trojico"
+    ],
+    "name:ron_x_preferred":[
+        "Zalog pod Sveto Trojico"
+    ],
+    "name:slv_x_preferred":[
+        "Zalog pod Sveto Trojico"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u043b\u043e\u0433-\u043f\u043e\u0434-\u0421\u0432\u0435\u0442\u043e \u0422\u0440\u043e\u0457\u0446\u043e"
+    ],
     "name:und_x_variant":[
         "Zalog Pod Sv. Trojico"
     ],
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1343497749,
-    "wof:lastmodified":1537700294,
+    "wof:lastmodified":1564215772,
     "wof:name":"Zalog pod Sv. Trojico",
     "wof:parent_id":1108959799,
     "wof:placetype":"locality",

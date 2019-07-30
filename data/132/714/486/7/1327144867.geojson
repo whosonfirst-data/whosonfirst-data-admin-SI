@@ -24,6 +24,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Mala sela"
+    ],
+    "name:hrv_x_preferred":[
+        "Mala sela"
+    ],
+    "name:nld_x_preferred":[
+        "Mala sela"
+    ],
+    "name:pol_x_preferred":[
+        "Mala sela"
+    ],
+    "name:ron_x_preferred":[
+        "Mala Sela"
+    ],
+    "name:slv_x_preferred":[
+        "Mala sela"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043b\u0430 \u0421\u0435\u043b\u0430"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1327144867,
-    "wof:lastmodified":1537573556,
+    "wof:lastmodified":1564215644,
     "wof:name":"Mala Sela",
     "wof:parent_id":1108959699,
     "wof:placetype":"locality",

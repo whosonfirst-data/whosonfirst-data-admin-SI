@@ -21,13 +21,61 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":12.0,
     "mz:tier_metro":30,
+    "name:bel_x_preferred":[
+        "\u0420\u0443\u0434\u043d\u0456\u043a"
+    ],
+    "name:bos_x_preferred":[
+        "Rudnik"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0443\u0434\u043d\u0438\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "Rudnik"
+    ],
+    "name:deu_x_preferred":[
+        "Rudnik"
+    ],
+    "name:fra_x_preferred":[
+        "Rudnik"
+    ],
+    "name:hrv_x_preferred":[
+        "Rudnik"
+    ],
+    "name:ita_x_preferred":[
+        "Rudnik"
+    ],
+    "name:nld_x_preferred":[
+        "Rudnik"
+    ],
+    "name:pol_x_preferred":[
+        "Rudnik"
+    ],
+    "name:ron_x_preferred":[
+        "Rudnik"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0434\u043d\u0438\u043a"
+    ],
+    "name:slv_x_preferred":[
+        "Rudnik"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0443\u0434\u043d\u0438\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Rudnik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0443\u0434\u043d\u0438\u043a"
+    ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        1108959949,
         102191581,
         1108959501,
         85633779,
-        101752073
+        101752073,
+        1108959949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +96,7 @@
         }
     ],
     "wof:id":1108943175,
-    "wof:lastmodified":1531170293,
+    "wof:lastmodified":1564216451,
     "wof:name":"Rudnik",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",

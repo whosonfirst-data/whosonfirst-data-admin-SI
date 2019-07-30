@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000071,
-    "geom:area_square_m":608488.064012,
+    "geom:area_square_m":608488.064013,
     "geom:bbox":"15.4414214633,46.3789326205,15.4566965073,46.3930601453",
     "geom:latitude":46.386006,
     "geom:longitude":15.447453,
@@ -17,8 +17,29 @@
     "mps:longitude":15.447454,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Oplotnica"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u010dina Oplotnica"
+    ],
+    "name:deu_x_preferred":[
+        "Oplotnica"
+    ],
     "name:eng_x_preferred":[
         "Oplotnica"
+    ],
+    "name:epo_x_preferred":[
+        "Ob\u010dina Oplotnica"
+    ],
+    "name:fra_x_preferred":[
+        "Oplotnica"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Oplotnica"
+    ],
+    "name:ind_x_preferred":[
+        "Munisipalitas Oplotnica"
     ],
     "name:ita_x_preferred":[
         "Oplotnica"
@@ -26,17 +47,44 @@
     "name:jpn_x_preferred":[
         "\u30aa\u30d7\u30ed\u30c8\u30cb\u30c4\u30a1"
     ],
+    "name:kor_x_preferred":[
+        "\uc624\ud50c\ub85c\ud2b8\ub2c8\ucc28"
+    ],
     "name:nld_x_preferred":[
+        "Oplotnica"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Oplotnica"
+    ],
+    "name:por_x_preferred":[
         "Oplotnica"
     ],
     "name:ron_x_preferred":[
         "Oplotnica"
     ],
+    "name:ron_x_variant":[
+        "Comuna Oplotnica"
+    ],
     "name:slv_x_preferred":[
         "Ob\u010dina Oplotnica"
     ],
+    "name:slv_x_variant":[
+        "Oplotnica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041e\u043f\u043b\u043e\u0442\u043d\u0438\u0446\u0430"
+    ],
     "name:swe_x_preferred":[
         "Oplotnica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u043f\u043b\u043e\u0442\u043d\u0438\u0446\u044f"
+    ],
+    "name:vie_x_preferred":[
+        "Oplotnica"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u666e\u6d1b\u7279\u5c3c\u5bdf"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -81,7 +129,7 @@
         }
     ],
     "wof:id":101845291,
-    "wof:lastmodified":1531170953,
+    "wof:lastmodified":1564216589,
     "wof:name":"Oplotnica",
     "wof:parent_id":1108959737,
     "wof:placetype":"locality",

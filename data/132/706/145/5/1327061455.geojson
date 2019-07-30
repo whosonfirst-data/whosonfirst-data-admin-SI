@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Razori"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u0437\u043e\u0440\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Razori"
+    ],
+    "name:nld_x_preferred":[
+        "Razori"
+    ],
+    "name:pol_x_preferred":[
+        "Razori"
+    ],
+    "name:ron_x_preferred":[
+        "Razori"
+    ],
+    "name:slv_x_preferred":[
+        "Razori"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0437\u043e\u0440\u0456"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +74,7 @@
         }
     ],
     "wof:id":1327061455,
-    "wof:lastmodified":1537573490,
+    "wof:lastmodified":1564215585,
     "wof:name":"Razori",
     "wof:parent_id":1108959847,
     "wof:placetype":"locality",

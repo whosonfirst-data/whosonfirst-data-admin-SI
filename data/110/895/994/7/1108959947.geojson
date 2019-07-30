@@ -21,8 +21,32 @@
     "mz:hierarchy_label":0,
     "mz:is_current":1,
     "mz:note":"statistical region, no administrative function",
+    "name:arg_x_preferred":[
+        "Gori\u0161ka"
+    ],
+    "name:cat_x_preferred":[
+        "Gori\u0161ka"
+    ],
+    "name:deu_x_preferred":[
+        "Gori\u0161ka"
+    ],
     "name:eng_x_preferred":[
         "Goriska"
+    ],
+    "name:fra_x_preferred":[
+        "Gori\u0161ka"
+    ],
+    "name:glg_x_preferred":[
+        "Gori\u0161ka"
+    ],
+    "name:lit_x_preferred":[
+        "Gori\u0161ka"
+    ],
+    "name:nno_x_preferred":[
+        "Gori\u0161ka"
+    ],
+    "name:pol_x_preferred":[
+        "Gori\u0161ka"
     ],
     "src:geom":"svn-sma",
     "src:lbl:centroid":"mapshaper",
@@ -70,7 +94,7 @@
         }
     ],
     "wof:id":1108959947,
-    "wof:lastmodified":1553551432,
+    "wof:lastmodified":1564216408,
     "wof:name":"Gori\u0161ka",
     "wof:parent_id":85633779,
     "wof:placetype":"region",

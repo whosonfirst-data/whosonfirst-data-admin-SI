@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017762,
+    "geom:area_square_m":153305891.915329,
     "geom:bbox":"14.5831891178,45.6363006708,14.8192056697,45.8209946038",
     "geom:latitude":45.732663,
     "geom:longitude":14.717992,
@@ -13,6 +14,57 @@
     "lbl:longitude":14.719798,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Ribnica"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0438\u0431\u043d\u0438\u0446\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Ribnica"
+    ],
+    "name:deu_x_preferred":[
+        "Ribnica"
+    ],
+    "name:fra_x_preferred":[
+        "Ribnica"
+    ],
+    "name:hrv_x_preferred":[
+        "Ribnica"
+    ],
+    "name:hun_x_preferred":[
+        "Ribnica"
+    ],
+    "name:lit_x_preferred":[
+        "Ribnica"
+    ],
+    "name:nld_x_preferred":[
+        "Ribnica"
+    ],
+    "name:pol_x_preferred":[
+        "Ribnica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u0431\u043d\u0438\u0446\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Ribnica"
+    ],
+    "name:slv_x_preferred":[
+        "Ribnica"
+    ],
+    "name:spa_x_preferred":[
+        "Ribnica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0438\u0431\u043d\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Ribnica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0438\u0431\u043d\u0438\u0446\u044f"
+    ],
     "src:geom":"svn-sma",
     "src:lbl:centroid":"mapshaper",
     "svn-sma:d_od":"1995-01-01",
@@ -44,7 +96,7 @@
         }
     ],
     "wof:id":1108959599,
-    "wof:lastmodified":1531510223,
+    "wof:lastmodified":1564216395,
     "wof:name":"Ribnica",
     "wof:parent_id":1108959943,
     "wof:placetype":"localadmin",

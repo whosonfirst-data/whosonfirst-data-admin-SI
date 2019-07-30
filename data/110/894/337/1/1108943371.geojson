@@ -21,16 +21,43 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_metro":30,
+    "name:bos_x_preferred":[
+        "Glinica"
+    ],
+    "name:ceb_x_preferred":[
+        "Glinica"
+    ],
+    "name:deu_x_preferred":[
+        "Glinica"
+    ],
     "name:eng_x_variant":[
         "Glince"
     ],
+    "name:fra_x_preferred":[
+        "Glinica"
+    ],
+    "name:hrv_x_preferred":[
+        "Glinica"
+    ],
+    "name:pol_x_preferred":[
+        "Glinica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043b\u0438\u043d\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Glinica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0490\u043b\u0456\u043d\u0438\u0446\u044f"
+    ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        1108959949,
         102191581,
         1108959501,
         85633779,
-        101752073
+        101752073,
+        1108959949
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1108943371,
-    "wof:lastmodified":1531170292,
+    "wof:lastmodified":1564216438,
     "wof:name":"Glinica",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",

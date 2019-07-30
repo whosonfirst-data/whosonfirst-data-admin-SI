@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u010canje"
+    ],
+    "name:ceb_x_preferred":[
+        "\u010canje"
+    ],
+    "name:nld_x_preferred":[
+        "\u010canje"
+    ],
+    "name:pol_x_preferred":[
+        "\u010canje"
+    ],
+    "name:ron_x_preferred":[
+        "\u010canje"
+    ],
+    "name:slv_x_preferred":[
+        "\u010canje"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0430\u043d\u0454"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1209945525,
-    "wof:lastmodified":1537573456,
+    "wof:lastmodified":1564216184,
     "wof:name":"Canje",
     "wof:parent_id":1108959927,
     "wof:placetype":"locality",

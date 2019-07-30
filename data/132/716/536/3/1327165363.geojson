@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Podstene pri Kostelu"
+    ],
+    "name:hrv_x_preferred":[
+        "Podstene pri Kostelu"
+    ],
+    "name:nld_x_preferred":[
+        "Podstene pri Kostelu"
+    ],
+    "name:pol_x_preferred":[
+        "Podstene pri Kostelu"
+    ],
+    "name:ron_x_preferred":[
+        "Podstene pri Kostelu"
+    ],
+    "name:sco_x_preferred":[
+        "Podstene pri Kostelu"
+    ],
+    "name:slv_x_preferred":[
+        "Podstene pri Kostelu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0434\u0441\u0442\u0435\u043d\u0435-\u043f\u0440\u0438-\u041a\u043e\u0441\u0442\u0435\u043b\u0443"
+    ],
     "name:und_x_variant":[
         "Podstene",
         "Podstene pri Kostelu"
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1327165363,
-    "wof:lastmodified":1537700207,
+    "wof:lastmodified":1564215707,
     "wof:name":"Podstene pri Kostelu",
     "wof:parent_id":1108959711,
     "wof:placetype":"locality",

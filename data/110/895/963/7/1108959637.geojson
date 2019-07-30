@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002136,
+    "geom:area_square_m":18072212.378484,
     "geom:bbox":"16.2906759909,46.7969395867,16.350752617,46.8664131331",
     "geom:latitude":46.828045,
     "geom:longitude":16.320647,
@@ -13,6 +14,66 @@
     "lbl:longitude":16.326108,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Hodo\u0161"
+    ],
+    "name:ceb_x_preferred":[
+        "Hodo\u0161"
+    ],
+    "name:ces_x_preferred":[
+        "Hodo\u0161"
+    ],
+    "name:deu_x_preferred":[
+        "Hodo\u0161"
+    ],
+    "name:epo_x_preferred":[
+        "Hodo\u0161"
+    ],
+    "name:fra_x_preferred":[
+        "Hodos"
+    ],
+    "name:hrv_x_preferred":[
+        "Hodo\u0161"
+    ],
+    "name:hun_x_preferred":[
+        "\u0150rihodos"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30c9\u30b7\u30e5"
+    ],
+    "name:kor_x_preferred":[
+        "\ud638\ub3c4\uc2dc"
+    ],
+    "name:lit_x_preferred":[
+        "Hodo\u0161as"
+    ],
+    "name:pol_x_preferred":[
+        "Hodo\u0161"
+    ],
+    "name:por_x_preferred":[
+        "Hodo\u0161"
+    ],
+    "name:ron_x_preferred":[
+        "Hodo\u0161"
+    ],
+    "name:slv_x_preferred":[
+        "Hodo\u0161"
+    ],
+    "name:spa_x_preferred":[
+        "Hodo\u0161"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0434\u043e\u0448"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u043e\u0434\u043e\u0448"
+    ],
+    "name:vie_x_preferred":[
+        "Hodo\u0161"
+    ],
+    "name:zho_x_preferred":[
+        "\u970d\u591a\u4ec0"
+    ],
     "src:geom":"svn-sma",
     "src:lbl:centroid":"mapshaper",
     "svn-sma:d_od":"1998-11-22",
@@ -44,7 +105,7 @@
         }
     ],
     "wof:id":1108959637,
-    "wof:lastmodified":1531510224,
+    "wof:lastmodified":1564216331,
     "wof:name":"Hodo\u0161",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",

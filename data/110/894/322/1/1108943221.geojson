@@ -21,13 +21,55 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
+    "name:bos_x_preferred":[
+        "Podgora"
+    ],
+    "name:ceb_x_preferred":[
+        "Podgora"
+    ],
+    "name:deu_x_preferred":[
+        "Podgora"
+    ],
+    "name:fra_x_preferred":[
+        "Podgora"
+    ],
+    "name:hrv_x_preferred":[
+        "Podgora"
+    ],
+    "name:hun_x_preferred":[
+        "Podgora"
+    ],
+    "name:ita_x_preferred":[
+        "Podgora"
+    ],
+    "name:nld_x_preferred":[
+        "Podgora"
+    ],
+    "name:pol_x_preferred":[
+        "Podg\u00f3ra"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0434\u0433\u043e\u0440\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Podgora"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0434\u0433\u043e\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Podgora"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0434\u0433\u043e\u0440\u0430"
+    ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        1108959949,
         102191581,
         1108959501,
         85633779,
-        101752073
+        101752073,
+        1108959949
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -45,7 +87,7 @@
         }
     ],
     "wof:id":1108943221,
-    "wof:lastmodified":1531170284,
+    "wof:lastmodified":1564216441,
     "wof:name":"Podgora",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",

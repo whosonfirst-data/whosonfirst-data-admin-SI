@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Serdica"
+    ],
+    "name:ceb_x_preferred":[
+        "Serdica"
+    ],
+    "name:epo_x_preferred":[
+        "Serdica"
+    ],
+    "name:hun_x_preferred":[
+        "Seregh\u00e1za"
+    ],
+    "name:pol_x_preferred":[
+        "Serdica"
+    ],
+    "name:ron_x_preferred":[
+        "Serdica"
+    ],
+    "name:slv_x_preferred":[
+        "Serdica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u0440\u0434\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Hegyszoros",
         "Seregh\u00e1za",
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1293423971,
-    "wof:lastmodified":1537700194,
+    "wof:lastmodified":1564215944,
     "wof:name":"Serdica",
     "wof:parent_id":1108959655,
     "wof:placetype":"locality",

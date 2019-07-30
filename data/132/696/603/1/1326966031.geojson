@@ -25,6 +25,24 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Katarija"
+    ],
+    "name:nld_x_preferred":[
+        "Katarija"
+    ],
+    "name:pol_x_preferred":[
+        "Katarija"
+    ],
+    "name:ron_x_preferred":[
+        "Katarija"
+    ],
+    "name:slv_x_preferred":[
+        "Katarija"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0442\u0430\u0440\u0456\u044f"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1326966031,
-    "wof:lastmodified":1537573515,
+    "wof:lastmodified":1564215682,
     "wof:name":"Katarija",
     "wof:parent_id":1108959515,
     "wof:placetype":"locality",

@@ -25,9 +25,39 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Tru\u0161ke"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0440\u0443\u0448\u043a\u0435"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u0648\u0634\u06a9\u0647"
+    ],
+    "name:ita_x_preferred":[
+        "Truscolo"
+    ],
+    "name:nld_x_preferred":[
+        "Tru\u0161ke"
+    ],
+    "name:pol_x_preferred":[
+        "Tru\u0161ke"
+    ],
+    "name:ron_x_preferred":[
+        "Tru\u0161ke"
+    ],
+    "name:slv_x_preferred":[
+        "Tru\u0161ke"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0440\u0443\u0448\u043a\u0435"
+    ],
     "name:und_x_variant":[
         "Truscolo",
         "Tru\u0161ke"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0631\u0648\u0634\u06a9\u06d2"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -54,7 +84,7 @@
         }
     ],
     "wof:id":1343989151,
-    "wof:lastmodified":1537700180,
+    "wof:lastmodified":1564215717,
     "wof:name":"Truske",
     "wof:parent_id":1108959527,
     "wof:placetype":"locality",

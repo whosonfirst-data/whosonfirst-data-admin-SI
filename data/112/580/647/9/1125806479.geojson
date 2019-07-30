@@ -19,6 +19,33 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Kozina"
+    ],
+    "name:ceb_x_preferred":[
+        "Kozina"
+    ],
+    "name:ita_x_preferred":[
+        "Cosina"
+    ],
+    "name:nld_x_preferred":[
+        "Kozina"
+    ],
+    "name:pol_x_preferred":[
+        "Kozina"
+    ],
+    "name:ron_x_preferred":[
+        "Kozina"
+    ],
+    "name:slv_x_preferred":[
+        "Kozina"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0437\u0438\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0437\u0456\u043d\u0430"
+    ],
     "name:unk_x_variant":[
         "Cosana del Collio"
     ],
@@ -74,7 +101,7 @@
         }
     ],
     "wof:id":1125806479,
-    "wof:lastmodified":1531170233,
+    "wof:lastmodified":1564216643,
     "wof:name":"Kozina",
     "wof:parent_id":1108959811,
     "wof:placetype":"locality",

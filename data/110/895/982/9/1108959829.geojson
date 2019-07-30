@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002835,
+    "geom:area_square_m":24078972.838398,
     "geom:bbox":"15.851479709,46.580946536,15.9348527095,46.6470667105",
     "geom:latitude":46.617292,
     "geom:longitude":15.890871,
@@ -13,6 +14,39 @@
     "lbl:longitude":15.886777,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u043d\u0435\u0434\u0438\u043a\u0442"
+    ],
+    "name:ceb_x_preferred":[
+        "Benedikt"
+    ],
+    "name:ces_x_preferred":[
+        "Benedikt"
+    ],
+    "name:hrv_x_preferred":[
+        "Benedikt"
+    ],
+    "name:hun_x_preferred":[
+        "Benedikt"
+    ],
+    "name:lav_x_preferred":[
+        "Benedikts"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043d\u0435\u0434\u0438\u043a\u0442"
+    ],
+    "name:slk_x_preferred":[
+        "Benedikt"
+    ],
+    "name:slv_x_preferred":[
+        "Benedikt"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u043d\u0435\u0434\u0438\u043a\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Benedikt"
+    ],
     "src:geom":"svn-sma",
     "src:lbl:centroid":"mapshaper",
     "svn-sma:d_od":"1998-11-22",
@@ -44,7 +78,7 @@
         }
     ],
     "wof:id":1108959829,
-    "wof:lastmodified":1531510234,
+    "wof:lastmodified":1564216373,
     "wof:name":"Benedikt",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",

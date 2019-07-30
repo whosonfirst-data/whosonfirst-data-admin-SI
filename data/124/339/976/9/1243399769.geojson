@@ -25,8 +25,26 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u044a\u0440\u043b\u043e\u0433"
+    ],
+    "name:fra_x_preferred":[
+        "Brlog"
+    ],
+    "name:msa_x_preferred":[
+        "Brlog"
+    ],
+    "name:por_x_preferred":[
+        "Brlog"
+    ],
     "name:slv_x_preferred":[
         "Brlog del"
+    ],
+    "name:slv_x_variant":[
+        "Brlog"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u043b\u043e\u0433"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +69,7 @@
         }
     ],
     "wof:id":1243399769,
-    "wof:lastmodified":1537700338,
+    "wof:lastmodified":1564216677,
     "wof:name":"Brlog",
     "wof:parent_id":1108959859,
     "wof:placetype":"locality",

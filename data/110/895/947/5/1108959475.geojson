@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014422,
+    "geom:area_square_m":122625539.567182,
     "geom:bbox":"16.3123093201,46.4621032366,16.6106311807,46.6381905302",
     "geom:latitude":46.555509,
     "geom:longitude":16.446681,
@@ -13,6 +14,108 @@
     "lbl:longitude":16.444419,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0644\u064a\u0646\u062f\u0627\u0641\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Lendava"
+    ],
+    "name:bak_x_preferred":[
+        "\u041b\u0435\u043d\u0434\u0430\u0432\u0430"
+    ],
+    "name:bos_x_preferred":[
+        "Lendava"
+    ],
+    "name:ceb_x_preferred":[
+        "Lendava"
+    ],
+    "name:ces_x_preferred":[
+        "Lendava"
+    ],
+    "name:deu_x_preferred":[
+        "Lendava"
+    ],
+    "name:epo_x_preferred":[
+        "Lendava"
+    ],
+    "name:est_x_preferred":[
+        "Lendava"
+    ],
+    "name:eus_x_preferred":[
+        "Lendava"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0646\u062f\u0627\u0648\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Lendava"
+    ],
+    "name:gle_x_preferred":[
+        "Lendava"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05e0\u05d3\u05d0\u05d5\u05d5\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Lendava"
+    ],
+    "name:hun_x_preferred":[
+        "Lendva"
+    ],
+    "name:ind_x_preferred":[
+        "Munisipalitas Lendava"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30f3\u30c0\u30f4\u30a1"
+    ],
+    "name:kor_x_preferred":[
+        "\ub80c\ub2e4\ubc14"
+    ],
+    "name:lit_x_preferred":[
+        "Lendava"
+    ],
+    "name:nld_x_preferred":[
+        "Lendava"
+    ],
+    "name:pol_x_preferred":[
+        "Lendava"
+    ],
+    "name:por_x_preferred":[
+        "Lendava"
+    ],
+    "name:ron_x_preferred":[
+        "Lendava"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043d\u0434\u0430\u0432\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Lendava"
+    ],
+    "name:slv_x_preferred":[
+        "Lendava"
+    ],
+    "name:spa_x_preferred":[
+        "Lendava"
+    ],
+    "name:sqi_x_preferred":[
+        "Lendava"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0435\u043d\u0434\u0430\u0432\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Lendava"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u043d\u0434\u0430\u0432\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Lendava"
+    ],
+    "name:zho_x_preferred":[
+        "\u502b\u9054\u74e6"
+    ],
     "src:geom":"svn-sma",
     "src:lbl:centroid":"mapshaper",
     "svn-sma:d_od":"1998-11-22",
@@ -44,7 +147,7 @@
         }
     ],
     "wof:id":1108959475,
-    "wof:lastmodified":1531510216,
+    "wof:lastmodified":1564216365,
     "wof:name":"Lendava",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",

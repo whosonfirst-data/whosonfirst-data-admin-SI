@@ -25,9 +25,39 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Jablanica"
+    ],
+    "name:ceb_x_preferred":[
+        "Jablanica"
+    ],
+    "name:hrv_x_preferred":[
+        "Jablanica"
+    ],
+    "name:ita_x_preferred":[
+        "Castel Iablanizza"
+    ],
+    "name:nld_x_preferred":[
+        "Jablanica"
+    ],
+    "name:pol_x_preferred":[
+        "Jablanica"
+    ],
+    "name:ron_x_preferred":[
+        "Jablanica"
+    ],
+    "name:slv_x_preferred":[
+        "Jablanica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u0431\u043b\u0430\u043d\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Castel Iblanizza",
         "Jablanica"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0628\u0644\u0627\u0646\u06cc\u06a9\u0627"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -54,7 +84,7 @@
         }
     ],
     "wof:id":1243011021,
-    "wof:lastmodified":1537700237,
+    "wof:lastmodified":1564216673,
     "wof:name":"Jablanica",
     "wof:parent_id":1108959873,
     "wof:placetype":"locality",

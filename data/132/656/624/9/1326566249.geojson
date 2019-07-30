@@ -25,6 +25,24 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Stolnik"
+    ],
+    "name:ceb_x_preferred":[
+        "Stolnik"
+    ],
+    "name:pol_x_preferred":[
+        "Stolnik"
+    ],
+    "name:ron_x_preferred":[
+        "Stolnik"
+    ],
+    "name:slv_x_preferred":[
+        "Stolnik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u043e\u043b\u043d\u0438\u043a"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1326566249,
-    "wof:lastmodified":1537573485,
+    "wof:lastmodified":1564215625,
     "wof:name":"Stolnik",
     "wof:parent_id":1108959941,
     "wof:placetype":"locality",

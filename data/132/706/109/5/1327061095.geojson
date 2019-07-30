@@ -25,6 +25,24 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Lisjaki"
+    ],
+    "name:nld_x_preferred":[
+        "Lisjaki"
+    ],
+    "name:pol_x_preferred":[
+        "Lisjaki"
+    ],
+    "name:ron_x_preferred":[
+        "Lisjaki"
+    ],
+    "name:slv_x_preferred":[
+        "Lisjaki"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u0441\u044f\u043a\u0456"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1327061095,
-    "wof:lastmodified":1537573515,
+    "wof:lastmodified":1564215587,
     "wof:name":"Lisjaki",
     "wof:parent_id":1108959539,
     "wof:placetype":"locality",

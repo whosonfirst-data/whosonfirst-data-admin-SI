@@ -25,6 +25,24 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u017drnova"
+    ],
+    "name:nld_x_preferred":[
+        "\u017drnova"
+    ],
+    "name:pol_x_preferred":[
+        "\u017drnova"
+    ],
+    "name:ron_x_preferred":[
+        "\u017drnova"
+    ],
+    "name:slv_x_preferred":[
+        "\u017drnova"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0440\u043d\u043e\u0432\u0430"
+    ],
     "name:und_x_variant":[
         "\u017drnova"
     ],
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1360016683,
-    "wof:lastmodified":1537700317,
+    "wof:lastmodified":1564216560,
     "wof:name":"Zrnova",
     "wof:parent_id":1108959569,
     "wof:placetype":"locality",

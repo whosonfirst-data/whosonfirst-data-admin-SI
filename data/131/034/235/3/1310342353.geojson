@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Pacinje"
+    ],
+    "name:ceb_x_preferred":[
+        "Pacinje"
+    ],
+    "name:nld_x_preferred":[
+        "Pacinje"
+    ],
+    "name:pol_x_preferred":[
+        "Pacinje"
+    ],
+    "name:ron_x_preferred":[
+        "Pacinje"
+    ],
+    "name:slv_x_preferred":[
+        "Pacinje"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0446\u0438\u043d\u0454"
+    ],
     "name:und_x_variant":[
         "Patzing",
         "Pacinje"
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1310342353,
-    "wof:lastmodified":1537700212,
+    "wof:lastmodified":1564216527,
     "wof:name":"Pacinje",
     "wof:parent_id":1108959659,
     "wof:placetype":"locality",

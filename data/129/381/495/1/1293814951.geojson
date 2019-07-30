@@ -25,6 +25,33 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Zelinje"
+    ],
+    "name:ceb_x_preferred":[
+        "Zelinje"
+    ],
+    "name:deu_x_preferred":[
+        "Zelinje"
+    ],
+    "name:fra_x_preferred":[
+        "Zelinje"
+    ],
+    "name:hrv_x_preferred":[
+        "Zelinje"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u043b\u0438\u043d\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0435\u043b\u0438\u045a\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Zelinje"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0435\u043b\u0456\u043d\u0454"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1293814951,
-    "wof:lastmodified":1536811614,
+    "wof:lastmodified":1564215967,
     "wof:name":"Zelinje",
     "wof:parent_id":1108959537,
     "wof:placetype":"locality",

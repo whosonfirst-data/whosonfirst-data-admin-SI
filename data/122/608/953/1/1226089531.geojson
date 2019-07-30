@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Zakobiljek"
+    ],
+    "name:hrv_x_preferred":[
+        "Zakobiljek"
+    ],
+    "name:nld_x_preferred":[
+        "Zakobiljek"
+    ],
+    "name:pol_x_preferred":[
+        "Zakobiljek"
+    ],
+    "name:ron_x_preferred":[
+        "Zakobiljek"
+    ],
+    "name:slv_x_preferred":[
+        "Zakobiljek"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u043a\u043e\u0431\u0438\u043b\u0454\u043a"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1226089531,
-    "wof:lastmodified":1537573517,
+    "wof:lastmodified":1564216990,
     "wof:name":"Zakobiljek",
     "wof:parent_id":1108959897,
     "wof:placetype":"locality",

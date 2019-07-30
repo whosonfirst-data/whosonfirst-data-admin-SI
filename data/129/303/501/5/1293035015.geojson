@@ -25,6 +25,24 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Oslica"
+    ],
+    "name:nld_x_preferred":[
+        "Oslica"
+    ],
+    "name:pol_x_preferred":[
+        "Oslica"
+    ],
+    "name:ron_x_preferred":[
+        "Oslica"
+    ],
+    "name:slv_x_preferred":[
+        "Oslica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0441\u043b\u0438\u0446\u044f"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1293035015,
-    "wof:lastmodified":1537573506,
+    "wof:lastmodified":1564215918,
     "wof:name":"Oslica",
     "wof:parent_id":1108959583,
     "wof:placetype":"locality",

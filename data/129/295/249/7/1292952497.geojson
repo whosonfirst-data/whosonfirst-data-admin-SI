@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kremenica"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0440\u0435\u043c\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Kremenica"
+    ],
+    "name:nld_x_preferred":[
+        "Kremenica"
+    ],
+    "name:pol_x_preferred":[
+        "Kremenica"
+    ],
+    "name:ron_x_preferred":[
+        "Kremenica"
+    ],
+    "name:slv_x_preferred":[
+        "Kremenica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0435\u043c\u0435\u043d\u0438\u0446\u044f"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +74,7 @@
         }
     ],
     "wof:id":1292952497,
-    "wof:lastmodified":1537573507,
+    "wof:lastmodified":1564215870,
     "wof:name":"Kremenica",
     "wof:parent_id":1108959887,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Godi\u010d"
+    ],
+    "name:ceb_x_preferred":[
+        "Godi\u010d"
+    ],
+    "name:pol_x_preferred":[
+        "Godi\u010d"
+    ],
+    "name:ron_x_preferred":[
+        "Godi\u010d"
+    ],
+    "name:slv_x_preferred":[
+        "Godi\u010d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0434\u0438\u0447"
+    ],
     "name:und_x_variant":[
         "Godi\u010d"
     ],
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1326465031,
-    "wof:lastmodified":1537700246,
+    "wof:lastmodified":1564215670,
     "wof:name":"Godic",
     "wof:parent_id":1108959941,
     "wof:placetype":"locality",

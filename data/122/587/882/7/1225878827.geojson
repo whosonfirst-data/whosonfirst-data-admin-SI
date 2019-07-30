@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Stanovsko"
+    ],
+    "name:ceb_x_preferred":[
+        "Stanovsko"
+    ],
+    "name:nld_x_preferred":[
+        "Stanovsko"
+    ],
+    "name:pol_x_preferred":[
+        "Stanovsko"
+    ],
+    "name:ron_x_preferred":[
+        "Stanovsko"
+    ],
+    "name:slv_x_preferred":[
+        "Stanovsko"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u043d\u043e\u0432\u0441\u044c\u043a\u043e"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1225878827,
-    "wof:lastmodified":1537573396,
+    "wof:lastmodified":1564216933,
     "wof:name":"Stanovsko",
     "wof:parent_id":1108959721,
     "wof:placetype":"locality",

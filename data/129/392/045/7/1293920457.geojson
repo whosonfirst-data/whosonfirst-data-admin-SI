@@ -25,6 +25,15 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gorenje Polje"
+    ],
+    "name:pol_x_preferred":[
+        "Gorenje Polje"
+    ],
+    "name:slv_x_preferred":[
+        "Gorenje Polje"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1293920457,
-    "wof:lastmodified":1537573498,
+    "wof:lastmodified":1564215911,
     "wof:name":"Gorenje Polje",
     "wof:parent_id":1108959537,
     "wof:placetype":"locality",

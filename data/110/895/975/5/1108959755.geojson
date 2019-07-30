@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004025,
+    "geom:area_square_m":34270588.658077,
     "geom:bbox":"15.8168453844,46.4490456093,15.9419942207,46.5086208254",
     "geom:latitude":46.483392,
     "geom:longitude":15.880382,
@@ -13,6 +14,33 @@
     "lbl:longitude":15.879443,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Destrnik"
+    ],
+    "name:ceb_x_preferred":[
+        "Destrnik"
+    ],
+    "name:nld_x_preferred":[
+        "Destrnik"
+    ],
+    "name:pol_x_preferred":[
+        "Destrnik"
+    ],
+    "name:ron_x_preferred":[
+        "Destrnik"
+    ],
+    "name:slv_x_preferred":[
+        "Destrnik"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0435\u0441\u0442\u0440\u043d\u0438\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u0441\u0442\u0440\u043d\u0438\u043a"
+    ],
+    "name:vie_x_preferred":[
+        "Destrnik"
+    ],
     "src:geom":"svn-sma",
     "src:lbl:centroid":"mapshaper",
     "svn-sma:d_od":"1998-11-22",
@@ -44,7 +72,7 @@
         }
     ],
     "wof:id":1108959755,
-    "wof:lastmodified":1531510230,
+    "wof:lastmodified":1564216432,
     "wof:name":"Destrnik",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",

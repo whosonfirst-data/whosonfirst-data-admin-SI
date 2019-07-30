@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Zabrekve"
+    ],
+    "name:hrv_x_preferred":[
+        "Zabrekve"
+    ],
+    "name:nld_x_preferred":[
+        "Zabrekve"
+    ],
+    "name:pol_x_preferred":[
+        "Zabrekve"
+    ],
+    "name:ron_x_preferred":[
+        "Zabrekve"
+    ],
+    "name:slv_x_preferred":[
+        "Zabrekve"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u0431\u0440\u0435\u043a\u0432\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u0628\u0631\u06a9\u0648\u06d2"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +74,7 @@
         }
     ],
     "wof:id":1343693077,
-    "wof:lastmodified":1537573509,
+    "wof:lastmodified":1564215786,
     "wof:name":"Zabrekve",
     "wof:parent_id":1108959701,
     "wof:placetype":"locality",

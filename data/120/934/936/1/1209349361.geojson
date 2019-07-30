@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Breg pri Litiji"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0440\u0435\u0433 \u043f\u0440\u0438 \u041b\u0438\u0442\u0438\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Breg pri Litiji"
+    ],
+    "name:nld_x_preferred":[
+        "Breg pri Litiji"
+    ],
+    "name:pol_x_preferred":[
+        "Breg pri Litiji"
+    ],
+    "name:ron_x_preferred":[
+        "Breg pri Litiji"
+    ],
+    "name:slv_x_preferred":[
+        "Breg pri Litiji"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0435\u0433-\u043f\u0440\u0438-\u041b\u0456\u0442\u0456\u0457"
+    ],
     "name:und_x_variant":[
         "Breg",
         "Breg pri Litiji"
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1209349361,
-    "wof:lastmodified":1537700262,
+    "wof:lastmodified":1564216187,
     "wof:name":"Breg pri Litiji",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

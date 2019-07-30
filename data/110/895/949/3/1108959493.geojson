@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009106,
+    "geom:area_square_m":77858845.214032,
     "geom:bbox":"14.4392892482,46.2004229628,14.573794176,46.3097461094",
     "geom:latitude":46.252768,
     "geom:longitude":14.500019,
@@ -13,6 +14,33 @@
     "lbl:longitude":14.49872,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Cerklje na Gorenjskem"
+    ],
+    "name:ceb_x_preferred":[
+        "Cerklje na Gorenjskem"
+    ],
+    "name:hrv_x_preferred":[
+        "Cerklje na Gorenjskem"
+    ],
+    "name:pol_x_preferred":[
+        "Cerklje na Gorenjskem"
+    ],
+    "name:ron_x_preferred":[
+        "Cerklje na Gorenjskem"
+    ],
+    "name:slv_x_preferred":[
+        "Cerklje na Gorenjskem"
+    ],
+    "name:srp_x_preferred":[
+        "\u0426\u0435\u0440\u043a\u0459\u0435 \u043d\u0430 \u0413\u043e\u0440\u0435\u045a\u0441\u043a\u0435\u043c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0435\u0440\u043a\u043b\u0454-\u043d\u0430-\u0413\u043e\u0440\u0435\u043d\u0441\u044c\u043a\u0435\u043c"
+    ],
+    "name:vie_x_preferred":[
+        "Cerklje na Gorenjskem"
+    ],
     "src:geom":"svn-sma",
     "src:lbl:centroid":"mapshaper",
     "svn-sma:d_od":"1995-01-01",
@@ -44,7 +72,7 @@
         }
     ],
     "wof:id":1108959493,
-    "wof:lastmodified":1531510217,
+    "wof:lastmodified":1564216372,
     "wof:name":"Cerklje na Gorenjskem",
     "wof:parent_id":1108959967,
     "wof:placetype":"localadmin",

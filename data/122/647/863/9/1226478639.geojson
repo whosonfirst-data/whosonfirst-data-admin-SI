@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Glem"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u043b\u0435\u043c"
+    ],
+    "name:ita_x_preferred":[
+        "Geme"
+    ],
+    "name:nld_x_preferred":[
+        "Glem"
+    ],
+    "name:pol_x_preferred":[
+        "Glem"
+    ],
+    "name:ron_x_preferred":[
+        "Glem"
+    ],
+    "name:slv_x_preferred":[
+        "Glem"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043b\u0435\u043c"
+    ],
     "name:und_x_variant":[
         "Geme",
         "Glem"
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1226478639,
-    "wof:lastmodified":1537700246,
+    "wof:lastmodified":1564216958,
     "wof:name":"Glem",
     "wof:parent_id":1108959527,
     "wof:placetype":"locality",

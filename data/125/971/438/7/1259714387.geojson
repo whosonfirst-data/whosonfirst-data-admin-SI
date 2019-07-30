@@ -25,6 +25,33 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vrhovo"
+    ],
+    "name:ceb_x_preferred":[
+        "Vrhovo"
+    ],
+    "name:hrv_x_preferred":[
+        "Vrhovo"
+    ],
+    "name:nld_x_preferred":[
+        "Vrhovo"
+    ],
+    "name:pol_x_preferred":[
+        "Vrhovo"
+    ],
+    "name:ron_x_preferred":[
+        "Vrhovo"
+    ],
+    "name:slv_x_preferred":[
+        "Vrhovo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0440\u0445\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0440\u0445\u043e\u0432\u043e"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +77,7 @@
         }
     ],
     "wof:id":1259714387,
-    "wof:lastmodified":1537573385,
+    "wof:lastmodified":1564216821,
     "wof:name":"Vrhovo",
     "wof:parent_id":1108959883,
     "wof:placetype":"locality",

@@ -25,6 +25,33 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Brestovec"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0440\u0435\u0441\u0442\u043e\u0432\u0435\u0446"
+    ],
+    "name:ceb_x_preferred":[
+        "Brestovec"
+    ],
+    "name:hrv_x_preferred":[
+        "Brestovec"
+    ],
+    "name:nld_x_preferred":[
+        "Brestovec"
+    ],
+    "name:pol_x_preferred":[
+        "Brestovec"
+    ],
+    "name:ron_x_preferred":[
+        "Brestovec"
+    ],
+    "name:slv_x_preferred":[
+        "Brestovec"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0435\u0441\u0442\u043e\u0432\u0435\u0446\u044c"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +77,7 @@
         }
     ],
     "wof:id":1277013329,
-    "wof:lastmodified":1537573479,
+    "wof:lastmodified":1564215979,
     "wof:name":"Brestovec",
     "wof:parent_id":1108959803,
     "wof:placetype":"locality",

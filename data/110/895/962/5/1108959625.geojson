@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008049,
+    "geom:area_square_m":68648295.138337,
     "geom:bbox":"14.4013739354,46.3455349163,14.5651996425,46.4271319054",
     "geom:latitude":46.386977,
     "geom:longitude":14.482896,
@@ -13,6 +14,33 @@
     "lbl:longitude":14.48447,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Jezersko"
+    ],
+    "name:ceb_x_preferred":[
+        "Jezersko"
+    ],
+    "name:deu_x_preferred":[
+        "Jezersko"
+    ],
+    "name:ita_x_preferred":[
+        "Jezersko"
+    ],
+    "name:nld_x_preferred":[
+        "Jezersko"
+    ],
+    "name:ron_x_preferred":[
+        "Jezersko"
+    ],
+    "name:slv_x_preferred":[
+        "Jezersko"
+    ],
+    "name:swe_x_preferred":[
+        "Jezersko"
+    ],
+    "name:vie_x_preferred":[
+        "Jezersko"
+    ],
     "src:geom":"svn-sma",
     "src:lbl:centroid":"mapshaper",
     "svn-sma:d_od":"1998-11-22",
@@ -44,7 +72,7 @@
         }
     ],
     "wof:id":1108959625,
-    "wof:lastmodified":1531510224,
+    "wof:lastmodified":1564216330,
     "wof:name":"Jezersko",
     "wof:parent_id":1108959967,
     "wof:placetype":"localadmin",

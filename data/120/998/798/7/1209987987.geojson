@@ -25,6 +25,15 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kot pri Damlju"
+    ],
+    "name:pol_x_preferred":[
+        "Kot pri Damlju"
+    ],
+    "name:slv_x_preferred":[
+        "Kot pri Damlju"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1209987987,
-    "wof:lastmodified":1537573550,
+    "wof:lastmodified":1564216104,
     "wof:name":"Kot pri Damlju",
     "wof:parent_id":1108959699,
     "wof:placetype":"locality",

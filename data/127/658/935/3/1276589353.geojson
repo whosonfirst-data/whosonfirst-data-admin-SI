@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gorica pri Dobjem"
+    ],
+    "name:hrv_x_preferred":[
+        "Gorica pri Dobjem"
+    ],
+    "name:nld_x_preferred":[
+        "Gorica pri Dobjem"
+    ],
+    "name:pol_x_preferred":[
+        "Gorica pri Dobjem"
+    ],
+    "name:ron_x_preferred":[
+        "Gorica pri Dobjem"
+    ],
+    "name:slv_x_preferred":[
+        "Gorica pri Dobjem"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u0438\u0446\u044f-\u043f\u0440\u0438-\u0414\u043e\u0431\u0454\u043c"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1276589353,
-    "wof:lastmodified":1537573555,
+    "wof:lastmodified":1564216020,
     "wof:name":"Gorica pri Dobjem",
     "wof:parent_id":1108959685,
     "wof:placetype":"locality",

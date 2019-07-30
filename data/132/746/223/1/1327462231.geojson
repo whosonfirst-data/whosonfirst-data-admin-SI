@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Prigorica"
+    ],
+    "name:ceb_x_preferred":[
+        "Prigorica"
+    ],
+    "name:nld_x_preferred":[
+        "Prigorica"
+    ],
+    "name:pol_x_preferred":[
+        "Prigorica"
+    ],
+    "name:ron_x_preferred":[
+        "Prigorica"
+    ],
+    "name:slv_x_preferred":[
+        "Prigorica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0438\u0433\u043e\u0440\u0438\u0446\u044f"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1327462231,
-    "wof:lastmodified":1537573408,
+    "wof:lastmodified":1564215653,
     "wof:name":"Prigorica",
     "wof:parent_id":1108959599,
     "wof:placetype":"locality",

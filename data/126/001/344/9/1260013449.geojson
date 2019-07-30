@@ -25,6 +25,33 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Javorje"
+    ],
+    "name:ceb_x_preferred":[
+        "Javorje"
+    ],
+    "name:hrv_x_preferred":[
+        "Javorje"
+    ],
+    "name:nld_x_preferred":[
+        "Javorje"
+    ],
+    "name:pol_x_preferred":[
+        "Javorje"
+    ],
+    "name:ron_x_preferred":[
+        "Javorje"
+    ],
+    "name:slv_x_preferred":[
+        "Javorje"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u0432\u043e\u0440\u0454"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0648\u0648\u0631\u062c\u06d2"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +77,7 @@
         }
     ],
     "wof:id":1260013449,
-    "wof:lastmodified":1537573475,
+    "wof:lastmodified":1564216284,
     "wof:name":"Javorje",
     "wof:parent_id":1108959791,
     "wof:placetype":"locality",

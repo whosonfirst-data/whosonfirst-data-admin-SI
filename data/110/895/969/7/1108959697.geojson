@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002191,
+    "geom:area_square_m":18619337.936875,
     "geom:bbox":"16.321435209,46.5533790633,16.401377389,46.6029881624",
     "geom:latitude":46.578764,
     "geom:longitude":16.353511,
@@ -13,6 +14,66 @@
     "lbl:longitude":16.350802,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Velika Polana"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u010dina Velika Polana"
+    ],
+    "name:deu_x_preferred":[
+        "Velika Polana"
+    ],
+    "name:epo_x_preferred":[
+        "Ob\u010dina Velika Polana"
+    ],
+    "name:fra_x_preferred":[
+        "Velika Polana"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Velika Polana"
+    ],
+    "name:hun_x_preferred":[
+        "Nagypalina"
+    ],
+    "name:ind_x_preferred":[
+        "Munisipalitas Velika Polana"
+    ],
+    "name:ita_x_preferred":[
+        "Velika Polana"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a7\u30ea\u30ab\u30fb\u30dd\u30e9\u30ca"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca8\ub9ac\uce74\ud3f4\ub77c\ub098"
+    ],
+    "name:nld_x_preferred":[
+        "Velika Polana"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Velika Polana"
+    ],
+    "name:por_x_preferred":[
+        "Velika Polana"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Velika Polana"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Velika Polana"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0412\u0435\u043b\u0438\u043a\u0430 \u041f\u043e\u043b\u0430\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0430 \u041f\u043e\u043b\u0430\u043d\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Velika Polana"
+    ],
+    "name:zho_x_preferred":[
+        "\u97cb\u5229\u5361\u6ce2\u62c9\u90a3"
+    ],
     "src:geom":"svn-sma",
     "src:lbl:centroid":"mapshaper",
     "svn-sma:d_od":"1998-11-22",
@@ -44,7 +105,7 @@
         }
     ],
     "wof:id":1108959697,
-    "wof:lastmodified":1531510228,
+    "wof:lastmodified":1564216413,
     "wof:name":"Velika Polana",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",

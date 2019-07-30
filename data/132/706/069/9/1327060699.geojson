@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u010cepno"
+    ],
+    "name:hrv_x_preferred":[
+        "\u010cepno"
+    ],
+    "name:ita_x_preferred":[
+        "Ceppeno"
+    ],
+    "name:nld_x_preferred":[
+        "\u010cepno"
+    ],
+    "name:pol_x_preferred":[
+        "\u010cepno"
+    ],
+    "name:ron_x_preferred":[
+        "\u010cepno"
+    ],
+    "name:slv_x_preferred":[
+        "\u010cepno"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u043f\u043d\u043e"
+    ],
     "name:und_x_variant":[
         "\u010cepno"
     ],
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1327060699,
-    "wof:lastmodified":1537700306,
+    "wof:lastmodified":1564215590,
     "wof:name":"Cepno",
     "wof:parent_id":1108959587,
     "wof:placetype":"locality",

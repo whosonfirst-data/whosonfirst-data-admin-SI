@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vrbica"
+    ],
+    "name:ceb_x_preferred":[
+        "Vrbica"
+    ],
+    "name:hrv_x_preferred":[
+        "Vrbica"
+    ],
+    "name:nld_x_preferred":[
+        "Vrbica"
+    ],
+    "name:pol_x_preferred":[
+        "Vrbica"
+    ],
+    "name:ron_x_preferred":[
+        "Vrbica"
+    ],
+    "name:slv_x_preferred":[
+        "Vrbica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0440\u0431\u0438\u0446\u044f"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +74,7 @@
         }
     ],
     "wof:id":1326868739,
-    "wof:lastmodified":1537573477,
+    "wof:lastmodified":1564215605,
     "wof:name":"Vrbica",
     "wof:parent_id":1108959873,
     "wof:placetype":"locality",

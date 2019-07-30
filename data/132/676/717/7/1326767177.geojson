@@ -25,6 +25,27 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Spital"
+    ],
+    "name:ceb_x_preferred":[
+        "Spital"
+    ],
+    "name:deu_x_preferred":[
+        "Spital"
+    ],
+    "name:fin_x_preferred":[
+        "Spital"
+    ],
+    "name:ita_x_preferred":[
+        "Spital"
+    ],
+    "name:pol_x_preferred":[
+        "Spital"
+    ],
+    "name:swe_x_preferred":[
+        "Spital"
+    ],
     "name:und_x_variant":[
         "\u0160pital"
     ],
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1326767177,
-    "wof:lastmodified":1537700317,
+    "wof:lastmodified":1564215667,
     "wof:name":"Spital",
     "wof:parent_id":1108959683,
     "wof:placetype":"locality",

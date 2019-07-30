@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016994,
+    "geom:area_square_m":144086313.117278,
     "geom:bbox":"16.1695564011,46.6432441166,16.3797886313,46.7781277745",
     "geom:latitude":46.709308,
     "geom:longitude":16.270149,
@@ -13,6 +14,57 @@
     "lbl:longitude":16.272132,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "name:ceb_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "name:deu_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "name:epo_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "name:fra_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "name:hrv_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "name:hun_x_preferred":[
+        "Als\u00f3mar\u00e1c"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30e9\u30d5\u30b9\u30b1\u30fb\u30c8\u30d7\u30ea\u30c4\u30a7"
+    ],
+    "name:kor_x_preferred":[
+        "\ubaa8\ub77c\ube0c\uc2a4\ucf00\ud1a0\ud50c\ub9ac\uccb4"
+    ],
+    "name:nld_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "name:pol_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "name:por_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "name:ron_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "name:slv_x_preferred":[
+        "Moravske Toplice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u0440\u0430\u0432\u0441\u043a\u0435 \u0422\u043e\u043f\u043b\u0438\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0440\u0430\u0432\u0441\u044c\u043a\u0435 \u0422\u043e\u043f\u043b\u0438\u0446\u0435"
+    ],
+    "name:vie_x_preferred":[
+        "Moravske Toplice"
+    ],
     "src:geom":"svn-sma",
     "src:lbl:centroid":"mapshaper",
     "svn-sma:d_od":"1995-01-01",
@@ -44,7 +96,7 @@
         }
     ],
     "wof:id":1108959925,
-    "wof:lastmodified":1531510239,
+    "wof:lastmodified":1564216394,
     "wof:name":"Moravske Toplice",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",

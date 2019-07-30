@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ribnica"
+    ],
+    "name:ceb_x_preferred":[
+        "Ribnica"
+    ],
+    "name:hrv_x_preferred":[
+        "Ribnica"
+    ],
+    "name:nld_x_preferred":[
+        "Ribnica"
+    ],
+    "name:pol_x_preferred":[
+        "Ribnica"
+    ],
+    "name:ron_x_preferred":[
+        "Ribnica"
+    ],
+    "name:slv_x_preferred":[
+        "Ribnica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0438\u0431\u043d\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Zgornja Ribnica"
     ],
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1292991553,
-    "wof:lastmodified":1537700268,
+    "wof:lastmodified":1564215942,
     "wof:name":"Ribnica",
     "wof:parent_id":1108959585,
     "wof:placetype":"locality",

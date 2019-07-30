@@ -25,6 +25,30 @@
     "iso:country":"SI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kramplje"
+    ],
+    "name:hrv_x_preferred":[
+        "Kramplje"
+    ],
+    "name:nld_x_preferred":[
+        "Kramplje"
+    ],
+    "name:pol_x_preferred":[
+        "Kramplje"
+    ],
+    "name:ron_x_preferred":[
+        "Kramplje"
+    ],
+    "name:slv_x_preferred":[
+        "Kramplje"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u0430\u043c\u043f\u0459\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0430\u043c\u043f\u043b\u0454"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +74,7 @@
         }
     ],
     "wof:id":1292935333,
-    "wof:lastmodified":1537573539,
+    "wof:lastmodified":1564215876,
     "wof:name":"Kramplje",
     "wof:parent_id":1108959893,
     "wof:placetype":"locality",
