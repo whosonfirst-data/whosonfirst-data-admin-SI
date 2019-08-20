@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":21971785.719123,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.467992,46.098045,14.467992,46.098045",
     "geom:latitude":46.098045,
     "geom:longitude":14.467992,
@@ -88,14 +88,14 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":117,
     "wof:belongsto":[
-        1108959949,
         102191581,
         1108959501,
         85633779,
-        101752073
+        101752073,
+        1108959949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -120,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531932031,
+    "wof:lastmodified":1566247520,
     "wof:name":"Sentvid",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",
