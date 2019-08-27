@@ -23,8 +23,12 @@
     "gn:population":195,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.05714,46.24188,15.09714,46.28188",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Orla Vas"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1310239211,
-    "wof:lastmodified":1564216463,
+    "wof:lastmodified":1566644897,
     "wof:name":"Orla Vas",
     "wof:parent_id":1108959855,
     "wof:placetype":"locality",

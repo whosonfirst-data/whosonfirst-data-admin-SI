@@ -23,8 +23,12 @@
     "gn:population":48,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.22215,45.45873,15.26215,45.49873",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Perudina"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1242936735,
-    "wof:lastmodified":1564216707,
+    "wof:lastmodified":1566645112,
     "wof:name":"Perudina",
     "wof:parent_id":1108959699,
     "wof:placetype":"locality",

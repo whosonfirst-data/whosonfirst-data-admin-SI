@@ -23,8 +23,12 @@
     "gn:population":108,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.31144,45.98934,15.35144,46.02934",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Pe\u010dje"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0447\u0454"
-    ],
-    "name:und_x_variant":[
-        "Pe\u010dje"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1310334239,
-    "wof:lastmodified":1564216532,
+    "wof:lastmodified":1566644937,
     "wof:name":"Pecje",
     "wof:parent_id":1108959927,
     "wof:placetype":"locality",

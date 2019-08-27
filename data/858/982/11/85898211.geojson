@@ -10,8 +10,10 @@
     "geom:latitude":46.102496,
     "geom:longitude":14.533147,
     "iso:country":"SI",
+    "lbl:bbox":"14.528147,46.097496,14.538147,46.107496",
     "lbl:latitude":46.102496,
     "lbl:longitude":14.533147,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.107694,
     "mps:longitude":14.543245,
     "mz:hierarchy_label":0,
@@ -47,13 +49,6 @@
     ],
     "name:und_x_colloquial":[
         "Crnuce"
-    ],
-    "name:und_x_preferred":[
-        "\u010crnu\u010de"
-    ],
-    "name:unk_x_variant":[
-        "\u010crnu\u010de",
-        "\u010crnu\u010de"
     ],
     "qs:gn_adm0_cc":"SI",
     "qs:gn_fcode":"PPL",
@@ -96,7 +91,7 @@
     "wof:concordances":{
         "gn:id":3202328,
         "gp:id":529781,
-        "qs:id":222223,
+        "qs_pg:id":222223,
         "wd:id":"Q9009660",
         "wk:page":"\u010crnu\u010de District"
     },
@@ -116,7 +111,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247519,
+    "wof:lastmodified":1566644476,
     "wof:name":"Crnuce",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",

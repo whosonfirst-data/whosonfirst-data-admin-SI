@@ -23,8 +23,12 @@
     "gn:population":65,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.17047,46.0496,14.21047,46.0896",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Prelesje"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1293048553,
-    "wof:lastmodified":1564215924,
+    "wof:lastmodified":1566644530,
     "wof:name":"Prelesje",
     "wof:parent_id":1108959897,
     "wof:placetype":"locality",

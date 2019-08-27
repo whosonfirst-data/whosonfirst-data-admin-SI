@@ -23,8 +23,12 @@
     "gn:population":149,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.67867,46.2444,15.71867,46.2844",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Strmec pri Svetem Florijanu"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1242813877,
-    "wof:lastmodified":1564216695,
+    "wof:lastmodified":1566645103,
     "wof:name":"Strmec pri Sv. Florijanu",
     "wof:parent_id":1108959803,
     "wof:placetype":"locality",

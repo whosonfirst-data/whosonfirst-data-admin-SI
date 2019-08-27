@@ -23,8 +23,12 @@
     "gn:population":182,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.04778,46.29926,15.08778,46.33926",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0414\u043e\u0431\u0440\u0438\u0447"
     ],
@@ -50,8 +54,7 @@
         "\u0414\u043e\u0431\u0440\u0438\u0447"
     ],
     "name:und_x_variant":[
-        "Pod Dobri\u010dem",
-        "Dobri\u010d"
+        "Pod Dobri\u010dem"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1260217985,
-    "wof:lastmodified":1564216300,
+    "wof:lastmodified":1566644780,
     "wof:name":"Dobric",
     "wof:parent_id":1108959635,
     "wof:placetype":"locality",

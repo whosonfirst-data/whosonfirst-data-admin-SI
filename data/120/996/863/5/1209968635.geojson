@@ -23,8 +23,12 @@
     "gn:population":26,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.54889,45.87889,14.58889,45.91889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Rogatec nad \u017delimljami"
     ],
@@ -48,8 +52,7 @@
     ],
     "name:und_x_variant":[
         "Hudi Rogatec",
-        "Rogatec",
-        "Rogatec nad \u017delimljami"
+        "Rogatec"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1209968635,
-    "wof:lastmodified":1564216107,
+    "wof:lastmodified":1566644651,
     "wof:name":"Rogatec nad Zelimljami",
     "wof:parent_id":1108959887,
     "wof:placetype":"locality",

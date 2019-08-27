@@ -23,8 +23,12 @@
     "gn:population":49,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.21033,45.61784,15.25033,45.65784",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Krupa"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1327470673,
-    "wof:lastmodified":1564215647,
+    "wof:lastmodified":1566644337,
     "wof:name":"Krupa",
     "wof:parent_id":1108959601,
     "wof:placetype":"locality",

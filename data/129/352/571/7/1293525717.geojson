@@ -23,8 +23,12 @@
     "gn:population":120,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.07161,45.94094,15.11161,45.98094",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Rakovnik pri \u0160entrupertu"
     ],
@@ -50,8 +54,7 @@
         "\u0420\u0430\u043a\u043e\u0432\u043d\u0438\u043a-\u043f\u0440\u0438-\u0428\u0435\u043d\u0442\u0440\u0443\u043f\u0435\u0440\u0442\u0443"
     ],
     "name:und_x_variant":[
-        "Rakovnik",
-        "Rakovnik pri \u0160entrupertu"
+        "Rakovnik"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1293525717,
-    "wof:lastmodified":1564215868,
+    "wof:lastmodified":1566644493,
     "wof:name":"Rakovnik pri Sentrupertu",
     "wof:parent_id":1108959841,
     "wof:placetype":"locality",

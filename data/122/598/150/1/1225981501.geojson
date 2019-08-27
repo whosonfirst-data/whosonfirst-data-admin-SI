@@ -23,8 +23,12 @@
     "gn:population":119,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.59659,46.19773,15.63659,46.23773",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ceste"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1225981501,
-    "wof:lastmodified":1564216944,
+    "wof:lastmodified":1566645268,
     "wof:name":"Ceste",
     "wof:parent_id":1108959803,
     "wof:placetype":"locality",

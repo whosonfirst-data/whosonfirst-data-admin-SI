@@ -9,15 +9,18 @@
     "geom:bbox":"13.75194,45.77028,13.75194,45.77028",
     "geom:latitude":45.77028,
     "geom:longitude":13.75194,
-    "gn:gn_country":"SI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":123,
+    "gn:country":"SI",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SI",
+    "lbl:bbox":"13.73194,45.75028,13.77194,45.79028",
     "lbl:latitude":45.77028,
     "lbl:longitude":13.75194,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Veliki Dol"
@@ -55,9 +58,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043b\u0456\u043a\u0456 \u0414\u043e\u043b"
     ],
-    "name:unk_x_variant":[
-        "Dol Grande"
-    ],
     "qs_pg:aaroncc":"SI",
     "qs_pg:gn_country":"SI",
     "qs_pg:gn_fcode":"PPL",
@@ -79,7 +79,7 @@
     "qs_pg:woe_adm0":23424945,
     "qs_pg:woe_id":532026,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424945,
     "woe:name_adm0":"Slovenija",
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":1125774993,
-    "wof:lastmodified":1563577145,
+    "wof:lastmodified":1566645075,
     "wof:name":"Veliki Dol",
     "wof:parent_id":1108959789,
     "wof:placetype":"locality",

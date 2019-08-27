@@ -23,8 +23,12 @@
     "gn:population":362,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.84583,46.46333,15.88583,46.50333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vintarovci"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1226478731,
-    "wof:lastmodified":1564216951,
+    "wof:lastmodified":1566645272,
     "wof:name":"Vintarovci",
     "wof:parent_id":1108959755,
     "wof:placetype":"locality",

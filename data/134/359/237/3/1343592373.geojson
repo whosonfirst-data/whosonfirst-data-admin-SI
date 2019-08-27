@@ -23,8 +23,12 @@
     "gn:population":79,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.35607,45.88964,15.39607,45.92964",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Smednik"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1343592373,
-    "wof:lastmodified":1564215782,
+    "wof:lastmodified":1566644428,
     "wof:name":"Smednik",
     "wof:parent_id":1108959473,
     "wof:placetype":"locality",

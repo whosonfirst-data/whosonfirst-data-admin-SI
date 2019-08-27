@@ -9,15 +9,18 @@
     "geom:bbox":"16.25111,46.6325,16.25111,46.6325",
     "geom:latitude":46.6325,
     "geom:longitude":16.25111,
-    "gn:gn_country":"SI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1006,
-    "gn:population":1027,
+    "gn:country":"SI",
+    "gn:fcode":"PPL",
+    "gn:population":1006,
     "iso:country":"SI",
+    "lbl:bbox":"16.23111,46.6125,16.27111,46.6525",
     "lbl:latitude":46.6325,
     "lbl:longitude":16.25111,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Gan\u010dani"
@@ -61,9 +64,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u043d\u0447\u0430\u043d\u0438"
     ],
-    "name:unk_x_variant":[
-        "Lendvar\u00f3zsav\u00f6lgy"
-    ],
     "qs_pg:aaroncc":"SI",
     "qs_pg:gn_country":"SI",
     "qs_pg:gn_fcode":"PPL",
@@ -83,7 +83,7 @@
     "qs_pg:woe_adm0":23424945,
     "qs_pg:woe_id":530013,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424945,
     "woe:name_adm0":"Slovenija",
@@ -115,7 +115,7 @@
         }
     ],
     "wof:id":1125930733,
-    "wof:lastmodified":1563577053,
+    "wof:lastmodified":1566645035,
     "wof:name":"Gan\u010dani",
     "wof:parent_id":1108959517,
     "wof:placetype":"locality",

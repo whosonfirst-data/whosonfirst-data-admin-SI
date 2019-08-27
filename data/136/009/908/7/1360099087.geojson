@@ -23,8 +23,12 @@
     "gn:population":114,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.84797,45.83676,13.88797,45.87676",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vrtov\u010de"
     ],
@@ -58,9 +62,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0440\u0442\u043e\u0432\u0447\u0435"
     ],
-    "name:und_x_variant":[
-        "Vrtov\u010de"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1360099087,
-    "wof:lastmodified":1564216550,
+    "wof:lastmodified":1566644947,
     "wof:name":"Vrtovce",
     "wof:parent_id":1108959545,
     "wof:placetype":"locality",

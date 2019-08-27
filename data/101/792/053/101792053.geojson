@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":46.128959,
     "lbl:longitude":13.989101,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.128959,
     "mps:longitude":13.989101,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Cerkno"
     ],
@@ -89,9 +92,6 @@
     "name:ukr_x_preferred":[
         "\u0426\u0435\u0440\u043a\u043d\u043e"
     ],
-    "name:unk_x_variant":[
-        "Circhina"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u0633\u06cc\u0631\u06a9\u0646\u0648"
     ],
@@ -117,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -129,10 +129,12 @@
     "wof:concordances":{
         "gn:id":3218364,
         "gp:id":529731,
-        "qs:id":1060361,
         "qs_pg:id":1044103,
         "wd:id":"Q143742",
         "wk:page":"Cerkno"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1060361
     },
     "wof:country":"SI",
     "wof:geomhash":"eaa9ffd6cc0c38e566ff52ea5eb1d088",
@@ -146,7 +148,7 @@
         }
     ],
     "wof:id":101792053,
-    "wof:lastmodified":1563576992,
+    "wof:lastmodified":1566645000,
     "wof:name":"Cerkno",
     "wof:parent_id":1108959577,
     "wof:placetype":"locality",

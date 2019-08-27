@@ -23,8 +23,12 @@
     "gn:population":49,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.21649,45.75757,15.25649,45.79757",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Mali Orehek"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1343894111,
-    "wof:lastmodified":1564215830,
+    "wof:lastmodified":1566644460,
     "wof:name":"Mali Orehek",
     "wof:parent_id":1108959465,
     "wof:placetype":"locality",

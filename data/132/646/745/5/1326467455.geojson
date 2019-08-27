@@ -23,8 +23,12 @@
     "gn:population":41,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.80614,45.81927,14.84614,45.85927",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kamni Vrh pri Ambrusu"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1326467455,
-    "wof:lastmodified":1564215675,
+    "wof:lastmodified":1566644355,
     "wof:name":"Kamni Vrh pri Ambrusu",
     "wof:parent_id":1108959583,
     "wof:placetype":"locality",

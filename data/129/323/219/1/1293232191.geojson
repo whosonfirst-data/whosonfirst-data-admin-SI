@@ -23,8 +23,12 @@
     "gn:population":44,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.31333,46.71333,16.35333,46.75333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Porda\u0161inci"
     ],
@@ -52,10 +56,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0440\u0434\u0430\u0448\u0438\u043d\u0446\u0456"
     ],
-    "name:und_x_variant":[
-        "Kisfalu",
-        "Porda\u0161inci"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":1293232191,
-    "wof:lastmodified":1564215884,
+    "wof:lastmodified":1566644504,
     "wof:name":"Pordasinci",
     "wof:parent_id":1108959925,
     "wof:placetype":"locality",

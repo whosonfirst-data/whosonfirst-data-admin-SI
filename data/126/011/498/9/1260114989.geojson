@@ -23,8 +23,12 @@
     "gn:population":13,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.43409,45.84221,15.47409,45.88221",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Selo"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1260114989,
-    "wof:lastmodified":1564216290,
+    "wof:lastmodified":1566644773,
     "wof:name":"Selo",
     "wof:parent_id":1108959473,
     "wof:placetype":"locality",

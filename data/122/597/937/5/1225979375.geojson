@@ -23,8 +23,12 @@
     "gn:population":13,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.38514,45.80486,15.42514,45.84486",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Podstrm"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1225979375,
-    "wof:lastmodified":1564216937,
+    "wof:lastmodified":1566645264,
     "wof:name":"Podstrm",
     "wof:parent_id":1108959835,
     "wof:placetype":"locality",

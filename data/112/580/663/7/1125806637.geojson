@@ -9,15 +9,18 @@
     "geom:bbox":"15.63333,46.48333,15.63333,46.48333",
     "geom:latitude":46.48333,
     "geom:longitude":15.63333,
-    "gn:gn_country":"SI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":676,
+    "gn:country":"SI",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SI",
+    "lbl:bbox":"15.61333,46.46333,15.65333,46.50333",
     "lbl:latitude":46.48333,
     "lbl:longitude":15.63333,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Zgornje Ho\u010de"
@@ -46,7 +49,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0433\u043e\u0440\u043d\u0454 \u0425\u043e\u0447\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ho\u010de"
     ],
     "qs_pg:aaroncc":"SI",
@@ -70,7 +73,7 @@
     "qs_pg:woe_adm0":23424945,
     "qs_pg:woe_id":532307,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424945,
     "woe:name_adm0":"Slovenija",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1125806637,
-    "wof:lastmodified":1563577096,
+    "wof:lastmodified":1566645054,
     "wof:name":"Zgornje Ho\u010de",
     "wof:parent_id":1108959749,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":15,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.67192,45.52669,14.71192,45.56669",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Stroji\u010di"
     ],
@@ -52,9 +56,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0440\u043e\u0457\u0447\u0456"
     ],
-    "name:und_x_variant":[
-        "Stroji\u010di"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1327262339,
-    "wof:lastmodified":1564215690,
+    "wof:lastmodified":1566644365,
     "wof:name":"Strojici",
     "wof:parent_id":1108959563,
     "wof:placetype":"locality",

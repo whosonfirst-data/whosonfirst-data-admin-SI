@@ -23,8 +23,12 @@
     "gn:population":419,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.03759,46.33543,16.07759,46.37543",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Tur\u0161ki Vrh"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0443\u0440\u0448\u043a\u0438\u0439 \u0412\u0440\u0445"
-    ],
-    "name:und_x_variant":[
-        "Tur\u0161ki Vrh"
     ],
     "name:urd_x_preferred":[
         "\u062a\u0631\u0634\u06a9\u06cc \u0648\u0631\u06c1"
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1226081355,
-    "wof:lastmodified":1564216990,
+    "wof:lastmodified":1566645300,
     "wof:name":"Turski Vrh",
     "wof:parent_id":1108959619,
     "wof:placetype":"locality",

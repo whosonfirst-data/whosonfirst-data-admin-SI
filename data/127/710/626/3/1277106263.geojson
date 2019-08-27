@@ -23,8 +23,12 @@
     "gn:population":108,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.44092,46.26194,15.48092,46.30194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Slatina pri Ponikvi"
     ],
@@ -50,8 +54,7 @@
         "\u0421\u043b\u0430\u0442\u0438\u043d\u0430-\u043f\u0440\u0438-\u041f\u043e\u043d\u0438\u043a\u0432\u0456"
     ],
     "name:und_x_variant":[
-        "Slatina",
-        "Slatina pri Ponikvi"
+        "Slatina"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1277106263,
-    "wof:lastmodified":1564216086,
+    "wof:lastmodified":1566644637,
     "wof:name":"Slatina pri Ponikvi",
     "wof:parent_id":1108959791,
     "wof:placetype":"locality",

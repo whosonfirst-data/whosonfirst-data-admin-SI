@@ -23,8 +23,12 @@
     "gn:population":35,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.63385,46.2888,13.67385,46.3288",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Lepena"
     ],
@@ -50,8 +54,7 @@
         "\u041b\u0435\u043f\u0435\u043d\u0430"
     ],
     "name:und_x_variant":[
-        "Lepenja",
-        "Lepena"
+        "Lepenja"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1260072827,
-    "wof:lastmodified":1564216271,
+    "wof:lastmodified":1566644761,
     "wof:name":"Lepena",
     "wof:parent_id":1108959541,
     "wof:placetype":"locality",

@@ -9,17 +9,19 @@
     "geom:bbox":"13.9476498774,46.2671299079,13.9647414432,46.2770690448",
     "geom:latitude":46.272362,
     "geom:longitude":13.955616,
-    "gn:gn_country":"SI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1774,
-    "gn:population":1799,
+    "gn:country":"SI",
+    "gn:fcode":"PPL",
+    "gn:population":1774,
     "iso:country":"SI",
     "lbl:latitude":46.273124,
     "lbl:longitude":13.955616,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.273124,
     "mps:longitude":13.955616,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Bohinjska Bistrica"
     ],
@@ -77,7 +79,7 @@
     "name:ukr_x_variant":[
         "\u0411\u043e\u0445\u0456\u043d\u044c\u0441\u043a\u0430 \u0411\u0456\u0441\u0442\u0440\u0456\u0446\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wochein Feistritz"
     ],
     "name:urd_x_preferred":[
@@ -117,7 +119,7 @@
     "qs_pg:woe_id":529576,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":518,
     "wof:belongsto":[
@@ -130,7 +132,6 @@
     "wof:concordances":{
         "gn:id":3203808,
         "gp:id":529576,
-        "qs:id":1117118,
         "qs_pg:id":1117118,
         "wd:id":"Q684125",
         "wk:page":"Bohinjska Bistrica"
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":101792063,
-    "wof:lastmodified":1563576994,
+    "wof:lastmodified":1566645001,
     "wof:name":"Bohinjska Bistrica",
     "wof:parent_id":1108959819,
     "wof:placetype":"locality",

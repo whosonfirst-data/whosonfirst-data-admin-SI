@@ -23,8 +23,12 @@
     "gn:population":69,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.59657,46.65398,15.63657,46.69398",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Podigrac"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1326664545,
-    "wof:lastmodified":1564215633,
+    "wof:lastmodified":1566644329,
     "wof:name":"Podigrac",
     "wof:parent_id":1108959469,
     "wof:placetype":"locality",

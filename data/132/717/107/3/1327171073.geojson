@@ -23,8 +23,12 @@
     "gn:population":29,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.94096,45.9327,14.98096,45.9727",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ma\u010dkovec"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0447\u043a\u043e\u0432\u0435\u0446\u044c"
-    ],
-    "name:und_x_variant":[
-        "Ma\u010dkovec"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0686\u06a9\u0648\u0648\u06cc\u06a9"
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1327171073,
-    "wof:lastmodified":1564215697,
+    "wof:lastmodified":1566644371,
     "wof:name":"Mackovec",
     "wof:parent_id":1108959839,
     "wof:placetype":"locality",

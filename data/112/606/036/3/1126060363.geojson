@@ -9,15 +9,18 @@
     "geom:bbox":"15.08361,46.47194,15.08361,46.47194",
     "geom:latitude":46.47194,
     "geom:longitude":15.08361,
-    "gn:gn_country":"SI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":951,
-    "gn:population":946,
+    "gn:country":"SI",
+    "gn:fcode":"PPL",
+    "gn:population":951,
     "iso:country":"SI",
+    "lbl:bbox":"15.06361,46.45194,15.10361,46.49194",
     "lbl:latitude":46.47194,
     "lbl:longitude":15.08361,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u041f\u0430\u0434\u0433\u043e\u0440\u2019\u0435"
@@ -67,7 +70,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0434\u0433\u043e\u0440'\u0454"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Podgorje pri Slovenj Gradcu"
     ],
     "qs_pg:aaroncc":"SI",
@@ -89,7 +92,7 @@
     "qs_pg:woe_adm0":23424945,
     "qs_pg:woe_id":531095,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424945,
     "woe:name_adm0":"Slovenija",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1126060363,
-    "wof:lastmodified":1564216649,
+    "wof:lastmodified":1566645066,
     "wof:name":"Podgorje",
     "wof:parent_id":1108959645,
     "wof:placetype":"locality",

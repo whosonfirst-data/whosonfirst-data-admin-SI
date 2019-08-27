@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.3825,45.845,15.4225,45.885",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0420\u043e\u0431\u0438\u043a"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242611441,
-    "wof:lastmodified":1564216700,
+    "wof:lastmodified":1566645107,
     "wof:name":"Robic",
     "wof:parent_id":1108959835,
     "wof:placetype":"locality",

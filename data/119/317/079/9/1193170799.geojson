@@ -23,8 +23,12 @@
     "gn:population":156,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.33,46.68694,16.37,46.72694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Motvarjevci"
     ],
@@ -58,9 +62,7 @@
     "name:und_x_variant":[
         "Szentl\u00e1szl\u00f3",
         "Motvarjavci",
-        "Sz\u00e9csiszentl\u00e1szl\u00f3",
-        "Mitvarjevci",
-        "Motvarjevci"
+        "Mitvarjevci"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1193170799,
-    "wof:lastmodified":1564216258,
+    "wof:lastmodified":1566644752,
     "wof:name":"Motvarjevci",
     "wof:parent_id":1108959925,
     "wof:placetype":"locality",

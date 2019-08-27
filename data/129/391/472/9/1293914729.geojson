@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.18333,46.39,15.22333,46.43",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293914729,
-    "wof:lastmodified":1536668384,
+    "wof:lastmodified":1566644481,
     "wof:name":"Hrustel",
     "wof:parent_id":1108959467,
     "wof:placetype":"locality",

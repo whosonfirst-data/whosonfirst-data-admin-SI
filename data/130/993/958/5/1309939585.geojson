@@ -23,8 +23,12 @@
     "gn:population":1,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.36098,45.9167,15.40098,45.9567",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gradi\u0161\u010de pri Raki"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0430\u0434\u0438\u0449\u0435-\u043f\u0440\u0438-\u0420\u0430\u043a\u0456"
-    ],
-    "name:und_x_variant":[
-        "Gradi\u0161\u010de pri Raki"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1309939585,
-    "wof:lastmodified":1564216609,
+    "wof:lastmodified":1566645018,
     "wof:name":"Gradisce pri Raki",
     "wof:parent_id":1108959473,
     "wof:placetype":"locality",

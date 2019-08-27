@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.64333,46.05972,13.68333,46.09972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Vrh"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1209645905,
-    "wof:lastmodified":1564216114,
+    "wof:lastmodified":1566644655,
     "wof:name":"Vrh",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

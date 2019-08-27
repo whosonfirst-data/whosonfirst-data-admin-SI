@@ -23,8 +23,12 @@
     "gn:population":91,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.1935,45.73757,15.2335,45.77757",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gornja Te\u017eka Voda"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0440\u043d\u044f \u0422\u0435\u0436\u043a\u0430 \u0412\u043e\u0434\u0430"
-    ],
-    "name:und_x_variant":[
-        "Gornja Te\u017eka Voda"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1209846237,
-    "wof:lastmodified":1564216129,
+    "wof:lastmodified":1566644666,
     "wof:name":"Gornja Tezka Voda",
     "wof:parent_id":1108959465,
     "wof:placetype":"locality",

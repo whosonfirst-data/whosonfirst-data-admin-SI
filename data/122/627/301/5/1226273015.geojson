@@ -23,8 +23,12 @@
     "gn:population":24,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.57175,46.18384,13.61175,46.22384",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Perati"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1226273015,
-    "wof:lastmodified":1564216888,
+    "wof:lastmodified":1566645232,
     "wof:name":"Perati",
     "wof:parent_id":1108959523,
     "wof:placetype":"locality",

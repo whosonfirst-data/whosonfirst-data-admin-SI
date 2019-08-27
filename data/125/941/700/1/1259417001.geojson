@@ -23,8 +23,12 @@
     "gn:population":207,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.14872,45.82596,15.18872,45.86596",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u017ddinja vas"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0416\u0434\u0438\u043d\u044f \u0412\u0430\u0441"
-    ],
-    "name:und_x_variant":[
-        "\u017ddinja Vas"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1259417001,
-    "wof:lastmodified":1564216806,
+    "wof:lastmodified":1566645177,
     "wof:name":"Zdinja Vas",
     "wof:parent_id":1108959465,
     "wof:placetype":"locality",

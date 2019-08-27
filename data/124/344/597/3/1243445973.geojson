@@ -23,8 +23,12 @@
     "gn:population":31,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.52426,46.01629,13.56426,46.05629",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Nozno"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1243445973,
-    "wof:lastmodified":1564216787,
+    "wof:lastmodified":1566645164,
     "wof:name":"Nozno",
     "wof:parent_id":1108959811,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":136,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.44956,46.12902,15.48956,46.16902",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Hrastje"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1226579225,
-    "wof:lastmodified":1564216919,
+    "wof:lastmodified":1566645253,
     "wof:name":"Hrastje",
     "wof:parent_id":1108959791,
     "wof:placetype":"locality",

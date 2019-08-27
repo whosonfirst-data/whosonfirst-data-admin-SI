@@ -23,8 +23,12 @@
     "gn:population":34,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.92534,45.89678,14.96534,45.93678",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Korenitka"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1360218989,
-    "wof:lastmodified":1564216575,
+    "wof:lastmodified":1566644960,
     "wof:name":"Korenitka",
     "wof:parent_id":1108959839,
     "wof:placetype":"locality",

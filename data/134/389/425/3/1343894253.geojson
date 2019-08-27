@@ -23,8 +23,12 @@
     "gn:population":433,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.1825,46.3875,15.2225,46.4275",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kozjak"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1343894253,
-    "wof:lastmodified":1564215825,
+    "wof:lastmodified":1566644457,
     "wof:name":"Kozjak",
     "wof:parent_id":1108959467,
     "wof:placetype":"locality",

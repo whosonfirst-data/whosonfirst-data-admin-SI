@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":46.614308,
     "lbl:longitude":15.223702,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.614308,
     "mps:longitude":15.223702,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Radlje ob Dravi"
     ],
@@ -65,15 +68,10 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0434\u043b\u0454-\u043e\u0431-\u0414\u0440\u0430\u0432\u0456"
     ],
-    "name:und_x_preferred":[
-        "Radlje Ob Dravi"
-    ],
     "name:und_x_variant":[
+        "Radlje Ob Dravi",
         "Marenberg",
         "Mariberg"
-    ],
-    "name:unk_x_variant":[
-        "Marenberg"
     ],
     "name:zho_x_preferred":[
         "\u5fb7\u62c9\u74e6\u6cb3\u7554\u62c9\u5fb7\u5217"
@@ -94,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -107,7 +105,6 @@
         "fct:id":"06f31d64-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3192121,
         "gp:id":531296,
-        "qs:id":312656,
         "qs_pg:id":312656,
         "wd:id":"Q6565933"
     },
@@ -126,7 +123,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563576903,
+    "wof:lastmodified":1566644974,
     "wof:name":"Radlje ob Dravi",
     "wof:parent_id":1108959557,
     "wof:placetype":"locality",

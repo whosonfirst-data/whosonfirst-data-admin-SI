@@ -23,8 +23,12 @@
     "gn:population":446,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.34696,46.1992,15.38696,46.2392",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vrbno"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1226176707,
-    "wof:lastmodified":1564216881,
+    "wof:lastmodified":1566645228,
     "wof:name":"Vrbno",
     "wof:parent_id":1108959791,
     "wof:placetype":"locality",

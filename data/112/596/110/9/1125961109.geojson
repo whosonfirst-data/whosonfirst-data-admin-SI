@@ -9,15 +9,18 @@
     "geom:bbox":"15.32083,46.24167,15.32083,46.24167",
     "geom:latitude":46.24167,
     "geom:longitude":15.32083,
-    "gn:gn_country":"SI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":942,
-    "gn:population":1071,
+    "gn:country":"SI",
+    "gn:fcode":"PPL",
+    "gn:population":942,
     "iso:country":"SI",
+    "lbl:bbox":"15.30083,46.22167,15.34083,46.26167",
     "lbl:latitude":46.24167,
     "lbl:longitude":15.32083,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Ljube\u010dna"
@@ -58,9 +61,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u044e\u0431\u0435\u0447\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "Ljube\u010dna"
-    ],
     "qs_pg:aaroncc":"SI",
     "qs_pg:gn_country":"SI",
     "qs_pg:gn_fcode":"PPL",
@@ -78,7 +78,7 @@
     "qs_pg:woe_adm0":23424945,
     "qs_pg:woe_id":55851954,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424945,
     "woe:name_adm0":"Slovenija",
@@ -110,7 +110,7 @@
         }
     ],
     "wof:id":1125961109,
-    "wof:lastmodified":1563577115,
+    "wof:lastmodified":1566645062,
     "wof:name":"Ljuben",
     "wof:parent_id":1108959693,
     "wof:placetype":"locality",

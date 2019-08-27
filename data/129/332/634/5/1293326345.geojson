@@ -23,8 +23,12 @@
     "gn:population":106,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.47673,46.58648,15.51673,46.62648",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Veliki Bo\u010d"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u0411\u043e\u0447"
-    ],
-    "name:und_x_variant":[
-        "Veliki Bo\u010d"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1293326345,
-    "wof:lastmodified":1564215928,
+    "wof:lastmodified":1566644533,
     "wof:name":"Veliki Boc",
     "wof:parent_id":1108959661,
     "wof:placetype":"locality",

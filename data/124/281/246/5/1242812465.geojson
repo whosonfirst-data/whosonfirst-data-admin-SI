@@ -23,8 +23,12 @@
     "gn:population":76,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.13243,46.37586,15.17243,46.41586",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u0160martinske Cirkovce"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0428\u043c\u0430\u0440\u0442\u0438\u043d\u0441\u044c\u043a\u0435 \u0426\u0438\u0440\u043a\u043e\u0432\u0446\u0435"
-    ],
-    "name:und_x_variant":[
-        "\u0160martinske Cirkovce"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1242812465,
-    "wof:lastmodified":1564216692,
+    "wof:lastmodified":1566645101,
     "wof:name":"Smartinske Cirkovce",
     "wof:parent_id":1108959593,
     "wof:placetype":"locality",

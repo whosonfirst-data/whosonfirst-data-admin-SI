@@ -23,8 +23,12 @@
     "gn:population":77,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.51333,45.86333,15.55333,45.90333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dolenja Piro\u0161ica"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043b\u0435\u043d\u044f \u041f\u0438\u0440\u043e\u0448\u0438\u0446\u044f"
-    ],
-    "name:und_x_variant":[
-        "Dolenja Piro\u0161ica"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1210036409,
-    "wof:lastmodified":1564216225,
+    "wof:lastmodified":1566644729,
     "wof:name":"Dolenja Pirosica",
     "wof:parent_id":1108959585,
     "wof:placetype":"locality",

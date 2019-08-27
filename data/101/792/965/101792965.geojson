@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":46.019643,
     "lbl:longitude":14.384138,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.019643,
     "mps:longitude":14.384138,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dragomer"
     ],
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":102,
     "wof:belongsto":[
@@ -82,7 +85,6 @@
     "wof:concordances":{
         "gn:id":3201294,
         "gp:id":529940,
-        "qs:id":216504,
         "qs_pg:id":216504,
         "wd:id":"Q630081",
         "wk:page":"Dragomer"
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":101792965,
-    "wof:lastmodified":1563576983,
+    "wof:lastmodified":1566644998,
     "wof:name":"Dragomer",
     "wof:parent_id":1108959877,
     "wof:placetype":"locality",

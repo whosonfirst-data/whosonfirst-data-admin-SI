@@ -23,8 +23,12 @@
     "gn:population":129,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.2244,46.43143,16.2644,46.47143",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "La\u010daves"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0430\u0447\u0430\u0432\u0435\u0441"
-    ],
-    "name:und_x_variant":[
-        "La\u010daves"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0686\u0627\u0648\u06cc\u0633"
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1293424595,
-    "wof:lastmodified":1564215953,
+    "wof:lastmodified":1566644549,
     "wof:name":"Lacaves",
     "wof:parent_id":1108959765,
     "wof:placetype":"locality",

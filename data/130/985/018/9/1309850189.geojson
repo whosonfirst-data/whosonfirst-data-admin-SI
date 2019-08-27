@@ -23,8 +23,12 @@
     "gn:population":154,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.04028,45.90861,14.08028,45.94861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Predgri\u017ee"
     ],
@@ -47,8 +51,7 @@
         "\u041f\u0440\u0435\u0434\u0433\u0440\u0438\u0436\u0435"
     ],
     "name:und_x_variant":[
-        "Pregrise",
-        "Predgri\u017ee"
+        "Pregrise"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1309850189,
-    "wof:lastmodified":1564216604,
+    "wof:lastmodified":1566645014,
     "wof:name":"Predgrize",
     "wof:parent_id":1108959535,
     "wof:placetype":"locality",

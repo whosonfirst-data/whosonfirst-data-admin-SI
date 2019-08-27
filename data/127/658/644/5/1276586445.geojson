@@ -23,8 +23,12 @@
     "gn:population":16,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.36356,45.89008,15.40356,45.93008",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Goli Vrh"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1276586445,
-    "wof:lastmodified":1564216018,
+    "wof:lastmodified":1566644595,
     "wof:name":"Goli Vrh",
     "wof:parent_id":1108959473,
     "wof:placetype":"locality",

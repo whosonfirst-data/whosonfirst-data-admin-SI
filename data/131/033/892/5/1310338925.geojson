@@ -23,8 +23,12 @@
     "gn:population":227,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.14667,45.96333,15.18667,46.00333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gabrijele"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1310338925,
-    "wof:lastmodified":1564216533,
+    "wof:lastmodified":1566644937,
     "wof:name":"Gabrijele",
     "wof:parent_id":1108959927,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":183,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.29667,46.53,15.33667,46.57",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Lehen na Pohorju"
     ],
@@ -48,8 +52,7 @@
     ],
     "name:und_x_variant":[
         "Lehen",
-        "Legen",
-        "Lehen na Pohorju"
+        "Legen"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1276911809,
-    "wof:lastmodified":1564216078,
+    "wof:lastmodified":1566644631,
     "wof:name":"Lehen na Pohorju",
     "wof:parent_id":1108959555,
     "wof:placetype":"locality",

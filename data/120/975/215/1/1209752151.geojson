@@ -23,8 +23,12 @@
     "gn:population":153,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.5382,46.6185,15.5782,46.6585",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Pesnica"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1209752151,
-    "wof:lastmodified":1564216222,
+    "wof:lastmodified":1566644727,
     "wof:name":"Pesnica",
     "wof:parent_id":1108959469,
     "wof:placetype":"locality",

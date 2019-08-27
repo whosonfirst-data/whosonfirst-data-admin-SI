@@ -9,15 +9,18 @@
     "geom:bbox":"13.94361,45.75583,13.94361,45.75583",
     "geom:latitude":45.75583,
     "geom:longitude":13.94361,
-    "gn:gn_country":"SI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":49,
+    "gn:country":"SI",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SI",
+    "lbl:bbox":"13.92361,45.73583,13.96361,45.77583",
     "lbl:latitude":45.75583,
     "lbl:longitude":13.94361,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Gri\u017ee"
@@ -46,9 +49,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0438\u0436\u0435"
     ],
-    "name:unk_x_variant":[
-        "Grise"
-    ],
     "qs_pg:aaroncc":"SI",
     "qs_pg:gn_country":"SI",
     "qs_pg:gn_fcode":"PPL",
@@ -70,7 +70,7 @@
     "qs_pg:woe_adm0":23424945,
     "qs_pg:woe_id":530188,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424945,
     "woe:name_adm0":"Slovenija",
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":1125955625,
-    "wof:lastmodified":1563577063,
+    "wof:lastmodified":1566645039,
     "wof:name":"Gri\u017ee",
     "wof:parent_id":1108959789,
     "wof:placetype":"locality",

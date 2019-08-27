@@ -23,8 +23,12 @@
     "gn:population":9,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.87444,45.58056,13.91444,45.62056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Beca",
         "Beka"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293534299,
-    "wof:lastmodified":1537700266,
+    "wof:lastmodified":1566644489,
     "wof:name":"Beka",
     "wof:parent_id":1108959549,
     "wof:placetype":"locality",

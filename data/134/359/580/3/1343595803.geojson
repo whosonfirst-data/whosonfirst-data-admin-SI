@@ -23,8 +23,12 @@
     "gn:population":125,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.69968,46.11028,14.73968,46.15028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Spodnji Tu\u0161tanj"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u043f\u043e\u0434\u043d\u0456\u0439 \u0422\u0443\u0448\u0442\u0430\u043d\u044c"
-    ],
-    "name:und_x_variant":[
-        "Spodnji Tu\u0161tanj"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1343595803,
-    "wof:lastmodified":1564215778,
+    "wof:lastmodified":1566644426,
     "wof:name":"Spodnji Tustanj",
     "wof:parent_id":1108959515,
     "wof:placetype":"locality",

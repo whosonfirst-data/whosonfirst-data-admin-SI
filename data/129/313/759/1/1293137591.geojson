@@ -23,8 +23,12 @@
     "gn:population":20,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.95111,46.20389,13.99111,46.24389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ba\u010da pri Podbrdu"
     ],
@@ -47,8 +51,7 @@
         "\u0411\u0430\u0447\u0430-\u043f\u0440\u0438-\u041f\u043e\u0434\u0431\u0440\u0434\u0443"
     ],
     "name:und_x_variant":[
-        "Ba\u010da",
-        "Ba\u010da pri Podbrdu"
+        "Ba\u010da"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1293137591,
-    "wof:lastmodified":1564215905,
+    "wof:lastmodified":1566644518,
     "wof:name":"Baca pri Podbrdu",
     "wof:parent_id":1108959617,
     "wof:placetype":"locality",

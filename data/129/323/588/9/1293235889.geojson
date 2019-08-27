@@ -23,8 +23,12 @@
     "gn:population":66,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.17668,46.24492,15.21668,46.28492",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:hrv_x_preferred":[
         "Ru\u0161e"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0443\u0448\u0435"
-    ],
-    "name:und_x_variant":[
-        "Ru\u0161e"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1293235889,
-    "wof:lastmodified":1564215886,
+    "wof:lastmodified":1566644505,
     "wof:name":"Ruse",
     "wof:parent_id":1108959929,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":101,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.89667,46.14667,13.93667,46.18667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Hudaju\u017ena"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0425\u0443\u0434\u0430\u044e\u0436\u043d\u0430"
-    ],
-    "name:und_x_variant":[
-        "Hudaju\u017ena"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1310671699,
-    "wof:lastmodified":1564216538,
+    "wof:lastmodified":1566644939,
     "wof:name":"Hudajuzna",
     "wof:parent_id":1108959577,
     "wof:placetype":"locality",

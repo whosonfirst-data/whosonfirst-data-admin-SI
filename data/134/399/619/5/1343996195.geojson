@@ -23,8 +23,12 @@
     "gn:population":505,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.68167,45.86889,13.72167,45.90889",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gradi\u0161\u010de nad Prva\u010dino"
     ],
@@ -54,8 +58,7 @@
     ],
     "name:und_x_variant":[
         "Gradi\u0161\u010de",
-        "Grandi\u0161\u010de",
-        "Gradi\u0161\u010de nad Prva\u010dino"
+        "Grandi\u0161\u010de"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1343996195,
-    "wof:lastmodified":1564215730,
+    "wof:lastmodified":1566644392,
     "wof:name":"Gradisce nad Prvacino",
     "wof:parent_id":1108959487,
     "wof:placetype":"locality",

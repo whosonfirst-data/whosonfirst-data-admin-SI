@@ -23,8 +23,12 @@
     "gn:population":104,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.07059,46.06208,14.11059,46.10208",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Fu\u017eine"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0424\u0443\u0436\u0438\u043d\u0435"
-    ],
-    "name:und_x_variant":[
-        "Fu\u017eine"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1310259053,
-    "wof:lastmodified":1564216474,
+    "wof:lastmodified":1566644904,
     "wof:name":"Fuzine",
     "wof:parent_id":1108959897,
     "wof:placetype":"locality",

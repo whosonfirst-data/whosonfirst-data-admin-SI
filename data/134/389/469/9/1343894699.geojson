@@ -23,8 +23,12 @@
     "gn:population":97,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.89972,46.27417,14.93972,46.31417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Pusto Polje"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1343894699,
-    "wof:lastmodified":1564215831,
+    "wof:lastmodified":1566644461,
     "wof:name":"Pusto Polje",
     "wof:parent_id":1108959901,
     "wof:placetype":"locality",

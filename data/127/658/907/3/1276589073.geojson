@@ -23,8 +23,12 @@
     "gn:population":5,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.8924,45.48463,14.9324,45.52463",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Mavrc"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1276589073,
-    "wof:lastmodified":1564216016,
+    "wof:lastmodified":1566644593,
     "wof:name":"Mavrc",
     "wof:parent_id":1108959711,
     "wof:placetype":"locality",

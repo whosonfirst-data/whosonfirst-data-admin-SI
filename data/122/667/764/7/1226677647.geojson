@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.42472,46.19167,15.46472,46.23167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Grobelno\u2013del"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1226677647,
-    "wof:lastmodified":1564216904,
+    "wof:lastmodified":1566645244,
     "wof:name":"Grobelno",
     "wof:parent_id":1108959607,
     "wof:placetype":"locality",

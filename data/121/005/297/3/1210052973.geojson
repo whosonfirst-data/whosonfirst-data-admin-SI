@@ -23,8 +23,12 @@
     "gn:population":185,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.68865,46.6087,15.72865,46.6487",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vukovski Vrh"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1210052973,
-    "wof:lastmodified":1564216235,
+    "wof:lastmodified":1566644736,
     "wof:name":"Vukovski Vrh",
     "wof:parent_id":1108959553,
     "wof:placetype":"locality",

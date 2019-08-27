@@ -23,8 +23,12 @@
     "gn:population":62,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.96333,45.63222,14.00333,45.67222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dane pri Diva\u010di"
     ],
@@ -48,8 +52,7 @@
     ],
     "name:und_x_variant":[
         "Danne di Sesana",
-        "Dane",
-        "Dane pri Diva\u010di"
+        "Dane"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1309868259,
-    "wof:lastmodified":1564216631,
+    "wof:lastmodified":1566645031,
     "wof:name":"Dane pri Divaci",
     "wof:parent_id":1108959845,
     "wof:placetype":"locality",

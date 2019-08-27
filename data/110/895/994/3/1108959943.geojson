@@ -18,14 +18,16 @@
     ],
     "lbl:latitude":45.699575,
     "lbl:longitude":15.055724,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":0,
     "mz:is_current":1,
+    "mz:min_zoom":4.0,
     "mz:note":"statistical region, no administrative function",
     "name:eng_x_preferred":[
         "Dolenjska"
     ],
     "src:geom":"svn-sma",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
     "src:population:date:":"2011-01-01",
     "statoids:area_km":"2675",
@@ -70,7 +72,7 @@
         }
     ],
     "wof:id":1108959943,
-    "wof:lastmodified":1553551430,
+    "wof:lastmodified":1566644863,
     "wof:name":"Jugovzhodna Slovenija",
     "wof:parent_id":85633779,
     "wof:placetype":"region",

@@ -23,8 +23,12 @@
     "gn:population":129,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.0901,46.09939,15.1301,46.13939",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Krnice"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1226082883,
-    "wof:lastmodified":1564216991,
+    "wof:lastmodified":1566645301,
     "wof:name":"Krnice",
     "wof:parent_id":1108959571,
     "wof:placetype":"locality",

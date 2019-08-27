@@ -23,8 +23,12 @@
     "gn:population":40,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.26279,45.51255,15.30279,45.55255",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Jankovi\u010di"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u042f\u043d\u043a\u043e\u0432\u0438\u0447\u0456"
-    ],
-    "name:und_x_variant":[
-        "Jankovi\u010di"
     ],
     "name:urd_x_preferred":[
         "\u062c\u0646\u06a9\u0648\u0648\u06cc\u0686\u0627"
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1293565325,
-    "wof:lastmodified":1564215934,
+    "wof:lastmodified":1566644537,
     "wof:name":"Jankovici",
     "wof:parent_id":1108959699,
     "wof:placetype":"locality",

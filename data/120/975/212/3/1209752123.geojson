@@ -23,8 +23,12 @@
     "gn:population":183,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.63544,46.30743,15.67544,46.34743",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u0160tatenberg"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0428\u0442\u0430\u0442\u0435\u043d\u0431\u0435\u0440\u0433"
-    ],
-    "name:und_x_variant":[
-        "\u0160tatenberg"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1209752123,
-    "wof:lastmodified":1564216222,
+    "wof:lastmodified":1566644727,
     "wof:name":"Statenberg",
     "wof:parent_id":1108959773,
     "wof:placetype":"locality",

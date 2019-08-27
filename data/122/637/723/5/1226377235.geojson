@@ -23,8 +23,12 @@
     "gn:population":440,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.38902,46.05027,14.42902,46.09027",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gabrje"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1226377235,
-    "wof:lastmodified":1564216982,
+    "wof:lastmodified":1566645294,
     "wof:name":"Gabrje",
     "wof:parent_id":1108959847,
     "wof:placetype":"locality",

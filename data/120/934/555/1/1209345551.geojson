@@ -23,8 +23,12 @@
     "gn:population":73,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.29667,46.21333,14.33667,46.25333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "P\u0161evo"
     ],
@@ -46,9 +50,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0448\u0435\u0432\u043e"
     ],
-    "name:und_x_variant":[
-        "P\u0161evo"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1209345551,
-    "wof:lastmodified":1564216191,
+    "wof:lastmodified":1566644707,
     "wof:name":"Psevo",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

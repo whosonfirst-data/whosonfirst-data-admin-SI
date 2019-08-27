@@ -23,8 +23,12 @@
     "gn:population":5,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.89667,45.66472,14.93667,45.70472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Stari Breg"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1310140641,
-    "wof:lastmodified":1564216470,
+    "wof:lastmodified":1566644902,
     "wof:name":"Stari Breg",
     "wof:parent_id":1108959919,
     "wof:placetype":"locality",

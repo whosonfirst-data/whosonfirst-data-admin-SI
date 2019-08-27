@@ -9,15 +9,18 @@
     "geom:bbox":"15.12139,46.33694,15.12139,46.33694",
     "geom:latitude":46.33694,
     "geom:longitude":15.12139,
-    "gn:gn_country":"SI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":286,
+    "gn:country":"SI",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SI",
+    "lbl:bbox":"15.10139,46.31694,15.14139,46.35694",
     "lbl:latitude":46.33694,
     "lbl:longitude":15.12139,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Ra\u010de"
@@ -43,7 +46,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0447\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Arnace"
     ],
     "qs_pg:aaroncc":"SI",
@@ -67,7 +70,7 @@
     "qs_pg:woe_adm0":23424945,
     "qs_pg:woe_id":531288,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424945,
     "woe:name_adm0":"Slovenija",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1125955137,
-    "wof:lastmodified":1564216637,
+    "wof:lastmodified":1566645040,
     "wof:name":"Ra\u010de",
     "wof:parent_id":1108959593,
     "wof:placetype":"locality",

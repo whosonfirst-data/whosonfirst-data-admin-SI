@@ -12,8 +12,11 @@
     "iso:country":"SI",
     "lbl:latitude":46.102256,
     "lbl:longitude":14.67295,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Dol pri Ljubljani"
     ],
@@ -36,7 +39,7 @@
         "\u0414\u043e\u043b-\u043f\u0440\u0438-\u041b\u044e\u0431\u043b\u044f\u043d\u0456"
     ],
     "src:geom":"svn-sma",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1108959861,
-    "wof:lastmodified":1564216435,
+    "wof:lastmodified":1566644882,
     "wof:name":"Dol pri Ljubljani",
     "wof:parent_id":1108959949,
     "wof:placetype":"localadmin",

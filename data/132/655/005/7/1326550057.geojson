@@ -23,8 +23,12 @@
     "gn:population":161,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.6812,45.93232,15.7212,45.97232",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Slogonsko"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1326550057,
-    "wof:lastmodified":1564215677,
+    "wof:lastmodified":1566644357,
     "wof:name":"Slogonsko",
     "wof:parent_id":1108959585,
     "wof:placetype":"locality",

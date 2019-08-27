@@ -23,8 +23,12 @@
     "gn:population":71,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.11747,45.5427,15.15747,45.5827",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dobli\u010dka Gora"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0414\u043e\u0431\u043b\u0438\u0447\u043a\u0430 \u0413\u043e\u0440\u0430"
-    ],
-    "name:und_x_variant":[
-        "Dobli\u010dka Gora"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1293652833,
-    "wof:lastmodified":1564215853,
+    "wof:lastmodified":1566644483,
     "wof:name":"Doblicka Gora",
     "wof:parent_id":1108959699,
     "wof:placetype":"locality",

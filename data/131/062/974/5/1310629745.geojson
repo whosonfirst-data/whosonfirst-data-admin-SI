@@ -23,8 +23,12 @@
     "gn:population":54,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.83998,46.12469,14.87998,46.16469",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dolgo Brdo pri Mlin\u0161ah"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043b\u0433\u043e \u0411\u0440\u0434\u043e-\u043f\u0440\u0438-\u041c\u043b\u0438\u043d\u0448\u0430\u0445"
-    ],
-    "name:und_x_variant":[
-        "Dolgo Brdo pri Mlin\u0161ah"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1310629745,
-    "wof:lastmodified":1564216477,
+    "wof:lastmodified":1566644905,
     "wof:name":"Dolgo Brdo pri Mlinsah",
     "wof:parent_id":1108959683,
     "wof:placetype":"locality",

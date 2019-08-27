@@ -9,15 +9,19 @@
     "geom:bbox":"14.414683,46.030624,14.414683,46.030624",
     "geom:latitude":46.030624,
     "geom:longitude":14.414683,
-    "gn:gn_country":null,
+    "gn:country":null,
     "gn:population":2862,
     "iso:country":"SI",
+    "lbl:bbox":"14.394683,46.010624,14.434683,46.050624",
     "lbl:latitude":46.030624,
     "lbl:longitude":14.414683,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.030624,
     "mps:longitude":14.414683,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Brezovica pri Ljubljani"
     ],
@@ -54,7 +58,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0435\u0437\u043e\u0432\u0438\u0446\u044f-\u043f\u0440\u0438-\u041b\u044e\u0431\u043b\u044f\u043d\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Brezovica"
     ],
     "name:urd_x_preferred":[
@@ -94,7 +98,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":472,
     "wof:belongsto":[
@@ -107,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3203338,
         "gp:id":529663,
-        "qs:id":147313,
         "qs_pg:id":147313,
         "wd:id":"Q2127005"
     },
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101857893,
-    "wof:lastmodified":1563576942,
+    "wof:lastmodified":1566644986,
     "wof:name":"Brezovica pri Ljubljani",
     "wof:parent_id":1108959895,
     "wof:placetype":"locality",

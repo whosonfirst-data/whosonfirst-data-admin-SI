@@ -9,14 +9,17 @@
     "geom:bbox":"15.3780419119,46.3666913687,15.3994337661,46.3837668739",
     "geom:latitude":46.374184,
     "geom:longitude":15.387526,
-    "geonames:id":"3186498,3339120",
+    "gn:id":"3186498,3339120",
     "iso:country":"SI",
     "lbl:latitude":46.373368,
     "lbl:longitude":15.387364,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.373368,
     "mps:longitude":15.387364,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Zre\u010de"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1108959671,
@@ -83,9 +86,11 @@
     "wof:concordances":{
         "gn:id":3339120,
         "gp:id":532321,
-        "qs:id":1,
-        "qs_pg:id":582719,
+        "qs_pg:id":1,
         "wd:id":"Q3501344"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":582719
     },
     "wof:country":"SI",
     "wof:geomhash":"9b31fdde60a7d7afd09bcdb872c4d616",
@@ -99,7 +104,7 @@
         }
     ],
     "wof:id":101792029,
-    "wof:lastmodified":1563577003,
+    "wof:lastmodified":1566645004,
     "wof:name":"Zre\u010de",
     "wof:parent_id":1108959671,
     "wof:placetype":"locality",

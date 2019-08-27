@@ -23,8 +23,12 @@
     "gn:population":36,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.1839,46.14976,14.2239,46.18976",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Mlaka nad Lu\u0161o"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u043b\u0430\u043a\u0430-\u043d\u0430\u0434-\u041b\u0443\u0448\u043e"
-    ],
-    "name:und_x_variant":[
-        "Mlaka nad Lu\u0161o"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1193232557,
-    "wof:lastmodified":1564216238,
+    "wof:lastmodified":1566644738,
     "wof:name":"Mlaka nad Luso",
     "wof:parent_id":1108959897,
     "wof:placetype":"locality",

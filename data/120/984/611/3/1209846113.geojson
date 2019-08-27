@@ -23,8 +23,12 @@
     "gn:population":112,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.71837,46.14423,13.75837,46.18423",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Modrejce"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1209846113,
-    "wof:lastmodified":1564216126,
+    "wof:lastmodified":1566644663,
     "wof:name":"Modrejce",
     "wof:parent_id":1108959617,
     "wof:placetype":"locality",

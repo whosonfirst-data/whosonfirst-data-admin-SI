@@ -23,8 +23,12 @@
     "gn:population":62,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.94667,46.04667,13.98667,46.08667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Masore"
     ],
@@ -45,8 +49,7 @@
     ],
     "name:und_x_variant":[
         "Masare",
-        "Masora",
-        "Masore"
+        "Masora"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1242730909,
-    "wof:lastmodified":1564216685,
+    "wof:lastmodified":1566645096,
     "wof:name":"Masore",
     "wof:parent_id":1108959535,
     "wof:placetype":"locality",

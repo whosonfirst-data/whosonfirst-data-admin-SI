@@ -9,15 +9,18 @@
     "geom:bbox":"13.76667,46.13333,13.76667,46.13333",
     "geom:latitude":46.13333,
     "geom:longitude":13.76667,
-    "gn:gn_country":"SI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":135,
+    "gn:country":"SI",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SI",
+    "lbl:bbox":"13.74667,46.11333,13.78667,46.15333",
     "lbl:latitude":46.13333,
     "lbl:longitude":13.76667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Ba\u010da pri Modreju"
@@ -49,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0447\u0430 \u043f\u0440\u0438 \u041c\u043e\u0434\u0440\u0435\u044e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ba\u010da"
     ],
     "qs_pg:aaroncc":"SI",
@@ -73,7 +76,7 @@
     "qs_pg:woe_adm0":23424945,
     "qs_pg:woe_id":529504,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424945,
     "woe:name_adm0":"Slovenija",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1125806641,
-    "wof:lastmodified":1563577095,
+    "wof:lastmodified":1566645054,
     "wof:name":"Ba\u010da Pri Modreju",
     "wof:parent_id":1108959617,
     "wof:placetype":"locality",

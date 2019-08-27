@@ -23,8 +23,12 @@
     "gn:population":1566,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.33,46.26333,14.37,46.30333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Mlaka pri Kranju"
     ],
@@ -50,8 +54,7 @@
         "\u041c\u043b\u0430\u043a\u0430-\u043f\u0440\u0438-\u041a\u0440\u0430\u043d\u044e"
     ],
     "name:und_x_variant":[
-        "Mlaka",
-        "Mlaka pri Kranju"
+        "Mlaka"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1343390155,
-    "wof:lastmodified":1564215720,
+    "wof:lastmodified":1566644385,
     "wof:name":"Mlaka pri Kranju",
     "wof:parent_id":1108959933,
     "wof:placetype":"locality",

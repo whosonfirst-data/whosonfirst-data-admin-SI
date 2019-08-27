@@ -23,8 +23,12 @@
     "gn:population":45,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.99782,45.85939,15.03782,45.89939",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gorenji Vrh pri Dobrni\u010du"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0440\u0435\u043d\u0438\u0439 \u0412\u0440\u0445-\u043f\u0440\u0438-\u0414\u043e\u0431\u0440\u043d\u0438\u0447\u0443"
-    ],
-    "name:und_x_variant":[
-        "Gorenji Vrh pri Dobrni\u010du"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1276159061,
-    "wof:lastmodified":1564216043,
+    "wof:lastmodified":1566644610,
     "wof:name":"Gorenji Vrh pri Dobrnicu",
     "wof:parent_id":1108959839,
     "wof:placetype":"locality",

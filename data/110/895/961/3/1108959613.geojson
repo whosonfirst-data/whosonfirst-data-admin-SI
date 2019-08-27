@@ -12,8 +12,11 @@
     "iso:country":"SI",
     "lbl:latitude":45.481102,
     "lbl:longitude":13.616469,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Piran"
     ],
@@ -165,7 +168,7 @@
         "Piran"
     ],
     "src:geom":"svn-sma",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "svn-sma:d_od":"2015-02-25",
     "svn-sma:dv_od":"2015-02-25",
     "svn-sma:enota":"OB",
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":1108959613,
-    "wof:lastmodified":1564216390,
+    "wof:lastmodified":1566644846,
     "wof:name":"Piran",
     "wof:parent_id":1108959951,
     "wof:placetype":"localadmin",

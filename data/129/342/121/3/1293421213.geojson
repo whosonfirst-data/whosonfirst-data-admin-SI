@@ -23,8 +23,12 @@
     "gn:population":128,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.11944,46.76167,16.15944,46.80167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Prose\u010dka vas"
     ],
@@ -58,8 +62,7 @@
     "name:und_x_variant":[
         "K\u00f6lesv\u00f6ly",
         "Prese\u010dkaves",
-        "Prose\u010dka Ves",
-        "Prose\u010dka Vas"
+        "Prose\u010dka Ves"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1293421213,
-    "wof:lastmodified":1564215949,
+    "wof:lastmodified":1566644547,
     "wof:name":"Prosecka Vas",
     "wof:parent_id":1108959935,
     "wof:placetype":"locality",

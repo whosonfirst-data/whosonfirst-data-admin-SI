@@ -23,8 +23,12 @@
     "gn:population":46,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.48796,45.98709,13.52796,46.02709",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Brdice pri Neblem"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1327125923,
-    "wof:lastmodified":1564215647,
+    "wof:lastmodified":1566644337,
     "wof:name":"Brdice pri Neblem",
     "wof:parent_id":1108959811,
     "wof:placetype":"locality",

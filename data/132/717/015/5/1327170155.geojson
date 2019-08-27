@@ -23,8 +23,12 @@
     "gn:population":193,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.66333,46.38,15.70333,46.42",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Stra\u017egonjca"
     ],
@@ -48,8 +52,7 @@
     ],
     "name:und_x_variant":[
         "Stra\u017egonjci",
-        "Strgojnce",
-        "Stra\u017egonjca"
+        "Strgojnce"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1327170155,
-    "wof:lastmodified":1564215696,
+    "wof:lastmodified":1566644369,
     "wof:name":"Strazgonjca",
     "wof:parent_id":1108959641,
     "wof:placetype":"locality",

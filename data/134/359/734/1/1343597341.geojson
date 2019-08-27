@@ -23,8 +23,12 @@
     "gn:population":96,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.8499,45.95649,14.8899,45.99649",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u010cago\u0161\u010de"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0427\u0430\u0433\u043e\u0449\u0435"
-    ],
-    "name:und_x_variant":[
-        "\u010cago\u0161\u010de"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1343597341,
-    "wof:lastmodified":1564215779,
+    "wof:lastmodified":1566644427,
     "wof:name":"Cagosce",
     "wof:parent_id":1108959583,
     "wof:placetype":"locality",

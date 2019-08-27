@@ -23,8 +23,12 @@
     "gn:population":107,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.10129,45.5521,14.14129,45.5921",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Huje"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1209049427,
-    "wof:lastmodified":1564216180,
+    "wof:lastmodified":1566644701,
     "wof:name":"Huje",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

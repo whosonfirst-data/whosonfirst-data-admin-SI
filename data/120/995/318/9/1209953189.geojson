@@ -23,8 +23,12 @@
     "gn:population":19,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.33687,46.2815,15.37687,46.3215",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u010cre\u0161njevec"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0427\u0440\u0435\u0448\u043d\u0454\u0432\u0435\u0446\u044c"
-    ],
-    "name:und_x_variant":[
-        "\u010cre\u0161njevec"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1209953189,
-    "wof:lastmodified":1564216164,
+    "wof:lastmodified":1566644690,
     "wof:name":"Cresnjevec",
     "wof:parent_id":1108959653,
     "wof:placetype":"locality",

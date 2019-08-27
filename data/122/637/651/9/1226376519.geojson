@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.82786,45.9972,13.86786,46.0372",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:slv_x_historical":[
         "Plu\u017ene"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226376519,
-    "wof:lastmodified":1537700337,
+    "wof:lastmodified":1566645293,
     "wof:name":"Pluznje",
     "wof:parent_id":1108959617,
     "wof:placetype":"locality",

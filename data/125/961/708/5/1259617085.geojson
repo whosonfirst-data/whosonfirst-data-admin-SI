@@ -23,8 +23,12 @@
     "gn:population":144,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.2182,46.48045,16.2582,46.52045",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Presika"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1259617085,
-    "wof:lastmodified":1564216834,
+    "wof:lastmodified":1566645196,
     "wof:name":"Presika",
     "wof:parent_id":1108959499,
     "wof:placetype":"locality",

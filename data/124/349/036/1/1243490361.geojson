@@ -23,8 +23,12 @@
     "gn:population":173,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.67361,45.48917,13.71361,45.52917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Srga\u0161i"
     ],
@@ -52,9 +56,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0440\u0433\u0430\u0448\u0456"
     ],
-    "name:und_x_variant":[
-        "Srga\u0161i"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1243490361,
-    "wof:lastmodified":1564216716,
+    "wof:lastmodified":1566645118,
     "wof:name":"Srgasi",
     "wof:parent_id":1108959527,
     "wof:placetype":"locality",

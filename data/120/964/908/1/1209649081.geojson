@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.67141,46.10168,13.71141,46.14168",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:slv_x_historical":[
         "Seno\u017eetce"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209649081,
-    "wof:lastmodified":1537700337,
+    "wof:lastmodified":1566644654,
     "wof:name":"Senozecar",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

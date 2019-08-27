@@ -23,8 +23,12 @@
     "gn:population":170,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.66472,45.47389,13.70472,45.51389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Padna"
     ],
@@ -55,10 +59,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0434\u043d\u0430"
     ],
-    "name:und_x_variant":[
-        "Padena",
-        "Padna"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":1293919593,
-    "wof:lastmodified":1564215849,
+    "wof:lastmodified":1566644480,
     "wof:name":"Padna",
     "wof:parent_id":1108959613,
     "wof:placetype":"locality",

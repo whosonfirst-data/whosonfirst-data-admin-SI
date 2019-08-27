@@ -23,8 +23,12 @@
     "gn:population":23,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.86101,45.98725,14.90101,46.02725",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vi\u0161nji Grm"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0438\u0448\u043d\u0456\u0439 \u0413\u0440\u043c"
-    ],
-    "name:und_x_variant":[
-        "Vi\u0161nji Grm"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1226784545,
-    "wof:lastmodified":1564216963,
+    "wof:lastmodified":1566645281,
     "wof:name":"Visnji Grm",
     "wof:parent_id":1108959745,
     "wof:placetype":"locality",

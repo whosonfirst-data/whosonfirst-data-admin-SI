@@ -23,8 +23,12 @@
     "gn:population":227,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.03083,46.65444,16.07083,46.69444",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Sodi\u0161inci"
     ],
@@ -56,8 +60,7 @@
         "\u0421\u043e\u0434\u0438\u0448\u0438\u043d\u0446\u0456"
     ],
     "name:und_x_variant":[
-        "Bir\u00f3sz\u00e9k",
-        "Sodi\u0161inci"
+        "Bir\u00f3sz\u00e9k"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1326765047,
-    "wof:lastmodified":1564215658,
+    "wof:lastmodified":1566644344,
     "wof:name":"Sodisinci",
     "wof:parent_id":1108959519,
     "wof:placetype":"locality",

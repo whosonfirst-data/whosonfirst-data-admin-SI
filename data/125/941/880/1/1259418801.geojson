@@ -23,8 +23,12 @@
     "gn:population":26,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.25831,46.14051,14.29831,46.18051",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gabrovo"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1259418801,
-    "wof:lastmodified":1564216806,
+    "wof:lastmodified":1566645177,
     "wof:name":"Gabrovo",
     "wof:parent_id":1108959821,
     "wof:placetype":"locality",

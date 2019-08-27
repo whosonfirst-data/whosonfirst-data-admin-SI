@@ -23,8 +23,12 @@
     "gn:population":202,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.38,46.21333,15.42,46.25333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Primo\u017e pri \u0160entjurju"
     ],
@@ -51,8 +55,7 @@
     ],
     "name:und_x_variant":[
         "Primo\u017e",
-        "Sveti Primo\u017e",
-        "Primo\u017e pri \u0160entjurju"
+        "Sveti Primo\u017e"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1209946181,
-    "wof:lastmodified":1564216183,
+    "wof:lastmodified":1566644703,
     "wof:name":"Primoz pri Sentjurju",
     "wof:parent_id":1108959791,
     "wof:placetype":"locality",

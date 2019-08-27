@@ -23,8 +23,12 @@
     "gn:population":47,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.9496,46.53991,15.9896,46.57991",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ko\u010dki Vrh"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0447\u043a\u0438\u0439 \u0412\u0440\u0445"
-    ],
-    "name:und_x_variant":[
-        "Ko\u010dki Vrh"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1292940949,
-    "wof:lastmodified":1564215876,
+    "wof:lastmodified":1566644498,
     "wof:name":"Kocki Vrh",
     "wof:parent_id":1108959591,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":16,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.91183,45.85462,14.95183,45.89462",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vol\u010dja Jama"
     ],
@@ -47,8 +51,7 @@
         "\u0412\u043e\u043b\u0447\u044f \u042f\u043c\u0430"
     ],
     "name:und_x_variant":[
-        "Vol\u010dje Jame",
-        "Vol\u010dja Jama"
+        "Vol\u010dje Jame"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1293725477,
-    "wof:lastmodified":1564215974,
+    "wof:lastmodified":1566644563,
     "wof:name":"Volcja Jama",
     "wof:parent_id":1108959839,
     "wof:placetype":"locality",

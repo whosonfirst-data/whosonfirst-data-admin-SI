@@ -23,8 +23,12 @@
     "gn:population":58,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.39646,45.92089,15.43646,45.96089",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Drenovec pri Leskovcu"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1310140199,
-    "wof:lastmodified":1564216472,
+    "wof:lastmodified":1566644902,
     "wof:name":"Drenovec pri Leskovcu",
     "wof:parent_id":1108959473,
     "wof:placetype":"locality",

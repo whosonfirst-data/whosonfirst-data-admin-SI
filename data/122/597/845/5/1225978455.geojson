@@ -23,8 +23,12 @@
     "gn:population":118,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.10944,46.51583,16.14944,46.55583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Grabe pri Ljutomeru"
     ],
@@ -50,8 +54,7 @@
         "\u0413\u0440\u0430\u0431\u0435-\u043f\u0440\u0438-\u041b\u044e\u0442\u043e\u043c\u0435\u0440\u0443"
     ],
     "name:und_x_variant":[
-        "Grabe",
-        "Grabe pri Ljutomeru"
+        "Grabe"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1225978455,
-    "wof:lastmodified":1564216937,
+    "wof:lastmodified":1566645264,
     "wof:name":"Grabe pri Ljutomeru",
     "wof:parent_id":1108959775,
     "wof:placetype":"locality",

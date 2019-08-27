@@ -23,8 +23,12 @@
     "gn:population":458,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.23776,45.61337,14.27776,45.65337",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ba\u010d"
     ],
@@ -52,10 +56,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0447"
     ],
-    "name:und_x_variant":[
-        "Baccia",
-        "Ba\u010d"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":1226381231,
-    "wof:lastmodified":1564217001,
+    "wof:lastmodified":1566645309,
     "wof:name":"Bac",
     "wof:parent_id":1108959873,
     "wof:placetype":"locality",

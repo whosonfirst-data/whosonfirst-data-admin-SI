@@ -23,8 +23,12 @@
     "gn:population":124,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.37556,45.8125,14.41556,45.8525",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Sel\u0161\u010dek"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043b\u0449\u0435\u043a"
-    ],
-    "name:und_x_variant":[
-        "Sel\u0161\u010dek"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1360164077,
-    "wof:lastmodified":1564216568,
+    "wof:lastmodified":1566644956,
     "wof:name":"Selscek",
     "wof:parent_id":1108959905,
     "wof:placetype":"locality",

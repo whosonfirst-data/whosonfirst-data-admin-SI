@@ -23,8 +23,12 @@
     "gn:population":119,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.04741,46.57968,16.08741,46.61968",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Murski Vrh"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1209746701,
-    "wof:lastmodified":1564216202,
+    "wof:lastmodified":1566644713,
     "wof:name":"Murski Vrh",
     "wof:parent_id":1108959569,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":38,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.31841,46.14495,14.35841,46.18495",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Lipica"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1343994901,
-    "wof:lastmodified":1564215732,
+    "wof:lastmodified":1566644393,
     "wof:name":"Lipica",
     "wof:parent_id":1108959821,
     "wof:placetype":"locality",

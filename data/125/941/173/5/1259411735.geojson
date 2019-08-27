@@ -23,8 +23,12 @@
     "gn:population":536,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.40661,46.34025,15.44661,46.38025",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Bezina"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1259411735,
-    "wof:lastmodified":1564216809,
+    "wof:lastmodified":1566645180,
     "wof:name":"Bezina",
     "wof:parent_id":1108959753,
     "wof:placetype":"locality",

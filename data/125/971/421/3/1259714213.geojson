@@ -23,8 +23,12 @@
     "gn:population":576,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.31333,46.59667,16.35333,46.63667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Nedelica"
     ],
@@ -53,10 +57,8 @@
         "\u041d\u0435\u0434\u0435\u043b\u0438\u0446\u044f"
     ],
     "name:und_x_variant":[
-        "Zork\u00f3h\u00e1za",
         "Brezovec Del",
-        "Brezovec",
-        "Nedelica"
+        "Brezovec"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":1259714213,
-    "wof:lastmodified":1564216825,
+    "wof:lastmodified":1566645190,
     "wof:name":"Nedelica",
     "wof:parent_id":1108959603,
     "wof:placetype":"locality",

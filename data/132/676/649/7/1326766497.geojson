@@ -23,8 +23,12 @@
     "gn:population":146,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.29614,45.88107,15.33614,45.92107",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Grmovlje"
     ],
@@ -51,8 +55,7 @@
     ],
     "name:und_x_variant":[
         "Grmolje",
-        "Grmulje",
-        "Grmovlje"
+        "Grmulje"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1326766497,
-    "wof:lastmodified":1564215664,
+    "wof:lastmodified":1566644347,
     "wof:name":"Grmovlje",
     "wof:parent_id":1108959605,
     "wof:placetype":"locality",

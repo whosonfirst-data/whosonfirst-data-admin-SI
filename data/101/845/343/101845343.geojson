@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":46.688997,
     "lbl:longitude":16.388719,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":46.688997,
     "mps:longitude":16.388719,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Brezovica"
     ],
@@ -117,9 +120,6 @@
     "name:ukr_x_variant":[
         "\u0411\u0440\u0435\u0437\u043e\u0432\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
-        "Kebeleszentm\u00e1rton"
-    ],
     "name:vie_x_preferred":[
         "Kobilje"
     ],
@@ -137,7 +137,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -148,7 +148,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3197959,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q842530",
         "wk:page":"Kobilje"
     },
@@ -164,7 +164,7 @@
         }
     ],
     "wof:id":101845343,
-    "wof:lastmodified":1563576935,
+    "wof:lastmodified":1566644984,
     "wof:name":"Kobilje",
     "wof:parent_id":1108959521,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":50,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.87626,45.88589,14.91626,45.92589",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Velike Dole"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1327263189,
-    "wof:lastmodified":1564215694,
+    "wof:lastmodified":1566644368,
     "wof:name":"Velike Dole",
     "wof:parent_id":1108959839,
     "wof:placetype":"locality",

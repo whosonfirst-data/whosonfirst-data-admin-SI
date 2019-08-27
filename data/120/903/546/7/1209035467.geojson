@@ -23,8 +23,12 @@
     "gn:population":53,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.45193,46.37869,15.49193,46.41869",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Zlogona vas"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1209035467,
-    "wof:lastmodified":1564216174,
+    "wof:lastmodified":1566644697,
     "wof:name":"Zlogona Vas",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

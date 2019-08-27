@@ -23,8 +23,12 @@
     "gn:population":32,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.23842,45.72007,15.27842,45.76007",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Iglenik"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1225981027,
-    "wof:lastmodified":1564216944,
+    "wof:lastmodified":1566645268,
     "wof:name":"Iglenik",
     "wof:parent_id":1108959465,
     "wof:placetype":"locality",

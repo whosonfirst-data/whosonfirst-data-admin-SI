@@ -23,8 +23,12 @@
     "gn:population":14,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.72527,46.09468,13.76527,46.13468",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dolgi Laz"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1225875279,
-    "wof:lastmodified":1564216931,
+    "wof:lastmodified":1566645260,
     "wof:name":"Dolgi Laz",
     "wof:parent_id":1108959617,
     "wof:placetype":"locality",

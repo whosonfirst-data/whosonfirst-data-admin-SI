@@ -23,8 +23,12 @@
     "gn:population":42,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.96333,45.99667,15.00333,46.03667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vodice pri Gabrovki"
     ],
@@ -47,8 +51,7 @@
         "\u0412\u043e\u0434\u0438\u0446\u0435-\u043f\u0440\u0438-\u0413\u0430\u0431\u0440\u043e\u0432\u043a\u0456"
     ],
     "name:und_x_variant":[
-        "Vodice",
-        "Vodice pri Gabrovki"
+        "Vodice"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1310136449,
-    "wof:lastmodified":1564216466,
+    "wof:lastmodified":1566644899,
     "wof:name":"Vodice pri Gabrovki",
     "wof:parent_id":1108959907,
     "wof:placetype":"locality",

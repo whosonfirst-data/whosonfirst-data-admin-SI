@@ -23,8 +23,12 @@
     "gn:population":55,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.06021,46.56998,16.10021,46.60998",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Zasadi"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1193047537,
-    "wof:lastmodified":1564216240,
+    "wof:lastmodified":1566644740,
     "wof:name":"Zasadi",
     "wof:parent_id":1108959775,
     "wof:placetype":"locality",

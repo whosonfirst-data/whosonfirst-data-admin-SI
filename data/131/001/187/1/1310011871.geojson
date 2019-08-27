@@ -23,8 +23,12 @@
     "gn:population":44,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.81093,46.25925,13.85093,46.29925",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ukanc"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1310011871,
-    "wof:lastmodified":1564216499,
+    "wof:lastmodified":1566644917,
     "wof:name":"Ukanc",
     "wof:parent_id":1108959819,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":27,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.99472,45.57777,14.03472,45.61777",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gradi\u0161ica"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0430\u0434\u0438\u0448\u0438\u0446\u0430"
-    ],
-    "name:und_x_variant":[
-        "Gradi\u0161ica"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1243308379,
-    "wof:lastmodified":1564216672,
+    "wof:lastmodified":1566645088,
     "wof:name":"Gradisica",
     "wof:parent_id":1108959549,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":43,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.94472,46.23722,13.98472,46.27722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ravne v Bohinju"
     ],
@@ -53,8 +57,7 @@
         "\u0420\u0430\u0432\u043d\u0435-\u0432-\u0411\u043e\u0445\u0456\u043d\u044e"
     ],
     "name:und_x_variant":[
-        "Ravne",
-        "Ravne v Bohinju"
+        "Ravne"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1276156327,
-    "wof:lastmodified":1564216045,
+    "wof:lastmodified":1566644611,
     "wof:name":"Ravne v Bohinju",
     "wof:parent_id":1108959819,
     "wof:placetype":"locality",

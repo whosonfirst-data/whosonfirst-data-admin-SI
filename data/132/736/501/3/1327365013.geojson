@@ -23,8 +23,12 @@
     "gn:population":110,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.92351,46.33299,15.96351,46.37299",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Sovi\u010de"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u043e\u0432\u0438\u0447\u0435"
-    ],
-    "name:und_x_variant":[
-        "Sovi\u010de"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1327365013,
-    "wof:lastmodified":1564215598,
+    "wof:lastmodified":1566644307,
     "wof:name":"Sovice",
     "wof:parent_id":1108959747,
     "wof:placetype":"locality",

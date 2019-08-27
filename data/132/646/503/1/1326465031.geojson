@@ -23,8 +23,12 @@
     "gn:population":689,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.58969,46.23684,14.62969,46.27684",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Godi\u010d"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0434\u0438\u0447"
-    ],
-    "name:und_x_variant":[
-        "Godi\u010d"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1326465031,
-    "wof:lastmodified":1564215670,
+    "wof:lastmodified":1566644351,
     "wof:name":"Godic",
     "wof:parent_id":1108959941,
     "wof:placetype":"locality",

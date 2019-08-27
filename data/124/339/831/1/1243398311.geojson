@@ -23,8 +23,12 @@
     "gn:population":45,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.89557,45.77658,14.93557,45.81658",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Veliko Lipje"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1243398311,
-    "wof:lastmodified":1564216680,
+    "wof:lastmodified":1566645093,
     "wof:name":"Veliko Lipje",
     "wof:parent_id":1108959787,
     "wof:placetype":"locality",

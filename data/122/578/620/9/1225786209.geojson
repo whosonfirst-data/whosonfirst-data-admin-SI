@@ -23,8 +23,12 @@
     "gn:population":281,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.1348,46.10939,15.1748,46.14939",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Turje"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1225786209,
-    "wof:lastmodified":1564217004,
+    "wof:lastmodified":1566645310,
     "wof:name":"Turje",
     "wof:parent_id":1108959571,
     "wof:placetype":"locality",

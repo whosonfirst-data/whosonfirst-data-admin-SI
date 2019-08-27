@@ -23,8 +23,12 @@
     "gn:population":391,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.27278,45.9725,14.31278,46.0125",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Velika Ligojna"
     ],
@@ -50,8 +54,7 @@
         "\u0412\u0435\u043b\u0438\u043a\u0430 \u041b\u0438\u0433\u043e\u0439\u043d\u0430"
     ],
     "name:und_x_variant":[
-        "Ligojna",
-        "Velika Ligojna"
+        "Ligojna"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1209449739,
-    "wof:lastmodified":1564216218,
+    "wof:lastmodified":1566644724,
     "wof:name":"Velika Ligojna",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

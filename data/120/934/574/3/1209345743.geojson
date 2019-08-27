@@ -23,8 +23,12 @@
     "gn:population":76,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.91583,45.6325,13.95583,45.6725",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Prelo\u017ee pri Lokvi"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1209345743,
-    "wof:lastmodified":1564216190,
+    "wof:lastmodified":1566644707,
     "wof:name":"Preloze pri Lokvi",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

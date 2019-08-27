@@ -23,8 +23,12 @@
     "gn:population":121,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.82722,46.08917,13.86722,46.12917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Prapetno Brdo"
     ],
@@ -50,8 +54,7 @@
         "\u041f\u0440\u0430\u043f\u0435\u0442\u043d\u043e \u0411\u0440\u0434\u043e"
     ],
     "name:und_x_variant":[
-        "Prapetno",
-        "Prapetno Brdo"
+        "Prapetno"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1260321143,
-    "wof:lastmodified":1564216315,
+    "wof:lastmodified":1566644790,
     "wof:name":"Prapetno Brdo",
     "wof:parent_id":1108959617,
     "wof:placetype":"locality",

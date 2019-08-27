@@ -9,15 +9,18 @@
     "geom:bbox":"13.95278,45.52917,13.95278,45.52917",
     "geom:latitude":45.52917,
     "geom:longitude":13.95278,
-    "gn:gn_country":"SI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":162,
+    "gn:country":"SI",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SI",
+    "lbl:bbox":"13.93278,45.50917,13.97278,45.54917",
     "lbl:latitude":45.52917,
     "lbl:longitude":13.95278,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Podgorje"
@@ -49,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0434\u0433\u043e\u0440\u0454"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Piedimonte del Taiano"
     ],
     "qs_pg:aaroncc":"SI",
@@ -73,7 +76,7 @@
     "qs_pg:woe_adm0":23424945,
     "qs_pg:woe_id":531097,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424945,
     "woe:name_adm0":"Slovenija",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1126010139,
-    "wof:lastmodified":1563577126,
+    "wof:lastmodified":1566645067,
     "wof:name":"Podgorje",
     "wof:parent_id":1108959527,
     "wof:placetype":"locality",

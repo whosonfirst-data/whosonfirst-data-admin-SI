@@ -23,8 +23,12 @@
     "gn:population":56,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.14318,46.18944,14.18318,46.22944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Smoleva"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1293426047,
-    "wof:lastmodified":1564215947,
+    "wof:lastmodified":1566644546,
     "wof:name":"Smoleva",
     "wof:parent_id":1108959701,
     "wof:placetype":"locality",

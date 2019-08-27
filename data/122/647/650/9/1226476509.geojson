@@ -23,8 +23,12 @@
     "gn:population":57,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.03,45.83,15.07,45.87",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Srednji Globodol"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1226476509,
-    "wof:lastmodified":1564216954,
+    "wof:lastmodified":1566645275,
     "wof:name":"Srednji Globodol",
     "wof:parent_id":1108959751,
     "wof:placetype":"locality",

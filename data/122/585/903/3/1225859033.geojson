@@ -23,8 +23,12 @@
     "gn:population":125,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.97086,45.87175,14.01086,45.91175",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u017dagoli\u010d"
     ],
@@ -61,9 +65,6 @@
     "name:ukr_x_preferred":[
         "\u0416\u0430\u0433\u043e\u043b\u0438\u0447"
     ],
-    "name:und_x_variant":[
-        "\u017dagoli\u010d"
-    ],
     "name:urd_x_preferred":[
         "\u0698\u0627\u06af\u0648\u0644\u06cc\u0686"
     ],
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1225859033,
-    "wof:lastmodified":1564217003,
+    "wof:lastmodified":1566645310,
     "wof:name":"Zagolic",
     "wof:parent_id":1108959545,
     "wof:placetype":"locality",

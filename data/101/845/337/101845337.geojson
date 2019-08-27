@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":46.522114,
     "lbl:longitude":16.278496,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":46.522114,
     "mps:longitude":16.278496,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Razkri\u017eje"
     ],
@@ -74,7 +77,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0437\u043a\u0440\u0438\u0436\u0454"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "V\u00e9gfalva"
     ],
     "name:vie_x_preferred":[
@@ -94,7 +97,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -106,7 +109,7 @@
     "wof:concordances":{
         "gn:id":3215453,
         "gp:id":55851499,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q908023",
         "wk:page":"Razkri\u017eje"
     },
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101845337,
-    "wof:lastmodified":1563576909,
+    "wof:lastmodified":1566644976,
     "wof:name":"Razkri\u017eje",
     "wof:parent_id":1108959853,
     "wof:placetype":"locality",

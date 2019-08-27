@@ -23,8 +23,12 @@
     "gn:population":33,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.93023,46.46859,15.97023,46.50859",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gradi\u0161\u010dak"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0430\u0434\u0438\u0449\u0430\u043a"
-    ],
-    "name:und_x_variant":[
-        "Gradi\u0161\u010dak"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1243400269,
-    "wof:lastmodified":1564216719,
+    "wof:lastmodified":1566645121,
     "wof:name":"Gradiscak",
     "wof:parent_id":1108959781,
     "wof:placetype":"locality",

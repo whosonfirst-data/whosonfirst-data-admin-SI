@@ -9,15 +9,18 @@
     "geom:bbox":"13.67722,46.21056,13.67722,46.21056",
     "geom:latitude":46.21056,
     "geom:longitude":13.67722,
-    "gn:gn_country":"SI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":239,
+    "gn:country":"SI",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SI",
+    "lbl:bbox":"13.65722,46.19056,13.69722,46.23056",
     "lbl:latitude":46.21056,
     "lbl:longitude":13.67722,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Volarje"
@@ -52,9 +55,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u043b\u0430\u0440\u0454"
     ],
-    "name:unk_x_variant":[
-        "Vollaria"
-    ],
     "qs_pg:aaroncc":"SI",
     "qs_pg:gn_country":"SI",
     "qs_pg:gn_fcode":"PPL",
@@ -76,7 +76,7 @@
     "qs_pg:woe_adm0":23424945,
     "qs_pg:woe_id":532111,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424945,
     "woe:name_adm0":"Slovenija",
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":1125891511,
-    "wof:lastmodified":1563577082,
+    "wof:lastmodified":1566645048,
     "wof:name":"Volarje",
     "wof:parent_id":1108959617,
     "wof:placetype":"locality",

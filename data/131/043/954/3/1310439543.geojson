@@ -23,8 +23,12 @@
     "gn:population":45,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.2127,45.88676,15.2527,45.92676",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gri\u010d pri Klevev\u017eu"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0438\u0447-\u043f\u0440\u0438-\u041a\u043b\u0435\u0432\u0435\u0432\u0436\u0443"
-    ],
-    "name:und_x_variant":[
-        "Gri\u010d pri Klevev\u017eu"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1310439543,
-    "wof:lastmodified":1564216507,
+    "wof:lastmodified":1566644922,
     "wof:name":"Gric pri Klevevzu",
     "wof:parent_id":1108959833,
     "wof:placetype":"locality",

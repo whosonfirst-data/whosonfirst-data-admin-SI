@@ -23,8 +23,12 @@
     "gn:population":212,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.17337,46.42911,16.21337,46.46911",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Veliki Brebrovnik"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1243587553,
-    "wof:lastmodified":1564216724,
+    "wof:lastmodified":1566645124,
     "wof:name":"Veliki Brebrovnik",
     "wof:parent_id":1108959765,
     "wof:placetype":"locality",

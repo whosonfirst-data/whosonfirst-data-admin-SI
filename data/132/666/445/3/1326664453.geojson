@@ -23,8 +23,12 @@
     "gn:population":16,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.20824,46.11244,15.24824,46.15244",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Zabre\u017e"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0417\u0430\u0431\u0440\u0435\u0436"
-    ],
-    "name:und_x_variant":[
-        "Zabre\u017e"
     ],
     "name:urd_x_preferred":[
         "\u0632\u0628\u0631\u06d2\u0698"
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1326664453,
-    "wof:lastmodified":1564215636,
+    "wof:lastmodified":1566644330,
     "wof:name":"Zabrez",
     "wof:parent_id":1108959879,
     "wof:placetype":"locality",

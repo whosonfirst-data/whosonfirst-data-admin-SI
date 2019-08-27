@@ -23,8 +23,12 @@
     "gn:population":58,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.93754,46.1622,14.97754,46.2022",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:nld_x_preferred":[
         "Razbor pri \u010cem\u0161eniku"
     ],
@@ -39,9 +43,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0437\u0431\u043e\u0440-\u043f\u0440\u0438-\u0427\u0435\u043c\u0448\u0435\u043d\u0438\u043a\u0443"
-    ],
-    "name:und_x_variant":[
-        "Razbor pri \u010cem\u0161eniku"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1310334131,
-    "wof:lastmodified":1564216531,
+    "wof:lastmodified":1566644936,
     "wof:name":"Razbor pri Cemseniku",
     "wof:parent_id":1108959683,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":26,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.75194,45.9725,13.79194,46.0125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Nemci"
     ],
@@ -45,10 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0435\u043c\u0446\u0456"
-    ],
-    "name:und_x_variant":[
-        "Casali Nenzi",
-        "Nemci"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":1293332757,
-    "wof:lastmodified":1564215941,
+    "wof:lastmodified":1566644542,
     "wof:name":"Nemci",
     "wof:parent_id":1108959487,
     "wof:placetype":"locality",

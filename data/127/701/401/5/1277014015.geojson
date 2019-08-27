@@ -23,8 +23,12 @@
     "gn:population":80,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.92773,45.83394,13.96773,45.87394",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Zemono"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1277014015,
-    "wof:lastmodified":1564215978,
+    "wof:lastmodified":1566644566,
     "wof:name":"Zemono",
     "wof:parent_id":1108959623,
     "wof:placetype":"locality",

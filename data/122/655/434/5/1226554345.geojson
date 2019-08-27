@@ -24,8 +24,12 @@
     "gn:population":283,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.73162,46.19891,15.77162,46.23891",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dobovec pri Rogatcu"
     ],
@@ -48,8 +52,7 @@
         "\u0414\u043e\u0431\u043e\u0432\u0435\u0446\u044c-\u043f\u0440\u0438-\u0420\u043e\u0433\u0430\u0442\u0446\u0443"
     ],
     "name:und_x_variant":[
-        "Dobovec",
-        "Dobovec pri Rogatcu"
+        "Dobovec"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1226554345,
-    "wof:lastmodified":1564216974,
+    "wof:lastmodified":1566645288,
     "wof:name":"Dobovec pri Rogatcu",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

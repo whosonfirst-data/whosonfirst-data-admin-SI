@@ -23,8 +23,12 @@
     "gn:population":101,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.56874,46.41879,15.60874,46.45879",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ko\u010dno pri Polskavi"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0447\u043d\u043e-\u043f\u0440\u0438-\u041f\u043e\u043b\u0441\u043a\u0430\u0432\u0456"
-    ],
-    "name:und_x_variant":[
-        "Ko\u010dno pri Polskavi"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1293917091,
-    "wof:lastmodified":1564215845,
+    "wof:lastmodified":1566644478,
     "wof:name":"Kocno pri Polskavi",
     "wof:parent_id":1108959641,
     "wof:placetype":"locality",

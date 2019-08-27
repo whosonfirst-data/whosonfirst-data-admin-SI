@@ -23,8 +23,12 @@
     "gn:population":3,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.85708,45.44263,13.89708,45.48263",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Sokoli\u010di"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u043e\u043a\u043e\u043b\u0438\u0447\u0456"
-    ],
-    "name:und_x_variant":[
-        "Sokoli\u010di"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1226081551,
-    "wof:lastmodified":1564216992,
+    "wof:lastmodified":1566645301,
     "wof:name":"Sokolici",
     "wof:parent_id":1108959527,
     "wof:placetype":"locality",

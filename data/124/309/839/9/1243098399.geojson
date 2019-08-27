@@ -23,8 +23,12 @@
     "gn:population":38,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.18906,45.80522,15.22906,45.84522",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u017dihovo selo"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0416\u0438\u0445\u043e\u0432\u043e \u0421\u0435\u043b\u043e"
-    ],
-    "name:und_x_variant":[
-        "\u017dihovo Selo"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1243098399,
-    "wof:lastmodified":1564216668,
+    "wof:lastmodified":1566645086,
     "wof:name":"Zihovo Selo",
     "wof:parent_id":1108959465,
     "wof:placetype":"locality",

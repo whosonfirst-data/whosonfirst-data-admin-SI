@@ -23,8 +23,12 @@
     "gn:population":111,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.27982,45.90804,14.31982,45.94804",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Mirke"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1259619469,
-    "wof:lastmodified":1564216837,
+    "wof:lastmodified":1566645197,
     "wof:name":"Mirke",
     "wof:parent_id":1108959851,
     "wof:placetype":"locality",

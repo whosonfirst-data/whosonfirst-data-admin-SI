@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.72444,45.44528,13.76444,45.48528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Bri\u010d"
     ],
@@ -52,9 +56,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0438\u0447"
     ],
-    "name:und_x_variant":[
-        "Bri\u010d"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1293919529,
-    "wof:lastmodified":1564215846,
+    "wof:lastmodified":1566644478,
     "wof:name":"Bric",
     "wof:parent_id":1108959527,
     "wof:placetype":"locality",

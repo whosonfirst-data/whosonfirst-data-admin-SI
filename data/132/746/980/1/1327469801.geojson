@@ -23,8 +23,12 @@
     "gn:population":207,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.40638,46.16111,14.44638,46.20111",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Drago\u010dajna"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0440\u0430\u0433\u043e\u0447\u0430\u0439\u043d\u0430"
-    ],
-    "name:und_x_variant":[
-        "Drago\u010dajna"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1327469801,
-    "wof:lastmodified":1564215655,
+    "wof:lastmodified":1566644343,
     "wof:name":"Dragocajna",
     "wof:parent_id":1108959881,
     "wof:placetype":"locality",

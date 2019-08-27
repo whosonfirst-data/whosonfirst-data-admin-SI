@@ -23,8 +23,12 @@
     "gn:population":43,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.87472,46.18861,13.91472,46.22861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Rut"
     ],
@@ -54,8 +58,7 @@
         "Rutte",
         "Deutschruthd",
         "Rutte di Grac",
-        "Rutte di Gracova",
-        "Rut"
+        "Rutte di Gracova"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1226276897,
-    "wof:lastmodified":1564216890,
+    "wof:lastmodified":1566645234,
     "wof:name":"Rut",
     "wof:parent_id":1108959617,
     "wof:placetype":"locality",

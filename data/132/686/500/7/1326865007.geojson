@@ -23,8 +23,12 @@
     "gn:population":40,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.0925,45.72333,14.1325,45.76333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Sajev\u010de"
     ],
@@ -47,8 +51,7 @@
         "\u0421\u0430\u0454\u0432\u0447\u0435"
     ],
     "name:und_x_variant":[
-        "Saiecce Castelvecchio",
-        "Sajev\u010de"
+        "Saiecce Castelvecchio"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1326865007,
-    "wof:lastmodified":1564215610,
+    "wof:lastmodified":1566644314,
     "wof:name":"Sajevce",
     "wof:parent_id":1108959559,
     "wof:placetype":"locality",

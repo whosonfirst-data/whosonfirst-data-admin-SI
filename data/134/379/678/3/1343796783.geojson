@@ -23,8 +23,12 @@
     "gn:population":270,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.63445,46.35488,15.67445,46.39488",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Stari Log"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1343796783,
-    "wof:lastmodified":1564215758,
+    "wof:lastmodified":1566644410,
     "wof:name":"Stari Log",
     "wof:parent_id":1108959641,
     "wof:placetype":"locality",

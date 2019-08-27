@@ -23,8 +23,12 @@
     "gn:population":249,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.17861,46.59639,15.21861,46.63639",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Zgornja Vi\u017einga"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0417\u0433\u043e\u0440\u043d\u044f \u0412\u0438\u0436\u0438\u043d\u0433\u0430"
-    ],
-    "name:und_x_variant":[
-        "Zgornja Vi\u017einga"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1293031723,
-    "wof:lastmodified":1564215918,
+    "wof:lastmodified":1566644526,
     "wof:name":"Zgornja Vizinga",
     "wof:parent_id":1108959557,
     "wof:placetype":"locality",

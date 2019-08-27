@@ -23,8 +23,12 @@
     "gn:population":116,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.10555,46.39566,16.14555,46.43566",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Hajndl"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1310536443,
-    "wof:lastmodified":1564216479,
+    "wof:lastmodified":1566644906,
     "wof:name":"Hajndl",
     "wof:parent_id":1108959765,
     "wof:placetype":"locality",

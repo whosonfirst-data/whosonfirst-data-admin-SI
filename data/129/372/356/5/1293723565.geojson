@@ -23,8 +23,12 @@
     "gn:population":77,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.02318,46.53169,16.06318,46.57169",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u017dihlava"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0416\u0438\u0445\u043b\u0430\u0432\u0430"
-    ],
-    "name:und_x_variant":[
-        "\u017dihlava"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1293723565,
-    "wof:lastmodified":1564215972,
+    "wof:lastmodified":1566644562,
     "wof:name":"Zihlava",
     "wof:parent_id":1108959591,
     "wof:placetype":"locality",

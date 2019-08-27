@@ -23,8 +23,12 @@
     "gn:population":280,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.82528,45.64417,14.86528,45.68417",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Mlaka pri Ko\u010devju"
     ],
@@ -50,8 +54,7 @@
         "\u041c\u043b\u0430\u043a\u0430-\u043f\u0440\u0438-\u041a\u043e\u0447\u0435\u0432'\u044e"
     ],
     "name:und_x_variant":[
-        "Mlaka",
-        "Mlaka pri Ko\u010devju"
+        "Mlaka"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1209852377,
-    "wof:lastmodified":1564216142,
+    "wof:lastmodified":1566644676,
     "wof:name":"Mlaka pri Kocevju",
     "wof:parent_id":1108959919,
     "wof:placetype":"locality",

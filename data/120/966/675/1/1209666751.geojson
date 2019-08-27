@@ -23,8 +23,12 @@
     "gn:population":50,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.13464,45.57161,14.17464,45.61161",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u010celje"
     ],
@@ -49,10 +53,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u043b\u0454"
     ],
-    "name:und_x_variant":[
-        "Ceglie",
-        "\u010celje"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1209666751,
-    "wof:lastmodified":1564216166,
+    "wof:lastmodified":1566644691,
     "wof:name":"Celje",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

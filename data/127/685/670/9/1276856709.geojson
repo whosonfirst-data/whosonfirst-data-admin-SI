@@ -23,8 +23,12 @@
     "gn:population":45,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.52205,45.8472,15.56205,45.8872",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Brvi"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1276856709,
-    "wof:lastmodified":1564216035,
+    "wof:lastmodified":1566644605,
     "wof:name":"Brvi",
     "wof:parent_id":1108959585,
     "wof:placetype":"locality",

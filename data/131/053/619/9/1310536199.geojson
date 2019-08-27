@@ -23,8 +23,12 @@
     "gn:population":145,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.70222,45.94028,14.74222,45.98028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Spodnje Brezovo"
     ],
@@ -47,8 +51,7 @@
         "\u0421\u043f\u043e\u0434\u043d\u0454 \u0411\u0440\u0435\u0437\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
-        "Brozovo",
-        "Spodnje Brezovo"
+        "Brozovo"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1310536199,
-    "wof:lastmodified":1564216479,
+    "wof:lastmodified":1566644906,
     "wof:name":"Spodnje Brezovo",
     "wof:parent_id":1108959583,
     "wof:placetype":"locality",

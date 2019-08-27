@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.81333,46.11333,14.85333,46.15333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Kandr\u0161e\u2013del"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043d\u0434\u0440\u0448\u0435"
-    ],
-    "name:und_x_variant":[
-        "Kandr\u0161e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1326564807,
-    "wof:lastmodified":1564215625,
+    "wof:lastmodified":1566644324,
     "wof:name":"Kandrse",
     "wof:parent_id":1108959907,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"15.2375,46.59472,15.2375,46.59472",
     "geom:latitude":46.59472,
     "geom:longitude":15.2375,
-    "gn:gn_country":"SI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":811,
-    "gn:population":782,
+    "gn:country":"SI",
+    "gn:fcode":"PPL",
+    "gn:population":811,
     "iso:country":"SI",
+    "lbl:bbox":"15.2175,46.57472,15.2575,46.61472",
     "lbl:latitude":46.59472,
     "lbl:longitude":15.2375,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Vuhred"
@@ -49,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0443\u0445\u0440\u0435\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wuchern"
     ],
     "qs_pg:aaroncc":"SI",
@@ -71,7 +74,7 @@
     "qs_pg:woe_adm0":23424945,
     "qs_pg:woe_id":532167,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424945,
     "woe:name_adm0":"Slovenija",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1125803659,
-    "wof:lastmodified":1563577085,
+    "wof:lastmodified":1566645050,
     "wof:name":"Vuhred",
     "wof:parent_id":1108959557,
     "wof:placetype":"locality",

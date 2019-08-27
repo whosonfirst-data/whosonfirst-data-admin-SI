@@ -23,8 +23,12 @@
     "gn:population":402,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.22694,46.76889,16.26694,46.80889",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kri\u017eevci"
     ],
@@ -59,10 +63,8 @@
         "\u041a\u0440\u0438\u0436\u0435\u0432\u0446\u0456"
     ],
     "name:und_x_variant":[
-        "T\u00f3tkereszt\u00far",
         "Kri\u017eovci",
-        "Kri\u017eevci v Prekmurju",
-        "Kri\u017eevci"
+        "Kri\u017eevci v Prekmurju"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":1226580779,
-    "wof:lastmodified":1564216901,
+    "wof:lastmodified":1566645242,
     "wof:name":"Krizevci",
     "wof:parent_id":1108959531,
     "wof:placetype":"locality",

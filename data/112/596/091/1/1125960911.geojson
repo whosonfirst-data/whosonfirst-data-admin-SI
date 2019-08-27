@@ -9,15 +9,18 @@
     "geom:bbox":"15.47694,46.02361,15.47694,46.02361",
     "geom:latitude":46.02361,
     "geom:longitude":15.47694,
-    "gn:gn_country":"SI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2404,
-    "gn:population":2343,
+    "gn:country":"SI",
+    "gn:fcode":"PPL",
+    "gn:population":2404,
     "iso:country":"SI",
+    "lbl:bbox":"15.45694,46.00361,15.49694,46.04361",
     "lbl:latitude":46.02361,
     "lbl:longitude":15.47694,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Jesenovo"
@@ -37,7 +40,7 @@
     "name:ukr_x_preferred":[
         "\u0404\u0441\u0435\u043d\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Senovo"
     ],
     "qs_pg:aaroncc":"SI",
@@ -57,7 +60,7 @@
     "qs_pg:woe_adm0":23424945,
     "qs_pg:woe_id":55850424,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424945,
     "woe:name_adm0":"Slovenija",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1125960911,
-    "wof:lastmodified":1564216646,
+    "wof:lastmodified":1566645062,
     "wof:name":"Jesenovo",
     "wof:parent_id":1108959473,
     "wof:placetype":"locality",

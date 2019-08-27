@@ -23,8 +23,12 @@
     "gn:population":155,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.27613,45.64613,14.31613,45.68613",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Jur\u0161\u010de"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u042e\u0440\u0449\u0435"
-    ],
-    "name:und_x_variant":[
-        "Jur\u0161\u010de"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1243302465,
-    "wof:lastmodified":1564216672,
+    "wof:lastmodified":1566645088,
     "wof:name":"Jursce",
     "wof:parent_id":1108959587,
     "wof:placetype":"locality",

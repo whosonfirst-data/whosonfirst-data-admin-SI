@@ -23,8 +23,12 @@
     "gn:population":70,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.98058,46.62418,16.02058,46.66418",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Orehovci"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1193087749,
-    "wof:lastmodified":1564216237,
+    "wof:lastmodified":1566644738,
     "wof:name":"Orehovci",
     "wof:parent_id":1108959817,
     "wof:placetype":"locality",

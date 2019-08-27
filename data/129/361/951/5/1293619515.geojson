@@ -23,8 +23,12 @@
     "gn:population":507,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.16618,46.27065,15.20618,46.31065",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pernovo"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1293619515,
-    "wof:lastmodified":1564215910,
+    "wof:lastmodified":1566644520,
     "wof:name":"Pernovo",
     "wof:parent_id":1108959929,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":33,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.48072,45.76457,14.52072,45.80457",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Nem\u0161ka vas na Blokah"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1326966171,
-    "wof:lastmodified":1564215680,
+    "wof:lastmodified":1566644359,
     "wof:name":"Nemska Vas na Blokah",
     "wof:parent_id":1108959893,
     "wof:placetype":"locality",

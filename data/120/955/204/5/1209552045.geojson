@@ -23,8 +23,12 @@
     "gn:population":33,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.63933,45.75925,14.67933,45.79925",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Hudi Konec"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1209552045,
-    "wof:lastmodified":1564216120,
+    "wof:lastmodified":1566644660,
     "wof:name":"Hudi Konec",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

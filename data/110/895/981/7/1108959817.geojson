@@ -12,8 +12,11 @@
     "iso:country":"SI",
     "lbl:latitude":46.643903,
     "lbl:longitude":15.966417,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u0631\u0646\u064a\u0627 \u0631\u0627\u062f\u063a\u0646\u0627"
     ],
@@ -90,7 +93,7 @@
         "\u4e0a\u62c9\u5fb7\u6208\u7d0d"
     ],
     "src:geom":"svn-sma",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1108959817,
-    "wof:lastmodified":1564216430,
+    "wof:lastmodified":1566644879,
     "wof:name":"Gornja Radgona",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",

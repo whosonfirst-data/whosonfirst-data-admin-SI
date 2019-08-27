@@ -23,8 +23,12 @@
     "gn:population":140,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.8925,46.46528,15.9325,46.50528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Levanjci"
     ],
@@ -48,8 +52,7 @@
     ],
     "name:und_x_variant":[
         "Livajnci",
-        "Levajnci",
-        "Levanjci"
+        "Levajnci"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1243208419,
-    "wof:lastmodified":1564216766,
+    "wof:lastmodified":1566645151,
     "wof:name":"Levanjci",
     "wof:parent_id":1108959755,
     "wof:placetype":"locality",

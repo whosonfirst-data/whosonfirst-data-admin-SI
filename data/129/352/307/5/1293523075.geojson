@@ -23,8 +23,12 @@
     "gn:population":105,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.01333,45.88,15.05333,45.92",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gorenje Ponikve"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1293523075,
-    "wof:lastmodified":1564215864,
+    "wof:lastmodified":1566644491,
     "wof:name":"Gorenje Ponikve",
     "wof:parent_id":1108959839,
     "wof:placetype":"locality",

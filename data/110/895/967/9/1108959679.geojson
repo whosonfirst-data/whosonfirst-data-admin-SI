@@ -12,8 +12,11 @@
     "iso:country":"SI",
     "lbl:latitude":46.525185,
     "lbl:longitude":15.378578,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Lovrenc na Pohorju"
     ],
@@ -39,7 +42,7 @@
         "\u041b\u043e\u0432\u0440\u0435\u043d\u0446-\u043d\u0430-\u041f\u043e\u0445\u043e\u0440\u044e"
     ],
     "src:geom":"svn-sma",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "svn-sma:d_od":"1998-11-22",
     "svn-sma:dv_od":"1998-11-27",
     "svn-sma:enota":"OB",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1108959679,
-    "wof:lastmodified":1564216400,
+    "wof:lastmodified":1566644852,
     "wof:name":"Lovrenc na Pohorju",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",

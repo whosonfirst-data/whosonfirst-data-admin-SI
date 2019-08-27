@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":45.651566,
     "lbl:longitude":15.183068,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.651566,
     "mps:longitude":15.183068,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Semi\u010d"
     ],
@@ -106,7 +109,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":430,
     "wof:belongsto":[
@@ -119,7 +122,7 @@
     "wof:concordances":{
         "gn:id":3191072,
         "gp:id":531482,
-        "qs:id":1076058,
+        "qs_pg:id":1076058,
         "wd:id":"Q2674893",
         "wk:page":"Semi\u010d"
     },
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":101845319,
-    "wof:lastmodified":1563576934,
+    "wof:lastmodified":1566644984,
     "wof:name":"Semi\u010d",
     "wof:parent_id":1108959601,
     "wof:placetype":"locality",

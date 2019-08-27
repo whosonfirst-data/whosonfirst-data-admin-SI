@@ -11,12 +11,16 @@
     "geom:longitude":15.712143,
     "gn:population":1558,
     "iso:country":"SI",
+    "lbl:bbox":"15.692143,46.209898,15.732143,46.249898",
     "lbl:latitude":46.229898,
     "lbl:longitude":15.712143,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.229898,
     "mps:longitude":15.712143,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Rogatec"
     ],
@@ -72,7 +76,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -84,7 +88,7 @@
     "wof:concordances":{
         "gn:id":3191578,
         "gp:id":531399,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q2468912",
         "wk:page":"Rogatec"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":101857897,
-    "wof:lastmodified":1563576945,
+    "wof:lastmodified":1566644987,
     "wof:name":"Rogatec",
     "wof:parent_id":1108959609,
     "wof:placetype":"locality",

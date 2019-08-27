@@ -23,8 +23,12 @@
     "gn:population":142,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.96648,45.88989,15.00648,45.92989",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u0160tefan pri Trebnjem"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0428\u0442\u0435\u0444\u0430\u043d-\u043f\u0440\u0438-\u0422\u0440\u0435\u0431\u043d\u0454\u043c"
-    ],
-    "name:und_x_variant":[
-        "\u0160tefan pri Trebnjem"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1326861381,
-    "wof:lastmodified":1564215610,
+    "wof:lastmodified":1566644314,
     "wof:name":"Stefan pri Trebnjem",
     "wof:parent_id":1108959839,
     "wof:placetype":"locality",

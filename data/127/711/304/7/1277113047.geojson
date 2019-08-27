@@ -23,8 +23,12 @@
     "gn:population":107,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.52225,46.2533,15.56225,46.2933",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Pe\u010dica"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0447\u0438\u0446\u044f"
-    ],
-    "name:und_x_variant":[
-        "Pe\u010dica"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1277113047,
-    "wof:lastmodified":1564216091,
+    "wof:lastmodified":1566644641,
     "wof:name":"Pecica",
     "wof:parent_id":1108959607,
     "wof:placetype":"locality",

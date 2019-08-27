@@ -23,8 +23,12 @@
     "gn:population":79,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.84083,45.75333,14.88083,45.79333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Prevole"
     ],
@@ -50,8 +54,7 @@
         "\u041f\u0440\u0435\u0432\u043e\u043b\u0435"
     ],
     "name:und_x_variant":[
-        "Prevale",
-        "Prevole"
+        "Prevale"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1209249551,
-    "wof:lastmodified":1564216133,
+    "wof:lastmodified":1566644669,
     "wof:name":"Prevole",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

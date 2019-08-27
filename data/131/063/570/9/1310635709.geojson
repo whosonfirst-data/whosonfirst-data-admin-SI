@@ -23,8 +23,12 @@
     "gn:population":84,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.09697,45.75608,15.13697,45.79608",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vrh pri Ljubnu"
     ],
@@ -47,8 +51,7 @@
         "\u0412\u0440\u0445-\u043f\u0440\u0438-\u041b\u044e\u0431\u043d\u0443"
     ],
     "name:und_x_variant":[
-        "Vrh",
-        "Vrh pri Ljubnu"
+        "Vrh"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1310635709,
-    "wof:lastmodified":1564216497,
+    "wof:lastmodified":1566644916,
     "wof:name":"Vrh pri Ljubnu",
     "wof:parent_id":1108959465,
     "wof:placetype":"locality",

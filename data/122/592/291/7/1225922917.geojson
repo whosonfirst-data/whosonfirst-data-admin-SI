@@ -23,8 +23,12 @@
     "gn:population":137,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.98,46.09667,14.02,46.13667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Planina pri Cerknem"
     ],
@@ -50,8 +54,7 @@
         "\u041f\u043b\u0430\u043d\u0438\u043d\u0430-\u043f\u0440\u0438-\u0426\u0435\u0440\u043a\u043d\u0435\u043c"
     ],
     "name:und_x_variant":[
-        "Planina",
-        "Planina pri Cerknem"
+        "Planina"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1225922917,
-    "wof:lastmodified":1564216872,
+    "wof:lastmodified":1566645221,
     "wof:name":"Planina pri Cerknem",
     "wof:parent_id":1108959577,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":14.026067,
     "gn:population":1722,
     "iso:country":"SI",
+    "lbl:bbox":"14.006067,46.431801,14.046067,46.471801",
     "lbl:latitude":46.451801,
     "lbl:longitude":14.026067,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.451801,
     "mps:longitude":14.026067,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Hru\u0161ica"
     ],
@@ -78,7 +82,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":350,
     "wof:belongsto":[
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":3199243,
         "gp:id":530251,
-        "qs:id":36924,
+        "qs_pg:id":36924,
         "wd:id":"Q2438219",
         "wk:page":"Hru\u0161ica, Jesenice"
     },
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":101875845,
-    "wof:lastmodified":1563576936,
+    "wof:lastmodified":1566644984,
     "wof:name":"Hru\u0161ica",
     "wof:parent_id":1108959875,
     "wof:placetype":"locality",

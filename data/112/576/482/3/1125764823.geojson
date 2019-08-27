@@ -9,15 +9,18 @@
     "geom:bbox":"15.51583,46.53944,15.51583,46.53944",
     "geom:latitude":46.53944,
     "geom:longitude":15.51583,
-    "gn:gn_country":"SI",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":4497,
-    "gn:population":4503,
+    "gn:country":"SI",
+    "gn:fcode":"PPLA",
+    "gn:population":4497,
     "iso:country":"SI",
+    "lbl:bbox":"15.49583,46.51944,15.53583,46.55944",
     "lbl:latitude":46.53944,
     "lbl:longitude":15.51583,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0631\u0648\u0634\u0647"
@@ -94,7 +97,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0443\u0448\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ro\u0161e"
     ],
     "name:vie_x_preferred":[
@@ -112,7 +115,7 @@
     "qs_pg:qs_id":1043945,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":1125764823,
-    "wof:lastmodified":1564216651,
+    "wof:lastmodified":1566645071,
     "wof:name":"Ru\u0161e",
     "wof:parent_id":1108959611,
     "wof:placetype":"locality",

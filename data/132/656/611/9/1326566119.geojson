@@ -23,8 +23,12 @@
     "gn:population":57,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.40165,46.11733,15.44165,46.15733",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Slatina pri Dobjem"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1326566119,
-    "wof:lastmodified":1564215621,
+    "wof:lastmodified":1566644321,
     "wof:name":"Slatina pri Dobjem",
     "wof:parent_id":1108959685,
     "wof:placetype":"locality",

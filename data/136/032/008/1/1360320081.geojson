@@ -23,8 +23,12 @@
     "gn:population":168,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.21315,46.31051,15.25315,46.35051",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vinska Gorica"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1360320081,
-    "wof:lastmodified":1564216579,
+    "wof:lastmodified":1566644963,
     "wof:name":"Vinska Gorica",
     "wof:parent_id":1108959621,
     "wof:placetype":"locality",

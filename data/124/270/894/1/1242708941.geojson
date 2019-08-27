@@ -23,8 +23,12 @@
     "gn:population":99,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.31993,46.31184,15.35993,46.35184",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Podgorje pod \u010cerinom"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1242708941,
-    "wof:lastmodified":1564216736,
+    "wof:lastmodified":1566645131,
     "wof:name":"Podgorje pod Cerinom",
     "wof:parent_id":1108959653,
     "wof:placetype":"locality",

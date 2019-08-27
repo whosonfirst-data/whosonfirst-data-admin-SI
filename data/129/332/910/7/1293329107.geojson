@@ -23,8 +23,12 @@
     "gn:population":21,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.42186,45.79121,15.46186,45.83121",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u010cre\u0161njevec pri O\u0161trcu"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0427\u0440\u0435\u0448\u043d\u0454\u0432\u0435\u0446\u044c-\u043f\u0440\u0438-\u041e\u0448\u0442\u0440\u0446\u0443"
-    ],
-    "name:und_x_variant":[
-        "\u010cre\u0161njevec pri O\u0161trcu"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1293329107,
-    "wof:lastmodified":1564215933,
+    "wof:lastmodified":1566644536,
     "wof:name":"Cresnjevec pri Ostrcu",
     "wof:parent_id":1108959835,
     "wof:placetype":"locality",

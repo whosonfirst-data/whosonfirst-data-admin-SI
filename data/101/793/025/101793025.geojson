@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":45.956295,
     "lbl:longitude":14.658186,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.956295,
     "mps:longitude":14.658186,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u063a\u0631\u0633\u0648\u0628\u0644\u064a"
     ],
@@ -104,9 +107,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u043e\u0441\u0443\u043f\u043b\u0454"
     ],
-    "name:und_x_preferred":[
-        "Grosuplje"
-    ],
     "name:vie_x_preferred":[
         "Grosuplje"
     ],
@@ -129,7 +129,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":45.955125,
     "wd:longitude":14.6562,
@@ -145,7 +145,6 @@
         "fct:id":"06f27c7e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3199523,
         "gp:id":530197,
-        "qs:id":900631,
         "qs_pg:id":900631,
         "wd:id":"Q15870",
         "wk:page":"Grosuplje"
@@ -165,7 +164,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563576969,
+    "wof:lastmodified":1566644994,
     "wof:name":"Grosuplje",
     "wof:parent_id":1108959533,
     "wof:placetype":"locality",

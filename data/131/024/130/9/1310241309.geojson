@@ -23,8 +23,12 @@
     "gn:population":287,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.52583,45.95722,15.56583,45.99722",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Zdole"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1310241309,
-    "wof:lastmodified":1564216455,
+    "wof:lastmodified":1566644893,
     "wof:name":"Zdole",
     "wof:parent_id":1108959473,
     "wof:placetype":"locality",

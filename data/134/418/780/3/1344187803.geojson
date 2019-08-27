@@ -23,8 +23,12 @@
     "gn:population":33,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.7377,46.09391,14.7777,46.13391",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Hrib nad Rib\u010dami"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0425\u0440\u0438\u0431-\u043d\u0430\u0434-\u0420\u0438\u0431\u0447\u0430\u043c\u0438"
-    ],
-    "name:und_x_variant":[
-        "Hrib nad Rib\u010dami"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1344187803,
-    "wof:lastmodified":1564215815,
+    "wof:lastmodified":1566644449,
     "wof:name":"Hrib nad Ribcami",
     "wof:parent_id":1108959515,
     "wof:placetype":"locality",

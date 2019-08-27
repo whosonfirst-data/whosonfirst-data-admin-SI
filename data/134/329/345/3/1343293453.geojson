@@ -23,8 +23,12 @@
     "gn:population":136,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.19507,46.11438,14.23507,46.15438",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Na Logu"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1343293453,
-    "wof:lastmodified":1564215824,
+    "wof:lastmodified":1566644456,
     "wof:name":"Na Logu",
     "wof:parent_id":1108959821,
     "wof:placetype":"locality",

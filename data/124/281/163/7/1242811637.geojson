@@ -23,8 +23,12 @@
     "gn:population":136,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.2909,46.00829,15.3309,46.04829",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dro\u017eanje"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0440\u043e\u0436\u0430\u043d\u0454"
-    ],
-    "name:und_x_variant":[
-        "Dro\u017eanje"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1242811637,
-    "wof:lastmodified":1564216691,
+    "wof:lastmodified":1566645101,
     "wof:name":"Drozanje",
     "wof:parent_id":1108959927,
     "wof:placetype":"locality",

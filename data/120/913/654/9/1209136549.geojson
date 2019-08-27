@@ -23,8 +23,12 @@
     "gn:population":92,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.2177,46.4213,16.2577,46.4613",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vitan"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1209136549,
-    "wof:lastmodified":1564216152,
+    "wof:lastmodified":1566644682,
     "wof:name":"Vitan",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

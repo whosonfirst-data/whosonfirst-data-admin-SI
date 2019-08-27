@@ -23,8 +23,12 @@
     "gn:population":262,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.98443,46.6053,16.02443,46.6453",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Jan\u017eev Vrh"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u042f\u043d\u0436\u0435\u0432 \u0412\u0440\u0445"
-    ],
-    "name:und_x_variant":[
-        "Jan\u017eev Vrh"
     ],
     "name:urd_x_preferred":[
         "\u062c\u0646\u0698\u06cc\u0648 \u0648\u0631\u06c1"
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1209749387,
-    "wof:lastmodified":1564216196,
+    "wof:lastmodified":1566644710,
     "wof:name":"Janzev Vrh",
     "wof:parent_id":1108959569,
     "wof:placetype":"locality",

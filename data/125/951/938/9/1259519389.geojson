@@ -23,8 +23,12 @@
     "gn:population":250,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.44667,45.91333,15.48667,45.95333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Veni\u0161e"
     ],
@@ -52,9 +56,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043d\u0438\u0448\u0435"
     ],
-    "name:und_x_variant":[
-        "Veni\u0161e"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1259519389,
-    "wof:lastmodified":1564216848,
+    "wof:lastmodified":1566645206,
     "wof:name":"Venise",
     "wof:parent_id":1108959473,
     "wof:placetype":"locality",

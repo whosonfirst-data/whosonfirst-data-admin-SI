@@ -23,8 +23,12 @@
     "gn:population":80,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.5985,46.15912,15.6385,46.19912",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vonarje"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1226073611,
-    "wof:lastmodified":1564216997,
+    "wof:lastmodified":1566645306,
     "wof:name":"Vonarje",
     "wof:parent_id":1108959649,
     "wof:placetype":"locality",

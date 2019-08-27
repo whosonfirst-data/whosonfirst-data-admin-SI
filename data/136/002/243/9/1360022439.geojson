@@ -23,8 +23,12 @@
     "gn:population":47,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.01333,46.08,15.05333,46.12",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Zavr\u0161je"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0417\u0430\u0432\u0440\u0448\u0454"
-    ],
-    "name:und_x_variant":[
-        "Zavr\u0161je"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1360022439,
-    "wof:lastmodified":1564216582,
+    "wof:lastmodified":1566644965,
     "wof:name":"Zavrsje",
     "wof:parent_id":1108959911,
     "wof:placetype":"locality",

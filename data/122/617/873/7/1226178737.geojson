@@ -23,8 +23,12 @@
     "gn:population":162,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.04999,46.50736,16.08999,46.54736",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kur\u0161inci"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0440\u0448\u0438\u043d\u0446\u0456"
-    ],
-    "name:und_x_variant":[
-        "Kur\u0161inci"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1226178737,
-    "wof:lastmodified":1564216876,
+    "wof:lastmodified":1566645224,
     "wof:name":"Kursinci",
     "wof:parent_id":1108959499,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":46.434197,
     "lbl:longitude":14.060491,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":46.434197,
     "mps:longitude":14.060491,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u062c\u064a\u0633\u064a\u0646\u062a\u0633\u064a"
     ],
@@ -140,13 +143,7 @@
     "name:ukr_x_preferred":[
         "\u0404\u0441\u0435\u043d\u0456\u0446\u0435"
     ],
-    "name:und_x_preferred":[
-        "Jesenice"
-    ],
     "name:und_x_variant":[
-        "Assling"
-    ],
-    "name:unk_x_variant":[
         "Assling"
     ],
     "name:urd_x_preferred":[
@@ -177,7 +174,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2899,
     "wof:belongsto":[
@@ -191,10 +188,12 @@
         "fct:id":"06f29038-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3198648,
         "gp:id":23701303,
-        "qs:id":1301684,
         "qs_pg:id":136382,
         "wd:id":"Q4165497",
         "wk:page":"Jesenice, Jesenice"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1301684
     },
     "wof:country":"SI",
     "wof:geomhash":"88ca762c81e25dcb919c5e462107f6c6",
@@ -211,7 +210,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577007,
+    "wof:lastmodified":1566645005,
     "wof:name":"Jesenice",
     "wof:parent_id":1108959875,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":684,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.48,46.27972,15.52,46.31972",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Lo\u010de"
     ],
@@ -47,7 +51,6 @@
         "\u041b\u043e\u0447\u0435"
     ],
     "name:und_x_variant":[
-        "Lo\u010de",
         "Lo\u010de pri Polj\u010danah"
     ],
     "src:geom":"geonames",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1326761539,
-    "wof:lastmodified":1564215662,
+    "wof:lastmodified":1566644347,
     "wof:name":"Loce",
     "wof:parent_id":1108959753,
     "wof:placetype":"locality",

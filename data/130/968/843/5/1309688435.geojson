@@ -23,8 +23,12 @@
     "gn:population":141,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.21333,45.46333,15.25333,45.50333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Hrast pri Vinici"
     ],
@@ -50,8 +54,7 @@
         "\u0425\u0440\u0430\u0441\u0442-\u043f\u0440\u0438-\u0412\u0438\u043d\u0438\u0446\u0456"
     ],
     "name:und_x_variant":[
-        "Hrast",
-        "Hrast pri Vinici"
+        "Hrast"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1309688435,
-    "wof:lastmodified":1564216605,
+    "wof:lastmodified":1566645015,
     "wof:name":"Hrast pri Vinici",
     "wof:parent_id":1108959699,
     "wof:placetype":"locality",

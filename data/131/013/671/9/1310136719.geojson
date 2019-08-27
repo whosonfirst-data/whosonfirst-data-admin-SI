@@ -23,8 +23,12 @@
     "gn:population":179,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.78553,45.9425,14.82553,45.9825",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gabrje pri Sti\u010dni"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0431\u0440\u0454-\u043f\u0440\u0438-\u0421\u0442\u0438\u0447\u043d\u0456"
-    ],
-    "name:und_x_variant":[
-        "Gabrje pri Sti\u010dni"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1310136719,
-    "wof:lastmodified":1564216469,
+    "wof:lastmodified":1566644901,
     "wof:name":"Gabrje pri Sticni",
     "wof:parent_id":1108959583,
     "wof:placetype":"locality",

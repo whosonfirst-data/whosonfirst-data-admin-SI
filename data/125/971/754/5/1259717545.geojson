@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.81194,45.52111,14.85194,45.56111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Pre\u017ea"
     ],
     "name:slv_x_preferred":[
-        "Pre\u017ea"
-    ],
-    "name:und_x_variant":[
         "Pre\u017ea"
     ],
     "src:geom":"geonames",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1259717545,
-    "wof:lastmodified":1564216820,
+    "wof:lastmodified":1566645186,
     "wof:name":"Preza",
     "wof:parent_id":1108959919,
     "wof:placetype":"locality",

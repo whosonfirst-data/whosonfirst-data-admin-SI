@@ -23,8 +23,12 @@
     "gn:population":268,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.63022,46.07818,14.67022,46.11818",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Zajel\u0161e"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0417\u0430\u0454\u043b\u0448\u0435"
-    ],
-    "name:und_x_variant":[
-        "Zajel\u0161e"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1326998969,
-    "wof:lastmodified":1564215678,
+    "wof:lastmodified":1566644357,
     "wof:name":"Zajelse",
     "wof:parent_id":1108959861,
     "wof:placetype":"locality",

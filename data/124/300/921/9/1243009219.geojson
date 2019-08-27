@@ -23,8 +23,12 @@
     "gn:population":50,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.53836,46.0791,15.57836,46.1191",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ze\u010de pri Bu\u010dah"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0417\u0435\u0447\u0435-\u043f\u0440\u0438-\u0411\u0443\u0447\u0430\u0445"
-    ],
-    "name:und_x_variant":[
-        "Ze\u010de pri Bu\u010dah"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1243009219,
-    "wof:lastmodified":1564216665,
+    "wof:lastmodified":1566645083,
     "wof:name":"Zece pri Bucah",
     "wof:parent_id":1108959581,
     "wof:placetype":"locality",

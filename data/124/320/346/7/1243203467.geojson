@@ -23,8 +23,12 @@
     "gn:population":118,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.13605,46.13512,15.17605,46.17512",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Brezno"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1243203467,
-    "wof:lastmodified":1564216764,
+    "wof:lastmodified":1566645150,
     "wof:name":"Brezno",
     "wof:parent_id":1108959879,
     "wof:placetype":"locality",

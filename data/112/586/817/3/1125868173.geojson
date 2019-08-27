@@ -9,15 +9,18 @@
     "geom:bbox":"15.17833,46.08417,15.17833,46.08417",
     "geom:latitude":46.08417,
     "geom:longitude":15.17833,
-    "gn:gn_country":"SI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":284,
+    "gn:country":"SI",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SI",
+    "lbl:bbox":"15.15833,46.06417,15.19833,46.10417",
     "lbl:latitude":46.08417,
     "lbl:longitude":15.17833,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Zidani Most"
@@ -67,7 +70,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0438\u0434\u0430\u043d\u0438\u0439 \u041c\u043e\u0441\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Steinbr\u00fcck"
     ],
     "name:zho_x_preferred":[
@@ -94,7 +97,7 @@
     "qs_pg:woe_adm0":23424945,
     "qs_pg:woe_id":532344,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424945,
     "woe:name_adm0":"Slovenija",
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":1125868173,
-    "wof:lastmodified":1564216640,
+    "wof:lastmodified":1566645045,
     "wof:name":"Zidani Most",
     "wof:parent_id":1108959879,
     "wof:placetype":"locality",

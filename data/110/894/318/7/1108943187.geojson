@@ -10,8 +10,10 @@
     "geom:latitude":46.070353,
     "geom:longitude":14.471898,
     "iso:country":"SI",
+    "lbl:bbox":"14.4668981328,46.0653531387,14.4768981328,46.0753531387",
     "lbl:latitude":46.070353,
     "lbl:longitude":14.471898,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -39,7 +41,7 @@
     "name:srp_x_preferred":[
         "\u041a\u043e\u0441\u0435\u0437\u0435"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1108959501,
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":1108943187,
-    "wof:lastmodified":1564216447,
+    "wof:lastmodified":1566644889,
     "wof:name":"Koseze",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",

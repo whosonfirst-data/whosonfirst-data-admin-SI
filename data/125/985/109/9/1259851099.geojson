@@ -23,8 +23,12 @@
     "gn:population":9,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.29202,45.51005,15.33202,45.55005",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Pobre\u017eje"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0431\u0440\u0435\u0436\u0454"
-    ],
-    "name:und_x_variant":[
-        "Pobre\u017eje"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1259851099,
-    "wof:lastmodified":1564216828,
+    "wof:lastmodified":1566645192,
     "wof:name":"Pobrezje",
     "wof:parent_id":1108959699,
     "wof:placetype":"locality",

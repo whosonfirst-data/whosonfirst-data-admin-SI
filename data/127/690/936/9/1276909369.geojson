@@ -23,8 +23,12 @@
     "gn:population":309,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.81975,45.65218,14.85975,45.69218",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Stara Cerkev"
     ],
@@ -50,8 +54,7 @@
         "\u0421\u0442\u0430\u0440\u0430 \u0426\u0435\u0440\u043a\u0435\u0432"
     ],
     "name:und_x_variant":[
-        "Stari Cerkev",
-        "Stara Cerkev"
+        "Stari Cerkev"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1276909369,
-    "wof:lastmodified":1564216063,
+    "wof:lastmodified":1566644622,
     "wof:name":"Stara Cerkev",
     "wof:parent_id":1108959919,
     "wof:placetype":"locality",

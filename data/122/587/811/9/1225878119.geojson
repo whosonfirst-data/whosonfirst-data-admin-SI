@@ -23,8 +23,12 @@
     "gn:population":184,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.26133,45.8572,15.30133,45.8972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vinji Vrh"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1225878119,
-    "wof:lastmodified":1564216930,
+    "wof:lastmodified":1566645259,
     "wof:name":"Vinji Vrh",
     "wof:parent_id":1108959833,
     "wof:placetype":"locality",

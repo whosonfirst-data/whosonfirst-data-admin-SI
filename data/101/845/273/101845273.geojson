@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":46.054703,
     "lbl:longitude":13.619021,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.054703,
     "mps:longitude":13.619021,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Deskle"
     ],
@@ -50,9 +53,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u0441\u043a\u043b\u0435"
     ],
-    "name:unk_x_variant":[
-        "Descla"
-    ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
     "qs:a1r":"0",
@@ -69,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":77,
     "wof:belongsto":[
@@ -82,7 +82,6 @@
     "wof:concordances":{
         "gn:id":3202070,
         "gp:id":529805,
-        "qs:id":147289,
         "qs_pg:id":147289,
         "wd:id":"Q2928996",
         "wk:page":"Deskle"
@@ -99,7 +98,7 @@
         }
     ],
     "wof:id":101845273,
-    "wof:lastmodified":1563576911,
+    "wof:lastmodified":1566644977,
     "wof:name":"Deskle",
     "wof:parent_id":1108959537,
     "wof:placetype":"locality",

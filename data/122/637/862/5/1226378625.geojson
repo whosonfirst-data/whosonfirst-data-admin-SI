@@ -23,8 +23,12 @@
     "gn:population":75,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.17342,46.25299,15.21342,46.29299",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:hrv_x_preferred":[
         "Mala Pire\u0161ica"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043b\u0430 \u041f\u0438\u0440\u0435\u0448\u0438\u0446\u044f"
-    ],
-    "name:und_x_variant":[
-        "Mala Pire\u0161ica"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1226378625,
-    "wof:lastmodified":1564216986,
+    "wof:lastmodified":1566645297,
     "wof:name":"Mala Piresica",
     "wof:parent_id":1108959929,
     "wof:placetype":"locality",

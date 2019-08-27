@@ -23,8 +23,12 @@
     "gn:population":482,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.06333,46.56333,15.10333,46.60333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Sveti Danijel"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0432\u0435\u0442\u0438\u0439 \u0414\u0430\u043d\u0456\u0454\u043b"
-    ],
-    "name:und_x_variant":[
-        "Sveti Danijel"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1344224757,
-    "wof:lastmodified":1564215739,
+    "wof:lastmodified":1566644397,
     "wof:name":"Sv. Danijel",
     "wof:parent_id":1108959495,
     "wof:placetype":"locality",

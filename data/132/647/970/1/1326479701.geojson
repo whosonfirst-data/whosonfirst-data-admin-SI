@@ -23,8 +23,12 @@
     "gn:population":55,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.66776,45.98358,14.70776,46.02358",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gorenja vas pri Polici"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1326479701,
-    "wof:lastmodified":1564215668,
+    "wof:lastmodified":1566644350,
     "wof:name":"Gorenja Vas pri Polici",
     "wof:parent_id":1108959533,
     "wof:placetype":"locality",

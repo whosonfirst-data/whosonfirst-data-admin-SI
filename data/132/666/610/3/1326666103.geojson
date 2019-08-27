@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.72029,46.05627,13.76029,46.09627",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326666103,
-    "wof:lastmodified":1536791393,
+    "wof:lastmodified":1566644327,
     "wof:name":"Kacja Draga",
     "wof:parent_id":1108959537,
     "wof:placetype":"locality",

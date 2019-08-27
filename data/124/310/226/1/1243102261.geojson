@@ -23,8 +23,12 @@
     "gn:population":225,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.60162,46.16613,14.64162,46.20613",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Hudo"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1243102261,
-    "wof:lastmodified":1564216780,
+    "wof:lastmodified":1566645160,
     "wof:name":"Hudo",
     "wof:parent_id":1108959799,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":459,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.00667,46.75944,16.04667,46.79944",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Perto\u010da"
     ],
@@ -53,9 +57,7 @@
         "\u041f\u0435\u0440\u0442\u043e\u0447\u0430"
     ],
     "name:und_x_variant":[
-        "Peresto",
-        "Perest\u00f3",
-        "Perto\u010da"
+        "Peresto"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -82,7 +84,7 @@
         }
     ],
     "wof:id":1310630503,
-    "wof:lastmodified":1564216495,
+    "wof:lastmodified":1566644915,
     "wof:name":"Pertoca",
     "wof:parent_id":1108959655,
     "wof:placetype":"locality",

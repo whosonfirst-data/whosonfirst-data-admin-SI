@@ -23,8 +23,12 @@
     "gn:population":49,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.75036,46.12442,14.79036,46.16442",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gabrje pod Limbarsko Goro"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1344188631,
-    "wof:lastmodified":1564215815,
+    "wof:lastmodified":1566644449,
     "wof:name":"Gabrje pod Limbarsko Goro",
     "wof:parent_id":1108959515,
     "wof:placetype":"locality",

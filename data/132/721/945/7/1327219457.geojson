@@ -23,8 +23,12 @@
     "gn:population":222,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.51181,45.8714,15.55181,45.9114",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u017dupe\u010da vas"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0416\u0443\u043f\u0435\u0447\u0430 \u0412\u0430\u0441"
-    ],
-    "name:und_x_variant":[
-        "\u017dupe\u010da Vas"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1327219457,
-    "wof:lastmodified":1564215696,
+    "wof:lastmodified":1566644369,
     "wof:name":"Zupeca Vas",
     "wof:parent_id":1108959585,
     "wof:placetype":"locality",

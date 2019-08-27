@@ -23,8 +23,12 @@
     "gn:population":29,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.08201,45.74268,15.12201,45.78268",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dolnje Mra\u0161evo"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043b\u043d\u0454 \u041c\u0440\u0430\u0448\u0435\u0432\u043e"
-    ],
-    "name:und_x_variant":[
-        "Dolnje Mra\u0161evo"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1309834991,
-    "wof:lastmodified":1564216595,
+    "wof:lastmodified":1566645009,
     "wof:name":"Dolnje Mrasevo",
     "wof:parent_id":1108959793,
     "wof:placetype":"locality",

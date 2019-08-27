@@ -22,8 +22,12 @@
     "gn:population":72,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.63275,46.05422,15.67275,46.09422",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ples"
     ],
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":1209734371,
-    "wof:lastmodified":1564216196,
+    "wof:lastmodified":1566644710,
     "wof:name":"Ples",
     "wof:parent_id":1108959915,
     "wof:placetype":"locality",

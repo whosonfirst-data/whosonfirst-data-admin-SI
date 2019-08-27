@@ -23,8 +23,12 @@
     "gn:population":11,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.70185,45.87632,14.74185,45.91632",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gabrje pri Ilovi Gori"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1226202077,
-    "wof:lastmodified":1564216899,
+    "wof:lastmodified":1566645240,
     "wof:name":"Gabrje pri Ilovi Gori",
     "wof:parent_id":1108959533,
     "wof:placetype":"locality",

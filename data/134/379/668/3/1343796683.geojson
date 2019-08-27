@@ -23,8 +23,12 @@
     "gn:population":136,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.47344,46.15867,15.51344,46.19867",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Babna Brda"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1343796683,
-    "wof:lastmodified":1564215755,
+    "wof:lastmodified":1566644408,
     "wof:name":"Babna Brda",
     "wof:parent_id":1108959607,
     "wof:placetype":"locality",

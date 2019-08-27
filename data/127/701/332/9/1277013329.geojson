@@ -23,8 +23,12 @@
     "gn:population":156,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.60681,46.19431,15.64681,46.23431",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Brestovec"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1277013329,
-    "wof:lastmodified":1564215979,
+    "wof:lastmodified":1566644567,
     "wof:name":"Brestovec",
     "wof:parent_id":1108959803,
     "wof:placetype":"locality",

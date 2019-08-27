@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":46.230453,
     "lbl:longitude":15.518011,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.230453,
     "mps:longitude":15.518011,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u0160marje pri Jel\u0161ah"
     ],
@@ -56,15 +59,9 @@
     "name:und_x_colloquial":[
         "Smarje Pri Jelsah"
     ],
-    "name:und_x_preferred":[
-        "\u0160marje pri Jel\u0161ah"
-    ],
     "name:und_x_variant":[
         "Shmare",
         "Smarije"
-    ],
-    "name:unk_x_variant":[
-        "Shmare"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -83,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -96,7 +93,6 @@
         "fct:id":"06f34a64-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3190510,
         "gp:id":531586,
-        "qs:id":988371,
         "qs_pg:id":988371,
         "wd:id":"Q4489175"
     },
@@ -115,7 +111,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563576925,
+    "wof:lastmodified":1566644981,
     "wof:name":"\u0160marje pri Jel\u0161ah",
     "wof:parent_id":1108959607,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":26,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.388,45.95146,15.428,45.99146",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u010cre\u0161njice nad Pijav\u0161kim"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0427\u0440\u0435\u0448\u043d\u0438\u0446\u0435-\u043d\u0430\u0434-\u041f\u0456\u044f\u0432\u0448\u043a\u0456\u043c"
-    ],
-    "name:und_x_variant":[
-        "\u010cre\u0161njice nad Pijav\u0161kim"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1209945889,
-    "wof:lastmodified":1564216183,
+    "wof:lastmodified":1566644703,
     "wof:name":"Cresnjice nad Pijavskim",
     "wof:parent_id":1108959473,
     "wof:placetype":"locality",

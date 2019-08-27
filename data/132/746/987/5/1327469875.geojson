@@ -23,8 +23,12 @@
     "gn:population":136,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.36911,46.39501,14.40911,46.43501",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Jelendol"
     ],
@@ -50,8 +54,7 @@
         "\u0404\u043b\u0435\u043d\u0434\u043e\u043b"
     ],
     "name:und_x_variant":[
-        "Sveti Katarina",
-        "Jelendol"
+        "Sveti Katarina"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1327469875,
-    "wof:lastmodified":1564215655,
+    "wof:lastmodified":1566644342,
     "wof:name":"Jelendol",
     "wof:parent_id":1108959917,
     "wof:placetype":"locality",

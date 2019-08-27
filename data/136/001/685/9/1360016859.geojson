@@ -23,8 +23,12 @@
     "gn:population":92,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.80361,45.70861,13.84361,45.74861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vrhovlje"
     ],
@@ -44,8 +48,7 @@
         "\u0412\u0440\u0445\u043e\u0432\u043b\u0454"
     ],
     "name:und_x_variant":[
-        "Vercogliano di Monrupino",
-        "Vrhovlje"
+        "Vercogliano di Monrupino"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1360016859,
-    "wof:lastmodified":1564216562,
+    "wof:lastmodified":1566644953,
     "wof:name":"Vrhovlje",
     "wof:parent_id":1108959789,
     "wof:placetype":"locality",

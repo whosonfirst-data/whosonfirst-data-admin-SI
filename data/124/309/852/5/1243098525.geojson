@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.16639,46.61833,15.20639,46.65833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0435\u0440\u043d\u0430\u0440\u0434"
     ],
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":1243098525,
-    "wof:lastmodified":1564216669,
+    "wof:lastmodified":1566645086,
     "wof:name":"Bernhard",
     "wof:parent_id":1108959557,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":64,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.0138,45.73366,15.0538,45.77366",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1276157073,
-    "wof:lastmodified":1537014272,
+    "wof:lastmodified":1566644611,
     "wof:name":"Suhor pri Dol. Toplicah",
     "wof:parent_id":1108959675,
     "wof:placetype":"locality",

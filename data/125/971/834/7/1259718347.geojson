@@ -23,8 +23,12 @@
     "gn:population":81,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.44667,46.09667,15.48667,46.13667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dobje pri Lesi\u010dnem"
     ],
@@ -47,8 +51,7 @@
         "\u0414\u043e\u0431\u0454-\u043f\u0440\u0438-\u041b\u0435\u0441\u0438\u0447\u043d\u0435\u043c"
     ],
     "name:und_x_variant":[
-        "Dobje",
-        "Dobje pri Lesi\u010dnem"
+        "Dobje"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1259718347,
-    "wof:lastmodified":1564216822,
+    "wof:lastmodified":1566645188,
     "wof:name":"Dobje pri Lesicnem",
     "wof:parent_id":1108959791,
     "wof:placetype":"locality",

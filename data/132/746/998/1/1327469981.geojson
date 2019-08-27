@@ -23,8 +23,12 @@
     "gn:population":529,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.17361,45.87556,14.21361,45.91556",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kalce"
     ],
@@ -50,8 +54,7 @@
         "\u041a\u0430\u043b\u0446\u0435"
     ],
     "name:und_x_variant":[
-        "Kali\u0161e",
-        "Kalce"
+        "Kali\u0161e"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1327469981,
-    "wof:lastmodified":1564215649,
+    "wof:lastmodified":1566644339,
     "wof:name":"Kalce",
     "wof:parent_id":1108959889,
     "wof:placetype":"locality",

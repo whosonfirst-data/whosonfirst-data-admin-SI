@@ -23,8 +23,12 @@
     "gn:population":48,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.4917,45.92081,15.5317,45.96081",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vrbina"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1293919899,
-    "wof:lastmodified":1564215852,
+    "wof:lastmodified":1566644482,
     "wof:name":"Vrbina",
     "wof:parent_id":1108959473,
     "wof:placetype":"locality",

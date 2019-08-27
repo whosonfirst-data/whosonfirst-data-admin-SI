@@ -12,8 +12,11 @@
     "iso:country":"SI",
     "lbl:latitude":46.129176,
     "lbl:longitude":15.114213,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0631\u0627\u0633\u062a\u0646\u064a\u0643"
     ],
@@ -90,7 +93,7 @@
         "\u8d6b\u62c9\u65af\u7279\u5c3c\u514b"
     ],
     "src:geom":"svn-sma",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1108959571,
-    "wof:lastmodified":1564216383,
+    "wof:lastmodified":1566644839,
     "wof:name":"Hrastnik",
     "wof:parent_id":1108959963,
     "wof:placetype":"localadmin",

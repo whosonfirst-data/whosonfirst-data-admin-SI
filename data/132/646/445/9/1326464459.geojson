@@ -23,8 +23,12 @@
     "gn:population":196,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.21333,46.64667,16.25333,46.68667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Mlajtinci"
     ],
@@ -58,9 +62,7 @@
     "name:und_x_variant":[
         "M\u00e1ln\u00e1s",
         "Mlajtinci-Luka\u010dovci",
-        "Kism\u00e1ln\u00e1s",
-        "Mlajtince",
-        "Mlajtinci"
+        "Mlajtince"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1326464459,
-    "wof:lastmodified":1564215673,
+    "wof:lastmodified":1566644354,
     "wof:name":"Mlajtinci",
     "wof:parent_id":1108959925,
     "wof:placetype":"locality",

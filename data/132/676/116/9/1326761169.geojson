@@ -23,8 +23,12 @@
     "gn:population":211,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.11056,46.55444,16.15056,46.59444",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ilja\u0161evci"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0406\u043b\u044f\u0448\u0435\u0432\u0446\u0456"
-    ],
-    "name:und_x_variant":[
-        "Ilja\u0161evci"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1326761169,
-    "wof:lastmodified":1564215661,
+    "wof:lastmodified":1566644346,
     "wof:name":"Iljasevci",
     "wof:parent_id":1108959775,
     "wof:placetype":"locality",

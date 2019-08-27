@@ -11,12 +11,16 @@
     "geom:longitude":16.082726,
     "gn:population":375,
     "iso:country":"SI",
+    "lbl:bbox":"16.062726,46.821566,16.102726,46.861566",
     "lbl:latitude":46.841566,
     "lbl:longitude":16.082726,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":46.841566,
     "mps:longitude":16.082726,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kuzma"
     ],
@@ -59,7 +63,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0437\u043c\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kuzdoblanje"
     ],
     "name:vie_x_preferred":[
@@ -81,7 +85,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":296,
     "wof:belongsto":[
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":3196842,
         "gp:id":530549,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q2219733",
         "wk:page":"Kuzma, Kuzma"
     },
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":101858993,
-    "wof:lastmodified":1563576963,
+    "wof:lastmodified":1566644992,
     "wof:name":"Kuzma",
     "wof:parent_id":1108959511,
     "wof:placetype":"locality",

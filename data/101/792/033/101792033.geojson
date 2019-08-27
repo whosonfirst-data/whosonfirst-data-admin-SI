@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":46.27674,
     "lbl:longitude":15.301699,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.27674,
     "mps:longitude":15.301699,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vojnik"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -114,7 +117,6 @@
     "wof:concordances":{
         "gn:id":3187448,
         "gp:id":55850100,
-        "qs:id":147071,
         "qs_pg:id":147071,
         "wd:id":"Q16469"
     },
@@ -130,7 +132,7 @@
         }
     ],
     "wof:id":101792033,
-    "wof:lastmodified":1563577008,
+    "wof:lastmodified":1566645005,
     "wof:name":"Vojnik",
     "wof:parent_id":1108959653,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":36,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.15851,45.46246,15.19851,45.50246",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gornji Suhor pri Vinici"
     ],
@@ -47,8 +51,7 @@
         "\u0413\u043e\u0440\u043d\u0438\u0439 \u0421\u0443\u0445\u043e\u0440-\u043f\u0440\u0438-\u0412\u0438\u043d\u0438\u0446\u0456"
     ],
     "name:und_x_variant":[
-        "Gornji-Suhor",
-        "Gornji Suhor pri Vinici"
+        "Gornji-Suhor"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1242944639,
-    "wof:lastmodified":1564216704,
+    "wof:lastmodified":1566645110,
     "wof:name":"Gornji Suhor pri Vinici",
     "wof:parent_id":1108959699,
     "wof:placetype":"locality",

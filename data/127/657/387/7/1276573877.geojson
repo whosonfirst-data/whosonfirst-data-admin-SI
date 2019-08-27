@@ -23,8 +23,12 @@
     "gn:population":229,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.68,45.94667,15.72,45.98667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Stara vas\u2013Bizeljsko"
     ],
@@ -50,8 +54,7 @@
         "\u0421\u0442\u0430\u0440\u0430 \u0412\u0430\u0441-\u0411\u0456\u0437\u0435\u043b\u044c\u0441\u044c\u043a\u043e"
     ],
     "name:und_x_variant":[
-        "Stara Vas",
-        "Stara Vas-Bizeljsko"
+        "Stara Vas"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1276573877,
-    "wof:lastmodified":1564216030,
+    "wof:lastmodified":1566644602,
     "wof:name":"Stara Vas-Bizeljsko",
     "wof:parent_id":1108959585,
     "wof:placetype":"locality",

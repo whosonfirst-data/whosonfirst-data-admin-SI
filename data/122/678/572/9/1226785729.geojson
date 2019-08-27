@@ -23,8 +23,12 @@
     "gn:population":111,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.81444,46.66129,15.85444,46.70129",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Grabe"
     ],
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1226785729,
-    "wof:lastmodified":1564216964,
+    "wof:lastmodified":1566645281,
     "wof:name":"Grabe",
     "wof:parent_id":1108959667,
     "wof:placetype":"locality",

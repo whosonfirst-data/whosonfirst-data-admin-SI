@@ -23,8 +23,12 @@
     "gn:population":35,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.01285,45.94836,15.05285,45.98836",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Sajenice"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1209546269,
-    "wof:lastmodified":1564216100,
+    "wof:lastmodified":1566644646,
     "wof:name":"Sajenice",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

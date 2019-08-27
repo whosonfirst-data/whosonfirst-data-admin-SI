@@ -23,8 +23,12 @@
     "gn:population":33,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.25373,45.97084,15.29373,46.01084",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Laze pri Bo\u0161tanju"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0430\u0437\u0435-\u043f\u0440\u0438-\u0411\u043e\u0448\u0442\u0430\u043d\u044e"
-    ],
-    "name:und_x_variant":[
-        "Laze pri Bo\u0161tanju"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1293914501,
-    "wof:lastmodified":1564215851,
+    "wof:lastmodified":1566644482,
     "wof:name":"Laze pri Bostanju",
     "wof:parent_id":1108959927,
     "wof:placetype":"locality",

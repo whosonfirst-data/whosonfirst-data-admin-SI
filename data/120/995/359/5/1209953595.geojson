@@ -23,8 +23,12 @@
     "gn:population":81,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.31333,45.89667,15.35333,45.93667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u0160trit"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0428\u0442\u0440\u0438\u0442"
-    ],
-    "name:und_x_variant":[
-        "\u0160trit"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1209953595,
-    "wof:lastmodified":1564216161,
+    "wof:lastmodified":1566644688,
     "wof:name":"Strit",
     "wof:parent_id":1108959605,
     "wof:placetype":"locality",

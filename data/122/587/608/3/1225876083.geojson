@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.84194,45.65194,14.88194,45.69194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_historical":[
         "Beim Brunnwirt"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1225876083,
-    "wof:lastmodified":1537700272,
+    "wof:lastmodified":1566645262,
     "wof:name":"Brunvirt",
     "wof:parent_id":1108959919,
     "wof:placetype":"locality",

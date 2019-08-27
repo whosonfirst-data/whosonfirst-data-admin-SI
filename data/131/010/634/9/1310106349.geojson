@@ -22,8 +22,12 @@
     "gn:population":595,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.82461,46.30446,13.86461,46.34446",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Stara Fu\u008eIna"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310106349,
-    "wof:lastmodified":1537700276,
+    "wof:lastmodified":1566644925,
     "wof:name":"",
     "wof:parent_id":1108959819,
     "wof:placetype":"locality",

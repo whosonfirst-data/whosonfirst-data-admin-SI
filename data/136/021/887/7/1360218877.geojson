@@ -23,8 +23,12 @@
     "gn:population":8,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.09352,45.62939,15.13352,45.66939",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Brezovica pri \u010crmo\u0161njicah"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0435\u0437\u043e\u0432\u0438\u0446\u044f-\u043f\u0440\u0438-\u0427\u0440\u043c\u043e\u0448\u043d\u0456\u0446\u0430\u0445"
-    ],
-    "name:und_x_variant":[
-        "Brezovica pri \u010crmo\u0161njicah"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1360218877,
-    "wof:lastmodified":1564216571,
+    "wof:lastmodified":1566644957,
     "wof:name":"Brezovica pri Crmosnjicah",
     "wof:parent_id":1108959601,
     "wof:placetype":"locality",

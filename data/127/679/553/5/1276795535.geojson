@@ -23,8 +23,12 @@
     "gn:population":22,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.18,45.83,15.22,45.87",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dolenje Gr\u010devje"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043b\u0435\u043d\u0454 \u0413\u0440\u0447\u0435\u0432\u0454"
-    ],
-    "name:und_x_variant":[
-        "Dolenje Gr\u010devje"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1276795535,
-    "wof:lastmodified":1564216056,
+    "wof:lastmodified":1566644618,
     "wof:name":"Dolenje Grcevje",
     "wof:parent_id":1108959465,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":3,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.80361,45.44278,13.84361,45.48278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Belvedur"
     ],
@@ -50,8 +54,7 @@
         "\u0411\u0435\u043b\u0432\u0435\u0434\u0443\u0440"
     ],
     "name:und_x_variant":[
-        "Belveder",
-        "Belvedur"
+        "Belveder"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1293914275,
-    "wof:lastmodified":1564215851,
+    "wof:lastmodified":1566644481,
     "wof:name":"Belvedur",
     "wof:parent_id":1108959527,
     "wof:placetype":"locality",

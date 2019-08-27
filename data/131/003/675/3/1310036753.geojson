@@ -23,8 +23,12 @@
     "gn:population":25,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.21923,45.92397,15.25923,45.96397",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Otavnik"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1310036753,
-    "wof:lastmodified":1564216515,
+    "wof:lastmodified":1566644926,
     "wof:name":"Otavnik",
     "wof:parent_id":1108959927,
     "wof:placetype":"locality",

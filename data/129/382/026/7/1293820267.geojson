@@ -23,8 +23,12 @@
     "gn:population":2,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.97667,45.61444,15.01667,45.65444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Rajhenav"
     ],
@@ -47,8 +51,7 @@
         "\u0420\u0430\u0439\u0445\u0435\u043d\u0430\u0432"
     ],
     "name:und_x_variant":[
-        "Rajhenau",
-        "Rajhenav"
+        "Rajhenau"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1293820267,
-    "wof:lastmodified":1564215900,
+    "wof:lastmodified":1566644514,
     "wof:name":"Rajhenav",
     "wof:parent_id":1108959919,
     "wof:placetype":"locality",

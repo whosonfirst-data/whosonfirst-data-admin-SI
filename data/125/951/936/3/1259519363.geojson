@@ -23,8 +23,12 @@
     "gn:population":170,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.59161,46.31838,15.63161,46.35838",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ko\u010dno ob Lo\u017enici"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0447\u043d\u043e-\u043e\u0431-\u041b\u043e\u0436\u043d\u0438\u0446\u0456"
-    ],
-    "name:und_x_variant":[
-        "Ko\u010dno ob Lo\u017enici"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1259519363,
-    "wof:lastmodified":1564216848,
+    "wof:lastmodified":1566645206,
     "wof:name":"Kocno ob Loznici",
     "wof:parent_id":1108959641,
     "wof:placetype":"locality",

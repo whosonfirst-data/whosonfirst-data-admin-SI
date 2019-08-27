@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":45.796246,
     "lbl:longitude":14.363411,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.796246,
     "mps:longitude":14.363411,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062a\u0633\u0631\u0643\u0646\u064a\u062a\u0633\u0627"
     ],
@@ -122,13 +125,7 @@
     "name:ukr_x_preferred":[
         "\u0426\u0435\u0440\u043a\u043d\u0438\u0446\u044f"
     ],
-    "name:und_x_preferred":[
-        "Cerknica"
-    ],
     "name:und_x_variant":[
-        "Zirknitz"
-    ],
-    "name:unk_x_variant":[
         "Zirknitz"
     ],
     "name:urd_x_preferred":[
@@ -156,7 +153,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":45.796381,
     "wd:longitude":14.358092,
@@ -172,7 +169,6 @@
         "fct:id":"06f23624-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3202709,
         "gp:id":529730,
-        "qs:id":1301680,
         "qs_pg:id":1301680,
         "wd:id":"Q15860",
         "wk:page":"Cerknica"
@@ -192,7 +188,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563576927,
+    "wof:lastmodified":1566644982,
     "wof:name":"Cerknica",
     "wof:parent_id":1108959905,
     "wof:placetype":"locality",

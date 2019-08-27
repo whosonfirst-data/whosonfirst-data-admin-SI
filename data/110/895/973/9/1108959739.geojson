@@ -12,8 +12,11 @@
     "iso:country":"SI",
     "lbl:latitude":46.39719,
     "lbl:longitude":15.751255,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Kidri\u010devo"
     ],
@@ -42,7 +45,7 @@
         "Kidri\u010devo"
     ],
     "src:geom":"svn-sma",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1108959739,
-    "wof:lastmodified":1564216420,
+    "wof:lastmodified":1566644871,
     "wof:name":"Kidri\u010devo",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",

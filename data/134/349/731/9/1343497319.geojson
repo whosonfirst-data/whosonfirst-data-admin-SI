@@ -23,8 +23,12 @@
     "gn:population":12,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.76313,45.57837,14.80313,45.61837",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Primo\u017ei"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0438\u043c\u043e\u0436\u0456"
-    ],
-    "name:und_x_variant":[
-        "Primo\u017ei"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1343497319,
-    "wof:lastmodified":1564215763,
+    "wof:lastmodified":1566644414,
     "wof:name":"Primozi",
     "wof:parent_id":1108959919,
     "wof:placetype":"locality",

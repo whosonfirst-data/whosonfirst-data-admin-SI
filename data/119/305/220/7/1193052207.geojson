@@ -23,8 +23,12 @@
     "gn:population":42,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.24345,45.85256,15.28345,45.89256",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gradenje"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1193052207,
-    "wof:lastmodified":1564216244,
+    "wof:lastmodified":1566644743,
     "wof:name":"Gradenje",
     "wof:parent_id":1108959833,
     "wof:placetype":"locality",

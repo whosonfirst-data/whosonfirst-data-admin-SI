@@ -23,8 +23,12 @@
     "gn:population":292,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.62459,46.5556,15.66459,46.5956",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ribni\u0161ko selo"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0438\u0431\u043d\u0438\u0448\u043a\u043e \u0421\u0435\u043b\u043e"
-    ],
-    "name:und_x_variant":[
-        "Ribni\u0161ko Selo"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1310635367,
-    "wof:lastmodified":1564216494,
+    "wof:lastmodified":1566644915,
     "wof:name":"Ribnisko Selo",
     "wof:parent_id":1108959785,
     "wof:placetype":"locality",

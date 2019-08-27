@@ -23,8 +23,12 @@
     "gn:population":22,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.18101,45.49944,15.22101,45.53944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u0160ipek"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0428\u0438\u043f\u0435\u043a"
-    ],
-    "name:und_x_variant":[
-        "\u0160ipek"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1259746809,
-    "wof:lastmodified":1564216856,
+    "wof:lastmodified":1566645211,
     "wof:name":"Sipek",
     "wof:parent_id":1108959699,
     "wof:placetype":"locality",

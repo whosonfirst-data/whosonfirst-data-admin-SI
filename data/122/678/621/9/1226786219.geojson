@@ -23,8 +23,12 @@
     "gn:population":202,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.20238,46.0317,15.24238,46.0717",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ra\u010dica"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0447\u0438\u0446\u044f"
-    ],
-    "name:und_x_variant":[
-        "Ra\u010dica"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1226786219,
-    "wof:lastmodified":1564216962,
+    "wof:lastmodified":1566645280,
     "wof:name":"Racica",
     "wof:parent_id":1108959927,
     "wof:placetype":"locality",

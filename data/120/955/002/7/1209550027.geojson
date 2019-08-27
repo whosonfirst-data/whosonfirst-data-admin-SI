@@ -23,8 +23,12 @@
     "gn:population":170,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.45671,45.94112,15.49671,45.98112",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Tr\u0161ka Gora"
     ],
@@ -52,9 +56,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0448\u043a\u0430 \u0413\u043e\u0440\u0430"
     ],
-    "name:und_x_variant":[
-        "Tr\u0161ka Gora"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1209550027,
-    "wof:lastmodified":1564216123,
+    "wof:lastmodified":1566644661,
     "wof:name":"Trska Gora",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

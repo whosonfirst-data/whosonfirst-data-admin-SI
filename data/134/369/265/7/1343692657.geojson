@@ -23,8 +23,12 @@
     "gn:population":66,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.33148,46.34819,15.37148,46.38819",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Lipa"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1343692657,
-    "wof:lastmodified":1564215797,
+    "wof:lastmodified":1566644437,
     "wof:name":"Lipa",
     "wof:parent_id":1108959671,
     "wof:placetype":"locality",

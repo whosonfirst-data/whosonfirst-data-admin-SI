@@ -23,8 +23,12 @@
     "gn:population":110,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.18019,45.89287,15.22019,45.93287",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u010cu\u017enja vas"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0427\u0443\u0436\u043d\u044f \u0412\u0430\u0441"
-    ],
-    "name:und_x_variant":[
-        "\u010cu\u017enja Vas"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1259717779,
-    "wof:lastmodified":1564216823,
+    "wof:lastmodified":1566645189,
     "wof:name":"Cuznja Vas",
     "wof:parent_id":1108959913,
     "wof:placetype":"locality",

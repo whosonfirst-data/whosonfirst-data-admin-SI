@@ -23,8 +23,12 @@
     "gn:population":11,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.90306,46.17611,13.94306,46.21611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Znojile"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1343597675,
-    "wof:lastmodified":1564215780,
+    "wof:lastmodified":1566644427,
     "wof:name":"Znojile",
     "wof:parent_id":1108959617,
     "wof:placetype":"locality",

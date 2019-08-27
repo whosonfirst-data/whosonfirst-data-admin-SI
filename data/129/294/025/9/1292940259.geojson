@@ -23,8 +23,12 @@
     "gn:population":2438,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.5373,45.98002,14.5773,46.02002",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Lavrica"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1292940259,
-    "wof:lastmodified":1564215872,
+    "wof:lastmodified":1566644496,
     "wof:name":"Lavrica",
     "wof:parent_id":1108959891,
     "wof:placetype":"locality",

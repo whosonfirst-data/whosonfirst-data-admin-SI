@@ -23,8 +23,12 @@
     "gn:population":11,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.04407,45.47497,15.08407,45.51497",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kova\u010da vas"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0432\u0430\u0447\u0430 \u0412\u0430\u0441"
-    ],
-    "name:und_x_variant":[
-        "Kova\u010da Vas"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1327006181,
-    "wof:lastmodified":1564215602,
+    "wof:lastmodified":1566644309,
     "wof:name":"Kovaca Vas",
     "wof:parent_id":1108959699,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":544,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.91556,45.59,13.95556,45.63",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kozina"
     ],
@@ -53,8 +57,7 @@
         "\u041a\u043e\u0437\u0456\u043d\u0430"
     ],
     "name:und_x_variant":[
-        "Cosina d\u2019Istria",
-        "Kozina"
+        "Cosina d\u2019Istria"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1226597919,
-    "wof:lastmodified":1564216908,
+    "wof:lastmodified":1566645246,
     "wof:name":"Kozina",
     "wof:parent_id":1108959549,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":71,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.05464,46.06365,14.09464,46.10365",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Hobov\u0161e pri Stari Oselici"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0425\u043e\u0431\u043e\u0432\u0448\u0435-\u043f\u0440\u0438-\u0421\u0442\u0430\u0440\u0456\u0439 \u041e\u0441\u0435\u043b\u0438\u0446\u0456"
-    ],
-    "name:und_x_variant":[
-        "Hobov\u0161e pri Stari Oselici"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1327481245,
-    "wof:lastmodified":1564215648,
+    "wof:lastmodified":1566644338,
     "wof:name":"Hobovse pri Stari Oselici",
     "wof:parent_id":1108959897,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":20,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.2244,45.55771,15.2644,45.59771",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Pavi\u010di\u010di"
     ],
@@ -32,9 +36,6 @@
         "Pavi\u010di\u010di"
     ],
     "name:slv_x_preferred":[
-        "Pavi\u010di\u010di"
-    ],
-    "name:und_x_variant":[
         "Pavi\u010di\u010di"
     ],
     "src:geom":"geonames",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1343929289,
-    "wof:lastmodified":1564215785,
+    "wof:lastmodified":1566644430,
     "wof:name":"Pavicici",
     "wof:parent_id":1108959699,
     "wof:placetype":"locality",

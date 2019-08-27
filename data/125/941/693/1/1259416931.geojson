@@ -23,8 +23,12 @@
     "gn:population":33,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.67123,46.17346,14.71123,46.21346",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Preserje pri Zlatem Polju"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1259416931,
-    "wof:lastmodified":1564216807,
+    "wof:lastmodified":1566645178,
     "wof:name":"Preserje pri Zlatem Polju",
     "wof:parent_id":1108959807,
     "wof:placetype":"locality",

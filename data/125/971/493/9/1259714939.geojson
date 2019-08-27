@@ -23,8 +23,12 @@
     "gn:population":78,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.67138,45.51291,14.71138,45.55291",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Sela"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1259714939,
-    "wof:lastmodified":1564216826,
+    "wof:lastmodified":1566645190,
     "wof:name":"Sela",
     "wof:parent_id":1108959563,
     "wof:placetype":"locality",

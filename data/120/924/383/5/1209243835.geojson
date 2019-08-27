@@ -23,8 +23,12 @@
     "gn:population":70,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.40878,46.28195,14.44878,46.32195",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Hrib"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1209243835,
-    "wof:lastmodified":1564216135,
+    "wof:lastmodified":1566644670,
     "wof:name":"Hrib",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

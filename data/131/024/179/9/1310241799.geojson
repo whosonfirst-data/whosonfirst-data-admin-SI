@@ -23,8 +23,12 @@
     "gn:population":204,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.25916,46.1594,14.29916,46.1994",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ve\u0161ter"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0448\u0442\u0435\u0440"
-    ],
-    "name:und_x_variant":[
-        "Ve\u0161ter"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1310241799,
-    "wof:lastmodified":1564216456,
+    "wof:lastmodified":1566644893,
     "wof:name":"Vester",
     "wof:parent_id":1108959821,
     "wof:placetype":"locality",

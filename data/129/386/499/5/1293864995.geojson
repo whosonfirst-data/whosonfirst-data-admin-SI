@@ -23,8 +23,12 @@
     "gn:population":281,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.20466,46.22577,15.24466,46.26577",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Medlog"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1293864995,
-    "wof:lastmodified":1564215968,
+    "wof:lastmodified":1566644559,
     "wof:name":"Medlog",
     "wof:parent_id":1108959693,
     "wof:placetype":"locality",

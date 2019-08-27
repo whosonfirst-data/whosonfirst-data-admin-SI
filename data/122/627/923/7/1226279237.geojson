@@ -23,8 +23,12 @@
     "gn:population":49,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.75382,45.95718,14.79382,45.99718",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Sela pri Vi\u0161nji Gori"
     ],
@@ -44,8 +48,7 @@
         "\u0421\u0435\u043b\u0430-\u043f\u0440\u0438-\u0412\u0438\u0448\u043d\u0456 \u0413\u043e\u0440\u0438"
     ],
     "name:und_x_variant":[
-        "Sela",
-        "Sela pri Vi\u0161nji Gori"
+        "Sela"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1226279237,
-    "wof:lastmodified":1564216894,
+    "wof:lastmodified":1566645237,
     "wof:name":"Sela pri Visnji Gori",
     "wof:parent_id":1108959583,
     "wof:placetype":"locality",

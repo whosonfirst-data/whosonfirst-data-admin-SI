@@ -11,12 +11,16 @@
     "geom:longitude":13.645892,
     "gn:population":1269,
     "iso:country":"SI",
+    "lbl:bbox":"13.625892,46.070605,13.665892,46.110605",
     "lbl:latitude":46.090605,
     "lbl:longitude":13.645892,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.090605,
     "mps:longitude":13.645892,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0642\u0646\u0627\u0629"
     ],
@@ -92,7 +96,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043d\u0430\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Canale"
     ],
     "name:uzb_x_preferred":[
@@ -115,7 +119,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -127,7 +131,6 @@
     "wof:concordances":{
         "gn:id":3198354,
         "gp:id":530382,
-        "qs:id":1044042,
         "qs_pg:id":1044042
     },
     "wof:country":"SI",
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":101853163,
-    "wof:lastmodified":1564216593,
+    "wof:lastmodified":1566645007,
     "wof:name":"Kanal",
     "wof:parent_id":1108959537,
     "wof:placetype":"locality",

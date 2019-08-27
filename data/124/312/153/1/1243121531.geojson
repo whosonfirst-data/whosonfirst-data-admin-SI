@@ -23,8 +23,12 @@
     "gn:population":70,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.59758,45.8999,14.63758,45.9399",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vrbi\u010dje"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0440\u0431\u0438\u0447\u0454"
-    ],
-    "name:und_x_variant":[
-        "Vrbi\u010dje"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1243121531,
-    "wof:lastmodified":1564216715,
+    "wof:lastmodified":1566645118,
     "wof:name":"Vrbicje",
     "wof:parent_id":1108959533,
     "wof:placetype":"locality",

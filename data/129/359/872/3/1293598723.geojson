@@ -23,8 +23,12 @@
     "gn:population":103,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.88553,45.84314,13.92553,45.88314",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dolenje"
     ],
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1293598723,
-    "wof:lastmodified":1564215910,
+    "wof:lastmodified":1566644521,
     "wof:name":"Dolenje",
     "wof:parent_id":1108959545,
     "wof:placetype":"locality",

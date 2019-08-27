@@ -23,8 +23,12 @@
     "gn:population":55,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.45519,46.34277,15.49519,46.38277",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dobrova pri Prihovi"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1243293271,
-    "wof:lastmodified":1564216776,
+    "wof:lastmodified":1566645158,
     "wof:name":"Dobrova pri Prihovi",
     "wof:parent_id":1108959737,
     "wof:placetype":"locality",

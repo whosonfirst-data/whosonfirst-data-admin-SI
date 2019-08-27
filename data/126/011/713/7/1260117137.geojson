@@ -23,8 +23,12 @@
     "gn:population":1234,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.53139,46.175,14.57139,46.215",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Moste"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1260117137,
-    "wof:lastmodified":1564216291,
+    "wof:lastmodified":1566644774,
     "wof:name":"Moste",
     "wof:parent_id":1108959837,
     "wof:placetype":"locality",

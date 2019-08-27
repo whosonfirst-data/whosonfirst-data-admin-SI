@@ -23,8 +23,12 @@
     "gn:population":98,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.61946,46.63694,15.65946,46.67694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Stara Gora pri \u0160entilju"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0430 \u0413\u043e\u0440\u0430-\u043f\u0440\u0438-\u0428\u0435\u043d\u0442\u0438\u043b\u044e"
-    ],
-    "name:und_x_variant":[
-        "Stara Gora pri \u0160entilju"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1226785375,
-    "wof:lastmodified":1564216964,
+    "wof:lastmodified":1566645281,
     "wof:name":"Stara Gora pri Sentilju",
     "wof:parent_id":1108959565,
     "wof:placetype":"locality",

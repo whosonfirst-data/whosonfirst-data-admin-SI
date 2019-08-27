@@ -23,8 +23,12 @@
     "gn:population":164,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.49606,46.03254,15.53606,46.07254",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Mr\u010dna sela"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0440\u0447\u043d\u0430 \u0421\u0435\u043b\u0430"
-    ],
-    "name:und_x_variant":[
-        "Mr\u010dna Sela"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1209945551,
-    "wof:lastmodified":1564216184,
+    "wof:lastmodified":1566644703,
     "wof:name":"Mrcna Sela",
     "wof:parent_id":1108959473,
     "wof:placetype":"locality",

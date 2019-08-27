@@ -23,8 +23,12 @@
     "gn:population":151,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.79111,45.66722,14.83111,45.70722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dolnje Lo\u017eine"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043b\u043d\u0454 \u041b\u043e\u0436\u0438\u043d\u0435"
-    ],
-    "name:und_x_variant":[
-        "Dolnje Lo\u017eine"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1226373655,
-    "wof:lastmodified":1564216977,
+    "wof:lastmodified":1566645290,
     "wof:name":"Dolnje Lozine",
     "wof:parent_id":1108959919,
     "wof:placetype":"locality",

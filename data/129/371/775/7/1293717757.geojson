@@ -23,8 +23,12 @@
     "gn:population":9,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.89056,45.5017,14.93056,45.5417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gorenja \u017daga"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0440\u0435\u043d\u044f \u0416\u0430\u0433\u0430"
-    ],
-    "name:und_x_variant":[
-        "Gorenja \u017daga"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1293717757,
-    "wof:lastmodified":1564215897,
+    "wof:lastmodified":1566644512,
     "wof:name":"Gorenja Zaga",
     "wof:parent_id":1108959711,
     "wof:placetype":"locality",

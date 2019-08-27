@@ -23,8 +23,12 @@
     "gn:population":371,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.22694,46.6625,16.26694,46.7025",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Te\u0161anovci"
     ],
@@ -55,10 +59,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u0448\u0430\u043d\u043e\u0432\u0446\u0456"
     ],
-    "name:und_x_variant":[
-        "Mez\u0151v\u00e1r",
-        "Te\u0161anovci"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":1343894845,
-    "wof:lastmodified":1564215827,
+    "wof:lastmodified":1566644457,
     "wof:name":"Tesanovci",
     "wof:parent_id":1108959925,
     "wof:placetype":"locality",

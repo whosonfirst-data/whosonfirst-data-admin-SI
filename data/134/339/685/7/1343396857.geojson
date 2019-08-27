@@ -23,8 +23,12 @@
     "gn:population":110,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.23762,46.83456,16.27762,46.87456",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Budinci"
     ],
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":1343396857,
-    "wof:lastmodified":1564215726,
+    "wof:lastmodified":1566644389,
     "wof:name":"Budinci",
     "wof:parent_id":1108959567,
     "wof:placetype":"locality",

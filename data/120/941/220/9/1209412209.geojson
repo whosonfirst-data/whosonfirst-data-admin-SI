@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.66333,45.86333,15.70333,45.90333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633779
@@ -34,7 +38,7 @@
         "gn:id":3209355
     },
     "wof:country":"SI",
-    "wof:geomhash":"3e67135c79826e1f7724c78065447bc2",
+    "wof:geomhash":"3fe633830f01b8c5ae4421fa57c4df8b",
     "wof:hierarchy":[
         {
             "country_id":85633779,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209412209,
-    "wof:lastmodified":1536287802,
+    "wof:lastmodified":1566644668,
     "wof:name":"Spodnje Rigonce",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.683329999999998,
+    15.68333,
     45.88333,
-    15.683329999999998,
+    15.68333,
     45.88333
 ],
   "geometry": {"coordinates":[15.68333,45.88333],"type":"Point"}

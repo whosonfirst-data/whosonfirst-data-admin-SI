@@ -23,8 +23,12 @@
     "gn:population":161,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.91991,46.53427,15.95991,46.57427",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Stanetinci"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1310341759,
-    "wof:lastmodified":1564216528,
+    "wof:lastmodified":1566644934,
     "wof:name":"Stanetinci",
     "wof:parent_id":1108959703,
     "wof:placetype":"locality",

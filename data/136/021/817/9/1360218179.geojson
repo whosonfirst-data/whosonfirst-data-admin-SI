@@ -23,8 +23,12 @@
     "gn:population":28,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.86806,45.48528,14.90806,45.52528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Nova sela"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1360218179,
-    "wof:lastmodified":1564216571,
+    "wof:lastmodified":1566644958,
     "wof:name":"Nova Sela",
     "wof:parent_id":1108959711,
     "wof:placetype":"locality",

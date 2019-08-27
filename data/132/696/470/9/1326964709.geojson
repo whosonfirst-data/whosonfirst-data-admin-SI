@@ -23,8 +23,12 @@
     "gn:population":252,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.49231,46.28257,15.53231,46.32257",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Mla\u010de"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u043b\u0430\u0447\u0435"
-    ],
-    "name:und_x_variant":[
-        "Mla\u010de"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1326964709,
-    "wof:lastmodified":1564215681,
+    "wof:lastmodified":1566644359,
     "wof:name":"Mlace",
     "wof:parent_id":1108959753,
     "wof:placetype":"locality",

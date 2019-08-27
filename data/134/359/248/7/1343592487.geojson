@@ -23,8 +23,12 @@
     "gn:population":288,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.84889,45.70806,13.88889,45.74806",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u0160marje pri Se\u017eani"
     ],
@@ -48,8 +52,7 @@
     ],
     "name:und_x_variant":[
         "Santa Maria di Sesana",
-        "\u0160marje",
-        "\u0160marje pri Se\u017eani"
+        "\u0160marje"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1343592487,
-    "wof:lastmodified":1564215780,
+    "wof:lastmodified":1566644428,
     "wof:name":"Smarje pri Sezani",
     "wof:parent_id":1108959789,
     "wof:placetype":"locality",

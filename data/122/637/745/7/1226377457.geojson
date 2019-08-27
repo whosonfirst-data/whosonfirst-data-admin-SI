@@ -23,8 +23,12 @@
     "gn:population":20,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.11028,45.72083,14.15028,45.76083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Rakulik"
     ],
@@ -47,8 +51,7 @@
         "\u0420\u0430\u043a\u0443\u043b\u0438\u043a"
     ],
     "name:und_x_variant":[
-        "Raccolico",
-        "Rakulik"
+        "Raccolico"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1226377457,
-    "wof:lastmodified":1564216989,
+    "wof:lastmodified":1566645300,
     "wof:name":"Rakulik",
     "wof:parent_id":1108959559,
     "wof:placetype":"locality",

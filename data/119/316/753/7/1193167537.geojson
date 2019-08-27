@@ -23,8 +23,12 @@
     "gn:population":20,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.67858,46.22578,14.71858,46.26578",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Trobelno"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1193167537,
-    "wof:lastmodified":1564216253,
+    "wof:lastmodified":1566644749,
     "wof:name":"Trobelno",
     "wof:parent_id":1108959941,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":33,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.84556,45.76167,14.88556,45.80167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ratje"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1310140749,
-    "wof:lastmodified":1564216472,
+    "wof:lastmodified":1566644902,
     "wof:name":"Ratje",
     "wof:parent_id":1108959787,
     "wof:placetype":"locality",

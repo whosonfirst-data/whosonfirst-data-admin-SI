@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":45.919561,
     "lbl:longitude":14.364363,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.919561,
     "mps:longitude":14.364363,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Borovnica"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":45.917978,
     "wd:longitude":14.364172,
@@ -123,7 +126,6 @@
     "wof:concordances":{
         "gn:id":3203677,
         "gp:id":529593,
-        "qs:id":1044070,
         "qs_pg:id":1044070,
         "wd:id":"Q787824",
         "wk:page":"Borovnica, Borovnica"
@@ -140,7 +142,7 @@
         }
     ],
     "wof:id":101792995,
-    "wof:lastmodified":1563576999,
+    "wof:lastmodified":1566645002,
     "wof:name":"Borovnica",
     "wof:parent_id":1108959871,
     "wof:placetype":"locality",

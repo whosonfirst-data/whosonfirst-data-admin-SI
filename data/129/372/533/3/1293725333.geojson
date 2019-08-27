@@ -23,8 +23,12 @@
     "gn:population":43,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.96384,45.78644,15.00384,45.82644",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vinkov Vrh"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1293725333,
-    "wof:lastmodified":1564215968,
+    "wof:lastmodified":1566644560,
     "wof:name":"Vinkov Vrh",
     "wof:parent_id":1108959787,
     "wof:placetype":"locality",

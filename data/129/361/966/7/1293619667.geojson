@@ -23,8 +23,12 @@
     "gn:population":22,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.19499,46.11608,15.23499,46.15608",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Plazovje"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1293619667,
-    "wof:lastmodified":1564215909,
+    "wof:lastmodified":1566644520,
     "wof:name":"Plazovje",
     "wof:parent_id":1108959879,
     "wof:placetype":"locality",

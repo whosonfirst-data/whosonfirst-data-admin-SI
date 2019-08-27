@@ -24,8 +24,12 @@
     "gn:population":51,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.29503,46.74821,16.33503,46.78821",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Sredi\u0161\u010de"
     ],
@@ -54,9 +58,7 @@
         "\u0421\u0440\u0435\u0434\u0438\u0449\u0435"
     ],
     "name:und_x_variant":[
-        "Kisszerdahely",
-        "Szerdahely",
-        "Sredi\u0161\u010de"
+        "Kisszerdahely"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":1242814811,
-    "wof:lastmodified":1564216693,
+    "wof:lastmodified":1566645102,
     "wof:name":"Sredisce",
     "wof:parent_id":1108959925,
     "wof:placetype":"locality",

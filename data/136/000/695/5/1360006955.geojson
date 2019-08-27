@@ -23,8 +23,12 @@
     "gn:population":113,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.55528,46.00444,13.59528,46.04444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vrhovlje pri Kojskem"
     ],
@@ -50,8 +54,7 @@
         "Vergoglie",
         "Vrhovije",
         "Vercoglie di Quisca",
-        "Vrhovlje",
-        "Vrhovlje pri Kojskem"
+        "Vrhovlje"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1360006955,
-    "wof:lastmodified":1564216549,
+    "wof:lastmodified":1566644947,
     "wof:name":"Vrhovlje pri Kojskem",
     "wof:parent_id":1108959811,
     "wof:placetype":"locality",

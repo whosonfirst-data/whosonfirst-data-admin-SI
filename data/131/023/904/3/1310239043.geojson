@@ -23,8 +23,12 @@
     "gn:population":137,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.7752,45.86597,14.8152,45.90597",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kr\u0161ka vas"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0448\u043a\u0430 \u0412\u0430\u0441"
-    ],
-    "name:und_x_variant":[
-        "Kr\u0161ka Vas"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1310239043,
-    "wof:lastmodified":1564216461,
+    "wof:lastmodified":1566644896,
     "wof:name":"Krska Vas",
     "wof:parent_id":1108959583,
     "wof:placetype":"locality",

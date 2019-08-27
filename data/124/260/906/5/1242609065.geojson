@@ -23,8 +23,12 @@
     "gn:population":28,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.0338,45.74971,15.0738,45.78971",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dolenje Gradi\u0161\u010de"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043b\u0435\u043d\u0454 \u0413\u0440\u0430\u0434\u0438\u0449\u0435"
-    ],
-    "name:und_x_variant":[
-        "Dolenje Gradi\u0161\u010de"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1242609065,
-    "wof:lastmodified":1564216705,
+    "wof:lastmodified":1566645111,
     "wof:name":"Dolenje Gradisce",
     "wof:parent_id":1108959675,
     "wof:placetype":"locality",

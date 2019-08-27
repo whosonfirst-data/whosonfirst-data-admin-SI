@@ -23,8 +23,12 @@
     "gn:population":317,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.69618,46.57178,15.73618,46.61178",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vosek"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1243206039,
-    "wof:lastmodified":1564216763,
+    "wof:lastmodified":1566645150,
     "wof:name":"Vosek",
     "wof:parent_id":1108959553,
     "wof:placetype":"locality",

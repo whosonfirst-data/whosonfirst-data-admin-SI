@@ -23,8 +23,12 @@
     "gn:population":61,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.16333,46.18,14.20333,46.22",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ojstri Vrh"
     ],
@@ -47,8 +51,7 @@
         "\u041e\u0439\u0441\u0442\u0440\u0438\u0439 \u0412\u0440\u0445"
     ],
     "name:und_x_variant":[
-        "Ostri Vrh",
-        "Ojstri Vrh"
+        "Ostri Vrh"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1243101185,
-    "wof:lastmodified":1564216782,
+    "wof:lastmodified":1566645162,
     "wof:name":"Ojstri Vrh",
     "wof:parent_id":1108959701,
     "wof:placetype":"locality",

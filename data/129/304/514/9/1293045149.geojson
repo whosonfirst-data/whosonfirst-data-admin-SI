@@ -23,8 +23,12 @@
     "gn:population":12,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.03194,45.88222,14.07194,45.92222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kanji Dol"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1293045149,
-    "wof:lastmodified":1564215924,
+    "wof:lastmodified":1566644530,
     "wof:name":"Kanji Dol",
     "wof:parent_id":1108959535,
     "wof:placetype":"locality",

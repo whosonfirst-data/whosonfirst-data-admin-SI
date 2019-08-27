@@ -23,8 +23,12 @@
     "gn:population":174,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.77556,45.8825,13.81556,45.9225",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Goja\u010de"
     ],
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1309919727,
-    "wof:lastmodified":1564216594,
+    "wof:lastmodified":1566645008,
     "wof:name":"Gojace",
     "wof:parent_id":1108959545,
     "wof:placetype":"locality",

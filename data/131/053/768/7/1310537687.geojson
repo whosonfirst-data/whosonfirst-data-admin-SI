@@ -23,8 +23,12 @@
     "gn:population":169,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.49417,46.0825,15.53417,46.1225",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Lesi\u010dno"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0435\u0441\u0438\u0447\u043d\u043e"
-    ],
-    "name:und_x_variant":[
-        "Lesi\u010dno"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1310537687,
-    "wof:lastmodified":1564216483,
+    "wof:lastmodified":1566644908,
     "wof:name":"Lesicno",
     "wof:parent_id":1108959581,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":42,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.40751,45.94856,15.44751,45.98856",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gorenja Lepa vas"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1292942029,
-    "wof:lastmodified":1564215873,
+    "wof:lastmodified":1566644496,
     "wof:name":"Gorenja Lepa Vas",
     "wof:parent_id":1108959473,
     "wof:placetype":"locality",

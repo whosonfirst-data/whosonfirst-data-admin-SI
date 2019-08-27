@@ -9,15 +9,18 @@
     "geom:bbox":"15.29083,46.00944,15.29083,46.00944",
     "geom:latitude":46.00944,
     "geom:longitude":15.29083,
-    "gn:gn_country":"SI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":560,
-    "gn:population":667,
+    "gn:country":"SI",
+    "gn:fcode":"PPL",
+    "gn:population":560,
     "iso:country":"SI",
+    "lbl:bbox":"15.27083,45.98944,15.31083,46.02944",
     "lbl:latitude":46.00944,
     "lbl:longitude":15.29083,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Dolenji Bo\u0161tanj"
@@ -46,9 +49,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043b\u0435\u043d\u0456 \u0411\u043e\u0448\u0442\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
-        "Dolenji Bo\u0161tanj"
-    ],
     "qs_pg:aaroncc":"SI",
     "qs_pg:gn_country":"SI",
     "qs_pg:gn_fcode":"PPL",
@@ -66,7 +66,7 @@
     "qs_pg:woe_adm0":23424945,
     "qs_pg:woe_id":55869186,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424945,
     "woe:name_adm0":"Slovenija",
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1125794531,
-    "wof:lastmodified":1563577142,
+    "wof:lastmodified":1566645073,
     "wof:name":"Dolenji Bostanj",
     "wof:parent_id":1108959927,
     "wof:placetype":"locality",

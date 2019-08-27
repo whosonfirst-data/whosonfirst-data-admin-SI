@@ -23,8 +23,12 @@
     "gn:population":125,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.08611,45.96139,14.12611,46.00139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dole"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1343315041,
-    "wof:lastmodified":1564215714,
+    "wof:lastmodified":1566644381,
     "wof:name":"Dole",
     "wof:parent_id":1108959535,
     "wof:placetype":"locality",

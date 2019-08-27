@@ -23,8 +23,12 @@
     "gn:population":27,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.1353,46.06401,15.1753,46.10401",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Zavrate"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1259814613,
-    "wof:lastmodified":1564216866,
+    "wof:lastmodified":1566645217,
     "wof:name":"Zavrate",
     "wof:parent_id":1108959883,
     "wof:placetype":"locality",

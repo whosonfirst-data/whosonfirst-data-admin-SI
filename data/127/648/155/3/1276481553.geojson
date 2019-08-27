@@ -23,8 +23,12 @@
     "gn:population":37,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.04667,45.99667,15.08667,46.03667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ravne nad \u0160entrupertom"
     ],
@@ -47,8 +51,7 @@
         "\u0420\u0430\u0432\u043d\u0435-\u043d\u0430\u0434-\u0428\u0435\u043d\u0442\u0440\u0443\u043f\u0435\u0440\u0442\u043e\u043c"
     ],
     "name:und_x_variant":[
-        "Ravne",
-        "Ravne nad \u0160entrupertom"
+        "Ravne"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1276481553,
-    "wof:lastmodified":1564216061,
+    "wof:lastmodified":1566644620,
     "wof:name":"Ravne nad Sentrupertom",
     "wof:parent_id":1108959907,
     "wof:placetype":"locality",

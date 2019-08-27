@@ -23,8 +23,12 @@
     "gn:population":338,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.18056,46.39778,16.22056,46.43778",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Hum pri Ormo\u017eu"
     ],
@@ -50,8 +54,7 @@
         "\u0413\u0443\u043c-\u043f\u0440\u0438-\u041e\u0440\u043c\u043e\u0436\u0443"
     ],
     "name:und_x_variant":[
-        "Hum",
-        "Hum pri Ormo\u017eu"
+        "Hum"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1209945533,
-    "wof:lastmodified":1564216184,
+    "wof:lastmodified":1566644704,
     "wof:name":"Hum pri Ormozu",
     "wof:parent_id":1108959765,
     "wof:placetype":"locality",

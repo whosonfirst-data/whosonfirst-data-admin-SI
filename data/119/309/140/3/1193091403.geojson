@@ -23,8 +23,12 @@
     "gn:population":27,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.14146,46.11322,14.18146,46.15322",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Lovsko Brdo"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1193091403,
-    "wof:lastmodified":1564216237,
+    "wof:lastmodified":1566644737,
     "wof:name":"Lovsko Brdo",
     "wof:parent_id":1108959897,
     "wof:placetype":"locality",

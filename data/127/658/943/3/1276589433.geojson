@@ -23,8 +23,12 @@
     "gn:population":167,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.00808,46.19197,15.04808,46.23197",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Miklav\u017e pri Taboru"
     ],
@@ -44,8 +48,7 @@
         "\u041c\u0438\u043a\u043b\u0430\u0432\u0436-\u043f\u0440\u0438-\u0422\u0430\u0431\u043e\u0440\u0443"
     ],
     "name:und_x_variant":[
-        "Sveti Miklav\u017e",
-        "Miklav\u017e pri Taboru"
+        "Sveti Miklav\u017e"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1276589433,
-    "wof:lastmodified":1564216025,
+    "wof:lastmodified":1566644599,
     "wof:name":"Miklavz pri Taboru",
     "wof:parent_id":1108959715,
     "wof:placetype":"locality",

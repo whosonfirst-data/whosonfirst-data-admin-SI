@@ -23,8 +23,12 @@
     "gn:population":212,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.89667,46.44667,15.93667,46.48667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Spodnji Velovlek"
     ],
@@ -47,8 +51,7 @@
         "\u0421\u043f\u043e\u0434\u043d\u0456\u0439 \u0412\u0435\u043b\u043e\u0432\u043b\u0435\u043a"
     ],
     "name:und_x_variant":[
-        "Spodnji Velovlak",
-        "Spodnji Velovlek"
+        "Spodnji Velovlak"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1209649151,
-    "wof:lastmodified":1564216114,
+    "wof:lastmodified":1566644655,
     "wof:name":"Spodnji Velovlek",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

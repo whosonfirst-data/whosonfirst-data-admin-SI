@@ -23,8 +23,12 @@
     "gn:population":111,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.37975,46.39041,15.41975,46.43041",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Koro\u0161ka vas na Pohorju"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0440\u043e\u0448\u043a\u0430 \u0412\u0430\u0441-\u043d\u0430-\u041f\u043e\u0445\u043e\u0440\u044e"
-    ],
-    "name:und_x_variant":[
-        "Koro\u0161ka Vas na Pohorju"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1293525131,
-    "wof:lastmodified":1564215868,
+    "wof:lastmodified":1566644493,
     "wof:name":"Koroska Vas na Pohorju",
     "wof:parent_id":1108959671,
     "wof:placetype":"locality",

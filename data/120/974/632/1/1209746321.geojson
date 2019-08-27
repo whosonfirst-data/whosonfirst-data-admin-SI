@@ -23,8 +23,12 @@
     "gn:population":24,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.45165,45.79666,14.49165,45.83666",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Lovranovo"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1209746321,
-    "wof:lastmodified":1564216198,
+    "wof:lastmodified":1566644711,
     "wof:name":"Lovranovo",
     "wof:parent_id":1108959893,
     "wof:placetype":"locality",

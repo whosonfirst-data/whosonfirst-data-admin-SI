@@ -23,8 +23,12 @@
     "gn:population":57,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.64631,46.04973,13.68631,46.08973",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kanalski Vrh"
     ],
@@ -44,8 +48,7 @@
         "\u041a\u0430\u043d\u0430\u043b\u0441\u044c\u043a\u0438\u0439 \u0412\u0440\u0445"
     ],
     "name:und_x_variant":[
-        "Verco di Canale",
-        "Kanalski Vrh"
+        "Verco di Canale"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1276690105,
-    "wof:lastmodified":1564216012,
+    "wof:lastmodified":1566644591,
     "wof:name":"Kanalski Vrh",
     "wof:parent_id":1108959537,
     "wof:placetype":"locality",

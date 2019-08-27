@@ -23,8 +23,12 @@
     "gn:population":378,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.38944,46.09139,15.42944,46.13139",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Planina pri Sevnici"
     ],
@@ -56,8 +60,7 @@
         "\u041f\u043b\u0430\u043d\u0438\u043d\u0430-\u043f\u0440\u0438-\u0421\u0435\u0432\u043d\u0438\u0446\u0456"
     ],
     "name:und_x_variant":[
-        "Planina",
-        "Planina pri Sevnici"
+        "Planina"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1226778287,
-    "wof:lastmodified":1564216971,
+    "wof:lastmodified":1566645286,
     "wof:name":"Planina pri Sevnici",
     "wof:parent_id":1108959791,
     "wof:placetype":"locality",

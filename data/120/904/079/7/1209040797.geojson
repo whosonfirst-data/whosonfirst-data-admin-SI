@@ -23,8 +23,12 @@
     "gn:population":48,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.8061,45.93367,14.8461,45.97367",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Pristavlja vas"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1209040797,
-    "wof:lastmodified":1564216175,
+    "wof:lastmodified":1566644697,
     "wof:name":"Pristavlja Vas",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

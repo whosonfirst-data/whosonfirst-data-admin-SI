@@ -23,8 +23,12 @@
     "gn:population":83,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.54579,46.17726,15.58579,46.21726",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Pustike"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1243400055,
-    "wof:lastmodified":1564216720,
+    "wof:lastmodified":1566645121,
     "wof:name":"Pustike",
     "wof:parent_id":1108959607,
     "wof:placetype":"locality",

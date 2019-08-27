@@ -23,8 +23,12 @@
     "gn:population":103,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.03721,46.58891,16.07721,46.62891",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Hra\u0161enski Vrh"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0425\u0440\u0430\u0448\u0435\u043d\u0441\u044c\u043a\u0438\u0439 \u0412\u0440\u0445"
-    ],
-    "name:und_x_variant":[
-        "Hra\u0161enski Vrh"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1259817373,
-    "wof:lastmodified":1564216860,
+    "wof:lastmodified":1566645214,
     "wof:name":"Hrasenski Vrh",
     "wof:parent_id":1108959569,
     "wof:placetype":"locality",

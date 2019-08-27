@@ -9,15 +9,18 @@
     "geom:bbox":"13.67583,46.23639,13.67583,46.23639",
     "geom:latitude":46.23639,
     "geom:longitude":13.67583,
-    "gn:gn_country":"SI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":30,
+    "gn:country":"SI",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SI",
+    "lbl:bbox":"13.65583,46.21639,13.69583,46.25639",
     "lbl:latitude":46.23639,
     "lbl:longitude":13.67583,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Krn"
@@ -46,7 +49,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Montenero"
     ],
     "qs_pg:aaroncc":"SI",
@@ -70,7 +73,7 @@
     "qs_pg:woe_adm0":23424945,
     "qs_pg:woe_id":530524,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424945,
     "woe:name_adm0":"Slovenija",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1125806471,
-    "wof:lastmodified":1563577093,
+    "wof:lastmodified":1566645053,
     "wof:name":"Krn",
     "wof:parent_id":1108959523,
     "wof:placetype":"locality",

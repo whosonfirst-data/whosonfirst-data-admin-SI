@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.0753,45.54172,15.1153,45.58172",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Miklarji"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1225907911,
-    "wof:lastmodified":1564216936,
+    "wof:lastmodified":1566645263,
     "wof:name":"Miklarji",
     "wof:parent_id":1108959699,
     "wof:placetype":"locality",

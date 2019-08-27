@@ -23,8 +23,12 @@
     "gn:population":498,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.54639,46.18222,14.58639,46.22222",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kri\u017e"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0438\u0436"
-    ],
-    "name:und_x_variant":[
-        "Kri\u017e"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1309748385,
-    "wof:lastmodified":1564216626,
+    "wof:lastmodified":1566645027,
     "wof:name":"Kriz",
     "wof:parent_id":1108959837,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":112,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.57175,46.22206,15.61175,46.26206",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kamna Gorca"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1293135055,
-    "wof:lastmodified":1564215902,
+    "wof:lastmodified":1566644516,
     "wof:name":"Kamna Gorca",
     "wof:parent_id":1108959803,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"14.77807,45.88129,14.77807,45.88129",
     "geom:latitude":45.88129,
     "geom:longitude":14.77807,
-    "gn:gn_country":"SI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":230,
-    "gn:population":242,
+    "gn:country":"SI",
+    "gn:fcode":"PPL",
+    "gn:population":230,
     "iso:country":"SI",
+    "lbl:bbox":"14.75807,45.86129,14.79807,45.90129",
     "lbl:latitude":45.88129,
     "lbl:longitude":14.77807,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Krka"
@@ -46,7 +49,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krka, Ivan\u010dna Gorica"
     ],
     "qs_pg:aaroncc":"SI",
@@ -70,7 +73,7 @@
     "qs_pg:woe_adm0":23424945,
     "qs_pg:woe_id":530521,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424945,
     "woe:name_adm0":"Slovenija",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1125806491,
-    "wof:lastmodified":1563577092,
+    "wof:lastmodified":1566645053,
     "wof:name":"Krka",
     "wof:parent_id":1108959583,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":129,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.40096,46.12853,15.44096,46.16853",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Paridol"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1260110839,
-    "wof:lastmodified":1564216287,
+    "wof:lastmodified":1566644771,
     "wof:name":"Paridol",
     "wof:parent_id":1108959791,
     "wof:placetype":"locality",

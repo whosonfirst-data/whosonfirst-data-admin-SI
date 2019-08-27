@@ -9,15 +9,18 @@
     "geom:bbox":"13.73889,46.14694,13.73889,46.14694",
     "geom:latitude":46.14694,
     "geom:longitude":13.73889,
-    "gn:gn_country":"SI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":434,
+    "gn:country":"SI",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SI",
+    "lbl:bbox":"13.71889,46.12694,13.75889,46.16694",
     "lbl:latitude":46.14694,
     "lbl:longitude":13.73889,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Most na So\u010di"
@@ -61,7 +64,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0441\u0442 \u043d\u0430 \u0421\u043e\u0447\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sveta Lucija"
     ],
     "qs_pg:aaroncc":"SI",
@@ -85,7 +88,7 @@
     "qs_pg:woe_adm0":23424945,
     "qs_pg:woe_id":530858,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424945,
     "woe:name_adm0":"Slovenija",
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":1125800491,
-    "wof:lastmodified":1563577090,
+    "wof:lastmodified":1566645052,
     "wof:name":"Most Na So\u010di",
     "wof:parent_id":1108959617,
     "wof:placetype":"locality",

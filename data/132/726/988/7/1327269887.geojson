@@ -23,8 +23,12 @@
     "gn:population":377,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.3294,46.15143,15.3694,46.19143",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u0160entrupert"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0428\u0435\u043d\u0442\u0440\u0443\u043f\u0435\u0440\u0442"
-    ],
-    "name:und_x_variant":[
-        "\u0160entrupert"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1327269887,
-    "wof:lastmodified":1564215695,
+    "wof:lastmodified":1566644368,
     "wof:name":"Sentrupert",
     "wof:parent_id":1108959879,
     "wof:placetype":"locality",

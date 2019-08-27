@@ -23,8 +23,12 @@
     "gn:population":18,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.79656,46.16987,14.83656,46.20987",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Prilesje"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1293424701,
-    "wof:lastmodified":1564215945,
+    "wof:lastmodified":1566644545,
     "wof:name":"Prilesje",
     "wof:parent_id":1108959807,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":72,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.96667,45.70028,14.00667,45.74028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Senadole"
     ],
@@ -47,9 +51,7 @@
         "\u0421\u0435\u043d\u0430\u0434\u043e\u043b\u0435"
     ],
     "name:und_x_variant":[
-        "Sinadole",
-        "Senodole",
-        "Senadole"
+        "Senodole"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":1242948205,
-    "wof:lastmodified":1564216703,
+    "wof:lastmodified":1566645110,
     "wof:name":"Senadole",
     "wof:parent_id":1108959845,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":197,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.03139,46.39306,16.07139,46.43306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Oslu\u0161evci"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041e\u0441\u043b\u0443\u0448\u0435\u0432\u0446\u0456"
-    ],
-    "name:und_x_variant":[
-        "Oslu\u0161evci"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1343293381,
-    "wof:lastmodified":1564215816,
+    "wof:lastmodified":1566644450,
     "wof:name":"Oslusevci",
     "wof:parent_id":1108959765,
     "wof:placetype":"locality",

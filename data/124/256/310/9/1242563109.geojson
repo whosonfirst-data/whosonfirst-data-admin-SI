@@ -23,8 +23,12 @@
     "gn:population":118,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.59391,45.86452,15.63391,45.90452",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dvorce"
     ],
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":1242563109,
-    "wof:lastmodified":1564216708,
+    "wof:lastmodified":1566645113,
     "wof:name":"Dvorce",
     "wof:parent_id":1108959585,
     "wof:placetype":"locality",

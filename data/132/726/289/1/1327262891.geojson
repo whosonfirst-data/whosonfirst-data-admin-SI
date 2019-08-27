@@ -23,8 +23,12 @@
     "gn:population":14,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.09181,46.17016,14.13181,46.21016",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Osojnik"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1327262891,
-    "wof:lastmodified":1564215688,
+    "wof:lastmodified":1566644364,
     "wof:name":"Osojnik",
     "wof:parent_id":1108959701,
     "wof:placetype":"locality",

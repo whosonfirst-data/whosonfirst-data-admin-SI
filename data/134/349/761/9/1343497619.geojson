@@ -23,8 +23,12 @@
     "gn:population":154,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.87972,45.49222,13.91972,45.53222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:arg_x_preferred":[
         "Hrastovlje"
     ],
@@ -71,8 +75,7 @@
         "\u0425\u0440\u0430\u0441\u0442\u043e\u0432\u043b\u0454"
     ],
     "name:und_x_variant":[
-        "Cristoglle",
-        "Hrastovlje"
+        "Cristoglle"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1343497619,
-    "wof:lastmodified":1564215769,
+    "wof:lastmodified":1566644419,
     "wof:name":"Hrastovlje",
     "wof:parent_id":1108959527,
     "wof:placetype":"locality",

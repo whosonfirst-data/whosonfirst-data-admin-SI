@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.88306,46.34917,15.92306,46.38917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Sveti Vid"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1243588201,
-    "wof:lastmodified":1564216725,
+    "wof:lastmodified":1566645125,
     "wof:name":"Sveti Vid",
     "wof:parent_id":1108959747,
     "wof:placetype":"locality",

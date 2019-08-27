@@ -23,8 +23,12 @@
     "gn:population":206,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.815,46.14944,13.855,46.18944",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kne\u017ea"
     ],
@@ -50,8 +54,7 @@
         "\u041a\u043d\u0435\u0436\u0430"
     ],
     "name:und_x_variant":[
-        "Chiesa",
-        "Kne\u017ea"
+        "Chiesa"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1209847087,
-    "wof:lastmodified":1564216125,
+    "wof:lastmodified":1566644663,
     "wof:name":"Kneza",
     "wof:parent_id":1108959617,
     "wof:placetype":"locality",

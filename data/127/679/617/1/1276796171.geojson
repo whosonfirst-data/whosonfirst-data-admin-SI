@@ -23,8 +23,12 @@
     "gn:population":102,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.34016,46.20932,15.38016,46.24932",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Zlate\u010de pri \u0160entjurju"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0417\u043b\u0430\u0442\u0435\u0447\u0435-\u043f\u0440\u0438-\u0428\u0435\u043d\u0442\u044e\u0440\u044e"
-    ],
-    "name:und_x_variant":[
-        "Zlate\u010de pri \u0160entjurju"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1276796171,
-    "wof:lastmodified":1564216055,
+    "wof:lastmodified":1566644617,
     "wof:name":"Zlatece pri Sentjurju",
     "wof:parent_id":1108959791,
     "wof:placetype":"locality",

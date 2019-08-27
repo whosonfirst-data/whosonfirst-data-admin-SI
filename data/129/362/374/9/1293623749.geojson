@@ -23,8 +23,12 @@
     "gn:population":111,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.41768,46.1292,15.45768,46.1692",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Jelce"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1293623749,
-    "wof:lastmodified":1564215861,
+    "wof:lastmodified":1566644488,
     "wof:name":"Jelce",
     "wof:parent_id":1108959791,
     "wof:placetype":"locality",

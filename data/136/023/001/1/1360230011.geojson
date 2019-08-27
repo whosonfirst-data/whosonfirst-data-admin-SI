@@ -23,8 +23,12 @@
     "gn:population":25,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.10896,46.13137,15.14896,46.17137",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kri\u0161tandol"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0438\u0448\u0442\u0430\u043d\u0434\u043e\u043b"
-    ],
-    "name:und_x_variant":[
-        "Kri\u0161tandol"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1360230011,
-    "wof:lastmodified":1564216540,
+    "wof:lastmodified":1566644940,
     "wof:name":"Kristandol",
     "wof:parent_id":1108959571,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"15.575,46.56972,15.575,46.56972",
     "geom:latitude":46.56972,
     "geom:longitude":15.575,
-    "gn:gn_country":"SI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1322,
-    "gn:population":1377,
+    "gn:country":"SI",
+    "gn:fcode":"PPL",
+    "gn:population":1322,
     "iso:country":"SI",
+    "lbl:bbox":"15.555,46.54972,15.595,46.58972",
     "lbl:latitude":46.56972,
     "lbl:longitude":15.575,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Bresternica"
@@ -52,7 +55,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0435\u0441\u0442\u0435\u0440\u043d\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Brestrnica"
     ],
     "qs_pg:aaroncc":"SI",
@@ -76,7 +79,7 @@
     "qs_pg:woe_adm0":23424945,
     "qs_pg:woe_id":529626,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424945,
     "woe:name_adm0":"Slovenija",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1126033757,
-    "wof:lastmodified":1563577075,
+    "wof:lastmodified":1566645044,
     "wof:name":"Bresternica",
     "wof:parent_id":1108959785,
     "wof:placetype":"locality",

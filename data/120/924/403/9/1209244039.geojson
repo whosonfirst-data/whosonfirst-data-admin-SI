@@ -23,8 +23,12 @@
     "gn:population":53,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.86292,46.1786,14.90292,46.2186",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Hribi"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1209244039,
-    "wof:lastmodified":1564216138,
+    "wof:lastmodified":1566644672,
     "wof:name":"Hribi",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

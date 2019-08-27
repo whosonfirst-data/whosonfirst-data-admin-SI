@@ -23,8 +23,12 @@
     "gn:population":93,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.33252,45.63186,15.37252,45.67186",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Radovi\u010di"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0434\u043e\u0432\u0438\u0447\u0456"
-    ],
-    "name:und_x_variant":[
-        "Radovi\u010di"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1210052263,
-    "wof:lastmodified":1564216230,
+    "wof:lastmodified":1566644733,
     "wof:name":"Radovici",
     "wof:parent_id":1108959909,
     "wof:placetype":"locality",

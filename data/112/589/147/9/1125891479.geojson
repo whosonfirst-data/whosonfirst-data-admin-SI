@@ -9,15 +9,18 @@
     "geom:bbox":"14.04111,45.72111,14.04111,45.72111",
     "geom:latitude":45.72111,
     "geom:longitude":14.04111,
-    "gn:gn_country":"SI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":610,
+    "gn:country":"SI",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SI",
+    "lbl:bbox":"14.02111,45.70111,14.06111,45.74111",
     "lbl:latitude":45.72111,
     "lbl:longitude":14.04111,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Seno\u017ee\u010de"
@@ -52,7 +55,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043d\u043e\u0436\u0435\u0447\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Senos\u00e9cchia"
     ],
     "qs_pg:aaroncc":"SI",
@@ -76,7 +79,7 @@
     "qs_pg:woe_adm0":23424945,
     "qs_pg:woe_id":531493,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424945,
     "woe:name_adm0":"Slovenija",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1125891479,
-    "wof:lastmodified":1563577085,
+    "wof:lastmodified":1566645050,
     "wof:name":"Seno\u017ee\u010de",
     "wof:parent_id":1108959845,
     "wof:placetype":"locality",

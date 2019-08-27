@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":46.154475,
     "lbl:longitude":15.23472,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.154475,
     "mps:longitude":15.23472,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0644\u0627\u0634\u0643\u0648"
     ],
@@ -92,7 +95,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430\u0448\u043a\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "La\u0161ki Trg"
     ],
     "name:urd_x_preferred":[
@@ -120,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":811,
     "wof:belongsto":[
@@ -133,7 +136,6 @@
     "wof:concordances":{
         "gn:id":3196760,
         "gp:id":530564,
-        "qs:id":147192,
         "qs_pg:id":147192,
         "wd:id":"Q1292940",
         "wk:page":"La\u0161ko"
@@ -150,7 +152,7 @@
         }
     ],
     "wof:id":101845281,
-    "wof:lastmodified":1563576912,
+    "wof:lastmodified":1566644977,
     "wof:name":"La\u0161ko",
     "wof:parent_id":1108959879,
     "wof:placetype":"locality",

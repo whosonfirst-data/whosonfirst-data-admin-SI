@@ -23,8 +23,12 @@
     "gn:population":229,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.67583,45.45944,13.71583,45.49944",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Nova vas nad Dragonjo"
     ],
@@ -55,8 +59,7 @@
     "name:und_x_variant":[
         "Villanova",
         "Nova Vas nad Dragonje",
-        "Nova Vas",
-        "Nova Vas nad Dragonjo"
+        "Nova Vas"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1209751953,
-    "wof:lastmodified":1564216220,
+    "wof:lastmodified":1566644725,
     "wof:name":"Nova Vas nad Dragonjo",
     "wof:parent_id":1108959613,
     "wof:placetype":"locality",

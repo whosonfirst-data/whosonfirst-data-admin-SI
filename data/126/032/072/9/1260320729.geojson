@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.57438,45.86454,13.61438,45.90454",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:slv_x_historical":[
         "Potok"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260320729,
-    "wof:lastmodified":1537700337,
+    "wof:lastmodified":1566644788,
     "wof:name":"Na Potoku",
     "wof:parent_id":1108959481,
     "wof:placetype":"locality",

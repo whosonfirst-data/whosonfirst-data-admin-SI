@@ -23,8 +23,12 @@
     "gn:population":85,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.32147,46.12834,14.36147,46.16834",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Goste\u010de"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0441\u0442\u0435\u0447\u0435"
-    ],
-    "name:und_x_variant":[
-        "Goste\u010de"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1276801373,
-    "wof:lastmodified":1564216001,
+    "wof:lastmodified":1566644583,
     "wof:name":"Gostece",
     "wof:parent_id":1108959821,
     "wof:placetype":"locality",

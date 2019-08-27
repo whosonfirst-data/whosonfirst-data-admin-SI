@@ -9,15 +9,18 @@
     "geom:bbox":"15.30333,46.1875,15.30333,46.1875",
     "geom:latitude":46.1875,
     "geom:longitude":15.30333,
-    "gn:gn_country":"SI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":122,
+    "gn:country":"SI",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SI",
+    "lbl:bbox":"15.28333,46.1675,15.32333,46.2075",
     "lbl:latitude":46.1875,
     "lbl:longitude":15.30333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Sve\u010dina"
@@ -43,7 +46,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0432\u0435\u0447\u0438\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Svetina"
     ],
     "qs_pg:aaroncc":"SI",
@@ -67,7 +70,7 @@
     "qs_pg:woe_adm0":23424945,
     "qs_pg:woe_id":531838,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424945,
     "woe:name_adm0":"Slovenija",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1125894565,
-    "wof:lastmodified":1564216642,
+    "wof:lastmodified":1566645049,
     "wof:name":"Sve\u010dina",
     "wof:parent_id":1108959631,
     "wof:placetype":"locality",

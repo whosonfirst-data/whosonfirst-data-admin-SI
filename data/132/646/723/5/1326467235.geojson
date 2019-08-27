@@ -23,8 +23,12 @@
     "gn:population":79,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.3403,46.29056,14.3803,46.33056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Pangr\u0161ica"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0430\u043d\u0433\u0440\u0448\u0438\u0446\u044f"
-    ],
-    "name:und_x_variant":[
-        "Pangr\u0161ica"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1326467235,
-    "wof:lastmodified":1564215671,
+    "wof:lastmodified":1566644353,
     "wof:name":"Pangrsica",
     "wof:parent_id":1108959933,
     "wof:placetype":"locality",

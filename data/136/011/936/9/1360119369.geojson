@@ -23,8 +23,12 @@
     "gn:population":142,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.43597,46.32522,15.47597,46.36522",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Tepanjski Vrh"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1360119369,
-    "wof:lastmodified":1564216563,
+    "wof:lastmodified":1566644954,
     "wof:name":"Tepanjski Vrh",
     "wof:parent_id":1108959753,
     "wof:placetype":"locality",

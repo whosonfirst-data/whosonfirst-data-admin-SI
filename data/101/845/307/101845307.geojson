@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":46.354358,
     "lbl:longitude":14.292667,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.354358,
     "mps:longitude":14.292667,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Tr\u017ei\u010d"
     ],
@@ -59,7 +62,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0436\u0438\u0447"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Neumarktl"
     ],
     "qs:a0":"Slovenija",
@@ -79,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -91,7 +94,6 @@
     "wof:concordances":{
         "gn:id":3188688,
         "gp:id":531951,
-        "qs:id":1082837,
         "qs_pg:id":1082837,
         "wd:id":"Q2638131"
     },
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":101845307,
-    "wof:lastmodified":1563576907,
+    "wof:lastmodified":1566644975,
     "wof:name":"Tr\u017ei\u010d",
     "wof:parent_id":1108959917,
     "wof:placetype":"locality",

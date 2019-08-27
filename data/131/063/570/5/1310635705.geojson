@@ -23,8 +23,12 @@
     "gn:population":243,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.26333,46.01333,15.30333,46.05333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ledina"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1310635705,
-    "wof:lastmodified":1564216497,
+    "wof:lastmodified":1566644916,
     "wof:name":"Ledina",
     "wof:parent_id":1108959927,
     "wof:placetype":"locality",

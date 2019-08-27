@@ -23,8 +23,12 @@
     "gn:population":44,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.81333,46.31333,15.85333,46.35333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Rodni Vrh"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1226676815,
-    "wof:lastmodified":1564216904,
+    "wof:lastmodified":1566645244,
     "wof:name":"Rodni Vrh",
     "wof:parent_id":1108959757,
     "wof:placetype":"locality",

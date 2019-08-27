@@ -23,8 +23,12 @@
     "gn:population":86,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.23597,46.05415,15.27597,46.09415",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Okroglice"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1259613647,
-    "wof:lastmodified":1564216834,
+    "wof:lastmodified":1566645196,
     "wof:name":"Okroglice",
     "wof:parent_id":1108959927,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":46.583255,
     "lbl:longitude":16.162776,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":46.583255,
     "mps:longitude":16.162776,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ver\u017eej"
     ],
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -90,7 +93,6 @@
     "wof:concordances":{
         "gn:id":3187840,
         "gp:id":532061,
-        "qs:id":581577,
         "qs_pg:id":581577,
         "wd:id":"Q3443700",
         "wk:page":"Ver\u017eej"
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":101845339,
-    "wof:lastmodified":1563576910,
+    "wof:lastmodified":1566644976,
     "wof:name":"Ver\u017eej",
     "wof:parent_id":1108959771,
     "wof:placetype":"locality",

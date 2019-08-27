@@ -10,8 +10,10 @@
     "geom:latitude":46.097817,
     "geom:longitude":14.508634,
     "iso:country":"SI",
+    "lbl:bbox":"14.5036336859,46.0928174186,14.5136336859,46.1028174186",
     "lbl:latitude":46.097817,
     "lbl:longitude":14.508634,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,12 +26,12 @@
     "name:slv_x_variant":[
         "Ljubljansko Posavje"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        1108959949,
         102191581,
         1108959501,
-        85633779
+        85633779,
+        1108959949
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -47,7 +49,7 @@
         }
     ],
     "wof:id":1108943183,
-    "wof:lastmodified":1531170294,
+    "wof:lastmodified":1566644889,
     "wof:name":"Posavje",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

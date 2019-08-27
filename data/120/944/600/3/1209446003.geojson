@@ -23,8 +23,12 @@
     "gn:population":150,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.14152,46.32473,15.18152,46.36473",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Pire\u0161ica"
     ],
@@ -52,9 +56,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0438\u0440\u0435\u0448\u0438\u0446\u044f"
     ],
-    "name:und_x_variant":[
-        "Pire\u0161ica"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1209446003,
-    "wof:lastmodified":1564216217,
+    "wof:lastmodified":1566644724,
     "wof:name":"Piresica",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

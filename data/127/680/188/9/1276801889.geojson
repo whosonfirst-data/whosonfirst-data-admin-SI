@@ -23,8 +23,12 @@
     "gn:population":998,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.01537,46.39359,14.05537,46.43359",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Spodnje Gorje"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1276801889,
-    "wof:lastmodified":1564216000,
+    "wof:lastmodified":1566644583,
     "wof:name":"Spodnje Gorje",
     "wof:parent_id":1108959735,
     "wof:placetype":"locality",

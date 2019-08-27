@@ -23,8 +23,12 @@
     "gn:population":95,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.67889,46.16067,14.71889,46.20067",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u010ceplje"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0427\u0435\u043f\u043b\u0454"
-    ],
-    "name:und_x_variant":[
-        "\u010ceplje"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1310341643,
-    "wof:lastmodified":1564216529,
+    "wof:lastmodified":1566644935,
     "wof:name":"Ceplje",
     "wof:parent_id":1108959807,
     "wof:placetype":"locality",

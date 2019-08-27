@@ -23,8 +23,12 @@
     "gn:population":215,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.30188,46.18032,15.34188,46.22032",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u0160entjan\u017e nad \u0160torami"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0428\u0435\u043d\u0442\u044f\u043d\u0436-\u043d\u0430\u0434-\u0428\u0442\u043e\u0440\u0430\u043c\u0438"
-    ],
-    "name:und_x_variant":[
-        "\u0160entjan\u017e nad \u0160torami"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1310441377,
-    "wof:lastmodified":1564216506,
+    "wof:lastmodified":1566644921,
     "wof:name":"Sentjanz nad Storami",
     "wof:parent_id":1108959631,
     "wof:placetype":"locality",

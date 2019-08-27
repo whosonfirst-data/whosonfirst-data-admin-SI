@@ -23,8 +23,12 @@
     "gn:population":13,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.81322,46.20032,13.85322,46.24032",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kne\u0161ke Ravne"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043d\u0435\u0448\u043a\u0435 \u0420\u0430\u0432\u043d\u0435"
-    ],
-    "name:und_x_variant":[
-        "Kne\u0161ke Ravne"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1259717893,
-    "wof:lastmodified":1564216827,
+    "wof:lastmodified":1566645191,
     "wof:name":"Kneske Ravne",
     "wof:parent_id":1108959617,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":90,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.85,45.94472,14.89,45.98472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Zabor\u0161t pri \u0160entvidu"
     ],
@@ -44,8 +48,7 @@
         "\u0417\u0430\u0431\u043e\u0440\u0448\u0442-\u043f\u0440\u0438-\u0428\u0435\u043d\u0442\u0432\u0438\u0434\u0443"
     ],
     "name:und_x_variant":[
-        "Zabor\u0161t",
-        "Zabor\u0161t pri \u0160entvidu"
+        "Zabor\u0161t"
     ],
     "name:urd_x_preferred":[
         "\u0632\u0628\u0648\u0631\u0634\u062a \u067e\u0631 \u0634\u06cc\u0646\u062a\u0648\u062f\u0648"
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1260116281,
-    "wof:lastmodified":1564216287,
+    "wof:lastmodified":1566644771,
     "wof:name":"Zaborst pri Sentvidu",
     "wof:parent_id":1108959583,
     "wof:placetype":"locality",

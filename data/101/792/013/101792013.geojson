@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":46.221019,
     "lbl:longitude":15.312584,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.221019,
     "mps:longitude":15.312584,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u0160tore"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -105,7 +108,6 @@
     "wof:concordances":{
         "gn:id":3189798,
         "gp:id":531789,
-        "qs:id":1043903,
         "qs_pg:id":1043903,
         "wd:id":"Q3124698",
         "wk:page":"\u0160tore"
@@ -122,7 +124,7 @@
         }
     ],
     "wof:id":101792013,
-    "wof:lastmodified":1563576987,
+    "wof:lastmodified":1566644999,
     "wof:name":"\u0160tore",
     "wof:parent_id":1108959631,
     "wof:placetype":"locality",

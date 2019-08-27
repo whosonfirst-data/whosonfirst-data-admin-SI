@@ -23,8 +23,12 @@
     "gn:population":113,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.51228,46.2414,14.55228,46.2814",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Apno"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1242950263,
-    "wof:lastmodified":1564216703,
+    "wof:lastmodified":1566645109,
     "wof:name":"Apno",
     "wof:parent_id":1108959493,
     "wof:placetype":"locality",

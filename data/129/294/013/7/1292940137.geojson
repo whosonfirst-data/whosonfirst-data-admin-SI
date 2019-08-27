@@ -23,8 +23,12 @@
     "gn:population":142,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.28,45.61333,15.32,45.65333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Primostek"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1292940137,
-    "wof:lastmodified":1564215872,
+    "wof:lastmodified":1566644496,
     "wof:name":"Primostek",
     "wof:parent_id":1108959909,
     "wof:placetype":"locality",

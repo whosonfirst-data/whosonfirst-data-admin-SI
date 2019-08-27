@@ -23,8 +23,12 @@
     "gn:population":80,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.96296,46.58562,16.00296,46.62562",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Stave\u0161inci"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0432\u0435\u0448\u0438\u043d\u0446\u0456"
-    ],
-    "name:und_x_variant":[
-        "Stave\u0161inci"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1243119301,
-    "wof:lastmodified":1564216770,
+    "wof:lastmodified":1566645153,
     "wof:name":"Stavesinci",
     "wof:parent_id":1108959817,
     "wof:placetype":"locality",

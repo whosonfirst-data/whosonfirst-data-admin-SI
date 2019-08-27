@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":46.408259,
     "lbl:longitude":16.155308,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.408259,
     "mps:longitude":16.155308,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0631\u0645\u0648\u0634"
     ],
@@ -159,16 +162,10 @@
         "Ormos",
         "Ormoz"
     ],
-    "name:und_x_preferred":[
-        "Ormo\u017e"
-    ],
     "name:und_x_variant":[
         "Friedau",
         "Ormob",
         "Ormo\u00b5"
-    ],
-    "name:unk_x_variant":[
-        "Friedau"
     ],
     "name:urd_x_preferred":[
         "\u0648\u0631\u0645\u0648\u0632"
@@ -192,7 +189,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":299,
     "wof:belongsto":[
@@ -206,7 +203,6 @@
         "fct:id":"06f2edb2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3193965,
         "gp:id":530971,
-        "qs:id":1082838,
         "qs_pg:id":1082838,
         "wd:id":"Q1944509"
     },
@@ -225,7 +221,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563576900,
+    "wof:lastmodified":1566644972,
     "wof:name":"Ormo\u017e",
     "wof:parent_id":1108959765,
     "wof:placetype":"locality",

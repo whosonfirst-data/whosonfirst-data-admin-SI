@@ -23,8 +23,12 @@
     "gn:population":103,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.82,46.01028,13.86,46.05028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gorenja Trebu\u0161a"
     ],
@@ -53,9 +57,7 @@
         "\u0413\u043e\u0440\u0435\u043d\u044f \u0422\u0440\u0435\u0431\u0443\u0448\u0430"
     ],
     "name:und_x_variant":[
-        "Tribussa Superiore",
-        "Tribussa",
-        "Gorenja Trebu\u0161a"
+        "Tribussa Superiore"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -82,7 +84,7 @@
         }
     ],
     "wof:id":1260214219,
-    "wof:lastmodified":1564216304,
+    "wof:lastmodified":1566644782,
     "wof:name":"Gorenja Trebusa",
     "wof:parent_id":1108959617,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":68,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.34287,46.09048,15.38287,46.13048",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Mrzlo Polje"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1259416951,
-    "wof:lastmodified":1564216808,
+    "wof:lastmodified":1566645179,
     "wof:name":"Mrzlo Polje",
     "wof:parent_id":1108959879,
     "wof:placetype":"locality",

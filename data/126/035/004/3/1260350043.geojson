@@ -23,8 +23,12 @@
     "gn:population":265,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.92972,46.65083,15.96972,46.69083",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Lomano\u0161e"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041b\u043e\u043c\u0430\u043d\u043e\u0448\u0435"
-    ],
-    "name:und_x_variant":[
-        "Lomano\u0161e"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1260350043,
-    "wof:lastmodified":1564216316,
+    "wof:lastmodified":1566644790,
     "wof:name":"Lomanose",
     "wof:parent_id":1108959817,
     "wof:placetype":"locality",

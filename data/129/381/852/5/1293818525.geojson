@@ -23,8 +23,12 @@
     "gn:population":78,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.38578,46.09493,15.42578,46.13493",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Brdo"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1293818525,
-    "wof:lastmodified":1564215967,
+    "wof:lastmodified":1566644559,
     "wof:name":"Brdo",
     "wof:parent_id":1108959791,
     "wof:placetype":"locality",

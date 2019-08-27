@@ -23,8 +23,12 @@
     "gn:population":242,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.19296,45.78534,15.23296,45.82534",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Mali Slatnik"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1243101011,
-    "wof:lastmodified":1564216784,
+    "wof:lastmodified":1566645162,
     "wof:name":"Mali Slatnik",
     "wof:parent_id":1108959465,
     "wof:placetype":"locality",

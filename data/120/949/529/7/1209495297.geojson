@@ -23,8 +23,12 @@
     "gn:population":107,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.4797,46.22357,14.5197,46.26357",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "P\u0161eni\u010dna Polica"
     ],
@@ -49,9 +53,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0448\u0435\u043d\u0438\u0447\u043d\u0430 \u041f\u043e\u043b\u0438\u0446\u044f"
     ],
-    "name:und_x_variant":[
-        "P\u0161eni\u010dna Polica"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1209495297,
-    "wof:lastmodified":1564216143,
+    "wof:lastmodified":1566644676,
     "wof:name":"Psenicna Polica",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

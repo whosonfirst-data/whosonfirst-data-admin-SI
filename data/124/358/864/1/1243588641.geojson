@@ -23,8 +23,12 @@
     "gn:population":131,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.72492,46.23106,15.76492,46.27106",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Sveti Jurij"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1243588641,
-    "wof:lastmodified":1564216732,
+    "wof:lastmodified":1566645129,
     "wof:name":"Sv. Jurij",
     "wof:parent_id":1108959609,
     "wof:placetype":"locality",

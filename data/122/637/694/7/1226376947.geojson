@@ -23,8 +23,12 @@
     "gn:population":74,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.5739,46.06702,15.6139,46.10702",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Brezovec pri Polju"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1226376947,
-    "wof:lastmodified":1564216980,
+    "wof:lastmodified":1566645293,
     "wof:name":"Brezovec pri Polju",
     "wof:parent_id":1108959649,
     "wof:placetype":"locality",

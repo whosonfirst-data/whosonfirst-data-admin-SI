@@ -23,8 +23,12 @@
     "gn:population":51,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.39314,46.37916,15.43314,46.41916",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kova\u0161ki Vrh"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0432\u0430\u0448\u043a\u0438\u0439 \u0412\u0440\u0445"
-    ],
-    "name:und_x_variant":[
-        "Kova\u0161ki Vrh"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1310041825,
-    "wof:lastmodified":1564216522,
+    "wof:lastmodified":1566644931,
     "wof:name":"Kovaski Vrh",
     "wof:parent_id":1108959737,
     "wof:placetype":"locality",

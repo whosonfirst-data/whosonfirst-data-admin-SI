@@ -23,8 +23,12 @@
     "gn:population":146,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.81722,45.72417,13.85722,45.76417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kreplje"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1343992375,
-    "wof:lastmodified":1564215735,
+    "wof:lastmodified":1566644395,
     "wof:name":"Kreplje",
     "wof:parent_id":1108959789,
     "wof:placetype":"locality",

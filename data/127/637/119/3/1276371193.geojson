@@ -23,8 +23,12 @@
     "gn:population":58,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.26317,46.26264,15.30317,46.30264",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Le\u0161je"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0435\u0448\u0454"
-    ],
-    "name:und_x_variant":[
-        "Le\u0161je"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1276371193,
-    "wof:lastmodified":1564216072,
+    "wof:lastmodified":1566644627,
     "wof:name":"Lesje",
     "wof:parent_id":1108959653,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":40,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.84959,45.90863,14.88959,45.94863",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Sela pri Dobu"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1276151791,
-    "wof:lastmodified":1564216053,
+    "wof:lastmodified":1566644616,
     "wof:name":"Sela pri Dobu",
     "wof:parent_id":1108959583,
     "wof:placetype":"locality",

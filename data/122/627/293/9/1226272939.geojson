@@ -23,8 +23,12 @@
     "gn:population":837,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.39667,46.14667,14.43667,46.18667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Zbilje"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1226272939,
-    "wof:lastmodified":1564216892,
+    "wof:lastmodified":1566645236,
     "wof:name":"Zbilje",
     "wof:parent_id":1108959933,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":46.343662,
     "lbl:longitude":14.175559,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.343662,
     "mps:longitude":14.175559,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0631\u0627\u062f\u0648\u0641\u0644\u064a\u062c\u064a\u062a\u0633\u0627"
     ],
@@ -80,13 +83,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0434\u043e\u0432\u043b\u0438\u0446\u044f"
     ],
-    "name:und_x_preferred":[
-        "Radovljica"
-    ],
     "name:und_x_variant":[
-        "Radmannsdorf"
-    ],
-    "name:unk_x_variant":[
         "Radmannsdorf"
     ],
     "name:vie_x_preferred":[
@@ -108,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -121,7 +118,6 @@
         "fct:id":"06f31f26-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3192063,
         "gp:id":531306,
-        "qs:id":489932,
         "qs_pg:id":489932,
         "wd:id":"Q604194",
         "wk:page":"Radovljica"
@@ -141,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563576987,
+    "wof:lastmodified":1566644999,
     "wof:name":"Radovljica",
     "wof:parent_id":1108959825,
     "wof:placetype":"locality",

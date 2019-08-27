@@ -9,15 +9,18 @@
     "geom:bbox":"15.18333,46.48333,15.18333,46.48333",
     "geom:latitude":46.48333,
     "geom:longitude":15.18333,
-    "gn:gn_country":"SI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":111,
+    "gn:country":"SI",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SI",
+    "lbl:bbox":"15.16333,46.46333,15.20333,46.50333",
     "lbl:latitude":46.48333,
     "lbl:longitude":15.18333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Razborca"
@@ -46,7 +49,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0437\u0431\u043e\u0440\u0446\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Razborica"
     ],
     "qs_pg:aaroncc":"SI",
@@ -70,7 +73,7 @@
     "qs_pg:woe_adm0":23424945,
     "qs_pg:woe_id":531354,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424945,
     "woe:name_adm0":"Slovenija",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1125813903,
-    "wof:lastmodified":1563577078,
+    "wof:lastmodified":1566645046,
     "wof:name":"Razborca",
     "wof:parent_id":1108959467,
     "wof:placetype":"locality",

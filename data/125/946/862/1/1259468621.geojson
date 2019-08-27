@@ -23,8 +23,12 @@
     "gn:population":134,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.51874,45.8535,15.55874,45.8935",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gorenja Piro\u0161ica"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0440\u0435\u043d\u044f \u041f\u0438\u0440\u043e\u0448\u0438\u0446\u044f"
-    ],
-    "name:und_x_variant":[
-        "Gorenja Piro\u0161ica"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1259468621,
-    "wof:lastmodified":1564216804,
+    "wof:lastmodified":1566645176,
     "wof:name":"Gorenja Pirosica",
     "wof:parent_id":1108959585,
     "wof:placetype":"locality",

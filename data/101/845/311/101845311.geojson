@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":46.484396,
     "lbl:longitude":13.785001,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.484396,
     "mps:longitude":13.785001,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kranjska Gora"
     ],
@@ -101,7 +104,7 @@
     "name:ukr_x_variant":[
         "\u041a\u0440\u0430\u043d\u044c\u0441\u043a\u0430 \u0413\u043e\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kronau"
     ],
     "name:urd_x_preferred":[
@@ -129,7 +132,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -141,10 +144,12 @@
     "wof:concordances":{
         "gn:id":3197373,
         "gp:id":530496,
-        "qs:id":1078926,
         "qs_pg:id":147221,
         "wd:id":"Q2139428",
         "wk:page":"Kranjska Gora"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1078926
     },
     "wof:country":"SI",
     "wof:geomhash":"b3d78db20c3af2ab06832aa17fb86146",
@@ -158,7 +163,7 @@
         }
     ],
     "wof:id":101845311,
-    "wof:lastmodified":1563576931,
+    "wof:lastmodified":1566644983,
     "wof:name":"Kranjska Gora",
     "wof:parent_id":1108959843,
     "wof:placetype":"locality",

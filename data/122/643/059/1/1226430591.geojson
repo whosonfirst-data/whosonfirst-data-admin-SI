@@ -23,8 +23,12 @@
     "gn:population":579,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.21333,46.19667,15.25333,46.23667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ko\u0161nica pri Celju"
     ],
@@ -56,8 +60,7 @@
         "\u041a\u043e\u0448\u043d\u0438\u0446\u044f-\u043f\u0440\u0438-\u0426\u0435\u043b\u044e"
     ],
     "name:und_x_variant":[
-        "Ko\u0161nica",
-        "Ko\u0161nica pri Celju"
+        "Ko\u0161nica"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1226430591,
-    "wof:lastmodified":1564216873,
+    "wof:lastmodified":1566645223,
     "wof:name":"Kosnica pri Celju",
     "wof:parent_id":1108959693,
     "wof:placetype":"locality",

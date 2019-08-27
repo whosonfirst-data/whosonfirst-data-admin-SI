@@ -23,8 +23,12 @@
     "gn:population":147,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.96139,46.57556,16.00139,46.61556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Spodnji Ivanjci"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1260350065,
-    "wof:lastmodified":1564216315,
+    "wof:lastmodified":1566644790,
     "wof:name":"Spodnji Ivanjci",
     "wof:parent_id":1108959817,
     "wof:placetype":"locality",

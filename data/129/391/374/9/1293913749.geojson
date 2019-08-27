@@ -23,8 +23,12 @@
     "gn:population":187,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.96298,46.14017,15.00298,46.18017",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Rove"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1293913749,
-    "wof:lastmodified":1564215852,
+    "wof:lastmodified":1566644482,
     "wof:name":"Rove",
     "wof:parent_id":1108959683,
     "wof:placetype":"locality",

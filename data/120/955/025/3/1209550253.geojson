@@ -23,8 +23,12 @@
     "gn:population":289,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.26676,46.68194,16.30676,46.72194",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vu\u010dja Gomila"
     ],
@@ -56,9 +60,7 @@
         "Vol\u010dja Gomila",
         "Vu\u010degomila",
         "Vu\u010degomilje",
-        "Zsidahegy",
-        "Vu\u010da Gomila",
-        "Vu\u010dja Gomila"
+        "Vu\u010da Gomila"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":1209550253,
-    "wof:lastmodified":1564216120,
+    "wof:lastmodified":1566644659,
     "wof:name":"Vucja Gomila",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

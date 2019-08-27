@@ -23,8 +23,12 @@
     "gn:population":122,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.6525,46.01194,13.6925,46.05194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Grgarske Ravne"
     ],
@@ -56,9 +60,7 @@
         "\u0413\u0440\u0433\u0430\u0440\u0441\u044c\u043a\u0435 \u0420\u0430\u0432\u043d\u0435"
     ],
     "name:und_x_variant":[
-        "Raune",
-        "Ravne",
-        "Grgarske Ravne"
+        "Ravne"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -85,7 +87,7 @@
         }
     ],
     "wof:id":1310638973,
-    "wof:lastmodified":1564216496,
+    "wof:lastmodified":1566644916,
     "wof:name":"Grgarske Ravne",
     "wof:parent_id":1108959487,
     "wof:placetype":"locality",

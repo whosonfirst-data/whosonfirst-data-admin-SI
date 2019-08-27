@@ -23,8 +23,12 @@
     "gn:population":41,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.02536,46.02817,15.06536,46.06817",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dobovica"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1260010915,
-    "wof:lastmodified":1564216278,
+    "wof:lastmodified":1566644765,
     "wof:name":"Dobovica",
     "wof:parent_id":1108959907,
     "wof:placetype":"locality",

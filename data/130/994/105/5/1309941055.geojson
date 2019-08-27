@@ -23,8 +23,12 @@
     "gn:population":164,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.47458,46.10412,15.51458,46.14412",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Krivica"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1309941055,
-    "wof:lastmodified":1564216611,
+    "wof:lastmodified":1566645019,
     "wof:name":"Krivica",
     "wof:parent_id":1108959791,
     "wof:placetype":"locality",

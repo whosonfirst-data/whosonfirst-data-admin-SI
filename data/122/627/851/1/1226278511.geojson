@@ -23,8 +23,12 @@
     "gn:population":187,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.15528,46.52833,16.19528,46.56833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u0160alinci"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0428\u0430\u043b\u0438\u043d\u0446\u0456"
-    ],
-    "name:und_x_variant":[
-        "\u0160alinci"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1226278511,
-    "wof:lastmodified":1564216892,
+    "wof:lastmodified":1566645235,
     "wof:name":"Salinci",
     "wof:parent_id":1108959499,
     "wof:placetype":"locality",

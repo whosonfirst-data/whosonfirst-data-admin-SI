@@ -10,8 +10,10 @@
     "geom:latitude":46.015661,
     "geom:longitude":14.69758,
     "iso:country":"SI",
+    "lbl:bbox":"14.6925799883,46.0106607276,14.7025799883,46.0206607276",
     "lbl:latitude":46.015661,
     "lbl:longitude":14.69758,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -42,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0432\u043d\u043e \u0411\u0440\u0434\u043e"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1108959501,
@@ -65,7 +67,7 @@
         }
     ],
     "wof:id":1108943339,
-    "wof:lastmodified":1564216445,
+    "wof:lastmodified":1566644887,
     "wof:name":"Ravno Brdo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -23,8 +23,12 @@
     "gn:population":33,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.81811,46.52249,15.85811,46.56249",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Graden\u0161ak"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0430\u0434\u0435\u043d\u0448\u0430\u043a"
-    ],
-    "name:und_x_variant":[
-        "Graden\u0161ak"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1260116219,
-    "wof:lastmodified":1564216287,
+    "wof:lastmodified":1566644771,
     "wof:name":"Gradensak",
     "wof:parent_id":1108959477,
     "wof:placetype":"locality",

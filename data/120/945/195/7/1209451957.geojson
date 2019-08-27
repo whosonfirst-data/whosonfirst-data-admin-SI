@@ -23,8 +23,12 @@
     "gn:population":161,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.95504,45.80792,14.99504,45.84792",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Sadinja vas pri Dvoru"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1209451957,
-    "wof:lastmodified":1564216205,
+    "wof:lastmodified":1566644715,
     "wof:name":"Sadinja Vas pri Dvoru",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

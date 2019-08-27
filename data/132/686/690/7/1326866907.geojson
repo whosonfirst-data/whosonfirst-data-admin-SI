@@ -23,8 +23,12 @@
     "gn:population":100,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.56685,46.6283,15.60685,46.6683",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Jedlovnik"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1326866907,
-    "wof:lastmodified":1564215611,
+    "wof:lastmodified":1566644315,
     "wof:name":"Jedlovnik",
     "wof:parent_id":1108959469,
     "wof:placetype":"locality",

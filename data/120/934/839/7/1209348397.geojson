@@ -23,8 +23,12 @@
     "gn:population":22,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.83112,46.03563,14.87112,46.07563",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Zagorica"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1209348397,
-    "wof:lastmodified":1564216193,
+    "wof:lastmodified":1566644709,
     "wof:name":"Zagorica",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

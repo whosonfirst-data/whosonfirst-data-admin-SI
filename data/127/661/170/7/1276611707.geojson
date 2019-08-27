@@ -23,8 +23,12 @@
     "gn:population":85,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.95905,46.39273,15.99905,46.43273",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Cunkovci"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1276611707,
-    "wof:lastmodified":1564216027,
+    "wof:lastmodified":1566644600,
     "wof:name":"Cunkovci",
     "wof:parent_id":1108959719,
     "wof:placetype":"locality",

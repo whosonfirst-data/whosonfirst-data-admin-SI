@@ -23,8 +23,12 @@
     "gn:population":555,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.83639,46.35111,15.87639,46.39111",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Lancova vas"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1259818247,
-    "wof:lastmodified":1564216865,
+    "wof:lastmodified":1566645217,
     "wof:name":"Lancova Vas",
     "wof:parent_id":1108959747,
     "wof:placetype":"locality",

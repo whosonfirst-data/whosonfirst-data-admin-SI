@@ -23,8 +23,12 @@
     "gn:population":83,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.16031,46.02685,15.20031,46.06685",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Brun\u0161ka Gora"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0443\u043d\u0448\u043a\u0430 \u0413\u043e\u0440\u0430"
-    ],
-    "name:und_x_variant":[
-        "Brun\u0161ka Gora"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1277019629,
-    "wof:lastmodified":1564215976,
+    "wof:lastmodified":1566644565,
     "wof:name":"Brunska Gora",
     "wof:parent_id":1108959883,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":61,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.99687,46.29906,16.03687,46.33906",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Meje"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1276473719,
-    "wof:lastmodified":1564216038,
+    "wof:lastmodified":1566644607,
     "wof:name":"Meje",
     "wof:parent_id":1108959743,
     "wof:placetype":"locality",

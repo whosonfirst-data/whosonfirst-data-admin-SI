@@ -23,8 +23,12 @@
     "gn:population":140,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.94386,46.03308,13.98386,46.07308",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Idrijske Krnice"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1242730929,
-    "wof:lastmodified":1564216685,
+    "wof:lastmodified":1566645097,
     "wof:name":"Idrijske Krnice",
     "wof:parent_id":1108959535,
     "wof:placetype":"locality",

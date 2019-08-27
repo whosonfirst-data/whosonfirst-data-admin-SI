@@ -23,8 +23,12 @@
     "gn:population":70,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.4267,46.39316,15.4667,46.43316",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Podgrad na Pohorju"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1210052991,
-    "wof:lastmodified":1564216235,
+    "wof:lastmodified":1566644736,
     "wof:name":"Podgrad na Pohorju",
     "wof:parent_id":1108959641,
     "wof:placetype":"locality",

@@ -18,8 +18,10 @@
     ],
     "lbl:latitude":46.038335,
     "lbl:longitude":13.835209,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":0,
     "mz:is_current":1,
+    "mz:min_zoom":4.0,
     "mz:note":"statistical region, no administrative function",
     "name:arg_x_preferred":[
         "Gori\u0161ka"
@@ -49,7 +51,7 @@
         "Gori\u0161ka"
     ],
     "src:geom":"svn-sma",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
     "src:population:date:":"2011-01-01",
     "statoids:area_km":"2325",
@@ -94,7 +96,7 @@
         }
     ],
     "wof:id":1108959947,
-    "wof:lastmodified":1564216408,
+    "wof:lastmodified":1566644861,
     "wof:name":"Gori\u0161ka",
     "wof:parent_id":85633779,
     "wof:placetype":"region",

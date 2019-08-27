@@ -23,8 +23,12 @@
     "gn:population":714,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.74336,46.47116,15.78336,46.51116",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dvorjane"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1310062559,
-    "wof:lastmodified":1564216499,
+    "wof:lastmodified":1566644917,
     "wof:name":"Dvorjane",
     "wof:parent_id":1108959529,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":9,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.8575,45.78611,13.8975,45.82611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Krtinovica"
     ],
@@ -44,8 +48,7 @@
         "\u041a\u0440\u0442\u0438\u043d\u043e\u0432\u0438\u0446\u044f"
     ],
     "name:und_x_variant":[
-        "Cartinozza",
-        "Krtinovica"
+        "Cartinozza"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1327263261,
-    "wof:lastmodified":1564215695,
+    "wof:lastmodified":1566644368,
     "wof:name":"Krtinovica",
     "wof:parent_id":1108959789,
     "wof:placetype":"locality",
