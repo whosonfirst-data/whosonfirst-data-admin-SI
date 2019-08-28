@@ -23,8 +23,12 @@
     "gn:population":69,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.64496,46.26425,14.68496,46.30425",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u017daga"
     ],
@@ -39,9 +43,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0416\u0430\u0433\u0430"
-    ],
-    "name:und_x_variant":[
-        "\u017daga"
     ],
     "name:urd_x_preferred":[
         "\u0698\u0627\u06af\u0627"
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1344087611,
-    "wof:lastmodified":1564215742,
+    "wof:lastmodified":1566644399,
     "wof:name":"Zaga",
     "wof:parent_id":1108959941,
     "wof:placetype":"locality",

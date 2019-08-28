@@ -23,8 +23,12 @@
     "gn:population":357,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.82194,46.43889,15.86194,46.47889",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Grajena"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1277016335,
-    "wof:lastmodified":1564215978,
+    "wof:lastmodified":1566644566,
     "wof:name":"Grajena",
     "wof:parent_id":1108959659,
     "wof:placetype":"locality",

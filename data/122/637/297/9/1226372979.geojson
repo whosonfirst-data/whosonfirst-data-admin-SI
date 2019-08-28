@@ -23,8 +23,12 @@
     "gn:population":182,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.16722,46.79,16.20722,46.83",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Stanjevci"
     ],
@@ -59,10 +63,8 @@
         "\u0421\u0442\u0430\u043d\u0454\u0432\u0446\u0456"
     ],
     "name:und_x_variant":[
-        "Kerkaszabadhegy",
         "Stanjovci",
-        "Szabadhegy",
-        "Stanjevci"
+        "Szabadhegy"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":1226372979,
-    "wof:lastmodified":1564216987,
+    "wof:lastmodified":1566645298,
     "wof:name":"Stanjevci",
     "wof:parent_id":1108959531,
     "wof:placetype":"locality",

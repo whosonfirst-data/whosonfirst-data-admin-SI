@@ -23,8 +23,12 @@
     "gn:population":109,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.95937,45.79022,13.99937,45.83022",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Pore\u010de"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0440\u0435\u0447\u0435"
-    ],
-    "name:und_x_variant":[
-        "Pore\u010de"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1293134683,
-    "wof:lastmodified":1564215906,
+    "wof:lastmodified":1566644518,
     "wof:name":"Porece",
     "wof:parent_id":1108959623,
     "wof:placetype":"locality",

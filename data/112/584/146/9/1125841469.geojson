@@ -9,15 +9,18 @@
     "geom:bbox":"16.20417,46.65167,16.20417,46.65167",
     "geom:latitude":46.65167,
     "geom:longitude":16.20417,
-    "gn:gn_country":"SI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1545,
-    "gn:population":1560,
+    "gn:country":"SI",
+    "gn:fcode":"PPL",
+    "gn:population":1545,
     "iso:country":"SI",
+    "lbl:bbox":"16.18417,46.63167,16.22417,46.67167",
     "lbl:latitude":46.65167,
     "lbl:longitude":16.20417,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Raki\u010dan"
@@ -58,9 +61,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u043a\u0438\u0447\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "Batty\u00e1nfalva"
-    ],
     "qs_pg:aaroncc":"SI",
     "qs_pg:gn_country":"SI",
     "qs_pg:gn_fcode":"PPL",
@@ -82,7 +82,7 @@
     "qs_pg:woe_adm0":23424945,
     "qs_pg:woe_id":531318,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424945,
     "woe:name_adm0":"Slovenija",
@@ -114,7 +114,7 @@
         }
     ],
     "wof:id":1125841469,
-    "wof:lastmodified":1563577145,
+    "wof:lastmodified":1566645074,
     "wof:name":"Raki\u010dan",
     "wof:parent_id":1108959483,
     "wof:placetype":"locality",

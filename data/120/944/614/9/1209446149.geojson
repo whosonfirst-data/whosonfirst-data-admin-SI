@@ -23,8 +23,12 @@
     "gn:population":252,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.05089,45.74891,15.09089,45.78891",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Rumanja vas"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1209446149,
-    "wof:lastmodified":1564216216,
+    "wof:lastmodified":1566644723,
     "wof:name":"Rumanja Vas",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

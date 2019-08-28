@@ -10,8 +10,10 @@
     "geom:latitude":46.017289,
     "geom:longitude":14.74,
     "iso:country":"SI",
+    "lbl:bbox":"14.7350001534,46.0122885185,14.7450001534,46.0222885185",
     "lbl:latitude":46.017289,
     "lbl:longitude":14.74,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -45,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043b\u043e \u0422\u0440\u0435\u0431\u0435\u043b\u0454\u0432\u043e"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1108959501,
@@ -68,7 +70,7 @@
         }
     ],
     "wof:id":1108943349,
-    "wof:lastmodified":1564216444,
+    "wof:lastmodified":1566644887,
     "wof:name":"Malo Trebeljevo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

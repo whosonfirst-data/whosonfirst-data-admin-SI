@@ -23,8 +23,12 @@
     "gn:population":38,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.03692,45.54543,14.07692,45.58543",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Velike Lo\u010de"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0435 \u041b\u043e\u0447\u0435"
-    ],
-    "name:und_x_variant":[
-        "Velike Lo\u010de"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1276920653,
-    "wof:lastmodified":1564216026,
+    "wof:lastmodified":1566644600,
     "wof:name":"Velike Loce",
     "wof:parent_id":1108959549,
     "wof:placetype":"locality",

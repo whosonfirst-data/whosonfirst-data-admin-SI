@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.29667,46.09667,15.33667,46.13667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Goreljce"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1243002693,
-    "wof:lastmodified":1564216659,
+    "wof:lastmodified":1566645079,
     "wof:name":"Goreljce",
     "wof:parent_id":1108959879,
     "wof:placetype":"locality",

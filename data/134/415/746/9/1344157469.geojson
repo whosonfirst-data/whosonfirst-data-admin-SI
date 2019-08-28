@@ -23,8 +23,12 @@
     "gn:population":12,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.89345,46.22407,13.93345,46.26407",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u017dlan"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0416\u043b\u0430\u043d"
-    ],
-    "name:und_x_variant":[
-        "\u017dlan"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1344157469,
-    "wof:lastmodified":1564215740,
+    "wof:lastmodified":1566644398,
     "wof:name":"Zlan",
     "wof:parent_id":1108959819,
     "wof:placetype":"locality",

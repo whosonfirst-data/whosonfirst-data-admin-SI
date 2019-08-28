@@ -10,8 +10,10 @@
     "geom:latitude":46.083456,
     "geom:longitude":14.442702,
     "iso:country":"SI",
+    "lbl:bbox":"14.4377021304,46.0784555857,14.4477021304,46.0884555857",
     "lbl:latitude":46.083456,
     "lbl:longitude":14.442702,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -51,7 +53,7 @@
     "name:ukr_x_preferred":[
         "\u0490\u043b\u0456\u043d\u0438\u0446\u044f"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1108959501,
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1108943371,
-    "wof:lastmodified":1564216438,
+    "wof:lastmodified":1566644884,
     "wof:name":"Glinica",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",

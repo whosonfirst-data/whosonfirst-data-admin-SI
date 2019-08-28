@@ -23,8 +23,12 @@
     "gn:population":23,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.03,45.49667,15.07,45.53667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Jelenja vas"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1310537235,
-    "wof:lastmodified":1564216481,
+    "wof:lastmodified":1566644908,
     "wof:name":"Jelenja Vas",
     "wof:parent_id":1108959919,
     "wof:placetype":"locality",

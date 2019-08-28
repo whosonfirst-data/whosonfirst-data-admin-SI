@@ -23,8 +23,12 @@
     "gn:population":31,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.18521,45.51812,14.22521,45.55812",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Soze"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1209754171,
-    "wof:lastmodified":1564216222,
+    "wof:lastmodified":1566644727,
     "wof:name":"Soze",
     "wof:parent_id":1108959873,
     "wof:placetype":"locality",

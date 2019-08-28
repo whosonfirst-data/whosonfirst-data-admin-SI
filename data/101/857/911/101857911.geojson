@@ -11,12 +11,16 @@
     "geom:longitude":14.591737,
     "gn:population":373,
     "iso:country":"SI",
+    "lbl:bbox":"14.571737,45.681705,14.611737,45.721705",
     "lbl:latitude":45.701705,
     "lbl:longitude":14.591737,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":45.701705,
     "mps:longitude":14.591737,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Hrib\u2013Lo\u0161ki Potok"
     ],
@@ -59,7 +63,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0440\u0438\u0431-\u041b\u043e\u0448\u043a\u0438\u0439 \u041f\u043e\u0442\u043e\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hrib"
     ],
     "qs:a0":"Slovenija",
@@ -78,7 +82,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":180,
     "wof:belongsto":[
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":3199268,
         "gp:id":530244,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q2788051",
         "wk:page":"Hrib\u2013Lo\u0161ki Potok"
     },
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":101857911,
-    "wof:lastmodified":1563576946,
+    "wof:lastmodified":1566644988,
     "wof:name":"Hrib-Lo\u0161ki Potok",
     "wof:parent_id":1108959513,
     "wof:placetype":"locality",

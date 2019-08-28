@@ -23,8 +23,12 @@
     "gn:population":375,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.35,46.29833,14.39,46.33833",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Trstenik"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1226680207,
-    "wof:lastmodified":1564216913,
+    "wof:lastmodified":1566645250,
     "wof:name":"Trstenik",
     "wof:parent_id":1108959933,
     "wof:placetype":"locality",

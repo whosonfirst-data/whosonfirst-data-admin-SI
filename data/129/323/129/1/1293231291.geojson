@@ -23,8 +23,12 @@
     "gn:population":105,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.0771,46.42953,15.1171,46.46953",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vodri\u017e"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0412\u043e\u0434\u0440\u0438\u0436"
-    ],
-    "name:und_x_variant":[
-        "Vodri\u017e"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1293231291,
-    "wof:lastmodified":1564215886,
+    "wof:lastmodified":1566644505,
     "wof:name":"Vodriz",
     "wof:parent_id":1108959645,
     "wof:placetype":"locality",

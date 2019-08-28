@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.97094,45.76387,14.01094,45.80387",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Loka"
     ],
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":1226785909,
-    "wof:lastmodified":1564216965,
+    "wof:lastmodified":1566645282,
     "wof:name":"Loka",
     "wof:parent_id":1108959623,
     "wof:placetype":"locality",

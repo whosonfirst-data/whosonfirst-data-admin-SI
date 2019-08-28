@@ -23,8 +23,12 @@
     "gn:population":19,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.74346,45.95001,14.78346,45.99001",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kamno Brdo"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1360316533,
-    "wof:lastmodified":1564216556,
+    "wof:lastmodified":1566644950,
     "wof:name":"Kamno Brdo",
     "wof:parent_id":1108959583,
     "wof:placetype":"locality",

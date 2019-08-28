@@ -23,8 +23,12 @@
     "gn:population":14,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.12274,46.13013,14.16274,46.17013",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dolenja Ravan"
     ],
@@ -47,8 +51,7 @@
         "\u0414\u043e\u043b\u0435\u043d\u044f \u0420\u0430\u0432\u0430\u043d"
     ],
     "name:und_x_variant":[
-        "Dolenji Ravni",
-        "Dolenja Ravan"
+        "Dolenji Ravni"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1343328311,
-    "wof:lastmodified":1564215786,
+    "wof:lastmodified":1566644431,
     "wof:name":"Dolenja Ravan",
     "wof:parent_id":1108959897,
     "wof:placetype":"locality",

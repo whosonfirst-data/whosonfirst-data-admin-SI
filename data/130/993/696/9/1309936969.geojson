@@ -23,8 +23,12 @@
     "gn:population":4,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.94913,45.65681,14.98913,45.69681",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Trnovec"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1309936969,
-    "wof:lastmodified":1564216610,
+    "wof:lastmodified":1566645018,
     "wof:name":"Trnovec",
     "wof:parent_id":1108959919,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":1066,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.31333,46.16333,14.35333,46.20333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Sveti Duh"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0432\u0435\u0442\u0438\u0439 \u0414\u0443\u0445"
-    ],
-    "name:und_x_variant":[
-        "Sveti Duh"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1226278865,
-    "wof:lastmodified":1564216891,
+    "wof:lastmodified":1566645235,
     "wof:name":"Sv. Duh",
     "wof:parent_id":1108959821,
     "wof:placetype":"locality",

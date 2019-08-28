@@ -23,8 +23,12 @@
     "gn:population":188,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.25375,45.66423,15.29375,45.70423",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Bere\u010da vas"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0440\u0435\u0447\u0430 \u0412\u0430\u0441"
-    ],
-    "name:und_x_variant":[
-        "Bere\u010da Vas"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1310341215,
-    "wof:lastmodified":1564216528,
+    "wof:lastmodified":1566644934,
     "wof:name":"Bereca Vas",
     "wof:parent_id":1108959909,
     "wof:placetype":"locality",

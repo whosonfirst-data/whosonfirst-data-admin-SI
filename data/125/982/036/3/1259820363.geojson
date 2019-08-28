@@ -23,8 +23,12 @@
     "gn:population":9,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.96896,46.02838,15.00896,46.06838",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gorenje Jelenje"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1259820363,
-    "wof:lastmodified":1564216830,
+    "wof:lastmodified":1566645193,
     "wof:name":"Gorenje Jelenje",
     "wof:parent_id":1108959907,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":20,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.88516,45.46102,14.92516,45.50102",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Slavski Laz"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1259419267,
-    "wof:lastmodified":1564216817,
+    "wof:lastmodified":1566645184,
     "wof:name":"Slavski Laz",
     "wof:parent_id":1108959711,
     "wof:placetype":"locality",

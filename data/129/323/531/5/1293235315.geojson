@@ -23,8 +23,12 @@
     "gn:population":344,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.70733,46.17516,13.74733,46.21516",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Zatolmin"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1293235315,
-    "wof:lastmodified":1564215888,
+    "wof:lastmodified":1566644506,
     "wof:name":"Zatolmin",
     "wof:parent_id":1108959617,
     "wof:placetype":"locality",

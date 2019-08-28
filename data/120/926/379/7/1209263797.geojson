@@ -23,8 +23,12 @@
     "gn:population":155,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.6887,45.90111,14.7287,45.94111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ple\u0161ivica pri \u017dalni"
     ],
@@ -49,9 +53,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u043b\u0435\u0448\u0438\u0432\u0438\u0446\u044f-\u043f\u0440\u0438-\u0416\u0430\u043b\u043d\u0456"
     ],
-    "name:und_x_variant":[
-        "Ple\u0161ivica pri \u017dalni"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1209263797,
-    "wof:lastmodified":1564216210,
+    "wof:lastmodified":1566644719,
     "wof:name":"Plesivica pri Zalni",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

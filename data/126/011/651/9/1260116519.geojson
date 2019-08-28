@@ -23,8 +23,12 @@
     "gn:population":25,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.95958,46.01822,14.99958,46.05822",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Mala Goba"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1260116519,
-    "wof:lastmodified":1564216289,
+    "wof:lastmodified":1566644772,
     "wof:name":"Mala Goba",
     "wof:parent_id":1108959907,
     "wof:placetype":"locality",

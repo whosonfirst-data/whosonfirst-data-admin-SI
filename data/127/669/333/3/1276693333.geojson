@@ -23,8 +23,12 @@
     "gn:population":217,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.17419,46.36837,14.21419,46.40837",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Polj\u010de"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043b\u044c\u0447\u0435"
-    ],
-    "name:und_x_variant":[
-        "Polj\u010de"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1276693333,
-    "wof:lastmodified":1564216011,
+    "wof:lastmodified":1566644590,
     "wof:name":"Poljce",
     "wof:parent_id":1108959825,
     "wof:placetype":"locality",

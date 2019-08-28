@@ -23,8 +23,12 @@
     "gn:population":99,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.63926,46.23978,15.67926,46.27978",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Zgornje Se\u010dovo"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0417\u0433\u043e\u0440\u043d\u0454 \u0421\u0435\u0447\u043e\u0432\u043e"
-    ],
-    "name:und_x_variant":[
-        "Zgornje Se\u010dovo"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1243399573,
-    "wof:lastmodified":1564216678,
+    "wof:lastmodified":1566645092,
     "wof:name":"Zgornje Secovo",
     "wof:parent_id":1108959803,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":239,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.63145,45.88671,15.67145,45.92671",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gabrje pri Dobovi"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1326852839,
-    "wof:lastmodified":1564215668,
+    "wof:lastmodified":1566644350,
     "wof:name":"Gabrje pri Dobovi",
     "wof:parent_id":1108959585,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":45.942664,
     "lbl:longitude":15.143093,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":45.942664,
     "mps:longitude":15.143093,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Mokronog"
     ],
@@ -73,7 +76,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":561,
     "wof:belongsto":[
@@ -86,7 +89,7 @@
     "wof:concordances":{
         "gn:id":3194904,
         "gp:id":530846,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q2134569",
         "wk:page":"Mokronog"
     },
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101793011,
-    "wof:lastmodified":1563576972,
+    "wof:lastmodified":1566644995,
     "wof:name":"Mokronog",
     "wof:parent_id":1108959913,
     "wof:placetype":"locality",

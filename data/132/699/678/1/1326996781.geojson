@@ -23,8 +23,12 @@
     "gn:population":85,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.15027,46.13319,14.19027,46.17319",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dolen\u010dice"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043b\u0435\u043d\u0447\u0438\u0446\u0435"
-    ],
-    "name:und_x_variant":[
-        "Dolen\u010dice"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1326996781,
-    "wof:lastmodified":1564215677,
+    "wof:lastmodified":1566644357,
     "wof:name":"Dolencice",
     "wof:parent_id":1108959897,
     "wof:placetype":"locality",

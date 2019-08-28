@@ -9,15 +9,18 @@
     "geom:bbox":"14.10333,46.43028,14.10333,46.43028",
     "geom:latitude":46.43028,
     "geom:longitude":14.10333,
-    "gn:gn_country":"SI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2212,
-    "gn:population":2160,
+    "gn:country":"SI",
+    "gn:fcode":"PPL",
+    "gn:population":2212,
     "iso:country":"SI",
+    "lbl:bbox":"14.08333,46.41028,14.12333,46.45028",
     "lbl:latitude":46.43028,
     "lbl:longitude":14.10333,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Koro\u0161ka Bela"
@@ -52,7 +55,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0440\u043e\u0448\u043a\u0430 \u0411\u0435\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Koro\u0161ka-Bela"
     ],
     "qs_pg:aaroncc":"SI",
@@ -74,7 +77,7 @@
     "qs_pg:woe_adm0":23424945,
     "qs_pg:woe_id":55849704,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424945,
     "woe:name_adm0":"Slovenija",
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1126040991,
-    "wof:lastmodified":1563577073,
+    "wof:lastmodified":1566645043,
     "wof:name":"Koroska Bela",
     "wof:parent_id":1108959875,
     "wof:placetype":"locality",

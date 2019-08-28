@@ -23,8 +23,12 @@
     "gn:population":33,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.74498,45.93102,14.78498,45.97102",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Podsmreka pri Vi\u0161nji Gori"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0434\u0441\u043c\u0440\u0435\u043a\u0430-\u043f\u0440\u0438-\u0412\u0438\u0448\u043d\u0456 \u0413\u043e\u0440\u0438"
-    ],
-    "name:und_x_variant":[
-        "Podsmreka pri Vi\u0161nji Gori"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1310036993,
-    "wof:lastmodified":1564216517,
+    "wof:lastmodified":1566644928,
     "wof:name":"Podsmreka pri Visnji Gori",
     "wof:parent_id":1108959583,
     "wof:placetype":"locality",

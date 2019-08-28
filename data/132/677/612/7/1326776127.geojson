@@ -23,8 +23,12 @@
     "gn:population":31,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.68322,45.98774,14.72322,46.02774",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Mali Konec"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1326776127,
-    "wof:lastmodified":1564215676,
+    "wof:lastmodified":1566644357,
     "wof:name":"Mali Konec",
     "wof:parent_id":1108959533,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":163,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.12254,46.32711,14.16254,46.36711",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Bode\u0161\u010de"
     ],
@@ -55,9 +59,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0434\u0435\u0449\u0435"
     ],
-    "name:und_x_variant":[
-        "Bode\u0161\u010de"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1277076283,
-    "wof:lastmodified":1564215982,
+    "wof:lastmodified":1566644570,
     "wof:name":"Bodesce",
     "wof:parent_id":1108959797,
     "wof:placetype":"locality",

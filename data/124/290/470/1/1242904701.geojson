@@ -23,8 +23,12 @@
     "gn:population":77,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.50477,46.18749,15.54477,46.22749",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dol pri \u0160marju"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043b-\u043f\u0440\u0438-\u0428\u043c\u0430\u0440\u044e"
-    ],
-    "name:und_x_variant":[
-        "Dol pri \u0160marju"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1242904701,
-    "wof:lastmodified":1564216754,
+    "wof:lastmodified":1566645142,
     "wof:name":"Dol pri Smarju",
     "wof:parent_id":1108959607,
     "wof:placetype":"locality",

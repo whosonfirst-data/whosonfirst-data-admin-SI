@@ -23,8 +23,12 @@
     "gn:population":2,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.73222,45.59028,14.77222,45.63028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gotenica"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1242909829,
-    "wof:lastmodified":1564216756,
+    "wof:lastmodified":1566645144,
     "wof:name":"Gotenica",
     "wof:parent_id":1108959919,
     "wof:placetype":"locality",

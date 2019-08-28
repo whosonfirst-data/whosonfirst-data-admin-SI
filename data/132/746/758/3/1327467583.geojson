@@ -23,8 +23,12 @@
     "gn:population":99,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.25841,46.62011,15.29841,46.66011",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Radelca"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1327467583,
-    "wof:lastmodified":1564215652,
+    "wof:lastmodified":1566644341,
     "wof:name":"Radelca",
     "wof:parent_id":1108959557,
     "wof:placetype":"locality",

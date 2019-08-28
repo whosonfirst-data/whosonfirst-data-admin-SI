@@ -23,8 +23,12 @@
     "gn:population":28,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.09859,45.99241,14.13859,46.03241",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ravne pri \u017direh"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0432\u043d\u0435-\u043f\u0440\u0438-\u0416\u0438\u0440\u0435\u0445"
-    ],
-    "name:und_x_variant":[
-        "Ravne pri \u017direh"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1360218281,
-    "wof:lastmodified":1564216571,
+    "wof:lastmodified":1566644958,
     "wof:name":"Ravne pri Zireh",
     "wof:parent_id":1108959673,
     "wof:placetype":"locality",

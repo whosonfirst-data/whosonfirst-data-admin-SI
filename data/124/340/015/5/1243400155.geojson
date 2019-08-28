@@ -23,8 +23,12 @@
     "gn:population":18,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.23394,46.32609,14.27394,46.36609",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vadi\u010de"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0434\u0438\u0447\u0435"
-    ],
-    "name:und_x_variant":[
-        "Vadi\u010de"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1243400155,
-    "wof:lastmodified":1564216718,
+    "wof:lastmodified":1566645120,
     "wof:name":"Vadice",
     "wof:parent_id":1108959917,
     "wof:placetype":"locality",

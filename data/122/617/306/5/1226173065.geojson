@@ -23,8 +23,12 @@
     "gn:population":74,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.70744,45.9319,14.74744,45.9719",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Pe\u0161\u010denik"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0448\u0447\u0435\u043d\u0438\u043a"
-    ],
-    "name:und_x_variant":[
-        "Pe\u0161\u010denik"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1226173065,
-    "wof:lastmodified":1564216875,
+    "wof:lastmodified":1566645224,
     "wof:name":"Pescenik",
     "wof:parent_id":1108959583,
     "wof:placetype":"locality",

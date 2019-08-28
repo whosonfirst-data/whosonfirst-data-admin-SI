@@ -23,8 +23,12 @@
     "gn:population":68,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.98828,46.29706,15.02828,46.33706",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:hrv_x_preferred":[
         "Podgorje pri Letu\u0161u"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0434\u0433\u043e\u0440\u0454-\u043f\u0440\u0438-\u041b\u0435\u0442\u0443\u0448\u0443"
-    ],
-    "name:und_x_variant":[
-        "Podgorje pri Letu\u0161u"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1209746089,
-    "wof:lastmodified":1564216203,
+    "wof:lastmodified":1566644713,
     "wof:name":"Podgorje pri Letusu",
     "wof:parent_id":1108959855,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.01166,45.57277,14.05166,45.61277",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Odolina"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1326783923,
-    "wof:lastmodified":1564215669,
+    "wof:lastmodified":1566644351,
     "wof:name":"Odolina",
     "wof:parent_id":1108959549,
     "wof:placetype":"locality",

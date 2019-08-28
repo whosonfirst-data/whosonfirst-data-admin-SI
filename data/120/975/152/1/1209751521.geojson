@@ -24,8 +24,12 @@
     "gn:population":588,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.68785,46.1554,13.72785,46.1954",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vol\u010de"
     ],
@@ -53,9 +57,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u043b\u0447\u0435"
     ],
-    "name:und_x_variant":[
-        "Volzana"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1209751521,
-    "wof:lastmodified":1564216221,
+    "wof:lastmodified":1566644726,
     "wof:name":"Volce",
     "wof:parent_id":1108959617,
     "wof:placetype":"locality",

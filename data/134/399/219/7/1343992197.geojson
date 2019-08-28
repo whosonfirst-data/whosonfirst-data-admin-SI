@@ -23,8 +23,12 @@
     "gn:population":46,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.63111,45.97889,14.67111,46.01889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Veliki Lipoglav"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1343992197,
-    "wof:lastmodified":1564215731,
+    "wof:lastmodified":1566644393,
     "wof:name":"Veliki Lipoglav",
     "wof:parent_id":1108959501,
     "wof:placetype":"locality",

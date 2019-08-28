@@ -23,8 +23,12 @@
     "gn:population":111,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.4603,46.25284,15.5003,46.29284",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ostro\u017eno pri Ponikvi\u2013del"
     ],
@@ -47,8 +51,7 @@
         "Ostro\u017eno pri Ponikvi"
     ],
     "name:und_x_variant":[
-        "Ostro\u017eno",
-        "Ostro\u017eno pri Ponikvi"
+        "Ostro\u017eno"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1360218935,
-    "wof:lastmodified":1564216572,
+    "wof:lastmodified":1566644958,
     "wof:name":"Ostrozno pri Ponikvi - Del",
     "wof:parent_id":1108959791,
     "wof:placetype":"locality",

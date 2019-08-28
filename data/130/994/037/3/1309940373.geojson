@@ -23,8 +23,12 @@
     "gn:population":74,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.62611,46.085,13.66611,46.125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ajba"
     ],
@@ -48,10 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0439\u0431\u0430"
-    ],
-    "name:und_x_variant":[
-        "Aiba",
-        "Ajba"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":1309940373,
-    "wof:lastmodified":1564216613,
+    "wof:lastmodified":1566645020,
     "wof:name":"Ajba",
     "wof:parent_id":1108959537,
     "wof:placetype":"locality",

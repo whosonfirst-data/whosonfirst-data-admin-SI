@@ -12,8 +12,11 @@
     "iso:country":"SI",
     "lbl:latitude":46.240586,
     "lbl:longitude":13.585243,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0628\u0627\u0631\u064a\u062f"
     ],
@@ -111,7 +114,7 @@
         "\u79d1\u5df4\u91cc\u5fb7"
     ],
     "src:geom":"svn-sma",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":1108959523,
-    "wof:lastmodified":1564216341,
+    "wof:lastmodified":1566644812,
     "wof:name":"Kobarid",
     "wof:parent_id":1108959947,
     "wof:placetype":"localadmin",

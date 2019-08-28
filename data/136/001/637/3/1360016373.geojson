@@ -23,8 +23,12 @@
     "gn:population":147,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.22512,45.76431,15.26512,45.80431",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Hru\u0161ica"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0425\u0440\u0443\u0448\u0438\u0446\u044f"
-    ],
-    "name:und_x_variant":[
-        "Hru\u0161ica"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1360016373,
-    "wof:lastmodified":1564216562,
+    "wof:lastmodified":1566644953,
     "wof:name":"Hrusica",
     "wof:parent_id":1108959465,
     "wof:placetype":"locality",

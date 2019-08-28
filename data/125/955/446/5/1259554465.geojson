@@ -23,8 +23,12 @@
     "gn:population":25,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.925,46.07056,13.965,46.11056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Jagr\u0161\u010de"
     ],
@@ -44,8 +48,7 @@
         "\u042f\u0433\u0440\u0449\u0435"
     ],
     "name:und_x_variant":[
-        "Jager\u0161\u010de",
-        "Jagr\u0161\u010de"
+        "Jager\u0161\u010de"
     ],
     "name:urd_x_preferred":[
         "\u062c\u06af\u0631\u0634\u0686\u0627"
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1259554465,
-    "wof:lastmodified":1564216802,
+    "wof:lastmodified":1566645175,
     "wof:name":"Jagrsce",
     "wof:parent_id":1108959577,
     "wof:placetype":"locality",

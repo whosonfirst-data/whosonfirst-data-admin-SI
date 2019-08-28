@@ -23,8 +23,12 @@
     "gn:population":2002,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.06722,46.40611,14.10722,46.44611",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Slovenski Javornik"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1293718609,
-    "wof:lastmodified":1564215895,
+    "wof:lastmodified":1566644511,
     "wof:name":"Slovenski Javornik",
     "wof:parent_id":1108959875,
     "wof:placetype":"locality",

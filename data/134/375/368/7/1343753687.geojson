@@ -23,8 +23,12 @@
     "gn:population":1,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.5381,46.02577,13.5781,46.06577",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Slapnik"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1343753687,
-    "wof:lastmodified":1564215834,
+    "wof:lastmodified":1566644463,
     "wof:name":"Slapnik",
     "wof:parent_id":1108959811,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":1,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.90612,45.4916,13.94612,45.5316",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Bre\u017eec pri Podgorju"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0435\u0436\u0435\u0446\u044c-\u043f\u0440\u0438-\u041f\u043e\u0434\u0433\u043e\u0440'\u0457"
-    ],
-    "name:und_x_variant":[
-        "Bre\u017eec pri Podgorju"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1343797255,
-    "wof:lastmodified":1564215755,
+    "wof:lastmodified":1566644409,
     "wof:name":"Brezec pri Podgorju",
     "wof:parent_id":1108959527,
     "wof:placetype":"locality",

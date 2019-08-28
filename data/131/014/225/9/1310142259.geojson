@@ -23,8 +23,12 @@
     "gn:population":275,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.91361,46.5325,15.95361,46.5725",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u010cagona"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0427\u0430\u0433\u043e\u043d\u0430"
-    ],
-    "name:und_x_variant":[
-        "\u010cagona"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1310142259,
-    "wof:lastmodified":1564216472,
+    "wof:lastmodified":1566644902,
     "wof:name":"Cagona",
     "wof:parent_id":1108959703,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":139,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.63513,46.02667,15.67513,46.06667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Zagaj"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1327061479,
-    "wof:lastmodified":1564215591,
+    "wof:lastmodified":1566644304,
     "wof:name":"Zagaj",
     "wof:parent_id":1108959915,
     "wof:placetype":"locality",

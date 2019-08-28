@@ -23,8 +23,12 @@
     "gn:population":89,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.15128,46.10032,14.19128,46.14032",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dobje"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1276513795,
-    "wof:lastmodified":1564216007,
+    "wof:lastmodified":1566644587,
     "wof:name":"Dobje",
     "wof:parent_id":1108959897,
     "wof:placetype":"locality",

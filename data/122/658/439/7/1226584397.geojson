@@ -23,8 +23,12 @@
     "gn:population":47,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.01056,45.59278,14.05056,45.63278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Artvi\u017ee"
     ],
@@ -45,10 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0442\u0432\u0456\u0436\u0435"
-    ],
-    "name:und_x_variant":[
-        "Artuise",
-        "Artvi\u017ee"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":1226584397,
-    "wof:lastmodified":1564216902,
+    "wof:lastmodified":1566645243,
     "wof:name":"Artvize",
     "wof:parent_id":1108959549,
     "wof:placetype":"locality",

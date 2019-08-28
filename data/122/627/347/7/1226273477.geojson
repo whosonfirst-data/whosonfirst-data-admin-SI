@@ -23,8 +23,12 @@
     "gn:population":118,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.45076,46.21231,15.49076,46.25231",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Bodri\u0161na vas"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0434\u0440\u0438\u0448\u043d\u0430 \u0412\u0430\u0441"
-    ],
-    "name:und_x_variant":[
-        "Bodri\u0161na Vas"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1226273477,
-    "wof:lastmodified":1564216894,
+    "wof:lastmodified":1566645237,
     "wof:name":"Bodrisna Vas",
     "wof:parent_id":1108959607,
     "wof:placetype":"locality",

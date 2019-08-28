@@ -23,8 +23,12 @@
     "gn:population":319,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.23,46.58,15.27,46.62",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Spodnja Vi\u017einga"
     ],
@@ -49,8 +53,7 @@
     "name:und_x_variant":[
         "Sveta Vi\u017einga",
         "Unter Feising",
-        "Spodnja",
-        "Spodnja Vi\u017einga"
+        "Spodnja"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1293420349,
-    "wof:lastmodified":1564215952,
+    "wof:lastmodified":1566644549,
     "wof:name":"Spodnja Vizinga",
     "wof:parent_id":1108959557,
     "wof:placetype":"locality",

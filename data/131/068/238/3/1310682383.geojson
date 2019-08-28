@@ -23,8 +23,12 @@
     "gn:population":485,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.27117,46.24792,15.31117,46.28792",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u0160kofja vas"
     ],
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1310682383,
-    "wof:lastmodified":1564216525,
+    "wof:lastmodified":1566644932,
     "wof:name":"Skofja Vas",
     "wof:parent_id":1108959693,
     "wof:placetype":"locality",

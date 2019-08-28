@@ -23,8 +23,12 @@
     "gn:population":42,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.99743,45.80402,15.03743,45.84402",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gornji Ajdovec"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1276159487,
-    "wof:lastmodified":1564216046,
+    "wof:lastmodified":1566644611,
     "wof:name":"Gornji Ajdovec",
     "wof:parent_id":1108959787,
     "wof:placetype":"locality",

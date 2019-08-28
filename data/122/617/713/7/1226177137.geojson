@@ -23,8 +23,12 @@
     "gn:population":7,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.94965,45.49076,14.98965,45.53076",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Spodnja Bilpa"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1226177137,
-    "wof:lastmodified":1564216878,
+    "wof:lastmodified":1566645225,
     "wof:name":"Spodnja Bilpa",
     "wof:parent_id":1108959919,
     "wof:placetype":"locality",

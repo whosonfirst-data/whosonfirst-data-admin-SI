@@ -23,8 +23,12 @@
     "gn:population":112,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.10943,45.77036,15.14943,45.81036",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Srebrni\u010de"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0440\u0435\u0431\u0440\u043d\u0438\u0447\u0435"
-    ],
-    "name:und_x_variant":[
-        "Srebrni\u010de"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1326867157,
-    "wof:lastmodified":1564215608,
+    "wof:lastmodified":1566644313,
     "wof:name":"Srebrnice",
     "wof:parent_id":1108959465,
     "wof:placetype":"locality",

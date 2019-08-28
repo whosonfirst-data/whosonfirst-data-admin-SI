@@ -23,8 +23,12 @@
     "gn:population":115,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.8342,46.30121,15.8742,46.34121",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Jablovec"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1243587871,
-    "wof:lastmodified":1564216733,
+    "wof:lastmodified":1566645129,
     "wof:name":"Jablovec",
     "wof:parent_id":1108959757,
     "wof:placetype":"locality",

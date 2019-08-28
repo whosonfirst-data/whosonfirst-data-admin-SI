@@ -23,8 +23,12 @@
     "gn:population":48,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.04693,45.53265,15.08693,45.57265",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Brezovica pri Predgradu"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1209951275,
-    "wof:lastmodified":1564216160,
+    "wof:lastmodified":1566644687,
     "wof:name":"Brezovica pri Predgradu",
     "wof:parent_id":1108959919,
     "wof:placetype":"locality",

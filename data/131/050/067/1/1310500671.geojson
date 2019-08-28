@@ -23,8 +23,12 @@
     "gn:population":496,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.33389,45.90944,14.37389,45.94944",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dol pri Borovnici"
     ],
@@ -47,8 +51,7 @@
         "\u0414\u043e\u043b-\u043f\u0440\u0438-\u0411\u043e\u0440\u043e\u0432\u043d\u0438\u0446\u0456"
     ],
     "name:und_x_variant":[
-        "Dol",
-        "Dol pri Borovnici"
+        "Dol"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1310500671,
-    "wof:lastmodified":1564216524,
+    "wof:lastmodified":1566644932,
     "wof:name":"Dol pri Borovnici",
     "wof:parent_id":1108959871,
     "wof:placetype":"locality",

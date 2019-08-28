@@ -23,8 +23,12 @@
     "gn:population":24,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.34157,45.79664,15.38157,45.83664",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dr\u010da"
     ],
@@ -41,9 +45,6 @@
         "Dr\u010da"
     ],
     "name:slv_x_preferred":[
-        "Dr\u010da"
-    ],
-    "name:und_x_variant":[
         "Dr\u010da"
     ],
     "src:geom":"geonames",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1343298677,
-    "wof:lastmodified":1564215821,
+    "wof:lastmodified":1566644453,
     "wof:name":"Drca",
     "wof:parent_id":1108959937,
     "wof:placetype":"locality",

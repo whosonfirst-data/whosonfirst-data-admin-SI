@@ -23,8 +23,12 @@
     "gn:population":405,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.8996,46.63013,15.9396,46.67013",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Spodnja \u0160\u010davnica"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u043f\u043e\u0434\u043d\u044f \u0429\u0430\u0432\u043d\u0438\u0446\u044f"
-    ],
-    "name:und_x_variant":[
-        "Spodnja \u0160\u010davnica"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1226810253,
-    "wof:lastmodified":1564216873,
+    "wof:lastmodified":1566645222,
     "wof:name":"Spodnja Scavnica",
     "wof:parent_id":1108959817,
     "wof:placetype":"locality",

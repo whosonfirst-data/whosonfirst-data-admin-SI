@@ -23,8 +23,12 @@
     "gn:population":121,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.51333,46.18,15.55333,46.22",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u0160kofija"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0428\u043a\u043e\u0444\u0456\u044f"
-    ],
-    "name:und_x_variant":[
-        "\u0160kofija"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1226778583,
-    "wof:lastmodified":1564216972,
+    "wof:lastmodified":1566645287,
     "wof:name":"Skofija",
     "wof:parent_id":1108959607,
     "wof:placetype":"locality",

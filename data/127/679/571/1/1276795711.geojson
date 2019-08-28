@@ -23,8 +23,12 @@
     "gn:population":153,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.85028,45.42389,13.89028,45.46389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Pregara"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1276795711,
-    "wof:lastmodified":1564216057,
+    "wof:lastmodified":1566644619,
     "wof:name":"Pregara",
     "wof:parent_id":1108959527,
     "wof:placetype":"locality",

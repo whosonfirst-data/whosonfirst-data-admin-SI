@@ -23,8 +23,12 @@
     "gn:population":214,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.2181,45.86717,15.2581,45.90717",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gorenja vas pri \u0160marjeti"
     ],
@@ -50,8 +54,7 @@
         "\u0413\u043e\u0440\u0435\u043d\u044f \u0412\u0430\u0441-\u043f\u0440\u0438-\u0428\u043c\u0430\u0440\u0454\u0442\u0456"
     ],
     "name:und_x_variant":[
-        "Gorenja Vas",
-        "Gorenja Vas pri \u0160marjeti"
+        "Gorenja Vas"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1310441363,
-    "wof:lastmodified":1564216505,
+    "wof:lastmodified":1566644921,
     "wof:name":"Gorenja Vas pri Smarjeti",
     "wof:parent_id":1108959833,
     "wof:placetype":"locality",

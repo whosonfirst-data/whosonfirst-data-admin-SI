@@ -23,8 +23,12 @@
     "gn:population":175,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.54429,45.91898,15.58429,45.95898",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Zgornji Obre\u017e"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0417\u0433\u043e\u0440\u043d\u0456\u0439 \u041e\u0431\u0440\u0435\u0436"
-    ],
-    "name:und_x_variant":[
-        "Zgornji Obre\u017e"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1360182317,
-    "wof:lastmodified":1564216563,
+    "wof:lastmodified":1566644954,
     "wof:name":"Zgornji Obrez",
     "wof:parent_id":1108959585,
     "wof:placetype":"locality",

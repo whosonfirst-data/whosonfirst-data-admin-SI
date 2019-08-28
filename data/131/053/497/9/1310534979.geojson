@@ -23,8 +23,12 @@
     "gn:population":53,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.19154,46.28512,14.23154,46.32512",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Lipnica"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1310534979,
-    "wof:lastmodified":1564216480,
+    "wof:lastmodified":1566644907,
     "wof:name":"Lipnica",
     "wof:parent_id":1108959825,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":76,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.36603,45.90247,15.40603,45.94247",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Cirje"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1226477571,
-    "wof:lastmodified":1564216956,
+    "wof:lastmodified":1566645277,
     "wof:name":"Cirje",
     "wof:parent_id":1108959473,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":737,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.61333,46.21333,14.65333,46.25333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vrhpolje pri Kamniku"
     ],
@@ -44,8 +48,7 @@
         "\u0412\u0440\u0445\u043f\u043e\u043b\u0454-\u043f\u0440\u0438-\u041a\u0430\u043c\u043d\u0438\u043a\u0443"
     ],
     "name:und_x_variant":[
-        "Vrhpolje",
-        "Vrhpolje pri Kamniku"
+        "Vrhpolje"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1344192515,
-    "wof:lastmodified":1564215804,
+    "wof:lastmodified":1566644442,
     "wof:name":"Vrhpolje pri Kamniku",
     "wof:parent_id":1108959941,
     "wof:placetype":"locality",

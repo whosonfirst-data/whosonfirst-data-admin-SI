@@ -23,8 +23,12 @@
     "gn:population":29,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.98849,45.85939,15.02849,45.89939",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dolenji Vrh"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1259913647,
-    "wof:lastmodified":1564216790,
+    "wof:lastmodified":1566645167,
     "wof:name":"Dolenji Vrh",
     "wof:parent_id":1108959839,
     "wof:placetype":"locality",

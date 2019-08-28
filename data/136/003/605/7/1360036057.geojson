@@ -23,8 +23,12 @@
     "gn:population":132,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.96403,46.61946,16.00403,46.65946",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Orehovski Vrh"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1360036057,
-    "wof:lastmodified":1564216576,
+    "wof:lastmodified":1566644961,
     "wof:name":"Orehovski Vrh",
     "wof:parent_id":1108959817,
     "wof:placetype":"locality",

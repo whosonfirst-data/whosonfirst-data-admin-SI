@@ -23,8 +23,12 @@
     "gn:population":66,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.30635,45.92585,15.34635,45.96585",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gorenje Radulje"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1326865893,
-    "wof:lastmodified":1564215608,
+    "wof:lastmodified":1566644313,
     "wof:name":"Gorenje Radulje",
     "wof:parent_id":1108959605,
     "wof:placetype":"locality",

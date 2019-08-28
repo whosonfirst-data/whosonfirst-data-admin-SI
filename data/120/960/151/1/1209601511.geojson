@@ -23,8 +23,12 @@
     "gn:population":4,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.4743,45.8296,14.5143,45.8696",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Zahrib"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1209601511,
-    "wof:lastmodified":1564216182,
+    "wof:lastmodified":1566644702,
     "wof:name":"Zahrib",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

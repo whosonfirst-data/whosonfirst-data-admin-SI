@@ -22,8 +22,12 @@
     "gn:population":12,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.53733,45.82203,15.57733,45.86203",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u010cedem"
     ],
@@ -51,9 +55,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0434\u0435\u043c"
     ],
-    "name:und_x_variant":[
-        "\u010cedem"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1310223845,
-    "wof:lastmodified":1564216473,
+    "wof:lastmodified":1566644903,
     "wof:name":"Cedem",
     "wof:parent_id":1108959585,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":36,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.65149,46.19054,14.69149,46.23054",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vranja Pe\u010d"
     ],
@@ -39,9 +43,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0440\u0430\u043d\u044f \u041f\u0435\u0447"
-    ],
-    "name:und_x_variant":[
-        "Vranja Pe\u010d"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1276696275,
-    "wof:lastmodified":1564216008,
+    "wof:lastmodified":1566644588,
     "wof:name":"Vranja Pec",
     "wof:parent_id":1108959941,
     "wof:placetype":"locality",

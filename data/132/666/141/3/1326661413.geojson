@@ -23,8 +23,12 @@
     "gn:population":85,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.02897,45.70251,15.06897,45.74251",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ko\u010devske Poljane"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0447\u0435\u0432\u0441\u044c\u043a\u0435 \u041f\u043e\u043b\u044f\u043d\u0435"
-    ],
-    "name:und_x_variant":[
-        "Ko\u010devske Poljane"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1326661413,
-    "wof:lastmodified":1564215637,
+    "wof:lastmodified":1566644331,
     "wof:name":"Kocevske Poljane",
     "wof:parent_id":1108959675,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":94,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.1227,46.0706,14.1627,46.1106",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dobrav\u0161ce"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0414\u043e\u0431\u0440\u0430\u0432\u0448\u0446\u0435"
-    ],
-    "name:und_x_variant":[
-        "Dobrav\u0161ce"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1343905609,
-    "wof:lastmodified":1564215738,
+    "wof:lastmodified":1566644396,
     "wof:name":"Dobravsce",
     "wof:parent_id":1108959897,
     "wof:placetype":"locality",

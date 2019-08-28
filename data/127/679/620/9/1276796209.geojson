@@ -23,8 +23,12 @@
     "gn:population":52,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.71056,45.79833,13.75056,45.83833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Preserje pri Komnu"
     ],
@@ -46,8 +50,7 @@
     "name:und_x_variant":[
         "Preserje",
         "Press\u00e9rie",
-        "Preseria",
-        "Preserje pri Komnu"
+        "Preseria"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1276796209,
-    "wof:lastmodified":1564216055,
+    "wof:lastmodified":1566644617,
     "wof:name":"Preserje pri Komnu",
     "wof:parent_id":1108959539,
     "wof:placetype":"locality",

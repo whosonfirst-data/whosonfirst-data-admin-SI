@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":45.756204,
     "lbl:longitude":15.056619,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":45.756204,
     "mps:longitude":15.056619,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dolenjske Toplice"
     ],
@@ -53,7 +56,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043b\u0435\u043d\u044c\u0441\u044c\u043a\u0435 \u0422\u043e\u043f\u043b\u0438\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Toplice"
     ],
     "name:zho_x_preferred":[
@@ -73,7 +76,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -85,7 +88,7 @@
     "wof:concordances":{
         "gn:id":3201817,
         "gp:id":529895,
-        "qs:id":1075854,
+        "qs_pg:id":1075854,
         "wd:id":"Q9015044",
         "wk:page":"Dolenjske Toplice"
     },
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101793005,
-    "wof:lastmodified":1563576974,
+    "wof:lastmodified":1566644996,
     "wof:name":"Dolenjske Toplice",
     "wof:parent_id":1108959675,
     "wof:placetype":"locality",

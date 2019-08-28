@@ -23,8 +23,12 @@
     "gn:population":208,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.24015,46.24502,15.28015,46.28502",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dobrova"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1276418803,
-    "wof:lastmodified":1564216053,
+    "wof:lastmodified":1566644616,
     "wof:name":"Dobrova",
     "wof:parent_id":1108959693,
     "wof:placetype":"locality",

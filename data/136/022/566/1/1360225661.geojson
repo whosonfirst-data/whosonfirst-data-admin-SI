@@ -23,8 +23,12 @@
     "gn:population":40,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.04901,46.12535,15.08901,46.16535",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Plesko"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1360225661,
-    "wof:lastmodified":1564216546,
+    "wof:lastmodified":1566644944,
     "wof:name":"Plesko",
     "wof:parent_id":1108959571,
     "wof:placetype":"locality",

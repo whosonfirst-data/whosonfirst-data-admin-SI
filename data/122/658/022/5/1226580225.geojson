@@ -23,8 +23,12 @@
     "gn:population":54,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.57503,46.00543,13.61503,46.04543",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Prilesje pri Plavah"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1226580225,
-    "wof:lastmodified":1564216901,
+    "wof:lastmodified":1566645242,
     "wof:name":"Prilesje pri Plavah",
     "wof:parent_id":1108959537,
     "wof:placetype":"locality",

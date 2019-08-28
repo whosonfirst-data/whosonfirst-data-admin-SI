@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":46.214265,
     "lbl:longitude":14.604409,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":46.214265,
     "mps:longitude":14.604409,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0645\u0646\u064a\u0643"
     ],
@@ -152,13 +155,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043c\u043d\u0438\u043a"
     ],
-    "name:und_x_preferred":[
-        "Kamnik"
-    ],
     "name:und_x_variant":[
-        "Stein"
-    ],
-    "name:unk_x_variant":[
         "Stein"
     ],
     "name:vie_x_preferred":[
@@ -183,7 +180,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":46.225833,
     "wd:longitude":14.611944,
@@ -199,7 +196,6 @@
         "fct:id":"06f2959c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3198365,
         "gp:id":530376,
-        "qs:id":489922,
         "qs_pg:id":489922,
         "wd:id":"Q15883",
         "wk:page":"Kamnik"
@@ -219,7 +215,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563576951,
+    "wof:lastmodified":1566644989,
     "wof:name":"Kamnik",
     "wof:parent_id":1108959941,
     "wof:placetype":"locality",

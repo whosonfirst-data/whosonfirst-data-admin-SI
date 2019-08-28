@@ -23,8 +23,12 @@
     "gn:population":18,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.98636,45.92655,15.02636,45.96655",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Mala \u0160evnica"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043b\u0430 \u0428\u0435\u0432\u043d\u0438\u0446\u044f"
-    ],
-    "name:und_x_variant":[
-        "Mala \u0160evnica"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1309840257,
-    "wof:lastmodified":1564216598,
+    "wof:lastmodified":1566645011,
     "wof:name":"Mala Sevnica",
     "wof:parent_id":1108959839,
     "wof:placetype":"locality",

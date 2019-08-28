@@ -23,8 +23,12 @@
     "gn:population":358,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.63229,46.56606,15.67229,46.60606",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Po\u010dehova"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0447\u0435\u0445\u043e\u0432\u0430"
-    ],
-    "name:und_x_variant":[
-        "Po\u010dehova"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1293424399,
-    "wof:lastmodified":1564215947,
+    "wof:lastmodified":1566644546,
     "wof:name":"Pocehova",
     "wof:parent_id":1108959785,
     "wof:placetype":"locality",

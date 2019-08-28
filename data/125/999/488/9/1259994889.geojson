@@ -22,8 +22,12 @@
     "gn:population":92,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.6211,46.17177,15.6611,46.21177",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Nimno"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1259994889,
-    "wof:lastmodified":1564216802,
+    "wof:lastmodified":1566645174,
     "wof:name":"Nimno",
     "wof:parent_id":1108959803,
     "wof:placetype":"locality",

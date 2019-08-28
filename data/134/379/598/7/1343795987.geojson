@@ -23,8 +23,12 @@
     "gn:population":57,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.0488,46.40185,14.0888,46.44185",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Podko\u010dna"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0434\u043a\u043e\u0447\u043d\u0430"
-    ],
-    "name:und_x_variant":[
-        "Podko\u010dna"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1343795987,
-    "wof:lastmodified":1564215758,
+    "wof:lastmodified":1566644410,
     "wof:name":"Podkocna",
     "wof:parent_id":1108959875,
     "wof:placetype":"locality",

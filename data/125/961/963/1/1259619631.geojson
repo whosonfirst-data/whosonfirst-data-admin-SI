@@ -23,8 +23,12 @@
     "gn:population":335,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.10417,45.64278,14.14417,45.68278",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dolnja Ko\u0161ana"
     ],
@@ -50,8 +54,7 @@
         "\u0414\u043e\u043b\u043d\u044f \u041a\u043e\u0448\u0430\u043d\u0430"
     ],
     "name:und_x_variant":[
-        "Dolenja Ko\u0161ana",
-        "Dolnja Ko\u0161ana"
+        "Dolenja Ko\u0161ana"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1259619631,
-    "wof:lastmodified":1564216834,
+    "wof:lastmodified":1566645196,
     "wof:name":"Dolnja Kosana",
     "wof:parent_id":1108959587,
     "wof:placetype":"locality",

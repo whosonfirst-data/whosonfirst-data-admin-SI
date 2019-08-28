@@ -23,8 +23,12 @@
     "gn:population":234,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.11565,46.33883,14.15565,46.37883",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Koritno"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1343669469,
-    "wof:lastmodified":1564215785,
+    "wof:lastmodified":1566644430,
     "wof:name":"Koritno",
     "wof:parent_id":1108959797,
     "wof:placetype":"locality",

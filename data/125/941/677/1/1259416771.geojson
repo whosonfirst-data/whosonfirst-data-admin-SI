@@ -23,8 +23,12 @@
     "gn:population":248,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.03056,46.72139,16.07056,46.76139",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Domajinci"
     ],
@@ -58,10 +62,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043c\u0430\u0457\u043d\u0446\u0456"
     ],
-    "name:und_x_variant":[
-        "Dombalja",
-        "Domajinci"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1259416771,
-    "wof:lastmodified":1564216815,
+    "wof:lastmodified":1566645184,
     "wof:name":"Domajinci",
     "wof:parent_id":1108959707,
     "wof:placetype":"locality",

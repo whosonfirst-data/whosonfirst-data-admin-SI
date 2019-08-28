@@ -22,8 +22,12 @@
     "gn:population":51,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.2953,45.49228,15.3353,45.53228",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gorenjci pri Adle\u0161i\u010dih"
     ],
@@ -44,9 +48,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0440\u0435\u043d\u044c\u0446\u0456-\u043f\u0440\u0438-\u0410\u0434\u043b\u0435\u0448\u0438\u0447\u0438\u0445"
-    ],
-    "name:und_x_variant":[
-        "Gorenjci pri Adle\u0161i\u010dih"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1293705443,
-    "wof:lastmodified":1564215881,
+    "wof:lastmodified":1566644501,
     "wof:name":"Gorenjci pri Adlesicih",
     "wof:parent_id":1108959699,
     "wof:placetype":"locality",

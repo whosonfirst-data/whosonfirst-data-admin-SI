@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.88268,45.83775,13.92268,45.87775",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Dolenja Vas"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1226655565,
-    "wof:lastmodified":1564216994,
+    "wof:lastmodified":1566645303,
     "wof:name":"Dolenja vas",
     "wof:parent_id":1108959545,
     "wof:placetype":"locality",

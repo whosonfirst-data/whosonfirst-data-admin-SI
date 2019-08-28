@@ -23,8 +23,12 @@
     "gn:population":79,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.31769,45.91766,15.35769,45.95766",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dolenje Radulje"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1293620163,
-    "wof:lastmodified":1564215859,
+    "wof:lastmodified":1566644487,
     "wof:name":"Dolenje Radulje",
     "wof:parent_id":1108959605,
     "wof:placetype":"locality",

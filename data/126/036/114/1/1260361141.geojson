@@ -23,8 +23,12 @@
     "gn:population":83,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.25761,45.46161,15.29761,45.50161",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Podklanec"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1260361141,
-    "wof:lastmodified":1564216272,
+    "wof:lastmodified":1566644761,
     "wof:name":"Podklanec",
     "wof:parent_id":1108959699,
     "wof:placetype":"locality",

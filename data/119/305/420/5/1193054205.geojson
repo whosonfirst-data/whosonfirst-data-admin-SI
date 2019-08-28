@@ -23,8 +23,12 @@
     "gn:population":245,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.15806,46.66028,16.19806,46.70028",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Nem\u010davci"
     ],
@@ -59,10 +63,8 @@
         "\u041d\u0435\u043c\u0447\u0430\u0432\u0446\u0456"
     ],
     "name:und_x_variant":[
-        "Lendvanemesd",
         "Nem\u010devci",
-        "Nemesd",
-        "Nem\u010davci"
+        "Nemesd"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":1193054205,
-    "wof:lastmodified":1564216247,
+    "wof:lastmodified":1566644745,
     "wof:name":"Nemcavci",
     "wof:parent_id":1108959483,
     "wof:placetype":"locality",

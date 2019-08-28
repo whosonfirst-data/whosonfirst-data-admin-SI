@@ -23,8 +23,12 @@
     "gn:population":97,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.81633,46.49119,15.85633,46.53119",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Stra\u017ee"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0440\u0430\u0436\u0435"
-    ],
-    "name:und_x_variant":[
-        "Stra\u017ee"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1243590409,
-    "wof:lastmodified":1564216721,
+    "wof:lastmodified":1566645122,
     "wof:name":"Straze",
     "wof:parent_id":1108959477,
     "wof:placetype":"locality",

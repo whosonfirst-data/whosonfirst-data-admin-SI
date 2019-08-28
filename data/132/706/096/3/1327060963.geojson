@@ -23,8 +23,12 @@
     "gn:population":55,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.19957,45.63705,15.23957,45.67705",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Omota"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1327060963,
-    "wof:lastmodified":1564215583,
+    "wof:lastmodified":1566644298,
     "wof:name":"Omota",
     "wof:parent_id":1108959601,
     "wof:placetype":"locality",

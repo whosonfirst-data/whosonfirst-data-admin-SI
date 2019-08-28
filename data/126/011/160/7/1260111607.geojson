@@ -23,8 +23,12 @@
     "gn:population":356,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.09614,46.18841,15.13614,46.22841",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Matke"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1260111607,
-    "wof:lastmodified":1564216286,
+    "wof:lastmodified":1566644770,
     "wof:name":"Matke",
     "wof:parent_id":1108959713,
     "wof:placetype":"locality",

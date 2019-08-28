@@ -23,8 +23,12 @@
     "gn:population":334,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.10511,46.03903,15.14511,46.07903",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Jagnjenica"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1210052369,
-    "wof:lastmodified":1564216234,
+    "wof:lastmodified":1566644735,
     "wof:name":"Jagnjenica",
     "wof:parent_id":1108959883,
     "wof:placetype":"locality",

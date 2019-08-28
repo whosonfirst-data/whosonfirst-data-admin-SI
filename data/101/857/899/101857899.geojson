@@ -11,12 +11,16 @@
     "geom:longitude":15.396429,
     "gn:population":116,
     "iso:country":"SI",
+    "lbl:bbox":"15.376429,46.1166,15.416429,46.1566",
     "lbl:latitude":46.1366,
     "lbl:longitude":15.396429,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":46.1366,
     "mps:longitude":15.396429,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dobje pri Planini"
     ],
@@ -53,7 +57,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u0431\u0454-\u043f\u0440\u0438-\u041f\u043b\u0430\u043d\u0438\u043d\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dobje"
     ],
     "qs:a0":"Slovenija",
@@ -72,7 +76,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":226,
     "wof:belongsto":[
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":3201988,
         "gp:id":55851395,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q2751186",
         "wk:page":"Dobje pri Planini"
     },
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":101857899,
-    "wof:lastmodified":1563576945,
+    "wof:lastmodified":1566644987,
     "wof:name":"Dobje pri Planini",
     "wof:parent_id":1108959685,
     "wof:placetype":"locality",

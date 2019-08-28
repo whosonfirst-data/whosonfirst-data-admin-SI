@@ -23,8 +23,12 @@
     "gn:population":11,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.5325,45.79472,14.5725,45.83472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Naredi"
     ],
@@ -44,8 +48,7 @@
         "\u041d\u0430\u0440\u0435\u0434\u0438"
     ],
     "name:und_x_variant":[
-        "Narede",
-        "Naredi"
+        "Narede"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1209140999,
-    "wof:lastmodified":1564216154,
+    "wof:lastmodified":1566644683,
     "wof:name":"Naredi",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":64,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.81333,46.21333,14.85333,46.25333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Okrog pri Motniku"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1326966483,
-    "wof:lastmodified":1564215684,
+    "wof:lastmodified":1566644361,
     "wof:name":"Okrog pri Motniku",
     "wof:parent_id":1108959941,
     "wof:placetype":"locality",

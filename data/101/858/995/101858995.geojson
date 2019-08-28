@@ -11,12 +11,16 @@
     "geom:longitude":15.784752,
     "gn:population":385,
     "iso:country":"SI",
+    "lbl:bbox":"15.764752,46.586685,15.804752,46.626685",
     "lbl:latitude":46.606685,
     "lbl:longitude":15.784752,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":46.606685,
     "mps:longitude":15.784752,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Jurovski Dol"
     ],
@@ -44,7 +48,7 @@
     "name:ukr_x_preferred":[
         "\u042e\u0440\u043e\u0432\u0441\u044c\u043a\u0438\u0439 \u0414\u043e\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sveti Jurij v Slovenske Gorice"
     ],
     "qs:a0":"Slovenija",
@@ -63,7 +67,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":120,
     "wof:belongsto":[
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3198533,
         "gp:id":530356,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q2643657"
     },
     "wof:country":"SI",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":101858995,
-    "wof:lastmodified":1563576962,
+    "wof:lastmodified":1566644992,
     "wof:name":"Jurovski Dol",
     "wof:parent_id":1108959815,
     "wof:placetype":"locality",

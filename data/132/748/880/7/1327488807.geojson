@@ -23,8 +23,12 @@
     "gn:population":543,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.01889,46.54111,15.05889,46.58111",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u0160entjan\u017e pri Dravogradu"
     ],
@@ -53,8 +57,7 @@
         "\u0428\u0435\u043d\u0442\u044f\u043d\u0436-\u043f\u0440\u0438-\u0414\u0440\u0430\u0432\u043e\u0433\u0440\u0430\u0434\u0443"
     ],
     "name:und_x_variant":[
-        "\u0160ent Jan\u017e",
-        "\u0160entjan\u017e pri Dravogradu"
+        "\u0160ent Jan\u017e"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1327488807,
-    "wof:lastmodified":1564215648,
+    "wof:lastmodified":1566644338,
     "wof:name":"Sentjanz pri Dravogradu",
     "wof:parent_id":1108959495,
     "wof:placetype":"locality",

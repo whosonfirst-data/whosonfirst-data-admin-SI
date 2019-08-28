@@ -23,8 +23,12 @@
     "gn:population":43,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.34853,45.90627,15.38853,45.94627",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vrh pri Povr\u0161ju"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0440\u0445-\u043f\u0440\u0438-\u041f\u043e\u0432\u0440\u0448\u044e"
-    ],
-    "name:und_x_variant":[
-        "Vrh pri Povr\u0161ju"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1293723501,
-    "wof:lastmodified":1564215971,
+    "wof:lastmodified":1566644562,
     "wof:name":"Vrh pri Povrsju",
     "wof:parent_id":1108959473,
     "wof:placetype":"locality",

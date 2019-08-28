@@ -9,15 +9,18 @@
     "geom:bbox":"13.7163,46.49777,13.7163,46.49777",
     "geom:latitude":46.49777,
     "geom:longitude":13.7163,
-    "gn:gn_country":"SI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":644,
+    "gn:country":"SI",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SI",
+    "lbl:bbox":"13.6963,46.47777,13.7363,46.51777",
     "lbl:latitude":46.49777,
     "lbl:longitude":13.7163,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Rate\u010de"
@@ -64,7 +67,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0442\u0435\u0447\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Raschach"
     ],
     "qs_pg:aaroncc":"SI",
@@ -88,7 +91,7 @@
     "qs_pg:woe_adm0":23424945,
     "qs_pg:woe_id":531332,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424945,
     "woe:name_adm0":"Slovenija",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1125806551,
-    "wof:lastmodified":1563577095,
+    "wof:lastmodified":1566645054,
     "wof:name":"Rate\u010de",
     "wof:parent_id":1108959843,
     "wof:placetype":"locality",

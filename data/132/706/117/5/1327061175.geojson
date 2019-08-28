@@ -23,8 +23,12 @@
     "gn:population":22,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.03196,45.47576,15.07196,45.51576",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dol"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1327061175,
-    "wof:lastmodified":1564215586,
+    "wof:lastmodified":1566644301,
     "wof:name":"Dol",
     "wof:parent_id":1108959919,
     "wof:placetype":"locality",

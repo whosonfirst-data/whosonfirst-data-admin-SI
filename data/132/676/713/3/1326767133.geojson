@@ -23,8 +23,12 @@
     "gn:population":289,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.03333,46.44583,14.07333,46.48583",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Planina pod Golico"
     ],
@@ -55,8 +59,7 @@
     "name:und_x_variant":[
         "Sveti Kri\u017e",
         "Planina",
-        "Planina pod Gorico",
-        "Planina pod Golico"
+        "Planina pod Gorico"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1326767133,
-    "wof:lastmodified":1564215660,
+    "wof:lastmodified":1566644346,
     "wof:name":"Planina pod Golico",
     "wof:parent_id":1108959875,
     "wof:placetype":"locality",

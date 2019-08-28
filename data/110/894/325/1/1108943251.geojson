@@ -10,8 +10,10 @@
     "geom:latitude":46.042518,
     "geom:longitude":14.559374,
     "iso:country":"SI",
+    "lbl:bbox":"14.5543739535,46.0375177332,14.5643739535,46.0475177332",
     "lbl:latitude":46.042518,
     "lbl:longitude":14.559374,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,13 +26,13 @@
     "name:slv_x_preferred":[
         "Spodnja Hru\u0161ica"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        1108959949,
         102191581,
         1108959501,
         85633779,
-        101752073
+        101752073,
+        1108959949
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +50,7 @@
         }
     ],
     "wof:id":1108943251,
-    "wof:lastmodified":1531170286,
+    "wof:lastmodified":1566644886,
     "wof:name":"Spodnja Hrusica",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",

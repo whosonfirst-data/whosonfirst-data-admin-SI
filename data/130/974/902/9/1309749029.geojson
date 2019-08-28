@@ -23,8 +23,12 @@
     "gn:population":235,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.39667,46.16333,14.43667,46.20333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Mo\u0161e"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0448\u0435"
-    ],
-    "name:und_x_variant":[
-        "Mo\u0161e"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1309749029,
-    "wof:lastmodified":1564216623,
+    "wof:lastmodified":1566645026,
     "wof:name":"Mose",
     "wof:parent_id":1108959881,
     "wof:placetype":"locality",

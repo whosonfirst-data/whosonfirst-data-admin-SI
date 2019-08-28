@@ -12,8 +12,11 @@
     "iso:country":"SI",
     "lbl:latitude":46.727982,
     "lbl:longitude":16.135156,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Puconci"
     ],
@@ -75,7 +78,7 @@
         "\u666e\u806a\u9f50"
     ],
     "src:geom":"svn-sma",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1108959935,
-    "wof:lastmodified":1564216400,
+    "wof:lastmodified":1566644852,
     "wof:name":"Puconci",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",

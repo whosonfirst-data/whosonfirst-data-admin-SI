@@ -23,8 +23,12 @@
     "gn:population":111,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.4317,46.12865,15.4717,46.16865",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ko\u0161nica"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0448\u043d\u0438\u0446\u044f"
-    ],
-    "name:und_x_variant":[
-        "Ko\u0161nica"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1276690063,
-    "wof:lastmodified":1564216009,
+    "wof:lastmodified":1566644588,
     "wof:name":"Kosnica",
     "wof:parent_id":1108959791,
     "wof:placetype":"locality",

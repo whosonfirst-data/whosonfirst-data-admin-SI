@@ -23,8 +23,12 @@
     "gn:population":7,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.6327,45.76747,14.6727,45.80747",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ga\u0161pinovo"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0448\u043f\u0438\u043d\u043e\u0432\u043e"
-    ],
-    "name:und_x_variant":[
-        "Ga\u0161pinovo"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1276796243,
-    "wof:lastmodified":1564216056,
+    "wof:lastmodified":1566644618,
     "wof:name":"Gaspinovo",
     "wof:parent_id":1108959599,
     "wof:placetype":"locality",

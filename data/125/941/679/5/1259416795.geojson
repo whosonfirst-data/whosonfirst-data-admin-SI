@@ -23,8 +23,12 @@
     "gn:population":93,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.6223,46.05696,15.6623,46.09696",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Srebrnik"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1259416795,
-    "wof:lastmodified":1564216814,
+    "wof:lastmodified":1566645184,
     "wof:name":"Srebrnik",
     "wof:parent_id":1108959915,
     "wof:placetype":"locality",

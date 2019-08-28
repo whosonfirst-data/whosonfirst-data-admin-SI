@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":45.644317,
     "lbl:longitude":14.858098,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.644317,
     "mps:longitude":14.858098,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u0447\u044d\u045e\u0435"
     ],
@@ -126,15 +129,6 @@
     "name:und_x_colloquial":[
         "Kocevje"
     ],
-    "name:und_x_preferred":[
-        "Ko\u010devje"
-    ],
-    "name:und_x_variant":[
-        "Gottschee"
-    ],
-    "name:unk_x_variant":[
-        "Gottschee"
-    ],
     "name:zho_x_preferred":[
         "\u79d1\u5207\u7dad"
     ],
@@ -154,7 +148,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":465.0,
     "wd:latitude":46.643056,
@@ -171,7 +165,6 @@
         "fct:id":"06f29d6c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3197943,
         "gp:id":530423,
-        "qs:id":54109,
         "qs_pg:id":54109,
         "wd:id":"Q12958961",
         "wk:page":"Ko\u010devje"
@@ -191,7 +184,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563576976,
+    "wof:lastmodified":1566644996,
     "wof:name":"Ko\u010devje",
     "wof:parent_id":1108959919,
     "wof:placetype":"locality",

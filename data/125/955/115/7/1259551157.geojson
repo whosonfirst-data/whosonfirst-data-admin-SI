@@ -23,8 +23,12 @@
     "gn:population":869,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.01278,46.55389,15.05278,46.59389",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Oti\u0161ki Vrh"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041e\u0442\u0438\u0448\u043a\u0438\u0439 \u0412\u0440\u0445"
-    ],
-    "name:und_x_variant":[
-        "Oti\u0161ki Vrh"
     ],
     "name:zho_x_preferred":[
         "\u5967\u63d0\u65af\u57fa\u7dad\u723e"
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1259551157,
-    "wof:lastmodified":1564216803,
+    "wof:lastmodified":1566645175,
     "wof:name":"Otiski Vrh",
     "wof:parent_id":1108959495,
     "wof:placetype":"locality",

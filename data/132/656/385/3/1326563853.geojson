@@ -23,8 +23,12 @@
     "gn:population":130,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.11333,46.23,15.15333,46.27",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Zgornje Roje"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1326563853,
-    "wof:lastmodified":1564215623,
+    "wof:lastmodified":1566644322,
     "wof:name":"Zgornje Roje",
     "wof:parent_id":1108959929,
     "wof:placetype":"locality",

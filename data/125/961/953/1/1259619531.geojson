@@ -23,8 +23,12 @@
     "gn:population":143,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.51167,45.89743,15.55167,45.93743",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vihre"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1259619531,
-    "wof:lastmodified":1564216833,
+    "wof:lastmodified":1566645195,
     "wof:name":"Vihre",
     "wof:parent_id":1108959473,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":246,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.375,46.335,15.415,46.375",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ze\u010de"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0417\u0435\u0447\u0435"
-    ],
-    "name:und_x_variant":[
-        "Ze\u010de"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1310040267,
-    "wof:lastmodified":1564216521,
+    "wof:lastmodified":1566644930,
     "wof:name":"Zece",
     "wof:parent_id":1108959753,
     "wof:placetype":"locality",

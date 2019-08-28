@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":46.452814,
     "lbl:longitude":15.675791,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.452814,
     "mps:longitude":15.675791,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ra\u010de"
     ],
@@ -50,7 +53,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0447\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kranichsfeld"
     ],
     "qs:a0":"Slovenija",
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":149,
     "wof:belongsto":[
@@ -82,7 +85,6 @@
     "wof:concordances":{
         "gn:id":3192165,
         "gp:id":531288,
-        "qs:id":1043963,
         "qs_pg:id":1043963,
         "wd:id":"Q2311705",
         "wk:page":"Ra\u010de"
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":101791169,
-    "wof:lastmodified":1563576894,
+    "wof:lastmodified":1566644970,
     "wof:name":"Ra\u010de",
     "wof:parent_id":1108959589,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":181,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.79825,46.65407,15.83825,46.69407",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ro\u017eengrunt"
     ],
@@ -47,8 +51,7 @@
         "\u0420\u043e\u0436\u0435\u043d\u0433\u0440\u0443\u043d\u0442"
     ],
     "name:und_x_variant":[
-        "Ro\u017eengrund",
-        "Ro\u017eengrunt"
+        "Ro\u017eengrund"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1259818285,
-    "wof:lastmodified":1564216861,
+    "wof:lastmodified":1566645214,
     "wof:name":"Rozengrunt",
     "wof:parent_id":1108959709,
     "wof:placetype":"locality",

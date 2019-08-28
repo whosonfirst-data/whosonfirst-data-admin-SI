@@ -12,10 +12,13 @@
     "iso:country":"SI",
     "lbl:latitude":46.675336,
     "lbl:longitude":15.657956,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.675336,
     "mps:longitude":15.657956,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "\u0160entilj v Slovenskih goricah"
     ],
@@ -73,7 +76,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0435\u043d\u0442\u0438\u043b\u044c-\u0432-\u0421\u043b\u043e\u0432\u0435\u043d\u0441\u044c\u043a\u0438\u0445 \u0413\u043e\u0440\u0438\u0446\u044f\u0445"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sveti Ilj"
     ],
     "qs:a0":"Slovenija",
@@ -92,7 +95,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":118,
     "wof:belongsto":[
         102191581,
@@ -104,10 +107,12 @@
     "wof:concordances":{
         "gn:id":3191039,
         "gp:id":531497,
-        "qs:id":988370,
-        "qs_pg:id":1043930,
+        "qs_pg:id":988370,
         "wd:id":"Q283389",
         "wk:page":"\u0160entilj v Slovenskih Goricah"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1043930
     },
     "wof:country":"SI",
     "wof:geomhash":"30f095824dc42926aa2d7bfaa104aee4",
@@ -121,7 +126,7 @@
         }
     ],
     "wof:id":101845289,
-    "wof:lastmodified":1563576911,
+    "wof:lastmodified":1566644977,
     "wof:name":"\u0160entilj v Slov. goricah",
     "wof:parent_id":1108959565,
     "wof:placetype":"locality",

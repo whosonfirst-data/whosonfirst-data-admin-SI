@@ -23,8 +23,12 @@
     "gn:population":44,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.08302,45.79968,15.12302,45.83968",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Suhor"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1276478791,
-    "wof:lastmodified":1564216039,
+    "wof:lastmodified":1566644608,
     "wof:name":"Suhor",
     "wof:parent_id":1108959465,
     "wof:placetype":"locality",

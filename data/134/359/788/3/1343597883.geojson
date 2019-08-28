@@ -23,8 +23,12 @@
     "gn:population":49,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.23575,46.34969,14.27575,46.38969",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Hudi Graben"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1343597883,
-    "wof:lastmodified":1564215783,
+    "wof:lastmodified":1566644429,
     "wof:name":"Hudi Graben",
     "wof:parent_id":1108959917,
     "wof:placetype":"locality",

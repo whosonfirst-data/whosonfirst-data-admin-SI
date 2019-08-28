@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":46.517407,
     "lbl:longitude":15.725658,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.517407,
     "mps:longitude":15.725658,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Zgornji Duplek"
     ],
@@ -64,7 +67,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":96,
     "wof:belongsto":[
@@ -77,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3186494,
         "gp:id":532325,
-        "qs:id":926601,
+        "qs_pg:id":926601,
         "wd:id":"Q2806140",
         "wk:page":"Zgornji Duplek"
     },
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101791167,
-    "wof:lastmodified":1563576892,
+    "wof:lastmodified":1566644970,
     "wof:name":"Zgornji Duplek",
     "wof:parent_id":1108959529,
     "wof:placetype":"locality",

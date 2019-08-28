@@ -23,8 +23,12 @@
     "gn:population":228,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.32076,45.52901,14.36076,45.56901",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kute\u017eevo"
     ],
@@ -50,8 +54,7 @@
         "\u041a\u0443\u0442\u0435\u0436\u0435\u0432\u043e"
     ],
     "name:und_x_variant":[
-        "Cott\u00e9sevo",
-        "Kute\u017eevo"
+        "Cott\u00e9sevo"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1276162129,
-    "wof:lastmodified":1564216006,
+    "wof:lastmodified":1566644586,
     "wof:name":"Kutezevo",
     "wof:parent_id":1108959873,
     "wof:placetype":"locality",

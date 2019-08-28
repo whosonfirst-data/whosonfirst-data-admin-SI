@@ -23,8 +23,12 @@
     "gn:population":88,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.96847,45.77676,14.00847,45.81676",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Hra\u0161\u010de"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0430\u0449\u0435"
-    ],
-    "name:und_x_variant":[
-        "Hra\u0161\u010de"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1260116907,
-    "wof:lastmodified":1564216294,
+    "wof:lastmodified":1566644776,
     "wof:name":"Hrasce",
     "wof:parent_id":1108959623,
     "wof:placetype":"locality",

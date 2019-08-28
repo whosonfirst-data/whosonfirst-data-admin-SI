@@ -23,8 +23,12 @@
     "gn:population":229,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.64667,46.01333,14.68667,46.05333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Besnica"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1327060775,
-    "wof:lastmodified":1564215582,
+    "wof:lastmodified":1566644298,
     "wof:name":"Besnica",
     "wof:parent_id":1108959501,
     "wof:placetype":"locality",

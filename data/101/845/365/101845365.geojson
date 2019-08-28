@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":46.16904,
     "lbl:longitude":14.688892,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":46.16904,
     "mps:longitude":14.688892,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Lukovica pri Dom\u017ealah"
     ],
@@ -75,9 +78,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0443\u043a\u043e\u0432\u0438\u0446\u044f-\u043f\u0440\u0438-\u0414\u043e\u043c\u0436\u0430\u043b\u0430\u0445"
     ],
-    "name:unk_x_variant":[
-        "Lukovica"
-    ],
     "name:vie_x_preferred":[
         "Lukovica"
     ],
@@ -97,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":116,
     "wof:belongsto":[
@@ -110,10 +110,12 @@
     "wof:concordances":{
         "gn:id":3196049,
         "gp:id":530697,
-        "qs:id":6,
-        "qs_pg:id":226840,
+        "qs_pg:id":6,
         "wd:id":"Q2189853",
         "wk:page":"Lukovica pri Dom\u017ealah"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":226840
     },
     "wof:country":"SI",
     "wof:geomhash":"2071da3ca109edd503e16d408aa09f1e",
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":101845365,
-    "wof:lastmodified":1563576908,
+    "wof:lastmodified":1566644976,
     "wof:name":"Lukovica pri Dom\u017ealah",
     "wof:parent_id":1108959807,
     "wof:placetype":"locality",

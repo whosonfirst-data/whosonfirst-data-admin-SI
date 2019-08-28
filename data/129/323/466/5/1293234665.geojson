@@ -23,8 +23,12 @@
     "gn:population":79,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.48058,45.91283,15.52058,45.95283",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u017dadovinek"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0416\u0430\u0434\u043e\u0432\u0438\u043d\u0435\u043a"
-    ],
-    "name:und_x_variant":[
-        "\u017dadovinek"
     ],
     "name:urd_x_preferred":[
         "\u0698\u0627\u0688\u0648\u0648\u06cc\u0646\u06a9"
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1293234665,
-    "wof:lastmodified":1564215890,
+    "wof:lastmodified":1566644507,
     "wof:name":"Zadovinek",
     "wof:parent_id":1108959473,
     "wof:placetype":"locality",

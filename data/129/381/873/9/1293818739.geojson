@@ -23,8 +23,12 @@
     "gn:population":101,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.68866,46.08501,14.72866,46.12501",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Zagorica pri Dolskem"
     ],
@@ -50,8 +54,7 @@
         "\u0417\u0430\u0433\u043e\u0440\u0438\u0446\u044f-\u043f\u0440\u0438-\u0414\u043e\u043b\u0441\u043a\u0435\u043c"
     ],
     "name:und_x_variant":[
-        "Zagorica",
-        "Zagorica pri Dolskem"
+        "Zagorica"
     ],
     "name:urd_x_preferred":[
         "\u0632\u06af\u0648\u0631\u06a9\u0627\u067e\u0631 \u062f\u0648\u0644\u0633\u06a9\u0645"
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1293818739,
-    "wof:lastmodified":1564215960,
+    "wof:lastmodified":1566644554,
     "wof:name":"Zagorica pri Dolskem",
     "wof:parent_id":1108959861,
     "wof:placetype":"locality",

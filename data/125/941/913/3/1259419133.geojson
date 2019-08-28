@@ -23,8 +23,12 @@
     "gn:population":70,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.85278,45.56111,13.89278,45.60111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kastelec"
     ],
@@ -48,10 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0441\u0442\u0435\u043b\u0435\u0446\u044c"
-    ],
-    "name:und_x_variant":[
-        "Castel",
-        "Kastelec"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":1259419133,
-    "wof:lastmodified":1564216811,
+    "wof:lastmodified":1566645181,
     "wof:name":"Kastelec",
     "wof:parent_id":1108959527,
     "wof:placetype":"locality",

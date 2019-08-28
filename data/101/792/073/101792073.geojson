@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":46.14849,
     "lbl:longitude":15.083595,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.14849,
     "mps:longitude":15.083595,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0647\u0631\u0627\u0633\u062a\u0646\u064a\u0643"
     ],
@@ -107,15 +110,6 @@
     "name:ukr_x_preferred":[
         "\u0425\u0440\u0430\u0441\u0442\u043d\u0438\u043a"
     ],
-    "name:und_x_preferred":[
-        "Hrastnik"
-    ],
-    "name:und_x_variant":[
-        "Hrastnigg"
-    ],
-    "name:unk_x_variant":[
-        "Hrastnigg"
-    ],
     "name:vie_x_preferred":[
         "Hrastnik"
     ],
@@ -138,7 +132,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":46.133333,
     "wd:longitude":15.1,
@@ -154,7 +148,6 @@
         "fct:id":"06f2819c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3199297,
         "gp:id":530235,
-        "qs:id":502095,
         "qs_pg:id":502095,
         "wd:id":"Q15871"
     },
@@ -173,7 +166,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577001,
+    "wof:lastmodified":1566645003,
     "wof:name":"Hrastnik",
     "wof:parent_id":1108959571,
     "wof:placetype":"locality",

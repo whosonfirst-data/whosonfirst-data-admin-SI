@@ -23,8 +23,12 @@
     "gn:population":28,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.17139,45.55417,14.21139,45.59417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Brce"
     ],
@@ -53,8 +57,7 @@
         "\u0411\u0440\u0446\u0435"
     ],
     "name:und_x_variant":[
-        "Berze di Torrenova",
-        "Brce"
+        "Berze di Torrenova"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1243492935,
-    "wof:lastmodified":1564216716,
+    "wof:lastmodified":1566645119,
     "wof:name":"Brce",
     "wof:parent_id":1108959873,
     "wof:placetype":"locality",

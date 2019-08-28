@@ -12,8 +12,11 @@
     "iso:country":"SI",
     "lbl:latitude":46.258687,
     "lbl:longitude":14.627839,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0645\u0646\u064a\u0643"
     ],
@@ -126,7 +129,7 @@
         "\u5361\u59c6\u5c3c\u514b"
     ],
     "src:geom":"svn-sma",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":1108959941,
-    "wof:lastmodified":1564216410,
+    "wof:lastmodified":1566644862,
     "wof:name":"Kamnik",
     "wof:parent_id":1108959949,
     "wof:placetype":"localadmin",

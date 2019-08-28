@@ -11,12 +11,16 @@
     "geom:longitude":15.94339,
     "gn:population":135,
     "iso:country":"SI",
+    "lbl:bbox":"15.92339,46.546333,15.96339,46.586333",
     "lbl:latitude":46.566333,
     "lbl:longitude":15.94339,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":46.566333,
     "mps:longitude":15.94339,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Cerkvenjak"
     ],
@@ -83,7 +87,7 @@
     "name:ukr_x_preferred":[
         "\u0426\u0435\u0440\u043a\u0432\u0435\u043d\u044f\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sveti Anton"
     ],
     "name:urd_x_preferred":[
@@ -108,7 +112,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -120,7 +124,7 @@
     "wof:concordances":{
         "gn:id":3202704,
         "gp:id":55851750,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q511695"
     },
     "wof:country":"SI",
@@ -135,7 +139,7 @@
         }
     ],
     "wof:id":101858979,
-    "wof:lastmodified":1563576961,
+    "wof:lastmodified":1566644992,
     "wof:name":"Cerkvenjak",
     "wof:parent_id":1108959703,
     "wof:placetype":"locality",

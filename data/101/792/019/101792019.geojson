@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":46.046753,
     "lbl:longitude":14.840365,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.046753,
     "mps:longitude":14.840365,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0645\u0627\u0631\u062a\u0646\u0648 \u0628\u0631\u064a \u0644\u064a\u062a\u064a\u064a\u0647"
     ],
@@ -137,7 +140,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u043c\u0430\u0440\u0442\u043d\u043e-\u043f\u0440\u0438-\u041b\u0456\u0442\u0456\u0457"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u0160martno"
     ],
     "name:urd_x_preferred":[
@@ -163,7 +166,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":337,
     "wof:belongsto":[
@@ -176,7 +179,7 @@
     "wof:concordances":{
         "gn:id":3190495,
         "gp:id":531597,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q392192",
         "wk:page":"\u0160martno pri Litiji"
     },
@@ -192,7 +195,7 @@
         }
     ],
     "wof:id":101792019,
-    "wof:lastmodified":1563577005,
+    "wof:lastmodified":1566645004,
     "wof:name":"\u0160martno pri Litiji",
     "wof:parent_id":1108959745,
     "wof:placetype":"locality",

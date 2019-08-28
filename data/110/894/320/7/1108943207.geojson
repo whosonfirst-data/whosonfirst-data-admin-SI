@@ -10,8 +10,10 @@
     "geom:latitude":46.042716,
     "geom:longitude":14.458952,
     "iso:country":"SI",
+    "lbl:bbox":"14.4539519974,46.0377163235,14.4639519974,46.0477163235",
     "lbl:latitude":46.042716,
     "lbl:longitude":14.458952,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -42,7 +44,7 @@
     "name:srp_x_preferred":[
         "\u0412\u0440\u0445\u043e\u0432\u0446\u0438"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1108959501,
@@ -66,7 +68,7 @@
         }
     ],
     "wof:id":1108943207,
-    "wof:lastmodified":1564216446,
+    "wof:lastmodified":1566644888,
     "wof:name":"Vrhovci",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",

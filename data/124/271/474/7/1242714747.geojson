@@ -23,8 +23,12 @@
     "gn:population":95,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.99419,46.15115,15.03419,46.19115",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Sveta Planina"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1242714747,
-    "wof:lastmodified":1564216746,
+    "wof:lastmodified":1566645138,
     "wof:name":"Sveta Planina",
     "wof:parent_id":1108959911,
     "wof:placetype":"locality",

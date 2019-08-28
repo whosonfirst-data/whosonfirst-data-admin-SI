@@ -23,8 +23,12 @@
     "gn:population":64,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.97195,45.93882,15.01195,45.97882",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Goljek"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1293623309,
-    "wof:lastmodified":1564215854,
+    "wof:lastmodified":1566644484,
     "wof:name":"Goljek",
     "wof:parent_id":1108959839,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":49,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.00028,45.70361,14.04028,45.74361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Poto\u010de"
     ],
@@ -46,8 +50,7 @@
     "name:und_x_variant":[
         "Potocco",
         "Pototsche",
-        "Potocce di Villabassa",
-        "Poto\u010de"
+        "Potocce di Villabassa"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1310071097,
-    "wof:lastmodified":1564216487,
+    "wof:lastmodified":1566644911,
     "wof:name":"Potoce",
     "wof:parent_id":1108959845,
     "wof:placetype":"locality",

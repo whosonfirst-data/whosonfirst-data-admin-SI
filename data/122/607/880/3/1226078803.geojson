@@ -23,8 +23,12 @@
     "gn:population":31,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.17537,45.84987,15.21537,45.88987",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u0160travberk"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0428\u0442\u0440\u0430\u0432\u0431\u0435\u0440\u043a"
-    ],
-    "name:und_x_variant":[
-        "\u0160travberk"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1226078803,
-    "wof:lastmodified":1564216996,
+    "wof:lastmodified":1566645305,
     "wof:name":"Stravberk",
     "wof:parent_id":1108959465,
     "wof:placetype":"locality",

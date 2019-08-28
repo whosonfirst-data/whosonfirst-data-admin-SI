@@ -23,8 +23,12 @@
     "gn:population":7,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.37959,45.9532,15.41959,45.9932",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dalce"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1209249489,
-    "wof:lastmodified":1564216135,
+    "wof:lastmodified":1566644670,
     "wof:name":"Dalce",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

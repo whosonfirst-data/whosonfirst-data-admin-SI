@@ -23,8 +23,12 @@
     "gn:population":183,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.08131,45.78874,15.12131,45.82874",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Podgora"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1343888969,
-    "wof:lastmodified":1564215835,
+    "wof:lastmodified":1566644464,
     "wof:name":"Podgora",
     "wof:parent_id":1108959793,
     "wof:placetype":"locality",

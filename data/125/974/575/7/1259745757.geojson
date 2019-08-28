@@ -23,8 +23,12 @@
     "gn:population":34,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.99263,45.64829,14.03263,45.68829",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gori\u010de pri Famljah"
     ],
@@ -45,8 +49,7 @@
     ],
     "name:und_x_variant":[
         "Goricce del Timavo",
-        "Gori\u010de",
-        "Gori\u010de pri Famljah"
+        "Gori\u010de"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1259745757,
-    "wof:lastmodified":1564216856,
+    "wof:lastmodified":1566645211,
     "wof:name":"Gorice pri Famljah",
     "wof:parent_id":1108959845,
     "wof:placetype":"locality",

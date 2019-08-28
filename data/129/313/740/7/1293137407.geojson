@@ -22,8 +22,12 @@
     "gn:population":536,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.37582,46.09541,14.41582,46.13541",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u017dlebe"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1293137407,
-    "wof:lastmodified":1564215904,
+    "wof:lastmodified":1566644517,
     "wof:name":"",
     "wof:parent_id":1108959881,
     "wof:placetype":"locality",

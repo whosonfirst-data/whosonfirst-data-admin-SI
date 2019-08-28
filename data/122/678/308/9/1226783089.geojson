@@ -23,8 +23,12 @@
     "gn:population":168,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.61526,46.40311,15.65526,46.44311",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Sele pri Polskavi"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1226783089,
-    "wof:lastmodified":1564216961,
+    "wof:lastmodified":1566645279,
     "wof:name":"Sele pri Polskavi",
     "wof:parent_id":1108959641,
     "wof:placetype":"locality",

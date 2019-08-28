@@ -23,8 +23,12 @@
     "gn:population":40,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.69871,45.9751,13.73871,46.0151",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Podgozd"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1225787459,
-    "wof:lastmodified":1564217004,
+    "wof:lastmodified":1566645311,
     "wof:name":"Podgozd",
     "wof:parent_id":1108959487,
     "wof:placetype":"locality",

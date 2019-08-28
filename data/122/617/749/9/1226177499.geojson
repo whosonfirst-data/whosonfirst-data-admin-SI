@@ -23,8 +23,12 @@
     "gn:population":274,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.0046,46.21988,15.0446,46.25988",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ojstri\u0161ka Vas"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041e\u0439\u0441\u0442\u0440\u0438\u0448\u043a\u0430 \u0412\u0430\u0441"
-    ],
-    "name:und_x_variant":[
-        "Ojstri\u0161ka Vas"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1226177499,
-    "wof:lastmodified":1564216878,
+    "wof:lastmodified":1566645225,
     "wof:name":"Ojstriska Vas",
     "wof:parent_id":1108959715,
     "wof:placetype":"locality",

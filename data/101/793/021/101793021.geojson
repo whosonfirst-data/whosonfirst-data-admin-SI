@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":45.887088,
     "lbl:longitude":13.907637,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.887088,
     "mps:longitude":13.907637,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0622\u064a\u062f\u0648\u0634\u062a\u0634\u064a\u0646\u0627"
     ],
@@ -110,7 +113,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0439\u0434\u043e\u0432\u0449\u0438\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hajden\u0161aft"
     ],
     "name:urd_x_preferred":[
@@ -135,7 +138,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":106.0,
     "wd:latitude":45.887389,
@@ -152,7 +155,6 @@
     "wof:concordances":{
         "gn:id":3204854,
         "gp:id":529478,
-        "qs:id":226838,
         "qs_pg:id":226838,
         "wd:id":"Q15854",
         "wk:page":"Ajdov\u0161\u010dina"
@@ -169,7 +171,7 @@
         }
     ],
     "wof:id":101793021,
-    "wof:lastmodified":1563576973,
+    "wof:lastmodified":1566644995,
     "wof:name":"Ajdov\u0161\u010dina",
     "wof:parent_id":1108959545,
     "wof:placetype":"locality",

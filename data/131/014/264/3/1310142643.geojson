@@ -23,8 +23,12 @@
     "gn:population":46,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.84957,45.89276,14.88957,45.93276",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Sad"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1310142643,
-    "wof:lastmodified":1564216472,
+    "wof:lastmodified":1566644903,
     "wof:name":"Sad",
     "wof:parent_id":1108959583,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.95917,45.93639,13.99917,45.97639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310245005,
-    "wof:lastmodified":1536795402,
+    "wof:lastmodified":1566644893,
     "wof:name":"Majnik",
     "wof:parent_id":1108959535,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":124,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.47442,45.83704,15.51442,45.87704",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u0160utna"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0428\u0443\u0442\u043d\u0430"
-    ],
-    "name:und_x_variant":[
-        "\u0160utna"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1276912245,
-    "wof:lastmodified":1564216079,
+    "wof:lastmodified":1566644632,
     "wof:name":"Sutna",
     "wof:parent_id":1108959473,
     "wof:placetype":"locality",

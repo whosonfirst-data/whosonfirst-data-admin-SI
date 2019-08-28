@@ -23,8 +23,12 @@
     "gn:population":94,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.41196,45.81142,15.45196,45.85142",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dol\u0161ce"
     ],
@@ -52,9 +56,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043b\u0448\u0446\u0435"
     ],
-    "name:und_x_variant":[
-        "Dol\u0161ce"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1259819517,
-    "wof:lastmodified":1564216865,
+    "wof:lastmodified":1566645216,
     "wof:name":"Dolsce",
     "wof:parent_id":1108959835,
     "wof:placetype":"locality",

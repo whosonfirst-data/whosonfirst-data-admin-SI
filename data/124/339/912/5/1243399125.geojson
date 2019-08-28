@@ -23,8 +23,12 @@
     "gn:population":458,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.17861,45.94917,14.21861,45.98917",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Petkovec"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1243399125,
-    "wof:lastmodified":1564216677,
+    "wof:lastmodified":1566645091,
     "wof:name":"Petkovec",
     "wof:parent_id":1108959889,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":45,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.70694,46.59889,15.74694,46.63889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Slatenik"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1243103203,
-    "wof:lastmodified":1564216785,
+    "wof:lastmodified":1566645163,
     "wof:name":"Slatenik",
     "wof:parent_id":1108959553,
     "wof:placetype":"locality",

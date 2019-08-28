@@ -23,8 +23,12 @@
     "gn:population":111,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.0375,45.48778,15.0775,45.52778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Predgrad"
     ],
@@ -50,8 +54,7 @@
         "\u041f\u0440\u0435\u0434\u0433\u0440\u0430\u0434"
     ],
     "name:und_x_variant":[
-        "Pregrad",
-        "Predgrad"
+        "Pregrad"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1309939573,
-    "wof:lastmodified":1564216609,
+    "wof:lastmodified":1566645017,
     "wof:name":"Predgrad",
     "wof:parent_id":1108959919,
     "wof:placetype":"locality",

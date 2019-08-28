@@ -23,8 +23,12 @@
     "gn:population":331,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.23167,45.74111,15.27167,45.78111",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dol\u017e"
     ],
@@ -52,9 +56,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043b\u0436"
     ],
-    "name:und_x_variant":[
-        "Dol\u017e"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1293237075,
-    "wof:lastmodified":1564215883,
+    "wof:lastmodified":1566644503,
     "wof:name":"Dolz",
     "wof:parent_id":1108959465,
     "wof:placetype":"locality",

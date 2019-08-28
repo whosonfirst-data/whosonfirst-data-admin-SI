@@ -23,8 +23,12 @@
     "gn:population":74,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.3649,46.07713,15.4049,46.11713",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Viso\u010de"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0438\u0441\u043e\u0447\u0435"
-    ],
-    "name:und_x_variant":[
-        "Viso\u010de"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1310341793,
-    "wof:lastmodified":1564216530,
+    "wof:lastmodified":1566644936,
     "wof:name":"Visoce",
     "wof:parent_id":1108959791,
     "wof:placetype":"locality",

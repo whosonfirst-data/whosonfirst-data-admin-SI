@@ -23,8 +23,12 @@
     "gn:population":35,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.2461,46.10495,15.2861,46.14495",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Selo nad La\u0161kim"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1226476133,
-    "wof:lastmodified":1564216956,
+    "wof:lastmodified":1566645277,
     "wof:name":"Selo nad Laskim",
     "wof:parent_id":1108959879,
     "wof:placetype":"locality",

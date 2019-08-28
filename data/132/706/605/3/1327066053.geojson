@@ -23,8 +23,12 @@
     "gn:population":480,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.59083,45.86833,13.63083,45.90833",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1327066053,
-    "wof:lastmodified":1537573462,
+    "wof:lastmodified":1566644298,
     "wof:name":"Orehovlje",
     "wof:parent_id":1108959481,
     "wof:placetype":"locality",

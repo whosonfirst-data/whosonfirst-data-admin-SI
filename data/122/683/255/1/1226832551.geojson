@@ -23,8 +23,12 @@
     "gn:population":116,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.95603,46.07466,13.99603,46.11466",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Lazec"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1226832551,
-    "wof:lastmodified":1564216971,
+    "wof:lastmodified":1566645286,
     "wof:name":"Lazec",
     "wof:parent_id":1108959577,
     "wof:placetype":"locality",

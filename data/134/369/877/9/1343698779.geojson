@@ -23,8 +23,12 @@
     "gn:population":283,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.17059,46.84084,16.21059,46.88084",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u010cepinci"
     ],
@@ -54,9 +58,7 @@
     ],
     "name:und_x_variant":[
         "Marokr\u00e9t",
-        "\u010copinci",
-        "Kerkaf\u0151",
-        "\u010cepinci"
+        "\u010copinci"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":1343698779,
-    "wof:lastmodified":1564215793,
+    "wof:lastmodified":1566644436,
     "wof:name":"Cepinci",
     "wof:parent_id":1108959567,
     "wof:placetype":"locality",

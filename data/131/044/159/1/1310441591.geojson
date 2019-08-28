@@ -23,8 +23,12 @@
     "gn:population":237,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.59688,46.21325,15.63688,46.25325",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Topole"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1310441591,
-    "wof:lastmodified":1564216502,
+    "wof:lastmodified":1566644919,
     "wof:name":"Topole",
     "wof:parent_id":1108959803,
     "wof:placetype":"locality",

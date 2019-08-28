@@ -23,8 +23,12 @@
     "gn:population":156,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.70684,46.62725,15.74684,46.66725",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Zgornje Hlapje"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1343490979,
-    "wof:lastmodified":1564215766,
+    "wof:lastmodified":1566644416,
     "wof:name":"Zgornje Hlapje",
     "wof:parent_id":1108959553,
     "wof:placetype":"locality",

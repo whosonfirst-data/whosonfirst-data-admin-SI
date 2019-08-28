@@ -23,8 +23,12 @@
     "gn:population":135,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.22028,46.71306,16.26028,46.75306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ivanovci"
     ],
@@ -56,9 +60,7 @@
         "\u0406\u0432\u0430\u043d\u043e\u0432\u0446\u0456"
     ],
     "name:und_x_variant":[
-        "Szentbenedek",
-        "Als\u00f3szentbenedek",
-        "Ivanovci"
+        "Szentbenedek"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -85,7 +87,7 @@
         }
     ],
     "wof:id":1293237375,
-    "wof:lastmodified":1564215882,
+    "wof:lastmodified":1566644502,
     "wof:name":"Ivanovci",
     "wof:parent_id":1108959925,
     "wof:placetype":"locality",

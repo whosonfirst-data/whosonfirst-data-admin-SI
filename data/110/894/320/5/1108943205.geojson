@@ -10,8 +10,10 @@
     "geom:latitude":46.041326,
     "geom:longitude":14.445105,
     "iso:country":"SI",
+    "lbl:bbox":"14.4401046394,46.0363261763,14.4501046394,46.0463261763",
     "lbl:latitude":46.041326,
     "lbl:longitude":14.445105,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -21,12 +23,12 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_metro":30,
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        1108959949,
         102191581,
         1108959501,
-        85633779
+        85633779,
+        1108959949
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -44,7 +46,7 @@
         }
     ],
     "wof:id":1108943205,
-    "wof:lastmodified":1531170283,
+    "wof:lastmodified":1566644888,
     "wof:name":"Kozarje",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

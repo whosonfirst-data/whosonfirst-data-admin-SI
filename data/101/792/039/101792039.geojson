@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":46.337909,
     "lbl:longitude":14.957951,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.337909,
     "mps:longitude":14.957951,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Mozirje"
     ],
@@ -62,13 +65,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0437\u0438\u0440\u0454"
     ],
-    "name:und_x_preferred":[
-        "Mozirje"
-    ],
     "name:und_x_variant":[
-        "Prassberg"
-    ],
-    "name:unk_x_variant":[
         "Prassberg"
     ],
     "qs:a0":"Slovenija",
@@ -87,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -100,7 +97,6 @@
         "fct:id":"06f2e04c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3194792,
         "gp:id":530872,
-        "qs:id":211228,
         "qs_pg:id":211228,
         "wd:id":"Q2354085"
     },
@@ -119,7 +115,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563576996,
+    "wof:lastmodified":1566645001,
     "wof:name":"Mozirje",
     "wof:parent_id":1108959485,
     "wof:placetype":"locality",

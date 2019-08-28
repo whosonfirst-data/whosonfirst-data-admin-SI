@@ -23,8 +23,12 @@
     "gn:population":398,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.48707,46.15888,14.52707,46.19888",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Bukovica pri Vodicah"
     ],
@@ -50,8 +54,7 @@
         "\u0411\u0443\u043a\u043e\u0432\u0438\u0446\u044f-\u043f\u0440\u0438-\u0412\u043e\u0434\u0438\u0446\u044f\u0445"
     ],
     "name:und_x_variant":[
-        "Bukovica",
-        "Bukovica pri Vodicah"
+        "Bukovica"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1343395929,
-    "wof:lastmodified":1564215720,
+    "wof:lastmodified":1566644385,
     "wof:name":"Bukovica pri Vodicah",
     "wof:parent_id":1108959923,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":45.911182,
     "lbl:longitude":13.633738,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.911182,
     "mps:longitude":13.633738,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vrtojba"
     ],
@@ -53,7 +56,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0440\u0442\u043e\u0439\u0431\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vertoiba in Campi Santi"
     ],
     "qs:a0":"Slovenija",
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":205,
     "wof:belongsto":[
@@ -85,7 +88,6 @@
     "wof:concordances":{
         "gn:id":3187125,
         "gp:id":532162,
-        "qs:id":312917,
         "qs_pg:id":312917,
         "wd:id":"Q2233861",
         "wk:page":"Vrtojba"
@@ -102,7 +104,7 @@
         }
     ],
     "wof:id":101792969,
-    "wof:lastmodified":1563577000,
+    "wof:lastmodified":1566645003,
     "wof:name":"Vrtojba",
     "wof:parent_id":1108959629,
     "wof:placetype":"locality",

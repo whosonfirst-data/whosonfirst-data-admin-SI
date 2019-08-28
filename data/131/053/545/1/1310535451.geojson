@@ -23,8 +23,12 @@
     "gn:population":15,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.80141,46.15323,14.84141,46.19323",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vranke"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1310535451,
-    "wof:lastmodified":1564216482,
+    "wof:lastmodified":1566644908,
     "wof:name":"Vranke",
     "wof:parent_id":1108959807,
     "wof:placetype":"locality",

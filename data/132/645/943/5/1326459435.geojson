@@ -23,8 +23,12 @@
     "gn:population":39,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.10127,45.87854,15.14127,45.91854",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Bitnja vas"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1326459435,
-    "wof:lastmodified":1564215616,
+    "wof:lastmodified":1566644318,
     "wof:name":"Bitnja Vas",
     "wof:parent_id":1108959913,
     "wof:placetype":"locality",

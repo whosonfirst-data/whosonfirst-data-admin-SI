@@ -23,8 +23,12 @@
     "gn:population":281,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.74896,46.02667,13.78896,46.06667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Lokovec"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1293427987,
-    "wof:lastmodified":1564215944,
+    "wof:lastmodified":1566644544,
     "wof:name":"Lokovec",
     "wof:parent_id":1108959487,
     "wof:placetype":"locality",

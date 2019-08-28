@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.42722,46.52389,15.46722,46.56389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Fala"
     ],
@@ -47,8 +51,7 @@
         "\u0424\u0430\u043b\u0430"
     ],
     "name:und_x_variant":[
-        "Faal",
-        "Fala"
+        "Faal"
     ],
     "name:urd_x_preferred":[
         "\u0641\u0627\u0644\u0627"
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1193052439,
-    "wof:lastmodified":1564216245,
+    "wof:lastmodified":1566644743,
     "wof:name":"Fala",
     "wof:parent_id":1108959611,
     "wof:placetype":"locality",

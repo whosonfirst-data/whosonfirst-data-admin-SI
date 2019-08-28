@@ -23,8 +23,12 @@
     "gn:population":109,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.41,46.15556,15.45,46.19556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Slivnica pri Celju"
     ],
@@ -50,8 +54,7 @@
         "\u0421\u043b\u0438\u0432\u043d\u0438\u0446\u044f-\u043f\u0440\u0438-\u0426\u0435\u043b\u044e"
     ],
     "name:und_x_variant":[
-        "Slivnica",
-        "Slivnica pri Celju"
+        "Slivnica"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1360016353,
-    "wof:lastmodified":1564216559,
+    "wof:lastmodified":1566644952,
     "wof:name":"Slivnica pri Celju",
     "wof:parent_id":1108959791,
     "wof:placetype":"locality",

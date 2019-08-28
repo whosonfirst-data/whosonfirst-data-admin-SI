@@ -23,8 +23,12 @@
     "gn:population":280,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.33,45.66333,15.37,45.70333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Radovica"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1293231971,
-    "wof:lastmodified":1564215888,
+    "wof:lastmodified":1566644506,
     "wof:name":"Radovica",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

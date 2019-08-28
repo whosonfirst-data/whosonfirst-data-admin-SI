@@ -23,8 +23,12 @@
     "gn:population":95,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.46659,46.22243,15.50659,46.26243",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Mo\u010dle"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0447\u043b\u0435"
-    ],
-    "name:und_x_variant":[
-        "Mo\u010dle"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1327066035,
-    "wof:lastmodified":1564215583,
+    "wof:lastmodified":1566644299,
     "wof:name":"Mocle",
     "wof:parent_id":1108959607,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":210,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.64324,45.98945,15.68324,46.02945",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Podgorje pri Pi\u0161ecah"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0434\u0433\u043e\u0440\u0454-\u043f\u0440\u0438-\u041f\u0438\u0448\u0435\u0446\u0430\u0445"
-    ],
-    "name:und_x_variant":[
-        "Podgorje pri Pi\u0161ecah"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1226666117,
-    "wof:lastmodified":1564216908,
+    "wof:lastmodified":1566645246,
     "wof:name":"Podgorje pri Pisecah",
     "wof:parent_id":1108959585,
     "wof:placetype":"locality",

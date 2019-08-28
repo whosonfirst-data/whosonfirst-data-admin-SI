@@ -23,8 +23,12 @@
     "gn:population":191,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.16255,46.33783,14.20255,46.37783",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Nova vas pri Lescah"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1293035079,
-    "wof:lastmodified":1564215918,
+    "wof:lastmodified":1566644526,
     "wof:name":"Nova Vas pri Lescah",
     "wof:parent_id":1108959825,
     "wof:placetype":"locality",

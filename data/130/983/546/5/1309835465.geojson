@@ -23,8 +23,12 @@
     "gn:population":614,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.56973,46.29455,15.60973,46.33455",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Spodnje Polj\u010dane"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u043f\u043e\u0434\u043d\u0454 \u041f\u043e\u043b\u044c\u0447\u0430\u043d\u0435"
-    ],
-    "name:und_x_variant":[
-        "Spodnje Polj\u010dane"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1309835465,
-    "wof:lastmodified":1564216597,
+    "wof:lastmodified":1566645010,
     "wof:name":"Spodnje Poljcane",
     "wof:parent_id":1108959721,
     "wof:placetype":"locality",

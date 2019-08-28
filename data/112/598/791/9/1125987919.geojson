@@ -9,15 +9,18 @@
     "geom:bbox":"14.44556,45.9525,14.44556,45.9525",
     "geom:latitude":45.9525,
     "geom:longitude":14.44556,
-    "gn:gn_country":"SI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":51,
+    "gn:country":"SI",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SI",
+    "lbl:bbox":"14.42556,45.9325,14.46556,45.9725",
     "lbl:latitude":45.9525,
     "lbl:longitude":14.44556,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Dolenja Brezovica"
@@ -46,9 +49,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043b\u0435\u043d\u044f \u0411\u0440\u0435\u0437\u043e\u0432\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
-        "Dolenja Brezovica"
-    ],
     "qs_pg:aaroncc":"SI",
     "qs_pg:gn_country":"SI",
     "qs_pg:gn_fcode":"PPL",
@@ -70,7 +70,7 @@
     "qs_pg:woe_adm0":23424945,
     "qs_pg:woe_id":529627,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424945,
     "woe:name_adm0":"Slovenija",
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":1125987919,
-    "wof:lastmodified":1563577120,
+    "wof:lastmodified":1566645065,
     "wof:name":"Dolenja Brestovica",
     "wof:parent_id":1108959895,
     "wof:placetype":"locality",

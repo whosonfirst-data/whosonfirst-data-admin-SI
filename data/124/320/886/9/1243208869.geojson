@@ -23,8 +23,12 @@
     "gn:population":102,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.20703,46.09915,15.24703,46.13915",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Lo\u017ee"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041b\u043e\u0436\u0435"
-    ],
-    "name:und_x_variant":[
-        "Lo\u017ee"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1243208869,
-    "wof:lastmodified":1564216762,
+    "wof:lastmodified":1566645149,
     "wof:name":"Loze",
     "wof:parent_id":1108959879,
     "wof:placetype":"locality",

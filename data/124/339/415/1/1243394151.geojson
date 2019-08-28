@@ -23,8 +23,12 @@
     "gn:population":1000,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.72528,45.93389,14.76528,45.97389",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0634\u064a\u0646\u062c\u0627 \u063a\u0631\u0627"
     ],
@@ -65,8 +69,7 @@
         "\u0412\u0438\u0448\u043d\u044f \u0413\u043e\u0440\u0430"
     ],
     "name:und_x_variant":[
-        "Weixelburg",
-        "Vi\u0161nja Gora"
+        "Weixelburg"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1243394151,
-    "wof:lastmodified":1564216676,
+    "wof:lastmodified":1566645090,
     "wof:name":"Visnja Gora",
     "wof:parent_id":1108959583,
     "wof:placetype":"locality",

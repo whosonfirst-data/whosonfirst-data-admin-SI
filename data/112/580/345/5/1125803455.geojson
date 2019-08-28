@@ -9,15 +9,18 @@
     "geom:bbox":"15.12194,46.25639,15.12194,46.25639",
     "geom:latitude":46.25639,
     "geom:longitude":15.12194,
-    "gn:gn_country":"SI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1901,
-    "gn:population":2021,
+    "gn:country":"SI",
+    "gn:fcode":"PPL",
+    "gn:population":1901,
     "iso:country":"SI",
+    "lbl:bbox":"15.10194,46.23639,15.14194,46.27639",
     "lbl:latitude":46.25639,
     "lbl:longitude":15.12194,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "\u0160empeter v Savinjski Dolini"
@@ -49,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0435\u043c\u043f\u0435\u0442\u0435\u0440-\u0432-\u0421\u0430\u0432\u0438\u043d\u044c\u0441\u044c\u043a\u0456\u0439 \u0414\u043e\u043b\u0438\u043d\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sveti Peter"
     ],
     "qs_pg:aaroncc":"SI",
@@ -71,7 +74,7 @@
     "qs_pg:woe_adm0":23424945,
     "qs_pg:woe_id":531487,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424945,
     "woe:name_adm0":"Slovenija",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1125803455,
-    "wof:lastmodified":1563577098,
+    "wof:lastmodified":1566645055,
     "wof:name":"\u00c5 Empeter V Savinjski Dolini",
     "wof:parent_id":1108959929,
     "wof:placetype":"locality",

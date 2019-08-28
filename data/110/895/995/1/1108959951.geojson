@@ -18,14 +18,16 @@
     ],
     "lbl:latitude":45.605038,
     "lbl:longitude":14.004677,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":0,
     "mz:is_current":1,
+    "mz:min_zoom":4.0,
     "mz:note":"statistical region, no administrative function",
     "name:eng_x_preferred":[
         "Koroska"
     ],
     "src:geom":"svn-sma",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
     "src:population:date:":"2011-01-01",
     "statoids:area_km":"1044",
@@ -70,7 +72,7 @@
         }
     ],
     "wof:id":1108959951,
-    "wof:lastmodified":1553551431,
+    "wof:lastmodified":1566644843,
     "wof:name":"Obalno-kra\u0161ka",
     "wof:parent_id":85633779,
     "wof:placetype":"region",

@@ -24,8 +24,12 @@
     "gn:population":351,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.40573,46.5867,16.44573,46.6267",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Mostje"
     ],
@@ -58,8 +62,7 @@
     ],
     "name:und_x_variant":[
         "Hidv\u00e9g",
-        "Lendvahidv\u00e9g",
-        "Mostje"
+        "Lendvahidv\u00e9g"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1209649421,
-    "wof:lastmodified":1564216117,
+    "wof:lastmodified":1566644657,
     "wof:name":"Mostje",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

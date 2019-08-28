@@ -23,8 +23,12 @@
     "gn:population":135,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.24024,46.28242,15.28024,46.32242",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ro\u017eni Vrh"
     ],
@@ -52,9 +56,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0436\u043d\u0438\u0439 \u0412\u0440\u0445"
     ],
-    "name:und_x_variant":[
-        "Ro\u017eni Vrh"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1343946293,
-    "wof:lastmodified":1564215800,
+    "wof:lastmodified":1566644439,
     "wof:name":"Rozni Vrh",
     "wof:parent_id":1108959693,
     "wof:placetype":"locality",

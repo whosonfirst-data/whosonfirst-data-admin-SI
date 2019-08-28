@@ -23,8 +23,12 @@
     "gn:population":422,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.38,46.29667,14.42,46.33667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ba\u0161elj"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0448\u0435\u043b\u044c"
-    ],
-    "name:und_x_variant":[
-        "Ba\u0161elj"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1226473549,
-    "wof:lastmodified":1564216950,
+    "wof:lastmodified":1566645272,
     "wof:name":"Baselj",
     "wof:parent_id":1108959657,
     "wof:placetype":"locality",

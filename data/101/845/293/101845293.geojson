@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":46.236866,
     "lbl:longitude":15.090544,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.236866,
     "mps:longitude":15.090544,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Prebold"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -99,7 +102,6 @@
     "wof:concordances":{
         "gn:id":3192570,
         "gp:id":531219,
-        "qs:id":1043979,
         "qs_pg:id":1043979,
         "wd:id":"Q2749254",
         "wk:page":"Prebold"
@@ -116,7 +118,7 @@
         }
     ],
     "wof:id":101845293,
-    "wof:lastmodified":1563576915,
+    "wof:lastmodified":1566644978,
     "wof:name":"Prebold",
     "wof:parent_id":1108959713,
     "wof:placetype":"locality",

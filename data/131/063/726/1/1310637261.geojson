@@ -23,8 +23,12 @@
     "gn:population":137,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.23825,46.48756,16.27825,46.52756",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u0160princ"
     ],
@@ -52,9 +56,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u043f\u0440\u0438\u043d\u0446"
     ],
-    "name:und_x_variant":[
-        "\u0160princ"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1310637261,
-    "wof:lastmodified":1564216496,
+    "wof:lastmodified":1566644916,
     "wof:name":"Sprinc",
     "wof:parent_id":1108959853,
     "wof:placetype":"locality",

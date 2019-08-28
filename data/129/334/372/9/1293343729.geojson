@@ -23,8 +23,12 @@
     "gn:population":89,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.98,45.58,14.02,45.62",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Bresovizza Marenzi",
         "Brezovica"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293343729,
-    "wof:lastmodified":1537700261,
+    "wof:lastmodified":1566644542,
     "wof:name":"Brezovica",
     "wof:parent_id":1108959549,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":16.080575,
     "gn:population":284,
     "iso:country":"SI",
+    "lbl:bbox":"16.060575,46.465404,16.100575,46.505404",
     "lbl:latitude":46.485404,
     "lbl:longitude":16.080575,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":46.485404,
     "mps:longitude":16.080575,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Sveti Toma\u017e"
     ],
@@ -44,7 +48,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0432\u0435\u0442\u0438\u0439 \u0422\u043e\u043c\u0430\u0436"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kostanj"
     ],
     "qs:a0":"Slovenija",
@@ -64,7 +68,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":250,
     "wof:belongsto":[
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":101858959,
-    "wof:lastmodified":1563576963,
+    "wof:lastmodified":1566644992,
     "wof:name":"Sveti Toma\u017e",
     "wof:parent_id":1108959931,
     "wof:placetype":"locality",

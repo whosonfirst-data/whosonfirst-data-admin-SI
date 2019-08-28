@@ -23,8 +23,12 @@
     "gn:population":40,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.05312,45.70821,15.09312,45.74821",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Bu\u0161inec"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0448\u0438\u043d\u0435\u0446\u044c"
-    ],
-    "name:und_x_variant":[
-        "Bu\u0161inec"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1226473763,
-    "wof:lastmodified":1564216954,
+    "wof:lastmodified":1566645275,
     "wof:name":"Businec",
     "wof:parent_id":1108959675,
     "wof:placetype":"locality",

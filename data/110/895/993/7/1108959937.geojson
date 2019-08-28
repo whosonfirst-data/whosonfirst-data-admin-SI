@@ -12,8 +12,11 @@
     "iso:country":"SI",
     "lbl:latitude":45.825591,
     "lbl:longitude":15.331391,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ob\u010dina \u0160entjernej"
     ],
@@ -75,7 +78,7 @@
         "\u7533\u7279\u8036\u723e\u5167\u4f0a"
     ],
     "src:geom":"svn-sma",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1108959937,
-    "wof:lastmodified":1564216398,
+    "wof:lastmodified":1566644851,
     "wof:name":"\u0160entjernej",
     "wof:parent_id":1108959943,
     "wof:placetype":"localadmin",

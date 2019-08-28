@@ -9,18 +9,20 @@
     "geom:bbox":"16.2118476052,46.6748599458,16.2309931035,46.696978731",
     "geom:latitude":46.684614,
     "geom:longitude":16.221307,
+    "gn:country":"SI",
     "gn:elevation":203,
-    "gn:gn_country":"SI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":700,
-    "gn:population":735,
+    "gn:fcode":"PPL",
+    "gn:population":700,
     "iso:country":"SI",
     "lbl:latitude":46.682259,
     "lbl:longitude":16.22051,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":46.682259,
     "mps:longitude":16.22051,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Moravske Toplice"
     ],
@@ -84,7 +86,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0440\u0430\u0432\u0441\u044c\u043a\u0435 \u0422\u043e\u043f\u043b\u0438\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Moravci"
     ],
     "name:vie_x_preferred":[
@@ -124,7 +126,7 @@
     "qs_pg:woe_id":15001052,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -136,7 +138,6 @@
     "wof:concordances":{
         "gn:id":3194871,
         "gp:id":15001052,
-        "qs:id":1000583,
         "qs_pg:id":1000583,
         "wd:id":"Q678429",
         "wk:page":"Moravske Toplice"
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":101791991,
-    "wof:lastmodified":1563576890,
+    "wof:lastmodified":1566644969,
     "wof:name":"Moravske Toplice",
     "wof:parent_id":1108959925,
     "wof:placetype":"locality",

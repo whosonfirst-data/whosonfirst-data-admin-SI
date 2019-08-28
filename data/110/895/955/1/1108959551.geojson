@@ -12,8 +12,11 @@
     "iso:country":"SI",
     "lbl:latitude":45.5112,
     "lbl:longitude":13.659059,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u064a\u0632\u0648\u0644\u0627"
     ],
@@ -132,7 +135,7 @@
         "\u4f0a\u4f50\u62c9"
     ],
     "src:geom":"svn-sma",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "svn-sma:d_od":"2015-02-25",
     "svn-sma:dv_od":"2015-02-25",
     "svn-sma:enota":"OB",
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":1108959551,
-    "wof:lastmodified":1564216344,
+    "wof:lastmodified":1566644813,
     "wof:name":"Izola",
     "wof:parent_id":1108959951,
     "wof:placetype":"localadmin",

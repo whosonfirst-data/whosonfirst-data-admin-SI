@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":46.242763,
     "lbl:longitude":14.416543,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.242763,
     "mps:longitude":14.416543,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u0160en\u010dur"
     ],
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -81,9 +84,11 @@
     "wof:concordances":{
         "gn:id":3191059,
         "gp:id":531489,
-        "qs:id":343359,
-        "qs_pg:id":1043933,
+        "qs_pg:id":343359,
         "wd:id":"Q1810670"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1043933
     },
     "wof:country":"SI",
     "wof:geomhash":"2c1aee018c881636b7bd252f00a31b94",
@@ -97,7 +102,7 @@
         }
     ],
     "wof:id":101792069,
-    "wof:lastmodified":1563577009,
+    "wof:lastmodified":1566645006,
     "wof:name":"\u0160en\u010dur",
     "wof:parent_id":1108959647,
     "wof:placetype":"locality",

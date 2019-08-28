@@ -23,8 +23,12 @@
     "gn:population":1021,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.45184,45.91566,15.49184,45.95566",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Leskovec pri Kr\u0161kem"
     ],
@@ -51,8 +55,7 @@
     ],
     "name:und_x_variant":[
         "Leskovec",
-        "Huselbach",
-        "Leskovec pri Kr\u0161kem"
+        "Huselbach"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1293031605,
-    "wof:lastmodified":1564215915,
+    "wof:lastmodified":1566644524,
     "wof:name":"Leskovec pri Krskem",
     "wof:parent_id":1108959473,
     "wof:placetype":"locality",

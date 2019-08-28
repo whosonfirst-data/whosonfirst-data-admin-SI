@@ -23,8 +23,12 @@
     "gn:population":236,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.83051,46.56562,15.87051,46.60562",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Spodnji Por\u010di\u010d"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u043f\u043e\u0434\u043d\u0456\u0439 \u041f\u043e\u0440\u0447\u0438\u0447"
-    ],
-    "name:und_x_variant":[
-        "Spodnji Por\u010di\u010d"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1293031459,
-    "wof:lastmodified":1564215917,
+    "wof:lastmodified":1566644525,
     "wof:name":"Spodnji Porcic",
     "wof:parent_id":1108959477,
     "wof:placetype":"locality",

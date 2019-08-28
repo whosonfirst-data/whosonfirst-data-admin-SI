@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":45.722032,
     "lbl:longitude":14.468936,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":45.722032,
     "mps:longitude":14.468936,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0644\u0648\u062c"
     ],
@@ -59,7 +62,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u043e\u0436"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Laas"
     ],
     "name:zho_x_preferred":[
@@ -79,7 +82,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":45.725953,
     "wd:longitude":14.468742,
@@ -94,7 +97,7 @@
     "wof:concordances":{
         "gn:id":3196163,
         "gp:id":530683,
-        "qs:id":401881,
+        "qs_pg:id":401881,
         "wd:id":"Q3445866",
         "wk:page":"Lo\u017e"
     },
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101835959,
-    "wof:lastmodified":1563576956,
+    "wof:lastmodified":1566644990,
     "wof:name":"Lo\u017e",
     "wof:parent_id":1108959863,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":98,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.24667,46.01333,15.28667,46.05333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kompolje"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1259519829,
-    "wof:lastmodified":1564216851,
+    "wof:lastmodified":1566645208,
     "wof:name":"Kompolje",
     "wof:parent_id":1108959927,
     "wof:placetype":"locality",

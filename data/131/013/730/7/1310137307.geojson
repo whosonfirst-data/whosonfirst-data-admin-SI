@@ -23,8 +23,12 @@
     "gn:population":101,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.54753,46.23022,15.58753,46.27022",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Krtince"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1310137307,
-    "wof:lastmodified":1564216465,
+    "wof:lastmodified":1566644899,
     "wof:name":"Krtince",
     "wof:parent_id":1108959607,
     "wof:placetype":"locality",

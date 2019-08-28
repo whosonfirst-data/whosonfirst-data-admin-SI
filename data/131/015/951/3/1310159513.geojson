@@ -23,8 +23,12 @@
     "gn:population":148,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.14079,46.09435,15.18079,46.13435",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gore"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1310159513,
-    "wof:lastmodified":1564216464,
+    "wof:lastmodified":1566644898,
     "wof:name":"Gore",
     "wof:parent_id":1108959571,
     "wof:placetype":"locality",

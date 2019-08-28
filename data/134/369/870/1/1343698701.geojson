@@ -23,8 +23,12 @@
     "gn:population":46,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.2837,46.11209,15.3237,46.15209",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Male Grahov\u0161e"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1343698701,
-    "wof:lastmodified":1564215793,
+    "wof:lastmodified":1566644436,
     "wof:name":"Male Grahovse",
     "wof:parent_id":1108959879,
     "wof:placetype":"locality",

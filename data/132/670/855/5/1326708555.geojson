@@ -23,8 +23,12 @@
     "gn:population":109,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.21142,46.28565,15.25142,46.32565",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Pepelno"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1326708555,
-    "wof:lastmodified":1564215676,
+    "wof:lastmodified":1566644356,
     "wof:name":"Pepelno",
     "wof:parent_id":1108959693,
     "wof:placetype":"locality",

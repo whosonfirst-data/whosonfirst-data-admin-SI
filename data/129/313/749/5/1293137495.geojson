@@ -23,8 +23,12 @@
     "gn:population":407,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.49472,46.1375,15.53472,46.1775",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Loka pri \u017dusmu"
     ],
@@ -50,8 +54,7 @@
         "\u041b\u043e\u043a\u0430-\u043f\u0440\u0438-\u0416\u0443\u0441\u043c\u0443"
     ],
     "name:und_x_variant":[
-        "Loka",
-        "Loka pri \u017dusmu"
+        "Loka"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1293137495,
-    "wof:lastmodified":1564215904,
+    "wof:lastmodified":1566644517,
     "wof:name":"Loka pri Zusmu",
     "wof:parent_id":1108959791,
     "wof:placetype":"locality",

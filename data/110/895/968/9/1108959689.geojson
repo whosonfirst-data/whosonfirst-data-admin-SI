@@ -12,8 +12,11 @@
     "iso:country":"SI",
     "lbl:latitude":46.12645,
     "lbl:longitude":14.555462,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Trzin"
     ],
@@ -63,7 +66,7 @@
         "\u7279\u5c14\u6d25"
     ],
     "src:geom":"svn-sma",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "svn-sma:d_od":"1998-11-22",
     "svn-sma:dv_od":"1998-11-27",
     "svn-sma:enota":"OB",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1108959689,
-    "wof:lastmodified":1564216384,
+    "wof:lastmodified":1566644840,
     "wof:name":"Trzin",
     "wof:parent_id":1108959949,
     "wof:placetype":"localadmin",

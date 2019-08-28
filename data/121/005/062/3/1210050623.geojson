@@ -23,8 +23,12 @@
     "gn:population":153,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.84298,46.03163,14.88298,46.07163",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gradi\u0161ke Laze"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0430\u0434\u0438\u0448\u043a\u0435 \u041b\u0430\u0437\u0435"
-    ],
-    "name:und_x_variant":[
-        "Gradi\u0161ke Laze"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1210050623,
-    "wof:lastmodified":1564216231,
+    "wof:lastmodified":1566644733,
     "wof:name":"Gradiske Laze",
     "wof:parent_id":1108959745,
     "wof:placetype":"locality",

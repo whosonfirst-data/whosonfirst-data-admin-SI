@@ -23,8 +23,12 @@
     "gn:population":35,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.59618,46.03913,13.63618,46.07913",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Robidni Breg"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1242711835,
-    "wof:lastmodified":1564216748,
+    "wof:lastmodified":1566645139,
     "wof:name":"Robidni Breg",
     "wof:parent_id":1108959537,
     "wof:placetype":"locality",

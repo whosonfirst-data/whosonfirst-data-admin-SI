@@ -23,8 +23,12 @@
     "gn:population":51,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.31688,46.26456,15.35688,46.30456",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gradi\u0161\u010de pri Vojniku"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0430\u0434\u0438\u0448\u0447\u0435-\u043f\u0440\u0438-\u0412\u043e\u0439\u043d\u0438\u043a\u0443"
-    ],
-    "name:und_x_variant":[
-        "Gradi\u0161\u010de pri Vojniku"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1210047709,
-    "wof:lastmodified":1564216227,
+    "wof:lastmodified":1566644730,
     "wof:name":"Gradisce pri Vojniku",
     "wof:parent_id":1108959653,
     "wof:placetype":"locality",

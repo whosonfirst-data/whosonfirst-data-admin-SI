@@ -23,8 +23,12 @@
     "gn:population":52,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.19217,45.91439,15.23217,45.95439",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Tr\u0161\u010dina"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0449\u0438\u043d\u0430"
-    ],
-    "name:und_x_variant":[
-        "Tr\u0161\u010dina"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1326459957,
-    "wof:lastmodified":1564215616,
+    "wof:lastmodified":1566644317,
     "wof:name":"Trscina",
     "wof:parent_id":1108959927,
     "wof:placetype":"locality",

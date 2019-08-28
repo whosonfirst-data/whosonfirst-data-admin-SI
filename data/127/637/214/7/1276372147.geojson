@@ -23,8 +23,12 @@
     "gn:population":22,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.58792,45.8071,14.62792,45.8471",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Podsmreka pri Velikih La\u0161\u010dah"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0434\u0441\u043c\u0440\u0435\u043a\u0430-\u043f\u0440\u0438-\u0412\u0435\u043b\u0438\u043a\u0438\u0445 \u041b\u0430\u0449\u0430\u0445"
-    ],
-    "name:und_x_variant":[
-        "Podsmreka pri Velikih La\u0161\u010dah"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1276372147,
-    "wof:lastmodified":1564216074,
+    "wof:lastmodified":1566644628,
     "wof:name":"Podsmreka pri Velikih Lascah",
     "wof:parent_id":1108959859,
     "wof:placetype":"locality",

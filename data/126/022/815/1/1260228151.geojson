@@ -23,8 +23,12 @@
     "gn:population":267,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.98999,46.36983,16.02999,46.40983",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Mala vas"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1260228151,
-    "wof:lastmodified":1564216270,
+    "wof:lastmodified":1566644760,
     "wof:name":"Mala Vas",
     "wof:parent_id":1108959719,
     "wof:placetype":"locality",

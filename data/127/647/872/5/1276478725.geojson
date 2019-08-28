@@ -23,8 +23,12 @@
     "gn:population":431,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.07222,46.72417,16.11222,46.76417",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Bodonci"
     ],
@@ -58,9 +62,7 @@
     "name:und_x_variant":[
         "Radovci",
         "Zenkovci",
-        "Bod\u00f3hegy",
         "Tiborfa",
-        "Bodonci",
         "Vadarci"
     ],
     "src:geom":"geonames",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1276478725,
-    "wof:lastmodified":1564216037,
+    "wof:lastmodified":1566644607,
     "wof:name":"Bodonci",
     "wof:parent_id":1108959935,
     "wof:placetype":"locality",

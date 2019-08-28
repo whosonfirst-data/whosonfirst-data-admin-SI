@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":45.838305,
     "lbl:longitude":13.960124,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.838305,
     "mps:longitude":13.960124,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0628\u0627\u0641\u0627"
     ],
@@ -92,7 +95,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043f\u0430\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vippaco"
     ],
     "name:vie_x_preferred":[
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -129,9 +132,11 @@
     "wof:concordances":{
         "gn:id":3187706,
         "gp:id":532078,
-        "qs:id":1043886,
         "qs_pg:id":325712,
         "wd:id":"Q2527695"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1043886
     },
     "wof:country":"SI",
     "wof:geomhash":"0947e738b788301319e452e56323045d",
@@ -145,7 +150,7 @@
         }
     ],
     "wof:id":101792987,
-    "wof:lastmodified":1563577011,
+    "wof:lastmodified":1566645006,
     "wof:name":"Vipava",
     "wof:parent_id":1108959623,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":46.470437,
     "lbl:longitude":14.850579,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.470437,
     "mps:longitude":14.850579,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u010crna na Koro\u0161kem"
     ],
@@ -50,7 +53,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0440\u043d\u0430-\u043d\u0430-\u041a\u043e\u0440\u043e\u0448\u043a\u0435\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u010crna"
     ],
     "name:urd_x_preferred":[
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -87,9 +90,11 @@
     "wof:concordances":{
         "gn:id":3202459,
         "gp:id":529767,
-        "qs:id":963579,
         "qs_pg:id":147294,
         "wd:id":"Q2573748"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":963579
     },
     "wof:country":"SI",
     "wof:geomhash":"1aa148403a13621f208d68a8d0dbd792",
@@ -103,7 +108,7 @@
         }
     ],
     "wof:id":101791185,
-    "wof:lastmodified":1563576906,
+    "wof:lastmodified":1566644975,
     "wof:name":"\u010crna na Koro\u0161kem",
     "wof:parent_id":1108959573,
     "wof:placetype":"locality",

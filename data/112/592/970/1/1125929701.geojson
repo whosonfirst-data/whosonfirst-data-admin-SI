@@ -9,15 +9,18 @@
     "geom:bbox":"13.59694,46.40194,13.59694,46.40194",
     "geom:latitude":46.40194,
     "geom:longitude":13.59694,
-    "gn:gn_country":"SI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":137,
+    "gn:country":"SI",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SI",
+    "lbl:bbox":"13.57694,46.38194,13.61694,46.42194",
     "lbl:latitude":46.40194,
     "lbl:longitude":13.59694,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Log pod Mangartom"
@@ -58,7 +61,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u043e\u0433 \u043f\u043e\u0434 \u041c\u0430\u043d\u0433\u0430\u0440\u0442\u043e\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bretto di Sotto"
     ],
     "qs_pg:aaroncc":"SI",
@@ -82,7 +85,7 @@
     "qs_pg:woe_adm0":23424945,
     "qs_pg:woe_id":530647,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424945,
     "woe:name_adm0":"Slovenija",
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":1125929701,
-    "wof:lastmodified":1563577055,
+    "wof:lastmodified":1566645036,
     "wof:name":"Log Pod Mangartom",
     "wof:parent_id":1108959541,
     "wof:placetype":"locality",

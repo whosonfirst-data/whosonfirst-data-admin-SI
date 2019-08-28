@@ -9,17 +9,19 @@
     "geom:bbox":"14.6179988518,46.1481355215,14.6338004018,46.1562240833",
     "geom:latitude":46.152081,
     "geom:longitude":14.627064,
-    "gn:gn_country":"SI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1406,
-    "gn:population":1563,
+    "gn:country":"SI",
+    "gn:fcode":"PPL",
+    "gn:population":1406,
     "iso:country":"SI",
     "lbl:latitude":46.151443,
     "lbl:longitude":14.627064,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.151443,
     "mps:longitude":14.627064,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dob"
     ],
@@ -49,9 +51,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0414\u043e\u0431"
-    ],
-    "name:und_x_preferred":[
-        "Dob"
     ],
     "name:zho_x_preferred":[
         "\u9053\u5e03"
@@ -86,7 +85,7 @@
     "qs_pg:woe_id":55850402,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":82,
     "wof:belongsto":[
@@ -100,7 +99,6 @@
         "fct:id":"06f242ae-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3201994,
         "gp:id":55850402,
-        "qs:id":1044060,
         "qs_pg:id":1044060,
         "wd:id":"Q2169191",
         "wk:page":"Dob, Dom\u017eale"
@@ -120,7 +118,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563576925,
+    "wof:lastmodified":1566644981,
     "wof:name":"Dob",
     "wof:parent_id":1108959799,
     "wof:placetype":"locality",

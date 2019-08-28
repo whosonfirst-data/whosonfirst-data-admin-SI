@@ -22,8 +22,12 @@
     "gn:population":544,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.71584,45.50028,13.75584,45.54028",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Bo\u0161amarin"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1293724235,
-    "wof:lastmodified":1564215969,
+    "wof:lastmodified":1566644560,
     "wof:name":"",
     "wof:parent_id":1108959527,
     "wof:placetype":"locality",

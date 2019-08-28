@@ -23,8 +23,12 @@
     "gn:population":92,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.00057,46.43114,16.04057,46.47114",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Lasigovci"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1293031551,
-    "wof:lastmodified":1564215918,
+    "wof:lastmodified":1566644526,
     "wof:name":"Lasigovci",
     "wof:parent_id":1108959761,
     "wof:placetype":"locality",

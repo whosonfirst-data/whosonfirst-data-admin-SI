@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":46.072273,
     "lbl:longitude":15.556858,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":46.072273,
     "mps:longitude":15.556858,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kozje"
     ],
@@ -109,7 +112,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -121,7 +124,7 @@
     "wof:concordances":{
         "gn:id":3197442,
         "gp:id":530487,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q3503148",
         "wk:page":"Kozje"
     },
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":101845325,
-    "wof:lastmodified":1563576918,
+    "wof:lastmodified":1566644979,
     "wof:name":"Kozje",
     "wof:parent_id":1108959581,
     "wof:placetype":"locality",

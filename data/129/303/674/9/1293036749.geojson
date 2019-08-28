@@ -23,8 +23,12 @@
     "gn:population":15,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.5213,45.80284,14.5613,45.84284",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Mohorje"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1293036749,
-    "wof:lastmodified":1564215916,
+    "wof:lastmodified":1566644524,
     "wof:name":"Mohorje",
     "wof:parent_id":1108959859,
     "wof:placetype":"locality",

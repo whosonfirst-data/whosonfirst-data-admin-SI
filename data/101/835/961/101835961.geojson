@@ -9,17 +9,19 @@
     "geom:bbox":"14.4680658539,45.7036850623,14.4797673711,45.7198246937",
     "geom:latitude":45.712544,
     "geom:longitude":14.473942,
-    "gn:gn_country":"SI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":864,
+    "gn:country":"SI",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SI",
     "lbl:latitude":45.71555,
     "lbl:longitude":14.471593,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":45.71555,
     "mps:longitude":14.471593,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Stari trg pri Lo\u017eu"
     ],
@@ -62,7 +64,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0438\u0439 \u0422\u0440\u0433-\u043f\u0440\u0438-\u041b\u043e\u0436\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Altenmarkt"
     ],
     "qs:a0":"Slovenija",
@@ -99,7 +101,7 @@
     "qs_pg:woe_id":531769,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":151,
     "wof:belongsto":[
@@ -112,7 +114,6 @@
     "wof:concordances":{
         "gn:id":3189940,
         "gp:id":531769,
-        "qs:id":1165740,
         "qs_pg:id":1165740,
         "wd:id":"Q3437450",
         "wk:page":"Stari Trg pri Lo\u017eu"
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":101835961,
-    "wof:lastmodified":1563576955,
+    "wof:lastmodified":1566644990,
     "wof:name":"Stari trg pri Lo\u017eu",
     "wof:parent_id":1108959863,
     "wof:placetype":"locality",

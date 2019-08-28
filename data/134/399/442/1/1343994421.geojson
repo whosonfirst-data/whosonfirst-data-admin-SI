@@ -23,8 +23,12 @@
     "gn:population":14,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.17453,45.61698,15.21453,45.65698",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Pugled"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1343994421,
-    "wof:lastmodified":1564215735,
+    "wof:lastmodified":1566644395,
     "wof:name":"Pugled",
     "wof:parent_id":1108959601,
     "wof:placetype":"locality",

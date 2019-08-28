@@ -23,8 +23,12 @@
     "gn:population":372,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.76333,46.21333,14.80333,46.25333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Zgornji Tuhinj"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1276264353,
-    "wof:lastmodified":1564215995,
+    "wof:lastmodified":1566644579,
     "wof:name":"Zgornji Tuhinj",
     "wof:parent_id":1108959941,
     "wof:placetype":"locality",

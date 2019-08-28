@@ -23,8 +23,12 @@
     "gn:population":373,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.42095,46.32743,15.46095,46.36743",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ve\u0161enik"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0448\u0435\u043d\u0438\u043a"
-    ],
-    "name:und_x_variant":[
-        "Ve\u0161enik"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1293324135,
-    "wof:lastmodified":1564215927,
+    "wof:lastmodified":1566644532,
     "wof:name":"Vesenik",
     "wof:parent_id":1108959753,
     "wof:placetype":"locality",

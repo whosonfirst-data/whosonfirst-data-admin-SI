@@ -24,8 +24,12 @@
     "gn:population":146,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.24667,46.19667,14.28667,46.23667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Bukov\u0161\u010dica"
     ],
@@ -51,8 +55,7 @@
         "\u0411\u0443\u043a\u043e\u0432\u0449\u0438\u0446\u0430"
     ],
     "name:und_x_variant":[
-        "Bukov\u0161ica",
-        "Bukov\u0161\u010dica"
+        "Bukov\u0161ica"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1277106305,
-    "wof:lastmodified":1564216088,
+    "wof:lastmodified":1566644639,
     "wof:name":"Bukovscica",
     "wof:parent_id":1108959933,
     "wof:placetype":"locality",

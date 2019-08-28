@@ -23,8 +23,12 @@
     "gn:population":1645,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.37889,45.9675,14.41889,46.0075",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Notranje Gorice"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1293508549,
-    "wof:lastmodified":1564215913,
+    "wof:lastmodified":1566644522,
     "wof:name":"Notranje Gorice",
     "wof:parent_id":1108959895,
     "wof:placetype":"locality",

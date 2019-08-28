@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":46.573102,
     "lbl:longitude":16.290938,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.573102,
     "mps:longitude":16.290938,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u010cren\u0161ovci"
     ],
@@ -59,7 +62,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0440\u0435\u043d\u0448\u043e\u0432\u0446\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cserencs\u00f3cz"
     ],
     "name:urd_x_preferred":[
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -93,7 +96,6 @@
     "wof:concordances":{
         "gn:id":3202524,
         "gp:id":529760,
-        "qs:id":147297,
         "qs_pg:id":147297,
         "wd:id":"Q13378345",
         "wk:page":"\u010cren\u0161ovci"
@@ -110,7 +112,7 @@
         }
     ],
     "wof:id":101791153,
-    "wof:lastmodified":1563576898,
+    "wof:lastmodified":1566644971,
     "wof:name":"\u010cren\u0161ovci",
     "wof:parent_id":1108959823,
     "wof:placetype":"locality",

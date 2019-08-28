@@ -23,8 +23,12 @@
     "gn:population":91,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.21311,46.02367,15.25311,46.06367",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u0160entjur na Polju"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0428\u0435\u043d\u0442\u044e\u0440-\u043d\u0430-\u041f\u043e\u043b\u044e"
-    ],
-    "name:und_x_variant":[
-        "\u0160entjur na Polju"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1243008949,
-    "wof:lastmodified":1564216658,
+    "wof:lastmodified":1566645079,
     "wof:name":"Sentjur na Polju",
     "wof:parent_id":1108959927,
     "wof:placetype":"locality",

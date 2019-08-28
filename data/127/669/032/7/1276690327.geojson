@@ -23,8 +23,12 @@
     "gn:population":943,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.79083,46.45528,15.83083,46.49528",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kr\u010devina pri Vurbergu"
     ],
@@ -47,8 +51,7 @@
         "\u041a\u0440\u0447\u0435\u0432\u0438\u043d\u0430-\u043f\u0440\u0438-\u0412\u0443\u0440\u0431\u0435\u0440\u0433\u0443"
     ],
     "name:und_x_variant":[
-        "Kr\u010devina",
-        "Kr\u010devina pri Vurbergu"
+        "Kr\u010devina"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1276690327,
-    "wof:lastmodified":1564216013,
+    "wof:lastmodified":1566644592,
     "wof:name":"Krcevina pri Vurbergu",
     "wof:parent_id":1108959659,
     "wof:placetype":"locality",

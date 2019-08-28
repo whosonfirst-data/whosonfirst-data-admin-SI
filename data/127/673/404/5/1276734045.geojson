@@ -23,8 +23,12 @@
     "gn:population":14,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.08752,45.48089,15.12752,45.52089",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Mo\u010dile"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0447\u0438\u043b\u0435"
-    ],
-    "name:und_x_variant":[
-        "Mo\u010dile"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1276734045,
-    "wof:lastmodified":1564216004,
+    "wof:lastmodified":1566644585,
     "wof:name":"Mocile",
     "wof:parent_id":1108959699,
     "wof:placetype":"locality",

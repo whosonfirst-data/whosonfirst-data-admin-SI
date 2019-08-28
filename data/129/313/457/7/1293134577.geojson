@@ -23,8 +23,12 @@
     "gn:population":67,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.14333,45.63,14.18333,45.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Mala Pristava"
     ],
@@ -47,8 +51,7 @@
         "\u041c\u0430\u043b\u0430 \u041f\u0440\u0438\u0441\u0442\u0430\u0432\u0430"
     ],
     "name:und_x_variant":[
-        "Prestava Piccola",
-        "Mala Pristava"
+        "Prestava Piccola"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1293134577,
-    "wof:lastmodified":1564215906,
+    "wof:lastmodified":1566644519,
     "wof:name":"Mala Pristava",
     "wof:parent_id":1108959587,
     "wof:placetype":"locality",

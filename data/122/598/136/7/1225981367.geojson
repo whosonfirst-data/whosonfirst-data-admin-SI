@@ -23,8 +23,12 @@
     "gn:population":160,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.36333,46.08,14.40333,46.12",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Topol pri Medvodah"
     ],
@@ -47,8 +51,7 @@
         "\u0422\u043e\u043f\u043e\u043b-\u043f\u0440\u0438-\u041c\u0435\u0434\u0432\u043e\u0434\u0430\u0445"
     ],
     "name:und_x_variant":[
-        "Topol",
-        "Topol pri Medvodah"
+        "Topol"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1225981367,
-    "wof:lastmodified":1564216946,
+    "wof:lastmodified":1566645269,
     "wof:name":"Topol pri Medvodah",
     "wof:parent_id":1108959881,
     "wof:placetype":"locality",

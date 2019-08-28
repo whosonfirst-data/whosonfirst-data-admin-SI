@@ -23,8 +23,12 @@
     "gn:population":699,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.72571,45.49372,13.76571,45.53372",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kampel"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1276160101,
-    "wof:lastmodified":1564216006,
+    "wof:lastmodified":1566644586,
     "wof:name":"Kampel",
     "wof:parent_id":1108959527,
     "wof:placetype":"locality",

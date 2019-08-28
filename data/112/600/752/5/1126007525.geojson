@@ -9,15 +9,18 @@
     "geom:bbox":"13.87972,45.90167,13.87972,45.90167",
     "geom:latitude":45.90167,
     "geom:longitude":13.87972,
-    "gn:gn_country":"SI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":987,
-    "gn:population":1069,
+    "gn:country":"SI",
+    "gn:fcode":"PPL",
+    "gn:population":987,
     "iso:country":"SI",
+    "lbl:bbox":"13.85972,45.88167,13.89972,45.92167",
     "lbl:latitude":45.90167,
     "lbl:longitude":13.87972,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Lokavec"
@@ -61,7 +64,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u043e\u043a\u0430\u0432\u0435\u0446"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Loavizza"
     ],
     "qs_pg:aaroncc":"SI",
@@ -83,7 +86,7 @@
     "qs_pg:woe_adm0":23424945,
     "qs_pg:woe_id":530660,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424945,
     "woe:name_adm0":"Slovenija",
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1126007525,
-    "wof:lastmodified":1563577128,
+    "wof:lastmodified":1566645068,
     "wof:name":"Lokavec",
     "wof:parent_id":1108959545,
     "wof:placetype":"locality",

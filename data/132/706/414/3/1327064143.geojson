@@ -23,8 +23,12 @@
     "gn:population":213,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.51971,45.92932,15.55971,45.96932",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Stari Grad"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1327064143,
-    "wof:lastmodified":1564215582,
+    "wof:lastmodified":1566644298,
     "wof:name":"Stari Grad",
     "wof:parent_id":1108959473,
     "wof:placetype":"locality",

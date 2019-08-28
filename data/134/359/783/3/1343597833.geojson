@@ -23,8 +23,12 @@
     "gn:population":7,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.58642,45.78285,14.62642,45.82285",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Plosovo"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1343597833,
-    "wof:lastmodified":1564215778,
+    "wof:lastmodified":1566644426,
     "wof:name":"Plosovo",
     "wof:parent_id":1108959859,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"13.79694,46.04944,13.79694,46.04944",
     "geom:latitude":46.04944,
     "geom:longitude":13.79694,
-    "gn:gn_country":"SI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":348,
+    "gn:country":"SI",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SI",
+    "lbl:bbox":"13.77694,46.02944,13.81694,46.06944",
     "lbl:latitude":46.04944,
     "lbl:longitude":13.79694,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "\u010cepovan"
@@ -55,9 +58,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u043f\u043e\u0432\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "Chiapovano"
-    ],
     "qs_pg:aaroncc":"SI",
     "qs_pg:gn_country":"SI",
     "qs_pg:gn_fcode":"PPL",
@@ -79,7 +79,7 @@
     "qs_pg:woe_adm0":23424945,
     "qs_pg:woe_id":529726,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424945,
     "woe:name_adm0":"Slovenija",
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":1125806389,
-    "wof:lastmodified":1563577097,
+    "wof:lastmodified":1566645055,
     "wof:name":"\u010cepovan",
     "wof:parent_id":1108959487,
     "wof:placetype":"locality",

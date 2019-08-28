@@ -23,8 +23,12 @@
     "gn:population":150,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.31009,46.04402,14.35009,46.08402",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Podreber"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1327064509,
-    "wof:lastmodified":1564215590,
+    "wof:lastmodified":1566644303,
     "wof:name":"Podreber",
     "wof:parent_id":1108959847,
     "wof:placetype":"locality",

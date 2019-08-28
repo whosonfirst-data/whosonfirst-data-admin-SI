@@ -23,8 +23,12 @@
     "gn:population":82,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.58853,45.92762,14.62853,45.96762",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Bi\u010dje"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0438\u0447\u0454"
-    ],
-    "name:und_x_variant":[
-        "Bi\u010dje"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1276506339,
-    "wof:lastmodified":1564216030,
+    "wof:lastmodified":1566644602,
     "wof:name":"Bicje",
     "wof:parent_id":1108959533,
     "wof:placetype":"locality",

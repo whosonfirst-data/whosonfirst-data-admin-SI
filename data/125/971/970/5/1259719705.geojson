@@ -23,8 +23,12 @@
     "gn:population":290,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.57028,45.89056,14.61028,45.93056",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vrh nad \u017delimljami"
     ],
@@ -47,8 +51,7 @@
         "\u0412\u0440\u0445-\u043d\u0430\u0434-\u0416\u0435\u043b\u0438\u043c\u043b\u044f\u043c\u0438"
     ],
     "name:und_x_variant":[
-        "Vrh",
-        "Vrh nad \u017delimljami"
+        "Vrh"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1259719705,
-    "wof:lastmodified":1564216822,
+    "wof:lastmodified":1566645188,
     "wof:name":"Vrh nad Zelimljami",
     "wof:parent_id":1108959891,
     "wof:placetype":"locality",

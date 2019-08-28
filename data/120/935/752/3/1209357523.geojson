@@ -23,8 +23,12 @@
     "gn:population":229,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.27234,45.57658,14.31234,45.61658",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u0160embije"
     ],
@@ -54,8 +58,7 @@
     ],
     "name:und_x_variant":[
         "Sembie",
-        "\u0160embilje",
-        "\u0160embije"
+        "\u0160embilje"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1209357523,
-    "wof:lastmodified":1564216167,
+    "wof:lastmodified":1566644692,
     "wof:name":"Sembije",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

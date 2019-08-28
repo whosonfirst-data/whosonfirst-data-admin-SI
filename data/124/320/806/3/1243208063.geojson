@@ -23,8 +23,12 @@
     "gn:population":121,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.75894,46.19453,15.79894,46.23453",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Trli\u010dno"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0440\u043b\u0438\u0447\u043d\u043e"
-    ],
-    "name:und_x_variant":[
-        "Trli\u010dno"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1243208063,
-    "wof:lastmodified":1564216768,
+    "wof:lastmodified":1566645152,
     "wof:name":"Trlicno",
     "wof:parent_id":1108959609,
     "wof:placetype":"locality",

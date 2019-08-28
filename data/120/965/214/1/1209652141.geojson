@@ -23,8 +23,12 @@
     "gn:population":92,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.81505,45.78535,14.85505,45.82535",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vi\u0161nje"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0438\u0448\u043d\u0454"
-    ],
-    "name:und_x_variant":[
-        "Vi\u0161nje"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1209652141,
-    "wof:lastmodified":1564216106,
+    "wof:lastmodified":1566644651,
     "wof:name":"Visnje",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

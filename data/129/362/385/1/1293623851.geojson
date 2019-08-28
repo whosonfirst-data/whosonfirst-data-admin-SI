@@ -23,8 +23,12 @@
     "gn:population":57,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.24898,46.73249,16.28898,46.77249",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ratkovci"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1293623851,
-    "wof:lastmodified":1564215858,
+    "wof:lastmodified":1566644486,
     "wof:name":"Ratkovci",
     "wof:parent_id":1108959925,
     "wof:placetype":"locality",

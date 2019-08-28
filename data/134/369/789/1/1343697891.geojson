@@ -23,8 +23,12 @@
     "gn:population":168,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.58768,46.23441,15.62768,46.27441",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Zagaj pod Bo\u010dem"
     ],
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1343697891,
-    "wof:lastmodified":1564215798,
+    "wof:lastmodified":1566644438,
     "wof:name":"Zagaj pod Bocem",
     "wof:parent_id":1108959803,
     "wof:placetype":"locality",

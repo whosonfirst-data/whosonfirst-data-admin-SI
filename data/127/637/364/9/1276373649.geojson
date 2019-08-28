@@ -23,8 +23,12 @@
     "gn:population":1,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.8054,45.58245,14.8454,45.62245",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ko\u010de"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0447\u0435"
-    ],
-    "name:und_x_variant":[
-        "Ko\u010de"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1276373649,
-    "wof:lastmodified":1564216071,
+    "wof:lastmodified":1566644626,
     "wof:name":"Koce",
     "wof:parent_id":1108959919,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":159,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.98245,46.58665,16.02245,46.62665",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "O\u010deslavci"
     ],
@@ -49,9 +53,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u0447\u0435\u0441\u043b\u0430\u0432\u0446\u0456"
     ],
-    "name:und_x_variant":[
-        "O\u010deslavci"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1209265255,
-    "wof:lastmodified":1564216210,
+    "wof:lastmodified":1566644719,
     "wof:name":"Oceslavci",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

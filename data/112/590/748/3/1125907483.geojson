@@ -9,15 +9,18 @@
     "geom:bbox":"14.42194,46.00722,14.42194,46.00722",
     "geom:latitude":46.00722,
     "geom:longitude":14.42194,
-    "gn:gn_country":"SI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1837,
-    "gn:population":2195,
+    "gn:country":"SI",
+    "gn:fcode":"PPL",
+    "gn:population":1837,
     "iso:country":"SI",
+    "lbl:bbox":"14.40194,45.98722,14.44194,46.02722",
     "lbl:latitude":46.00722,
     "lbl:longitude":14.42194,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Vnanje Gorice"
@@ -46,9 +49,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u043d\u0430\u043d\u0454 \u0413\u043e\u0440\u0438\u0446\u0435"
     ],
-    "name:unk_x_variant":[
-        "Vnanje Gorice"
-    ],
     "qs_pg:aaroncc":"SI",
     "qs_pg:gn_country":"SI",
     "qs_pg:gn_fcode":"PPL",
@@ -66,7 +66,7 @@
     "qs_pg:woe_adm0":23424945,
     "qs_pg:woe_id":532098,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424945,
     "woe:name_adm0":"Slovenija",
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1125907483,
-    "wof:lastmodified":1563577109,
+    "wof:lastmodified":1566645059,
     "wof:name":"Vnanjegorice",
     "wof:parent_id":1108959895,
     "wof:placetype":"locality",

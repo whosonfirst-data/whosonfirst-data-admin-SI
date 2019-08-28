@@ -23,8 +23,12 @@
     "gn:population":158,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.8125,46.10367,13.8525,46.14367",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Pe\u010dine"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0447\u0438\u043d\u0435"
-    ],
-    "name:und_x_variant":[
-        "Pe\u010dine"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1193052909,
-    "wof:lastmodified":1564216249,
+    "wof:lastmodified":1566644746,
     "wof:name":"Pecine",
     "wof:parent_id":1108959617,
     "wof:placetype":"locality",

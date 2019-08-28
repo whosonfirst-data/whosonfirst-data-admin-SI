@@ -23,8 +23,12 @@
     "gn:population":222,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.29083,45.47361,14.33083,45.51361",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Novokra\u010dine"
     ],
@@ -50,8 +54,7 @@
         "\u041d\u043e\u0432\u043e\u043a\u0440\u0430\u0447\u0438\u043d\u0435"
     ],
     "name:und_x_variant":[
-        "Nova Kra\u010dina",
-        "Novokra\u010dine"
+        "Nova Kra\u010dina"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1326769141,
-    "wof:lastmodified":1564215662,
+    "wof:lastmodified":1566644346,
     "wof:name":"Novokracine",
     "wof:parent_id":1108959873,
     "wof:placetype":"locality",

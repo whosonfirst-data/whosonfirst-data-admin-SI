@@ -23,8 +23,12 @@
     "gn:population":51,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.59381,45.74609,14.63381,45.78609",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Jelovec"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1326959081,
-    "wof:lastmodified":1564215638,
+    "wof:lastmodified":1566644332,
     "wof:name":"Jelovec",
     "wof:parent_id":1108959805,
     "wof:placetype":"locality",

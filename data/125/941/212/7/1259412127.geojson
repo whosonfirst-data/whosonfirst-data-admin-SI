@@ -23,8 +23,12 @@
     "gn:population":192,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.04523,46.34539,16.08523,46.38539",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gori\u010dak"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0440\u0438\u0447\u0430\u043a"
-    ],
-    "name:und_x_variant":[
-        "Gori\u010dak"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1259412127,
-    "wof:lastmodified":1564216813,
+    "wof:lastmodified":1566645183,
     "wof:name":"Goricak",
     "wof:parent_id":1108959619,
     "wof:placetype":"locality",

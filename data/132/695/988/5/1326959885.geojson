@@ -23,8 +23,12 @@
     "gn:population":137,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.20598,46.30118,14.24598,46.34118",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dobro Polje"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1326959885,
-    "wof:lastmodified":1564215641,
+    "wof:lastmodified":1566644333,
     "wof:name":"Dobro Polje",
     "wof:parent_id":1108959825,
     "wof:placetype":"locality",

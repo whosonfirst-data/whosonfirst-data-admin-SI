@@ -23,8 +23,12 @@
     "gn:population":23,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.41046,45.92993,15.45046,45.96993",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Nem\u0161ka Gora"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0435\u043c\u0448\u043a\u0430 \u0413\u043e\u0440\u0430"
-    ],
-    "name:und_x_variant":[
-        "Nem\u0161ka Gora"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1243207045,
-    "wof:lastmodified":1564216766,
+    "wof:lastmodified":1566645151,
     "wof:name":"Nemska Gora",
     "wof:parent_id":1108959473,
     "wof:placetype":"locality",

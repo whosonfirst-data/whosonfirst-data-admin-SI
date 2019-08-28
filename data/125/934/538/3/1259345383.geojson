@@ -23,8 +23,12 @@
     "gn:population":100,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.03126,45.63359,14.07126,45.67359",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gornje Vreme"
     ],
@@ -46,8 +50,7 @@
     "name:und_x_variant":[
         "Vreme",
         "Auremo di Sopra",
-        "Gorenje Vreme",
-        "Gornje Vreme"
+        "Gorenje Vreme"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1259345383,
-    "wof:lastmodified":1564216855,
+    "wof:lastmodified":1566645211,
     "wof:name":"Gornje Vreme",
     "wof:parent_id":1108959845,
     "wof:placetype":"locality",

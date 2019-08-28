@@ -23,8 +23,12 @@
     "gn:population":89,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.74477,46.09502,13.78477,46.13502",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kanalski Lom"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1276366129,
-    "wof:lastmodified":1564216085,
+    "wof:lastmodified":1566644636,
     "wof:name":"Kanalski Lom",
     "wof:parent_id":1108959617,
     "wof:placetype":"locality",

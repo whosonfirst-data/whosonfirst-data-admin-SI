@@ -23,8 +23,12 @@
     "gn:population":25,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.99193,46.60029,16.03193,46.64029",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Melanjski Vrh"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1310341385,
-    "wof:lastmodified":1564216529,
+    "wof:lastmodified":1566644935,
     "wof:name":"Melanjski Vrh",
     "wof:parent_id":1108959569,
     "wof:placetype":"locality",

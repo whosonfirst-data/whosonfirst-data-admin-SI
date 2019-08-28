@@ -23,8 +23,12 @@
     "gn:population":116,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.85401,45.89575,14.89401,45.93575",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Podbor\u0161t"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0434\u0431\u043e\u0440\u0448\u0442"
-    ],
-    "name:und_x_variant":[
-        "Podbor\u0161t"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1242611699,
-    "wof:lastmodified":1564216698,
+    "wof:lastmodified":1566645105,
     "wof:name":"Podborst",
     "wof:parent_id":1108959583,
     "wof:placetype":"locality",

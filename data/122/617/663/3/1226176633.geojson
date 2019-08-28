@@ -23,8 +23,12 @@
     "gn:population":429,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.13,46.71333,16.17,46.75333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0646\u062a\u0634\u0627"
     ],
@@ -61,10 +65,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043d\u0435\u0447\u0430"
     ],
-    "name:und_x_variant":[
-        "Vaslak",
-        "Vane\u010da"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1226176633,
-    "wof:lastmodified":1564216882,
+    "wof:lastmodified":1566645228,
     "wof:name":"Vaneca",
     "wof:parent_id":1108959935,
     "wof:placetype":"locality",

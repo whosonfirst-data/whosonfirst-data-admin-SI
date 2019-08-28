@@ -23,8 +23,12 @@
     "gn:population":47,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.14539,45.95674,15.18539,45.99674",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Spodnje Mladeti\u010de"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u043f\u043e\u0434\u043d\u0454 \u041c\u043b\u0430\u0434\u0435\u0442\u0438\u0447\u0435"
-    ],
-    "name:und_x_variant":[
-        "Spodnje Mladeti\u010de"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1242612271,
-    "wof:lastmodified":1564216698,
+    "wof:lastmodified":1566645105,
     "wof:name":"Spodnje Mladetice",
     "wof:parent_id":1108959927,
     "wof:placetype":"locality",

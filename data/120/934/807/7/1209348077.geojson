@@ -23,8 +23,12 @@
     "gn:population":67,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.88826,46.00755,14.92826,46.04755",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Liberga"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1209348077,
-    "wof:lastmodified":1564216192,
+    "wof:lastmodified":1566644708,
     "wof:name":"Liberga",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

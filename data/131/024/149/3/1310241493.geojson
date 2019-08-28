@@ -23,8 +23,12 @@
     "gn:population":9,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.44492,45.78931,14.48492,45.82931",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ro\u017ean\u010de"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0436\u0430\u043d\u0447\u0435"
-    ],
-    "name:und_x_variant":[
-        "Ro\u017ean\u010de"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1310241493,
-    "wof:lastmodified":1564216457,
+    "wof:lastmodified":1566644894,
     "wof:name":"Rozance",
     "wof:parent_id":1108959893,
     "wof:placetype":"locality",

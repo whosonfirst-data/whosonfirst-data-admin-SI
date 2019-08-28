@@ -23,8 +23,12 @@
     "gn:population":667,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.04611,46.63333,16.08611,46.67333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Petanjci"
     ],
@@ -59,9 +63,7 @@
         "\u041f\u0435\u0442\u0430\u043d\u044c\u0446\u0456"
     ],
     "name:und_x_variant":[
-        "Sz\u00e9cs\u00e9nyk\u00fat",
-        "Sz\u00e9ch\u00e9nyk\u00fat",
-        "Petanjci"
+        "Sz\u00e9ch\u00e9nyk\u00fat"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -88,7 +90,7 @@
         }
     ],
     "wof:id":1293323887,
-    "wof:lastmodified":1564215934,
+    "wof:lastmodified":1566644537,
     "wof:name":"Petanjci",
     "wof:parent_id":1108959519,
     "wof:placetype":"locality",

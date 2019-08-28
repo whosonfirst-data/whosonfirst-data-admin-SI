@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":45.810578,
     "lbl:longitude":14.323915,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.810578,
     "mps:longitude":14.323915,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Rakek"
     ],
@@ -56,13 +59,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u043a\u0435\u043a"
     ],
-    "name:und_x_preferred":[
-        "Rakek"
-    ],
     "name:und_x_variant":[
-        "Racche"
-    ],
-    "name:unk_x_variant":[
         "Racche"
     ],
     "qs:a0":"Slovenija",
@@ -81,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":215,
     "wof:belongsto":[
@@ -95,7 +92,6 @@
         "fct:id":"06f320b6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3192021,
         "gp:id":531317,
-        "qs:id":302652,
         "qs_pg:id":302652,
         "wd:id":"Q3437803",
         "wk:page":"Rakek"
@@ -115,7 +111,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577012,
+    "wof:lastmodified":1566645007,
     "wof:name":"Rakek",
     "wof:parent_id":1108959905,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":188,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.29667,46.23,15.33667,46.27",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Leskovec"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1276751873,
-    "wof:lastmodified":1564215984,
+    "wof:lastmodified":1566644571,
     "wof:name":"Leskovec",
     "wof:parent_id":1108959693,
     "wof:placetype":"locality",

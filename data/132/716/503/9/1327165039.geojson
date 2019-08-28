@@ -23,8 +23,12 @@
     "gn:population":45,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.86972,45.7975,13.90972,45.8375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kodreti"
     ],
@@ -44,8 +48,7 @@
         "\u041a\u043e\u0434\u0440\u0435\u0442\u0438"
     ],
     "name:und_x_variant":[
-        "Branica",
-        "Kodreti"
+        "Branica"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1327165039,
-    "wof:lastmodified":1564215702,
+    "wof:lastmodified":1566644373,
     "wof:name":"Kodreti",
     "wof:parent_id":1108959539,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":77,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.59667,46.04667,15.63667,46.08667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kri\u017ean Vrh"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0438\u0436\u0430\u043d \u0412\u0440\u0445"
-    ],
-    "name:und_x_variant":[
-        "Kri\u017ean Vrh"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1310532851,
-    "wof:lastmodified":1564216484,
+    "wof:lastmodified":1566644909,
     "wof:name":"Krizan Vrh",
     "wof:parent_id":1108959915,
     "wof:placetype":"locality",

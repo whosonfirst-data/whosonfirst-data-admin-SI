@@ -23,8 +23,12 @@
     "gn:population":75,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.85455,45.45533,14.89455,45.49533",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Potok"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1344188353,
-    "wof:lastmodified":1564215812,
+    "wof:lastmodified":1566644447,
     "wof:name":"Potok",
     "wof:parent_id":1108959711,
     "wof:placetype":"locality",

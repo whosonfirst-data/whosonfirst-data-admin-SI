@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":45.940363,
     "lbl:longitude":14.809561,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.940363,
     "mps:longitude":14.809561,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0625\u064a\u0641\u0627\u0646\u062a\u0633\u0627 \u063a\u0648\u0631\u064a\u0643\u0627"
     ],
@@ -126,7 +129,7 @@
         "Ivancna Gorica Kommun"
     ],
     "name:tam_x_preferred":[
-        "\u0b87\u0bb5\u0bcd\u0ba8\u0b95\u0bbf\u0ba9 \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95  \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+        "\u0b87\u0bb5\u0bcd\u0ba8\u0b95\u0bbf\u0ba9 \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c10\u0c35\u0c3e\u0c28\u0c3e \u0c17\u0c4b\u0c30\u0c3f\u0c15\u0c3e \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
@@ -140,7 +143,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u0432\u0430\u043d\u0447\u043d\u0430 \u0413\u043e\u0440\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hudo"
     ],
     "name:urd_x_preferred":[
@@ -166,7 +169,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -178,7 +181,7 @@
     "wof:concordances":{
         "gn:id":3199078,
         "gp:id":530278,
-        "qs:id":1078925,
+        "qs_pg:id":1078925,
         "wd:id":"Q1008048",
         "wk:page":"Ivan\u010dna Gorica"
     },
@@ -194,7 +197,7 @@
         }
     ],
     "wof:id":101845263,
-    "wof:lastmodified":1563576930,
+    "wof:lastmodified":1566644983,
     "wof:name":"Ivan\u010dna Gorica",
     "wof:parent_id":1108959583,
     "wof:placetype":"locality",

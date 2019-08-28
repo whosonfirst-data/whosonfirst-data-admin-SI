@@ -23,8 +23,12 @@
     "gn:population":26,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.1808,45.48315,15.2208,45.52315",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Mala Lahinja"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1310572771,
-    "wof:lastmodified":1564216524,
+    "wof:lastmodified":1566644932,
     "wof:name":"Mala Lahinja",
     "wof:parent_id":1108959699,
     "wof:placetype":"locality",

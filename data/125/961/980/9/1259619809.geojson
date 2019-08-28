@@ -23,8 +23,12 @@
     "gn:population":40,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.37157,45.83154,15.41157,45.87154",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dobrava pri Kostanjevici"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1259619809,
-    "wof:lastmodified":1564216842,
+    "wof:lastmodified":1566645201,
     "wof:name":"Dobrava pri Kostanjevici",
     "wof:parent_id":1108959835,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":167,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.37568,46.12535,14.41568,46.16535",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ladja"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1360215325,
-    "wof:lastmodified":1564216570,
+    "wof:lastmodified":1566644957,
     "wof:name":"Ladja",
     "wof:parent_id":1108959881,
     "wof:placetype":"locality",

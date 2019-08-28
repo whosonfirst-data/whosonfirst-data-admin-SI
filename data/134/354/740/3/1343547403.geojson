@@ -23,8 +23,12 @@
     "gn:population":176,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.27844,45.78762,14.31844,45.82762",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Slivice"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1343547403,
-    "wof:lastmodified":1564215716,
+    "wof:lastmodified":1566644382,
     "wof:name":"Slivice",
     "wof:parent_id":1108959905,
     "wof:placetype":"locality",

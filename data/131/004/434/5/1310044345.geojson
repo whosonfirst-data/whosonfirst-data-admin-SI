@@ -23,8 +23,12 @@
     "gn:population":147,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.19028,45.55361,14.23028,45.59361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Zare\u010dje"
     ],
@@ -50,8 +54,7 @@
         "\u0417\u0430\u0440\u0435\u0447\u0454"
     ],
     "name:und_x_variant":[
-        "Sarecce",
-        "Zare\u010dje"
+        "Sarecce"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1310044345,
-    "wof:lastmodified":1564216521,
+    "wof:lastmodified":1566644930,
     "wof:name":"Zarecje",
     "wof:parent_id":1108959873,
     "wof:placetype":"locality",

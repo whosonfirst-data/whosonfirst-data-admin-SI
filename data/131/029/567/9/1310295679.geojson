@@ -23,8 +23,12 @@
     "gn:population":132,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.68606,46.00427,15.72606,46.04427",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Drenovec pri Bukovju"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1310295679,
-    "wof:lastmodified":1564216501,
+    "wof:lastmodified":1566644918,
     "wof:name":"Drenovec pri Bukovju",
     "wof:parent_id":1108959585,
     "wof:placetype":"locality",

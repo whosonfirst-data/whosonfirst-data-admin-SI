@@ -23,8 +23,12 @@
     "gn:population":60,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.09776,46.00542,14.13776,46.04542",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Brekovice"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1360121201,
-    "wof:lastmodified":1564216542,
+    "wof:lastmodified":1566644942,
     "wof:name":"Brekovice",
     "wof:parent_id":1108959673,
     "wof:placetype":"locality",

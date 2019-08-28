@@ -23,8 +23,12 @@
     "gn:population":127,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.33,46.04667,15.37,46.08667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Podgorje ob Sevni\u010dni"
     ],
@@ -48,7 +52,6 @@
     ],
     "name:und_x_variant":[
         "Male Podgorje",
-        "Podgorje ob Sevni\u010dni",
         "Podgorje pri Sevni\u010dni"
     ],
     "src:geom":"geonames",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1310137033,
-    "wof:lastmodified":1564216469,
+    "wof:lastmodified":1566644901,
     "wof:name":"Podgorje ob Sevnicni",
     "wof:parent_id":1108959927,
     "wof:placetype":"locality",

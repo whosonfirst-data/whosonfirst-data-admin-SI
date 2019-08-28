@@ -23,8 +23,12 @@
     "gn:population":140,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.29694,45.50694,14.33694,45.54694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Trp\u010dane"
     ],
@@ -50,8 +54,7 @@
         "\u0422\u0440\u043f\u0447\u0430\u043d\u0435"
     ],
     "name:und_x_variant":[
-        "Terciane",
-        "Trp\u010dane"
+        "Terciane"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1293052615,
-    "wof:lastmodified":1564215941,
+    "wof:lastmodified":1566644542,
     "wof:name":"Trpcane",
     "wof:parent_id":1108959873,
     "wof:placetype":"locality",

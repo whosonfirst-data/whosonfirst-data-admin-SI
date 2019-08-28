@@ -9,17 +9,20 @@
     "geom:bbox":"14.068769,46.380767,14.068769,46.380767",
     "geom:latitude":46.380767,
     "geom:longitude":14.068769,
-    "gn:gn_country":"SI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":500,
+    "gn:country":"SI",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"SI",
+    "lbl:bbox":"14.048769,46.360767,14.088769,46.400767",
     "lbl:latitude":46.380767,
     "lbl:longitude":14.068769,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":46.380767,
     "mps:longitude":14.068769,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Zgornje Gorje"
     ],
@@ -233,7 +236,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":228,
     "wof:belongsto":[
@@ -246,7 +249,6 @@
     "wof:concordances":{
         "gn:id":3186514,
         "gp:id":532304,
-        "qs:id":1301725,
         "qs_pg:id":1301725,
         "wd:id":"Q2381766",
         "wk:page":"Zgornje Gorje"
@@ -263,7 +265,7 @@
         }
     ],
     "wof:id":101858965,
-    "wof:lastmodified":1563576958,
+    "wof:lastmodified":1566644991,
     "wof:name":"Zgornje Gorje",
     "wof:parent_id":1108959735,
     "wof:placetype":"locality",

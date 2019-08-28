@@ -23,8 +23,12 @@
     "gn:population":89,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.09979,46.4471,16.13979,46.4871",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u017dvab"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0416\u0432\u0430\u0431"
-    ],
-    "name:und_x_variant":[
-        "\u017dvab"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1243399903,
-    "wof:lastmodified":1564216675,
+    "wof:lastmodified":1566645089,
     "wof:name":"Zvab",
     "wof:parent_id":1108959765,
     "wof:placetype":"locality",

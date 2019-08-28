@@ -23,8 +23,12 @@
     "gn:population":77,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.81566,45.86034,14.85566,45.90034",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kitni Vrh"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1293619929,
-    "wof:lastmodified":1564215909,
+    "wof:lastmodified":1566644520,
     "wof:name":"Kitni Vrh",
     "wof:parent_id":1108959583,
     "wof:placetype":"locality",

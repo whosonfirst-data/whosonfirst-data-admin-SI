@@ -23,8 +23,12 @@
     "gn:population":31,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.21005,46.12384,14.25005,46.16384",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Sveti Florijan nad \u0160kofjo Loko"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0432\u0435\u0442\u0438\u0439 \u0424\u043b\u043e\u0440\u044f\u043d-\u043d\u0430\u0434-\u0428\u043a\u043e\u0444\u044c\u043e \u041b\u043e\u043a\u043e"
-    ],
-    "name:und_x_variant":[
-        "Sveti Florijan nad \u0160kofjo Loko"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1293034571,
-    "wof:lastmodified":1564215921,
+    "wof:lastmodified":1566644528,
     "wof:name":"Sveti Florijan nad Skofjo Loko",
     "wof:parent_id":1108959821,
     "wof:placetype":"locality",

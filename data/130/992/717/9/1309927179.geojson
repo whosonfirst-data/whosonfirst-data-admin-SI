@@ -23,8 +23,12 @@
     "gn:population":61,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.47346,45.97512,13.51346,46.01512",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Barbana"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1309927179,
-    "wof:lastmodified":1564216606,
+    "wof:lastmodified":1566645016,
     "wof:name":"Barbana",
     "wof:parent_id":1108959811,
     "wof:placetype":"locality",

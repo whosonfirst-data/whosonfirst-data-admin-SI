@@ -23,8 +23,12 @@
     "gn:population":53,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.975,45.76944,14.015,45.80944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Podgri\u010d"
     ],
@@ -44,8 +48,7 @@
         "\u041f\u043e\u0434\u0491\u0440\u0438\u0447"
     ],
     "name:und_x_variant":[
-        "Pogricci",
-        "Podgri\u010d"
+        "Pogricci"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1293724199,
-    "wof:lastmodified":1564215973,
+    "wof:lastmodified":1566644562,
     "wof:name":"Podgric",
     "wof:parent_id":1108959623,
     "wof:placetype":"locality",

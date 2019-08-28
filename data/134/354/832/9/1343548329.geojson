@@ -23,8 +23,12 @@
     "gn:population":261,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.48,46.24667,14.52,46.28667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Grad"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1343548329,
-    "wof:lastmodified":1564215716,
+    "wof:lastmodified":1566644382,
     "wof:name":"Grad",
     "wof:parent_id":1108959493,
     "wof:placetype":"locality",

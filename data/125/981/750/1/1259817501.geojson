@@ -23,8 +23,12 @@
     "gn:population":54,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.00171,45.90079,15.04171,45.94079",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gorenje Medvedje selo"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1259817501,
-    "wof:lastmodified":1564216865,
+    "wof:lastmodified":1566645216,
     "wof:name":"Gorenje Medvedje Selo",
     "wof:parent_id":1108959839,
     "wof:placetype":"locality",

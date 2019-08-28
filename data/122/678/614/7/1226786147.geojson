@@ -23,8 +23,12 @@
     "gn:population":241,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.84611,45.64611,14.88611,45.68611",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Klinja vas"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1226786147,
-    "wof:lastmodified":1564216966,
+    "wof:lastmodified":1566645282,
     "wof:name":"Klinja Vas",
     "wof:parent_id":1108959919,
     "wof:placetype":"locality",

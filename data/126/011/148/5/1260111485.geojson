@@ -23,8 +23,12 @@
     "gn:population":164,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.04396,46.57188,16.08396,46.61188",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Mur\u0161\u010dak"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0443\u0440\u0449\u0430\u043a"
-    ],
-    "name:und_x_variant":[
-        "Mur\u0161\u010dak"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1260111485,
-    "wof:lastmodified":1564216296,
+    "wof:lastmodified":1566644777,
     "wof:name":"Murscak",
     "wof:parent_id":1108959569,
     "wof:placetype":"locality",

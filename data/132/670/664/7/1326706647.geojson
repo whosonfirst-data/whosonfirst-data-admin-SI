@@ -23,8 +23,12 @@
     "gn:population":97,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.05719,45.47359,15.09719,45.51359",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Stari trg ob Kolpi"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1326706647,
-    "wof:lastmodified":1564215675,
+    "wof:lastmodified":1566644356,
     "wof:name":"Stari Trg ob Kolpi",
     "wof:parent_id":1108959699,
     "wof:placetype":"locality",

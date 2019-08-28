@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.56333,46.03,14.60333,46.07",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633779
@@ -34,7 +38,7 @@
         "gn:id":3194714
     },
     "wof:country":"SI",
-    "wof:geomhash":"f74cc0f00056382f61ee466ff9020349",
+    "wof:geomhash":"e5cd8ec606972e2dbad04572ad48f9e4",
     "wof:hierarchy":[
         {
             "country_id":85633779,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209451247,
-    "wof:lastmodified":1536286665,
+    "wof:lastmodified":1566644718,
     "wof:name":"Mrse",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.583329999999998,
+    14.58333,
     46.05,
-    14.583329999999998,
+    14.58333,
     46.05
 ],
   "geometry": {"coordinates":[14.58333,46.05],"type":"Point"}

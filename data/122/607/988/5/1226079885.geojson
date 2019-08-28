@@ -23,8 +23,12 @@
     "gn:population":107,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.8925,45.48139,13.9325,45.52139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dol pri Hrastovljah"
     ],
@@ -53,8 +57,7 @@
         "\u0414\u043e\u043b-\u043f\u0440\u0438-\u0425\u0440\u0430\u0441\u0442\u043e\u0432\u043b\u044f\u0445"
     ],
     "name:und_x_variant":[
-        "Dol",
-        "Dol pri Hrastovljah"
+        "Dol"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1226079885,
-    "wof:lastmodified":1564217001,
+    "wof:lastmodified":1566645309,
     "wof:name":"Dol pri Hrastovljah",
     "wof:parent_id":1108959527,
     "wof:placetype":"locality",

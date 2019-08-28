@@ -23,8 +23,12 @@
     "gn:population":15,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.0715,46.00349,15.1115,46.04349",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Je\u017eevec"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0404\u0436\u0435\u0432\u0435\u0446\u044c"
-    ],
-    "name:und_x_variant":[
-        "Je\u017eevec"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1276911419,
-    "wof:lastmodified":1564216081,
+    "wof:lastmodified":1566644633,
     "wof:name":"Jezevec",
     "wof:parent_id":1108959907,
     "wof:placetype":"locality",

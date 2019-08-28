@@ -23,8 +23,12 @@
     "gn:population":43,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.05238,45.9126,15.09238,45.9526",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Praprotnica"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1225981285,
-    "wof:lastmodified":1564216946,
+    "wof:lastmodified":1566645269,
     "wof:name":"Praprotnica",
     "wof:parent_id":1108959869,
     "wof:placetype":"locality",

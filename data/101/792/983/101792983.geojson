@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":45.952107,
     "lbl:longitude":15.063627,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.952107,
     "mps:longitude":15.063627,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Mirna"
     ],
@@ -71,9 +74,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0438\u0440\u043d\u0430"
     ],
-    "name:und_x_preferred":[
-        "Mirna"
-    ],
     "name:vie_x_preferred":[
         "Mirna"
     ],
@@ -96,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":3671,
     "wof:belongsto":[
@@ -110,7 +110,6 @@
         "fct:id":"06f2d9bc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3195041,
         "gp:id":530830,
-        "qs:id":312509,
         "qs_pg:id":312509,
         "wd:id":"Q2219904",
         "wk:page":"Mirna (settlement)"
@@ -130,7 +129,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563576997,
+    "wof:lastmodified":1566645002,
     "wof:name":"Mirna",
     "wof:parent_id":1108959869,
     "wof:placetype":"locality",

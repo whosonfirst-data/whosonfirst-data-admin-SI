@@ -23,8 +23,12 @@
     "gn:population":32,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.1891,45.81295,14.2291,45.85295",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Loha\u010da"
     ],
@@ -44,9 +48,6 @@
         "Loha\u010da"
     ],
     "name:slv_x_preferred":[
-        "Loha\u010da"
-    ],
-    "name:und_x_variant":[
         "Loha\u010da"
     ],
     "src:geom":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1309840601,
-    "wof:lastmodified":1564216603,
+    "wof:lastmodified":1566645014,
     "wof:name":"Lohaca",
     "wof:parent_id":1108959559,
     "wof:placetype":"locality",

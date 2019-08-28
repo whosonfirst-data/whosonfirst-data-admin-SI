@@ -23,8 +23,12 @@
     "gn:population":80,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.37596,46.1048,15.41596,46.1448",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Brezje pri Dobjem"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1209752327,
-    "wof:lastmodified":1564216220,
+    "wof:lastmodified":1566644726,
     "wof:name":"Brezje pri Dobjem",
     "wof:parent_id":1108959685,
     "wof:placetype":"locality",

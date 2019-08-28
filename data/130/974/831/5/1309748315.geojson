@@ -23,8 +23,12 @@
     "gn:population":26,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.0353,46.03693,15.0753,46.07693",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Magolnik"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1309748315,
-    "wof:lastmodified":1564216626,
+    "wof:lastmodified":1566645028,
     "wof:name":"Magolnik",
     "wof:parent_id":1108959907,
     "wof:placetype":"locality",

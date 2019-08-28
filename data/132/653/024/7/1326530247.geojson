@@ -23,8 +23,12 @@
     "gn:population":17,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.96455,46.26418,14.00455,46.30418",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Log v Bohinju"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1326530247,
-    "wof:lastmodified":1564215686,
+    "wof:lastmodified":1566644363,
     "wof:name":"Log v Bohinju",
     "wof:parent_id":1108959819,
     "wof:placetype":"locality",

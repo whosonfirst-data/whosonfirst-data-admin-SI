@@ -23,8 +23,12 @@
     "gn:population":162,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.58,46.43,15.62,46.47",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Loka pri Framu"
     ],
@@ -47,8 +51,7 @@
         "\u041b\u043e\u043a\u0430-\u043f\u0440\u0438-\u0424\u0440\u0430\u043c\u0443"
     ],
     "name:und_x_variant":[
-        "Loka",
-        "Loka pri Framu"
+        "Loka"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1343795941,
-    "wof:lastmodified":1564215751,
+    "wof:lastmodified":1566644406,
     "wof:name":"Loka pri Framu",
     "wof:parent_id":1108959589,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":156,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.16344,45.58479,14.20344,45.62479",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Prem"
     ],
@@ -55,10 +59,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0435\u043c"
     ],
-    "name:und_x_variant":[
-        "Primano",
-        "Prem"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":1225787911,
-    "wof:lastmodified":1564217004,
+    "wof:lastmodified":1566645310,
     "wof:name":"Prem",
     "wof:parent_id":1108959873,
     "wof:placetype":"locality",

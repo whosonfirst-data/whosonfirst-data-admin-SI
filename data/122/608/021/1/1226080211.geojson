@@ -23,8 +23,12 @@
     "gn:population":209,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.50361,46.50778,16.54361,46.54778",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Pince"
     ],
@@ -62,8 +66,7 @@
         "\u041f\u0438\u043d\u0446\u0435"
     ],
     "name:und_x_variant":[
-        "Pincze",
-        "Pince"
+        "Pincze"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1226080211,
-    "wof:lastmodified":1564216992,
+    "wof:lastmodified":1566645302,
     "wof:name":"Pince",
     "wof:parent_id":1108959475,
     "wof:placetype":"locality",

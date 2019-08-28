@@ -23,8 +23,12 @@
     "gn:population":34,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.0246,45.84648,15.0646,45.88648",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Jordankal"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1327468859,
-    "wof:lastmodified":1564215653,
+    "wof:lastmodified":1566644341,
     "wof:name":"Jordankal",
     "wof:parent_id":1108959751,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":119,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.03,46.51333,16.07,46.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Bu\u010dkovci"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0447\u043a\u043e\u0432\u0446\u0456"
-    ],
-    "name:und_x_variant":[
-        "Bu\u010dkovci"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1310136213,
-    "wof:lastmodified":1564216466,
+    "wof:lastmodified":1566644899,
     "wof:name":"Buckovci",
     "wof:parent_id":1108959499,
     "wof:placetype":"locality",

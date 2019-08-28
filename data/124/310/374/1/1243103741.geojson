@@ -23,8 +23,12 @@
     "gn:population":99,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.85275,45.73368,13.89275,45.77368",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u0160epulje"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0428\u0435\u043f\u0443\u043b\u0454"
-    ],
-    "name:und_x_variant":[
-        "\u0160epulje"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1243103741,
-    "wof:lastmodified":1564216785,
+    "wof:lastmodified":1566645163,
     "wof:name":"Sepulje",
     "wof:parent_id":1108959789,
     "wof:placetype":"locality",

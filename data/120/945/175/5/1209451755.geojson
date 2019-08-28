@@ -23,8 +23,12 @@
     "gn:population":61,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.67417,45.71667,14.71417,45.75667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dane"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1209451755,
-    "wof:lastmodified":1564216207,
+    "wof:lastmodified":1566644717,
     "wof:name":"Dane",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

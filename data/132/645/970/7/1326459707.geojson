@@ -23,8 +23,12 @@
     "gn:population":145,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.3105,45.82886,15.3505,45.86886",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u0160mal\u010dja vas"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:slv_x_preferred":[
         "\u0160mal\u010dja vas"
-    ],
-    "name:und_x_variant":[
-        "\u0160mal\u010dja Vas"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1326459707,
-    "wof:lastmodified":1564215615,
+    "wof:lastmodified":1566644317,
     "wof:name":"Smalcja Vas",
     "wof:parent_id":1108959937,
     "wof:placetype":"locality",

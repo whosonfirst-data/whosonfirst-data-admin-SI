@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":46.245132,
     "lbl:longitude":13.579848,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.245132,
     "mps:longitude":13.579848,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0628\u0627\u0631\u064a\u062f"
     ],
@@ -122,9 +125,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0431\u0430\u0440\u0456\u0434"
     ],
-    "name:unk_x_variant":[
-        "Caporetto"
-    ],
     "name:vec_x_preferred":[
         "Caporeto"
     ],
@@ -150,7 +150,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":46.24639,
     "wd:longitude":13.57861,
@@ -165,7 +165,6 @@
     "wof:concordances":{
         "gn:id":3197983,
         "gp:id":55849313,
-        "qs:id":147227,
         "qs_pg:id":147227,
         "wd:id":"Q3618115",
         "wk:page":"Kobarid"
@@ -182,7 +181,7 @@
         }
     ],
     "wof:id":101792065,
-    "wof:lastmodified":1563576991,
+    "wof:lastmodified":1566645000,
     "wof:name":"Kobarid",
     "wof:parent_id":1108959523,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":306,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.60876,45.90888,15.64876,45.94888",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Buko\u0161ek"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0443\u043a\u043e\u0448\u0435\u043a"
-    ],
-    "name:und_x_variant":[
-        "Buko\u0161ek"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1260166709,
-    "wof:lastmodified":1564216297,
+    "wof:lastmodified":1566644778,
     "wof:name":"Bukosek",
     "wof:parent_id":1108959585,
     "wof:placetype":"locality",

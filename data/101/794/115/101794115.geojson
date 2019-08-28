@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":45.536826,
     "lbl:longitude":13.660461,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":45.536826,
     "mps:longitude":13.660461,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0625\u064a\u0632\u0648\u0644\u0627"
     ],
@@ -200,15 +203,8 @@
     "name:und_x_colloquial":[
         "Izla"
     ],
-    "name:und_x_preferred":[
-        "Izola"
-    ],
     "name:und_x_variant":[
-        "Isola",
         "Isola D'istria",
-        "I\u017ela"
-    ],
-    "name:unk_x_variant":[
         "I\u017ela"
     ],
     "name:urd_x_preferred":[
@@ -236,7 +232,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":45.534444,
     "wd:longitude":13.6675,
@@ -252,7 +248,6 @@
         "fct:id":"06f289e4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3199017,
         "gp:id":530288,
-        "qs:id":1301685,
         "qs_pg:id":1301685,
         "wd:id":"Q15877"
     },
@@ -271,7 +266,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563576981,
+    "wof:lastmodified":1566644997,
     "wof:name":"Izola",
     "wof:parent_id":1108959551,
     "wof:placetype":"locality",

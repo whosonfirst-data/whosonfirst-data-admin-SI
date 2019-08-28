@@ -23,8 +23,12 @@
     "gn:population":301,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.78278,46.59333,15.82278,46.63333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Spodnji Gasteraj"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1327368297,
-    "wof:lastmodified":1564215595,
+    "wof:lastmodified":1566644306,
     "wof:name":"Spodnji Gasteraj",
     "wof:parent_id":1108959815,
     "wof:placetype":"locality",

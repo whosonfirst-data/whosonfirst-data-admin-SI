@@ -23,8 +23,12 @@
     "gn:population":99,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.13,45.88,15.17,45.92",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u010ce\u0161njice pri Trebelnem"
     ],
@@ -47,8 +51,7 @@
         "\u0427\u0435\u0448\u043d\u0456\u0446\u0435-\u043f\u0440\u0438-\u0422\u0440\u0435\u0431\u0435\u043b\u043d\u0435\u043c"
     ],
     "name:und_x_variant":[
-        "Ce\u0161njice",
-        "\u010ce\u0161njice pri Trebelnem"
+        "Ce\u0161njice"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1260215319,
-    "wof:lastmodified":1564216303,
+    "wof:lastmodified":1566644782,
     "wof:name":"Cesnjice pri Trebelnem",
     "wof:parent_id":1108959913,
     "wof:placetype":"locality",

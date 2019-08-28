@@ -23,8 +23,12 @@
     "gn:population":112,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.92167,46.31528,15.96167,46.35528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Spodnji Leskovec"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1259519675,
-    "wof:lastmodified":1564216852,
+    "wof:lastmodified":1566645209,
     "wof:name":"Spodnji Leskovec",
     "wof:parent_id":1108959747,
     "wof:placetype":"locality",

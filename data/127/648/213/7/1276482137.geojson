@@ -23,8 +23,12 @@
     "gn:population":152,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.02222,46.48222,16.06222,46.52222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Trnovci"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1276482137,
-    "wof:lastmodified":1564216061,
+    "wof:lastmodified":1566644621,
     "wof:name":"Trnovci",
     "wof:parent_id":1108959931,
     "wof:placetype":"locality",

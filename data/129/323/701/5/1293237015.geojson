@@ -23,8 +23,12 @@
     "gn:population":266,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.43972,45.90028,15.47972,45.94028",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Velika vas pri Kr\u0161kem"
     ],
@@ -53,8 +57,7 @@
         "\u0412\u0435\u043b\u0438\u043a\u0430 \u0412\u0430\u0441-\u043f\u0440\u0438-\u041a\u0440\u0448\u043a\u0435\u043c"
     ],
     "name:und_x_variant":[
-        "Velika Vas",
-        "Velika Vas pri Kr\u0161kem"
+        "Velika Vas"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1293237015,
-    "wof:lastmodified":1564215881,
+    "wof:lastmodified":1566644502,
     "wof:name":"Velika Vas pri Krskem",
     "wof:parent_id":1108959473,
     "wof:placetype":"locality",

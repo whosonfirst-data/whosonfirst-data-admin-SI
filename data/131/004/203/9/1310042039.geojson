@@ -23,8 +23,12 @@
     "gn:population":207,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.97249,46.56198,16.01249,46.60198",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Grabono\u0161"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0430\u0431\u043e\u043d\u043e\u0448"
-    ],
-    "name:und_x_variant":[
-        "Grabono\u0161"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1310042039,
-    "wof:lastmodified":1564216519,
+    "wof:lastmodified":1566644929,
     "wof:name":"Grabonos",
     "wof:parent_id":1108959591,
     "wof:placetype":"locality",

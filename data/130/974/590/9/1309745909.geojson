@@ -23,8 +23,12 @@
     "gn:population":49,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.21891,46.09152,15.25891,46.13152",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vodi\u0161ko"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0412\u043e\u0434\u0438\u0448\u043a\u043e"
-    ],
-    "name:und_x_variant":[
-        "Vodi\u0161ko"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1309745909,
-    "wof:lastmodified":1564216622,
+    "wof:lastmodified":1566645025,
     "wof:name":"Vodisko",
     "wof:parent_id":1108959879,
     "wof:placetype":"locality",

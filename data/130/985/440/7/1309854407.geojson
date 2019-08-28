@@ -23,8 +23,12 @@
     "gn:population":101,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.71025,45.86507,13.75025,45.90507",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Draga"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1309854407,
-    "wof:lastmodified":1564216604,
+    "wof:lastmodified":1566645014,
     "wof:name":"Draga",
     "wof:parent_id":1108959487,
     "wof:placetype":"locality",

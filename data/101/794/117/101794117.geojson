@@ -9,15 +9,18 @@
     "geom:bbox":"13.7248428706,45.5744734042,13.7403036021,45.5836966159",
     "geom:latitude":45.579766,
     "geom:longitude":13.733514,
-    "geonames:id":"3204812,3220262",
+    "gn:id":"3204812,3220262",
     "gn:population":3278,
     "iso:country":"SI",
     "lbl:latitude":45.580496,
     "lbl:longitude":13.734276,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.580496,
     "mps:longitude":13.734276,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Ankaran"
     ],
@@ -249,9 +252,6 @@
     "name:tur_x_preferred":[
         "Ankaran"
     ],
-    "name:unk_x_variant":[
-        "Ancarano"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0646\u06a9\u0627\u0631\u0627\u0646"
     ],
@@ -298,7 +298,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1342,
     "wof:belongsto":[
@@ -311,7 +311,6 @@
     "wof:concordances":{
         "gn:id":3220262,
         "gp:id":529486,
-        "qs:id":900572,
         "qs_pg:id":900572,
         "wd:id":"Q387789",
         "wk:page":"Ankaran"
@@ -328,7 +327,7 @@
         }
     ],
     "wof:id":101794117,
-    "wof:lastmodified":1563576979,
+    "wof:lastmodified":1566644997,
     "wof:name":"Ankaran",
     "wof:parent_id":1108959857,
     "wof:placetype":"locality",

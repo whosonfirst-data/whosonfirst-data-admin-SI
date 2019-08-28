@@ -23,8 +23,12 @@
     "gn:population":51,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.11306,45.63167,14.15306,45.67167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Stara Su\u0161ica"
     ],
@@ -47,8 +51,7 @@
         "\u0421\u0442\u0430\u0440\u0430 \u0421\u0443\u0448\u0438\u0446\u044f"
     ],
     "name:und_x_variant":[
-        "Sussizza",
-        "Stara Su\u0161ica"
+        "Sussizza"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1209445387,
-    "wof:lastmodified":1564216216,
+    "wof:lastmodified":1566644723,
     "wof:name":"Stara Susica",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

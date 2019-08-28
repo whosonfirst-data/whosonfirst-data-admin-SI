@@ -23,8 +23,12 @@
     "gn:population":111,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.43,45.84667,15.47,45.88667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Malo Mra\u0161evo"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043b\u043e \u041c\u0440\u0430\u0448\u0435\u0432\u043e"
-    ],
-    "name:und_x_variant":[
-        "Malo Mra\u0161evo"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1344194311,
-    "wof:lastmodified":1564215804,
+    "wof:lastmodified":1566644442,
     "wof:name":"Malo Mrasevo",
     "wof:parent_id":1108959473,
     "wof:placetype":"locality",

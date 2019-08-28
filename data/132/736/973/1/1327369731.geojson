@@ -23,8 +23,12 @@
     "gn:population":212,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.23573,46.33426,14.27573,46.37426",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Le\u0161e"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0435\u0448\u0435"
-    ],
-    "name:und_x_variant":[
-        "Le\u0161e"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1327369731,
-    "wof:lastmodified":1564215601,
+    "wof:lastmodified":1566644308,
     "wof:name":"Lese",
     "wof:parent_id":1108959917,
     "wof:placetype":"locality",

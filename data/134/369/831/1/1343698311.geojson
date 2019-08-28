@@ -23,8 +23,12 @@
     "gn:population":20,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.40713,45.84955,15.44713,45.88955",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Sajevce"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1343698311,
-    "wof:lastmodified":1564215796,
+    "wof:lastmodified":1566644437,
     "wof:name":"Sajevce",
     "wof:parent_id":1108959835,
     "wof:placetype":"locality",

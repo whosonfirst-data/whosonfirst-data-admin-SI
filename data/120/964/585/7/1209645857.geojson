@@ -23,8 +23,12 @@
     "gn:population":64,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.29041,46.09425,15.33041,46.13425",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Velike Gorelce"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1209645857,
-    "wof:lastmodified":1564216116,
+    "wof:lastmodified":1566644657,
     "wof:name":"Velike Gorelce",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

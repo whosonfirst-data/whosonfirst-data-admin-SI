@@ -23,8 +23,12 @@
     "gn:population":181,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.98472,46.71083,16.02472,46.75083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Korovci"
     ],
@@ -59,9 +63,7 @@
         "\u041a\u043e\u0440\u043e\u0432\u0446\u0456"
     ],
     "name:und_x_variant":[
-        "Karlsdorf",
-        "K\u00e1rolyfa",
-        "Korovci"
+        "Karlsdorf"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -88,7 +90,7 @@
         }
     ],
     "wof:id":1292941715,
-    "wof:lastmodified":1564215876,
+    "wof:lastmodified":1566644498,
     "wof:name":"Korovci",
     "wof:parent_id":1108959707,
     "wof:placetype":"locality",

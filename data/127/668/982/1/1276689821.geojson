@@ -23,8 +23,12 @@
     "gn:population":334,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.98944,46.73833,16.02944,46.77833",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gerlinci"
     ],
@@ -62,10 +66,8 @@
         "\u0413\u0435\u0440\u043b\u0438\u043d\u0446\u0456"
     ],
     "name:und_x_variant":[
-        "G\u00f6rhegy",
         "Grlinci",
-        "J\u00f6rgelsdorf",
-        "Gerlinci"
+        "J\u00f6rgelsdorf"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":1276689821,
-    "wof:lastmodified":1564216028,
+    "wof:lastmodified":1566644601,
     "wof:name":"Gerlinci",
     "wof:parent_id":1108959707,
     "wof:placetype":"locality",

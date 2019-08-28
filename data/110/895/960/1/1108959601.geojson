@@ -12,8 +12,11 @@
     "iso:country":"SI",
     "lbl:latitude":45.644179,
     "lbl:longitude":15.107129,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Semi\u010d"
     ],
@@ -45,7 +48,7 @@
         "Semi\u010d"
     ],
     "src:geom":"svn-sma",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1108959601,
-    "wof:lastmodified":1564216407,
+    "wof:lastmodified":1566644857,
     "wof:name":"Semi\u010d",
     "wof:parent_id":1108959943,
     "wof:placetype":"localadmin",

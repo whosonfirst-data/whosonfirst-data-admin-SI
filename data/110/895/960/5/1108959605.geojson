@@ -12,8 +12,11 @@
     "iso:country":"SI",
     "lbl:latitude":45.918572,
     "lbl:longitude":15.304584,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "\u0160kocjan"
     ],
@@ -42,7 +45,7 @@
         "\u0160kocjan"
     ],
     "src:geom":"svn-sma",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1108959605,
-    "wof:lastmodified":1564216408,
+    "wof:lastmodified":1566644858,
     "wof:name":"\u0160kocjan",
     "wof:parent_id":1108959943,
     "wof:placetype":"localadmin",

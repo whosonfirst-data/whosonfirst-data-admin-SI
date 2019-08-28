@@ -23,8 +23,12 @@
     "gn:population":366,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.25543,46.33744,14.29543,46.37744",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Brezje pri Tr\u017ei\u010du"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0435\u0437\u0454-\u043f\u0440\u0438-\u0422\u0440\u0436\u0438\u0447\u0443"
-    ],
-    "name:und_x_variant":[
-        "Brezje pri Tr\u017ei\u010du"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1310238805,
-    "wof:lastmodified":1564216458,
+    "wof:lastmodified":1566644894,
     "wof:name":"Brezje pri Trzicu",
     "wof:parent_id":1108959917,
     "wof:placetype":"locality",

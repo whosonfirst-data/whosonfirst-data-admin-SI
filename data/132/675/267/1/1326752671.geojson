@@ -23,8 +23,12 @@
     "gn:population":142,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.49987,45.84848,15.53987,45.88848",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Bu\u0161e\u010da vas"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0448\u0435\u0447\u0430 \u0412\u0430\u0441"
-    ],
-    "name:und_x_variant":[
-        "Bu\u0161e\u010da Vas"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1326752671,
-    "wof:lastmodified":1564215614,
+    "wof:lastmodified":1566644316,
     "wof:name":"Buseca Vas",
     "wof:parent_id":1108959585,
     "wof:placetype":"locality",

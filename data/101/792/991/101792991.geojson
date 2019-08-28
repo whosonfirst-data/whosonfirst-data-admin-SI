@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":45.986521,
     "lbl:longitude":14.571993,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.986521,
     "mps:longitude":14.571993,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0634\u0643\u0648\u0641\u0644\u064a\u062a\u0633\u0627"
     ],
@@ -125,7 +128,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u043a\u043e\u0444\u043b\u0456\u0446\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u0160kofelca"
     ],
     "name:urd_x_preferred":[
@@ -153,7 +156,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -165,7 +168,6 @@
     "wof:concordances":{
         "gn:id":3190712,
         "gp:id":531546,
-        "qs:id":147124,
         "qs_pg:id":147124,
         "wd:id":"Q392103",
         "wk:page":"\u0160kofljica"
@@ -182,7 +184,7 @@
         }
     ],
     "wof:id":101792991,
-    "wof:lastmodified":1563576984,
+    "wof:lastmodified":1566644998,
     "wof:name":"\u0160kofljica",
     "wof:parent_id":1108959891,
     "wof:placetype":"locality",

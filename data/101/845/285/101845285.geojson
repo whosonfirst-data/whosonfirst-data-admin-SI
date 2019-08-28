@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":46.578268,
     "lbl:longitude":15.832554,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.578268,
     "mps:longitude":15.832554,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Lenart v Slovenskih goricah"
     ],
@@ -92,7 +95,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u043d\u0430\u0440\u0442-\u0432-\u0421\u043b\u043e\u0432\u0435\u043d\u0441\u044c\u043a\u0438\u0445 \u0413\u043e\u0440\u0438\u0446\u044f\u0445"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sveti Lenart"
     ],
     "name:vie_x_preferred":[
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":264.0,
     "wd:latitude":46.575,
@@ -130,7 +133,6 @@
     "wof:concordances":{
         "gn:id":3196682,
         "gp:id":530584,
-        "qs:id":147190,
         "qs_pg:id":147190,
         "wd:id":"Q15889",
         "wk:page":"Lenart v Slovenskih Goricah"
@@ -147,7 +149,7 @@
         }
     ],
     "wof:id":101845285,
-    "wof:lastmodified":1563576926,
+    "wof:lastmodified":1566644982,
     "wof:name":"Lenart v Slov. goricah",
     "wof:parent_id":1108959477,
     "wof:placetype":"locality",

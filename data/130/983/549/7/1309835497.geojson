@@ -23,8 +23,12 @@
     "gn:population":138,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.95089,46.52408,15.99089,46.56408",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Smolinci"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1309835497,
-    "wof:lastmodified":1564216597,
+    "wof:lastmodified":1566645010,
     "wof:name":"Smolinci",
     "wof:parent_id":1108959703,
     "wof:placetype":"locality",

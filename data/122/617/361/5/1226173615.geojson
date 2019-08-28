@@ -23,8 +23,12 @@
     "gn:population":49,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.92861,45.54694,14.96861,45.58694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Rajndol"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1226173615,
-    "wof:lastmodified":1564216879,
+    "wof:lastmodified":1566645226,
     "wof:name":"Rajndol",
     "wof:parent_id":1108959919,
     "wof:placetype":"locality",

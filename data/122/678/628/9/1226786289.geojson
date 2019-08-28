@@ -23,8 +23,12 @@
     "gn:population":48,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.86528,45.7775,13.90528,45.8175",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ravnje"
     ],
@@ -44,8 +48,7 @@
         "\u0420\u0430\u0432\u043d\u0454"
     ],
     "name:und_x_variant":[
-        "Ravne",
-        "Ravnje"
+        "Ravne"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1226786289,
-    "wof:lastmodified":1564216962,
+    "wof:lastmodified":1566645280,
     "wof:name":"Ravnje",
     "wof:parent_id":1108959789,
     "wof:placetype":"locality",

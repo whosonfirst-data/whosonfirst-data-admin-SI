@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":45.892425,
     "lbl:longitude":13.608603,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.892425,
     "mps:longitude":13.608603,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Miren"
     ],
@@ -56,9 +59,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0440\u0435\u043d"
     ],
-    "name:unk_x_variant":[
-        "Merna"
-    ],
     "qs:a0":"Italia",
     "qs:a1":"*",
     "qs:a1r":"0",
@@ -75,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":263,
     "wof:belongsto":[
@@ -88,10 +88,12 @@
     "wof:concordances":{
         "gn:id":3195054,
         "gp:id":530829,
-        "qs:id":147172,
-        "qs_pg:id":226842,
+        "qs_pg:id":147172,
         "wd:id":"Q2036306",
         "wk:page":"Miren"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":226842
     },
     "wof:country":"SI",
     "wof:geomhash":"684eb5613cb38ffb52cd3ece1b7eec00",
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":101793003,
-    "wof:lastmodified":1563576974,
+    "wof:lastmodified":1566644995,
     "wof:name":"Miren",
     "wof:parent_id":1108959481,
     "wof:placetype":"locality",

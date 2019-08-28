@@ -23,8 +23,12 @@
     "gn:population":55,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.0899,46.5144,16.1299,46.5544",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gaj\u0161evci"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0439\u0448\u0435\u0432\u0446\u0456"
-    ],
-    "name:und_x_variant":[
-        "Gaj\u0161evci"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1243002463,
-    "wof:lastmodified":1564216662,
+    "wof:lastmodified":1566645082,
     "wof:name":"Gajsevci",
     "wof:parent_id":1108959775,
     "wof:placetype":"locality",

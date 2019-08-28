@@ -23,8 +23,12 @@
     "gn:population":89,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.41333,45.91333,15.45333,45.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Brezje pri Senu\u0161ah"
     ],
@@ -47,8 +51,7 @@
         "\u0411\u0440\u0435\u0437\u0454-\u043f\u0440\u0438-\u0421\u0435\u043d\u0443\u0448\u0430\u0445"
     ],
     "name:und_x_variant":[
-        "Brezje",
-        "Brezje pri Senu\u0161ah"
+        "Brezje"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1276909901,
-    "wof:lastmodified":1564216063,
+    "wof:lastmodified":1566644622,
     "wof:name":"Brezje pri Senusah",
     "wof:parent_id":1108959473,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":47,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.72166,46.13076,14.76166,46.17076",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Pogled"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1310535557,
-    "wof:lastmodified":1564216483,
+    "wof:lastmodified":1566644908,
     "wof:name":"Pogled",
     "wof:parent_id":1108959515,
     "wof:placetype":"locality",

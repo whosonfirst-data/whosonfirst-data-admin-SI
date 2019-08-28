@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.7925,45.83944,13.8325,45.87944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Sveti Martin"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1260200779,
-    "wof:lastmodified":1564216285,
+    "wof:lastmodified":1566644770,
     "wof:name":"Sveti Martin",
     "wof:parent_id":1108959545,
     "wof:placetype":"locality",

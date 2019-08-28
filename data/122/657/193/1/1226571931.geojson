@@ -23,8 +23,12 @@
     "gn:population":108,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.71577,46.64012,15.75577,46.68012",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Po\u010denik"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0447\u0435\u043d\u0438\u043a"
-    ],
-    "name:und_x_variant":[
-        "Po\u010denik"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1226571931,
-    "wof:lastmodified":1564216916,
+    "wof:lastmodified":1566645251,
     "wof:name":"Pocenik",
     "wof:parent_id":1108959553,
     "wof:placetype":"locality",

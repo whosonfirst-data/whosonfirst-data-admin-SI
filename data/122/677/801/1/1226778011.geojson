@@ -23,8 +23,12 @@
     "gn:population":76,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.0595,46.04378,14.0995,46.08378",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Jar\u010dja Dolina"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u042f\u0440\u0447\u044f \u0414\u043e\u043b\u0438\u043d\u0430"
-    ],
-    "name:und_x_variant":[
-        "Jar\u010dja Dolina"
     ],
     "name:urd_x_preferred":[
         "\u062c\u0627\u0631\u0686\u062c\u0627 \u0688\u0648\u0644\u0646\u0627"
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1226778011,
-    "wof:lastmodified":1564216973,
+    "wof:lastmodified":1566645288,
     "wof:name":"Jarcja Dolina",
     "wof:parent_id":1108959673,
     "wof:placetype":"locality",

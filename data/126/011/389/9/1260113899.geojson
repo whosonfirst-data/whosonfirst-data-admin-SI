@@ -23,8 +23,12 @@
     "gn:population":61,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.26119,45.83088,15.30119,45.87088",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Prapre\u010de pri \u0160entjerneju"
     ],
@@ -41,9 +45,6 @@
         "Prapre\u010de pri \u0160entjerneju"
     ],
     "name:slv_x_preferred":[
-        "Prapre\u010de pri \u0160entjerneju"
-    ],
-    "name:und_x_variant":[
         "Prapre\u010de pri \u0160entjerneju"
     ],
     "src:geom":"geonames",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1260113899,
-    "wof:lastmodified":1564216295,
+    "wof:lastmodified":1566644777,
     "wof:name":"Praprece pri Sentjerneju",
     "wof:parent_id":1108959937,
     "wof:placetype":"locality",

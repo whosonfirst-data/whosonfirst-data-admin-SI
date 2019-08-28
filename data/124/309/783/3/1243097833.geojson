@@ -23,8 +23,12 @@
     "gn:population":163,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.28629,46.33061,15.32629,46.37061",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Lipa pri Frankolovem"
     ],
@@ -50,8 +54,7 @@
         "\u041b\u0438\u043f\u0430-\u043f\u0440\u0438-\u0424\u0440\u0430\u043d\u043a\u043e\u043b\u043e\u0432\u0435\u043c"
     ],
     "name:und_x_variant":[
-        "Lipa",
-        "Lipa pri Frankolovem"
+        "Lipa"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1243097833,
-    "wof:lastmodified":1564216667,
+    "wof:lastmodified":1566645085,
     "wof:name":"Lipa pri Frankolovem",
     "wof:parent_id":1108959653,
     "wof:placetype":"locality",

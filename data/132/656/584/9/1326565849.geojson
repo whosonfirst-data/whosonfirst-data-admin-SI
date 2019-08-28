@@ -23,8 +23,12 @@
     "gn:population":34,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.20591,45.89614,15.24591,45.93614",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dol pri \u0160marjeti"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043b-\u043f\u0440\u0438-\u0428\u043c\u0430\u0440\u0454\u0442\u0456"
-    ],
-    "name:und_x_variant":[
-        "Dol pri \u0160marjeti"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1326565849,
-    "wof:lastmodified":1564215628,
+    "wof:lastmodified":1566644326,
     "wof:name":"Dol pri Smarjeti",
     "wof:parent_id":1108959833,
     "wof:placetype":"locality",

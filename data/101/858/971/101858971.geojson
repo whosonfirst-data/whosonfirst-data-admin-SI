@@ -11,12 +11,16 @@
     "geom:longitude":14.3305,
     "gn:population":1063,
     "iso:country":"SI",
+    "lbl:bbox":"14.3105,46.30681,14.3505,46.34681",
     "lbl:latitude":46.32681,
     "lbl:longitude":14.3305,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.32681,
     "mps:longitude":14.3305,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Golnik"
     ],
@@ -62,9 +66,6 @@
     "name:ukr_x_variant":[
         "\u0413\u043e\u043b\u043d\u0456\u043a"
     ],
-    "name:und_x_preferred":[
-        "Golnik"
-    ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
     "qs:a1r":"0",
@@ -81,7 +82,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":155,
     "wof:belongsto":[
@@ -95,7 +96,7 @@
         "fct:id":"06f2669e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3200450,
         "gp:id":55849926,
-        "qs:id":529049,
+        "qs_pg:id":529049,
         "wd:id":"Q1895190",
         "wk:page":"Golnik"
     },
@@ -114,7 +115,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563576962,
+    "wof:lastmodified":1566644992,
     "wof:name":"Golnik",
     "wof:parent_id":1108959933,
     "wof:placetype":"locality",

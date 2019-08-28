@@ -23,8 +23,12 @@
     "gn:population":250,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.96829,45.97951,15.00829,46.01951",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gabrovka"
     ],
@@ -51,8 +55,7 @@
     ],
     "name:und_x_variant":[
         "Sveti Kri\u017e",
-        "Sveti Kri\u017e pri Litiji",
-        "Gabrovka"
+        "Sveti Kri\u017e pri Litiji"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1209450131,
-    "wof:lastmodified":1564216206,
+    "wof:lastmodified":1566644716,
     "wof:name":"Gabrovka",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

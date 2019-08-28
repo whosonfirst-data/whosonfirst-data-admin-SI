@@ -23,8 +23,12 @@
     "gn:population":132,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.02028,45.91826,15.06028,45.95826",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Brezovica pri Mirni"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1293129667,
-    "wof:lastmodified":1564215892,
+    "wof:lastmodified":1566644509,
     "wof:name":"Brezovica pri Mirni",
     "wof:parent_id":1108959869,
     "wof:placetype":"locality",

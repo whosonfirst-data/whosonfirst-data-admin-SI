@@ -23,8 +23,12 @@
     "gn:population":817,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.97583,46.63472,16.01583,46.67472",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u010cre\u0161njevci"
     ],
@@ -54,8 +58,7 @@
     ],
     "name:und_x_variant":[
         "\u010crenjevci",
-        "\u010cre\u0161novci",
-        "\u010cre\u0161njevci"
+        "\u010cre\u0161novci"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1192979639,
-    "wof:lastmodified":1564216251,
+    "wof:lastmodified":1566644747,
     "wof:name":"Cresnjevci",
     "wof:parent_id":1108959817,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":54,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.20665,45.80062,15.24665,45.84062",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Sela pri Rate\u017eu"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043b\u0430-\u043f\u0440\u0438-\u0420\u0430\u0442\u0435\u0436\u0443"
-    ],
-    "name:und_x_variant":[
-        "Sela pri Rate\u017eu"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1226178745,
-    "wof:lastmodified":1564216876,
+    "wof:lastmodified":1566645224,
     "wof:name":"Sela pri Ratezu",
     "wof:parent_id":1108959465,
     "wof:placetype":"locality",

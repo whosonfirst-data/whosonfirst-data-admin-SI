@@ -23,8 +23,12 @@
     "gn:population":75,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.54907,46.17062,15.58907,46.21062",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Zibi\u0161ka vas"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1276158041,
-    "wof:lastmodified":1564216045,
+    "wof:lastmodified":1566644611,
     "wof:name":"Zibiska Vas",
     "wof:parent_id":1108959607,
     "wof:placetype":"locality",

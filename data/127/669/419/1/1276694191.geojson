@@ -23,8 +23,12 @@
     "gn:population":24,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.81028,45.47472,13.85028,45.51472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Bo\u010daji"
     ],
@@ -52,9 +56,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0447\u0430\u0457"
     ],
-    "name:und_x_variant":[
-        "Bo\u010daji"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1276694191,
-    "wof:lastmodified":1564216011,
+    "wof:lastmodified":1566644590,
     "wof:name":"Bocaji",
     "wof:parent_id":1108959527,
     "wof:placetype":"locality",

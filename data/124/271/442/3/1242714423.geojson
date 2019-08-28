@@ -23,8 +23,12 @@
     "gn:population":43,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.23899,45.99848,15.27899,46.03848",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Apnenik pri Bo\u0161tanju"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0410\u043f\u043d\u0435\u043d\u0438\u043a-\u043f\u0440\u0438-\u0411\u043e\u0448\u0442\u0430\u043d\u044e"
-    ],
-    "name:und_x_variant":[
-        "Apnenik pri Bo\u0161tanju"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1242714423,
-    "wof:lastmodified":1564216747,
+    "wof:lastmodified":1566645138,
     "wof:name":"Apnenik pri Bostanju",
     "wof:parent_id":1108959927,
     "wof:placetype":"locality",

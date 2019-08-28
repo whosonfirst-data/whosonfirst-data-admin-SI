@@ -23,8 +23,12 @@
     "gn:population":267,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.60639,45.835,14.64639,45.875",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ra\u0161ica"
     ],
@@ -47,8 +51,7 @@
         "\u0420\u0430\u0448\u0438\u0446\u044f"
     ],
     "name:und_x_variant":[
-        "Ra\u0161\u010dica",
-        "Ra\u0161ica"
+        "Ra\u0161\u010dica"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1326860569,
-    "wof:lastmodified":1564215612,
+    "wof:lastmodified":1566644316,
     "wof:name":"Rasica",
     "wof:parent_id":1108959859,
     "wof:placetype":"locality",

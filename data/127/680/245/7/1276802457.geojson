@@ -23,8 +23,12 @@
     "gn:population":232,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.23083,46.45167,16.27083,46.49167",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kog"
     ],
@@ -50,8 +54,7 @@
         "\u041a\u043e\u0433"
     ],
     "name:und_x_variant":[
-        "Veliki Kog",
-        "Kog"
+        "Veliki Kog"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1276802457,
-    "wof:lastmodified":1564215998,
+    "wof:lastmodified":1566644581,
     "wof:name":"Kog",
     "wof:parent_id":1108959765,
     "wof:placetype":"locality",

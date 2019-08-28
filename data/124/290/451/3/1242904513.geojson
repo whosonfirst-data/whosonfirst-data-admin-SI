@@ -23,8 +23,12 @@
     "gn:population":47,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.23122,46.4105,15.27122,46.4505",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1242904513,
-    "wof:lastmodified":1537086712,
+    "wof:lastmodified":1566645146,
     "wof:name":"Paka - Del",
     "wof:parent_id":1108959467,
     "wof:placetype":"locality",

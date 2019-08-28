@@ -23,8 +23,12 @@
     "gn:population":91,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.98724,45.90601,15.02724,45.94601",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ra\u010dje selo"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1209746613,
-    "wof:lastmodified":1564216199,
+    "wof:lastmodified":1566644711,
     "wof:name":"Racje Selo",
     "wof:parent_id":1108959839,
     "wof:placetype":"locality",

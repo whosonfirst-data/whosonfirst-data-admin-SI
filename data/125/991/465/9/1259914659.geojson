@@ -23,8 +23,12 @@
     "gn:population":185,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.18827,46.10444,15.22827,46.14444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Globoko"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1259914659,
-    "wof:lastmodified":1564216794,
+    "wof:lastmodified":1566645169,
     "wof:name":"Globoko",
     "wof:parent_id":1108959879,
     "wof:placetype":"locality",

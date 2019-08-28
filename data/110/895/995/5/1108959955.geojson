@@ -18,8 +18,10 @@
     ],
     "lbl:latitude":46.539795,
     "lbl:longitude":15.088164,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":0,
     "mz:is_current":1,
+    "mz:min_zoom":4.0,
     "mz:note":"statistical region, no administrative function",
     "name:deu_x_preferred":[
         "Koro\u0161ka"
@@ -28,7 +30,7 @@
         "Koro\u0161ka"
     ],
     "src:geom":"svn-sma",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "svn-sma:d_od":"2002-01-01",
     "svn-sma:dv_od":"2002-01-03",
     "svn-sma:enota":"SR",
@@ -55,7 +57,7 @@
         }
     ],
     "wof:id":1108959955,
-    "wof:lastmodified":1564216387,
+    "wof:lastmodified":1566644845,
     "wof:name":"Koro\u0161ka",
     "wof:parent_id":85633779,
     "wof:placetype":"region",

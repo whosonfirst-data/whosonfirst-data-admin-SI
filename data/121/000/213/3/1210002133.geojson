@@ -23,8 +23,12 @@
     "gn:population":691,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.67285,45.99494,15.71285,46.03494",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Bizeljsko"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1210002133,
-    "wof:lastmodified":1564216225,
+    "wof:lastmodified":1566644729,
     "wof:name":"Bizeljsko",
     "wof:parent_id":1108959585,
     "wof:placetype":"locality",

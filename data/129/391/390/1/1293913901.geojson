@@ -23,8 +23,12 @@
     "gn:population":48,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.2038,46.13851,15.2438,46.17851",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u0160mihel"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0428\u043c\u0438\u0445\u0435\u043b"
-    ],
-    "name:und_x_variant":[
-        "\u0160mihel"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1293913901,
-    "wof:lastmodified":1564215846,
+    "wof:lastmodified":1566644478,
     "wof:name":"Smihel",
     "wof:parent_id":1108959879,
     "wof:placetype":"locality",

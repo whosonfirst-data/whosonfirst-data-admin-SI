@@ -23,8 +23,12 @@
     "gn:population":770,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.53,46.16333,14.57,46.20333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Suhadole"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1225875581,
-    "wof:lastmodified":1564216928,
+    "wof:lastmodified":1566645258,
     "wof:name":"Suhadole",
     "wof:parent_id":1108959837,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":14,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.12378,46.13371,15.16378,46.17371",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Uni\u010dno"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0423\u043d\u0438\u0447\u043d\u043e"
-    ],
-    "name:und_x_variant":[
-        "Uni\u010dno"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1293041897,
-    "wof:lastmodified":1564215923,
+    "wof:lastmodified":1566644530,
     "wof:name":"Unicno",
     "wof:parent_id":1108959571,
     "wof:placetype":"locality",

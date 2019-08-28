@@ -23,8 +23,12 @@
     "gn:population":148,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.61333,46.04667,15.65333,46.08667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Hrastje ob Bistrici"
     ],
@@ -50,8 +54,7 @@
         "\u0425\u0440\u0430\u0441\u0442\u0454-\u043e\u0431-\u0411\u0438\u0441\u0442\u0440\u0438\u0446\u0456"
     ],
     "name:und_x_variant":[
-        "Hrastje",
-        "Hrastje ob Bistrici"
+        "Hrastje"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1310532635,
-    "wof:lastmodified":1564216486,
+    "wof:lastmodified":1566644910,
     "wof:name":"Hrastje ob Bistrici",
     "wof:parent_id":1108959915,
     "wof:placetype":"locality",

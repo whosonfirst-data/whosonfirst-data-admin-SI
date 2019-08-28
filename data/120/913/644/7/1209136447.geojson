@@ -23,8 +23,12 @@
     "gn:population":193,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.50889,46.32444,15.54889,46.36444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Li\u010denca"
     ],
@@ -50,8 +54,7 @@
         "\u041b\u0438\u0447\u0435\u043d\u0446\u0430"
     ],
     "name:und_x_variant":[
-        "Li\u010dnica",
-        "Li\u010denca"
+        "Li\u010dnica"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1209136447,
-    "wof:lastmodified":1564216148,
+    "wof:lastmodified":1566644680,
     "wof:name":"Licenca",
     "wof:parent_id":85633779,
     "wof:placetype":"locality",

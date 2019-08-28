@@ -23,8 +23,12 @@
     "gn:population":156,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"16.15108,46.47626,16.19108,46.51626",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Radomer\u0161\u010dak"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0434\u043e\u043c\u0435\u0440\u0449\u0430\u043a"
-    ],
-    "name:und_x_variant":[
-        "Radomer\u0161\u010dak"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1225978463,
-    "wof:lastmodified":1564216941,
+    "wof:lastmodified":1566645266,
     "wof:name":"Radomerscak",
     "wof:parent_id":1108959499,
     "wof:placetype":"locality",

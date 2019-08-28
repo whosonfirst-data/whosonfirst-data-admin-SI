@@ -13,10 +13,13 @@
     "iso:country":"SI",
     "lbl:latitude":46.240183,
     "lbl:longitude":15.020237,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":46.240183,
     "mps:longitude":15.020237,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Tabor"
     ],
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":147,
     "wof:belongsto":[
@@ -82,10 +85,12 @@
     "wof:concordances":{
         "gn:id":3189227,
         "gp:id":531860,
-        "qs:id":4,
-        "qs_pg:id":1078937,
+        "qs_pg:id":4,
         "wd:id":"Q2672913",
         "wk:page":"Tabor, Tabor"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1078937
     },
     "wof:country":"SI",
     "wof:geomhash":"a721811222f46987c0b5fb954ba8e7d2",
@@ -99,7 +104,7 @@
         }
     ],
     "wof:id":101792005,
-    "wof:lastmodified":1563577009,
+    "wof:lastmodified":1566645006,
     "wof:name":"Tabor",
     "wof:parent_id":1108959715,
     "wof:placetype":"locality",

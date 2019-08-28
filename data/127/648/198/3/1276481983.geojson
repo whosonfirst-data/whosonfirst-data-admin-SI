@@ -23,8 +23,12 @@
     "gn:population":394,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"15.14722,45.99139,15.18722,46.03139",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u0160entjan\u017e"
     ],
@@ -48,8 +52,7 @@
     ],
     "name:und_x_variant":[
         "Johannisthal",
-        "\u0160ent Janez",
-        "\u0160entjan\u017e"
+        "\u0160ent Janez"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1276481983,
-    "wof:lastmodified":1564216060,
+    "wof:lastmodified":1566644620,
     "wof:name":"Sentjanz",
     "wof:parent_id":1108959927,
     "wof:placetype":"locality",
