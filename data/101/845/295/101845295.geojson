@@ -135,6 +135,9 @@
         "wk:page":"Polzela"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ae46720020ba24057d4eac74c08b3605",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":101845295,
-    "wof:lastmodified":1566644978,
+    "wof:lastmodified":1582358300,
     "wof:name":"Polzela",
     "wof:parent_id":1108959635,
     "wof:placetype":"locality",

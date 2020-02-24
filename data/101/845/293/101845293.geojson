@@ -107,6 +107,9 @@
         "wk:page":"Prebold"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"13536250e03540096f722d2d82251fd6",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101845293,
-    "wof:lastmodified":1566644978,
+    "wof:lastmodified":1582358300,
     "wof:name":"Prebold",
     "wof:parent_id":1108959713,
     "wof:placetype":"locality",

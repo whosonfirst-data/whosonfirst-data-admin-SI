@@ -202,6 +202,9 @@
         "qs_pg:id":977083
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"106f7ae34ddc36e29f1899c8ba11d77b",
     "wof:hierarchy":[
         {
@@ -213,7 +216,7 @@
         }
     ],
     "wof:id":101792985,
-    "wof:lastmodified":1566645002,
+    "wof:lastmodified":1582358303,
     "wof:name":"\u017du\u017eemberk",
     "wof:parent_id":1108959787,
     "wof:placetype":"locality",

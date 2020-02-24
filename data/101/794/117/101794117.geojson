@@ -316,6 +316,9 @@
         "wk:page":"Ankaran"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9cba5b5437e7afa157520aaa347e5346",
     "wof:hierarchy":[
         {
@@ -327,7 +330,7 @@
         }
     ],
     "wof:id":101794117,
-    "wof:lastmodified":1566644997,
+    "wof:lastmodified":1582358303,
     "wof:name":"Ankaran",
     "wof:parent_id":1108959857,
     "wof:placetype":"locality",

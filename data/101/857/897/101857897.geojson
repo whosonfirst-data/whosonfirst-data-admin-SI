@@ -93,6 +93,9 @@
         "wk:page":"Rogatec"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7d7702dcbd3c98cdc2b67e22efcf56bd",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101857897,
-    "wof:lastmodified":1566644987,
+    "wof:lastmodified":1582358301,
     "wof:name":"Rogatec",
     "wof:parent_id":1108959609,
     "wof:placetype":"locality",

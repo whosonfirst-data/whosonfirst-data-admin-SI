@@ -152,6 +152,9 @@
         "qs_pg:id":1078926
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b3d78db20c3af2ab06832aa17fb86146",
     "wof:hierarchy":[
         {
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":101845311,
-    "wof:lastmodified":1566644983,
+    "wof:lastmodified":1582358300,
     "wof:name":"Kranjska Gora",
     "wof:parent_id":1108959843,
     "wof:placetype":"locality",

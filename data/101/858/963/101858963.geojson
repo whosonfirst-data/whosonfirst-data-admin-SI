@@ -115,6 +115,9 @@
         "wk:page":"Makole"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"310949234ebdb76d75229d6308ca67e3",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101858963,
-    "wof:lastmodified":1566644991,
+    "wof:lastmodified":1582358302,
     "wof:name":"Makole",
     "wof:parent_id":1108959773,
     "wof:placetype":"locality",

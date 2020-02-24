@@ -269,6 +269,9 @@
         "wd:id":"Q15906"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"05594fa5e7f032441c99400adfb7d553",
     "wof:hierarchy":[
         {
@@ -283,7 +286,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566644988,
+    "wof:lastmodified":1582358301,
     "wof:name":"Ptuj",
     "wof:parent_id":1108959659,
     "wof:placetype":"locality",

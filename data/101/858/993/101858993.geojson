@@ -103,6 +103,9 @@
         "wk:page":"Kuzma, Kuzma"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"216902475564ddeaab95898ffc4dc399",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101858993,
-    "wof:lastmodified":1566644992,
+    "wof:lastmodified":1582358302,
     "wof:name":"Kuzma",
     "wof:parent_id":1108959511,
     "wof:placetype":"locality",

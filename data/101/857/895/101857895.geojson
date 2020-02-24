@@ -91,6 +91,10 @@
         "wk:page":"Spodnja Idrija"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"dd01e971c565d59111da5a6cbefb0d3e",
     "wof:hierarchy":[
         {
@@ -105,7 +109,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566644986,
+    "wof:lastmodified":1582358301,
     "wof:name":"Spodnja Idrija",
     "wof:parent_id":1108959535,
     "wof:placetype":"locality",

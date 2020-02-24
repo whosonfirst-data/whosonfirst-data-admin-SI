@@ -85,6 +85,9 @@
         "wk:page":"Izlake"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"32c6931dabb60184eee100395ab2719c",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645001,
+    "wof:lastmodified":1582358303,
     "wof:name":"Izlake",
     "wof:parent_id":1108959683,
     "wof:placetype":"locality",

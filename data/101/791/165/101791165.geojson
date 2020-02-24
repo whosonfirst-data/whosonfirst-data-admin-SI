@@ -208,6 +208,9 @@
         "qs_pg:id":1343039
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e8966251548c421786bac6de107c3ab3",
     "wof:hierarchy":[
         {
@@ -219,7 +222,7 @@
         }
     ],
     "wof:id":101791165,
-    "wof:lastmodified":1566644972,
+    "wof:lastmodified":1582358299,
     "wof:name":"Miklav\u017e na Dravskem polju",
     "wof:parent_id":1108959665,
     "wof:placetype":"locality",

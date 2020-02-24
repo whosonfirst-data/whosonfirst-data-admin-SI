@@ -217,6 +217,9 @@
         "wk:page":"Gornja Radgona"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5280f00c6b0f573ad44901d690d38764",
     "wof:hierarchy":[
         {
@@ -231,7 +234,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566644990,
+    "wof:lastmodified":1582358301,
     "wof:name":"Gornja Radgona",
     "wof:parent_id":1108959817,
     "wof:placetype":"locality",

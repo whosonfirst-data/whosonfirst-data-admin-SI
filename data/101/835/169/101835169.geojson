@@ -201,6 +201,9 @@
         "wk:page":"Kamnik"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fd6e64d133ea420b92618dc2fe95fa3c",
     "wof:hierarchy":[
         {
@@ -215,7 +218,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566644989,
+    "wof:lastmodified":1582358301,
     "wof:name":"Kamnik",
     "wof:parent_id":1108959941,
     "wof:placetype":"locality",

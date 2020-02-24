@@ -152,6 +152,10 @@
         "qs_pg:id":517487
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"c1a66feebf87cafdc55876271ca74ce3",
     "wof:hierarchy":[
         {
@@ -163,7 +167,7 @@
         }
     ],
     "wof:id":101859005,
-    "wof:lastmodified":1566644985,
+    "wof:lastmodified":1582358301,
     "wof:name":"Ribnica na Pohorju",
     "wof:parent_id":1108959769,
     "wof:placetype":"locality",

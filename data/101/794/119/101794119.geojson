@@ -115,6 +115,9 @@
         "wd:id":"Q1230519"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bfd3b65847fbd564621cd9bfc4a9b017",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101794119,
-    "wof:lastmodified":1566644997,
+    "wof:lastmodified":1582358303,
     "wof:name":"Diva\u010da",
     "wof:parent_id":1108959845,
     "wof:placetype":"locality",

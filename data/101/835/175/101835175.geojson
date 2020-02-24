@@ -235,6 +235,9 @@
         "wd:id":"Q1021"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bb79ea7d1f7d1640346134c20c8a4950",
     "wof:hierarchy":[
         {
@@ -249,7 +252,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566644989,
+    "wof:lastmodified":1582358301,
     "wof:name":"Kranj",
     "wof:parent_id":1108959933,
     "wof:placetype":"locality",

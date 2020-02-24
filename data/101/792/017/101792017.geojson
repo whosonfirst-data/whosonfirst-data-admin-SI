@@ -203,6 +203,9 @@
         "wk:page":"Rade\u010de"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ef9154ffcaf7f4d5e5422436617079e4",
     "wof:hierarchy":[
         {
@@ -214,7 +217,7 @@
         }
     ],
     "wof:id":101792017,
-    "wof:lastmodified":1566645004,
+    "wof:lastmodified":1582358304,
     "wof:name":"Rade\u010de",
     "wof:parent_id":1108959883,
     "wof:placetype":"locality",

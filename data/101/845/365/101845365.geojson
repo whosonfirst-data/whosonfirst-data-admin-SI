@@ -118,6 +118,9 @@
         "qs_pg:id":226840
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2071da3ca109edd503e16d408aa09f1e",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":101845365,
-    "wof:lastmodified":1566644976,
+    "wof:lastmodified":1582358299,
     "wof:name":"Lukovica pri Dom\u017ealah",
     "wof:parent_id":1108959807,
     "wof:placetype":"locality",

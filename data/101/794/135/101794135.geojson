@@ -221,6 +221,9 @@
         "wd:id":"Q15901"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"74b9ac4bc2a723d6696cdde7e8b12ef4",
     "wof:hierarchy":[
         {
@@ -235,7 +238,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566644996,
+    "wof:lastmodified":1582358302,
     "wof:name":"Postojna",
     "wof:parent_id":1108959559,
     "wof:placetype":"locality",

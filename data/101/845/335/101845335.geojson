@@ -347,6 +347,9 @@
         "wd:id":"Q15875"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4baa506d4c573297aae9cd144f692595",
     "wof:hierarchy":[
         {
@@ -361,7 +364,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566644980,
+    "wof:lastmodified":1582358300,
     "wof:name":"Idrija",
     "wof:parent_id":1108959535,
     "wof:placetype":"locality",

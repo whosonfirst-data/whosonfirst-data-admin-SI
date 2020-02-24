@@ -330,6 +330,9 @@
         "wd:id":"Q15918"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"27ec50e1bc3eb987176fd127a92cdadd",
     "wof:hierarchy":[
         {
@@ -344,7 +347,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566644970,
+    "wof:lastmodified":1582358299,
     "wof:name":"Slovenj Gradec",
     "wof:parent_id":1108959645,
     "wof:placetype":"locality",

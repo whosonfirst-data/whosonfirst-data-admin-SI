@@ -152,6 +152,9 @@
         "wk:page":"Medvode"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3862ff87f89bff7ae15fd17821472578",
     "wof:hierarchy":[
         {
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":101792067,
-    "wof:lastmodified":1566645006,
+    "wof:lastmodified":1582358304,
     "wof:name":"Medvode",
     "wof:parent_id":1108959881,
     "wof:placetype":"locality",

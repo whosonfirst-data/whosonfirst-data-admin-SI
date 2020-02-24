@@ -190,6 +190,9 @@
         "wd:id":"Q1809612"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0775178bf25cbe8cf066337ad0205aa9",
     "wof:hierarchy":[
         {
@@ -201,7 +204,7 @@
         }
     ],
     "wof:id":101845357,
-    "wof:lastmodified":1566644980,
+    "wof:lastmodified":1582358300,
     "wof:name":"Vitanje",
     "wof:parent_id":1108959681,
     "wof:placetype":"locality",

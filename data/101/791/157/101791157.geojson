@@ -93,6 +93,9 @@
         "qs_pg:id":1075923
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1422599c9221ce49762e70a306097986",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101791157,
-    "wof:lastmodified":1566644969,
+    "wof:lastmodified":1582358298,
     "wof:name":"Kidri\u010devo",
     "wof:parent_id":1108959739,
     "wof:placetype":"locality",

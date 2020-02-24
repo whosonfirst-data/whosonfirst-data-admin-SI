@@ -87,6 +87,9 @@
         "wk:page":"Deskle"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2741aa2f218ec2fe56194a332f70e572",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101845273,
-    "wof:lastmodified":1566644977,
+    "wof:lastmodified":1582358299,
     "wof:name":"Deskle",
     "wof:parent_id":1108959537,
     "wof:placetype":"locality",

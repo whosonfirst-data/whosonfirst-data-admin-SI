@@ -266,6 +266,9 @@
         "wk:page":"Santa Ana, El Salvador"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d917c26ae11a9272ee79229b7f771a4b",
     "wof:hierarchy":[
         {
@@ -277,7 +280,7 @@
         }
     ],
     "wof:id":101858975,
-    "wof:lastmodified":1566644993,
+    "wof:lastmodified":1582358302,
     "wof:name":"Sv. Ana v Slov. goricah",
     "wof:parent_id":1108959709,
     "wof:placetype":"locality",

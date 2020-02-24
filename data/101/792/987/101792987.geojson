@@ -139,6 +139,9 @@
         "qs_pg:id":1043886
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0947e738b788301319e452e56323045d",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":101792987,
-    "wof:lastmodified":1566645006,
+    "wof:lastmodified":1582358304,
     "wof:name":"Vipava",
     "wof:parent_id":1108959623,
     "wof:placetype":"locality",

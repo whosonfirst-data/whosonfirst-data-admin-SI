@@ -175,6 +175,9 @@
         "wk:page":"Zagorje ob Savi"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2fcfc4ac84a2c8933af3752c684b58b8",
     "wof:hierarchy":[
         {
@@ -189,7 +192,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645004,
+    "wof:lastmodified":1582358304,
     "wof:name":"Zagorje ob Savi",
     "wof:parent_id":1108959683,
     "wof:placetype":"locality",

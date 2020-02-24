@@ -152,6 +152,9 @@
         "wd:id":"Q15915"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d0b7f35a9e569b1a560c7259df7dc8c3",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645007,
+    "wof:lastmodified":1582358304,
     "wof:name":"Sevnica",
     "wof:parent_id":1108959927,
     "wof:placetype":"locality",

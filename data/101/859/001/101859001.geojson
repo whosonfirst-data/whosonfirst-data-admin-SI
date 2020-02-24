@@ -98,6 +98,10 @@
         "wk:page":"Pesnica pri Mariboru"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"2df16d611712a346782fc21dc5e4fd42",
     "wof:hierarchy":[
         {
@@ -112,7 +116,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566644985,
+    "wof:lastmodified":1582358300,
     "wof:name":"Pesnica pri Mariboru",
     "wof:parent_id":1108959553,
     "wof:placetype":"locality",

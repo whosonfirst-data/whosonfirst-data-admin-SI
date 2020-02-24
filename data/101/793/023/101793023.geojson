@@ -129,6 +129,9 @@
         "wk:page":"Komen"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"55d4d5f58b7c5f46e820422b88f840aa",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":101793023,
-    "wof:lastmodified":1566644994,
+    "wof:lastmodified":1582358302,
     "wof:name":"Komen",
     "wof:parent_id":1108959539,
     "wof:placetype":"locality",

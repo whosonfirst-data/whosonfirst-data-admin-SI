@@ -170,6 +170,9 @@
         "wk:page":"Kobarid"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3f6aeed74a944348951018c8a7517b94",
     "wof:hierarchy":[
         {
@@ -181,7 +184,7 @@
         }
     ],
     "wof:id":101792065,
-    "wof:lastmodified":1566645000,
+    "wof:lastmodified":1582358303,
     "wof:name":"Kobarid",
     "wof:parent_id":1108959523,
     "wof:placetype":"locality",

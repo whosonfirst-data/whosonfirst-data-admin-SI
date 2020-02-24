@@ -97,6 +97,9 @@
         "wk:page":"Kruplivnik"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"622e207c9d761109592c07a58d3c4b60",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101858989,
-    "wof:lastmodified":1566644993,
+    "wof:lastmodified":1582358302,
     "wof:name":"Grad",
     "wof:parent_id":1108959663,
     "wof:placetype":"locality",

@@ -165,6 +165,9 @@
         "wd:id":"Q15867"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"19a34e90891aaab077ca461cfa6056d2",
     "wof:hierarchy":[
         {
@@ -179,7 +182,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566644982,
+    "wof:lastmodified":1582358300,
     "wof:name":"Dravograd",
     "wof:parent_id":1108959495,
     "wof:placetype":"locality",

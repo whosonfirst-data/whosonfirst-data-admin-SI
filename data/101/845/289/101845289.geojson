@@ -115,6 +115,9 @@
         "qs_pg:id":1043930
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"30f095824dc42926aa2d7bfaa104aee4",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101845289,
-    "wof:lastmodified":1566644977,
+    "wof:lastmodified":1582358299,
     "wof:name":"\u0160entilj v Slov. goricah",
     "wof:parent_id":1108959565,
     "wof:placetype":"locality",

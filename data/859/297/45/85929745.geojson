@@ -113,6 +113,10 @@
         "wk:page":"Trnovo, Nova Gorica"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"b8e7bd3e048b1e195a56a91bfc31f30b",
     "wof:hierarchy":[
         {
@@ -128,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566644465,
+    "wof:lastmodified":1582358282,
     "wof:name":"Trnovo",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",

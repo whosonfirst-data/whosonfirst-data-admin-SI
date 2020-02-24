@@ -177,6 +177,9 @@
         "wd:id":"Q438"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7979e1d259471655c42d3693e1a77f32",
     "wof:hierarchy":[
         {
@@ -191,7 +194,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566644980,
+    "wof:lastmodified":1582358300,
     "wof:name":"Vrhnika",
     "wof:parent_id":1108959851,
     "wof:placetype":"locality",

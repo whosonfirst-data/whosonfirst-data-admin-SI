@@ -252,6 +252,9 @@
         "wd:id":"Q15877"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"eb9f34026e9a29ac96aab319d50dce9c",
     "wof:hierarchy":[
         {
@@ -266,7 +269,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566644997,
+    "wof:lastmodified":1582358303,
     "wof:name":"Izola",
     "wof:parent_id":1108959551,
     "wof:placetype":"locality",

@@ -150,6 +150,9 @@
         "wk:page":"Grosuplje"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5e598f956d0f48717915ccdf99729c15",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566644994,
+    "wof:lastmodified":1582358302,
     "wof:name":"Grosuplje",
     "wof:parent_id":1108959533,
     "wof:placetype":"locality",

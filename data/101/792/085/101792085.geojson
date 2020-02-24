@@ -212,6 +212,9 @@
         "wk:page":"Bled"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"425397f023e0b1f9fe89099242210f0b",
     "wof:hierarchy":[
         {
@@ -223,7 +226,7 @@
         }
     ],
     "wof:id":101792085,
-    "wof:lastmodified":1566645000,
+    "wof:lastmodified":1582358303,
     "wof:name":"Bled",
     "wof:parent_id":1108959797,
     "wof:placetype":"locality",

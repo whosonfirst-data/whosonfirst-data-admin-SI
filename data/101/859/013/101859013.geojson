@@ -85,6 +85,9 @@
         "wk:page":"Spodnji Duplek"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cc69ad4b32a5a7f7f8afbda5923a8c4b",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101859013,
-    "wof:lastmodified":1566644985,
+    "wof:lastmodified":1582358300,
     "wof:name":"Spodnji Duplek",
     "wof:parent_id":1108959529,
     "wof:placetype":"locality",

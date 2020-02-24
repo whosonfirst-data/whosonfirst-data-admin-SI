@@ -216,6 +216,9 @@
         "wd:id":"Q15896"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"92b31ba8084a6c0613e32e98d7277633",
     "wof:hierarchy":[
         {
@@ -230,7 +233,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566644978,
+    "wof:lastmodified":1582358300,
     "wof:name":"Metlika",
     "wof:parent_id":1108959909,
     "wof:placetype":"locality",

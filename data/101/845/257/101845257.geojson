@@ -101,6 +101,9 @@
         "wk:page":"Lesce"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7680f8701a1f258a90facb43bf0a5cc8",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566644977,
+    "wof:lastmodified":1582358300,
     "wof:name":"Lesce",
     "wof:parent_id":1108959825,
     "wof:placetype":"locality",

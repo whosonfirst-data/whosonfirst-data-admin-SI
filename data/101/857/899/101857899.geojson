@@ -94,6 +94,9 @@
         "wk:page":"Dobje pri Planini"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d46164ef50906d07c4533543d6adc9c0",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101857899,
-    "wof:lastmodified":1566644987,
+    "wof:lastmodified":1582358301,
     "wof:name":"Dobje pri Planini",
     "wof:parent_id":1108959685,
     "wof:placetype":"locality",

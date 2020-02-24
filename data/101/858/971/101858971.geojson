@@ -101,6 +101,9 @@
         "wk:page":"Golnik"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"04e8a2bb72d0ef9c9e0e29e4db3ca10c",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566644992,
+    "wof:lastmodified":1582358302,
     "wof:name":"Golnik",
     "wof:parent_id":1108959933,
     "wof:placetype":"locality",

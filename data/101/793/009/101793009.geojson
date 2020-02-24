@@ -234,6 +234,9 @@
         "qs_pg:id":1078927
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0056128c9b143dc8b1518eff7081923e",
     "wof:hierarchy":[
         {
@@ -245,7 +248,7 @@
         }
     ],
     "wof:id":101793009,
-    "wof:lastmodified":1566644994,
+    "wof:lastmodified":1582358302,
     "wof:name":"Kr\u0161ko",
     "wof:parent_id":1108959473,
     "wof:placetype":"locality",

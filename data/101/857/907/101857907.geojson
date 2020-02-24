@@ -147,6 +147,9 @@
         "wk:page":"Bistrica ob Sotli"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"325305ae631aebeda3c049a130235c37",
     "wof:hierarchy":[
         {
@@ -158,7 +161,7 @@
         }
     ],
     "wof:id":101857907,
-    "wof:lastmodified":1566644986,
+    "wof:lastmodified":1582358301,
     "wof:name":"Bistrica ob Sotli",
     "wof:parent_id":1108959915,
     "wof:placetype":"locality",

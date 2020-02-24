@@ -247,6 +247,9 @@
         "wk:page":"Municipality of Trbovlje"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a17ab5594e07b4c9b732f9c2c9ede5b0",
     "wof:hierarchy":[
         {
@@ -261,7 +264,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645005,
+    "wof:lastmodified":1582358304,
     "wof:name":"Trbovlje",
     "wof:parent_id":1108959911,
     "wof:placetype":"locality",
