@@ -99,6 +99,9 @@
         "wk:page":"Ig, Ig"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7cbe2b89eef58c317d7175e0c8fee155",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101792993,
-    "wof:lastmodified":1566645002,
+    "wof:lastmodified":1582358304,
     "wof:name":"Ig",
     "wof:parent_id":1108959887,
     "wof:placetype":"locality",

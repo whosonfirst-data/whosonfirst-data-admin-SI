@@ -99,6 +99,9 @@
         "wk:page":"Trnovska Vas"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"65c781a8a26e252123c7ceb147e5a0f8",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101858999,
-    "wof:lastmodified":1566644991,
+    "wof:lastmodified":1582358302,
     "wof:name":"Trnovska vas",
     "wof:parent_id":1108959717,
     "wof:placetype":"locality",

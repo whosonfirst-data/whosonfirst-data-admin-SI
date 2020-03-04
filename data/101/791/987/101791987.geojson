@@ -188,6 +188,9 @@
         "wk:page":"Dobrovnik"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"da9f3a25ed6897281b7af80292fc3a07",
     "wof:hierarchy":[
         {
@@ -199,7 +202,7 @@
         }
     ],
     "wof:id":101791987,
-    "wof:lastmodified":1566644973,
+    "wof:lastmodified":1582358299,
     "wof:name":"Dobrovnik",
     "wof:parent_id":1108959691,
     "wof:placetype":"locality",

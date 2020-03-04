@@ -179,6 +179,9 @@
         "qs_pg:id":1060360
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1965ac51eb9605790d318184d806c304",
     "wof:hierarchy":[
         {
@@ -190,7 +193,7 @@
         }
     ],
     "wof:id":101845313,
-    "wof:lastmodified":1566644979,
+    "wof:lastmodified":1582358300,
     "wof:name":"Bovec",
     "wof:parent_id":1108959541,
     "wof:placetype":"locality",

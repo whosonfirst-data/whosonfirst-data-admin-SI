@@ -120,6 +120,9 @@
         "qs_pg:id":1044003
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"abf4b8325dcbf9cc54c6ec63816a7bed",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":101845291,
-    "wof:lastmodified":1566644982,
+    "wof:lastmodified":1582358300,
     "wof:name":"Oplotnica",
     "wof:parent_id":1108959737,
     "wof:placetype":"locality",

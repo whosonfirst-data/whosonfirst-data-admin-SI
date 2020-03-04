@@ -174,6 +174,9 @@
         "wk:page":"Cerknica"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"438c75236a6342ea0be36d2507a2ee46",
     "wof:hierarchy":[
         {
@@ -188,7 +191,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566644982,
+    "wof:lastmodified":1582358300,
     "wof:name":"Cerknica",
     "wof:parent_id":1108959905,
     "wof:placetype":"locality",

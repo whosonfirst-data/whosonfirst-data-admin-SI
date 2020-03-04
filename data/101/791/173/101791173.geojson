@@ -78,6 +78,9 @@
         "qs_pg:id":147180
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1f452d47daf8ce6e9f7b7d629391b917",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101791173,
-    "wof:lastmodified":1566644970,
+    "wof:lastmodified":1582358299,
     "wof:name":"Lovrenc na Pohorju",
     "wof:parent_id":1108959679,
     "wof:placetype":"locality",

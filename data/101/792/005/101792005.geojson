@@ -93,6 +93,9 @@
         "qs_pg:id":1078937
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a721811222f46987c0b5fb954ba8e7d2",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101792005,
-    "wof:lastmodified":1566645006,
+    "wof:lastmodified":1582358304,
     "wof:name":"Tabor",
     "wof:parent_id":1108959715,
     "wof:placetype":"locality",

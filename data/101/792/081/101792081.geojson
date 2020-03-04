@@ -117,6 +117,9 @@
         "qs_pg:id":977070
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"791f34b7145b1bf5b94789da48dfd6be",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101792081,
-    "wof:lastmodified":1566645004,
+    "wof:lastmodified":1582358304,
     "wof:name":"Preddvor",
     "wof:parent_id":1108959657,
     "wof:placetype":"locality",

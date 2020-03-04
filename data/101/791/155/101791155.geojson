@@ -137,6 +137,9 @@
         "wk:page":"Beltinci"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c6790150f86f2966dbab38163ed42f0b",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":101791155,
-    "wof:lastmodified":1566644973,
+    "wof:lastmodified":1582358299,
     "wof:name":"Beltinci",
     "wof:parent_id":1108959517,
     "wof:placetype":"locality",

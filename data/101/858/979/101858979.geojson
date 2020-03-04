@@ -128,6 +128,9 @@
         "wd:id":"Q511695"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1d09f4b54d6896c19fe4664eb2f2cf2a",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":101858979,
-    "wof:lastmodified":1566644992,
+    "wof:lastmodified":1582358302,
     "wof:name":"Cerkvenjak",
     "wof:parent_id":1108959703,
     "wof:placetype":"locality",

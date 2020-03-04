@@ -199,6 +199,9 @@
         "wd:id":"Q15898"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8ffce5391d38b6c851702203108a1e4b",
     "wof:hierarchy":[
         {
@@ -210,7 +213,7 @@
         }
     ],
     "wof:id":101791183,
-    "wof:lastmodified":1566644974,
+    "wof:lastmodified":1582358299,
     "wof:name":"Me\u017eica",
     "wof:parent_id":1108959479,
     "wof:placetype":"locality",

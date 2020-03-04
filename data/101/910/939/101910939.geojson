@@ -48,6 +48,9 @@
         "qs_pg:id":1078929
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5a4d9015f3aa6632497bd63874cfe93c",
     "wof:hierarchy":[
         {
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101910939,
-    "wof:lastmodified":1566645007,
+    "wof:lastmodified":1582358304,
     "wof:name":"\u00c5 Tanjel",
     "wof:parent_id":1108959539,
     "wof:placetype":"locality",

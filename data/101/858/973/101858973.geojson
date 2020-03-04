@@ -127,6 +127,9 @@
         "qs_pg:id":977062
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8afcca25a79ed27c0be9ea964b4c8e27",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":101858973,
-    "wof:lastmodified":1566644993,
+    "wof:lastmodified":1582358302,
     "wof:name":"Destrnik",
     "wof:parent_id":1108959755,
     "wof:placetype":"locality",

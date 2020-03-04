@@ -121,6 +121,9 @@
         "wd:id":"Q16469"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0f8e2b877e51ca2c1998b202fbde15f9",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101792033,
-    "wof:lastmodified":1566645005,
+    "wof:lastmodified":1582358304,
     "wof:name":"Vojnik",
     "wof:parent_id":1108959653,
     "wof:placetype":"locality",

@@ -240,6 +240,9 @@
         "wk:page":"Lendava"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6ce885bae1a6dbf3d1b0011d847a30a7",
     "wof:hierarchy":[
         {
@@ -254,7 +257,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566644970,
+    "wof:lastmodified":1582358299,
     "wof:name":"Lendava",
     "wof:parent_id":1108959475,
     "wof:placetype":"locality",

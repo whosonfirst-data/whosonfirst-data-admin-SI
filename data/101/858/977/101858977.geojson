@@ -177,6 +177,9 @@
         "wk:page":"Podlehnik"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"455c3ee33a973bbeeb37ef9438aa8113",
     "wof:hierarchy":[
         {
@@ -188,7 +191,7 @@
         }
     ],
     "wof:id":101858977,
-    "wof:lastmodified":1566644991,
+    "wof:lastmodified":1582358302,
     "wof:name":"Podlehnik",
     "wof:parent_id":1108959757,
     "wof:placetype":"locality",

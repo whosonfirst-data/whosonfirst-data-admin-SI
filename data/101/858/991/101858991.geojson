@@ -117,6 +117,9 @@
         "wk:page":"Gornji Petrovci"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"68eefa31a5d532e456daf39fe8bbbb54",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101858991,
-    "wof:lastmodified":1566644991,
+    "wof:lastmodified":1582358301,
     "wof:name":"Gornji Petrovci",
     "wof:parent_id":1108959531,
     "wof:placetype":"locality",

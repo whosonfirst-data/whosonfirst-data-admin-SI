@@ -90,6 +90,9 @@
         "qs_pg:id":1062914
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"623c3c3d53294ad3959b7c599262e53a",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1566644476,
+    "wof:lastmodified":1582358284,
     "wof:name":"St. Peter",
     "wof:parent_id":101748063,
     "wof:placetype":"neighbourhood",

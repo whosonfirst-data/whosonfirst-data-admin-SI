@@ -344,6 +344,9 @@
         "wk:page":"Celje"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6ce55a4bc322a45a6ba439249c9d8715",
     "wof:hierarchy":[
         {
@@ -358,7 +361,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645001,
+    "wof:lastmodified":1582358303,
     "wof:name":"Celje",
     "wof:parent_id":1108959693,
     "wof:placetype":"locality",

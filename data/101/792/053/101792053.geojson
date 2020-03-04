@@ -137,6 +137,9 @@
         "qs_pg:id":1060361
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"eaa9ffd6cc0c38e566ff52ea5eb1d088",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":101792053,
-    "wof:lastmodified":1566645000,
+    "wof:lastmodified":1582358303,
     "wof:name":"Cerkno",
     "wof:parent_id":1108959577,
     "wof:placetype":"locality",

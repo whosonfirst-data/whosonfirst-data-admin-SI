@@ -115,6 +115,9 @@
         "wk:page":"Mirna (settlement)"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d4c7ac1259d0c1e4aff1ec2de0bd08fe",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645002,
+    "wof:lastmodified":1582358303,
     "wof:name":"Mirna",
     "wof:parent_id":1108959869,
     "wof:placetype":"locality",

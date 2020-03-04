@@ -141,6 +141,9 @@
         "wk:page":"La\u0161ko"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8a73e11e7e99b6ea43be1083b23a01f5",
     "wof:hierarchy":[
         {
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":101845281,
-    "wof:lastmodified":1566644977,
+    "wof:lastmodified":1582358300,
     "wof:name":"La\u0161ko",
     "wof:parent_id":1108959879,
     "wof:placetype":"locality",

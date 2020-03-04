@@ -254,6 +254,9 @@
         "wk:page":"Zgornje Gorje"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7d14e9887d93737356e91746e55bbfe4",
     "wof:hierarchy":[
         {
@@ -265,7 +268,7 @@
         }
     ],
     "wof:id":101858965,
-    "wof:lastmodified":1566644991,
+    "wof:lastmodified":1582358301,
     "wof:name":"Zgornje Gorje",
     "wof:parent_id":1108959735,
     "wof:placetype":"locality",

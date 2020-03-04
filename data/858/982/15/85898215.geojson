@@ -195,6 +195,10 @@
         "wd:id":"Q946033"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"1b76373eb776c5fcbdd90b8f007d5fc4",
     "wof:hierarchy":[
         {
@@ -210,7 +214,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566644476,
+    "wof:lastmodified":1582358285,
     "wof:name":"Polje",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",

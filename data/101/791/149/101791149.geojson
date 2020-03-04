@@ -191,6 +191,9 @@
         "wk:page":"Odranci"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6ae8f7b222d9fbb86635ef80378af49f",
     "wof:hierarchy":[
         {
@@ -202,7 +205,7 @@
         }
     ],
     "wof:id":101791149,
-    "wof:lastmodified":1566644974,
+    "wof:lastmodified":1582358299,
     "wof:name":"Odranci",
     "wof:parent_id":1108959595,
     "wof:placetype":"locality",

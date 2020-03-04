@@ -93,6 +93,9 @@
         "qs_pg:id":582719
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9b31fdde60a7d7afd09bcdb872c4d616",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101792029,
-    "wof:lastmodified":1566645004,
+    "wof:lastmodified":1582358304,
     "wof:name":"Zre\u010de",
     "wof:parent_id":1108959671,
     "wof:placetype":"locality",

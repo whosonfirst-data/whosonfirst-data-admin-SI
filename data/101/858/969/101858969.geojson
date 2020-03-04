@@ -102,6 +102,9 @@
         "wk:page":"Maj\u0161perk"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"aff5c7c1b0b260951b6a7a477df43df3",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101858969,
-    "wof:lastmodified":1566644993,
+    "wof:lastmodified":1582358302,
     "wof:name":"Maj\u0161perk",
     "wof:parent_id":1108959491,
     "wof:placetype":"locality",

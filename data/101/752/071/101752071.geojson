@@ -429,6 +429,9 @@
         "wd:id":"Q1010"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"495e66fd1a391943f36f8f08723d5e2a",
     "wof:hierarchy":[
         {
@@ -443,7 +446,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566644968,
+    "wof:lastmodified":1582358297,
     "wof:name":"Maribor",
     "wof:parent_id":1108959785,
     "wof:placetype":"locality",

@@ -186,6 +186,9 @@
         "wk:page":"Vransko"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1ab57e7178a8eb5f40b2d4c4406732cc",
     "wof:hierarchy":[
         {
@@ -197,7 +200,7 @@
         }
     ],
     "wof:id":101857915,
-    "wof:lastmodified":1566644987,
+    "wof:lastmodified":1582358301,
     "wof:name":"Vransko",
     "wof:parent_id":1108959827,
     "wof:placetype":"locality",

@@ -91,6 +91,9 @@
         "qs_pg:id":1043933
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2c1aee018c881636b7bd252f00a31b94",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101792069,
-    "wof:lastmodified":1566645006,
+    "wof:lastmodified":1582358304,
     "wof:name":"\u0160en\u010dur",
     "wof:parent_id":1108959647,
     "wof:placetype":"locality",

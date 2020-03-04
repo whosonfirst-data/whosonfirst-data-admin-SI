@@ -231,6 +231,9 @@
         "wk:page":"Nova Gorica"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"080563007b0e6cbe25d6ddcd731ab351",
     "wof:hierarchy":[
         {
@@ -245,7 +248,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566644990,
+    "wof:lastmodified":1582358301,
     "wof:name":"Nova Gorica",
     "wof:parent_id":1108959487,
     "wof:placetype":"locality",

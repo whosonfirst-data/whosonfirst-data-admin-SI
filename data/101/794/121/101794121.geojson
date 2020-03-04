@@ -123,6 +123,9 @@
         "qs_pg:id":1075991
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fbd604685bc68cae47336e017e415531",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":101794121,
-    "wof:lastmodified":1566644997,
+    "wof:lastmodified":1582358303,
     "wof:name":"Pivka",
     "wof:parent_id":1108959587,
     "wof:placetype":"locality",

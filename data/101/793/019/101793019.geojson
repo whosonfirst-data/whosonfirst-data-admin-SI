@@ -117,6 +117,9 @@
         "wk:page":"Logatec"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c67438e98b51fe6d23ab68719695988e",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101793019,
-    "wof:lastmodified":1566644995,
+    "wof:lastmodified":1582358302,
     "wof:name":"Logatec",
     "wof:parent_id":1108959889,
     "wof:placetype":"locality",

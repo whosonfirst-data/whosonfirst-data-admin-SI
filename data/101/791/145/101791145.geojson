@@ -227,6 +227,9 @@
         "wd:id":"Q15899"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cf7ad188878b12ca93c288355d5cc01b",
     "wof:hierarchy":[
         {
@@ -241,7 +244,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566644970,
+    "wof:lastmodified":1582358299,
     "wof:name":"Murska Sobota",
     "wof:parent_id":1108959483,
     "wof:placetype":"locality",

@@ -93,6 +93,9 @@
         "wk:page":"Vrtojba"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"05926826dd8f09dbedbd67c3a3f0e9e6",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101792969,
-    "wof:lastmodified":1566645003,
+    "wof:lastmodified":1582358304,
     "wof:name":"Vrtojba",
     "wof:parent_id":1108959629,
     "wof:placetype":"locality",

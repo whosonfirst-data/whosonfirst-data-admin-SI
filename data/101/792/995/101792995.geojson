@@ -131,6 +131,9 @@
         "wk:page":"Borovnica, Borovnica"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1f51d8aceabdad812209fd59d8622b87",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":101792995,
-    "wof:lastmodified":1566645002,
+    "wof:lastmodified":1582358303,
     "wof:name":"Borovnica",
     "wof:parent_id":1108959871,
     "wof:placetype":"locality",

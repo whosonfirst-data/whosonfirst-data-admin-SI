@@ -255,6 +255,9 @@
         "wk:page":"Novo Mesto"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4a002c9b4579bf2472334f6b96d87a5d",
     "wof:hierarchy":[
         {
@@ -269,7 +272,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645006,
+    "wof:lastmodified":1582358304,
     "wof:name":"Novo mesto",
     "wof:parent_id":1108959465,
     "wof:placetype":"locality",

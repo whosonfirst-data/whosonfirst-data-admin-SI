@@ -138,6 +138,9 @@
         "wk:page":"Lenart v Slovenskih Goricah"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b5021c38a7547bfb566976d6ef7c28cf",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":101845285,
-    "wof:lastmodified":1566644982,
+    "wof:lastmodified":1582358300,
     "wof:name":"Lenart v Slov. goricah",
     "wof:parent_id":1108959477,
     "wof:placetype":"locality",

@@ -96,6 +96,9 @@
         "qs_pg:id":226842
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"684eb5613cb38ffb52cd3ece1b7eec00",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101793003,
-    "wof:lastmodified":1566644995,
+    "wof:lastmodified":1582358302,
     "wof:name":"Miren",
     "wof:parent_id":1108959481,
     "wof:placetype":"locality",

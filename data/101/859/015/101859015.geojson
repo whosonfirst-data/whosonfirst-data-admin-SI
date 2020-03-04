@@ -122,6 +122,9 @@
         "wd:id":"Q340205"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"07b0d3f0846e99c456e5e43fa214be8b",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":101859015,
-    "wof:lastmodified":1566644985,
+    "wof:lastmodified":1582358300,
     "wof:name":"Cirkulane",
     "wof:parent_id":1108959743,
     "wof:placetype":"locality",

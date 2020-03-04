@@ -175,6 +175,9 @@
         "wd:id":"Q14468504"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5cb378b87449ee0ee26cef5e35ee5500",
     "wof:hierarchy":[
         {
@@ -186,7 +189,7 @@
         }
     ],
     "wof:id":101845299,
-    "wof:lastmodified":1566644983,
+    "wof:lastmodified":1582358300,
     "wof:name":"Trzin",
     "wof:parent_id":1108959509,
     "wof:placetype":"locality",

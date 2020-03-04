@@ -96,6 +96,9 @@
         "wk:page":"\u010crnu\u010de District"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"19c975ee3438fd8a88bc5e9952418bba",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566644476,
+    "wof:lastmodified":1582358284,
     "wof:name":"Crnuce",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",

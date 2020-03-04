@@ -93,6 +93,9 @@
         "wd:id":"Q3503224"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d1bb96e9949dd4e28adc1696cf5e0caa",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101857909,
-    "wof:lastmodified":1566644986,
+    "wof:lastmodified":1582358301,
     "wof:name":"Osilnica",
     "wof:parent_id":1108959563,
     "wof:placetype":"locality",

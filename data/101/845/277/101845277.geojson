@@ -209,6 +209,9 @@
         "qs_pg:id":1060366
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9a1ca2d9db1273206aa52987cdcdc6c9",
     "wof:hierarchy":[
         {
@@ -220,7 +223,7 @@
         }
     ],
     "wof:id":101845277,
-    "wof:lastmodified":1566644981,
+    "wof:lastmodified":1582358300,
     "wof:name":"Roga\u0161ka Slatina",
     "wof:parent_id":1108959803,
     "wof:placetype":"locality",

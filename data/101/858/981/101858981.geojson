@@ -130,6 +130,9 @@
         "wk:page":"Zgornje Jezersko"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"59c613021e5817e4afe8ff047ce6dc0e",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":101858981,
-    "wof:lastmodified":1566644993,
+    "wof:lastmodified":1582358302,
     "wof:name":"Zgornje Jezersko",
     "wof:parent_id":1108959625,
     "wof:placetype":"locality",

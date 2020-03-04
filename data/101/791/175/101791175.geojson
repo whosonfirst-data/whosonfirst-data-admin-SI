@@ -181,6 +181,9 @@
         "wd:id":"Q1917707"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7f7b340136d74203d6ba1d7a0c005340",
     "wof:hierarchy":[
         {
@@ -192,7 +195,7 @@
         }
     ],
     "wof:id":101791175,
-    "wof:lastmodified":1566644971,
+    "wof:lastmodified":1582358299,
     "wof:name":"Mislinja",
     "wof:parent_id":1108959467,
     "wof:placetype":"locality",

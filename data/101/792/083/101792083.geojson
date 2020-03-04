@@ -123,6 +123,9 @@
         "wk:page":"Radovljica"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d52bcd27a9b81b1aaa3a6142aecc537f",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566644999,
+    "wof:lastmodified":1582358303,
     "wof:name":"Radovljica",
     "wof:parent_id":1108959825,
     "wof:placetype":"locality",

@@ -134,6 +134,9 @@
         "wk:page":"Tolmin"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4e174eb13bce820b173707e0a998693a",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566645001,
+    "wof:lastmodified":1582358303,
     "wof:name":"Tolmin",
     "wof:parent_id":1108959617,
     "wof:placetype":"locality",

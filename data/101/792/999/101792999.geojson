@@ -92,6 +92,9 @@
         "wk:page":"Horjul, Horjul"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5f79a6519638e1bcdd6a52000bc276ef",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101792999,
-    "wof:lastmodified":1566644998,
+    "wof:lastmodified":1582358303,
     "wof:name":"Horjul",
     "wof:parent_id":1108959865,
     "wof:placetype":"locality",

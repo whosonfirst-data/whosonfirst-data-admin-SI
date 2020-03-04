@@ -115,6 +115,9 @@
         "wk:page":"Municipality of Stra\u017ea"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"42d9ebf647df5f1d8c73265344f91754",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101792971,
-    "wof:lastmodified":1566645002,
+    "wof:lastmodified":1582358303,
     "wof:name":"Stra\u017ea",
     "wof:parent_id":1108959793,
     "wof:placetype":"locality",

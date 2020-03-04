@@ -289,6 +289,9 @@
         "wd:id":"Q1015"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"90a909210b834408c0023927110c0207",
     "wof:hierarchy":[
         {
@@ -303,7 +306,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566644996,
+    "wof:lastmodified":1582358302,
     "wof:name":"Koper",
     "wof:parent_id":1108959527,
     "wof:placetype":"locality",

@@ -134,6 +134,10 @@
         "qs_pg:id":1044042
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"1e863a8eb5b1332c574648faf248fe0d",
     "wof:hierarchy":[
         {
@@ -145,7 +149,7 @@
         }
     ],
     "wof:id":101853163,
-    "wof:lastmodified":1566645007,
+    "wof:lastmodified":1582358304,
     "wof:name":"Kanal",
     "wof:parent_id":1108959537,
     "wof:placetype":"locality",

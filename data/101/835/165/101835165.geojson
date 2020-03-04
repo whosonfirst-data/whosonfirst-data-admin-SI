@@ -255,6 +255,9 @@
         "wd:id":"Q15928"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"03634451c2fb72ea5c730ae11d7b9f05",
     "wof:hierarchy":[
         {
@@ -269,7 +272,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566644990,
+    "wof:lastmodified":1582358301,
     "wof:name":"Velenje",
     "wof:parent_id":1108959593,
     "wof:placetype":"locality",

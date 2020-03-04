@@ -48,6 +48,9 @@
         "qs_pg:id":136303
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6a21a6ac28b294439e14fa5f3a499ea9",
     "wof:hierarchy":[
         {
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101791141,
-    "wof:lastmodified":1566644974,
+    "wof:lastmodified":1582358299,
     "wof:name":"Sv. Trojica v Slov. goricah",
     "wof:parent_id":1108959801,
     "wof:placetype":"locality",

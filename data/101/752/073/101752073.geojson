@@ -680,6 +680,9 @@
         "wk:page":"Ljubljana"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c5c0bf33062cf7176393f33cbb80e52c",
     "wof:hierarchy":[
         {
@@ -694,7 +697,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566644968,
+    "wof:lastmodified":1582358298,
     "wof:megacity":0,
     "wof:name":"Ljubljana",
     "wof:parent_id":1108959501,

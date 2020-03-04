@@ -90,6 +90,9 @@
         "wk:page":"Dragomer"
     },
     "wof:country":"SI",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8e7cf0bd49c6561c5fca0946e7468dfe",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101792965,
-    "wof:lastmodified":1566644998,
+    "wof:lastmodified":1582358303,
     "wof:name":"Dragomer",
     "wof:parent_id":1108959877,
     "wof:placetype":"locality",
