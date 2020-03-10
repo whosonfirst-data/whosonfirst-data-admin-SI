@@ -1045,9 +1045,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Slovenia",
-        "digitalenvoy:country_code":[
-            705
-        ],
+        "digitalenvoy:country_code":705,
         "fb:id":"en.slovenia",
         "fifa:id":"SVN",
         "fips:code":"SI",
@@ -1090,7 +1088,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1583529226,
+    "wof:lastmodified":1583797434,
     "wof:name":"Slovenia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
