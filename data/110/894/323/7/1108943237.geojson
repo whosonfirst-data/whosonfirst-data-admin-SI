@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"14.4163799545,46.0844044758,14.4163799545,46.0844044758",
+    "geom:bbox":"14.41638,46.084404,14.41638,46.084404",
     "geom:latitude":46.084404,
     "geom:longitude":14.41638,
     "iso:country":"SI",
@@ -29,15 +29,15 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
-        1108959501,
         85633779,
+        1108959501,
         1108959949
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"SI",
     "wof:created":1491363617,
-    "wof:geomhash":"f4e22af7043634d4c327953256412b21",
+    "wof:geomhash":"c0c7a9a19b32e3bbe447bfe906c7c48a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,8 +49,8 @@
         }
     ],
     "wof:id":1108943237,
-    "wof:lastmodified":1566644885,
-    "wof:name":"Tosko Celo\n",
+    "wof:lastmodified":1587164336,
+    "wof:name":"Tosko Celo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-si",
@@ -59,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.41637995451152,
-    46.08440447577247,
-    14.41637995451152,
-    46.08440447577247
+    14.41638,
+    46.084404,
+    14.41638,
+    46.084404
 ],
-  "geometry": {"coordinates":[14.41637995451152,46.08440447577247],"type":"Point"}
+  "geometry": {"coordinates":[14.41638,46.084404],"type":"Point"}
 }
