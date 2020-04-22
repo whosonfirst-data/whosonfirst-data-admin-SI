@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"14.5469149438,46.109951346,14.5469149438,46.109951346",
+    "geom:bbox":"14.546915,46.109951,14.546915,46.109951",
     "geom:latitude":46.109951,
     "geom:longitude":14.546915,
     "iso:country":"SI",
@@ -29,15 +29,15 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
-        1108959501,
         85633779,
+        1108959501,
         1108959949
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"SI",
     "wof:created":1491363698,
-    "wof:geomhash":"5478c6eb9e075cdb7dccdfbdf5bf1dfd",
+    "wof:geomhash":"6bed82502025fa99c6852b7e05ea2bff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,8 +49,8 @@
         }
     ],
     "wof:id":1108943373,
-    "wof:lastmodified":1566644884,
-    "wof:name":"Dobrava pri Crnucah\n",
+    "wof:lastmodified":1587164336,
+    "wof:name":"Dobrava pri Crnucah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-si",
@@ -59,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.54691494376974,
-    46.10995134604129,
-    14.54691494376974,
-    46.10995134604129
+    14.546915,
+    46.109951,
+    14.546915,
+    46.109951
 ],
-  "geometry": {"coordinates":[14.54691494376974,46.10995134604129],"type":"Point"}
+  "geometry": {"coordinates":[14.546915,46.109951],"type":"Point"}
 }

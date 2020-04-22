@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"14.5505619983,46.0429943488,14.5505619983,46.0429943488",
+    "geom:bbox":"14.550562,46.042994,14.550562,46.042994",
     "geom:latitude":46.042994,
     "geom:longitude":14.550562,
     "iso:country":"SI",
@@ -29,8 +29,8 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
-        1108959501,
         85633779,
+        1108959501,
         101752073,
         1108959949
     ],
@@ -38,7 +38,7 @@
     "wof:concordances":{},
     "wof:country":"SI",
     "wof:created":1491363623,
-    "wof:geomhash":"cbe4342f79559b36fcb0bd613d389f58",
+    "wof:geomhash":"f320f31048249d96249f9d827b2b654c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,8 +50,8 @@
         }
     ],
     "wof:id":1108943249,
-    "wof:lastmodified":1566644884,
-    "wof:name":"Zgornja Hrusica\n",
+    "wof:lastmodified":1587164336,
+    "wof:name":"Zgornja Hrusica",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-si",
@@ -60,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.55056199834381,
-    46.04299434877335,
-    14.55056199834381,
-    46.04299434877335
+    14.550562,
+    46.042994,
+    14.550562,
+    46.042994
 ],
-  "geometry": {"coordinates":[14.55056199834381,46.04299434877335],"type":"Point"}
+  "geometry": {"coordinates":[14.550562,46.042994],"type":"Point"}
 }

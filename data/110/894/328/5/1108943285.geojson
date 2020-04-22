@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"14.5925101231,46.0715609095,14.5925101231,46.0715609095",
+    "geom:bbox":"14.59251,46.071561,14.59251,46.071561",
     "geom:latitude":46.071561,
     "geom:longitude":14.59251,
     "iso:country":"SI",
@@ -26,8 +26,8 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
-        1108959501,
         85633779,
+        1108959501,
         101752073,
         1108959949
     ],
@@ -35,7 +35,7 @@
     "wof:concordances":{},
     "wof:country":"SI",
     "wof:created":1491363640,
-    "wof:geomhash":"8bec8b420a7572ffb755e4207c3693dc",
+    "wof:geomhash":"72715e4e12c6006ec6b3c44ee9674d77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,8 +47,8 @@
         }
     ],
     "wof:id":1108943285,
-    "wof:lastmodified":1566644890,
-    "wof:name":"Spodnja Zadobrova\n",
+    "wof:lastmodified":1587164336,
+    "wof:name":"Spodnja Zadobrova",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-si",
@@ -57,10 +57,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.59251012309657,
-    46.0715609094934,
-    14.59251012309657,
-    46.0715609094934
+    14.59251,
+    46.071561,
+    14.59251,
+    46.071561
 ],
-  "geometry": {"coordinates":[14.59251012309657,46.0715609094934],"type":"Point"}
+  "geometry": {"coordinates":[14.59251,46.071561],"type":"Point"}
 }
