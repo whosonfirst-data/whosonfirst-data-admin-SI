@@ -1078,7 +1078,8 @@
     "qs:source":"EuroGlobalMap",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "naturalearth"
+        "naturalearth",
+        "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -1137,7 +1138,8 @@
     "wof:country_alpha3":"SVN",
     "wof:geom_alt":[
         "naturalearth",
-        "naturalearth-display-terrestrial-zoom6"
+        "naturalearth-display-terrestrial-zoom6",
+        "whosonfirst-interior"
     ],
     "wof:geomhash":"9a4492a483931593c98ff630254f2fe2",
     "wof:hierarchy":[
@@ -1153,7 +1155,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1617827617,
+    "wof:lastmodified":1618362694,
     "wof:name":"Slovenia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
