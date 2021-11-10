@@ -38,6 +38,9 @@
     "name:bel_x_preferred":[
         "\u041a\u0440\u0430\u043d\u044c"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cd\u09b0\u09cd\u09af\u09be\u099e\u09cd\u099c"
+    ],
     "name:bos_x_preferred":[
         "Kranj"
     ],
@@ -85,6 +88,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05e8\u05d0\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094d\u0930\u093e\u0902\u091c"
     ],
     "name:hrv_x_preferred":[
         "Kranj"
@@ -230,7 +236,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862524,
+    "wof:lastmodified":1636502658,
     "wof:name":"Kranj",
     "wof:parent_id":1108959967,
     "wof:placetype":"localadmin",

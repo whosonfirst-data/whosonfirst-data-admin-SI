@@ -29,16 +29,46 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0627\u0633"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09aa\u09c7\u09b8"
+    ],
     "name:bos_x_preferred":[
         "Apa\u010de"
     ],
     "name:ceb_x_preferred":[
         "Apa\u010de"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c0\u03ac\u03c4\u03c3\u03b5"
+    ],
+    "name:fra_x_preferred":[
+        "Apace"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e4\u05d0\u05e6'\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u092a\u0947\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Apa\u010de"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30d1\u30c1\u30a7"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\ud398\uc2a4"
+    ],
     "name:nld_x_preferred":[
         "Apa\u010de"
     ],
     "name:pol_x_preferred":[
+        "Apa\u010de"
+    ],
+    "name:por_x_preferred":[
         "Apa\u010de"
     ],
     "name:ron_x_preferred":[
@@ -47,8 +77,17 @@
     "name:slv_x_preferred":[
         "Apa\u010de"
     ],
+    "name:swe_x_preferred":[
+        "Apace"
+    ],
+    "name:tur_x_preferred":[
+        "Apace"
+    ],
     "name:ukr_x_preferred":[
         "\u0410\u043f\u0430\u0447\u0435"
+    ],
+    "name:vie_x_preferred":[
+        "Apace"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -64,7 +103,7 @@
         "wk:page":"Apa%C4%8De%2C_Kidri%C4%8Devo"
     },
     "wof:country":"SI",
-    "wof:geomhash":"4329b9dcaa82d3d943d3b1ec941d61a1",
+    "wof:geomhash":"7a080ab512ab4122f20bb40ac9abbcd1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +114,7 @@
         }
     ],
     "wof:id":1310341339,
-    "wof:lastmodified":1566644933,
+    "wof:lastmodified":1636502667,
     "wof:name":"Apace",
     "wof:parent_id":1108959739,
     "wof:placetype":"locality",
@@ -88,9 +127,9 @@
 },
   "bbox": [
     15.8025,
-    46.37694000000001,
+    46.37694,
     15.8025,
-    46.37694000000001
+    46.37694
 ],
-  "geometry": {"coordinates":[15.8025,46.37694000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.8025,46.37694],"type":"Point"}
 }

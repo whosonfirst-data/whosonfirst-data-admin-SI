@@ -44,8 +44,14 @@
     "name:deu_x_preferred":[
         "Vodice"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0648\u062f\u06cc\u0633"
+    ],
     "name:fra_x_preferred":[
         "Vodice"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d5\u05d3\u05d9\u05e1"
     ],
     "name:hrv_x_preferred":[
         "Vodice"
@@ -125,7 +131,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862545,
+    "wof:lastmodified":1636502657,
     "wof:name":"Vodice",
     "wof:parent_id":1108959949,
     "wof:placetype":"localadmin",

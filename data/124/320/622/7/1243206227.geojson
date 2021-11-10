@@ -29,16 +29,28 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0631\u0627\u0641\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09cb\u09b0\u09be\u09ad\u09be"
+    ],
     "name:bos_x_preferred":[
         "Morava"
     ],
     "name:ceb_x_preferred":[
         "Morava"
     ],
+    "name:hin_x_preferred":[
+        "\u092e\u094b\u0930\u093e\u0935\u093e"
+    ],
     "name:hrv_x_preferred":[
         "Morava"
     ],
     "name:pol_x_preferred":[
+        "Morava"
+    ],
+    "name:por_x_preferred":[
         "Morava"
     ],
     "name:ron_x_preferred":[
@@ -49,6 +61,12 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0440\u0430\u0432\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0631\u0627\u0648\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Morava"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -75,7 +93,7 @@
         }
     ],
     "wof:id":1243206227,
-    "wof:lastmodified":1566645152,
+    "wof:lastmodified":1636502685,
     "wof:name":"Morava",
     "wof:parent_id":1108959919,
     "wof:placetype":"locality",

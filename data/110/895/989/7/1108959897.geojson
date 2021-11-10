@@ -29,6 +29,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0631\u0646\u062c\u0627 \u0648\u0627\u0633- \u067e\u0644\u0627\u0646\u0698"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d5\u05e8\u05e0\u05d9\u05d4 \u05d5\u05d0\u05e9-\u05e4\u05d5\u05dc\u05d9\u05d0\u05e0\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Gorenja Vas-Poljane"
+    ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -68,7 +77,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862529,
+    "wof:lastmodified":1636502663,
     "wof:name":"Gorenja vas-Poljane",
     "wof:parent_id":1108959967,
     "wof:placetype":"localadmin",

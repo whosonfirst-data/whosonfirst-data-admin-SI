@@ -39,8 +39,14 @@
     "name:epo_x_preferred":[
         "Cerkvenjak"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u06a9\u0648\u0646\u062c\u0627\u06a9"
+    ],
     "name:fra_x_preferred":[
         "Cerkvenjak"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6\u05e8\u05e7\u05d5\u05d5\u05e0\u05d2'\u05d0\u05e7"
     ],
     "name:hrv_x_preferred":[
         "Op\u0107ina Cerkvenjak"
@@ -142,7 +148,7 @@
         }
     ],
     "wof:id":101858979,
-    "wof:lastmodified":1582358302,
+    "wof:lastmodified":1636502675,
     "wof:name":"Cerkvenjak",
     "wof:parent_id":1108959703,
     "wof:placetype":"locality",

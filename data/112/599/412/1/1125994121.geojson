@@ -53,10 +53,19 @@
         "\u0421\u0430\u0432\u0430"
     ],
     "name:urd_x_preferred":[
-        "\u0633\u0627\u0648\u0627\u060c \u0644\u06cc\u062a\u06cc\u0627"
+        "\u0633\u0627\u0648\u0627"
     ],
     "name:urd_x_variant":[
-        "\u0633\u0627\u0648\u0627"
+        "\u0633\u0627\u0648\u0627\u060c \u0644\u06cc\u062a\u06cc\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Sava"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u8428\u74e6\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u85a9\u74e6"
     ],
     "qs_pg:aaroncc":"SI",
     "qs_pg:gn_country":"SI",
@@ -111,7 +120,7 @@
         }
     ],
     "wof:id":1125994121,
-    "wof:lastmodified":1566645057,
+    "wof:lastmodified":1636502683,
     "wof:name":"Sava",
     "wof:parent_id":1108959907,
     "wof:placetype":"locality",

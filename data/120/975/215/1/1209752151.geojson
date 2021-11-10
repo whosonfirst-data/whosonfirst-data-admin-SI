@@ -35,7 +35,13 @@
     "name:ceb_x_preferred":[
         "Pesnica"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e1\u05e0\u05d9\u05e7\u05d4"
+    ],
     "name:hrv_x_preferred":[
+        "Pesnica"
+    ],
+    "name:hun_x_preferred":[
         "Pesnica"
     ],
     "name:nld_x_preferred":[
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1209752151,
-    "wof:lastmodified":1566644727,
+    "wof:lastmodified":1636502641,
     "wof:name":"Pesnica",
     "wof:parent_id":1108959469,
     "wof:placetype":"locality",

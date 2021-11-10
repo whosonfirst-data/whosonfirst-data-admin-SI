@@ -492,6 +492,9 @@
         "Lubliano"
     ],
     "name:urd_x_preferred":[
+        "\u062c\u0628\u0644\u062c\u0627\u0646\u0627"
+    ],
+    "name:urd_x_variant":[
         "\u0644\u06cc\u0648\u0628\u0644\u06cc\u0627\u0646\u0627"
     ],
     "name:uzb_x_preferred":[
@@ -661,8 +664,8 @@
     "wd:wordcount":15098,
     "wof:belongsto":[
         102191581,
-        85633779,
         1108959501,
+        85633779,
         1108959949
     ],
     "wof:breaches":[],
@@ -699,7 +702,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1607390879,
+    "wof:lastmodified":1636502667,
     "wof:megacity":0,
     "wof:name":"Ljubljana",
     "wof:parent_id":1108959501,

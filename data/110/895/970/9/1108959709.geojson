@@ -35,6 +35,12 @@
     "name:ceb_x_preferred":[
         "Sveta Ana"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u062a\u0627 \u0622\u0646\u0627"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d1\u05d8\u05d4 \u05d0\u05e0\u05d4"
+    ],
     "name:hrv_x_preferred":[
         "Sveta Ana"
     ],
@@ -52,6 +58,12 @@
     ],
     "name:swe_x_preferred":[
         "Sveta Ana"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5723\u5b89\u5a1c"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u65af\u7dad\u5854\u5b89\u90a3"
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
@@ -92,7 +104,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862543,
+    "wof:lastmodified":1636502650,
     "wof:name":"Sveta Ana",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",

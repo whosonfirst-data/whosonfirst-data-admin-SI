@@ -29,16 +29,46 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u062c\u0648\u0631"
+    ],
+    "name:ben_x_preferred":[
+        "\u0997\u09cb\u09b0\u09c7"
+    ],
     "name:bos_x_preferred":[
         "Gore"
     ],
     "name:ceb_x_preferred":[
         "Gore"
     ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03cc\u03c1\u03b5"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0631"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d5\u05e8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u094b\u0930\u0947"
+    ],
+    "name:hun_x_preferred":[
+        "Gore"
+    ],
+    "name:ind_x_preferred":[
+        "Gore"
+    ],
+    "name:kor_x_preferred":[
+        "\uace0\ub9ac"
+    ],
     "name:nld_x_preferred":[
         "Gore"
     ],
     "name:pol_x_preferred":[
+        "Gore"
+    ],
+    "name:por_x_preferred":[
         "Gore"
     ],
     "name:ron_x_preferred":[
@@ -47,11 +77,26 @@
     "name:slv_x_preferred":[
         "Gore"
     ],
+    "name:tur_x_preferred":[
+        "Gore"
+    ],
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0440\u0435"
     ],
     "name:und_x_variant":[
         "Gora"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u0648\u0631\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Gore"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6208\u5c14"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6208\u723e"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -78,7 +123,7 @@
         }
     ],
     "wof:id":1344201745,
-    "wof:lastmodified":1566644446,
+    "wof:lastmodified":1636502637,
     "wof:name":"Gore",
     "wof:parent_id":1108959535,
     "wof:placetype":"locality",

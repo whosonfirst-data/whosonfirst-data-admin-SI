@@ -60,6 +60,9 @@
         "\u30a4\u30ea\u30eb\u30b9\u30ab\u30fb\u30d3\u30b9\u30c8\u30ea\u30c4\u30a1"
     ],
     "name:kor_x_preferred":[
+        "\uc77c\ub9ac\ub974\uc2a4\uce74 \ube44\uc2a4\ud2b8\ub9ac\uce74"
+    ],
+    "name:kor_x_variant":[
         "\uc77c\ub9ac\ub974\uc2a4\uce74\ube44\uc2a4\ud2b8\ub9ac\ucc28"
     ],
     "name:lat_x_preferred":[
@@ -98,8 +101,14 @@
     "name:swe_x_preferred":[
         "Ilirska Bistrica"
     ],
+    "name:tur_x_preferred":[
+        "Ilirska Bistrica"
+    ],
     "name:ukr_x_preferred":[
         "\u0406\u043b\u0456\u0440\u0441\u044c\u043a\u0430 \u0411\u0438\u0441\u0442\u0440\u0438\u0446\u044f"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0631\u0633\u06a9\u0627 \u0628\u0633\u062a\u0631\u06cc\u06a9\u0627"
     ],
     "name:vie_x_preferred":[
         "Ilirska Bistrica"
@@ -146,7 +155,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862530,
+    "wof:lastmodified":1636502662,
     "wof:name":"Ilirska Bistrica",
     "wof:parent_id":1108959953,
     "wof:placetype":"localadmin",

@@ -38,6 +38,9 @@
     "name:epo_x_preferred":[
         "Markovci"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05de\u05e8\u05dc\u05d1\u05d5\u05e8\u05d5"
+    ],
     "name:hun_x_preferred":[
         "Marokr\u00e9t"
     ],
@@ -67,7 +70,7 @@
         "wk:page":"Markovci%2C_%C5%A0alovci"
     },
     "wof:country":"SI",
-    "wof:geomhash":"83f126d6df4229648a0796e0aeb2ffec",
+    "wof:geomhash":"ad88e94a2e0835d6cd2e352aac372298",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1326764173,
-    "wof:lastmodified":1566644347,
+    "wof:lastmodified":1636502635,
     "wof:name":"Markovci",
     "wof:parent_id":1108959567,
     "wof:placetype":"locality",
@@ -91,9 +94,9 @@
 },
   "bbox": [
     16.23361,
-    46.84444000000001,
+    46.84444,
     16.23361,
-    46.84444000000001
+    46.84444
 ],
-  "geometry": {"coordinates":[16.23361,46.84444000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.23361,46.84444],"type":"Point"}
 }

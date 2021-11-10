@@ -37,14 +37,23 @@
     "name:eng_x_preferred":[
         "Ribnica na Pohorju"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u0628\u0646\u06cc\u06a9\u0627 \u0646\u0627 \u067e\u0648\u0647\u0648\u0631\u062c\u0648"
+    ],
     "name:fra_x_preferred":[
         "Ribnica na Pohorju"
     ],
     "name:hbs_x_preferred":[
         "Ribnica na Pohorju"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d9\u05d1\u05e0\u05d9\u05e7\u05d4 \u05e0\u05d4 \u05e4\u05d5\u05d4\u05e8\u05d2'\u05d5"
+    ],
     "name:hrv_x_preferred":[
         "Op\u0107ina Ribnica na Pohorju"
+    ],
+    "name:hun_x_preferred":[
+        "Ribnica na Pohorju"
     ],
     "name:ita_x_preferred":[
         "Ribnica na Pohorju"
@@ -167,7 +176,7 @@
         }
     ],
     "wof:id":101859005,
-    "wof:lastmodified":1582358301,
+    "wof:lastmodified":1636502674,
     "wof:name":"Ribnica na Pohorju",
     "wof:parent_id":1108959769,
     "wof:placetype":"locality",

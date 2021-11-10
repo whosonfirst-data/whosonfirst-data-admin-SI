@@ -40,6 +40,9 @@
     "name:deu_x_preferred":[
         "Brod"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0627\u062f"
+    ],
     "name:fra_x_preferred":[
         "Brod"
     ],
@@ -47,6 +50,9 @@
         "\u05d1\u05e8\u05d5\u05d3"
     ],
     "name:hrv_x_preferred":[
+        "Brod"
+    ],
+    "name:hun_x_preferred":[
         "Brod"
     ],
     "name:hye_x_preferred":[
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1125939867,
-    "wof:lastmodified":1566645036,
+    "wof:lastmodified":1636502683,
     "wof:name":"Brod",
     "wof:parent_id":1108959819,
     "wof:placetype":"locality",

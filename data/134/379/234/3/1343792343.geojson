@@ -35,6 +35,9 @@
     "name:ceb_x_preferred":[
         "Brezovica"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05d6\u05d5\u05d1\u05d9\u05e6\u05d4"
+    ],
     "name:hrv_x_preferred":[
         "Brezovica"
     ],
@@ -67,7 +70,7 @@
         "wk:page":"Brezovica%2C_%C5%A0marje%C5%A1ke_Toplice"
     },
     "wof:country":"SI",
-    "wof:geomhash":"cffe421fdd4edd0d31645b47cba94f1c",
+    "wof:geomhash":"b7d22f50f84ddb310cd47961e40eefb6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1343792343,
-    "wof:lastmodified":1566644409,
+    "wof:lastmodified":1636502636,
     "wof:name":"Brezovica",
     "wof:parent_id":1108959833,
     "wof:placetype":"locality",
@@ -91,9 +94,9 @@
 },
   "bbox": [
     15.23181,
-    45.87779000000001,
+    45.87779,
     15.23181,
-    45.87779000000001
+    45.87779
 ],
-  "geometry": {"coordinates":[15.23181,45.87779000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.23181,45.87779],"type":"Point"}
 }

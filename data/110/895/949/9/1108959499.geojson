@@ -39,12 +39,24 @@
         "Ljutomer"
     ],
     "name:ell_x_preferred":[
+        "\u039b\u03b9\u03bf\u03c5\u03c4\u03cc\u03bc\u03b5\u03c1"
+    ],
+    "name:ell_x_variant":[
         "\u039b\u03b9\u03bf\u03c5\u03c4\u03bf\u03bc\u03ad\u03c1"
     ],
     "name:epo_x_preferred":[
         "Ljutomer"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05d8\u05d5\u05de\u05e8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u0941\u091f\u094b\u092e\u0947\u0930"
+    ],
     "name:hrv_x_preferred":[
+        "Ljutomer"
+    ],
+    "name:hun_x_preferred":[
         "Ljutomer"
     ],
     "name:nld_x_preferred":[
@@ -65,8 +77,14 @@
     "name:srp_x_preferred":[
         "\u0409\u0443\u0442\u043e\u043c\u0435\u0440"
     ],
+    "name:tur_x_preferred":[
+        "Ljutomer"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u044e\u0442\u043e\u043c\u0435\u0440"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0648\u0679\u0648\u0645\u06cc\u0631"
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
@@ -107,7 +125,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862534,
+    "wof:lastmodified":1636502653,
     "wof:name":"Ljutomer",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",

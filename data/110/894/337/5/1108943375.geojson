@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"14.545656093,46.0953906693,14.545656093,46.0953906693",
+    "geom:bbox":"14.545656,46.095391,14.545656,46.095391",
     "geom:latitude":46.095391,
     "geom:longitude":14.545656,
     "iso:country":"SI",
@@ -41,6 +41,9 @@
     "name:deu_x_preferred":[
         "Brod"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0627\u062f"
+    ],
     "name:fra_x_preferred":[
         "Brod"
     ],
@@ -48,6 +51,9 @@
         "\u05d1\u05e8\u05d5\u05d3"
     ],
     "name:hrv_x_preferred":[
+        "Brod"
+    ],
+    "name:hun_x_preferred":[
         "Brod"
     ],
     "name:hye_x_preferred":[
@@ -110,7 +116,7 @@
     "wof:concordances":{},
     "wof:country":"SI",
     "wof:created":1491363699,
-    "wof:geomhash":"f6fefac034e71b749d5bd690833d4ce1",
+    "wof:geomhash":"5d1f9816b19514a9141e5e2b50f02b5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,7 +128,7 @@
         }
     ],
     "wof:id":1108943375,
-    "wof:lastmodified":1566644884,
+    "wof:lastmodified":1636502666,
     "wof:name":"Brod",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",
@@ -134,10 +140,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.54565609303869,
-    46.09539066934251,
-    14.54565609303869,
-    46.09539066934251
+    14.545656,
+    46.095391,
+    14.545656,
+    46.095391
 ],
-  "geometry": {"coordinates":[14.54565609303869,46.09539066934251],"type":"Point"}
+  "geometry": {"coordinates":[14.545656,46.095391],"type":"Point"}
 }

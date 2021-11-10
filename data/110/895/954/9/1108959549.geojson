@@ -29,6 +29,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:fas_x_preferred":[
+        "\u0647\u0631\u067e\u0644\u062c\u0647 - \u06a9\u0648\u0632\u06cc\u0646\u0627"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05e8\u05e4\u05dc\u05d9\u05d4-\u05e7\u05d5\u05d6\u05d9\u05e0\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Hrpelje-Kozina"
+    ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -68,7 +77,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862530,
+    "wof:lastmodified":1636502642,
     "wof:name":"Hrpelje-Kozina",
     "wof:parent_id":1108959951,
     "wof:placetype":"localadmin",

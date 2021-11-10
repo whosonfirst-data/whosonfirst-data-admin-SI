@@ -57,6 +57,9 @@
         "\u30d7\u30c4\u30a9\u30f3\u30c4\u30a3"
     ],
     "name:kor_x_preferred":[
+        "\ud478\ucf58\uce58"
+    ],
+    "name:kor_x_variant":[
         "\ud478\ucd0c\uce58"
     ],
     "name:nld_x_preferred":[
@@ -71,6 +74,9 @@
     "name:ron_x_preferred":[
         "Puconci"
     ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u043a\u043e\u043d\u0447\u0438"
+    ],
     "name:slv_x_preferred":[
         "Ob\u010dina Puconci"
     ],
@@ -80,11 +86,23 @@
     "name:swe_x_preferred":[
         "Puconci"
     ],
+    "name:tur_x_preferred":[
+        "Puconci"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0443\u0446\u043e\u043d\u0446\u0456"
     ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u06a9\u0648\u06a9\u0646\u06a9\u06cc"
+    ],
     "name:vie_x_preferred":[
         "Puconci"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u666e\u5b54\u5947"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u666e\u5b54\u5947"
     ],
     "name:zho_x_preferred":[
         "\u666e\u806a\u9f50"
@@ -128,7 +146,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862538,
+    "wof:lastmodified":1636502659,
     "wof:name":"Puconci",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",

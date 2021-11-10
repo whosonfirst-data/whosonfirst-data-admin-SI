@@ -48,7 +48,13 @@
         "Podgorica"
     ],
     "name:ukr_x_preferred":[
+        "\u041f\u043e\u0434\u0433\u043e\u0440\u0456\u0446\u0430"
+    ],
+    "name:ukr_x_variant":[
         "\u041f\u043e\u0434\u0433\u043e\u0440\u0438\u0446\u044f"
+    ],
+    "name:vie_x_preferred":[
+        "Podgorica"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":1243588443,
-    "wof:lastmodified":1566645126,
+    "wof:lastmodified":1636502684,
     "wof:name":"Podgorica",
     "wof:parent_id":1108959927,
     "wof:placetype":"locality",

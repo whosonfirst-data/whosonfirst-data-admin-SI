@@ -71,8 +71,14 @@
     "name:eus_x_preferred":[
         "Postojna"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0633\u062a\u0648\u062c\u0646\u0627"
+    ],
     "name:fra_x_preferred":[
         "Postojna"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e1\u05d8\u05d5\u05d9\u05e0\u05d4"
     ],
     "name:hrv_x_preferred":[
         "Postojna"
@@ -173,7 +179,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862537,
+    "wof:lastmodified":1636502648,
     "wof:name":"Postojna",
     "wof:parent_id":1108959953,
     "wof:placetype":"localadmin",

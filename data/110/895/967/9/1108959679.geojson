@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0644\u0648\u0641\u0631\u064a\u0646\u0633 \u0646\u0627 \u0628\u0648\u0647\u0648\u0631\u062c\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09cb\u09ad\u09cd\u09b0\u09c7\u0999\u09cd\u0995 \u09a8\u09be \u09aa\u09cb\u09b9\u09cb\u09b0\u099c\u09c1"
+    ],
     "name:bos_x_preferred":[
         "Lovrenc na Pohorju"
     ],
@@ -38,20 +44,47 @@
     "name:ces_x_preferred":[
         "Lovrenc na Pohorju"
     ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03b2\u03c1\u03ad\u03bd\u03ba \u03bd\u03b1 \u03a0\u03bf\u03c7\u03bf\u03c1\u03b3\u03b9\u03bf\u03cd"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0631\u0646\u06a9 \u0646\u0627 \u067e\u0648\u0647\u0648\u0631\u062c\u0648"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d2\u05dd \u05dc\u05d5\u05d0\u05e8 \u05d0\u05e8\u05d5\u05d0\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u094b\u0935\u094d\u0930\u0947\u0928\u094d\u0915 \u0928\u093e \u092a\u094b\u0939\u094b\u0930\u091c\u0941"
+    ],
     "name:pol_x_preferred":[
         "Lovrenc na Pohorju"
     ],
     "name:ron_x_preferred":[
         "Lovrenc na Pohorju"
     ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0432\u0440\u0435\u043d\u0446-\u043d\u0430-\u041f\u043e\u0445\u043e\u0440\u044c\u044e"
+    ],
     "name:slv_x_preferred":[
+        "Lovrenc na Pohorju"
+    ],
+    "name:spa_x_preferred":[
         "Lovrenc na Pohorju"
     ],
     "name:srp_x_preferred":[
         "\u041b\u043e\u0432\u0440\u0435\u043d\u0446 \u043d\u0430 \u041f\u043e\u0445\u043e\u0440\u0458\u0443"
     ],
+    "name:swe_x_preferred":[
+        "Lovrenc na Pohorju"
+    ],
+    "name:tur_x_preferred":[
+        "Lovrenc na Pohorju"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u043e\u0432\u0440\u0435\u043d\u0446-\u043d\u0430-\u041f\u043e\u0445\u043e\u0440\u044e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u0631\u06cc\u0646\u06a9 \u0646\u0627 \u067e\u0648\u06c1\u0648\u0631\u062c\u0648"
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
@@ -92,7 +125,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862534,
+    "wof:lastmodified":1636502659,
     "wof:name":"Lovrenc na Pohorju",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",

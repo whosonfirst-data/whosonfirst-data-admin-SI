@@ -39,11 +39,17 @@
     "name:eng_x_preferred":[
         "Bistrica ob Sotli"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0633\u062a\u0631\u06cc\u06a9\u0627 \u0627\u0648\u0628 \u0633\u0648\u062a\u0644\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Bistrica ob Sotli"
     ],
     "name:hbs_x_preferred":[
         "Bistrica ob Sotli"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05e1\u05d8\u05e8\u05d9\u05e6\u05d4"
     ],
     "name:hrv_x_preferred":[
         "Op\u0107ina Bistrica ob Sotli"
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":101857907,
-    "wof:lastmodified":1582358301,
+    "wof:lastmodified":1636502674,
     "wof:name":"Bistrica ob Sotli",
     "wof:parent_id":1108959915,
     "wof:placetype":"locality",

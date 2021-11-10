@@ -41,11 +41,20 @@
     "name:epo_x_preferred":[
         "Ob\u010dina Selnica ob Dravi"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0644\u0646\u06cc\u06a9\u0627 \u0627\u0648\u0628 \u062f\u0631\u0627\u0648\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Selnica ob Dravi"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05dc\u05e0\u05d9\u05e7\u05d4 \u05d0\u05d5\u05d1 \u05d3\u05e8\u05d0\u05d1\u05d9"
+    ],
     "name:hrv_x_preferred":[
         "Op\u0107ina Selnica ob Dravi"
+    ],
+    "name:hun_x_preferred":[
+        "Selnica ob Dravi"
     ],
     "name:ind_x_preferred":[
         "Munisipalitas Selnica ob Dravi"
@@ -125,7 +134,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862540,
+    "wof:lastmodified":1636502657,
     "wof:name":"Selnica ob Dravi",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",

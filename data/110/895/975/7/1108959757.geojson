@@ -44,8 +44,14 @@
     "name:fra_x_preferred":[
         "Podlehnik"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05d3\u05dc\u05e0\u05d9\u05e7"
+    ],
     "name:hrv_x_preferred":[
         "Op\u0107ina Podlehnik"
+    ],
+    "name:hun_x_preferred":[
+        "Podlehnik"
     ],
     "name:ind_x_preferred":[
         "Munisipalitas Podlehnik"
@@ -128,7 +134,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862537,
+    "wof:lastmodified":1636502665,
     "wof:name":"Podlehnik",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",
