@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_172",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Podlehnik",
+    "eurostat:nuts_2021_id":"172",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI032",
+    "eurostat:nuts_2021_level_lau":"172",
+    "eurostat:population":1801,
+    "eurostat:population_year":2020,
     "geom:area":0.005371,
-    "geom:area_square_m":45870017.317672,
+    "geom:area_square_m":45869969.78647,
     "geom:bbox":"15.815105,46.275421,15.914269,46.355057",
     "geom:latitude":46.316264,
     "geom:longitude":15.865253,
@@ -97,8 +109,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1998-11-22",
     "svn-sma:dv_od":"1998-11-27",
     "svn-sma:enota":"OB",
@@ -116,9 +128,13 @@
         1108959961
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_172",
+        "eurostat:nuts_2021_id":"172"
+    },
     "wof:country":"SI",
     "wof:created":1493417101,
-    "wof:geomhash":"a78f62f44f91faec21eba2f982a368c2",
+    "wof:geomhash":"c00ffa839538d472f12952d46b3a4376",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,11 +150,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502665,
+    "wof:lastmodified":1684354776,
     "wof:name":"Podlehnik",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",
-    "wof:population":1873,
+    "wof:population":1801,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

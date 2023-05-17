@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_202",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sredi\u0161\u010de ob Dravi",
+    "eurostat:nuts_2021_id":"202",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI032",
+    "eurostat:nuts_2021_level_lau":"202",
+    "eurostat:population":1902,
+    "eurostat:population_year":2020,
     "geom:area":0.00383,
-    "geom:area_square_m":32654783.372383,
+    "geom:area_square_m":32654733.8513,
     "geom:bbox":"16.206648,46.376123,16.307874,46.441525",
     "geom:latitude":46.402585,
     "geom:longitude":16.254951,
@@ -85,8 +97,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"2006-04-06",
     "svn-sma:dv_od":"2006-04-12",
     "svn-sma:enota":"OB",
@@ -104,9 +116,13 @@
         1108959961
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_202",
+        "eurostat:nuts_2021_id":"202"
+    },
     "wof:country":"SI",
     "wof:created":1493417096,
-    "wof:geomhash":"adcd4a62717f6a04c5070dd1c46a57ad",
+    "wof:geomhash":"076bc7f8e4c0ee3c4067a310a5e7eaf9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,12 +138,12 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862542,
+    "wof:lastmodified":1684354774,
     "wof:name":"Sredi\u0161\u010de ob Dravi",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",
-    "wof:population":2110,
-    "wof:population_rank":4,
+    "wof:population":1902,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],
     "wof:supersedes":[],

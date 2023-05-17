@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_148",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Benedikt",
+    "eurostat:nuts_2021_id":"148",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI032",
+    "eurostat:nuts_2021_level_lau":"148",
+    "eurostat:population":2615,
+    "eurostat:population_year":2020,
     "geom:area":0.002835,
-    "geom:area_square_m":24078972.838398,
+    "geom:area_square_m":24078926.845852,
     "geom:bbox":"15.85148,46.580947,15.934853,46.647067",
     "geom:latitude":46.617292,
     "geom:longitude":15.890871,
@@ -67,8 +79,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1998-11-22",
     "svn-sma:dv_od":"1998-11-27",
     "svn-sma:enota":"OB",
@@ -86,9 +98,13 @@
         1108959961
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_148",
+        "eurostat:nuts_2021_id":"148"
+    },
     "wof:country":"SI",
     "wof:created":1493417113,
-    "wof:geomhash":"3b6d0cc23ceb2ee25599c815364eb3c2",
+    "wof:geomhash":"23d277bbcd9096ea46f2985a63b7e0a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,11 +120,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502654,
+    "wof:lastmodified":1684354780,
     "wof:name":"Benedikt",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",
-    "wof:population":2430,
+    "wof:population":2615,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_149",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bistrica ob Sotli",
+    "eurostat:nuts_2021_id":"149",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI036",
+    "eurostat:nuts_2021_level_lau":"149",
+    "eurostat:population":1336,
+    "eurostat:population_year":2020,
     "geom:area":0.00362,
-    "geom:area_square_m":31065232.210466,
+    "geom:area_square_m":31065196.455892,
     "geom:bbox":"15.597611,46.030308,15.721659,46.088253",
     "geom:latitude":46.058557,
     "geom:longitude":15.646805,
@@ -91,8 +103,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1998-11-22",
     "svn-sma:dv_od":"1998-11-27",
     "svn-sma:enota":"OB",
@@ -110,9 +122,13 @@
         1108959965
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_149",
+        "eurostat:nuts_2021_id":"149"
+    },
     "wof:country":"SI",
     "wof:created":1493417124,
-    "wof:geomhash":"8c926efa01ac6b00875e455820a865c2",
+    "wof:geomhash":"e4b74e49193cc13785815cba2ca7853f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,11 +144,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502644,
+    "wof:lastmodified":1684354784,
     "wof:name":"Bistrica ob Sotli",
     "wof:parent_id":1108959965,
     "wof:placetype":"localadmin",
-    "wof:population":1404,
+    "wof:population":1336,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

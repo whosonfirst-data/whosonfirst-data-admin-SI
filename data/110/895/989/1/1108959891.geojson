@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_123",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0160kofljica",
+    "eurostat:nuts_2021_id":"123",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI041",
+    "eurostat:nuts_2021_level_lau":"123",
+    "eurostat:population":11577,
+    "eurostat:population_year":2020,
     "geom:area":0.005026,
-    "geom:area_square_m":43196159.788871,
+    "geom:area_square_m":43196128.038632,
     "geom:bbox":"14.528912,45.89392,14.618048,46.019407",
     "geom:latitude":45.965712,
     "geom:longitude":14.573729,
@@ -55,8 +67,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -74,9 +86,13 @@
         1108959949
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_123",
+        "eurostat:nuts_2021_id":"123"
+    },
     "wof:country":"SI",
     "wof:created":1493417121,
-    "wof:geomhash":"950c70d176e15b3eb0f6c3891e10088c",
+    "wof:geomhash":"bd21497c290fa9d8911b23bf445114c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,12 +108,12 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862541,
+    "wof:lastmodified":1684354783,
     "wof:name":"\u0160kofljica",
     "wof:parent_id":1108959949,
     "wof:placetype":"localadmin",
-    "wof:population":9744,
-    "wof:population_rank":5,
+    "wof:population":11577,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],
     "wof:supersedes":[

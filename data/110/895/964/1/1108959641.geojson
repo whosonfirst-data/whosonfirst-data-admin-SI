@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_113",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Slovenska Bistrica",
+    "eurostat:nuts_2021_id":"113",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI032",
+    "eurostat:nuts_2021_level_lau":"113",
+    "eurostat:population":25827,
+    "eurostat:population_year":2020,
     "geom:area":0.030434,
-    "geom:area_square_m":259453143.336109,
+    "geom:area_square_m":259453087.722673,
     "geom:bbox":"15.333585,46.316954,15.686659,46.497745",
     "geom:latitude":46.413964,
     "geom:longitude":15.53371,
@@ -124,8 +136,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -143,9 +155,13 @@
         1108959961
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_113",
+        "eurostat:nuts_2021_id":"113"
+    },
     "wof:country":"SI",
     "wof:created":1493417086,
-    "wof:geomhash":"1354969b55ef0f38970a9d248e6920a0",
+    "wof:geomhash":"f9190664eab3970d63ccf20b6b376bb5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,11 +177,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502647,
+    "wof:lastmodified":1684354770,
     "wof:name":"Slovenska Bistrica",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",
-    "wof:population":25191,
+    "wof:population":25827,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

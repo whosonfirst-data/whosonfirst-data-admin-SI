@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_084",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nova Gorica",
+    "eurostat:nuts_2021_id":"084",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI043",
+    "eurostat:nuts_2021_level_lau":"084",
+    "eurostat:population":31884,
+    "eurostat:population_year":2020,
     "geom:area":0.032448,
-    "geom:area_square_m":278810372.167493,
+    "geom:area_square_m":278810344.063595,
     "geom:bbox":"13.608599,45.833819,13.86836,46.108002",
     "geom:latitude":45.980477,
     "geom:longitude":13.740572,
@@ -178,8 +190,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -197,9 +209,13 @@
         1108959947
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_084",
+        "eurostat:nuts_2021_id":"084"
+    },
     "wof:country":"SI",
     "wof:created":1493417058,
-    "wof:geomhash":"9ae83106a12be4d19f6cd323dcf491fc",
+    "wof:geomhash":"74130997ce392a5801db6a3f92604a98",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -215,11 +231,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862524,
+    "wof:lastmodified":1684354761,
     "wof:name":"Nova Gorica",
     "wof:parent_id":1108959947,
     "wof:placetype":"localadmin",
-    "wof:population":31938,
+    "wof:population":31884,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_162",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Horjul",
+    "eurostat:nuts_2021_id":"162",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI041",
+    "eurostat:nuts_2021_level_lau":"162",
+    "eurostat:population":3024,
+    "eurostat:population_year":2020,
     "geom:area":0.003782,
-    "geom:area_square_m":32475148.337965,
+    "geom:area_square_m":32475194.941277,
     "geom:bbox":"14.234502,45.991714,14.342592,46.047629",
     "geom:latitude":46.022502,
     "geom:longitude":14.286736,
@@ -34,8 +46,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1998-11-22",
     "svn-sma:dv_od":"1998-11-27",
     "svn-sma:enota":"OB",
@@ -53,9 +65,13 @@
         1108959949
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_162",
+        "eurostat:nuts_2021_id":"162"
+    },
     "wof:country":"SI",
     "wof:created":1493417117,
-    "wof:geomhash":"8415162995959543a098d976125f5f74",
+    "wof:geomhash":"346d14a3fd7df20fd9f904efc7162d4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,11 +87,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502666,
+    "wof:lastmodified":1684354782,
     "wof:name":"Horjul",
     "wof:parent_id":1108959949,
     "wof:placetype":"localadmin",
-    "wof:population":2909,
+    "wof:population":3024,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

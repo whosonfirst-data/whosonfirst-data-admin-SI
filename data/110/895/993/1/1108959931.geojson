@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_205",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sveti Toma\u017e",
+    "eurostat:nuts_2021_id":"205",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI032",
+    "eurostat:nuts_2021_level_lau":"205",
+    "eurostat:population":1988,
+    "eurostat:population_year":2020,
     "geom:area":0.004462,
-    "geom:area_square_m":37996152.517927,
+    "geom:area_square_m":37996091.851464,
     "geom:bbox":"16.0065,46.442779,16.120113,46.510256",
     "geom:latitude":46.479554,
     "geom:longitude":16.06673,
@@ -37,8 +49,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"2006-04-06",
     "svn-sma:dv_od":"2006-04-12",
     "svn-sma:enota":"OB",
@@ -56,9 +68,13 @@
         1108959961
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_205",
+        "eurostat:nuts_2021_id":"205"
+    },
     "wof:country":"SI",
     "wof:created":1493417128,
-    "wof:geomhash":"f20374fa6db5abe983e00fb153eb5e71",
+    "wof:geomhash":"255fe2cce06098f15ee779f5832109e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,12 +90,12 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862543,
+    "wof:lastmodified":1684354785,
     "wof:name":"Sveti Toma\u017e",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",
-    "wof:population":2112,
-    "wof:population_rank":4,
+    "wof:population":1988,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],
     "wof:supersedes":[],

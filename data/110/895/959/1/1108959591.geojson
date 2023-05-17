@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_116",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sveti Jurij ob \u0160\u010davnici",
+    "eurostat:nuts_2021_id":"116",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI031",
+    "eurostat:nuts_2021_level_lau":"116",
+    "eurostat:population":2782,
+    "eurostat:population_year":2020,
     "geom:area":0.006022,
-    "geom:area_square_m":51195621.522959,
+    "geom:area_square_m":51195654.246064,
     "geom:bbox":"15.963764,46.512738,16.089498,46.610788",
     "geom:latitude":46.564806,
     "geom:longitude":16.024478,
@@ -82,8 +94,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"2011-02-26",
     "svn-sma:dv_od":"2011-03-09",
     "svn-sma:enota":"OB",
@@ -101,9 +113,13 @@
         1108959945
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_116",
+        "eurostat:nuts_2021_id":"116"
+    },
     "wof:country":"SI",
     "wof:created":1493417079,
-    "wof:geomhash":"e2e5884cdf5a79f5dfd0ddc13add9220",
+    "wof:geomhash":"03ff4226dadda735a4f2dedebe5d4c1f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,11 +135,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862543,
+    "wof:lastmodified":1684354768,
     "wof:name":"Sveti Jurij ob \u0160\u010davnici",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",
-    "wof:population":2890,
+    "wof:population":2782,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

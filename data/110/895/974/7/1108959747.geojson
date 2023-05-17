@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_135",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Videm",
+    "eurostat:nuts_2021_id":"135",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI032",
+    "eurostat:nuts_2021_level_lau":"135",
+    "eurostat:population":5625,
+    "eurostat:population_year":2020,
     "geom:area":0.009348,
-    "geom:area_square_m":79794197.837109,
+    "geom:area_square_m":79794178.568451,
     "geom:bbox":"15.790728,46.28529,15.971699,46.400655",
     "geom:latitude":46.346949,
     "geom:longitude":15.892878,
@@ -82,8 +94,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -101,9 +113,13 @@
         1108959961
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_135",
+        "eurostat:nuts_2021_id":"135"
+    },
     "wof:country":"SI",
     "wof:created":1493417099,
-    "wof:geomhash":"760ceb7b5dbba07bdca48f0e8bc5bff0",
+    "wof:geomhash":"e5122edcf24a1aa55ca92fdf4ab5f33f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,11 +135,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1642551822,
+    "wof:lastmodified":1684354775,
     "wof:name":"Videm",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",
-    "wof:population":5603,
+    "wof:population":5625,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

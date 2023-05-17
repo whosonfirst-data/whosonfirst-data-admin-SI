@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kidri\u010devo",
+    "eurostat:nuts_2021_id":"045",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI032",
+    "eurostat:nuts_2021_level_lau":"045",
+    "eurostat:population":6541,
+    "eurostat:population_year":2020,
     "geom:area":0.008365,
-    "geom:area_square_m":71334393.644774,
+    "geom:area_square_m":71334407.741097,
     "geom:bbox":"15.664869,46.356735,15.823281,46.438764",
     "geom:latitude":46.395086,
     "geom:longitude":15.749761,
@@ -58,8 +70,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -77,9 +89,13 @@
         1108959961
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_045",
+        "eurostat:nuts_2021_id":"045"
+    },
     "wof:country":"SI",
     "wof:created":1493417098,
-    "wof:geomhash":"ffe8986dd93dc98079bd5bb7a05b115c",
+    "wof:geomhash":"ad6334a8c34deb1f893899b04ff9329b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,11 +111,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862531,
+    "wof:lastmodified":1684354775,
     "wof:name":"Kidri\u010devo",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",
-    "wof:population":6627,
+    "wof:population":6541,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

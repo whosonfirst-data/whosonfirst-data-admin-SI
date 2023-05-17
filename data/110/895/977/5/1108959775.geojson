@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_166",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kri\u017eevci",
+    "eurostat:nuts_2021_id":"166",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI031",
+    "eurostat:nuts_2021_level_lau":"166",
+    "eurostat:population":3537,
+    "eurostat:population_year":2020,
     "geom:area":0.005426,
-    "geom:area_square_m":46128521.747852,
+    "geom:area_square_m":46128521.58156,
     "geom:bbox":"16.068114,46.52594,16.174497,46.607669",
     "geom:latitude":46.564047,
     "geom:longitude":16.117832,
@@ -73,8 +85,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1998-11-22",
     "svn-sma:dv_od":"1998-11-27",
     "svn-sma:enota":"OB",
@@ -92,9 +104,13 @@
         1108959945
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_166",
+        "eurostat:nuts_2021_id":"166"
+    },
     "wof:country":"SI",
     "wof:created":1493417102,
-    "wof:geomhash":"26b5e45d313b8d2736c0a31936e2b037",
+    "wof:geomhash":"7f86ce4c94a8b55b5067d80db2de969a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,11 +126,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862532,
+    "wof:lastmodified":1684354776,
     "wof:name":"Kri\u017eevci",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",
-    "wof:population":3753,
+    "wof:population":3537,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

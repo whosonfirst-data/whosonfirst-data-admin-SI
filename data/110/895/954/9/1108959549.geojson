@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hrpelje - Kozina",
+    "eurostat:nuts_2021_id":"035",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI044",
+    "eurostat:nuts_2021_level_lau":"035",
+    "eurostat:population":4604,
+    "eurostat:population_year":2020,
     "geom:area":0.022469,
-    "geom:area_square_m":194498003.470552,
+    "geom:area_square_m":194498117.034323,
     "geom:bbox":"13.868803,45.480828,14.131611,45.644384",
     "geom:latitude":45.569416,
     "geom:longitude":14.008763,
@@ -40,8 +52,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -59,9 +71,13 @@
         1108959951
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_035",
+        "eurostat:nuts_2021_id":"035"
+    },
     "wof:country":"SI",
     "wof:created":1493417067,
-    "wof:geomhash":"195013a7666308738e682f1b54a468de",
+    "wof:geomhash":"7319c23f56f6fcd09af156a012cc518b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,11 +93,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502642,
+    "wof:lastmodified":1684354764,
     "wof:name":"Hrpelje-Kozina",
     "wof:parent_id":1108959951,
     "wof:placetype":"localadmin",
-    "wof:population":4303,
+    "wof:population":4604,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

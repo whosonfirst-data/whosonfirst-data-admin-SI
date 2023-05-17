@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_124",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0160marje pri Jel\u0161ah",
+    "eurostat:nuts_2021_id":"124",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI034",
+    "eurostat:nuts_2021_level_lau":"124",
+    "eurostat:population":10271,
+    "eurostat:population_year":2020,
     "geom:area":0.012552,
-    "geom:area_square_m":107393378.884054,
+    "geom:area_square_m":107393317.826927,
     "geom:bbox":"15.435059,46.15405,15.602419,46.279915",
     "geom:latitude":46.214902,
     "geom:longitude":15.519894,
@@ -88,8 +100,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -107,9 +119,13 @@
         1108959959
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_124",
+        "eurostat:nuts_2021_id":"124"
+    },
     "wof:country":"SI",
     "wof:created":1493417081,
-    "wof:geomhash":"0a897be7ab9ed6aeddae716b457ad172",
+    "wof:geomhash":"0b50e85b8152d11dd5e419fa9723561c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,11 +141,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862541,
+    "wof:lastmodified":1684354769,
     "wof:name":"\u0160marje pri Jel\u0161ah",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",
-    "wof:population":10278,
+    "wof:population":10271,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

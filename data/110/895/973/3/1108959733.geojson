@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ren\u010de - Vogrsko",
+    "eurostat:nuts_2021_id":"201",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI043",
+    "eurostat:nuts_2021_level_lau":"201",
+    "eurostat:population":4371,
+    "eurostat:population_year":2020,
     "geom:area":0.003416,
-    "geom:area_square_m":29396415.068296,
+    "geom:area_square_m":29396415.437838,
     "geom:bbox":"13.622121,45.861228,13.72,45.928763",
     "geom:latitude":45.891069,
     "geom:longitude":13.679949,
@@ -31,8 +43,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"2006-07-18",
     "svn-sma:dv_od":"2006-07-20",
     "svn-sma:enota":"OB",
@@ -50,9 +62,13 @@
         1108959947
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_201",
+        "eurostat:nuts_2021_id":"201"
+    },
     "wof:country":"SI",
     "wof:created":1493417097,
-    "wof:geomhash":"fab23bb5ca6245bd0871be129a034c75",
+    "wof:geomhash":"f0a35acba8be2876b17d54380893ca92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,11 +84,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862539,
+    "wof:lastmodified":1684354775,
     "wof:name":"Ren\u010de-Vogrsko",
     "wof:parent_id":1108959947,
     "wof:placetype":"localadmin",
-    "wof:population":4309,
+    "wof:population":4371,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

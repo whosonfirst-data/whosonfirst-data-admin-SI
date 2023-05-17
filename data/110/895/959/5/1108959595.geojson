@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_086",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Odranci",
+    "eurostat:nuts_2021_id":"086",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI031",
+    "eurostat:nuts_2021_level_lau":"086",
+    "eurostat:population":1632,
+    "eurostat:population_year":2020,
     "geom:area":0.000814,
-    "geom:area_square_m":6916640.609917,
+    "geom:area_square_m":6916639.32283,
     "geom:bbox":"16.250573,46.568753,16.29849,46.60163",
     "geom:latitude":46.585989,
     "geom:longitude":16.271221,
@@ -103,8 +115,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -122,9 +134,13 @@
         1108959945
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_086",
+        "eurostat:nuts_2021_id":"086"
+    },
     "wof:country":"SI",
     "wof:created":1493417080,
-    "wof:geomhash":"9911122057f6905c3a428866a817566e",
+    "wof:geomhash":"d62fd80d1c9cbaf1b3d7d02b878af174",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,11 +156,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502658,
+    "wof:lastmodified":1684354768,
     "wof:name":"Odranci",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",
-    "wof:population":1637,
+    "wof:population":1632,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

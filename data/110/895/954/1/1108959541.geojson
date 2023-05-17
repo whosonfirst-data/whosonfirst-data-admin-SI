@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bovec",
+    "eurostat:nuts_2021_id":"006",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI043",
+    "eurostat:nuts_2021_level_lau":"006",
+    "eurostat:population":3073,
+    "eurostat:population_year":2020,
     "geom:area":0.042931,
-    "geom:area_square_m":366381018.846709,
+    "geom:area_square_m":366380894.315347,
     "geom:bbox":"13.399666,46.265926,13.836561,46.446502",
     "geom:latitude":46.355548,
     "geom:longitude":13.623806,
@@ -127,8 +139,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -146,9 +158,13 @@
         1108959947
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_006",
+        "eurostat:nuts_2021_id":"006"
+    },
     "wof:country":"SI",
     "wof:created":1493417066,
-    "wof:geomhash":"83e0b33973348f9e7abdd5f60e3e0df1",
+    "wof:geomhash":"06a2bd4affa9c1278f96ee175750a717",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,11 +180,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502642,
+    "wof:lastmodified":1684354764,
     "wof:name":"Bovec",
     "wof:parent_id":1108959947,
     "wof:placetype":"localadmin",
-    "wof:population":3195,
+    "wof:population":3073,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

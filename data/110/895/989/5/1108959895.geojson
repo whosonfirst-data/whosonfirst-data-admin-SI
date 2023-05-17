@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brezovica",
+    "eurostat:nuts_2021_id":"008",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI041",
+    "eurostat:nuts_2021_level_lau":"008",
+    "eurostat:population":12671,
+    "eurostat:population_year":2020,
     "geom:area":0.01058,
-    "geom:area_square_m":90966134.727082,
+    "geom:area_square_m":90966116.244832,
     "geom:bbox":"14.363677,45.859205,14.490713,46.036717",
     "geom:latitude":45.948368,
     "geom:longitude":14.424452,
@@ -88,8 +100,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -107,9 +119,13 @@
         1108959949
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_008",
+        "eurostat:nuts_2021_id":"008"
+    },
     "wof:country":"SI",
     "wof:created":1493417122,
-    "wof:geomhash":"574f39addc9d10dc90b43d914c5c0aaa",
+    "wof:geomhash":"3aa2fa6cb07546e41e5200801e9b3aba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,11 +141,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502664,
+    "wof:lastmodified":1684354783,
     "wof:name":"Brezovica",
     "wof:parent_id":1108959949,
     "wof:placetype":"localadmin",
-    "wof:population":11620,
+    "wof:population":12671,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

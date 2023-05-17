@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_134",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Velike La\u0161\u010de",
+    "eurostat:nuts_2021_id":"134",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI041",
+    "eurostat:nuts_2021_level_lau":"134",
+    "eurostat:population":4410,
+    "eurostat:population_year":2020,
     "geom:area":0.011953,
-    "geom:area_square_m":102958219.958944,
+    "geom:area_square_m":102958201.598397,
     "geom:bbox":"14.490784,45.791422,14.688899,45.908868",
     "geom:latitude":45.843124,
     "geom:longitude":14.587119,
@@ -82,8 +94,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -101,9 +113,13 @@
         1108959949
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_134",
+        "eurostat:nuts_2021_id":"134"
+    },
     "wof:country":"SI",
     "wof:created":1493417117,
-    "wof:geomhash":"c2509dd16eb46d26438709d4b60430cc",
+    "wof:geomhash":"62a984b765ab94a414a80dbc0a2e7dbd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,11 +135,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862544,
+    "wof:lastmodified":1684354781,
     "wof:name":"Velike La\u0161\u010de",
     "wof:parent_id":1108959949,
     "wof:placetype":"localadmin",
-    "wof:population":4240,
+    "wof:population":4410,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

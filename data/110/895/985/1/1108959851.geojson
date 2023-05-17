@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_140",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vrhnika",
+    "eurostat:nuts_2021_id":"140",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI041",
+    "eurostat:nuts_2021_level_lau":"140",
+    "eurostat:population":17529,
+    "eurostat:population_year":2020,
     "geom:area":0.013424,
-    "geom:area_square_m":115388852.950574,
+    "geom:area_square_m":115388807.05705,
     "geom:bbox":"14.188783,45.869468,14.383136,46.025612",
     "geom:latitude":45.959143,
     "geom:longitude":14.294769,
@@ -109,8 +121,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -128,9 +140,13 @@
         1108959949
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_140",
+        "eurostat:nuts_2021_id":"140"
+    },
     "wof:country":"SI",
     "wof:created":1493417115,
-    "wof:geomhash":"4e8e710b39c1ca170b9ca6e6d5d29c35",
+    "wof:geomhash":"db40dea7b9173e10d955d89370a9243e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,11 +162,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502652,
+    "wof:lastmodified":1684354781,
     "wof:name":"Vrhnika",
     "wof:parent_id":1108959949,
     "wof:placetype":"localadmin",
-    "wof:population":16543,
+    "wof:population":17529,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

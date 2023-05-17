@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_133",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Velenje",
+    "eurostat:nuts_2021_id":"133",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI034",
+    "eurostat:nuts_2021_level_lau":"133",
+    "eurostat:population":33656,
+    "eurostat:population_year":2020,
     "geom:area":0.009764,
-    "geom:area_square_m":83303443.707509,
+    "geom:area_square_m":83303400.242603,
     "geom:bbox":"15.063393,46.314563,15.205791,46.434547",
     "geom:latitude":46.369113,
     "geom:longitude":15.132963,
@@ -169,8 +181,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -188,9 +200,13 @@
         1108959959
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_133",
+        "eurostat:nuts_2021_id":"133"
+    },
     "wof:country":"SI",
     "wof:created":1493417079,
-    "wof:geomhash":"03990cb107bc84d05d5c4adb9297c260",
+    "wof:geomhash":"12061625aecb6c452f45ec6bbe02697a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,11 +222,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502658,
+    "wof:lastmodified":1684354768,
     "wof:name":"Velenje",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",
-    "wof:population":32912,
+    "wof:population":33656,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

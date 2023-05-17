@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ajdov\u0161\u010dina",
+    "eurostat:nuts_2021_id":"001",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI043",
+    "eurostat:nuts_2021_level_lau":"001",
+    "eurostat:population":19418,
+    "eurostat:population_year":2020,
     "geom:area":0.028431,
-    "geom:area_square_m":244654494.503832,
+    "geom:area_square_m":244654424.191449,
     "geom:bbox":"13.733149,45.823932,14.129574,46.000535",
     "geom:latitude":45.899328,
     "geom:longitude":13.907621,
@@ -88,8 +100,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -107,9 +119,13 @@
         1108959947
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_001",
+        "eurostat:nuts_2021_id":"001"
+    },
     "wof:country":"SI",
     "wof:created":1493417066,
-    "wof:geomhash":"e60faebe7482da5672eba8314f6fcffa",
+    "wof:geomhash":"b775ec79adec109a70b73bc34067bb5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,11 +141,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862525,
+    "wof:lastmodified":1684354764,
     "wof:name":"Ajdov\u0161\u010dina",
     "wof:parent_id":1108959947,
     "wof:placetype":"localadmin",
-    "wof:population":18955,
+    "wof:population":19418,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_168",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Markovci",
+    "eurostat:nuts_2021_id":"168",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI032",
+    "eurostat:nuts_2021_level_lau":"168",
+    "eurostat:population":4039,
+    "eurostat:population_year":2020,
     "geom:area":0.00349,
-    "geom:area_square_m":29766250.648071,
+    "geom:area_square_m":29766261.960374,
     "geom:bbox":"15.89464,46.361279,15.992694,46.420856",
     "geom:latitude":46.390604,
     "geom:longitude":15.94872,
@@ -91,8 +103,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1998-11-22",
     "svn-sma:dv_od":"1998-11-27",
     "svn-sma:enota":"OB",
@@ -110,9 +122,13 @@
         1108959961
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_168",
+        "eurostat:nuts_2021_id":"168"
+    },
     "wof:country":"SI",
     "wof:created":1493417103,
-    "wof:geomhash":"98790b77143fa06091c54b6818e694b9",
+    "wof:geomhash":"58882d80be0289d126918dbd3bb93c4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,11 +144,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502649,
+    "wof:lastmodified":1684354777,
     "wof:name":"Markovci",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",
-    "wof:population":4015,
+    "wof:population":4039,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

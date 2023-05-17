@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_139",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vojnik",
+    "eurostat:nuts_2021_id":"139",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI034",
+    "eurostat:nuts_2021_level_lau":"139",
+    "eurostat:population":8907,
+    "eurostat:population_year":2020,
     "geom:area":0.008793,
-    "geom:area_square_m":75093873.177678,
+    "geom:area_square_m":75093828.425151,
     "geom:bbox":"15.235281,46.260833,15.378811,46.367314",
     "geom:latitude":46.318315,
     "geom:longitude":15.308198,
@@ -58,8 +70,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -77,9 +89,13 @@
         1108959959
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_139",
+        "eurostat:nuts_2021_id":"139"
+    },
     "wof:country":"SI",
     "wof:created":1493417087,
-    "wof:geomhash":"f4e47f63c642f8c7dad50c7b49fae73c",
+    "wof:geomhash":"2c6aef423434588f620838e0dc66881d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,11 +111,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502644,
+    "wof:lastmodified":1684354771,
     "wof:name":"Vojnik",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",
-    "wof:population":8510,
+    "wof:population":8907,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

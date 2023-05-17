@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cerklje na Gorenjskem",
+    "eurostat:nuts_2021_id":"012",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI042",
+    "eurostat:nuts_2021_level_lau":"012",
+    "eurostat:population":7769,
+    "eurostat:population_year":2020,
     "geom:area":0.009106,
-    "geom:area_square_m":77858845.214032,
+    "geom:area_square_m":77858859.939025,
     "geom:bbox":"14.439289,46.200423,14.573794,46.309746",
     "geom:latitude":46.252768,
     "geom:longitude":14.500019,
@@ -67,8 +79,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -86,9 +98,13 @@
         1108959967
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_012",
+        "eurostat:nuts_2021_id":"012"
+    },
     "wof:country":"SI",
     "wof:created":1493417058,
-    "wof:geomhash":"9c57a572cd2677605a43262259bb2c9f",
+    "wof:geomhash":"194fb539940246e32271da0fad98ac3d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,11 +120,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502653,
+    "wof:lastmodified":1684354761,
     "wof:name":"Cerklje na Gorenjskem",
     "wof:parent_id":1108959967,
     "wof:placetype":"localadmin",
-    "wof:population":7243,
+    "wof:population":7769,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

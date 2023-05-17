@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_057",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"La\u0161ko",
+    "eurostat:nuts_2021_id":"057",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI034",
+    "eurostat:nuts_2021_level_lau":"057",
+    "eurostat:population":13067,
+    "eurostat:population_year":2020,
     "geom:area":0.022992,
-    "geom:area_square_m":197016214.043739,
+    "geom:area_square_m":197016184.086616,
     "geom:bbox":"15.111725,46.054931,15.375465,46.200915",
     "geom:latitude":46.13267,
     "geom:longitude":15.257851,
@@ -76,8 +88,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -95,9 +107,13 @@
         1108959959
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_057",
+        "eurostat:nuts_2021_id":"057"
+    },
     "wof:country":"SI",
     "wof:created":1493417120,
-    "wof:geomhash":"4dae983ab90ae9112941abb884f20426",
+    "wof:geomhash":"db2d10b11e8f2d3b39476acf8a48b34f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,11 +129,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862533,
+    "wof:lastmodified":1684354782,
     "wof:name":"La\u0161ko",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",
-    "wof:population":13409,
+    "wof:population":13067,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

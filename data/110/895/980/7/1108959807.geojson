@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_068",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lukovica",
+    "eurostat:nuts_2021_id":"068",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI041",
+    "eurostat:nuts_2021_level_lau":"068",
+    "eurostat:population":5890,
+    "eurostat:population_year":2020,
     "geom:area":0.008729,
-    "geom:area_square_m":74735007.661483,
+    "geom:area_square_m":74734996.613786,
     "geom:bbox":"14.642656,46.141637,14.902885,46.208337",
     "geom:latitude":46.1796,
     "geom:longitude":14.767482,
@@ -37,8 +49,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -56,9 +68,13 @@
         1108959949
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_068",
+        "eurostat:nuts_2021_id":"068"
+    },
     "wof:country":"SI",
     "wof:created":1493417108,
-    "wof:geomhash":"1ade6757c89c57535d2e0a9a72ee2d69",
+    "wof:geomhash":"bfe60fb44da62ef0df77f6c07b295605",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,11 +90,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502663,
+    "wof:lastmodified":1684354778,
     "wof:name":"Lukovica",
     "wof:parent_id":1108959949,
     "wof:placetype":"localadmin",
-    "wof:population":5549,
+    "wof:population":5890,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

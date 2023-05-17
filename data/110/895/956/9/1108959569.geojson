@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_100",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Radenci",
+    "eurostat:nuts_2021_id":"100",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI031",
+    "eurostat:nuts_2021_level_lau":"100",
+    "eurostat:population":5112,
+    "eurostat:population_year":2020,
     "geom:area":0.004008,
-    "geom:area_square_m":34036062.444227,
+    "geom:area_square_m":34036028.877106,
     "geom:bbox":"15.995016,46.582854,16.108711,46.657847",
     "geom:latitude":46.620006,
     "geom:longitude":16.044192,
@@ -94,8 +106,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -113,9 +125,13 @@
         1108959945
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_100",
+        "eurostat:nuts_2021_id":"100"
+    },
     "wof:country":"SI",
     "wof:created":1493417069,
-    "wof:geomhash":"219cc5cea41884f204d1562c2f22c6d9",
+    "wof:geomhash":"1fa9260aeb15f04d8ea3b610a3adfbd7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,11 +147,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502660,
+    "wof:lastmodified":1684354766,
     "wof:name":"Radenci",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",
-    "wof:population":5252,
+    "wof:population":5112,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

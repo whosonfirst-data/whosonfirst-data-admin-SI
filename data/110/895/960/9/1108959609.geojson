@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_107",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rogatec",
+    "eurostat:nuts_2021_id":"107",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI034",
+    "eurostat:nuts_2021_level_lau":"107",
+    "eurostat:population":3106,
+    "eurostat:population_year":2020,
     "geom:area":0.004614,
-    "geom:area_square_m":39465106.984287,
+    "geom:area_square_m":39465111.145161,
     "geom:bbox":"15.673106,46.207107,15.801424,46.267998",
     "geom:latitude":46.238545,
     "geom:longitude":15.741971,
@@ -64,8 +76,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -83,9 +95,13 @@
         1108959959
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_107",
+        "eurostat:nuts_2021_id":"107"
+    },
     "wof:country":"SI",
     "wof:created":1493417081,
-    "wof:geomhash":"72d726ced6de00dc63be0e7b71ef47c7",
+    "wof:geomhash":"a0a8e67f8ff5b4ceefca3723de792e3f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,11 +117,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502660,
+    "wof:lastmodified":1684354769,
     "wof:name":"Rogatec",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",
-    "wof:population":3122,
+    "wof:population":3106,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_110",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sevnica",
+    "eurostat:nuts_2021_id":"110",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI036",
+    "eurostat:nuts_2021_level_lau":"110",
+    "eurostat:population":17642,
+    "eurostat:population_year":2020,
     "geom:area":0.031622,
-    "geom:area_square_m":271567576.109496,
+    "geom:area_square_m":271567660.746581,
     "geom:bbox":"15.087778,45.928186,15.424291,46.089033",
     "geom:latitude":46.01017,
     "geom:longitude":15.268894,
@@ -112,8 +124,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -131,9 +143,13 @@
         1108959965
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_110",
+        "eurostat:nuts_2021_id":"110"
+    },
     "wof:country":"SI",
     "wof:created":1493417127,
-    "wof:geomhash":"4be544d457a762e8af78f0e05c9f52ac",
+    "wof:geomhash":"8879facb8ea2acd4176aa41ef9bd32de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,11 +165,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502657,
+    "wof:lastmodified":1684354785,
     "wof:name":"Sevnica",
     "wof:parent_id":1108959965,
     "wof:placetype":"localadmin",
-    "wof:population":17460,
+    "wof:population":17642,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

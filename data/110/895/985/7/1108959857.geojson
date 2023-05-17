@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_213",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ankaran/Ancarano",
+    "eurostat:nuts_2021_id":"213",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI044",
+    "eurostat:nuts_2021_level_lau":"213",
+    "eurostat:population":3224,
+    "eurostat:population_year":2020,
     "geom:area":0.000928,
-    "geom:area_square_m":8029831.35771,
+    "geom:area_square_m":8029799.332363,
     "geom:bbox":"13.703248,45.557169,13.770617,45.596258",
     "geom:latitude":45.575342,
     "geom:longitude":13.742502,
@@ -88,8 +100,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"2015-02-25",
     "svn-sma:dv_od":"2015-02-25",
     "svn-sma:enota":"OB",
@@ -107,9 +119,13 @@
         1108959951
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_213",
+        "eurostat:nuts_2021_id":"213"
+    },
     "wof:country":"SI",
     "wof:created":1493417116,
-    "wof:geomhash":"e87bf9ce8e62c87f61f1a29cfc11545d",
+    "wof:geomhash":"2bca83fb4811c317c9b572f0d193acc1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,11 +141,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862525,
+    "wof:lastmodified":1684354781,
     "wof:name":"Ankaran",
     "wof:parent_id":1108959951,
     "wof:placetype":"localadmin",
-    "wof:population":3239,
+    "wof:population":3224,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

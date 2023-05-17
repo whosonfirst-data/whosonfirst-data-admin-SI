@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_094",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Postojna",
+    "eurostat:nuts_2021_id":"094",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI038",
+    "eurostat:nuts_2021_level_lau":"094",
+    "eurostat:population":16442,
+    "eurostat:population_year":2020,
     "geom:area":0.031228,
-    "geom:area_square_m":269257366.743502,
+    "geom:area_square_m":269257483.599375,
     "geom:bbox":"14.042374,45.701379,14.326011,45.879053",
     "geom:latitude":45.789467,
     "geom:longitude":14.16986,
@@ -142,8 +154,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -161,9 +173,13 @@
         1108959953
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_094",
+        "eurostat:nuts_2021_id":"094"
+    },
     "wof:country":"SI",
     "wof:created":1493417068,
-    "wof:geomhash":"3252ddf8ddf32aee5e4f9ae8455cee00",
+    "wof:geomhash":"fea8618d7a87a8f6904910671236e182",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,11 +195,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502648,
+    "wof:lastmodified":1684354766,
     "wof:name":"Postojna",
     "wof:parent_id":1108959953,
     "wof:placetype":"localadmin",
-    "wof:population":15749,
+    "wof:population":16442,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

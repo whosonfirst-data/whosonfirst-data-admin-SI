@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_167",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lovrenc na Pohorju",
+    "eurostat:nuts_2021_id":"167",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI032",
+    "eurostat:nuts_2021_level_lau":"167",
+    "eurostat:population":2963,
+    "eurostat:population_year":2020,
     "geom:area":0.009901,
-    "geom:area_square_m":84234478.280101,
+    "geom:area_square_m":84234444.217992,
     "geom:bbox":"15.310976,46.463405,15.457159,46.585125",
     "geom:latitude":46.525822,
     "geom:longitude":15.383539,
@@ -88,8 +100,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1998-11-22",
     "svn-sma:dv_od":"1998-11-27",
     "svn-sma:enota":"OB",
@@ -107,9 +119,13 @@
         1108959961
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_167",
+        "eurostat:nuts_2021_id":"167"
+    },
     "wof:country":"SI",
     "wof:created":1493417091,
-    "wof:geomhash":"3bc71e94833bb25495b5ab1750b4a53f",
+    "wof:geomhash":"bf4bca646bcde11b6cc6a72395ef3f09",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,11 +141,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502659,
+    "wof:lastmodified":1684354772,
     "wof:name":"Lovrenc na Pohorju",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",
-    "wof:population":3096,
+    "wof:population":2963,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

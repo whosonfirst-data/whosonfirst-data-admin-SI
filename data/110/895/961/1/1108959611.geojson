@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_108",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ru\u0161e",
+    "eurostat:nuts_2021_id":"108",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI032",
+    "eurostat:nuts_2021_level_lau":"108",
+    "eurostat:population":7017,
+    "eurostat:population_year":2020,
     "geom:area":0.00713,
-    "geom:area_square_m":60671170.863159,
+    "geom:area_square_m":60671269.98253,
     "geom:bbox":"15.39755,46.476459,15.561454,46.562187",
     "geom:latitude":46.516542,
     "geom:longitude":15.487109,
@@ -97,8 +109,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -116,9 +128,13 @@
         1108959961
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_108",
+        "eurostat:nuts_2021_id":"108"
+    },
     "wof:country":"SI",
     "wof:created":1493417081,
-    "wof:geomhash":"566e55aa6fbf6547f80292d0e916af79",
+    "wof:geomhash":"f513ae9b1d469afe8ecf04a1652ac80b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,11 +150,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862539,
+    "wof:lastmodified":1684354769,
     "wof:name":"Ru\u0161e",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",
-    "wof:population":7220,
+    "wof:population":7017,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

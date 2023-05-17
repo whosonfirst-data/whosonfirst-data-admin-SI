@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_191",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u017detale",
+    "eurostat:nuts_2021_id":"191",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI032",
+    "eurostat:nuts_2021_level_lau":"191",
+    "eurostat:population":1309,
+    "eurostat:population_year":2020,
     "geom:area":0.004439,
-    "geom:area_square_m":37935516.05665,
+    "geom:area_square_m":37935586.180355,
     "geom:bbox":"15.749269,46.254367,15.868283,46.322068",
     "geom:latitude":46.282548,
     "geom:longitude":15.800682,
@@ -55,8 +67,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1998-11-22",
     "svn-sma:dv_od":"1998-11-27",
     "svn-sma:enota":"OB",
@@ -74,9 +86,13 @@
         1108959961
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_191",
+        "eurostat:nuts_2021_id":"191"
+    },
     "wof:country":"SI",
     "wof:created":1493417101,
-    "wof:geomhash":"9aa41f7b42e6a41f5a9eb0307d2ce8eb",
+    "wof:geomhash":"c904892681d05c5c5a8435f45489700a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,11 +108,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862546,
+    "wof:lastmodified":1684354776,
     "wof:name":"\u017detale",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",
-    "wof:population":1340,
+    "wof:population":1309,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

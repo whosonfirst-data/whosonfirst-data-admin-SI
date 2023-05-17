@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_156",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dobrovnik/Dobronak",
+    "eurostat:nuts_2021_id":"156",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI031",
+    "eurostat:nuts_2021_level_lau":"156",
+    "eurostat:population":1284,
+    "eurostat:population_year":2020,
     "geom:area":0.003656,
-    "geom:area_square_m":31036002.123778,
+    "geom:area_square_m":31036043.211659,
     "geom:bbox":"16.303719,46.612166,16.393559,46.689959",
     "geom:latitude":46.650962,
     "geom:longitude":16.346847,
@@ -113,8 +125,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1998-11-22",
     "svn-sma:dv_od":"1998-11-27",
     "svn-sma:enota":"OB",
@@ -132,9 +144,13 @@
         1108959945
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_156",
+        "eurostat:nuts_2021_id":"156"
+    },
     "wof:country":"SI",
     "wof:created":1493417092,
-    "wof:geomhash":"5e22e21b70047fe7e6623ff60222b6d6",
+    "wof:geomhash":"7567200e2536f403f4701d036beff538",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,11 +166,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502661,
+    "wof:lastmodified":1684354773,
     "wof:name":"Dobrovnik",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",
-    "wof:population":1319,
+    "wof:population":1284,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

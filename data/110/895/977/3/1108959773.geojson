@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_198",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Makole",
+    "eurostat:nuts_2021_id":"198",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI032",
+    "eurostat:nuts_2021_level_lau":"198",
+    "eurostat:population":2010,
+    "eurostat:population_year":2020,
     "geom:area":0.004315,
-    "geom:area_square_m":36850717.728273,
+    "geom:area_square_m":36850706.217994,
     "geom:bbox":"15.634275,46.273781,15.716399,46.351476",
     "geom:latitude":46.315785,
     "geom:longitude":15.67479,
@@ -85,8 +97,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"2006-04-06",
     "svn-sma:dv_od":"2006-04-12",
     "svn-sma:enota":"OB",
@@ -104,9 +116,13 @@
         1108959961
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_198",
+        "eurostat:nuts_2021_id":"198"
+    },
     "wof:country":"SI",
     "wof:created":1493417102,
-    "wof:geomhash":"56afd3c8743fb28df6f1d0d026be0814",
+    "wof:geomhash":"af4bb60bd768a04ebbaf3448d8cd1ce9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,11 +138,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862534,
+    "wof:lastmodified":1684354776,
     "wof:name":"Makole",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",
-    "wof:population":2037,
+    "wof:population":2010,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_052",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kranj",
+    "eurostat:nuts_2021_id":"052",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI042",
+    "eurostat:nuts_2021_level_lau":"052",
+    "eurostat:population":57065,
+    "eurostat:population_year":2020,
     "geom:area":0.01761,
-    "geom:area_square_m":150561339.295924,
+    "geom:area_square_m":150561236.57324,
     "geom:bbox":"14.163827,46.157763,14.422465,46.350381",
     "geom:latitude":46.254942,
     "geom:longitude":14.334072,
@@ -199,8 +211,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -218,9 +230,13 @@
         1108959967
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_052",
+        "eurostat:nuts_2021_id":"052"
+    },
     "wof:country":"SI",
     "wof:created":1493417128,
-    "wof:geomhash":"08f4fef064a2cfdf4c0a510afd70a7ee",
+    "wof:geomhash":"1667d5e8bc9261aeaa0a2c98bdfb0fb4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -236,11 +252,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1642551775,
+    "wof:lastmodified":1684354785,
     "wof:name":"Kranj",
     "wof:parent_id":1108959967,
     "wof:placetype":"localadmin",
-    "wof:population":55527,
+    "wof:population":57065,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

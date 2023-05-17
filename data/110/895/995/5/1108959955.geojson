@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"SI",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Koro\u0161ka",
+    "eurostat:name_local":"Koro\u0161ka",
+    "eurostat:nuts_2021_id":"SI033",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI033",
+    "eurostat:population":70571,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"3",
     "geom:area":0.122064,
-    "geom:area_square_m":1038366960.235795,
+    "geom:area_square_m":1038366899.966741,
     "geom:bbox":"14.674669,46.386538,15.44802,46.65988",
     "geom:latitude":46.531343,
     "geom:longitude":15.088147,
@@ -49,8 +63,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "svn-sma:d_od":"2002-01-01",
     "svn-sma:dv_od":"2002-01-03",
     "svn-sma:enota":"SR",
@@ -66,9 +80,12 @@
         85633779
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eurostat:nuts_2021_id":"SI033"
+    },
     "wof:country":"SI",
     "wof:created":1493419742,
-    "wof:geomhash":"9bb7e8f1492820aef2800c05f2bd7ad7",
+    "wof:geomhash":"07eb4269910a512511494897785d1e82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,11 +100,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1627522777,
+    "wof:lastmodified":1684351675,
     "wof:name":"Koro\u0161ka",
     "wof:parent_id":85633779,
     "wof:placetype":"region",
-    "wof:population":70588,
+    "wof:population":70571,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:statistical_gore":1,

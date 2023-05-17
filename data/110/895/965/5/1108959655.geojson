@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Roga\u0161ovci",
+    "eurostat:nuts_2021_id":"105",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI031",
+    "eurostat:nuts_2021_level_lau":"105",
+    "eurostat:population":3024,
+    "eurostat:population_year":2020,
     "geom:area":0.004731,
-    "geom:area_square_m":40044868.830363,
+    "geom:area_square_m":40044864.928307,
     "geom:bbox":"15.985299,46.754007,16.064593,46.841098",
     "geom:latitude":46.79954,
     "geom:longitude":16.025964,
@@ -91,8 +103,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1998-11-22",
     "svn-sma:dv_od":"1998-11-27",
     "svn-sma:enota":"OB",
@@ -110,9 +122,13 @@
         1108959945
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_105",
+        "eurostat:nuts_2021_id":"105"
+    },
     "wof:country":"SI",
     "wof:created":1493417087,
-    "wof:geomhash":"b0f77fbb2438ccd5e9ad9330e38c065f",
+    "wof:geomhash":"cd3555082a6cf97d18f31e27dc5c710f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,11 +144,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862539,
+    "wof:lastmodified":1684354771,
     "wof:name":"Roga\u0161ovci",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",
-    "wof:population":3178,
+    "wof:population":3024,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

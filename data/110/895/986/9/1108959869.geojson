@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_212",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mirna",
+    "eurostat:nuts_2021_id":"212",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI037",
+    "eurostat:nuts_2021_level_lau":"212",
+    "eurostat:population":2649,
+    "eurostat:population_year":2020,
     "geom:area":0.003633,
-    "geom:area_square_m":31239452.087428,
+    "geom:area_square_m":31239368.872227,
     "geom:bbox":"14.996181,45.912968,15.117909,45.979508",
     "geom:latitude":45.945133,
     "geom:longitude":15.056894,
@@ -67,8 +79,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"2011-02-25",
     "svn-sma:dv_od":"2011-02-28",
     "svn-sma:enota":"OB",
@@ -86,9 +98,13 @@
         1108959943
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_212",
+        "eurostat:nuts_2021_id":"212"
+    },
     "wof:country":"SI",
     "wof:created":1493417118,
-    "wof:geomhash":"0b0e583155264305ae44c87d12ed08d4",
+    "wof:geomhash":"87c143cab97151dc53a38298f0b72d1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,11 +120,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862535,
+    "wof:lastmodified":1684354782,
     "wof:name":"Mirna",
     "wof:parent_id":1108959943,
     "wof:placetype":"localadmin",
-    "wof:population":2577,
+    "wof:population":2649,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

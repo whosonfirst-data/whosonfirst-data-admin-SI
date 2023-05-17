@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_046",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kobarid",
+    "eurostat:nuts_2021_id":"046",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI043",
+    "eurostat:nuts_2021_level_lau":"046",
+    "eurostat:population":4052,
+    "eurostat:population_year":2020,
     "geom:area":0.022482,
-    "geom:area_square_m":192230575.413995,
+    "geom:area_square_m":192230625.607913,
     "geom:bbox":"13.375334,46.184166,13.735033,46.302018",
     "geom:latitude":46.251452,
     "geom:longitude":13.555311,
@@ -130,8 +142,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -149,9 +161,13 @@
         1108959947
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_046",
+        "eurostat:nuts_2021_id":"046"
+    },
     "wof:country":"SI",
     "wof:created":1493417063,
-    "wof:geomhash":"e584fb65c68d6619f9c089a76211367b",
+    "wof:geomhash":"5a0008dabaae9c0c0cba58b73a25a592",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,11 +183,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502648,
+    "wof:lastmodified":1684354763,
     "wof:name":"Kobarid",
     "wof:parent_id":1108959947,
     "wof:placetype":"localadmin",
-    "wof:population":4189,
+    "wof:population":4052,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

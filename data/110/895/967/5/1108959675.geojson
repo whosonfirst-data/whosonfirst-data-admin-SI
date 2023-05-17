@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_157",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dolenjske Toplice",
+    "eurostat:nuts_2021_id":"157",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI037",
+    "eurostat:nuts_2021_level_lau":"157",
+    "eurostat:population":3553,
+    "eurostat:population_year":2020,
     "geom:area":0.01274,
-    "geom:area_square_m":109977087.640305,
+    "geom:area_square_m":109977120.848038,
     "geom:bbox":"14.960743,45.635574,15.120867,45.794163",
     "geom:latitude":45.724287,
     "geom:longitude":15.033134,
@@ -67,8 +79,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1998-11-22",
     "svn-sma:dv_od":"1998-11-27",
     "svn-sma:enota":"OB",
@@ -86,9 +98,13 @@
         1108959943
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_157",
+        "eurostat:nuts_2021_id":"157"
+    },
     "wof:country":"SI",
     "wof:created":1493417090,
-    "wof:geomhash":"d7f6365c0790a2c2619791df5b8293fe",
+    "wof:geomhash":"4ef8425bb21109e0ae4c7e9ddfe74fc8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,11 +120,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502659,
+    "wof:lastmodified":1684354772,
     "wof:name":"Dolenjske Toplice",
     "wof:parent_id":1108959943,
     "wof:placetype":"localadmin",
-    "wof:population":3398,
+    "wof:population":3553,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

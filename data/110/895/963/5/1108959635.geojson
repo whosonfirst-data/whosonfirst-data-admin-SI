@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_173",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Polzela",
+    "eurostat:nuts_2021_id":"173",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI034",
+    "eurostat:nuts_2021_level_lau":"173",
+    "eurostat:population":6258,
+    "eurostat:population_year":2020,
     "geom:area":0.003972,
-    "geom:area_square_m":33927841.738178,
+    "geom:area_square_m":33927908.042672,
     "geom:bbox":"15.048195,46.256085,15.120729,46.34965",
     "geom:latitude":46.303573,
     "geom:longitude":15.084885,
@@ -103,8 +115,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1998-11-22",
     "svn-sma:dv_od":"1998-11-27",
     "svn-sma:enota":"OB",
@@ -122,9 +134,13 @@
         1108959959
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_173",
+        "eurostat:nuts_2021_id":"173"
+    },
     "wof:country":"SI",
     "wof:created":1493417085,
-    "wof:geomhash":"5d581d054179542638d0d86a9e191d67",
+    "wof:geomhash":"5df1df2e1b3d51af237e1acfb665262d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,11 +156,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502645,
+    "wof:lastmodified":1684354770,
     "wof:name":"Polzela",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",
-    "wof:population":5995,
+    "wof:population":6258,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

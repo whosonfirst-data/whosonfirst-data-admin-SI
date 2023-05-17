@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_186",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trzin",
+    "eurostat:nuts_2021_id":"186",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI041",
+    "eurostat:nuts_2021_level_lau":"186",
+    "eurostat:population":3940,
+    "eurostat:population_year":2020,
     "geom:area":0.001003,
-    "geom:area_square_m":8596556.891839,
+    "geom:area_square_m":8596578.527278,
     "geom:bbox":"14.520215,46.109507,14.582999,46.145687",
     "geom:latitude":46.127784,
     "geom:longitude":14.552362,
@@ -88,8 +100,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1998-11-22",
     "svn-sma:dv_od":"1998-11-27",
     "svn-sma:enota":"OB",
@@ -107,9 +119,13 @@
         1108959949
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_186",
+        "eurostat:nuts_2021_id":"186"
+    },
     "wof:country":"SI",
     "wof:created":1493417092,
-    "wof:geomhash":"4a3bd9826191b33335c09d9c7403a262",
+    "wof:geomhash":"5281c3b8110228650984c33cf3ea19c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,12 +141,12 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502656,
+    "wof:lastmodified":1684354773,
     "wof:name":"Trzin",
     "wof:parent_id":1108959949,
     "wof:placetype":"localadmin",
-    "wof:population":15106,
-    "wof:population_rank":6,
+    "wof:population":3940,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],
     "wof:supersedes":[

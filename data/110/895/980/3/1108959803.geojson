@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Roga\u0161ka Slatina",
+    "eurostat:nuts_2021_id":"106",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI034",
+    "eurostat:nuts_2021_level_lau":"106",
+    "eurostat:population":11132,
+    "eurostat:population_year":2020,
     "geom:area":0.008347,
-    "geom:area_square_m":71379164.873946,
+    "geom:area_square_m":71379134.478121,
     "geom:bbox":"15.557455,46.185657,15.731906,46.289841",
     "geom:latitude":46.247815,
     "geom:longitude":15.628403,
@@ -85,8 +97,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -104,9 +116,13 @@
         1108959959
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_106",
+        "eurostat:nuts_2021_id":"106"
+    },
     "wof:country":"SI",
     "wof:created":1493417108,
-    "wof:geomhash":"73c3026412ad30d5d2a5e10eaa9306b8",
+    "wof:geomhash":"f8b4931e7b6ced38e127ca6fb8ae36a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,11 +138,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862539,
+    "wof:lastmodified":1684354778,
     "wof:name":"Roga\u0161ka Slatina",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",
-    "wof:population":11070,
+    "wof:population":11132,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

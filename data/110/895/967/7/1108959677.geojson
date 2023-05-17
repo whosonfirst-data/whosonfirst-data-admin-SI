@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_141",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vuzenica",
+    "eurostat:nuts_2021_id":"141",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI033",
+    "eurostat:nuts_2021_level_lau":"141",
+    "eurostat:population":2649,
+    "eurostat:population_year":2020,
     "geom:area":0.00588,
-    "geom:area_square_m":49986449.930559,
+    "geom:area_square_m":49986502.001755,
     "geom:bbox":"15.10007,46.513429,15.217866,46.616115",
     "geom:latitude":46.568509,
     "geom:longitude":15.159829,
@@ -100,8 +112,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -119,9 +131,13 @@
         1108959955
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_141",
+        "eurostat:nuts_2021_id":"141"
+    },
     "wof:country":"SI",
     "wof:created":1493417091,
-    "wof:geomhash":"9c300dc2b330427c0093920dcd7ce345",
+    "wof:geomhash":"9b81ef375b4aedc1c0fa37759da88861",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,11 +153,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502659,
+    "wof:lastmodified":1684354772,
     "wof:name":"Vuzenica",
     "wof:parent_id":1108959955,
     "wof:placetype":"localadmin",
-    "wof:population":2726,
+    "wof:population":2649,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

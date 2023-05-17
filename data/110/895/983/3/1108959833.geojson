@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_206",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0160marje\u0161ke Toplice",
+    "eurostat:nuts_2021_id":"206",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI037",
+    "eurostat:nuts_2021_level_lau":"206",
+    "eurostat:population":3462,
+    "eurostat:population_year":2020,
     "geom:area":0.003968,
-    "geom:area_square_m":34151415.77352,
+    "geom:area_square_m":34151443.169668,
     "geom:bbox":"15.199251,45.848597,15.299852,45.926246",
     "geom:latitude":45.884098,
     "geom:longitude":15.243454,
@@ -76,8 +88,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"2006-04-06",
     "svn-sma:dv_od":"2006-04-12",
     "svn-sma:enota":"OB",
@@ -95,9 +107,13 @@
         1108959943
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_206",
+        "eurostat:nuts_2021_id":"206"
+    },
     "wof:country":"SI",
     "wof:created":1493417113,
-    "wof:geomhash":"d851fd53aa813f3437b18c7abd3c613e",
+    "wof:geomhash":"6fcc04658e27467422976c261ea24e1f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,11 +129,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862542,
+    "wof:lastmodified":1684354780,
     "wof:name":"\u0160marje\u0161ke Toplice",
     "wof:parent_id":1108959943,
     "wof:placetype":"localadmin",
-    "wof:population":3224,
+    "wof:population":3462,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

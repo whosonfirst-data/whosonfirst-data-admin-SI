@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Izola/Isola",
+    "eurostat:nuts_2021_id":"040",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI044",
+    "eurostat:nuts_2021_level_lau":"040",
+    "eurostat:population":16486,
+    "eurostat:population_year":2020,
     "geom:area":0.003288,
-    "geom:area_square_m":28493924.165774,
+    "geom:area_square_m":28493959.056319,
     "geom:bbox":"13.614874,45.472667,13.694099,45.548138",
     "geom:latitude":45.513326,
     "geom:longitude":13.658478,
@@ -148,8 +160,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"2015-02-25",
     "svn-sma:dv_od":"2015-02-25",
     "svn-sma:enota":"OB",
@@ -167,9 +179,13 @@
         1108959951
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_040",
+        "eurostat:nuts_2021_id":"040"
+    },
     "wof:country":"SI",
     "wof:created":1493417067,
-    "wof:geomhash":"60423f72c09d185f9cf6eec4b4226a20",
+    "wof:geomhash":"d2bd0492d23ac8e936f922f70f83124b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,11 +201,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862531,
+    "wof:lastmodified":1684354764,
     "wof:name":"Izola",
     "wof:parent_id":1108959951,
     "wof:placetype":"localadmin",
-    "wof:population":15952,
+    "wof:population":16486,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

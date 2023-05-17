@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_152",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cankova",
+    "eurostat:nuts_2021_id":"152",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI031",
+    "eurostat:nuts_2021_level_lau":"152",
+    "eurostat:population":1734,
+    "eurostat:population_year":2020,
     "geom:area":0.0036,
-    "geom:area_square_m":30505946.707037,
+    "geom:area_square_m":30505949.485157,
     "geom:bbox":"15.984659,46.690872,16.063301,46.774976",
     "geom:latitude":46.735608,
     "geom:longitude":16.024966,
@@ -100,8 +112,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1998-11-22",
     "svn-sma:dv_od":"1998-11-27",
     "svn-sma:enota":"OB",
@@ -119,9 +131,13 @@
         1108959945
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_152",
+        "eurostat:nuts_2021_id":"152"
+    },
     "wof:country":"SI",
     "wof:created":1493417094,
-    "wof:geomhash":"726ca8f496e22a9ba74b2861ec6bc80d",
+    "wof:geomhash":"686b7f4c70c72c31e41b4884fed39b32",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,11 +153,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502651,
+    "wof:lastmodified":1684354774,
     "wof:name":"Cankova",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",
-    "wof:population":1889,
+    "wof:population":1734,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

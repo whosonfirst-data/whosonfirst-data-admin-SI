@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ti\u0161ina",
+    "eurostat:nuts_2021_id":"010",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI031",
+    "eurostat:nuts_2021_level_lau":"010",
+    "eurostat:population":3970,
+    "eurostat:population_year":2020,
     "geom:area":0.004562,
-    "geom:area_square_m":38716866.001672,
+    "geom:area_square_m":38716857.035662,
     "geom:bbox":"16.035656,46.615139,16.127958,46.700932",
     "geom:latitude":46.661015,
     "geom:longitude":16.078417,
@@ -85,8 +97,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1998-11-22",
     "svn-sma:dv_od":"1998-11-27",
     "svn-sma:enota":"OB",
@@ -104,9 +116,13 @@
         1108959945
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_010",
+        "eurostat:nuts_2021_id":"010"
+    },
     "wof:country":"SI",
     "wof:created":1493417063,
-    "wof:geomhash":"0417ce025bbb69b1cc846e6eb1b95ac9",
+    "wof:geomhash":"8eb3db69bbd4633241c45def85f5f6d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,11 +138,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862543,
+    "wof:lastmodified":1684354763,
     "wof:name":"Ti\u0161ina",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",
-    "wof:population":4124,
+    "wof:population":3970,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

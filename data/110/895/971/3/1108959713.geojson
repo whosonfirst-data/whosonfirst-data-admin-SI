@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_174",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Prebold",
+    "eurostat:nuts_2021_id":"174",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI034",
+    "eurostat:nuts_2021_level_lau":"174",
+    "eurostat:population":5103,
+    "eurostat:population_year":2020,
     "geom:area":0.00474,
-    "geom:area_square_m":40553459.39401,
+    "geom:area_square_m":40553411.804829,
     "geom:bbox":"15.043786,46.18335,15.142136,46.258619",
     "geom:latitude":46.217686,
     "geom:longitude":15.089605,
@@ -70,8 +82,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1998-11-22",
     "svn-sma:dv_od":"1998-11-27",
     "svn-sma:enota":"OB",
@@ -89,9 +101,13 @@
         1108959959
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_174",
+        "eurostat:nuts_2021_id":"174"
+    },
     "wof:country":"SI",
     "wof:created":1493417095,
-    "wof:geomhash":"f570eb52f559379623485b87c29b9808",
+    "wof:geomhash":"5d20d79b097a94d812b9d7f568af605b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,11 +123,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502652,
+    "wof:lastmodified":1684354774,
     "wof:name":"Prebold",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",
-    "wof:population":5052,
+    "wof:population":5103,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

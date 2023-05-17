@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_066",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lo\u0161ki Potok",
+    "eurostat:nuts_2021_id":"066",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI037",
+    "eurostat:nuts_2021_level_lau":"066",
+    "eurostat:population":1789,
+    "eurostat:population_year":2020,
     "geom:area":0.01553,
-    "geom:area_square_m":134208874.416239,
+    "geom:area_square_m":134208959.45004,
     "geom:bbox":"14.537497,45.581325,14.735053,45.743654",
     "geom:latitude":45.663667,
     "geom:longitude":14.640813,
@@ -31,8 +43,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -50,9 +62,13 @@
         1108959943
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_066",
+        "eurostat:nuts_2021_id":"066"
+    },
     "wof:country":"SI",
     "wof:created":1493417062,
-    "wof:geomhash":"733a188525a5296827e292ec4253c19d",
+    "wof:geomhash":"ae6649bb9067b8d275b5f44e2b2d7b1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,11 +84,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862534,
+    "wof:lastmodified":1684354762,
     "wof:name":"Lo\u0161ki Potok",
     "wof:parent_id":1108959943,
     "wof:placetype":"localadmin",
-    "wof:population":1932,
+    "wof:population":1789,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

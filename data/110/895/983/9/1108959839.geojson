@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_130",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trebnje",
+    "eurostat:nuts_2021_id":"130",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI037",
+    "eurostat:nuts_2021_level_lau":"130",
+    "eurostat:population":13133,
+    "eurostat:population_year":2020,
     "geom:area":0.018941,
-    "geom:area_square_m":162967466.715356,
+    "geom:area_square_m":162967614.894899,
     "geom:bbox":"14.860419,45.837968,15.107829,45.978573",
     "geom:latitude":45.905971,
     "geom:longitude":14.973785,
@@ -94,8 +106,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -113,9 +125,13 @@
         1108959943
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_130",
+        "eurostat:nuts_2021_id":"130"
+    },
     "wof:country":"SI",
     "wof:created":1493417114,
-    "wof:geomhash":"4ce9ef91b687ad61c45aa1286c29dd8f",
+    "wof:geomhash":"4d1f08ab0d64d4a679481f7359699727",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,11 +147,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502649,
+    "wof:lastmodified":1684354780,
     "wof:name":"Trebnje",
     "wof:parent_id":1108959943,
     "wof:placetype":"localadmin",
-    "wof:population":12075,
+    "wof:population":13133,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

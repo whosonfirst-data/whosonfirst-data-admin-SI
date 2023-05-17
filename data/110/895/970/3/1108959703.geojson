@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_153",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cerkvenjak",
+    "eurostat:nuts_2021_id":"153",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI032",
+    "eurostat:nuts_2021_level_lau":"153",
+    "eurostat:population":2083,
+    "eurostat:population_year":2020,
     "geom:area":0.002878,
-    "geom:area_square_m":24468858.331883,
+    "geom:area_square_m":24468893.769079,
     "geom:bbox":"15.902503,46.53063,15.981113,46.588833",
     "geom:latitude":46.560934,
     "geom:longitude":15.942477,
@@ -88,8 +100,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1998-11-22",
     "svn-sma:dv_od":"1998-11-27",
     "svn-sma:enota":"OB",
@@ -107,9 +119,13 @@
         1108959961
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_153",
+        "eurostat:nuts_2021_id":"153"
+    },
     "wof:country":"SI",
     "wof:created":1493417094,
-    "wof:geomhash":"b9fe821b506b2824a771ab864dd1c509",
+    "wof:geomhash":"5f468159cecf5589d292e07bc49bc7c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,11 +141,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502651,
+    "wof:lastmodified":1684354773,
     "wof:name":"Cerkvenjak",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",
-    "wof:population":2009,
+    "wof:population":2083,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

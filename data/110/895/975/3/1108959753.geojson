@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_114",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Slovenske Konjice",
+    "eurostat:nuts_2021_id":"114",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI034",
+    "eurostat:nuts_2021_level_lau":"114",
+    "eurostat:population":15042,
+    "eurostat:population_year":2020,
     "geom:area":0.011433,
-    "geom:area_square_m":97631287.70559,
+    "geom:area_square_m":97631259.315621,
     "geom:bbox":"15.35605,46.278062,15.553678,46.371425",
     "geom:latitude":46.322651,
     "geom:longitude":15.461156,
@@ -118,8 +130,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -137,9 +149,13 @@
         1108959959
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_114",
+        "eurostat:nuts_2021_id":"114"
+    },
     "wof:country":"SI",
     "wof:created":1493417100,
-    "wof:geomhash":"5585ec5785a6803ed5a41deaa56b7bea",
+    "wof:geomhash":"71f7fe8f6e1afd5f1fb438dafebc0d0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,11 +171,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502665,
+    "wof:lastmodified":1684354775,
     "wof:name":"Slovenske Konjice",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",
-    "wof:population":14438,
+    "wof:population":15042,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Radlje ob Dravi",
+    "eurostat:nuts_2021_id":"101",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI033",
+    "eurostat:nuts_2021_level_lau":"101",
+    "eurostat:population":6169,
+    "eurostat:population_year":2020,
     "geom:area":0.011031,
-    "geom:area_square_m":93712139.534814,
+    "geom:area_square_m":93712172.625323,
     "geom:bbox":"15.160099,46.522786,15.335431,46.657721",
     "geom:latitude":46.603663,
     "geom:longitude":15.243559,
@@ -64,8 +76,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -83,9 +95,13 @@
         1108959955
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_101",
+        "eurostat:nuts_2021_id":"101"
+    },
     "wof:country":"SI",
     "wof:created":1493417068,
-    "wof:geomhash":"c0a66c2f2848ddb6e1c70e9b2bc6e116",
+    "wof:geomhash":"5a1e94534ea1d783673404f70ade70d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,11 +117,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502648,
+    "wof:lastmodified":1684354765,
     "wof:name":"Radlje ob Dravi",
     "wof:parent_id":1108959955,
     "wof:placetype":"localadmin",
-    "wof:population":6311,
+    "wof:population":6169,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

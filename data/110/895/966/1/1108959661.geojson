@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_178",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Selnica ob Dravi",
+    "eurostat:nuts_2021_id":"178",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI032",
+    "eurostat:nuts_2021_level_lau":"178",
+    "eurostat:population":4493,
+    "eurostat:population_year":2020,
     "geom:area":0.007568,
-    "geom:area_square_m":64313149.776799,
+    "geom:area_square_m":64313152.073348,
     "geom:bbox":"15.40196,46.532733,15.553058,46.65546",
     "geom:latitude":46.586322,
     "geom:longitude":15.48322,
@@ -97,8 +109,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1998-11-22",
     "svn-sma:dv_od":"1998-11-27",
     "svn-sma:enota":"OB",
@@ -116,9 +128,13 @@
         1108959961
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_178",
+        "eurostat:nuts_2021_id":"178"
+    },
     "wof:country":"SI",
     "wof:created":1493417088,
-    "wof:geomhash":"a728521d9ab1da6656dae53d2ea41fd1",
+    "wof:geomhash":"1059282c899a4f9fecf2f9aaa9e31121",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,11 +150,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502657,
+    "wof:lastmodified":1684354771,
     "wof:name":"Selnica ob Dravi",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",
-    "wof:population":4532,
+    "wof:population":4493,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

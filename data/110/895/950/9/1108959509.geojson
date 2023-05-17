@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_072",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Menge\u0161",
+    "eurostat:nuts_2021_id":"072",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI041",
+    "eurostat:nuts_2021_level_lau":"072",
+    "eurostat:population":8279,
+    "eurostat:population_year":2020,
     "geom:area":0.002616,
-    "geom:area_square_m":22406565.715883,
+    "geom:area_square_m":22406596.534245,
     "geom:bbox":"14.513092,46.130884,14.592792,46.195732",
     "geom:latitude":46.159544,
     "geom:longitude":14.557578,
@@ -70,8 +82,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -89,9 +101,13 @@
         1108959949
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_072",
+        "eurostat:nuts_2021_id":"072"
+    },
     "wof:country":"SI",
     "wof:created":1493417062,
-    "wof:geomhash":"984cd78bbec6ab2c623089dd09dd6fa6",
+    "wof:geomhash":"020f38ed6472fd0910d876fb5055858a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,11 +123,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862535,
+    "wof:lastmodified":1684354762,
     "wof:name":"Menge\u0161",
     "wof:parent_id":1108959949,
     "wof:placetype":"localadmin",
-    "wof:population":7477,
+    "wof:population":8279,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

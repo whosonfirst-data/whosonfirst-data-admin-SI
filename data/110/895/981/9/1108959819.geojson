@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bohinj",
+    "eurostat:nuts_2021_id":"004",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI042",
+    "eurostat:nuts_2021_level_lau":"004",
+    "eurostat:population":5145,
+    "eurostat:population_year":2020,
     "geom:area":0.038965,
-    "geom:area_square_m":332908169.842262,
+    "geom:area_square_m":332908180.006872,
     "geom:bbox":"13.724367,46.225684,14.181554,46.378289",
     "geom:latitude":46.294045,
     "geom:longitude":13.915877,
@@ -64,8 +76,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -83,9 +95,13 @@
         1108959967
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_004",
+        "eurostat:nuts_2021_id":"004"
+    },
     "wof:country":"SI",
     "wof:created":1493417110,
-    "wof:geomhash":"fbc8cd65c6dd1a4ea06417062604f793",
+    "wof:geomhash":"15f40e30fafcc65dd5550b425e85bcd3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,11 +117,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502664,
+    "wof:lastmodified":1684354779,
     "wof:name":"Bohinj",
     "wof:parent_id":1108959967,
     "wof:placetype":"localadmin",
-    "wof:population":5206,
+    "wof:population":5145,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u010crna na Koro\u0161kem",
+    "eurostat:nuts_2021_id":"016",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI033",
+    "eurostat:nuts_2021_level_lau":"016",
+    "eurostat:population":3285,
+    "eurostat:population_year":2020,
     "geom:area":0.018268,
-    "geom:area_square_m":155599210.899016,
+    "geom:area_square_m":155599102.090496,
     "geom:bbox":"14.674669,46.417327,14.96607,46.512006",
     "geom:latitude":46.463324,
     "geom:longitude":14.828729,
@@ -64,8 +76,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -83,9 +95,13 @@
         1108959955
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_016",
+        "eurostat:nuts_2021_id":"016"
+    },
     "wof:country":"SI",
     "wof:created":1493417075,
-    "wof:geomhash":"9dfbded5d88a17bcc8dea7281f973865",
+    "wof:geomhash":"2beeefe7d38d9c8fd6eb0764fc773513",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,11 +117,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862527,
+    "wof:lastmodified":1684354767,
     "wof:name":"\u010crna na Koro\u0161kem",
     "wof:parent_id":1108959955,
     "wof:placetype":"localadmin",
-    "wof:population":3473,
+    "wof:population":3285,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

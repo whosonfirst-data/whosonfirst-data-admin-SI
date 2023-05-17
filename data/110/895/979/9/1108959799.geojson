@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dom\u017eale",
+    "eurostat:nuts_2021_id":"023",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI041",
+    "eurostat:nuts_2021_level_lau":"023",
+    "eurostat:population":36675,
+    "eurostat:population_year":2020,
     "geom:area":0.00842,
-    "geom:area_square_m":72134161.277974,
+    "geom:area_square_m":72134146.127886,
     "geom:bbox":"14.566645,46.0935,14.692216,46.207406",
     "geom:latitude":46.145059,
     "geom:longitude":14.626977,
@@ -133,8 +145,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -152,9 +164,13 @@
         1108959949
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_023",
+        "eurostat:nuts_2021_id":"023"
+    },
     "wof:country":"SI",
     "wof:created":1493417106,
-    "wof:geomhash":"6e4f0b486efb24dc10bd810497292653",
+    "wof:geomhash":"164e72c6d4646e70425c4569c8623767",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,11 +186,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862528,
+    "wof:lastmodified":1684354778,
     "wof:name":"Dom\u017eale",
     "wof:parent_id":1108959949,
     "wof:placetype":"localadmin",
-    "wof:population":34455,
+    "wof:population":36675,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

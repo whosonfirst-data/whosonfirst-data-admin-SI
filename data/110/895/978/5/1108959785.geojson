@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_070",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Maribor",
+    "eurostat:nuts_2021_id":"070",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI032",
+    "eurostat:nuts_2021_level_lau":"070",
+    "eurostat:population":112682,
+    "eurostat:population_year":2020,
     "geom:area":0.017304,
-    "geom:area_square_m":147113217.782827,
+    "geom:area_square_m":147113147.069,
     "geom:bbox":"15.516936,46.499373,15.772208,46.634256",
     "geom:latitude":46.563417,
     "geom:longitude":15.627182,
@@ -250,8 +262,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -269,9 +281,13 @@
         1108959961
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_070",
+        "eurostat:nuts_2021_id":"070"
+    },
     "wof:country":"SI",
     "wof:created":1493417103,
-    "wof:geomhash":"66d33be3f685870854c22774f92eed5f",
+    "wof:geomhash":"47f0c695457febfcb6853ae5a80d062f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -287,11 +303,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862524,
+    "wof:lastmodified":1684354777,
     "wof:name":"Maribor",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",
-    "wof:population":111374,
+    "wof:population":112682,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

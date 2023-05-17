@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_042",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jur\u0161inci",
+    "eurostat:nuts_2021_id":"042",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI032",
+    "eurostat:nuts_2021_level_lau":"042",
+    "eurostat:population":2380,
+    "eurostat:population_year":2020,
     "geom:area":0.004248,
-    "geom:area_square_m":36167826.17246,
+    "geom:area_square_m":36167848.598292,
     "geom:bbox":"15.934632,46.440466,16.015584,46.525473",
     "geom:latitude":46.485564,
     "geom:longitude":15.972916,
@@ -91,8 +103,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -110,9 +122,13 @@
         1108959961
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_042",
+        "eurostat:nuts_2021_id":"042"
+    },
     "wof:country":"SI",
     "wof:created":1493417103,
-    "wof:geomhash":"63d8f5dbe8be4e108e0d99b1e97ebd40",
+    "wof:geomhash":"7da6714d2c4510000f19c8c34b3e8bae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,11 +144,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862531,
+    "wof:lastmodified":1684354777,
     "wof:name":"Jur\u0161inci",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",
-    "wof:population":2388,
+    "wof:population":2380,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

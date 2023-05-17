@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_184",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tabor",
+    "eurostat:nuts_2021_id":"184",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI034",
+    "eurostat:nuts_2021_level_lau":"184",
+    "eurostat:population":1669,
+    "eurostat:population_year":2020,
     "geom:area":0.00406,
-    "geom:area_square_m":34733771.65274,
+    "geom:area_square_m":34733770.248042,
     "geom:bbox":"14.963432,46.18907,15.052946,46.259626",
     "geom:latitude":46.220509,
     "geom:longitude":15.009171,
@@ -124,8 +136,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1998-11-22",
     "svn-sma:dv_od":"1998-11-27",
     "svn-sma:enota":"OB",
@@ -143,9 +155,13 @@
         1108959959
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_184",
+        "eurostat:nuts_2021_id":"184"
+    },
     "wof:country":"SI",
     "wof:created":1493417095,
-    "wof:geomhash":"c1d7f68042d4a3bd4c30b896e0568925",
+    "wof:geomhash":"e2d2708c47ce419d69bd3dfdbf4d2218",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,11 +177,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502652,
+    "wof:lastmodified":1684354774,
     "wof:name":"Tabor",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",
-    "wof:population":1603,
+    "wof:population":1669,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

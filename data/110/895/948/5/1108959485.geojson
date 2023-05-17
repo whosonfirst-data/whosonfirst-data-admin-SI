@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_079",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mozirje",
+    "eurostat:nuts_2021_id":"079",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI034",
+    "eurostat:nuts_2021_level_lau":"079",
+    "eurostat:population":4150,
+    "eurostat:population_year":2020,
     "geom:area":0.006259,
-    "geom:area_square_m":53412061.321766,
+    "geom:area_square_m":53411997.608902,
     "geom:bbox":"14.888301,46.299102,15.008429,46.403437",
     "geom:latitude":46.360533,
     "geom:longitude":14.955287,
@@ -100,8 +112,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -119,9 +131,13 @@
         1108959959
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_079",
+        "eurostat:nuts_2021_id":"079"
+    },
     "wof:country":"SI",
     "wof:created":1493417057,
-    "wof:geomhash":"ca17c4f08b0891cd91419574782eba2a",
+    "wof:geomhash":"aed890bd230dd343c15c17408431b752",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,11 +153,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502649,
+    "wof:lastmodified":1684354761,
     "wof:name":"Mozirje",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",
-    "wof:population":4098,
+    "wof:population":4150,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

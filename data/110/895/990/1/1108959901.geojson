@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_083",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nazarje",
+    "eurostat:nuts_2021_id":"083",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI034",
+    "eurostat:nuts_2021_level_lau":"083",
+    "eurostat:population":2639,
+    "eurostat:population_year":2020,
     "geom:area":0.005067,
-    "geom:area_square_m":43303638.004401,
+    "geom:area_square_m":43303601.985459,
     "geom:bbox":"14.853035,46.237564,14.972588,46.334947",
     "geom:latitude":46.282761,
     "geom:longitude":14.913038,
@@ -67,8 +79,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -86,9 +98,13 @@
         1108959959
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_083",
+        "eurostat:nuts_2021_id":"083"
+    },
     "wof:country":"SI",
     "wof:created":1493417123,
-    "wof:geomhash":"238f7e4bb1856d549eb0392bd53f48c6",
+    "wof:geomhash":"b244fef2dc0e103651d18c1cb5c39e6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,11 +120,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502646,
+    "wof:lastmodified":1684354783,
     "wof:name":"Nazarje",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",
-    "wof:population":2624,
+    "wof:population":2639,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

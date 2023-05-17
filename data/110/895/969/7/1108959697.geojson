@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_187",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Velika Polana",
+    "eurostat:nuts_2021_id":"187",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI031",
+    "eurostat:nuts_2021_level_lau":"187",
+    "eurostat:population":1392,
+    "eurostat:population_year":2020,
     "geom:area":0.002191,
-    "geom:area_square_m":18619337.936875,
+    "geom:area_square_m":18619330.292088,
     "geom:bbox":"16.321435,46.553379,16.401377,46.602988",
     "geom:latitude":46.578764,
     "geom:longitude":16.353511,
@@ -94,8 +106,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1998-11-22",
     "svn-sma:dv_od":"1998-11-27",
     "svn-sma:enota":"OB",
@@ -113,9 +125,13 @@
         1108959945
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_187",
+        "eurostat:nuts_2021_id":"187"
+    },
     "wof:country":"SI",
     "wof:created":1493417093,
-    "wof:geomhash":"d9285d45e91f56a7c82ace89f717ad76",
+    "wof:geomhash":"88bb22ecf80c5d178805b95c9e758b28",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,11 +147,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502661,
+    "wof:lastmodified":1684354773,
     "wof:name":"Velika Polana",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",
-    "wof:population":1469,
+    "wof:population":1392,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hrastnik",
+    "eurostat:nuts_2021_id":"034",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI035",
+    "eurostat:nuts_2021_level_lau":"034",
+    "eurostat:population":9113,
+    "eurostat:population_year":2020,
     "geom:area":0.00682,
-    "geom:area_square_m":58443995.061549,
+    "geom:area_square_m":58444006.893155,
     "geom:bbox":"15.057744,46.086034,15.188897,46.183913",
     "geom:latitude":46.131252,
     "geom:longitude":15.11867,
@@ -109,8 +121,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -128,9 +140,13 @@
         1108959963
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_034",
+        "eurostat:nuts_2021_id":"034"
+    },
     "wof:country":"SI",
     "wof:created":1493417069,
-    "wof:geomhash":"4742bf83206c4f178fbdf83a61ea01a9",
+    "wof:geomhash":"3867e04d53e829a2ffba2606df079cbd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,11 +162,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502656,
+    "wof:lastmodified":1684354767,
     "wof:name":"Hrastnik",
     "wof:parent_id":1108959963,
     "wof:placetype":"localadmin",
-    "wof:population":9713,
+    "wof:population":9113,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

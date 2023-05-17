@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_181",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sveta Ana",
+    "eurostat:nuts_2021_id":"181",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI032",
+    "eurostat:nuts_2021_level_lau":"181",
+    "eurostat:population":2294,
+    "eurostat:population_year":2020,
     "geom:area":0.004367,
-    "geom:area_square_m":37064036.661541,
+    "geom:area_square_m":37064073.045841,
     "geom:bbox":"15.787697,46.60692,15.892341,46.701165",
     "geom:latitude":46.652382,
     "geom:longitude":15.836068,
@@ -67,8 +79,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1998-11-22",
     "svn-sma:dv_od":"1998-11-27",
     "svn-sma:enota":"OB",
@@ -86,9 +98,13 @@
         1108959961
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_181",
+        "eurostat:nuts_2021_id":"181"
+    },
     "wof:country":"SI",
     "wof:created":1493417095,
-    "wof:geomhash":"afed821438fce035250c578b6adcfd92",
+    "wof:geomhash":"1c17497a117f5c3de261fb234eade994",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,11 +120,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502650,
+    "wof:lastmodified":1684354774,
     "wof:name":"Sveta Ana",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",
-    "wof:population":2342,
+    "wof:population":2294,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

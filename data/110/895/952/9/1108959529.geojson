@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Duplek",
+    "eurostat:nuts_2021_id":"026",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI032",
+    "eurostat:nuts_2021_level_lau":"026",
+    "eurostat:population":6996,
+    "eurostat:population_year":2020,
     "geom:area":0.004687,
-    "geom:area_square_m":39886960.944104,
+    "geom:area_square_m":39887008.839696,
     "geom:bbox":"15.712369,46.468492,15.817723,46.550041",
     "geom:latitude":46.511547,
     "geom:longitude":15.766391,
@@ -34,8 +46,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -53,9 +65,13 @@
         1108959961
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_026",
+        "eurostat:nuts_2021_id":"026"
+    },
     "wof:country":"SI",
     "wof:created":1493417064,
-    "wof:geomhash":"61ed571be43bbd43a202da7280e7278d",
+    "wof:geomhash":"30d694e4cc04eabe28cd24e413520e2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,11 +87,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502647,
+    "wof:lastmodified":1684354763,
     "wof:name":"Duplek",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",
-    "wof:population":6746,
+    "wof:population":6996,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

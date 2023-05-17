@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_093",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Podvelka",
+    "eurostat:nuts_2021_id":"093",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI033",
+    "eurostat:nuts_2021_level_lau":"093",
+    "eurostat:population":2339,
+    "eurostat:population_year":2020,
     "geom:area":0.012197,
-    "geom:area_square_m":103638472.034155,
+    "geom:area_square_m":103638440.177517,
     "geom:bbox":"15.27094,46.51118,15.44802,46.654967",
     "geom:latitude":46.594921,
     "geom:longitude":15.35919,
@@ -97,8 +109,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1998-11-22",
     "svn-sma:dv_od":"1998-11-27",
     "svn-sma:enota":"OB",
@@ -116,9 +128,13 @@
         1108959955
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_093",
+        "eurostat:nuts_2021_id":"093"
+    },
     "wof:country":"SI",
     "wof:created":1493417068,
-    "wof:geomhash":"cdddaa68803029edd704b5f8e33d464a",
+    "wof:geomhash":"2f0ef5fd618f76118517a72e62d0784f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,11 +150,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502649,
+    "wof:lastmodified":1684354765,
     "wof:name":"Podvelka",
     "wof:parent_id":1108959955,
     "wof:placetype":"localadmin",
-    "wof:population":2500,
+    "wof:population":2339,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

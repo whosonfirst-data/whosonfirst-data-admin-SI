@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gori\u0161nica",
+    "eurostat:nuts_2021_id":"028",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI032",
+    "eurostat:nuts_2021_level_lau":"028",
+    "eurostat:population":4112,
+    "eurostat:population_year":2020,
     "geom:area":0.003405,
-    "geom:area_square_m":29029275.048489,
+    "geom:area_square_m":29029208.831414,
     "geom:bbox":"15.971521,46.369725,16.058623,46.439362",
     "geom:latitude":46.405999,
     "geom:longitude":16.01061,
@@ -58,8 +70,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -77,9 +89,13 @@
         1108959961
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_028",
+        "eurostat:nuts_2021_id":"028"
+    },
     "wof:country":"SI",
     "wof:created":1493417096,
-    "wof:geomhash":"fedf3a6b98d72ff0a1f83ef92f797b1f",
+    "wof:geomhash":"fc82090c7728e09ac21f01a1732a6c10",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,11 +111,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862529,
+    "wof:lastmodified":1684354774,
     "wof:name":"Gori\u0161nica",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",
-    "wof:population":4035,
+    "wof:population":4112,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

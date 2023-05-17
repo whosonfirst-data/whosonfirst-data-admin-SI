@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_160",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ho\u010de - Slivnica",
+    "eurostat:nuts_2021_id":"160",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI032",
+    "eurostat:nuts_2021_level_lau":"160",
+    "eurostat:population":11753,
+    "eurostat:population_year":2020,
     "geom:area":0.006294,
-    "geom:area_square_m":53582691.765851,
+    "geom:area_square_m":53582692.668755,
     "geom:bbox":"15.535898,46.458615,15.710843,46.521613",
     "geom:latitude":46.491076,
     "geom:longitude":15.627062,
@@ -31,8 +43,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1998-11-22",
     "svn-sma:dv_od":"1998-11-27",
     "svn-sma:enota":"OB",
@@ -50,9 +62,13 @@
         1108959961
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_160",
+        "eurostat:nuts_2021_id":"160"
+    },
     "wof:country":"SI",
     "wof:created":1493417099,
-    "wof:geomhash":"e4b9713ed6ef73300da4217267afa3c1",
+    "wof:geomhash":"b741528b8270542de8abd1774032de45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,11 +84,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862530,
+    "wof:lastmodified":1684354775,
     "wof:name":"Ho\u010de-Slivnica",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",
-    "wof:population":11189,
+    "wof:population":11753,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_077",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Morav\u010de",
+    "eurostat:nuts_2021_id":"077",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI041",
+    "eurostat:nuts_2021_level_lau":"077",
+    "eurostat:population":5449,
+    "eurostat:population_year":2020,
     "geom:area":0.007147,
-    "geom:area_square_m":61237556.23651,
+    "geom:area_square_m":61237575.410713,
     "geom:bbox":"14.678701,46.09477,14.843013,46.168738",
     "geom:latitude":46.134433,
     "geom:longitude":14.757599,
@@ -31,8 +43,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -50,9 +62,13 @@
         1108959949
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_077",
+        "eurostat:nuts_2021_id":"077"
+    },
     "wof:country":"SI",
     "wof:created":1493417062,
-    "wof:geomhash":"30378e4a676ee04e87eb446a7a94dfe0",
+    "wof:geomhash":"345fd4ec14674f31ab7dc2e811d8922e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,11 +84,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862536,
+    "wof:lastmodified":1684354762,
     "wof:name":"Morav\u010de",
     "wof:parent_id":1108959949,
     "wof:placetype":"localadmin",
-    "wof:population":5129,
+    "wof:population":5449,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

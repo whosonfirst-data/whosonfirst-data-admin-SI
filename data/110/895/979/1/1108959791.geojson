@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_120",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0160entjur",
+    "eurostat:nuts_2021_id":"120",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI034",
+    "eurostat:nuts_2021_level_lau":"120",
+    "eurostat:population":19225,
+    "eurostat:population_year":2020,
     "geom:area":0.025905,
-    "geom:area_square_m":221752544.866524,
+    "geom:area_square_m":221752507.92542,
     "geom:bbox":"15.330113,46.065524,15.53583,46.31182",
     "geom:latitude":46.189663,
     "geom:longitude":15.424099,
@@ -91,8 +103,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"2002-06-15",
     "svn-sma:dv_od":"2002-07-09",
     "svn-sma:enota":"OB",
@@ -110,9 +122,13 @@
         1108959959
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_120",
+        "eurostat:nuts_2021_id":"120"
+    },
     "wof:country":"SI",
     "wof:created":1493417105,
-    "wof:geomhash":"a1b2d86ff01a1871962c4c9c1011978c",
+    "wof:geomhash":"2c49331d9eadb2f5d8dc2ef9cf7c2e1f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,11 +144,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862540,
+    "wof:lastmodified":1684354777,
     "wof:name":"\u0160entjur",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",
-    "wof:population":18946,
+    "wof:population":19225,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

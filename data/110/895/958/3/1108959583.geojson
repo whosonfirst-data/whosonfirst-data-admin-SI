@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ivan\u010dna Gorica",
+    "eurostat:nuts_2021_id":"039",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI041",
+    "eurostat:nuts_2021_level_lau":"039",
+    "eurostat:population":17008,
+    "eurostat:population_year":2020,
     "geom:area":0.02633,
-    "geom:area_square_m":226509572.141242,
+    "geom:area_square_m":226509597.588689,
     "geom:bbox":"14.704806,45.795376,14.924914,46.013017",
     "geom:latitude":45.916211,
     "geom:longitude":14.812216,
@@ -91,8 +103,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -110,9 +122,13 @@
         1108959949
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_039",
+        "eurostat:nuts_2021_id":"039"
+    },
     "wof:country":"SI",
     "wof:created":1493417076,
-    "wof:geomhash":"14a328bfa2f4da187136f3debd7f141d",
+    "wof:geomhash":"aa4e38e5dfd411a3f3419819074da8c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,11 +144,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862531,
+    "wof:lastmodified":1684354767,
     "wof:name":"Ivan\u010dna Gorica",
     "wof:parent_id":1108959949,
     "wof:placetype":"localadmin",
-    "wof:population":15810,
+    "wof:population":17008,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

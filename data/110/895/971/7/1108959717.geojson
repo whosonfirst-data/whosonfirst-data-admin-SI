@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_185",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trnovska vas",
+    "eurostat:nuts_2021_id":"185",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI032",
+    "eurostat:nuts_2021_level_lau":"185",
+    "eurostat:population":1366,
+    "eurostat:population_year":2020,
     "geom:area":0.002684,
-    "geom:area_square_m":22834172.713083,
+    "geom:area_square_m":22834125.39486,
     "geom:bbox":"15.846975,46.499513,15.928783,46.552665",
     "geom:latitude":46.522763,
     "geom:longitude":15.88842,
@@ -46,8 +58,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1998-11-22",
     "svn-sma:dv_od":"1998-11-27",
     "svn-sma:enota":"OB",
@@ -65,9 +77,13 @@
         1108959961
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_185",
+        "eurostat:nuts_2021_id":"185"
+    },
     "wof:country":"SI",
     "wof:created":1493417095,
-    "wof:geomhash":"0ed1c688ee8a8405a6e760d84673c0bd",
+    "wof:geomhash":"a95a55bb739802e1395478c41536a8ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,11 +99,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502652,
+    "wof:lastmodified":1684354774,
     "wof:name":"Trnovska vas",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",
-    "wof:population":1348,
+    "wof:population":1366,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],
