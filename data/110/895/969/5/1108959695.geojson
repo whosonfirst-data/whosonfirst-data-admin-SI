@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_175",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Prevalje",
+    "eurostat:nuts_2021_id":"175",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI033",
+    "eurostat:nuts_2021_level_lau":"175",
+    "eurostat:population":6799,
+    "eurostat:population_year":2020,
     "geom:area":0.006813,
-    "geom:area_square_m":57935841.90489,
+    "geom:area_square_m":57935789.407959,
     "geom:bbox":"14.827633,46.49805,14.953324,46.611679",
     "geom:latitude":46.552375,
     "geom:longitude":14.894826,
@@ -115,8 +127,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1998-11-22",
     "svn-sma:dv_od":"1998-11-27",
     "svn-sma:enota":"OB",
@@ -134,9 +146,13 @@
         1108959955
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_175",
+        "eurostat:nuts_2021_id":"175"
+    },
     "wof:country":"SI",
     "wof:created":1493417093,
-    "wof:geomhash":"6a5e694aa0ee372a4086167fd6b0f96c",
+    "wof:geomhash":"7af8d70303a07bc85d4cba89ef01ca12",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,11 +168,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502661,
+    "wof:lastmodified":1684354773,
     "wof:name":"Prevalje",
     "wof:parent_id":1108959955,
     "wof:placetype":"localadmin",
-    "wof:population":6814,
+    "wof:population":6799,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

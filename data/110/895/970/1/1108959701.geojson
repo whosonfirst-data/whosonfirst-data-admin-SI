@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_146",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u017delezniki",
+    "eurostat:nuts_2021_id":"146",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI042",
+    "eurostat:nuts_2021_level_lau":"146",
+    "eurostat:population":6720,
+    "eurostat:population_year":2020,
     "geom:area":0.019099,
-    "geom:area_square_m":163403384.226432,
+    "geom:area_square_m":163403329.667545,
     "geom:bbox":"13.985549,46.15353,14.247598,46.282936",
     "geom:latitude":46.218691,
     "geom:longitude":14.110321,
@@ -58,8 +70,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -77,9 +89,13 @@
         1108959967
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_146",
+        "eurostat:nuts_2021_id":"146"
+    },
     "wof:country":"SI",
     "wof:created":1493417093,
-    "wof:geomhash":"30f06f18663e6a4bb7398a225478312d",
+    "wof:geomhash":"874103fbda5e0cd801b0152c40559c7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,11 +111,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862545,
+    "wof:lastmodified":1684354773,
     "wof:name":"\u017delezniki",
     "wof:parent_id":1108959967,
     "wof:placetype":"localadmin",
-    "wof:population":6789,
+    "wof:population":6720,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

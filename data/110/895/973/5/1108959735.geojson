@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_207",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gorje",
+    "eurostat:nuts_2021_id":"207",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI042",
+    "eurostat:nuts_2021_level_lau":"207",
+    "eurostat:population":2738,
+    "eurostat:population_year":2020,
     "geom:area":0.013593,
-    "geom:area_square_m":115933712.641738,
+    "geom:area_square_m":115933799.377505,
     "geom:bbox":"13.843115,46.347002,14.095698,46.441999",
     "geom:latitude":46.390198,
     "geom:longitude":13.982484,
@@ -31,8 +43,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"2006-07-18",
     "svn-sma:dv_od":"2006-07-20",
     "svn-sma:enota":"OB",
@@ -50,9 +62,13 @@
         1108959967
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_207",
+        "eurostat:nuts_2021_id":"207"
+    },
     "wof:country":"SI",
     "wof:created":1493417097,
-    "wof:geomhash":"b236a14440f28eaa2e412f033b7e1bc1",
+    "wof:geomhash":"ff6522b8af96a9e9c0b5b0c91091f287",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,11 +84,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862529,
+    "wof:lastmodified":1684354775,
     "wof:name":"Gorje",
     "wof:parent_id":1108959967,
     "wof:placetype":"localadmin",
-    "wof:population":2874,
+    "wof:population":2738,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

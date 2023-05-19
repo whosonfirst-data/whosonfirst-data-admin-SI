@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kozje",
+    "eurostat:nuts_2021_id":"051",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI034",
+    "eurostat:nuts_2021_level_lau":"051",
+    "eurostat:population":2989,
+    "eurostat:population_year":2020,
     "geom:area":0.010432,
-    "geom:area_square_m":89486292.826907,
+    "geom:area_square_m":89486282.92357,
     "geom:bbox":"15.454265,45.996006,15.655982,46.133648",
     "geom:latitude":46.071881,
     "geom:longitude":15.549414,
@@ -91,8 +103,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -110,9 +122,13 @@
         1108959959
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_051",
+        "eurostat:nuts_2021_id":"051"
+    },
     "wof:country":"SI",
     "wof:created":1493417076,
-    "wof:geomhash":"09e2c5c6c917329dd6f3ba0ecf3b2c7d",
+    "wof:geomhash":"39f844fc353d03154f7136b35d27334c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,11 +144,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1642551726,
+    "wof:lastmodified":1684354767,
     "wof:name":"Kozje",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",
-    "wof:population":3177,
+    "wof:population":2989,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

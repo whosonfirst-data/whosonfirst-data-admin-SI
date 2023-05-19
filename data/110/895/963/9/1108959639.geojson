@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_180",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sol\u010dava",
+    "eurostat:nuts_2021_id":"180",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI034",
+    "eurostat:nuts_2021_level_lau":"180",
+    "eurostat:population":513,
+    "eurostat:population_year":2020,
     "geom:area":0.012023,
-    "geom:area_square_m":102516854.142246,
+    "geom:area_square_m":102516868.086682,
     "geom:bbox":"14.565015,46.355095,14.75287,46.45101",
     "geom:latitude":46.404835,
     "geom:longitude":14.658075,
@@ -85,8 +97,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1998-11-22",
     "svn-sma:dv_od":"1998-11-27",
     "svn-sma:enota":"OB",
@@ -104,9 +116,13 @@
         1108959959
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_180",
+        "eurostat:nuts_2021_id":"180"
+    },
     "wof:country":"SI",
     "wof:created":1493417086,
-    "wof:geomhash":"d0183c3cf476cb9adc642f85b5d79b3f",
+    "wof:geomhash":"d648990fe0194e892e126c32cedc02a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,11 +138,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862542,
+    "wof:lastmodified":1684354770,
     "wof:name":"Sol\u010dava",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",
-    "wof:population":518,
+    "wof:population":513,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

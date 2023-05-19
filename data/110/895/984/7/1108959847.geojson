@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dobrova - Polhov Gradec",
+    "eurostat:nuts_2021_id":"021",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI041",
+    "eurostat:nuts_2021_level_lau":"021",
+    "eurostat:population":7800,
+    "eurostat:population_year":2020,
     "geom:area":0.013661,
-    "geom:area_square_m":117210348.052347,
+    "geom:area_square_m":117210286.801864,
     "geom:bbox":"14.188306,46.011284,14.442685,46.107877",
     "geom:latitude":46.061704,
     "geom:longitude":14.311391,
@@ -40,8 +52,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1998-11-22",
     "svn-sma:dv_od":"1998-11-27",
     "svn-sma:enota":"OB",
@@ -59,9 +71,13 @@
         1108959949
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_021",
+        "eurostat:nuts_2021_id":"021"
+    },
     "wof:country":"SI",
     "wof:created":1493417115,
-    "wof:geomhash":"8c130811126b919e22aeb6b83d49e92a",
+    "wof:geomhash":"80bf6901520baf6feefba6b4c96b67c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,11 +93,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502650,
+    "wof:lastmodified":1684354781,
     "wof:name":"Dobrova-Polhov Gradec",
     "wof:parent_id":1108959949,
     "wof:placetype":"localadmin",
-    "wof:population":7539,
+    "wof:population":7800,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_208",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Log - Dragomer",
+    "eurostat:nuts_2021_id":"208",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI041",
+    "eurostat:nuts_2021_level_lau":"208",
+    "eurostat:population":3656,
+    "eurostat:population_year":2020,
     "geom:area":0.001285,
-    "geom:area_square_m":11034101.498734,
+    "geom:area_square_m":11034123.771184,
     "geom:bbox":"14.336877,45.995476,14.408302,46.030956",
     "geom:latitude":46.014335,
     "geom:longitude":14.373325,
@@ -31,8 +43,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"2006-07-18",
     "svn-sma:dv_od":"2006-07-20",
     "svn-sma:enota":"OB",
@@ -50,9 +62,13 @@
         1108959949
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_208",
+        "eurostat:nuts_2021_id":"208"
+    },
     "wof:country":"SI",
     "wof:created":1493417120,
-    "wof:geomhash":"aeb52cc0b4e0a23459ddcdec295b7145",
+    "wof:geomhash":"109f99602bee3f44188396deda682012",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,11 +84,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862534,
+    "wof:lastmodified":1684354782,
     "wof:name":"Log-Dragomer",
     "wof:parent_id":1108959949,
     "wof:placetype":"localadmin",
-    "wof:population":3660,
+    "wof:population":3656,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

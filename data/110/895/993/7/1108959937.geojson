@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_119",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0160entjernej",
+    "eurostat:nuts_2021_id":"119",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI037",
+    "eurostat:nuts_2021_level_lau":"119",
+    "eurostat:population":7199,
+    "eurostat:population_year":2020,
     "geom:area":0.011116,
-    "geom:area_square_m":95776865.040735,
+    "geom:area_square_m":95776756.538661,
     "geom:bbox":"15.253929,45.75984,15.40488,45.890113",
     "geom:latitude":45.826479,
     "geom:longitude":15.332546,
@@ -91,8 +103,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -110,9 +122,13 @@
         1108959943
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_119",
+        "eurostat:nuts_2021_id":"119"
+    },
     "wof:country":"SI",
     "wof:created":1493417129,
-    "wof:geomhash":"b2b980fcf2dab1d29e5f45fc65191709",
+    "wof:geomhash":"f2badf481621b949170fb2ac81317d15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,11 +144,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862540,
+    "wof:lastmodified":1684354786,
     "wof:name":"\u0160entjernej",
     "wof:parent_id":1108959943,
     "wof:placetype":"localadmin",
-    "wof:population":6908,
+    "wof:population":7199,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

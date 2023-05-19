@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_189",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vransko",
+    "eurostat:nuts_2021_id":"189",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI034",
+    "eurostat:nuts_2021_level_lau":"189",
+    "eurostat:population":2624,
+    "eurostat:population_year":2020,
     "geom:area":0.006222,
-    "geom:area_square_m":53216939.468679,
+    "geom:area_square_m":53216992.149053,
     "geom:bbox":"14.883906,46.185761,15.010603,46.281813",
     "geom:latitude":46.23636,
     "geom:longitude":14.944212,
@@ -79,8 +91,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1998-11-22",
     "svn-sma:dv_od":"1998-11-27",
     "svn-sma:enota":"OB",
@@ -98,9 +110,13 @@
         1108959959
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_189",
+        "eurostat:nuts_2021_id":"189"
+    },
     "wof:country":"SI",
     "wof:created":1493417112,
-    "wof:geomhash":"e8d7644e01bd91d9cd957d7258540d22",
+    "wof:geomhash":"c60dd74ad324d79289389cc031db844f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,11 +132,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502654,
+    "wof:lastmodified":1684354780,
     "wof:name":"Vransko",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",
-    "wof:population":2652,
+    "wof:population":2624,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

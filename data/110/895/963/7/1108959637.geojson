@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_161",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hodo\u0161/Hodos",
+    "eurostat:nuts_2021_id":"161",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI031",
+    "eurostat:nuts_2021_level_lau":"161",
+    "eurostat:population":353,
+    "eurostat:population_year":2020,
     "geom:area":0.002136,
-    "geom:area_square_m":18072212.378484,
+    "geom:area_square_m":18072191.317258,
     "geom:bbox":"16.290676,46.79694,16.350753,46.866413",
     "geom:latitude":46.828045,
     "geom:longitude":16.320647,
@@ -91,8 +103,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1998-11-22",
     "svn-sma:dv_od":"1998-11-27",
     "svn-sma:enota":"OB",
@@ -110,9 +122,13 @@
         1108959945
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_161",
+        "eurostat:nuts_2021_id":"161"
+    },
     "wof:country":"SI",
     "wof:created":1493417085,
-    "wof:geomhash":"970ad4bbe677745793f895615ce4e89e",
+    "wof:geomhash":"39775632bf529f95c1484f0f578be137",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,11 +144,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862530,
+    "wof:lastmodified":1684354770,
     "wof:name":"Hodo\u0161",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",
-    "wof:population":375,
+    "wof:population":353,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

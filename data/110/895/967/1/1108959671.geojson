@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_144",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zre\u010de",
+    "eurostat:nuts_2021_id":"144",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI034",
+    "eurostat:nuts_2021_level_lau":"144",
+    "eurostat:population":6550,
+    "eurostat:population_year":2020,
     "geom:area":0.007844,
-    "geom:area_square_m":66883728.354384,
+    "geom:area_square_m":66883789.045363,
     "geom:bbox":"15.310075,46.333281,15.4227,46.480198",
     "geom:latitude":46.400177,
     "geom:longitude":15.366361,
@@ -58,8 +70,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -77,9 +89,13 @@
         1108959959
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_144",
+        "eurostat:nuts_2021_id":"144"
+    },
     "wof:country":"SI",
     "wof:created":1493417090,
-    "wof:geomhash":"e223e7de89e6ac1ac1d30ca645271dd5",
+    "wof:geomhash":"e78ac078f0e5dce085cbd330c14e7bd6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,11 +111,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862546,
+    "wof:lastmodified":1684354772,
     "wof:name":"Zre\u010de",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",
-    "wof:population":6389,
+    "wof:population":6550,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

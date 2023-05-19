@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dornava",
+    "eurostat:nuts_2021_id":"024",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI032",
+    "eurostat:nuts_2021_level_lau":"024",
+    "eurostat:population":2902,
+    "eurostat:population_year":2020,
     "geom:area":0.003325,
-    "geom:area_square_m":28331350.811373,
+    "geom:area_square_m":28331396.893918,
     "geom:bbox":"15.935148,46.417484,16.036157,46.491055",
     "geom:latitude":46.448868,
     "geom:longitude":15.990333,
@@ -64,8 +76,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -83,9 +95,13 @@
         1108959961
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_024",
+        "eurostat:nuts_2021_id":"024"
+    },
     "wof:country":"SI",
     "wof:created":1493417101,
-    "wof:geomhash":"422e957c1b472d3d95ef547890e315f8",
+    "wof:geomhash":"c15c28bd985ad4ecbd5dbee1fe34b2df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,11 +117,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502654,
+    "wof:lastmodified":1684354776,
     "wof:name":"Dornava",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",
-    "wof:population":2907,
+    "wof:population":2902,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

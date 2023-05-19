@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_089",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pesnica",
+    "eurostat:nuts_2021_id":"089",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI032",
+    "eurostat:nuts_2021_level_lau":"089",
+    "eurostat:population":7410,
+    "eurostat:population_year":2020,
     "geom:area":0.008909,
-    "geom:area_square_m":75660972.971707,
+    "geom:area_square_m":75660948.153455,
     "geom:bbox":"15.644211,46.55974,15.771168,46.675802",
     "geom:latitude":46.619589,
     "geom:longitude":15.709755,
@@ -61,8 +73,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -80,9 +92,13 @@
         1108959961
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_089",
+        "eurostat:nuts_2021_id":"089"
+    },
     "wof:country":"SI",
     "wof:created":1493417067,
-    "wof:geomhash":"0b74ee45091b8f6cd8619de1b9239cd4",
+    "wof:geomhash":"48a189bfe8449602eb6436e8252e8475",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,11 +114,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502648,
+    "wof:lastmodified":1684354764,
     "wof:name":"Pesnica",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",
-    "wof:population":7554,
+    "wof:population":7410,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

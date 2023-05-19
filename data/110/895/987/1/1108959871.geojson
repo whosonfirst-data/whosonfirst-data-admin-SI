@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Borovnica",
+    "eurostat:nuts_2021_id":"005",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI041",
+    "eurostat:nuts_2021_level_lau":"005",
+    "eurostat:population":4579,
+    "eurostat:population_year":2020,
     "geom:area":0.004908,
-    "geom:area_square_m":42221250.565974,
+    "geom:area_square_m":42221283.11378,
     "geom:bbox":"14.333503,45.857062,14.420555,45.965313",
     "geom:latitude":45.913099,
     "geom:longitude":14.378234,
@@ -58,8 +70,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -77,9 +89,13 @@
         1108959949
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_005",
+        "eurostat:nuts_2021_id":"005"
+    },
     "wof:country":"SI",
     "wof:created":1493417118,
-    "wof:geomhash":"62e60cbe828e831e5e0f5bd6aba5e8f8",
+    "wof:geomhash":"85f311ac159ed8aa38262ddddc298d2c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,11 +111,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502662,
+    "wof:lastmodified":1684354782,
     "wof:name":"Borovnica",
     "wof:parent_id":1108959949,
     "wof:placetype":"localadmin",
-    "wof:population":3992,
+    "wof:population":4579,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

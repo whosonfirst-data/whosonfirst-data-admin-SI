@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dobrepolje",
+    "eurostat:nuts_2021_id":"020",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI041",
+    "eurostat:nuts_2021_level_lau":"020",
+    "eurostat:population":3878,
+    "eurostat:population_year":2020,
     "geom:area":0.011944,
-    "geom:area_square_m":102923451.885779,
+    "geom:area_square_m":102923542.997102,
     "geom:bbox":"14.63392,45.726545,14.842097,45.893405",
     "geom:latitude":45.82199,
     "geom:longitude":14.735663,
@@ -34,8 +46,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -53,9 +65,13 @@
         1108959949
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_020",
+        "eurostat:nuts_2021_id":"020"
+    },
     "wof:country":"SI",
     "wof:created":1493417075,
-    "wof:geomhash":"2fe8b4dfa785315fc8b702727bb95986",
+    "wof:geomhash":"a169879c36dbd05a7c971801a06a486f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,11 +87,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502656,
+    "wof:lastmodified":1684354767,
     "wof:name":"Dobrepolje",
     "wof:parent_id":1108959949,
     "wof:placetype":"localadmin",
-    "wof:population":3938,
+    "wof:population":3878,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_163",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jezersko",
+    "eurostat:nuts_2021_id":"163",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI042",
+    "eurostat:nuts_2021_level_lau":"163",
+    "eurostat:population":625,
+    "eurostat:population_year":2020,
     "geom:area":0.008048,
-    "geom:area_square_m":68648295.138337,
+    "geom:area_square_m":68648170.644079,
     "geom:bbox":"14.401374,46.345535,14.5652,46.427132",
     "geom:latitude":46.386977,
     "geom:longitude":14.482896,
@@ -67,8 +79,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1998-11-22",
     "svn-sma:dv_od":"1998-11-27",
     "svn-sma:enota":"OB",
@@ -86,9 +98,13 @@
         1108959967
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_163",
+        "eurostat:nuts_2021_id":"163"
+    },
     "wof:country":"SI",
     "wof:created":1493417083,
-    "wof:geomhash":"2dd8c20d931d270d7719b2071c713623",
+    "wof:geomhash":"2c35fff6f7f7acbb46bf8aca4f7f9c23",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,11 +120,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502645,
+    "wof:lastmodified":1684354770,
     "wof:name":"Jezersko",
     "wof:parent_id":1108959967,
     "wof:placetype":"localadmin",
-    "wof:population":634,
+    "wof:population":625,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

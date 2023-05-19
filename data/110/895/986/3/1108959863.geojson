@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_065",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lo\u0161ka dolina",
+    "eurostat:nuts_2021_id":"065",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI038",
+    "eurostat:nuts_2021_level_lau":"065",
+    "eurostat:population":3757,
+    "eurostat:population_year":2020,
     "geom:area":0.019265,
-    "geom:area_square_m":166464537.625089,
+    "geom:area_square_m":166464571.216541,
     "geom:bbox":"14.379424,45.579658,14.570134,45.748963",
     "geom:latitude":45.668465,
     "geom:longitude":14.483633,
@@ -31,8 +43,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -50,9 +62,13 @@
         1108959953
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_065",
+        "eurostat:nuts_2021_id":"065"
+    },
     "wof:country":"SI",
     "wof:created":1493417117,
-    "wof:geomhash":"fd059838ef3d7421264364ee086a4c80",
+    "wof:geomhash":"1be5b083e9514345524544ec45bc053f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,11 +84,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862534,
+    "wof:lastmodified":1684354781,
     "wof:name":"Lo\u0161ka dolina",
     "wof:parent_id":1108959953,
     "wof:placetype":"localadmin",
-    "wof:population":3871,
+    "wof:population":3757,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

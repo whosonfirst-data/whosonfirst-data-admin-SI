@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bled",
+    "eurostat:nuts_2021_id":"003",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI042",
+    "eurostat:nuts_2021_level_lau":"003",
+    "eurostat:population":7868,
+    "eurostat:population_year":2020,
     "geom:area":0.008448,
-    "geom:area_square_m":72113675.990764,
+    "geom:area_square_m":72113682.13893,
     "geom:bbox":"13.984046,46.291193,14.155425,46.405714",
     "geom:latitude":46.345597,
     "geom:longitude":14.078722,
@@ -160,8 +172,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -179,9 +191,13 @@
         1108959967
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_003",
+        "eurostat:nuts_2021_id":"003"
+    },
     "wof:country":"SI",
     "wof:created":1493417105,
-    "wof:geomhash":"98f26c07289f47240e7ebfc2f68586db",
+    "wof:geomhash":"b5bcd68dd2b243f8785213043cc018d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -197,11 +213,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862525,
+    "wof:lastmodified":1684354778,
     "wof:name":"Bled",
     "wof:parent_id":1108959967,
     "wof:placetype":"localadmin",
-    "wof:population":8171,
+    "wof:population":7868,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

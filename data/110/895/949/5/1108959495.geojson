@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dravograd",
+    "eurostat:nuts_2021_id":"025",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI033",
+    "eurostat:nuts_2021_level_lau":"025",
+    "eurostat:population":8884,
+    "eurostat:population_year":2020,
     "geom:area":0.012329,
-    "geom:area_square_m":104754308.306181,
+    "geom:area_square_m":104754393.892418,
     "geom:bbox":"14.920446,46.530471,15.127752,46.652087",
     "geom:latitude":46.59744,
     "geom:longitude":15.033865,
@@ -115,8 +127,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -134,9 +146,13 @@
         1108959955
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_025",
+        "eurostat:nuts_2021_id":"025"
+    },
     "wof:country":"SI",
     "wof:created":1493417059,
-    "wof:geomhash":"675f27735b37b862f4e21c89a3abac73",
+    "wof:geomhash":"faa6d04661e7be0d07580940760a910e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,11 +168,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502653,
+    "wof:lastmodified":1684354761,
     "wof:name":"Dravograd",
     "wof:parent_id":1108959955,
     "wof:placetype":"localadmin",
-    "wof:population":8989,
+    "wof:population":8884,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

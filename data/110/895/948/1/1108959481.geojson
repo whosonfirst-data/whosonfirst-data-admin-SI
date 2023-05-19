@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_075",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Miren - Kostanjevica",
+    "eurostat:nuts_2021_id":"075",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI043",
+    "eurostat:nuts_2021_level_lau":"075",
+    "eurostat:population":4977,
+    "eurostat:population_year":2020,
     "geom:area":0.007272,
-    "geom:area_square_m":62630220.003698,
+    "geom:area_square_m":62630192.985118,
     "geom:bbox":"13.574428,45.815813,13.719416,45.903826",
     "geom:latitude":45.852183,
     "geom:longitude":13.638107,
@@ -40,8 +52,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -59,9 +71,13 @@
         1108959947
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_075",
+        "eurostat:nuts_2021_id":"075"
+    },
     "wof:country":"SI",
     "wof:created":1493417057,
-    "wof:geomhash":"633aacdf344887e6f8e4f696cb448fe8",
+    "wof:geomhash":"c3a56f62356d0c25ebb5eb0e7bfa8eff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,11 +93,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502649,
+    "wof:lastmodified":1684354761,
     "wof:name":"Miren-Kostanjevica",
     "wof:parent_id":1108959947,
     "wof:placetype":"localadmin",
-    "wof:population":4835,
+    "wof:population":4977,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

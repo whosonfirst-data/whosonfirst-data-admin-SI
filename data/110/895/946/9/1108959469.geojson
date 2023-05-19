@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_055",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kungota",
+    "eurostat:nuts_2021_id":"055",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI032",
+    "eurostat:nuts_2021_level_lau":"055",
+    "eurostat:population":4724,
+    "eurostat:population_year":2020,
     "geom:area":0.005757,
-    "geom:area_square_m":48868636.537637,
+    "geom:area_square_m":48868633.318702,
     "geom:bbox":"15.542354,46.592313,15.662424,46.690331",
     "geom:latitude":46.645302,
     "geom:longitude":15.60112,
@@ -37,8 +49,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -56,9 +68,13 @@
         1108959961
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_055",
+        "eurostat:nuts_2021_id":"055"
+    },
     "wof:country":"SI",
     "wof:created":1493417055,
-    "wof:geomhash":"b68211e9e5325d639257fa4870b64e49",
+    "wof:geomhash":"0e8590fe694e2704506b302ab1730b55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,11 +90,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502651,
+    "wof:lastmodified":1684354760,
     "wof:name":"Kungota",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",
-    "wof:population":4787,
+    "wof:population":4724,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

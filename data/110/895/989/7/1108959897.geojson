@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gorenja vas - Poljane",
+    "eurostat:nuts_2021_id":"027",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI042",
+    "eurostat:nuts_2021_level_lau":"027",
+    "eurostat:population":7557,
+    "eurostat:population_year":2020,
     "geom:area":0.017837,
-    "geom:area_square_m":152891842.070709,
+    "geom:area_square_m":152891888.037876,
     "geom:bbox":"14.017821,46.036895,14.22795,46.180896",
     "geom:latitude":46.114774,
     "geom:longitude":14.135884,
@@ -40,8 +52,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -59,9 +71,13 @@
         1108959967
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_027",
+        "eurostat:nuts_2021_id":"027"
+    },
     "wof:country":"SI",
     "wof:created":1493417122,
-    "wof:geomhash":"7ac8b2eccf3622f858d5a69038550b8e",
+    "wof:geomhash":"d49b67b6079c533c9ea588d68e2a94ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,11 +93,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502663,
+    "wof:lastmodified":1684354783,
     "wof:name":"Gorenja vas-Poljane",
     "wof:parent_id":1108959967,
     "wof:placetype":"localadmin",
-    "wof:population":7307,
+    "wof:population":7557,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_197",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kostanjevica na Krki",
+    "eurostat:nuts_2021_id":"197",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI036",
+    "eurostat:nuts_2021_level_lau":"197",
+    "eurostat:population":2432,
+    "eurostat:population_year":2020,
     "geom:area":0.006756,
-    "geom:area_square_m":58200021.825552,
+    "geom:area_square_m":58200016.549301,
     "geom:bbox":"15.366401,45.79118,15.478894,45.891831",
     "geom:latitude":45.837504,
     "geom:longitude":15.420694,
@@ -91,8 +103,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"2006-04-06",
     "svn-sma:dv_od":"2006-04-12",
     "svn-sma:enota":"OB",
@@ -110,9 +122,13 @@
         1108959965
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_197",
+        "eurostat:nuts_2021_id":"197"
+    },
     "wof:country":"SI",
     "wof:created":1493417113,
-    "wof:geomhash":"57d7956cd498e2a9ed72fb2a32618d46",
+    "wof:geomhash":"b93136c328381822877cb01352340a06",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,11 +144,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862532,
+    "wof:lastmodified":1684354780,
     "wof:name":"Kostanjevica na Krki",
     "wof:parent_id":1108959965,
     "wof:placetype":"localadmin",
-    "wof:population":2416,
+    "wof:population":2432,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

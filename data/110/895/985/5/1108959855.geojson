@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_151",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Braslov\u010de",
+    "eurostat:nuts_2021_id":"151",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI034",
+    "eurostat:nuts_2021_level_lau":"151",
+    "eurostat:population":5639,
+    "eurostat:population_year":2020,
     "geom:area":0.006419,
-    "geom:area_square_m":54855562.052311,
+    "geom:area_square_m":54855585.35049,
     "geom:bbox":"14.965587,46.226868,15.09079,46.333889",
     "geom:latitude":46.282321,
     "geom:longitude":15.025453,
@@ -85,8 +97,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1998-11-22",
     "svn-sma:dv_od":"1998-11-27",
     "svn-sma:enota":"OB",
@@ -104,9 +116,13 @@
         1108959959
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_151",
+        "eurostat:nuts_2021_id":"151"
+    },
     "wof:country":"SI",
     "wof:created":1493417116,
-    "wof:geomhash":"8bdf13e2222e872093e6fbc6be78c683",
+    "wof:geomhash":"c8f0b64fc412cc7e99e5d10bdd988622",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,11 +138,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862526,
+    "wof:lastmodified":1684354781,
     "wof:name":"Braslov\u010de",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",
-    "wof:population":5409,
+    "wof:population":5639,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

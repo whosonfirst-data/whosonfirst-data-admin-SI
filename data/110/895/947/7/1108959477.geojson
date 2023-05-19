@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_058",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lenart",
+    "eurostat:nuts_2021_id":"058",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI032",
+    "eurostat:nuts_2021_level_lau":"058",
+    "eurostat:population":8502,
+    "eurostat:population_year":2020,
     "geom:area":0.007286,
-    "geom:area_square_m":61952222.038449,
+    "geom:area_square_m":61952285.285503,
     "geom:bbox":"15.750254,46.494443,15.869499,46.613811",
     "geom:latitude":46.557769,
     "geom:longitude":15.818622,
@@ -52,8 +64,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -71,9 +83,13 @@
         1108959961
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_058",
+        "eurostat:nuts_2021_id":"058"
+    },
     "wof:country":"SI",
     "wof:created":1493417056,
-    "wof:geomhash":"ea8feb5568ff26b38b04fe93a2f09ab1",
+    "wof:geomhash":"7955d32036c7e10e8906f49dcd3a56ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,11 +105,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502651,
+    "wof:lastmodified":1684354760,
     "wof:name":"Lenart",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",
-    "wof:population":8169,
+    "wof:population":8502,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

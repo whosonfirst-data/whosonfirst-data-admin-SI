@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_131",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tr\u017ei\u010d",
+    "eurostat:nuts_2021_id":"131",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI042",
+    "eurostat:nuts_2021_level_lau":"131",
+    "eurostat:population":14961,
+    "eurostat:population_year":2020,
     "geom:area":0.018174,
-    "geom:area_square_m":155004265.80204,
+    "geom:area_square_m":155004316.430812,
     "geom:bbox":"14.233276,46.313773,14.442103,46.446998",
     "geom:latitude":46.388439,
     "geom:longitude":14.330697,
@@ -100,8 +112,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -119,9 +131,13 @@
         1108959967
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_131",
+        "eurostat:nuts_2021_id":"131"
+    },
     "wof:country":"SI",
     "wof:created":1493417125,
-    "wof:geomhash":"69ea2899b3d291cc7719b3f1a62358ff",
+    "wof:geomhash":"29d47cfb1d6ee87a7380ef1adee5410a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,12 +153,12 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862544,
+    "wof:lastmodified":1684354784,
     "wof:name":"Tr\u017ei\u010d",
     "wof:parent_id":1108959967,
     "wof:placetype":"localadmin",
-    "wof:population":3874,
-    "wof:population_rank":4,
+    "wof:population":14961,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],
     "wof:supersedes":[

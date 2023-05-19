@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cerknica",
+    "eurostat:nuts_2021_id":"013",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI038",
+    "eurostat:nuts_2021_level_lau":"013",
+    "eurostat:population":11580,
+    "eurostat:population_year":2020,
     "geom:area":0.027891,
-    "geom:area_square_m":240416415.648462,
+    "geom:area_square_m":240416383.020974,
     "geom:bbox":"14.251893,45.702472,14.508543,45.894185",
     "geom:latitude":45.804808,
     "geom:longitude":14.378053,
@@ -121,8 +133,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -140,9 +152,13 @@
         1108959953
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_013",
+        "eurostat:nuts_2021_id":"013"
+    },
     "wof:country":"SI",
     "wof:created":1493417123,
-    "wof:geomhash":"4da344119c03266e51b04522c1deba87",
+    "wof:geomhash":"5eca9754e27a314a32c36255f2b86215",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,11 +174,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502646,
+    "wof:lastmodified":1684354784,
     "wof:name":"Cerknica",
     "wof:parent_id":1108959953,
     "wof:placetype":"localadmin",
-    "wof:population":11268,
+    "wof:population":11580,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

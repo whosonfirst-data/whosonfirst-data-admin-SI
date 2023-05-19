@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_060",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Litija",
+    "eurostat:nuts_2021_id":"060",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI035",
+    "eurostat:nuts_2021_level_lau":"060",
+    "eurostat:population":15499,
+    "eurostat:population_year":2020,
     "geom:area":0.025742,
-    "geom:area_square_m":220886831.502979,
+    "geom:area_square_m":220886805.363012,
     "geom:bbox":"14.711613,45.962996,15.099542,46.136262",
     "geom:latitude":46.056292,
     "geom:longitude":14.919553,
@@ -76,8 +88,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -95,9 +107,13 @@
         1108959963
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_060",
+        "eurostat:nuts_2021_id":"060"
+    },
     "wof:country":"SI",
     "wof:created":1493417123,
-    "wof:geomhash":"c97e5965c96eb85d8447b0b34166049d",
+    "wof:geomhash":"0662527b01dc5d8a1db315c600c17272",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,11 +129,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502646,
+    "wof:lastmodified":1684354784,
     "wof:name":"Litija",
     "wof:parent_id":1108959963,
     "wof:placetype":"localadmin",
-    "wof:population":15017,
+    "wof:population":15499,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

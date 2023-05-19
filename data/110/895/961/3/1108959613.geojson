@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_090",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Piran/Pirano",
+    "eurostat:nuts_2021_id":"090",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI044",
+    "eurostat:nuts_2021_level_lau":"090",
+    "eurostat:population":17676,
+    "eurostat:population_year":2020,
     "geom:area":0.005131,
-    "geom:area_square_m":44476122.901894,
+    "geom:area_square_m":44476085.374597,
     "geom:bbox":"13.562906,45.445491,13.71238,45.540032",
     "geom:latitude":45.487172,
     "geom:longitude":13.63401,
@@ -181,8 +193,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"2015-02-25",
     "svn-sma:dv_od":"2015-02-25",
     "svn-sma:enota":"OB",
@@ -200,9 +212,13 @@
         1108959951
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_090",
+        "eurostat:nuts_2021_id":"090"
+    },
     "wof:country":"SI",
     "wof:created":1493417082,
-    "wof:geomhash":"f5d7f09fb28116545be1614679528244",
+    "wof:geomhash":"acdad4ccf46135ed82c26e35dc3a6d5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -218,11 +234,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862537,
+    "wof:lastmodified":1684354769,
     "wof:name":"Piran",
     "wof:parent_id":1108959951,
     "wof:placetype":"localadmin",
-    "wof:population":17882,
+    "wof:population":17676,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

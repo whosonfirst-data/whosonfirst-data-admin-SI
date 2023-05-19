@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_085",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Novo mesto",
+    "eurostat:nuts_2021_id":"085",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI037",
+    "eurostat:nuts_2021_level_lau":"085",
+    "eurostat:population":37587,
+    "eurostat:population_year":2020,
     "geom:area":0.027274,
-    "geom:area_square_m":235200728.446979,
+    "geom:area_square_m":235200637.052031,
     "geom:bbox":"15.092826,45.684489,15.316793,45.876855",
     "geom:latitude":45.780784,
     "geom:longitude":15.193742,
@@ -31,8 +43,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -50,9 +62,13 @@
         1108959943
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_085",
+        "eurostat:nuts_2021_id":"085"
+    },
     "wof:country":"SI",
     "wof:created":1493417054,
-    "wof:geomhash":"fc1bda43e0f6e189b09d8363a8ab85f2",
+    "wof:geomhash":"5aa40fcd1c2a8b13f4e95776a89a6ea3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,11 +84,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862524,
+    "wof:lastmodified":1684354760,
     "wof:name":"Novo mesto",
     "wof:parent_id":1108959943,
     "wof:placetype":"localadmin",
-    "wof:population":36285,
+    "wof:population":37587,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

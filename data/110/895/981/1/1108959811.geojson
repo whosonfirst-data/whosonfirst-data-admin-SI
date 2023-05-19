@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brda",
+    "eurostat:nuts_2021_id":"007",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI043",
+    "eurostat:nuts_2021_level_lau":"007",
+    "eurostat:population":5619,
+    "eurostat:population_year":2020,
     "geom:area":0.008359,
-    "geom:area_square_m":71784963.289696,
+    "geom:area_square_m":71784996.37244,
     "geom:bbox":"13.476146,45.964742,13.632401,46.067551",
     "geom:latitude":46.01244,
     "geom:longitude":13.545386,
@@ -79,8 +91,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -98,9 +110,13 @@
         1108959947
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_007",
+        "eurostat:nuts_2021_id":"007"
+    },
     "wof:country":"SI",
     "wof:created":1493417109,
-    "wof:geomhash":"8b5e8586705f31a8e7bd8afa6e001c39",
+    "wof:geomhash":"b625e1fb29e8c2ddca21f76c3da61e8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,11 +132,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502665,
+    "wof:lastmodified":1684354779,
     "wof:name":"Brda",
     "wof:parent_id":1108959947,
     "wof:placetype":"localadmin",
-    "wof:population":5734,
+    "wof:population":5619,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

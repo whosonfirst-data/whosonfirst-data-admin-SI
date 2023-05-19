@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_159",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hajdina",
+    "eurostat:nuts_2021_id":"159",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI032",
+    "eurostat:nuts_2021_level_lau":"159",
+    "eurostat:population":3879,
+    "eurostat:population_year":2020,
     "geom:area":0.002553,
-    "geom:area_square_m":21764657.922817,
+    "geom:area_square_m":21764599.005133,
     "geom:bbox":"15.791598,46.38274,15.868177,46.457059",
     "geom:latitude":46.420156,
     "geom:longitude":15.825723,
@@ -34,8 +46,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1998-11-22",
     "svn-sma:dv_od":"1998-11-27",
     "svn-sma:enota":"OB",
@@ -53,9 +65,13 @@
         1108959961
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_159",
+        "eurostat:nuts_2021_id":"159"
+    },
     "wof:country":"SI",
     "wof:created":1493417101,
-    "wof:geomhash":"74de7468344d2d0f85cb648d53df8a03",
+    "wof:geomhash":"7554ba49208e3cf718d621ad0cf33c30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,11 +87,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502655,
+    "wof:lastmodified":1684354776,
     "wof:name":"Hajdina",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",
-    "wof:population":3736,
+    "wof:population":3879,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

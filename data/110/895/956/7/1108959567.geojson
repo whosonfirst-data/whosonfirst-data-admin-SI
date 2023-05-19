@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0160alovci",
+    "eurostat:nuts_2021_id":"033",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI031",
+    "eurostat:nuts_2021_level_lau":"033",
+    "eurostat:population":1380,
+    "eurostat:population_year":2020,
     "geom:area":0.006857,
-    "geom:area_square_m":58007001.53583,
+    "geom:area_square_m":58007027.682514,
     "geom:bbox":"16.175165,46.770882,16.312926,46.876628",
     "geom:latitude":46.833293,
     "geom:longitude":16.261685,
@@ -88,8 +100,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1998-11-22",
     "svn-sma:dv_od":"1998-11-27",
     "svn-sma:enota":"OB",
@@ -107,9 +119,13 @@
         1108959945
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_033",
+        "eurostat:nuts_2021_id":"033"
+    },
     "wof:country":"SI",
     "wof:created":1493417069,
-    "wof:geomhash":"27386290cd0cc32d5b99ab3029141ef9",
+    "wof:geomhash":"a70f6b93a025ed203cdfcba3ea3e232c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,11 +141,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862540,
+    "wof:lastmodified":1684354766,
     "wof:name":"\u0160alovci",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",
-    "wof:population":1521,
+    "wof:population":1380,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

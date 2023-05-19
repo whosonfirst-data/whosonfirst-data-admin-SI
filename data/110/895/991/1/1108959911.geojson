@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_129",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trbovlje",
+    "eurostat:nuts_2021_id":"129",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI035",
+    "eurostat:nuts_2021_level_lau":"129",
+    "eurostat:population":16105,
+    "eurostat:population_year":2020,
     "geom:area":0.006759,
-    "geom:area_square_m":57909872.12734,
+    "geom:area_square_m":57909872.626756,
     "geom:bbox":"14.980465,46.076848,15.109337,46.19752",
     "geom:latitude":46.141124,
     "geom:longitude":15.049988,
@@ -139,8 +151,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -158,9 +170,13 @@
         1108959963
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_129",
+        "eurostat:nuts_2021_id":"129"
+    },
     "wof:country":"SI",
     "wof:created":1493417124,
-    "wof:geomhash":"8f3005bffa04931f5a0385fa32047f2a",
+    "wof:geomhash":"4334b91445ef72e268dd27b84e516705",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,11 +192,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502644,
+    "wof:lastmodified":1684354784,
     "wof:name":"Trbovlje",
     "wof:parent_id":1108959963,
     "wof:placetype":"localadmin",
-    "wof:population":16888,
+    "wof:population":16105,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

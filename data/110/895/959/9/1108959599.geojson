@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ribnica",
+    "eurostat:nuts_2021_id":"104",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI037",
+    "eurostat:nuts_2021_level_lau":"104",
+    "eurostat:population":9527,
+    "eurostat:population_year":2020,
     "geom:area":0.017762,
-    "geom:area_square_m":153305891.915329,
+    "geom:area_square_m":153305794.529704,
     "geom:bbox":"14.583189,45.636301,14.819206,45.820995",
     "geom:latitude":45.732663,
     "geom:longitude":14.717992,
@@ -85,8 +97,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -104,9 +116,13 @@
         1108959943
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_104",
+        "eurostat:nuts_2021_id":"104"
+    },
     "wof:country":"SI",
     "wof:created":1493417080,
-    "wof:geomhash":"fe84e7357b9bd77ced8ea47eb9c3714a",
+    "wof:geomhash":"74c7df60f34a31279a2a3f6e066934e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,11 +138,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502658,
+    "wof:lastmodified":1684354768,
     "wof:name":"Ribnica",
     "wof:parent_id":1108959943,
     "wof:placetype":"localadmin",
-    "wof:population":9316,
+    "wof:population":9527,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

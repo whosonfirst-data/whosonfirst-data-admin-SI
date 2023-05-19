@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ilirska Bistrica",
+    "eurostat:nuts_2021_id":"038",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI038",
+    "eurostat:nuts_2021_level_lau":"038",
+    "eurostat:population":13297,
+    "eurostat:population_year":2020,
     "geom:area":0.055329,
-    "geom:area_square_m":478963326.566786,
+    "geom:area_square_m":478963446.866379,
     "geom:bbox":"14.090552,45.468723,14.502404,45.68522",
     "geom:latitude":45.566313,
     "geom:longitude":14.286379,
@@ -118,8 +130,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -137,9 +149,13 @@
         1108959953
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_038",
+        "eurostat:nuts_2021_id":"038"
+    },
     "wof:country":"SI",
     "wof:created":1493417118,
-    "wof:geomhash":"74a06fcb2dce9a3b096b41ef9e3e0a2f",
+    "wof:geomhash":"73d499a6f83d1f6334a96b51701dcf6d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,11 +171,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502662,
+    "wof:lastmodified":1684354782,
     "wof:name":"Ilirska Bistrica",
     "wof:parent_id":1108959953,
     "wof:placetype":"localadmin",
-    "wof:population":13866,
+    "wof:population":13297,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

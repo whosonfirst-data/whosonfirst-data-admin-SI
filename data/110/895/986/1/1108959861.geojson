@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dol pri Ljubljani",
+    "eurostat:nuts_2021_id":"022",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI041",
+    "eurostat:nuts_2021_level_lau":"022",
+    "eurostat:population":6310,
+    "eurostat:population_year":2020,
     "geom:area":0.003873,
-    "geom:area_square_m":33206670.971279,
+    "geom:area_square_m":33206663.877521,
     "geom:bbox":"14.59046,46.07302,14.753672,46.120218",
     "geom:latitude":46.093944,
     "geom:longitude":14.672963,
@@ -61,8 +73,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -80,9 +92,13 @@
         1108959949
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_022",
+        "eurostat:nuts_2021_id":"022"
+    },
     "wof:country":"SI",
     "wof:created":1493417117,
-    "wof:geomhash":"3895825839736daf6dc8632376b1b52f",
+    "wof:geomhash":"f630fe8b5636fd007a7aa86bd79ee527",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,11 +114,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1642551780,
+    "wof:lastmodified":1684354781,
     "wof:name":"Dol pri Ljubljani",
     "wof:parent_id":1108959949,
     "wof:placetype":"localadmin",
-    "wof:population":5666,
+    "wof:population":6310,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

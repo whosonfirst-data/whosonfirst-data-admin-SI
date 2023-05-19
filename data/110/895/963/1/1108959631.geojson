@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_127",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0160tore",
+    "eurostat:nuts_2021_id":"127",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI034",
+    "eurostat:nuts_2021_level_lau":"127",
+    "eurostat:population":4529,
+    "eurostat:population_year":2020,
     "geom:area":0.003281,
-    "geom:area_square_m":28083702.513991,
+    "geom:area_square_m":28083724.903043,
     "geom:bbox":"15.278961,46.163073,15.360506,46.233168",
     "geom:latitude":46.198425,
     "geom:longitude":15.322748,
@@ -91,8 +103,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -110,9 +122,13 @@
         1108959959
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_127",
+        "eurostat:nuts_2021_id":"127"
+    },
     "wof:country":"SI",
     "wof:created":1493417085,
-    "wof:geomhash":"9acd1c1955deffd3f2b307b610e1cb1f",
+    "wof:geomhash":"7beedc8ac48e071be00a3ffd34b81c4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,11 +144,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862542,
+    "wof:lastmodified":1684354770,
     "wof:name":"\u0160tore",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",
-    "wof:population":4292,
+    "wof:population":4529,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

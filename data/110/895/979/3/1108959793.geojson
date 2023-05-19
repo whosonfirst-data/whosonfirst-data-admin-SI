@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stra\u017ea",
+    "eurostat:nuts_2021_id":"203",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI037",
+    "eurostat:nuts_2021_level_lau":"203",
+    "eurostat:population":3936,
+    "eurostat:population_year":2020,
     "geom:area":0.003301,
-    "geom:area_square_m":28468883.046073,
+    "geom:area_square_m":28468882.694003,
     "geom:bbox":"15.052452,45.731008,15.1246,45.81837",
     "geom:latitude":45.777287,
     "geom:longitude":15.091297,
@@ -70,8 +82,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"2006-04-06",
     "svn-sma:dv_od":"2006-04-12",
     "svn-sma:enota":"OB",
@@ -89,9 +101,13 @@
         1108959943
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_203",
+        "eurostat:nuts_2021_id":"203"
+    },
     "wof:country":"SI",
     "wof:created":1493417105,
-    "wof:geomhash":"08ae3073ebb3b2ad068a9fd16e7bc6b4",
+    "wof:geomhash":"4ae3668fd7d6ec602d0f34c723a358a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,11 +123,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862542,
+    "wof:lastmodified":1684354778,
     "wof:name":"Stra\u017ea",
     "wof:parent_id":1108959943,
     "wof:placetype":"localadmin",
-    "wof:population":3890,
+    "wof:population":3936,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_143",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zavr\u010d",
+    "eurostat:nuts_2021_id":"143",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI032",
+    "eurostat:nuts_2021_level_lau":"143",
+    "eurostat:population":1479,
+    "eurostat:population_year":2020,
     "geom:area":0.00226,
-    "geom:area_square_m":19282135.049516,
+    "geom:area_square_m":19282138.627698,
     "geom:bbox":"16.015442,46.334836,16.077554,46.392769",
     "geom:latitude":46.361549,
     "geom:longitude":16.046047,
@@ -49,8 +61,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -68,9 +80,13 @@
         1108959961
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_143",
+        "eurostat:nuts_2021_id":"143"
+    },
     "wof:country":"SI",
     "wof:created":1493417082,
-    "wof:geomhash":"57ef04c0342334cdba094bfeaf340f2e",
+    "wof:geomhash":"5d99999cfdf0a89c14b7fa66c1bc75f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,11 +102,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862545,
+    "wof:lastmodified":1684354769,
     "wof:name":"Zavr\u010d",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",
-    "wof:population":1740,
+    "wof:population":1479,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

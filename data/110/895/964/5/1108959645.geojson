@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_112",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Slovenj Gradec",
+    "eurostat:nuts_2021_id":"112",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI033",
+    "eurostat:nuts_2021_level_lau":"112",
+    "eurostat:population":16591,
+    "eurostat:population_year":2020,
     "geom:area":0.020355,
-    "geom:area_square_m":173290246.741281,
+    "geom:area_square_m":173290229.359685,
     "geom:bbox":"14.953323,46.418814,15.195373,46.566107",
     "geom:latitude":46.489384,
     "geom:longitude":15.078705,
@@ -161,8 +173,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -180,9 +192,13 @@
         1108959955
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_112",
+        "eurostat:nuts_2021_id":"112"
+    },
     "wof:country":"SI",
     "wof:created":1493417086,
-    "wof:geomhash":"ad00dce56a26f45e1a47f726b50680a0",
+    "wof:geomhash":"a9b5a6e36b02da5444630b28d11702ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -198,11 +214,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502647,
+    "wof:lastmodified":1684354770,
     "wof:name":"Slovenj Gradec",
     "wof:parent_id":1108959955,
     "wof:placetype":"localadmin",
-    "wof:population":16870,
+    "wof:population":16591,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kuzma",
+    "eurostat:nuts_2021_id":"056",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI031",
+    "eurostat:nuts_2021_level_lau":"056",
+    "eurostat:population":1573,
+    "eurostat:population_year":2020,
     "geom:area":0.002695,
-    "geom:area_square_m":22793190.114908,
+    "geom:area_square_m":22793206.61349,
     "geom:bbox":"16.05427,46.810558,16.13732,46.86928",
     "geom:latitude":46.840459,
     "geom:longitude":16.094685,
@@ -64,8 +76,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -83,9 +95,13 @@
         1108959945
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_056",
+        "eurostat:nuts_2021_id":"056"
+    },
     "wof:country":"SI",
     "wof:created":1493417062,
-    "wof:geomhash":"055a74e57976e5a4d655e9435cd6b924",
+    "wof:geomhash":"bd17f5c8d9e28d8e399635257f6b82ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,11 +117,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502662,
+    "wof:lastmodified":1684354762,
     "wof:name":"Kuzma",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",
-    "wof:population":1584,
+    "wof:population":1573,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

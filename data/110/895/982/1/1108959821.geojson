@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_122",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0160kofja Loka",
+    "eurostat:nuts_2021_id":"122",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI042",
+    "eurostat:nuts_2021_level_lau":"122",
+    "eurostat:population":23297,
+    "eurostat:population_year":2020,
     "geom:area":0.017009,
-    "geom:area_square_m":145670963.297782,
+    "geom:area_square_m":145670976.666404,
     "geom:bbox":"14.161364,46.09612,14.395351,46.24145",
     "geom:latitude":46.161102,
     "geom:longitude":14.276241,
@@ -148,8 +160,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -167,9 +179,13 @@
         1108959967
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_122",
+        "eurostat:nuts_2021_id":"122"
+    },
     "wof:country":"SI",
     "wof:created":1493417110,
-    "wof:geomhash":"d70004588693f35e2a63b010c7ffbd7d",
+    "wof:geomhash":"356fa89c4d53271b06b1b6b4bf1e91cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,11 +201,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862541,
+    "wof:lastmodified":1684354779,
     "wof:name":"\u0160kofja Loka",
     "wof:parent_id":1108959967,
     "wof:placetype":"localadmin",
-    "wof:population":22901,
+    "wof:population":23297,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

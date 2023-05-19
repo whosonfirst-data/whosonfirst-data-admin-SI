@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_177",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ribnica na Pohorju",
+    "eurostat:nuts_2021_id":"177",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI033",
+    "eurostat:nuts_2021_level_lau":"177",
+    "eurostat:population":1116,
+    "eurostat:population_year":2020,
     "geom:area":0.006956,
-    "geom:area_square_m":59177177.691731,
+    "geom:area_square_m":59177218.010191,
     "geom:bbox":"15.18844,46.486773,15.324976,46.569075",
     "geom:latitude":46.524017,
     "geom:longitude":15.25986,
@@ -97,8 +109,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1998-11-22",
     "svn-sma:dv_od":"1998-11-27",
     "svn-sma:enota":"OB",
@@ -116,9 +128,13 @@
         1108959955
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_177",
+        "eurostat:nuts_2021_id":"177"
+    },
     "wof:country":"SI",
     "wof:created":1493417102,
-    "wof:geomhash":"c52cd2b7587d5bb341142f584eb33615",
+    "wof:geomhash":"fb040c7e7d23bd457e8dfacc0bf6e6af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,11 +150,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502654,
+    "wof:lastmodified":1684354776,
     "wof:name":"Ribnica na Pohorju",
     "wof:parent_id":1108959955,
     "wof:placetype":"localadmin",
-    "wof:population":1198,
+    "wof:population":1116,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

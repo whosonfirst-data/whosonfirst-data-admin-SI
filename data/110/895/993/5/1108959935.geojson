@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_097",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Puconci",
+    "eurostat:nuts_2021_id":"097",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI031",
+    "eurostat:nuts_2021_level_lau":"097",
+    "eurostat:population":5873,
+    "eurostat:population_year":2020,
     "geom:area":0.012673,
-    "geom:area_square_m":107382308.399819,
+    "geom:area_square_m":107382336.618284,
     "geom:bbox":"16.044413,46.684192,16.213165,46.826027",
     "geom:latitude":46.744425,
     "geom:longitude":16.133895,
@@ -109,8 +121,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -128,9 +140,13 @@
         1108959945
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_097",
+        "eurostat:nuts_2021_id":"097"
+    },
     "wof:country":"SI",
     "wof:created":1493417128,
-    "wof:geomhash":"3441c0dce4939f041b0dad0d28d92fea",
+    "wof:geomhash":"549afcf9af1b871cf7922769aa2c99fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,11 +162,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502659,
+    "wof:lastmodified":1684354785,
     "wof:name":"Puconci",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",
-    "wof:population":6098,
+    "wof:population":5873,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

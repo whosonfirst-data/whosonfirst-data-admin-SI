@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_204",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sveta Trojica v Slov. goricah",
+    "eurostat:nuts_2021_id":"204",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI032",
+    "eurostat:nuts_2021_level_lau":"204",
+    "eurostat:population":2101,
+    "eurostat:population_year":2020,
     "geom:area":0.003041,
-    "geom:area_square_m":25847494.730515,
+    "geom:area_square_m":25847557.636773,
     "geom:bbox":"15.841896,46.533067,15.944326,46.600703",
     "geom:latitude":46.569798,
     "geom:longitude":15.886113,
@@ -31,8 +43,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"2006-04-06",
     "svn-sma:dv_od":"2006-04-12",
     "svn-sma:enota":"OB",
@@ -50,9 +62,13 @@
         1108959961
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_204",
+        "eurostat:nuts_2021_id":"204"
+    },
     "wof:country":"SI",
     "wof:created":1493417108,
-    "wof:geomhash":"cacda770370a17016bba66fb2322588a",
+    "wof:geomhash":"7a86cb0cde2404b59eb7bddaa3dcad05",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,11 +84,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862543,
+    "wof:lastmodified":1684354778,
     "wof:name":"Sveta Trojica v Slovenskih goricah",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",
-    "wof:population":2100,
+    "wof:population":2101,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

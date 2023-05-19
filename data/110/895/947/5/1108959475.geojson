@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lendava/Lendva",
+    "eurostat:nuts_2021_id":"059",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI031",
+    "eurostat:nuts_2021_level_lau":"059",
+    "eurostat:population":10426,
+    "eurostat:population_year":2020,
     "geom:area":0.014422,
-    "geom:area_square_m":122625539.567182,
+    "geom:area_square_m":122625479.010595,
     "geom:bbox":"16.312309,46.462103,16.610631,46.638191",
     "geom:latitude":46.555509,
     "geom:longitude":16.446681,
@@ -133,8 +145,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1998-11-22",
     "svn-sma:dv_od":"1998-11-27",
     "svn-sma:enota":"OB",
@@ -152,9 +164,13 @@
         1108959945
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_059",
+        "eurostat:nuts_2021_id":"059"
+    },
     "wof:country":"SI",
     "wof:created":1493417056,
-    "wof:geomhash":"0affba17efe3ca954f1ce1dea9660e5d",
+    "wof:geomhash":"a505655ffbc492111d4c6f04d9b542b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,11 +186,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862533,
+    "wof:lastmodified":1684354760,
     "wof:name":"Lendava",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",
-    "wof:population":10721,
+    "wof:population":10426,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

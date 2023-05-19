@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_126",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0160o\u0161tanj",
+    "eurostat:nuts_2021_id":"126",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI034",
+    "eurostat:nuts_2021_level_lau":"126",
+    "eurostat:population":8784,
+    "eurostat:population_year":2020,
     "geom:area":0.011185,
-    "geom:area_square_m":95365158.629841,
+    "geom:area_square_m":95365205.875334,
     "geom:bbox":"14.881568,46.348617,15.090631,46.456005",
     "geom:latitude":46.406072,
     "geom:longitude":15.005032,
@@ -67,8 +79,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -86,9 +98,13 @@
         1108959959
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_126",
+        "eurostat:nuts_2021_id":"126"
+    },
     "wof:country":"SI",
     "wof:created":1493417097,
-    "wof:geomhash":"dc053a00a97f06130dc30f10a87444c8",
+    "wof:geomhash":"539eb7670ebc0b0990c897c78194c0bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,11 +120,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862542,
+    "wof:lastmodified":1684354774,
     "wof:name":"\u0160o\u0161tanj",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",
-    "wof:population":8750,
+    "wof:population":8784,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_096",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ptuj",
+    "eurostat:nuts_2021_id":"096",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI032",
+    "eurostat:nuts_2021_level_lau":"096",
+    "eurostat:population":23530,
+    "eurostat:population_year":2020,
     "geom:area":0.007804,
-    "geom:area_square_m":66494594.739414,
+    "geom:area_square_m":66494600.81082,
     "geom:bbox":"15.77509,46.385596,15.946046,46.497418",
     "geom:latitude":46.441904,
     "geom:longitude":15.874002,
@@ -184,8 +196,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -203,9 +215,13 @@
         1108959961
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_096",
+        "eurostat:nuts_2021_id":"096"
+    },
     "wof:country":"SI",
     "wof:created":1493417088,
-    "wof:geomhash":"3f2f8964e200e9047bf11c0811973da9",
+    "wof:geomhash":"30b5ca5cb711244558cf3e021b1d178a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -221,11 +237,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1642551820,
+    "wof:lastmodified":1684354771,
     "wof:name":"Ptuj",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",
-    "wof:population":23404,
+    "wof:population":23530,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

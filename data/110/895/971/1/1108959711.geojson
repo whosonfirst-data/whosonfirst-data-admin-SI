@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_165",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kostel",
+    "eurostat:nuts_2021_id":"165",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI037",
+    "eurostat:nuts_2021_level_lau":"165",
+    "eurostat:population":635,
+    "eurostat:population_year":2020,
     "geom:area":0.006458,
-    "geom:area_square_m":55968413.333866,
+    "geom:area_square_m":55968378.85958,
     "geom:bbox":"14.78714,45.459146,14.962389,45.540029",
     "geom:latitude":45.49898,
     "geom:longitude":14.86174,
@@ -67,8 +79,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1998-11-22",
     "svn-sma:dv_od":"1998-11-27",
     "svn-sma:enota":"OB",
@@ -86,9 +98,13 @@
         1108959943
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_165",
+        "eurostat:nuts_2021_id":"165"
+    },
     "wof:country":"SI",
     "wof:created":1493417095,
-    "wof:geomhash":"f10747d6dba56bbea538ca483aabbdf0",
+    "wof:geomhash":"9bc7c58b1fedd565c0b80be459aece19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,11 +120,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502652,
+    "wof:lastmodified":1684354774,
     "wof:name":"Kostel",
     "wof:parent_id":1108959943,
     "wof:placetype":"localadmin",
-    "wof:population":644,
+    "wof:population":635,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

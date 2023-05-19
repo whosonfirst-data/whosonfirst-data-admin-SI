@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_183",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0160empeter - Vrtojba",
+    "eurostat:nuts_2021_id":"183",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI043",
+    "eurostat:nuts_2021_level_lau":"183",
+    "eurostat:population":6292,
+    "eurostat:population_year":2020,
     "geom:area":0.001734,
-    "geom:area_square_m":14912921.855458,
+    "geom:area_square_m":14912927.854558,
     "geom:bbox":"13.611373,45.896132,13.686287,45.939387",
     "geom:latitude":45.915412,
     "geom:longitude":13.646757,
@@ -31,8 +43,8 @@
     "mz:min_zoom":12.0,
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1998-11-22",
     "svn-sma:dv_od":"1998-11-27",
     "svn-sma:enota":"OB",
@@ -50,9 +62,13 @@
         1108959947
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_183",
+        "eurostat:nuts_2021_id":"183"
+    },
     "wof:country":"SI",
     "wof:created":1493417084,
-    "wof:geomhash":"8f13b9764eaad097deebe4d8ab74bdab",
+    "wof:geomhash":"2be0774b7c6fe6c37daa826e1d2954dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,11 +84,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862540,
+    "wof:lastmodified":1684354770,
     "wof:name":"\u0160empeter-Vrtojba",
     "wof:parent_id":1108959947,
     "wof:placetype":"localadmin",
-    "wof:population":6348,
+    "wof:population":6292,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

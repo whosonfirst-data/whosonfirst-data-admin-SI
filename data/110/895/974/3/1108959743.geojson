@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_196",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cirkulane",
+    "eurostat:nuts_2021_id":"196",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI032",
+    "eurostat:nuts_2021_level_lau":"196",
+    "eurostat:population":2345,
+    "eurostat:population_year":2020,
     "geom:area":0.003747,
-    "geom:area_square_m":31989990.827714,
+    "geom:area_square_m":31990007.968664,
     "geom:bbox":"15.951713,46.307177,16.035042,46.382817",
     "geom:latitude":46.34161,
     "geom:longitude":15.995301,
@@ -82,8 +94,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"2006-04-06",
     "svn-sma:dv_od":"2006-04-12",
     "svn-sma:enota":"OB",
@@ -101,9 +113,13 @@
         1108959961
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_196",
+        "eurostat:nuts_2021_id":"196"
+    },
     "wof:country":"SI",
     "wof:created":1493417098,
-    "wof:geomhash":"affa6e7448a3bf673b6bebf0cd6239a5",
+    "wof:geomhash":"2022a48c65a289ed8606ed1db318cdd5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,11 +135,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862527,
+    "wof:lastmodified":1684354775,
     "wof:name":"Cirkulane",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",
-    "wof:population":2312,
+    "wof:population":2345,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

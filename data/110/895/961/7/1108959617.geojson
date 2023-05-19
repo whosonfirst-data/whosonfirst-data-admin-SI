@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_128",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tolmin",
+    "eurostat:nuts_2021_id":"128",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI043",
+    "eurostat:nuts_2021_level_lau":"128",
+    "eurostat:population":11003,
+    "eurostat:population_year":2020,
     "geom:area":0.044539,
-    "geom:area_square_m":381391841.871561,
+    "geom:area_square_m":381391954.49805,
     "geom:bbox":"13.619019,46.004974,14.008625,46.282748",
     "geom:latitude":46.169827,
     "geom:longitude":13.808908,
@@ -73,8 +85,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -92,9 +104,13 @@
         1108959947
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_128",
+        "eurostat:nuts_2021_id":"128"
+    },
     "wof:country":"SI",
     "wof:created":1493417082,
-    "wof:geomhash":"c80d39d46853ae9585f8eff0a27fe58b",
+    "wof:geomhash":"fa1d6d2c76852dd9352fff93eaf78846",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,11 +126,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502657,
+    "wof:lastmodified":1684354769,
     "wof:name":"Tolmin",
     "wof:parent_id":1108959947,
     "wof:placetype":"localadmin",
-    "wof:population":11578,
+    "wof:population":11003,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

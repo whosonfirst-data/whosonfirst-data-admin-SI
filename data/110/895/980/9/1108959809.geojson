@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_209",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Re\u010dica ob Savinji",
+    "eurostat:nuts_2021_id":"209",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI034",
+    "eurostat:nuts_2021_level_lau":"209",
+    "eurostat:population":2322,
+    "eurostat:population_year":2020,
     "geom:area":0.003518,
-    "geom:area_square_m":30040615.542263,
+    "geom:area_square_m":30040651.618287,
     "geom:bbox":"14.865753,46.294957,14.944607,46.369611",
     "geom:latitude":46.32794,
     "geom:longitude":14.903166,
@@ -79,8 +91,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"2006-07-18",
     "svn-sma:dv_od":"2006-07-20",
     "svn-sma:enota":"OB",
@@ -98,9 +110,13 @@
         1108959959
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_209",
+        "eurostat:nuts_2021_id":"209"
+    },
     "wof:country":"SI",
     "wof:created":1493417109,
-    "wof:geomhash":"39239f3e64c8a9c15f0b3954a600fc5b",
+    "wof:geomhash":"3381779f6ec5040e12a2a30fe728e6db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,11 +132,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862539,
+    "wof:lastmodified":1684354779,
     "wof:name":"Re\u010dica ob Savinji",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",
-    "wof:population":2306,
+    "wof:population":2322,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

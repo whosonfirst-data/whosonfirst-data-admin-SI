@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_081",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Muta",
+    "eurostat:nuts_2021_id":"081",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI033",
+    "eurostat:nuts_2021_level_lau":"081",
+    "eurostat:population":3414,
+    "eurostat:population_year":2020,
     "geom:area":0.004555,
-    "geom:area_square_m":38679473.673536,
+    "geom:area_square_m":38679497.194641,
     "geom:bbox":"15.082342,46.591483,15.18981,46.65988",
     "geom:latitude":46.627521,
     "geom:longitude":15.134883,
@@ -58,8 +70,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -77,9 +89,13 @@
         1108959955
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_081",
+        "eurostat:nuts_2021_id":"081"
+    },
     "wof:country":"SI",
     "wof:created":1493417096,
-    "wof:geomhash":"de7c973109eac96ccef3b0aec0ef68dc",
+    "wof:geomhash":"51570962867b157b58463c3620205280",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,11 +111,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502666,
+    "wof:lastmodified":1684354774,
     "wof:name":"Muta",
     "wof:parent_id":1108959955,
     "wof:placetype":"localadmin",
-    "wof:population":3457,
+    "wof:population":3414,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

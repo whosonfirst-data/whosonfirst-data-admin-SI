@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_087",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ormo\u017e",
+    "eurostat:nuts_2021_id":"087",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI032",
+    "eurostat:nuts_2021_level_lau":"087",
+    "eurostat:population":11906,
+    "eurostat:population_year":2020,
     "geom:area":0.016571,
-    "geom:area_square_m":141209629.955341,
+    "geom:area_square_m":141209693.508144,
     "geom:bbox":"16.01659,46.377712,16.270502,46.500584",
     "geom:latitude":46.437634,
     "geom:longitude":16.151486,
@@ -79,8 +91,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -98,9 +110,13 @@
         1108959961
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_087",
+        "eurostat:nuts_2021_id":"087"
+    },
     "wof:country":"SI",
     "wof:created":1493417101,
-    "wof:geomhash":"f9545f4f734d549a3f7f9a9b29070e19",
+    "wof:geomhash":"746010cb1ba8c1df85cd73818a53d38e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,11 +132,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862536,
+    "wof:lastmodified":1684354776,
     "wof:name":"Ormo\u017e",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",
-    "wof:population":12526,
+    "wof:population":11906,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_099",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rade\u010de",
+    "eurostat:nuts_2021_id":"099",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI036",
+    "eurostat:nuts_2021_level_lau":"099",
+    "eurostat:population":4139,
+    "eurostat:population_year":2020,
     "geom:area":0.006043,
-    "geom:area_square_m":51853891.889942,
+    "geom:area_square_m":51853796.650506,
     "geom:bbox":"15.066109,46.025295,15.236427,46.093653",
     "geom:latitude":46.059762,
     "geom:longitude":15.144145,
@@ -103,8 +115,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -122,9 +134,13 @@
         1108959965
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_099",
+        "eurostat:nuts_2021_id":"099"
+    },
     "wof:country":"SI",
     "wof:created":1493417121,
-    "wof:geomhash":"dc1030483f70951f0a92f50527a5f4d9",
+    "wof:geomhash":"0f1ad74808307aa9deebf8c593deb304",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,11 +156,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862538,
+    "wof:lastmodified":1684354783,
     "wof:name":"Rade\u010de",
     "wof:parent_id":1108959965,
     "wof:placetype":"localadmin",
-    "wof:population":4396,
+    "wof:population":4139,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

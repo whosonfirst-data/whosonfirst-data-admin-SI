@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_111",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Se\u017eana",
+    "eurostat:nuts_2021_id":"111",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI044",
+    "eurostat:nuts_2021_level_lau":"111",
+    "eurostat:population":13551,
+    "eurostat:population_year":2020,
     "geom:area":0.025131,
-    "geom:area_square_m":216893565.174947,
+    "geom:area_square_m":216893535.257359,
     "geom:bbox":"13.708266,45.641448,14.00026,45.811371",
     "geom:latitude":45.736169,
     "geom:longitude":13.881634,
@@ -121,8 +133,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -140,9 +152,13 @@
         1108959951
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_111",
+        "eurostat:nuts_2021_id":"111"
+    },
     "wof:country":"SI",
     "wof:created":1493417104,
-    "wof:geomhash":"45ac457a2f6bc29c846f45885f425fa1",
+    "wof:geomhash":"5f7ceb99e2320ddd79d2afd832c4f012",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,11 +174,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862541,
+    "wof:lastmodified":1684354777,
     "wof:name":"Se\u017eana",
     "wof:parent_id":1108959951,
     "wof:placetype":"localadmin",
-    "wof:population":13036,
+    "wof:population":13551,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_132",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Turni\u0161\u010de",
+    "eurostat:nuts_2021_id":"132",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI031",
+    "eurostat:nuts_2021_level_lau":"132",
+    "eurostat:population":3145,
+    "eurostat:population_year":2020,
     "geom:area":0.0028,
-    "geom:area_square_m":23782022.989997,
+    "geom:area_square_m":23782023.570712,
     "geom:bbox":"16.262865,46.582698,16.370075,46.647115",
     "geom:latitude":46.616039,
     "geom:longitude":16.31344,
@@ -67,8 +79,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -86,9 +98,13 @@
         1108959945
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_132",
+        "eurostat:nuts_2021_id":"132"
+    },
     "wof:country":"SI",
     "wof:created":1493417080,
-    "wof:geomhash":"d10258287ca28f2a8061a691eb5790bf",
+    "wof:geomhash":"4f84eb4570b023d320ec55594e225443",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,11 +120,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862544,
+    "wof:lastmodified":1684354769,
     "wof:name":"Turni\u0161\u010de",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",
-    "wof:population":3338,
+    "wof:population":3145,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

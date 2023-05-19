@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_136",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vipava",
+    "eurostat:nuts_2021_id":"136",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI043",
+    "eurostat:nuts_2021_level_lau":"136",
+    "eurostat:population":5703,
+    "eurostat:population_year":2020,
     "geom:area":0.012435,
-    "geom:area_square_m":107157877.774911,
+    "geom:area_square_m":107157864.279971,
     "geom:bbox":"13.891009,45.761283,14.07028,45.881134",
     "geom:latitude":45.821857,
     "geom:longitude":13.984786,
@@ -52,8 +64,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -71,9 +83,13 @@
         1108959947
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_136",
+        "eurostat:nuts_2021_id":"136"
+    },
     "wof:country":"SI",
     "wof:created":1493417083,
-    "wof:geomhash":"6d9353bf3e22f38ccd71637b23fcafba",
+    "wof:geomhash":"695b7258cfa0183e8030e02d8a61fd9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,11 +105,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502645,
+    "wof:lastmodified":1684354770,
     "wof:name":"Vipava",
     "wof:parent_id":1108959947,
     "wof:placetype":"localadmin",
-    "wof:population":5553,
+    "wof:population":5703,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

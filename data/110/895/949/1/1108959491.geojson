@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_069",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Maj\u0161perk",
+    "eurostat:nuts_2021_id":"069",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI03",
+    "eurostat:nuts_2021_level_3":"SI032",
+    "eurostat:nuts_2021_level_lau":"069",
+    "eurostat:population":4056,
+    "eurostat:population_year":2020,
     "geom:area":0.008503,
-    "geom:area_square_m":72611595.364317,
+    "geom:area_square_m":72611606.369165,
     "geom:bbox":"15.666541,46.26194,15.814113,46.369405",
     "geom:latitude":46.3244,
     "geom:longitude":15.739472,
@@ -58,8 +70,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -77,9 +89,13 @@
         1108959961
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_069",
+        "eurostat:nuts_2021_id":"069"
+    },
     "wof:country":"SI",
     "wof:created":1493417058,
-    "wof:geomhash":"3569bb33f4aecf398f6125ba4e264855",
+    "wof:geomhash":"9fcd117b8e2bac74a8e8295b80f1a63a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,11 +111,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1618862534,
+    "wof:lastmodified":1684354761,
     "wof:name":"Maj\u0161perk",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",
-    "wof:population":3980,
+    "wof:population":4056,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

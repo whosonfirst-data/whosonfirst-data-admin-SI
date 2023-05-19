@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Koper/Capodistria",
+    "eurostat:nuts_2021_id":"050",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI044",
+    "eurostat:nuts_2021_level_lau":"050",
+    "eurostat:population":52630,
+    "eurostat:population_year":2020,
     "geom:area":0.034904,
-    "geom:area_square_m":302456547.491519,
+    "geom:area_square_m":302456573.231439,
     "geom:bbox":"13.670315,45.425234,14.001891,45.610805",
     "geom:latitude":45.50969,
     "geom:longitude":13.838099,
@@ -208,8 +220,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"2015-02-25",
     "svn-sma:dv_od":"2015-02-25",
     "svn-sma:enota":"OB",
@@ -227,9 +239,13 @@
         1108959951
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_050",
+        "eurostat:nuts_2021_id":"050"
+    },
     "wof:country":"SI",
     "wof:created":1493417064,
-    "wof:geomhash":"3035875b02cfd1bd10bb8274d5920590",
+    "wof:geomhash":"f1edbf060ade70a72f3b71dc27d2d45e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -245,11 +261,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502647,
+    "wof:lastmodified":1684354763,
     "wof:name":"Koper",
     "wof:parent_id":1108959951,
     "wof:placetype":"localadmin",
-    "wof:population":51048,
+    "wof:population":52630,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],

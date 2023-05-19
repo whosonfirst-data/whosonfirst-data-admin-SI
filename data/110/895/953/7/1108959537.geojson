@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"SI",
+    "eurostat:gisco_id":"SI_044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kanal",
+    "eurostat:nuts_2021_id":"044",
+    "eurostat:nuts_2021_level_0":"SI",
+    "eurostat:nuts_2021_level_1":"SI0",
+    "eurostat:nuts_2021_level_2":"SI04",
+    "eurostat:nuts_2021_level_3":"SI043",
+    "eurostat:nuts_2021_level_lau":"044",
+    "eurostat:population":5291,
+    "eurostat:population_year":2020,
     "geom:area":0.017042,
-    "geom:area_square_m":146166050.024102,
+    "geom:area_square_m":146165939.123495,
     "geom:bbox":"13.529176,45.99683,13.772269,46.17118",
     "geom:latitude":46.083651,
     "geom:longitude":13.652259,
@@ -118,8 +130,8 @@
     ],
     "src:geom":"svn-sma",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2013-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "svn-sma:d_od":"1995-01-01",
     "svn-sma:dv_od":"1995-01-01",
     "svn-sma:enota":"OB",
@@ -137,9 +149,13 @@
         1108959947
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"SI_044",
+        "eurostat:nuts_2021_id":"044"
+    },
     "wof:country":"SI",
     "wof:created":1493417065,
-    "wof:geomhash":"b33c0d0b50db86d5e2007970a51f9a5b",
+    "wof:geomhash":"004d6e5c2525944d19b99508b845082d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,11 +171,11 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1636502643,
+    "wof:lastmodified":1684354763,
     "wof:name":"Kanal",
     "wof:parent_id":1108959947,
     "wof:placetype":"localadmin",
-    "wof:population":5644,
+    "wof:population":5291,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],
