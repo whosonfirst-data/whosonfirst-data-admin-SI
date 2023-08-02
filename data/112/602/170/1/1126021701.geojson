@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Bukovci"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u0443\u043a\u043e\u0432\u0446\u0438"
+    ],
     "name:deu_x_preferred":[
         "Bukovci"
     ],
@@ -35,6 +38,9 @@
         "Bukovci"
     ],
     "name:fra_x_preferred":[
+        "Bukovci"
+    ],
+    "name:hrv_x_preferred":[
         "Bukovci"
     ],
     "name:nld_x_preferred":[
@@ -48,6 +54,9 @@
     ],
     "name:slv_x_preferred":[
         "Bukovci"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0443\u043a\u043e\u0432\u0446\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0443\u043a\u043e\u0432\u0446\u0456"
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":1126021701,
-    "wof:lastmodified":1566645042,
+    "wof:lastmodified":1690863796,
     "wof:name":"Bukovci",
     "wof:parent_id":1108959779,
     "wof:placetype":"locality",

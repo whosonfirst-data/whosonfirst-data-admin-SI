@@ -29,6 +29,9 @@
     "name:ces_x_preferred":[
         "Ob\u010dina Cerklje na Gorenjskem"
     ],
+    "name:che_x_preferred":[
+        "\u0426\u0435\u0440\u043a\u043b\u0435-\u043d\u0430-\u0413\u043e\u0440\u0435\u043d\u0441\u044c\u043a\u0435\u043c"
+    ],
     "name:deu_x_preferred":[
         "Cerklje na Gorenjskem"
     ],
@@ -74,6 +77,12 @@
     "name:nld_x_preferred":[
         "Cerklje na Gorenjskem"
     ],
+    "name:nno_x_preferred":[
+        "Cerklje na Gorenjskem"
+    ],
+    "name:nob_x_preferred":[
+        "Cerklje na Gorenjskem"
+    ],
     "name:pol_x_preferred":[
         "Gmina Cerklje na Gorenjskem"
     ],
@@ -110,6 +119,15 @@
     "name:srp_x_variant":[
         "\u0426\u0435\u0440\u043a\u0459\u0435 \u043d\u0430 \u0413\u043e\u0440\u0435\u045a\u0441\u043a\u0435\u043c"
     ],
+    "name:swe_x_preferred":[
+        "Cerklje na Gorenjskem"
+    ],
+    "name:tat_x_preferred":[
+        "\u0426\u0435\u0440\u043a\u043b\u0435-\u043d\u0430-\u0413\u043e\u0440\u0435\u043d\u0441\u044c\u043a\u0435\u043c"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e0b\u0e23\u0e4c\u0e41\u0e04\u0e25\u0e19\u0e32\u0e01\u0e2d\u0e40\u0e23\u0e19\u0e2a\u0e41\u0e01\u0e47\u0e21"
+    ],
     "name:ukr_x_preferred":[
         "\u0426\u0435\u0440\u043a\u043b\u0454-\u043d\u0430-\u0413\u043e\u0440\u0435\u043d\u0441\u044c\u043a\u0435\u043c"
     ],
@@ -121,6 +139,9 @@
     ],
     "name:vie_x_preferred":[
         "Cerklje na Gorenjskem"
+    ],
+    "name:zho_x_preferred":[
+        "\u6208\u96f7\u5c3c\u65af\u5361\u5730\u5340\u91c7\u723e\u514b\u5217"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -165,7 +186,7 @@
         }
     ],
     "wof:id":101792049,
-    "wof:lastmodified":1636502679,
+    "wof:lastmodified":1690863772,
     "wof:name":"Cerklje na Gorenjskem",
     "wof:parent_id":1108959493,
     "wof:placetype":"locality",

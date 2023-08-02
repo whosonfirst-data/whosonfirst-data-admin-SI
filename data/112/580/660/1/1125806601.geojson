@@ -34,6 +34,9 @@
     "name:ces_x_preferred":[
         "Strunjan"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u0442\u0440\u0443\u043d\u044f\u043d"
+    ],
     "name:deu_x_preferred":[
         "Strunjan"
     ],
@@ -41,6 +44,9 @@
         "Strunjan"
     ],
     "name:fra_x_preferred":[
+        "Strunjan"
+    ],
+    "name:hrv_x_preferred":[
         "Strunjan"
     ],
     "name:ita_x_preferred":[
@@ -60,6 +66,12 @@
     ],
     "name:spa_x_preferred":[
         "Strunjan"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0440\u0443\u045a\u0430\u043d"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0442\u0440\u0443\u043d\u044f\u043d"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0440\u0443\u043d\u044f\u043d"
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":1125806601,
-    "wof:lastmodified":1566645052,
+    "wof:lastmodified":1690863807,
     "wof:name":"Strunjan",
     "wof:parent_id":1108959613,
     "wof:placetype":"locality",

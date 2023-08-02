@@ -28,10 +28,16 @@
     "name:ceb_x_preferred":[
         "Pliskovica"
     ],
+    "name:che_x_preferred":[
+        "\u041f\u043b\u0438\u0441\u043a\u043e\u0432\u0438\u0446\u044f"
+    ],
     "name:eng_x_preferred":[
         "Pliskovica"
     ],
     "name:fra_x_preferred":[
+        "Pliskovica"
+    ],
+    "name:hrv_x_preferred":[
         "Pliskovica"
     ],
     "name:ita_x_preferred":[
@@ -48,6 +54,9 @@
     ],
     "name:slv_x_preferred":[
         "Pliskovica"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u043b\u0438\u0441\u043a\u043e\u0432\u0438\u0446\u044f"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u043b\u0456\u0441\u043a\u043e\u0432\u0456\u0446\u0430"
@@ -105,7 +114,7 @@
         }
     ],
     "wof:id":1125980601,
-    "wof:lastmodified":1566645066,
+    "wof:lastmodified":1690863824,
     "wof:name":"Pliskovica",
     "wof:parent_id":1108959789,
     "wof:placetype":"locality",

@@ -28,10 +28,16 @@
     "name:ceb_x_preferred":[
         "Dutovlje"
     ],
+    "name:che_x_preferred":[
+        "\u0414\u0443\u0442\u043e\u0432\u043b\u0435"
+    ],
     "name:eng_x_preferred":[
         "Dutovlje"
     ],
     "name:fra_x_preferred":[
+        "Dutovlje"
+    ],
+    "name:hrv_x_preferred":[
         "Dutovlje"
     ],
     "name:ita_x_preferred":[
@@ -51,6 +57,9 @@
     ],
     "name:slv_x_preferred":[
         "Dutovlje"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u0443\u0442\u043e\u0432\u043b\u0435"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0443\u0442\u043e\u0432\u043b\u0454"
@@ -111,7 +120,7 @@
         }
     ],
     "wof:id":1125806455,
-    "wof:lastmodified":1566645051,
+    "wof:lastmodified":1690863806,
     "wof:name":"Dutovlje",
     "wof:parent_id":1108959789,
     "wof:placetype":"locality",

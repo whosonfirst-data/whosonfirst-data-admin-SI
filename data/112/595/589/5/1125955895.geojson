@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Stara Loka"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430 \u041b\u043e\u043a\u0430"
+    ],
     "name:eng_x_preferred":[
         "Stara Loka"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:slv_x_preferred":[
         "Stara Loka"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430 \u041b\u043e\u043a\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0430 \u041b\u043e\u043a\u0430"
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1125955895,
-    "wof:lastmodified":1566645038,
+    "wof:lastmodified":1690863792,
     "wof:name":"Stara Loka",
     "wof:parent_id":1108959821,
     "wof:placetype":"locality",

@@ -27,10 +27,16 @@
     "name:ceb_x_preferred":[
         "Pesnica pri Mariboru"
     ],
+    "name:che_x_preferred":[
+        "\u041f\u0435\u0441\u043d\u0438\u0446\u044f-\u043f\u0440\u0438-\u041c\u0430\u0440\u0438\u0431\u043e\u0440\u0443"
+    ],
     "name:eng_x_preferred":[
         "Pesnica pri Mariboru"
     ],
     "name:fra_x_preferred":[
+        "Pesnica pri Mariboru"
+    ],
+    "name:hrv_x_preferred":[
         "Pesnica pri Mariboru"
     ],
     "name:nld_x_preferred":[
@@ -48,6 +54,12 @@
     "name:srp_x_preferred":[
         "\u041f\u0435\u0441\u043d\u0438\u0446\u0430 \u043f\u0440\u0438 \u041c\u0430\u0440\u0438\u0431\u043e\u0440\u0443"
     ],
+    "name:tat_x_preferred":[
+        "\u041f\u0435\u0441\u043d\u0438\u0446\u044f-\u043f\u0440\u0438-\u041c\u0430\u0440\u0438\u0431\u043e\u0440\u0443"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e1b\u0e2a\u0e19\u0e34\u0e15\u0e0b\u0e32\u0e1b\u0e23\u0e35\u0e21\u0e32\u0e23\u0e34\u0e1a\u0e2d\u0e23\u0e39"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0441\u043d\u0438\u0446\u044f-\u043f\u0440\u0438-\u041c\u0430\u0440\u0438\u0431\u043e\u0440\u0443"
     ],
@@ -61,6 +73,9 @@
         "Pesnica Pri Mariboru",
         "P\u00f6ssnitz-Hofen",
         "Pesnica pri Maribor"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u91cc\u6ce2\u723e\u9644\u8fd1\u4f69\u65af\u5c3c\u5bdf"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -116,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582358300,
+    "wof:lastmodified":1690863749,
     "wof:name":"Pesnica pri Mariboru",
     "wof:parent_id":1108959553,
     "wof:placetype":"locality",

@@ -23,10 +23,22 @@
     "name:ara_x_preferred":[
         "\u0644\u0648\u063a\u0627\u0646\u062a\u064a\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u0648\u062c\u0627\u0646\u062a\u064a\u0633"
+    ],
     "name:bos_x_preferred":[
         "Logatec"
     ],
     "name:ceb_x_preferred":[
+        "Logatec"
+    ],
+    "name:ces_x_preferred":[
+        "Logatec"
+    ],
+    "name:che_x_preferred":[
+        "\u041b\u043e\u0433\u0430\u0442\u0435\u0446\u044c"
+    ],
+    "name:deu_x_preferred":[
         "Logatec"
     ],
     "name:eng_x_preferred":[
@@ -53,8 +65,14 @@
     "name:ita_x_preferred":[
         "Logatec"
     ],
+    "name:ita_x_variant":[
+        "Longatico"
+    ],
     "name:jpn_x_preferred":[
         "\u30ed\u30ac\u30c6\u30c4"
+    ],
+    "name:lat_x_preferred":[
+        "Longaticum"
     ],
     "name:nld_x_preferred":[
         "Logatec"
@@ -63,6 +81,12 @@
         "Logatec"
     ],
     "name:ron_x_preferred":[
+        "Logatec"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0433\u0430\u0442\u0435\u0446"
+    ],
+    "name:slk_x_preferred":[
         "Logatec"
     ],
     "name:slv_x_preferred":[
@@ -83,8 +107,14 @@
     "name:tat_x_preferred":[
         "\u041b\u043e\u0433\u0430\u0442\u0435\u0442\u0441"
     ],
+    "name:tha_x_preferred":[
+        "\u0e25\u0e2d\u0e01\u0e32\u0e40\u0e15\u0e34\u0e15\u0e2a\u0e4c"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u043e\u0433\u0430\u0442\u0435\u0446\u044c"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u52a0\u6cf0\u8328"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -134,7 +164,7 @@
         }
     ],
     "wof:id":101793019,
-    "wof:lastmodified":1636502677,
+    "wof:lastmodified":1690863765,
     "wof:name":"Logatec",
     "wof:parent_id":1108959889,
     "wof:placetype":"locality",

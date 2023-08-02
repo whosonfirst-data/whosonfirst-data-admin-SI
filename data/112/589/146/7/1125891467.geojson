@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Bogojina"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u043e\u0433\u043e\u0438\u043d\u0430"
+    ],
     "name:deu_x_preferred":[
         "Bogojina"
     ],
@@ -46,6 +49,9 @@
     "name:hun_x_preferred":[
         "Bagonya"
     ],
+    "name:mkd_x_preferred":[
+        "\u0411\u043e\u0433\u043e\u0458\u0438\u043d\u0430"
+    ],
     "name:nld_x_preferred":[
         "Bogojina"
     ],
@@ -58,8 +64,17 @@
     "name:slv_x_preferred":[
         "Bogojina"
     ],
+    "name:spa_x_preferred":[
+        "Bogojina"
+    ],
     "name:sqi_x_preferred":[
         "Bogojina"
+    ],
+    "name:szl_x_preferred":[
+        "Bogojina"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u043e\u0433\u043e\u0438\u043d\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0433\u043e\u0457\u043d\u0430"
@@ -120,7 +135,7 @@
         }
     ],
     "wof:id":1125891467,
-    "wof:lastmodified":1566645049,
+    "wof:lastmodified":1690863804,
     "wof:name":"Bogojina",
     "wof:parent_id":1108959925,
     "wof:placetype":"locality",

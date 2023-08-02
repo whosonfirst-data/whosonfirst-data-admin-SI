@@ -27,6 +27,9 @@
     "name:ceb_x_preferred":[
         "Kuzma"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u0443\u0437\u043c\u0430"
+    ],
     "name:eng_x_preferred":[
         "Kuzma"
     ],
@@ -48,6 +51,9 @@
     "name:hun_x_preferred":[
         "Kuzma"
     ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0443\u0437\u043c\u0430"
+    ],
     "name:nld_x_preferred":[
         "Kuzma"
     ],
@@ -60,8 +66,17 @@
     "name:slv_x_preferred":[
         "Kuzma"
     ],
+    "name:spa_x_preferred":[
+        "Kuzma"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0443\u0437\u043c\u0430"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0443\u0437\u043c\u0430"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e04\u0e39\u0e0b\u0e21\u0e32"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0437\u043c\u0430"
@@ -71,6 +86,9 @@
     ],
     "name:vie_x_preferred":[
         "Kuzma"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u8332\u99ac"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -120,7 +138,7 @@
         }
     ],
     "wof:id":101858993,
-    "wof:lastmodified":1636502676,
+    "wof:lastmodified":1690863761,
     "wof:name":"Kuzma",
     "wof:parent_id":1108959511,
     "wof:placetype":"locality",

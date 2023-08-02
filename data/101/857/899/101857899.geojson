@@ -27,6 +27,9 @@
     "name:ceb_x_preferred":[
         "Dobje pri Planini"
     ],
+    "name:che_x_preferred":[
+        "\u0414\u043e\u0431\u0435-\u043f\u0440\u0438-\u041f\u043b\u0430\u043d\u0438\u043d\u0438"
+    ],
     "name:eng_x_preferred":[
         "Dobje pri Planini"
     ],
@@ -54,11 +57,20 @@
     "name:srp_x_preferred":[
         "\u0414\u043e\u0431\u0458\u0435 \u043f\u0440\u0438 \u041f\u043b\u0430\u043d\u0438\u043d\u0438"
     ],
+    "name:tat_x_preferred":[
+        "\u0414\u043e\u0431\u0435-\u043f\u0440\u0438-\u041f\u043b\u0430\u043d\u0438\u043d\u0438"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e14\u0e1a\u0e34\u0e41\u0e22\u0e1b\u0e23\u0e35\u0e1b\u0e25\u0e32\u0e19\u0e35\u0e19\u0e35"
+    ],
     "name:ukr_x_preferred":[
         "\u0414\u043e\u0431\u0454-\u043f\u0440\u0438-\u041f\u043b\u0430\u043d\u0438\u043d\u0456"
     ],
     "name:und_x_variant":[
         "Dobje"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u862d\u5c3c\u5c3c\u9644\u8fd1\u591a\u5225"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":101857899,
-    "wof:lastmodified":1582358301,
+    "wof:lastmodified":1690863752,
     "wof:name":"Dobje pri Planini",
     "wof:parent_id":1108959685,
     "wof:placetype":"locality",

@@ -31,10 +31,16 @@
     "name:ceb_x_preferred":[
         "Marezige"
     ],
+    "name:che_x_preferred":[
+        "\u041c\u0430\u0440\u0435\u0437\u0438\u0433\u0435"
+    ],
     "name:eng_x_preferred":[
         "Marezige"
     ],
     "name:fra_x_preferred":[
+        "Marezige"
+    ],
+    "name:hrv_x_preferred":[
         "Marezige"
     ],
     "name:ita_x_preferred":[
@@ -51,6 +57,12 @@
     ],
     "name:slv_x_preferred":[
         "Marezige"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0440\u0435\u0437\u0438\u0433\u0435"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0430\u0440\u0435\u0437\u0438\u0433\u0435"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u0435\u0437\u0438\u0433\u0435"
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":1125768309,
-    "wof:lastmodified":1566645072,
+    "wof:lastmodified":1690863833,
     "wof:name":"Marezige",
     "wof:parent_id":1108959527,
     "wof:placetype":"locality",

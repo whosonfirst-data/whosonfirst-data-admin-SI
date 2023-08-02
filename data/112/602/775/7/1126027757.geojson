@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "\u0160kale"
     ],
+    "name:che_x_preferred":[
+        "\u0428\u043a\u0430\u043b\u0435"
+    ],
     "name:eng_x_preferred":[
         "\u0160kale"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:slv_x_preferred":[
         "\u0160kale"
+    ],
+    "name:tat_x_preferred":[
+        "\u0428\u043a\u0430\u043b\u0435"
     ],
     "name:ukr_x_preferred":[
         "\u0428\u043a\u0430\u043b\u0435"
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1126027757,
-    "wof:lastmodified":1566645041,
+    "wof:lastmodified":1690863796,
     "wof:name":"\u0160kale",
     "wof:parent_id":1108959593,
     "wof:placetype":"locality",

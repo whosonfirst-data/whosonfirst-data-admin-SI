@@ -27,6 +27,9 @@
     "name:ceb_x_preferred":[
         "Mirna Pe\u010d"
     ],
+    "name:che_x_preferred":[
+        "\u041c\u0438\u0440\u043d\u0430 \u041f\u0435\u0447"
+    ],
     "name:eng_x_preferred":[
         "Mirna Pe\u010d"
     ],
@@ -66,8 +69,17 @@
     "name:srp_x_preferred":[
         "\u041c\u0438\u0440\u043d\u0430 \u041f\u0435\u0447"
     ],
+    "name:tat_x_preferred":[
+        "\u041c\u0438\u0440\u043d\u0430 \u041f\u0435\u0447"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e35\u0e23\u0e4c\u0e19\u0e32\u0e40\u0e1b\u0e0a"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u0438\u0440\u043d\u0430 \u041f\u0435\u0447"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u723e\u7d0d\u4f69\u5947"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -116,7 +128,7 @@
         }
     ],
     "wof:id":101857903,
-    "wof:lastmodified":1582358301,
+    "wof:lastmodified":1690863752,
     "wof:name":"Mirna Pe\u010d",
     "wof:parent_id":1108959751,
     "wof:placetype":"locality",

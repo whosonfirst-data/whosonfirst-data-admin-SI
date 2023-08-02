@@ -28,10 +28,16 @@
     "name:ceb_x_preferred":[
         "Podvinci"
     ],
+    "name:che_x_preferred":[
+        "\u041f\u043e\u0434\u0432\u0438\u043d\u0446\u0438"
+    ],
     "name:eng_x_preferred":[
         "Podvinci"
     ],
     "name:fra_x_preferred":[
+        "Podvinci"
+    ],
+    "name:hrv_x_preferred":[
         "Podvinci"
     ],
     "name:nld_x_preferred":[
@@ -45,6 +51,9 @@
     ],
     "name:slv_x_preferred":[
         "Podvinci"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u043e\u0434\u0432\u0438\u043d\u0446\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0434\u0432\u0438\u043d\u0446\u0456"
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":1125824345,
-    "wof:lastmodified":1566645071,
+    "wof:lastmodified":1690863832,
     "wof:name":"Podvinci",
     "wof:parent_id":1108959659,
     "wof:placetype":"locality",

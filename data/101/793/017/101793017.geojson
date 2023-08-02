@@ -35,6 +35,9 @@
     "name:ceb_x_preferred":[
         "Videm"
     ],
+    "name:che_x_preferred":[
+        "\u0412\u0438\u0434\u0435\u043c"
+    ],
     "name:deu_x_preferred":[
         "Widem"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0935\u0940\u0921\u0947\u092e "
+    ],
+    "name:hrv_x_preferred":[
+        "Videm"
     ],
     "name:nld_x_preferred":[
         "Videm"
@@ -77,6 +83,12 @@
     "name:swe_x_preferred":[
         "Videm"
     ],
+    "name:tat_x_preferred":[
+        "\u0412\u0438\u0434\u0435\u043c"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e27\u0e35\u0e40\u0e14\u0e34\u0e21"
+    ],
     "name:tur_x_preferred":[
         "Videm"
     ],
@@ -85,6 +97,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0648\u0627\u0626\u062f\u06cc\u0645"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u4ee3\u59c6"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -129,7 +144,7 @@
         }
     ],
     "wof:id":101793017,
-    "wof:lastmodified":1636502676,
+    "wof:lastmodified":1690863764,
     "wof:name":"Videm",
     "wof:parent_id":1108959575,
     "wof:placetype":"locality",

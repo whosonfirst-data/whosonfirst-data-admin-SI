@@ -24,6 +24,9 @@
     "name:bos_x_preferred":[
         "Osilnica"
     ],
+    "name:che_x_preferred":[
+        "\u041e\u0441\u0438\u043b\u043d\u0438\u0446\u044f"
+    ],
     "name:eng_x_preferred":[
         "Osilnica"
     ],
@@ -48,8 +51,17 @@
     "name:slv_x_preferred":[
         "Osilnica"
     ],
+    "name:spa_x_preferred":[
+        "Osilnica"
+    ],
     "name:srp_x_preferred":[
         "\u041e\u0441\u0438\u043b\u043d\u0438\u0446\u0430"
+    ],
+    "name:tat_x_preferred":[
+        "\u041e\u0441\u0438\u043b\u043d\u0438\u0446\u044f"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e2d\u0e0b\u0e35\u0e27\u0e19\u0e34\u0e15\u0e0b\u0e32"
     ],
     "name:ukr_x_preferred":[
         "\u041e\u0441\u0438\u043b\u043d\u0438\u0446\u044f"
@@ -59,6 +71,9 @@
     ],
     "name:vie_x_preferred":[
         "Osilnica"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u897f\u723e\u5c3c\u5bdf"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -107,7 +122,7 @@
         }
     ],
     "wof:id":101857909,
-    "wof:lastmodified":1582358301,
+    "wof:lastmodified":1690863750,
     "wof:name":"Osilnica",
     "wof:parent_id":1108959563,
     "wof:placetype":"locality",

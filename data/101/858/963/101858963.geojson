@@ -27,6 +27,12 @@
     "name:ces_x_preferred":[
         "Ob\u010dina Makole"
     ],
+    "name:che_x_preferred":[
+        "\u041c\u0430\u043a\u043e\u043b\u0435"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Makole"
+    ],
     "name:deu_x_preferred":[
         "Makole"
     ],
@@ -35,6 +41,9 @@
     ],
     "name:epo_x_preferred":[
         "Ob\u010dina Makole"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u0645\u0627\u06a9\u0648\u0644\u0647"
     ],
     "name:fra_x_preferred":[
         "Makole"
@@ -57,6 +66,9 @@
     "name:kor_x_preferred":[
         "\ub9c8\ucf5c\ub808"
     ],
+    "name:nan_x_preferred":[
+        "Makole Kong-si\u0101"
+    ],
     "name:nld_x_preferred":[
         "Makole"
     ],
@@ -69,11 +81,23 @@
     "name:ron_x_preferred":[
         "Comuna Makole"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043a\u043e\u043b\u0435"
+    ],
     "name:slv_x_preferred":[
         "Ob\u010dina Makole"
     ],
+    "name:tat_x_preferred":[
+        "\u041c\u0430\u043a\u043e\u043b\u0435"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e21\u0e32\u0e01\u0e2d\u0e41\u0e25"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043a\u043e\u043b\u0435"
+    ],
+    "name:vec_x_preferred":[
+        "Makole"
     ],
     "name:vie_x_preferred":[
         "Makole"
@@ -129,7 +153,7 @@
         }
     ],
     "wof:id":101858963,
-    "wof:lastmodified":1582358302,
+    "wof:lastmodified":1690863758,
     "wof:name":"Makole",
     "wof:parent_id":1108959773,
     "wof:placetype":"locality",

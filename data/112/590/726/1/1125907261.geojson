@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Kozari\u0161\u010de"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u043e\u0437\u0430\u0440\u0438\u0449\u0435"
+    ],
     "name:eng_x_preferred":[
         "Kozari\u0161\u010de"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:hrv_x_preferred":[
         "Kozari\u0161\u010de"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u043e\u0437\u0430\u0440\u0438\u0448\u0447\u0435"
     ],
     "name:nld_x_preferred":[
         "Kozari\u0161\u010de"
@@ -48,6 +54,9 @@
     ],
     "name:slv_x_preferred":[
         "Kozari\u0161\u010de"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u043e\u0437\u0430\u0440\u0438\u0449\u0435"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0437\u0430\u0440\u0438\u0449\u0435"
@@ -108,7 +117,7 @@
         }
     ],
     "wof:id":1125907261,
-    "wof:lastmodified":1566645061,
+    "wof:lastmodified":1690863818,
     "wof:name":"Kozari\u0161\u010de",
     "wof:parent_id":1108959863,
     "wof:placetype":"locality",

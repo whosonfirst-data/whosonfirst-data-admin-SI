@@ -28,10 +28,19 @@
     "name:ceb_x_preferred":[
         "Branik"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u0440\u0430\u043d\u0438\u043a"
+    ],
+    "name:deu_x_preferred":[
+        "Branik"
+    ],
     "name:eng_x_preferred":[
         "Branik"
     ],
     "name:fra_x_preferred":[
+        "Branik"
+    ],
+    "name:hrv_x_preferred":[
         "Branik"
     ],
     "name:hun_x_preferred":[
@@ -39,6 +48,9 @@
     ],
     "name:ita_x_preferred":[
         "Rifembergo"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0440\u0430\u043d\u0438\u043a"
     ],
     "name:nld_x_preferred":[
         "Branik"
@@ -51,6 +63,9 @@
     ],
     "name:slv_x_preferred":[
         "Branik"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0440\u0430\u043d\u0438\u043a"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0430\u043d\u0456\u043a"
@@ -111,7 +126,7 @@
         }
     ],
     "wof:id":1125915271,
-    "wof:lastmodified":1566645063,
+    "wof:lastmodified":1690863821,
     "wof:name":"Branik",
     "wof:parent_id":1108959487,
     "wof:placetype":"locality",

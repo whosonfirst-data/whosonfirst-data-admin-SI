@@ -31,6 +31,9 @@
     "name:ceb_x_preferred":[
         "Lokev"
     ],
+    "name:che_x_preferred":[
+        "\u041b\u043e\u043a\u0435\u0432"
+    ],
     "name:eng_x_preferred":[
         "Lokev"
     ],
@@ -38,6 +41,9 @@
         "\u0644\u0648\u06a9\u0648"
     ],
     "name:fra_x_preferred":[
+        "Lokev"
+    ],
+    "name:hrv_x_preferred":[
         "Lokev"
     ],
     "name:ita_x_preferred":[
@@ -54,6 +60,9 @@
     ],
     "name:slv_x_preferred":[
         "Lokev"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u043e\u043a\u0435\u0432"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u043e\u043a\u0435\u0432"
@@ -111,7 +120,7 @@
         }
     ],
     "wof:id":1125982487,
-    "wof:lastmodified":1566645065,
+    "wof:lastmodified":1690863824,
     "wof:name":"Lokev",
     "wof:parent_id":1108959789,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Gotovlje"
     ],
+    "name:che_x_preferred":[
+        "\u0413\u043e\u0442\u043e\u0432\u043b\u0435"
+    ],
     "name:eng_x_preferred":[
         "Gotovlje"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:slv_x_preferred":[
         "Gotovlje"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u043e\u0442\u043e\u0432\u043b\u0435"
     ],
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0442\u043e\u0432\u043b\u0454"
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":1126021849,
-    "wof:lastmodified":1566645041,
+    "wof:lastmodified":1690863796,
     "wof:name":"Gotovlje",
     "wof:parent_id":1108959929,
     "wof:placetype":"locality",

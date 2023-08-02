@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"15.315468,46.4834715,15.315468,46.4834715",
+    "geom:bbox":"15.315468,46.483472,15.315468,46.483472",
     "geom:latitude":46.483472,
     "geom:longitude":15.315468,
     "gn:country":null,
@@ -32,10 +32,16 @@
     "name:ceb_x_preferred":[
         "Kumen"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u0443\u043c\u0435\u043d"
+    ],
     "name:eng_x_preferred":[
         "Kumen"
     ],
     "name:fra_x_preferred":[
+        "Kumen"
+    ],
+    "name:hrv_x_preferred":[
         "Kumen"
     ],
     "name:nld_x_preferred":[
@@ -52,6 +58,9 @@
     ],
     "name:spa_x_preferred":[
         "Kumen"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0443\u043c\u0435\u043d"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0443\u043c\u0435\u043d"
@@ -93,7 +102,7 @@
     },
     "wof:country":"SI",
     "wof:created":1497294443,
-    "wof:geomhash":"cacc8315c137dedce0e554df7e566cad",
+    "wof:geomhash":"514acc661f5bfddaa9f1e492db486b07",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":1125873915,
-    "wof:lastmodified":1566645055,
+    "wof:lastmodified":1690863811,
     "wof:name":"Kumen",
     "wof:parent_id":1108959467,
     "wof:placetype":"locality",
@@ -115,9 +124,9 @@
 },
   "bbox": [
     15.315468,
-    46.4834715,
+    46.483472,
     15.315468,
-    46.4834715
+    46.483472
 ],
-  "geometry": {"coordinates":[15.315468,46.4834715],"type":"Point"}
+  "geometry": {"coordinates":[15.315468,46.483472],"type":"Point"}
 }

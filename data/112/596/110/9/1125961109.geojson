@@ -31,6 +31,9 @@
     "name:ceb_x_preferred":[
         "Ljube\u010dna"
     ],
+    "name:che_x_preferred":[
+        "\u041b\u044e\u0431\u0435\u0447\u043d\u0430"
+    ],
     "name:eng_x_preferred":[
         "Ljube\u010dna"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:slv_x_preferred":[
         "Ljube\u010dna"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u044e\u0431\u0435\u0447\u043d\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u044e\u0431\u0435\u0447\u043d\u0430"
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":1125961109,
-    "wof:lastmodified":1566645062,
+    "wof:lastmodified":1690863820,
     "wof:name":"Ljuben",
     "wof:parent_id":1108959693,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:ceb_x_preferred":[
         "Most na So\u010di"
     ],
+    "name:che_x_preferred":[
+        "\u041c\u043e\u0441\u0442-\u043d\u0430-\u0421\u043e\u0447\u0438"
+    ],
     "name:deu_x_preferred":[
         "Most na So\u010di"
     ],
@@ -46,6 +49,12 @@
     "name:ita_x_preferred":[
         "Santa Lucia d'Isonzo"
     ],
+    "name:ita_x_variant":[
+        "Santa Lucia"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u043e\u0441\u0442 \u043d\u0430 \u0421\u043e\u0447\u0430"
+    ],
     "name:nld_x_preferred":[
         "Most na So\u010di"
     ],
@@ -60,6 +69,9 @@
     ],
     "name:swe_x_preferred":[
         "Most na So\u010di"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u043e\u0441\u0442-\u043d\u0430-\u0421\u043e\u0447\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0441\u0442 \u043d\u0430 \u0421\u043e\u0447\u0456"
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":1125800491,
-    "wof:lastmodified":1566645052,
+    "wof:lastmodified":1690863807,
     "wof:name":"Most Na So\u010di",
     "wof:parent_id":1108959617,
     "wof:placetype":"locality",

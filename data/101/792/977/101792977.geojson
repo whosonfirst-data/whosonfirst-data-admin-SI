@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0631\u0628\u0646\u062c\u0647"
     ],
+    "name:ast_x_preferred":[
+        "Trebnje"
+    ],
     "name:bos_x_preferred":[
         "Trebnje"
     ],
@@ -31,6 +34,12 @@
     ],
     "name:ceb_x_preferred":[
         "Trebnje"
+    ],
+    "name:ces_x_preferred":[
+        "Trebnje"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u0440\u0435\u0431\u043d\u0435"
     ],
     "name:deu_x_preferred":[
         "Trebnje"
@@ -86,6 +95,9 @@
     "name:rus_x_preferred":[
         "\u0422\u0440\u0435\u0431\u043d\u044c\u0435"
     ],
+    "name:rus_x_variant":[
+        "\u0422\u0440\u0435\u0431\u043d\u0435"
+    ],
     "name:slk_x_preferred":[
         "Trebnje"
     ],
@@ -103,6 +115,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0422\u0440\u0435\u043d\u0435"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e15\u0e23\u0e1a\u0e19\u0e34\u0e41\u0e22"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0435\u0431\u043d\u0454"
@@ -170,7 +185,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1636502679,
+    "wof:lastmodified":1690863775,
     "wof:name":"Trebnje",
     "wof:parent_id":1108959839,
     "wof:placetype":"locality",

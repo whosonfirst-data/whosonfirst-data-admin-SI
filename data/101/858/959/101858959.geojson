@@ -27,10 +27,16 @@
     "name:ceb_x_preferred":[
         "Sveti Toma\u017e"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0438\u0439 \u0422\u043e\u043c\u0430\u0436"
+    ],
     "name:eng_x_preferred":[
         "Sveti Toma\u017e"
     ],
     "name:fra_x_preferred":[
+        "Sveti Toma\u017e"
+    ],
+    "name:hrv_x_preferred":[
         "Sveti Toma\u017e"
     ],
     "name:nld_x_preferred":[
@@ -44,6 +50,12 @@
     ],
     "name:slv_x_preferred":[
         "Sveti Toma\u017e"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0438\u0439 \u0422\u043e\u043c\u0430\u0436"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2a\u0e40\u0e27\u0e15\u0e35\u0e15\u0e2d\u0e21\u0e32\u0e0a"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0432\u0435\u0442\u0438\u0439 \u0422\u043e\u043c\u0430\u0436"
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":101858959,
-    "wof:lastmodified":1582358302,
+    "wof:lastmodified":1690863760,
     "wof:name":"Sveti Toma\u017e",
     "wof:parent_id":1108959931,
     "wof:placetype":"locality",

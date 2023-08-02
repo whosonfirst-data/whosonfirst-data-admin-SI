@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Kokrica"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u043e\u043a\u0440\u0438\u0446\u044f"
+    ],
     "name:eng_x_preferred":[
         "Kokrica"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:slv_x_preferred":[
         "Kokrica"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u043e\u043a\u0440\u0438\u0446\u044f"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043a\u0440\u0438\u0446\u044f"
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":1125803273,
-    "wof:lastmodified":1566645055,
+    "wof:lastmodified":1690863811,
     "wof:name":"Kokrica",
     "wof:parent_id":1108959933,
     "wof:placetype":"locality",

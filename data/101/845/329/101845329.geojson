@@ -22,6 +22,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Litija"
+    ],
+    "name:bel_x_preferred":[
+        "\u041b\u0456\u0446\u0456\u044f"
+    ],
     "name:bos_x_preferred":[
         "Litija"
     ],
@@ -33,6 +39,12 @@
     ],
     "name:ceb_x_preferred":[
         "Litija"
+    ],
+    "name:ces_x_preferred":[
+        "Litija"
+    ],
+    "name:che_x_preferred":[
+        "\u041b\u0438\u0442\u0438\u044f"
     ],
     "name:eng_x_preferred":[
         "Litija"
@@ -64,6 +76,9 @@
     "name:kat_x_preferred":[
         "\u10da\u10d8\u10e2\u10d8\u10d0"
     ],
+    "name:mkd_x_preferred":[
+        "\u041b\u0438\u0442\u0438\u0458\u0430"
+    ],
     "name:nld_x_preferred":[
         "Litija"
     ],
@@ -94,8 +109,14 @@
     "name:tat_x_preferred":[
         "\u041b\u0438\u0442\u0438\u044f"
     ],
+    "name:tha_x_preferred":[
+        "\u0e25\u0e34\u0e15\u0e35\u0e22\u0e32"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u0456\u0442\u0456\u044f"
+    ],
+    "name:ukr_x_variant":[
+        "\u041b\u0438\u0442\u0456\u044f"
     ],
     "name:und_x_variant":[
         "Littai"
@@ -170,7 +191,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1636502673,
+    "wof:lastmodified":1690863746,
     "wof:name":"Litija",
     "wof:parent_id":1108959907,
     "wof:placetype":"locality",

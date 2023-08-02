@@ -31,10 +31,16 @@
     "name:ceb_x_preferred":[
         "Pobegi"
     ],
+    "name:che_x_preferred":[
+        "\u041f\u043e\u0431\u0435\u0433\u0438"
+    ],
     "name:eng_x_preferred":[
         "Pobegi"
     ],
     "name:fra_x_preferred":[
+        "Pobegi"
+    ],
+    "name:hrv_x_preferred":[
         "Pobegi"
     ],
     "name:ita_x_preferred":[
@@ -51,6 +57,12 @@
     ],
     "name:slv_x_preferred":[
         "Pobegi"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0431\u0435\u0433\u0438"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u043e\u0431\u0435\u0433\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0431\u0435\u0433\u0456"
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":1125962857,
-    "wof:lastmodified":1566645062,
+    "wof:lastmodified":1690863820,
     "wof:name":"Pobegi",
     "wof:parent_id":1108959527,
     "wof:placetype":"locality",

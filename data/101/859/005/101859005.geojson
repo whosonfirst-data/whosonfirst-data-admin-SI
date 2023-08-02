@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Ribnica na Pohorju"
     ],
+    "name:che_x_preferred":[
+        "\u0420\u0438\u0431\u043d\u0438\u0446\u044f-\u043d\u0430-\u041f\u043e\u0445\u043e\u0440\u044e"
+    ],
     "name:deu_x_preferred":[
         "Ribnica na Pohorju"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:hrv_x_preferred":[
         "Op\u0107ina Ribnica na Pohorju"
+    ],
+    "name:hrv_x_variant":[
+        "Ribnica na Pohorju"
     ],
     "name:hun_x_preferred":[
         "Ribnica na Pohorju"
@@ -97,6 +103,12 @@
     "name:srp_x_variant":[
         "\u0420\u0438\u0431\u043d\u0438\u0446\u0430 \u043d\u0430 \u041f\u043e\u0445\u043e\u0440\u0458\u0443"
     ],
+    "name:tat_x_preferred":[
+        "\u0420\u0438\u0431\u043d\u0438\u0446\u044f-\u043d\u0430-\u041f\u043e\u0445\u043e\u0440\u044e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e23\u0e35\u0e1a\u0e19\u0e34\u0e15\u0e0b\u0e32\u0e19\u0e32\u0e42\u0e1b\u0e04\u0e2d\u0e23\u0e34\u0e22\u0e39"
+    ],
     "name:ukr_x_preferred":[
         "\u0420\u0438\u0431\u043d\u0438\u0446\u044f-\u043d\u0430-\u041f\u043e\u0445\u043e\u0440\u044e"
     ],
@@ -105,6 +117,9 @@
     ],
     "name:vie_x_preferred":[
         "Ribnica na Pohorju"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u970d\u5217\u5c71\u5340\u91cc\u5e03\u5c3c\u5bdf"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -176,7 +191,7 @@
         }
     ],
     "wof:id":101859005,
-    "wof:lastmodified":1636502674,
+    "wof:lastmodified":1690863749,
     "wof:name":"Ribnica na Pohorju",
     "wof:parent_id":1108959769,
     "wof:placetype":"locality",

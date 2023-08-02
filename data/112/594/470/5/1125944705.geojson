@@ -25,6 +25,9 @@
     "name:bos_x_preferred":[
         "Kne\u017eja Lipa"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u043d\u0435\u0436\u044f \u041b\u0438\u043f\u0430"
+    ],
     "name:eng_x_preferred":[
         "Kne\u017eja Lipa"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:slv_x_preferred":[
         "Kne\u017eja Lipa"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u043d\u0435\u0436\u044f \u041b\u0438\u043f\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043d\u0435\u0436\u044f \u041b\u0438\u043f\u0430"
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1125944705,
-    "wof:lastmodified":1566645031,
+    "wof:lastmodified":1690863784,
     "wof:name":"Kne\u017eja Lipa",
     "wof:parent_id":1108959919,
     "wof:placetype":"locality",

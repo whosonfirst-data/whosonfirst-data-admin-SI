@@ -26,6 +26,9 @@
     "name:ceb_x_preferred":[
         "Gornji Grad"
     ],
+    "name:che_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0438\u0439 \u0413\u0440\u0430\u0434"
+    ],
     "name:deu_x_preferred":[
         "Oberburg in Steiermark"
     ],
@@ -50,6 +53,9 @@
     "name:hun_x_preferred":[
         "Gornji Grad"
     ],
+    "name:ind_x_preferred":[
+        "Gornji Grad"
+    ],
     "name:nld_x_preferred":[
         "Gornji Grad"
     ],
@@ -65,11 +71,20 @@
     "name:srp_x_preferred":[
         "\u0413\u043e\u0440\u045a\u0438 \u0413\u0440\u0430\u0434"
     ],
+    "name:tat_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0438\u0439 \u0413\u0440\u0430\u0434"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e2d\u0e23\u0e4c\u0e19\u0e34\u0e22\u0e35\u0e01\u0e23\u0e32\u0e15"
+    ],
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0440\u043d\u0456\u0439 \u0413\u0440\u0430\u0434"
     ],
     "name:vie_x_preferred":[
         "Gornji Grad"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u683c\u62c9\u5fb7"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -114,7 +129,7 @@
         }
     ],
     "wof:id":101845363,
-    "wof:lastmodified":1636502670,
+    "wof:lastmodified":1690863736,
     "wof:name":"Gornji Grad",
     "wof:parent_id":1108959547,
     "wof:placetype":"locality",

@@ -25,10 +25,16 @@
     "name:bos_x_preferred":[
         "Topla"
     ],
+    "name:che_x_preferred":[
+        "\u0422\u043e\u043f\u043b\u0430"
+    ],
     "name:eng_x_preferred":[
         "Topla"
     ],
     "name:fra_x_preferred":[
+        "Topla"
+    ],
+    "name:hrv_x_preferred":[
         "Topla"
     ],
     "name:nld_x_preferred":[
@@ -42,6 +48,9 @@
     ],
     "name:slv_x_preferred":[
         "Topla"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u043e\u043f\u043b\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u043e\u043f\u043b\u0430"
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":1125994161,
-    "wof:lastmodified":1566645059,
+    "wof:lastmodified":1690863815,
     "wof:name":"Topla",
     "wof:parent_id":1108959573,
     "wof:placetype":"locality",

@@ -28,11 +28,20 @@
     "name:ceb_x_preferred":[
         "Dolenji Bo\u0161tanj"
     ],
+    "name:che_x_preferred":[
+        "\u0414\u043e\u043b\u0435\u043d\u0438 \u0411\u043e\u0448\u0442\u0430\u043d\u044c"
+    ],
     "name:eng_x_preferred":[
         "Dolenji Bo\u0161tanj"
     ],
     "name:fra_x_preferred":[
         "Dolenji Bo\u0161tanj"
+    ],
+    "name:hrv_x_preferred":[
+        "Dolenji Bo\u0161tanj"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u043e\u043b\u0435\u045a\u0438 \u0411\u043e\u0448\u0442\u0430\u045a"
     ],
     "name:nld_x_preferred":[
         "Dolenji Bo\u0161tanj"
@@ -45,6 +54,9 @@
     ],
     "name:slv_x_preferred":[
         "Dolenji Bo\u0161tanj"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u043e\u043b\u0435\u043d\u0438 \u0411\u043e\u0448\u0442\u0430\u043d\u044c"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043b\u0435\u043d\u0456 \u0411\u043e\u0448\u0442\u0430\u043d\u044c"
@@ -98,7 +110,7 @@
         }
     ],
     "wof:id":1125794531,
-    "wof:lastmodified":1566645073,
+    "wof:lastmodified":1690863834,
     "wof:name":"Dolenji Bostanj",
     "wof:parent_id":1108959927,
     "wof:placetype":"locality",

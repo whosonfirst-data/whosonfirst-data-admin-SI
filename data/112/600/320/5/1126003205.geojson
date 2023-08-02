@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"13.8419045,46.230321,13.8419045,46.230321",
+    "geom:bbox":"13.841905,46.230321,13.841905,46.230321",
     "geom:latitude":46.230321,
     "geom:longitude":13.841905,
     "gn:country":null,
@@ -26,11 +26,20 @@
     "name:bul_x_preferred":[
         "\u041a\u043d\u0435\u0448\u043a\u0435 \u0420\u0430\u0432\u043d\u0435"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u043d\u0435\u0448\u043a\u0435 \u0420\u0430\u0432\u043d\u0435"
+    ],
     "name:eng_x_preferred":[
         "Kne\u0161ke Ravne"
     ],
     "name:fra_x_preferred":[
         "Kne\u0161ke Ravne"
+    ],
+    "name:hrv_x_preferred":[
+        "Kne\u0161ke Ravne"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u043d\u0435\u0448\u043a\u0435 \u0420\u0430\u0432\u043d\u0435"
     ],
     "name:nld_x_preferred":[
         "Kne\u0161ke Ravne"
@@ -46,6 +55,9 @@
     ],
     "name:slv_x_preferred":[
         "Kne\u0161ke Ravne"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u043d\u0435\u0448\u043a\u0435 \u0420\u0430\u0432\u043d\u0435"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043d\u0435\u0448\u043a\u0435 \u0420\u0430\u0432\u043d\u0435"
@@ -87,7 +99,7 @@
     },
     "wof:country":"SI",
     "wof:created":1497299778,
-    "wof:geomhash":"692cac6f7a821d29bf9f97b5f86d2996",
+    "wof:geomhash":"b59f0076602998b493e44dadac5bed82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,7 +110,7 @@
         }
     ],
     "wof:id":1126003205,
-    "wof:lastmodified":1566645070,
+    "wof:lastmodified":1690863830,
     "wof:name":"Kneske Ravne",
     "wof:parent_id":1108959617,
     "wof:placetype":"locality",
@@ -108,10 +120,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.8419045,
+    13.841905,
     46.230321,
-    13.8419045,
+    13.841905,
     46.230321
 ],
-  "geometry": {"coordinates":[13.8419045,46.230321],"type":"Point"}
+  "geometry": {"coordinates":[13.841905,46.230321],"type":"Point"}
 }

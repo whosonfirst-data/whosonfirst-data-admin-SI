@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Vojnik"
+    ],
     "name:bos_x_preferred":[
         "Vojnik"
     ],
@@ -86,6 +89,12 @@
     "name:swe_x_preferred":[
         "Vojnik"
     ],
+    "name:tat_x_preferred":[
+        "\u0412\u043e\u0439\u043d\u0438\u043a"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e27\u0e22\u0e19\u0e34\u0e01"
+    ],
     "name:ukr_x_preferred":[
         "\u0412\u043e\u0439\u043d\u0438\u043a"
     ],
@@ -94,6 +103,9 @@
     ],
     "name:vol_x_preferred":[
         "Vojnik"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c83\u4f0a\u5c3c\u514b"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -141,7 +153,7 @@
         }
     ],
     "wof:id":101792033,
-    "wof:lastmodified":1636502681,
+    "wof:lastmodified":1690863781,
     "wof:name":"Vojnik",
     "wof:parent_id":1108959653,
     "wof:placetype":"locality",

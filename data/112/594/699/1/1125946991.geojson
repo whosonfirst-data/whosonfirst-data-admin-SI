@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Koprivnica"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u043e\u043f\u0440\u0438\u0432\u043d\u0438\u0446\u044f"
+    ],
     "name:eng_x_preferred":[
         "Koprivnica"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:hrv_x_preferred":[
         "Koprivnica"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u043e\u043f\u0440\u0438\u0432\u043d\u0438\u0446\u0430"
     ],
     "name:nld_x_preferred":[
         "Koprivnica"
@@ -48,6 +54,9 @@
     ],
     "name:slv_x_preferred":[
         "Koprivnica"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u043e\u043f\u0440\u0438\u0432\u043d\u0438\u0446\u044f"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043f\u0440\u0438\u0432\u043d\u0438\u0446\u044f"
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":1125946991,
-    "wof:lastmodified":1566645032,
+    "wof:lastmodified":1690863785,
     "wof:name":"Koprivnica",
     "wof:parent_id":1108959473,
     "wof:placetype":"locality",

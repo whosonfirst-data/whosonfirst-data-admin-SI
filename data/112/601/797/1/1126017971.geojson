@@ -28,7 +28,16 @@
     "name:ceb_x_preferred":[
         "Vinica"
     ],
+    "name:ces_x_preferred":[
+        "Vinica"
+    ],
+    "name:che_x_preferred":[
+        "\u0412\u0438\u043d\u0438\u0446\u044f"
+    ],
     "name:eng_x_preferred":[
+        "Vinica"
+    ],
+    "name:eus_x_preferred":[
         "Vinica"
     ],
     "name:fra_x_preferred":[
@@ -57,6 +66,12 @@
     ],
     "name:slv_x_preferred":[
         "Vinica"
+    ],
+    "name:spa_x_preferred":[
+        "Vinica"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0438\u043d\u0438\u0446\u044f"
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0438\u043d\u0438\u0446\u044f"
@@ -114,7 +129,7 @@
         }
     ],
     "wof:id":1126017971,
-    "wof:lastmodified":1636502684,
+    "wof:lastmodified":1690863825,
     "wof:name":"Vinica",
     "wof:parent_id":1108959699,
     "wof:placetype":"locality",

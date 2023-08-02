@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0633\u0631\u0643\u0646\u064a\u062a\u0633\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Cerknica"
+    ],
     "name:bos_x_preferred":[
         "Cerknica"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:ces_x_variant":[
         "Ob\u010dina Cerknica"
+    ],
+    "name:che_x_preferred":[
+        "\u0426\u0435\u0440\u043a\u043d\u0438\u0446\u044f"
     ],
     "name:deu_x_preferred":[
         "Cerknica"
@@ -80,8 +86,14 @@
     "name:kor_x_preferred":[
         "\uccb4\ub974\ud06c\ub2c8\ucc28"
     ],
+    "name:lat_x_preferred":[
+        "Circovium"
+    ],
     "name:lit_x_preferred":[
         "Cerknica"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0426\u0435\u0440\u043a\u043d\u0438\u0446\u0430"
     ],
     "name:nld_x_preferred":[
         "Cerknica"
@@ -127,6 +139,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0421\u0435\u0440\u043a\u043d\u0438\u0442\u0441\u0430"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e0b\u0e23\u0e4c\u0e01\u0e19\u0e34\u0e15\u0e0b\u0e32"
     ],
     "name:ukr_x_preferred":[
         "\u0426\u0435\u0440\u043a\u043d\u0438\u0446\u044f"
@@ -197,7 +212,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1636502672,
+    "wof:lastmodified":1690863744,
     "wof:name":"Cerknica",
     "wof:parent_id":1108959905,
     "wof:placetype":"locality",

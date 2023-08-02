@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Fokovci"
     ],
+    "name:che_x_preferred":[
+        "\u0424\u043e\u043a\u043e\u0432\u0446\u0438"
+    ],
     "name:eng_x_preferred":[
         "Fokovci"
     ],
@@ -43,6 +46,9 @@
     "name:hun_x_preferred":[
         "\u00dardomb"
     ],
+    "name:mkd_x_preferred":[
+        "\u0424\u043e\u043a\u043e\u0432\u0446\u0438"
+    ],
     "name:nld_x_preferred":[
         "Fokovci"
     ],
@@ -54,6 +60,9 @@
     ],
     "name:slv_x_preferred":[
         "Fokovci"
+    ],
+    "name:tat_x_preferred":[
+        "\u0424\u043e\u043a\u043e\u0432\u0446\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u0424\u043e\u043a\u043e\u0432\u0446\u0456"
@@ -111,7 +120,7 @@
         }
     ],
     "wof:id":1125955585,
-    "wof:lastmodified":1566645038,
+    "wof:lastmodified":1690863792,
     "wof:name":"Fokovci",
     "wof:parent_id":1108959925,
     "wof:placetype":"locality",

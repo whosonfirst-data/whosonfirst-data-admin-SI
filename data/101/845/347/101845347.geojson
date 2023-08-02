@@ -35,6 +35,9 @@
     "name:ces_x_preferred":[
         "Cankova"
     ],
+    "name:che_x_preferred":[
+        "\u0426\u0430\u043d\u043a\u043e\u0432\u0430"
+    ],
     "name:deu_x_preferred":[
         "Cankova"
     ],
@@ -67,6 +70,9 @@
     ],
     "name:kor_x_preferred":[
         "\ucc2c\ucf54\ubc14"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0426\u0430\u043d\u043a\u043e\u0432\u0430"
     ],
     "name:nld_x_preferred":[
         "Cankova"
@@ -101,6 +107,12 @@
     "name:swe_x_preferred":[
         "Cankova"
     ],
+    "name:tat_x_preferred":[
+        "\u0426\u0430\u043d\u043a\u043e\u0432\u0430"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e07\u0e01\u0e2d\u0e27\u0e32"
+    ],
     "name:ukr_x_preferred":[
         "\u0426\u0430\u043d\u043a\u043e\u0432\u0430"
     ],
@@ -109,6 +121,9 @@
     ],
     "name:vie_x_preferred":[
         "Cankova"
+    ],
+    "name:zho_x_preferred":[
+        "\u71e6\u79d1\u74e6"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -152,7 +167,7 @@
         }
     ],
     "wof:id":101845347,
-    "wof:lastmodified":1636502671,
+    "wof:lastmodified":1690863739,
     "wof:name":"Cankova",
     "wof:parent_id":1108959707,
     "wof:placetype":"locality",

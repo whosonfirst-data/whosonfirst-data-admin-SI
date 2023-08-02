@@ -24,8 +24,14 @@
     "name:bos_x_preferred":[
         "\u0160entrupert"
     ],
+    "name:cat_x_preferred":[
+        "\u0160entrupert"
+    ],
     "name:ceb_x_preferred":[
         "\u0160entrupert"
+    ],
+    "name:che_x_preferred":[
+        "\u0428\u0435\u043d\u0442\u0440\u0443\u043f\u0435\u0440\u0442"
     ],
     "name:deu_x_preferred":[
         "\u0160entrupert"
@@ -72,8 +78,17 @@
     "name:srp_x_preferred":[
         "\u0428\u0435\u043d\u0442\u0440\u0443\u043f\u0435\u0440\u0442"
     ],
+    "name:tat_x_preferred":[
+        "\u0428\u0435\u043d\u0442\u0440\u0443\u043f\u0435\u0440\u0442"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e0a\u0e47\u0e19\u0e15\u0e23\u0e39\u0e41\u0e1b\u0e23\u0e4c\u0e15"
+    ],
     "name:ukr_x_preferred":[
         "\u0428\u0435\u043d\u0442\u0440\u0443\u043f\u0435\u0440\u0442"
+    ],
+    "name:vec_x_preferred":[
+        "\u0160entrupert"
     ],
     "name:vie_x_preferred":[
         "\u0160entrupert"
@@ -129,7 +144,7 @@
         }
     ],
     "wof:id":101857885,
-    "wof:lastmodified":1582358301,
+    "wof:lastmodified":1690863752,
     "wof:name":"\u0160entrupert",
     "wof:parent_id":1108959841,
     "wof:placetype":"locality",

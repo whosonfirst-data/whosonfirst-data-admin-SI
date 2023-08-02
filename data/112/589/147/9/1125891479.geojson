@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Seno\u017ee\u010de"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u0435\u043d\u043e\u0436\u0435\u0447\u0435"
+    ],
     "name:deu_x_preferred":[
         "Seno\u017ee\u010de"
     ],
@@ -35,6 +38,9 @@
         "Seno\u017ee\u010de"
     ],
     "name:fra_x_preferred":[
+        "Seno\u017ee\u010de"
+    ],
+    "name:hrv_x_preferred":[
         "Seno\u017ee\u010de"
     ],
     "name:ita_x_preferred":[
@@ -51,6 +57,9 @@
     ],
     "name:slv_x_preferred":[
         "Seno\u017ee\u010de"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0435\u043d\u043e\u0436\u0435\u0447\u0435"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043d\u043e\u0436\u0435\u0447\u0435"
@@ -111,7 +120,7 @@
         }
     ],
     "wof:id":1125891479,
-    "wof:lastmodified":1566645050,
+    "wof:lastmodified":1690863804,
     "wof:name":"Seno\u017ee\u010de",
     "wof:parent_id":1108959845,
     "wof:placetype":"locality",

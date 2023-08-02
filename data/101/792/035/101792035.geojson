@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0631\u0628\u0648\u0641\u0644\u062c\u0647"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0631\u0628\u0648\u0641\u0644\u063a\u0647"
+    ],
     "name:bel_x_preferred":[
         "\u0422\u0440\u0431\u043e\u045e\u043b\u0435"
     ],
@@ -47,6 +50,9 @@
     "name:ces_x_variant":[
         "Trbovlje"
     ],
+    "name:che_x_preferred":[
+        "\u0422\u0440\u0431\u043e\u0432\u043b\u0435"
+    ],
     "name:dan_x_preferred":[
         "Trbovlje"
     ],
@@ -56,7 +62,13 @@
     "name:ell_x_preferred":[
         "\u03a4\u03c1\u03bc\u03c0\u03bf\u03b2\u03bb\u03c4\u03b6\u03ad"
     ],
+    "name:ell_x_variant":[
+        "\u03a4\u03c1\u03bc\u03c0\u03cc\u03b2\u03bb\u03b9\u03b5"
+    ],
     "name:eng_x_preferred":[
+        "Trbovlje"
+    ],
+    "name:epo_x_preferred":[
         "Trbovlje"
     ],
     "name:est_x_preferred":[
@@ -80,6 +92,9 @@
     "name:hbs_x_preferred":[
         "Trbovlje"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05e8\u05d1\u05d5\u05dc\u05d6'\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u091f\u094d\u0930\u092c\u094b\u0935\u0932\u093f\u090f"
     ],
@@ -91,6 +106,9 @@
     ],
     "name:hun_x_preferred":[
         "Trbovlje"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0580\u0562\u0578\u057e\u056c\u0565"
     ],
     "name:ind_x_preferred":[
         "Trbovlje"
@@ -107,11 +125,17 @@
     "name:kat_x_preferred":[
         "\u10e2\u10e0\u10d1\u10dd\u10d5\u10da\u10d8\u10d4"
     ],
+    "name:kat_x_variant":[
+        "\u10e2\u10e0\u10d1\u10dd\u10d5\u10da\u10d4"
+    ],
     "name:kor_x_preferred":[
         "\ud2b8\ub974\ubcf4\ube14\ub808"
     ],
     "name:kor_x_variant":[
         "\ud2b8\ub974\ubcf4\ube14\ub9ac\uc5d0"
+    ],
+    "name:lat_x_preferred":[
+        "Castrum Tiuelis"
     ],
     "name:lav_x_preferred":[
         "Trbovlje"
@@ -182,6 +206,9 @@
     "name:swe_x_preferred":[
         "Trbovlje"
     ],
+    "name:szl_x_preferred":[
+        "Trbovlje"
+    ],
     "name:tam_x_preferred":[
         "\u0b9f\u0bb0\u0bcd\u0baa\u0bcb\u0bb5\u0bcd\u0bb2\u0bcd\u0b9c\u0bc6"
     ],
@@ -194,6 +221,9 @@
     "name:tha_x_preferred":[
         "\u0e17\u0e42\u0e1a\u0e27\u0e08\u0e35\u0e49"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e15\u0e2d\u0e23\u0e4c\u0e1a\u0e2d\u0e27\u0e4c\u0e25\u0e34\u0e41\u0e22"
+    ],
     "name:tur_x_preferred":[
         "Trbovlje"
     ],
@@ -205,6 +235,9 @@
     ],
     "name:urd_x_variant":[
         "\u062a\u0631\u0628\u0648\u0648\u0644\u06cc\u06d2"
+    ],
+    "name:vec_x_preferred":[
+        "Trbovlje"
     ],
     "name:vie_x_preferred":[
         "Trbovlje"
@@ -267,7 +300,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1636502681,
+    "wof:lastmodified":1690863780,
     "wof:name":"Trbovlje",
     "wof:parent_id":1108959911,
     "wof:placetype":"locality",

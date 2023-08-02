@@ -23,16 +23,28 @@
     "name:bos_x_preferred":[
         "Sveti Anton"
     ],
+    "name:bos_x_variant":[
+        "Sv. Anton"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0432\u0435\u0442\u0438 \u0410\u043d\u0442\u043e\u043d"
     ],
     "name:ceb_x_preferred":[
         "Sv. Anton"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0438\u0439 \u0410\u043d\u0442\u043e\u043d"
+    ],
     "name:eng_x_preferred":[
         "Sveti Anton"
     ],
+    "name:eng_x_variant":[
+        "Sv. Anton"
+    ],
     "name:fra_x_preferred":[
+        "Sv. Anton"
+    ],
+    "name:hrv_x_preferred":[
         "Sv. Anton"
     ],
     "name:ita_x_preferred":[
@@ -52,6 +64,9 @@
     ],
     "name:slv_x_variant":[
         "Sv. Anton"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0438\u0439 \u0410\u043d\u0442\u043e\u043d"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0432\u0435\u0442\u0438\u0439 \u0410\u043d\u0442\u043e\u043d"
@@ -104,7 +119,7 @@
         }
     ],
     "wof:id":101857891,
-    "wof:lastmodified":1582358301,
+    "wof:lastmodified":1690863752,
     "wof:name":"Sv. Anton",
     "wof:parent_id":1108959527,
     "wof:placetype":"locality",

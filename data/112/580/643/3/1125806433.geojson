@@ -31,6 +31,9 @@
     "name:ces_x_preferred":[
         "Domanj\u0161evci"
     ],
+    "name:che_x_preferred":[
+        "\u0414\u043e\u043c\u0430\u043d\u044c\u0448\u0435\u0432\u0446\u0438"
+    ],
     "name:eng_x_preferred":[
         "Domanj\u0161evci"
     ],
@@ -46,6 +49,9 @@
     "name:hun_x_preferred":[
         "Domonkosfa"
     ],
+    "name:mkd_x_preferred":[
+        "\u0414\u043e\u043c\u0430\u045a\u0448\u0435\u0432\u0446\u0438"
+    ],
     "name:nld_x_preferred":[
         "Domanj\u0161evci"
     ],
@@ -57,6 +63,9 @@
     ],
     "name:slv_x_preferred":[
         "Domanj\u0161evci"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u043e\u043c\u0430\u043d\u044c\u0448\u0435\u0432\u0446\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043c\u0430\u043d\u044c\u0448\u0435\u0432\u0446\u0456"
@@ -117,7 +126,7 @@
         }
     ],
     "wof:id":1125806433,
-    "wof:lastmodified":1566645051,
+    "wof:lastmodified":1690863806,
     "wof:name":"Domanj\u00b5evci",
     "wof:parent_id":1108959567,
     "wof:placetype":"locality",

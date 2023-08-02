@@ -26,10 +26,19 @@
     "name:ceb_x_preferred":[
         "Logarska Dolina"
     ],
+    "name:che_x_preferred":[
+        "\u041b\u043e\u0433\u0430\u0440\u0441\u044c\u043a\u0430 \u0414\u043e\u043b\u0438\u043d\u0430"
+    ],
     "name:eng_x_preferred":[
         "Logarska Dolina"
     ],
     "name:fra_x_preferred":[
+        "Logarska Dolina"
+    ],
+    "name:hrv_x_preferred":[
+        "Logarska Dolina"
+    ],
+    "name:hun_x_preferred":[
         "Logarska Dolina"
     ],
     "name:nld_x_preferred":[
@@ -43,6 +52,9 @@
     ],
     "name:slv_x_preferred":[
         "Logarska Dolina"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u043e\u0433\u0430\u0440\u0441\u044c\u043a\u0430 \u0414\u043e\u043b\u0438\u043d\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u043e\u0433\u0430\u0440\u0441\u044c\u043a\u0430 \u0414\u043e\u043b\u0438\u043d\u0430"
@@ -95,7 +107,7 @@
         }
     ],
     "wof:id":1126020587,
-    "wof:lastmodified":1566645041,
+    "wof:lastmodified":1690863795,
     "wof:name":"Logarska Dolina",
     "wof:parent_id":1108959639,
     "wof:placetype":"locality",

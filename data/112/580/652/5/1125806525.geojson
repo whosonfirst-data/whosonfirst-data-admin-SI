@@ -31,6 +31,9 @@
     "name:ceb_x_preferred":[
         "Osp"
     ],
+    "name:che_x_preferred":[
+        "\u041e\u0441\u043f"
+    ],
     "name:deu_x_preferred":[
         "Osp"
     ],
@@ -38,6 +41,9 @@
         "Osp"
     ],
     "name:fra_x_preferred":[
+        "Osp"
+    ],
+    "name:hrv_x_preferred":[
         "Osp"
     ],
     "name:hsb_x_preferred":[
@@ -57,6 +63,9 @@
     ],
     "name:slv_x_preferred":[
         "Osp"
+    ],
+    "name:tat_x_preferred":[
+        "\u041e\u0441\u043f"
     ],
     "name:ukr_x_preferred":[
         "\u041e\u0441\u043f"
@@ -114,7 +123,7 @@
         }
     ],
     "wof:id":1125806525,
-    "wof:lastmodified":1566645054,
+    "wof:lastmodified":1690863809,
     "wof:name":"Osp",
     "wof:parent_id":1108959527,
     "wof:placetype":"locality",

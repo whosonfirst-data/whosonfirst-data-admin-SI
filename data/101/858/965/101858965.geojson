@@ -50,6 +50,9 @@
     "name:ces_x_preferred":[
         "Zgornje Gorje"
     ],
+    "name:che_x_preferred":[
+        "\u0417\u0433\u043e\u0440\u043d\u0435 \u0413\u043e\u0440\u0435"
+    ],
     "name:cos_x_preferred":[
         "Zgornje Gorje"
     ],
@@ -182,6 +185,12 @@
     "name:swe_x_preferred":[
         "Zgornje Gorje"
     ],
+    "name:tat_x_preferred":[
+        "\u0417\u0433\u043e\u0440\u043d\u0435 \u0413\u043e\u0440\u0435"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e42\u0e01\u0e23\u0e4c\u0e19\u0e34\u0e41\u0e22\u0e01\u0e2d\u0e23\u0e34\u0e41\u0e22"
+    ],
     "name:tur_x_preferred":[
         "Zgornje Gorje"
     ],
@@ -268,7 +277,7 @@
         }
     ],
     "wof:id":101858965,
-    "wof:lastmodified":1582358301,
+    "wof:lastmodified":1690863757,
     "wof:name":"Zgornje Gorje",
     "wof:parent_id":1108959735,
     "wof:placetype":"locality",

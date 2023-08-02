@@ -25,10 +25,16 @@
     "name:bos_x_preferred":[
         "Klemen\u010devo"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u043b\u0435\u043c\u0435\u043d\u0447\u0435\u0432\u043e"
+    ],
     "name:eng_x_preferred":[
         "Klemen\u010devo"
     ],
     "name:fra_x_preferred":[
+        "Klemen\u010devo"
+    ],
+    "name:hrv_x_preferred":[
         "Klemen\u010devo"
     ],
     "name:nld_x_preferred":[
@@ -42,6 +48,9 @@
     ],
     "name:slv_x_preferred":[
         "Klemen\u010devo"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u043b\u0435\u043c\u0435\u043d\u0447\u0435\u0432\u043e"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043b\u0435\u043c\u0435\u043d\u0447\u0435\u0432\u043e"
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":1125879527,
-    "wof:lastmodified":1566645055,
+    "wof:lastmodified":1690863812,
     "wof:name":"Klemencevo",
     "wof:parent_id":1108959941,
     "wof:placetype":"locality",

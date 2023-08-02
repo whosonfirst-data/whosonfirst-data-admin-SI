@@ -33,6 +33,9 @@
     "name:ces_x_preferred":[
         "Ob\u010dina Bistrica ob Sotli"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u0438\u0441\u0442\u0440\u0438\u0446\u044f-\u043e\u0431-\u0421\u043e\u0442\u043b\u0438"
+    ],
     "name:deu_x_preferred":[
         "Bistrica ob Sotli"
     ],
@@ -68,6 +71,9 @@
     ],
     "name:kor_x_preferred":[
         "\ube44\uc2a4\ud2b8\ub9ac\ucc28\uc624\ube0c\uc18c\ud2c0\ub9ac"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0438\u0441\u0442\u0440\u0438\u0446\u0430 \u043d\u0430 \u0421\u0443\u0442\u043b\u0430"
     ],
     "name:nld_x_preferred":[
         "Bistrica ob Sotli"
@@ -105,6 +111,12 @@
     "name:swe_x_preferred":[
         "Bistrica ob Sotli"
     ],
+    "name:tat_x_preferred":[
+        "\u0411\u0438\u0441\u0442\u0440\u0438\u0446\u044f-\u043e\u0431-\u0421\u043e\u0442\u043b\u0438"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e35\u0e2a\u0e15\u0e23\u0e34\u0e15\u0e0b\u0e32\u0e2d\u0e47\u0e2d\u0e1b\u0e42\u0e0b\u0e15\u0e25\u0e35"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0438\u0441\u0442\u0440\u0438\u0446\u044f-\u043e\u0431-\u0421\u043e\u0442\u043b\u0456"
     ],
@@ -119,6 +131,9 @@
     ],
     "name:vie_x_preferred":[
         "Bistrica ob Sotli"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d22\u7279\u62c9\u6cb3\u7554\u6bd4\u65af\u7279\u91cc\u5bdf"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -167,7 +182,7 @@
         }
     ],
     "wof:id":101857907,
-    "wof:lastmodified":1636502674,
+    "wof:lastmodified":1690863750,
     "wof:name":"Bistrica ob Sotli",
     "wof:parent_id":1108959915,
     "wof:placetype":"locality",

@@ -25,11 +25,23 @@
     "name:bos_x_preferred":[
         "Rep"
     ],
+    "name:che_x_preferred":[
+        "\u0420\u0435\u043f"
+    ],
     "name:eng_x_preferred":[
         "Rep"
     ],
     "name:fra_x_preferred":[
         "Rep"
+    ],
+    "name:hrv_x_preferred":[
+        "Rep"
+    ],
+    "name:ita_x_preferred":[
+        "Rep"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30c3\u30d7"
     ],
     "name:nld_x_preferred":[
         "Rep"
@@ -42,6 +54,9 @@
     ],
     "name:slv_x_preferred":[
         "Rep"
+    ],
+    "name:tat_x_preferred":[
+        "\u0420\u0435\u043f"
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0435\u043f"
@@ -99,7 +114,7 @@
         }
     ],
     "wof:id":1125866433,
-    "wof:lastmodified":1566645045,
+    "wof:lastmodified":1690863799,
     "wof:name":"Rep",
     "wof:parent_id":1108959641,
     "wof:placetype":"locality",

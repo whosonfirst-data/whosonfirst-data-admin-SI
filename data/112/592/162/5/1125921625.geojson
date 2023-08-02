@@ -26,6 +26,9 @@
     "name:ceb_x_preferred":[
         "Pu\u0161tal"
     ],
+    "name:che_x_preferred":[
+        "\u041f\u0443\u0448\u0442\u0430\u043b"
+    ],
     "name:eng_x_preferred":[
         "Pu\u0161tal"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:slv_x_preferred":[
         "Pu\u0161tal"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0443\u0448\u0442\u0430\u043b"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0443\u0448\u0442\u0430\u043b"
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":1125921625,
-    "wof:lastmodified":1566645037,
+    "wof:lastmodified":1690863790,
     "wof:name":"Pustal",
     "wof:parent_id":1108959821,
     "wof:placetype":"locality",

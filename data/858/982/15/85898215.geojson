@@ -50,6 +50,9 @@
     "name:deu_x_preferred":[
         "Polje"
     ],
+    "name:ell_x_preferred":[
+        "\u03c0\u03cc\u03bb\u03b3\u03b7"
+    ],
     "name:eng_x_preferred":[
         "polje"
     ],
@@ -65,6 +68,9 @@
     "name:fra_x_preferred":[
         "Polj\u00e9"
     ],
+    "name:glg_x_preferred":[
+        "Polje"
+    ],
     "name:hbs_x_preferred":[
         "Kra\u0161ko polje"
     ],
@@ -77,14 +83,24 @@
     "name:hun_x_preferred":[
         "Polje"
     ],
+    "name:hye_x_preferred":[
+        "\u0564\u0561\u0577\u057f"
+    ],
+    "name:ind_x_preferred":[
+        "Polje"
+    ],
     "name:ita_x_preferred":[
         "Polje"
     ],
     "name:ita_x_variant":[
-        "polje"
+        "polje",
+        "pianoro carsico"
     ],
     "name:jpn_x_preferred":[
         "\u30dd\u30ea\u30a8"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10dd\u10da\u10d8\u10d4"
     ],
     "name:kor_x_preferred":[
         "\ud3f4\ub9ac\uc5d0"
@@ -110,6 +126,9 @@
     "name:pol_x_preferred":[
         "Polje"
     ],
+    "name:pol_x_variant":[
+        "polje"
+    ],
     "name:por_x_preferred":[
         "Polje"
     ],
@@ -134,6 +153,9 @@
     "name:spa_x_preferred":[
         "Polj\u00e9"
     ],
+    "name:spa_x_variant":[
+        "polj\u00e9"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0440\u0430\u0448\u043a\u043e \u043f\u043e\u0459\u0435"
     ],
@@ -145,6 +167,9 @@
     ],
     "name:tur_x_preferred":[
         "Polye"
+    ],
+    "name:ukr_x_preferred":[
+        "\u043f\u043e\u043b\u044c\u0454"
     ],
     "name:und_x_variant":[
         "Devica Marija V Polju"
@@ -214,7 +239,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582358285,
+    "wof:lastmodified":1690863720,
     "wof:name":"Polje",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",

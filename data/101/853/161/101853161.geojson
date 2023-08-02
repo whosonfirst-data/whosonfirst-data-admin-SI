@@ -27,14 +27,23 @@
     "name:ceb_x_preferred":[
         "Bukovica"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u0443\u043a\u043e\u0432\u0438\u0446\u044f"
+    ],
     "name:eng_x_preferred":[
         "Bukovica"
     ],
     "name:fra_x_preferred":[
         "Bukovica"
     ],
+    "name:hrv_x_preferred":[
+        "Bukovica"
+    ],
     "name:ita_x_preferred":[
         "Boccavizza"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0443\u043a\u043e\u0432\u0438\u0446\u0430"
     ],
     "name:nld_x_preferred":[
         "Bukovica"
@@ -48,11 +57,20 @@
     "name:slv_x_preferred":[
         "Bukovica"
     ],
+    "name:tat_x_preferred":[
+        "\u0411\u0443\u043a\u043e\u0432\u0438\u0446\u044f"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e39\u0e01\u0e2d\u0e27\u0e34\u0e15\u0e0b\u0e32"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0443\u043a\u043e\u0432\u0438\u0446\u044f"
     ],
     "name:ukr_x_variant":[
         "\u0411\u0443\u043a\u043e\u0432\u0456\u0446\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u79d1\u7dad\u5bdf"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -102,7 +120,7 @@
         }
     ],
     "wof:id":101853161,
-    "wof:lastmodified":1582358304,
+    "wof:lastmodified":1690863783,
     "wof:name":"Bukovica",
     "wof:parent_id":1108959733,
     "wof:placetype":"locality",

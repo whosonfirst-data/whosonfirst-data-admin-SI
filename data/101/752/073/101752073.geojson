@@ -26,6 +26,9 @@
     "name:afr_x_preferred":[
         "Ljubljana"
     ],
+    "name:aka_x_preferred":[
+        "Ljubljana"
+    ],
     "name:amh_x_preferred":[
         "\u120d\u12e9\u1265\u120d\u12eb\u1293"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:arg_x_preferred":[
         "Ljubljana"
+    ],
+    "name:ary_x_preferred":[
+        "\u0644\u064a\u0648\u0628\u0644\u064a\u0627\u0646\u0627"
     ],
     "name:arz_x_preferred":[
         "\u0644\u064a\u0648\u0628\u0644\u064a\u0627\u0646\u0627"
@@ -44,11 +50,20 @@
     "name:ava_x_preferred":[
         "\u041b\u044e\u0431\u043b\u044f\u043d\u0430"
     ],
+    "name:avk_x_preferred":[
+        "Ljubljana"
+    ],
     "name:aze_x_preferred":[
         "Lyublyana"
     ],
+    "name:aze_x_variant":[
+        "Ly\u00fcblyana"
+    ],
     "name:bak_x_preferred":[
         "\u041b\u044e\u0431\u043b\u044f\u043d\u0430"
+    ],
+    "name:ban_x_preferred":[
+        "Ljubljana"
     ],
     "name:bar_x_preferred":[
         "Laiboch"
@@ -121,6 +136,9 @@
     ],
     "name:deu_x_variant":[
         "Laibach"
+    ],
+    "name:diq_x_preferred":[
+        "Ljubljana"
     ],
     "name:dsb_x_preferred":[
         "Ljubljana"
@@ -203,6 +221,9 @@
     "name:hat_x_preferred":[
         "Lyoubyana"
     ],
+    "name:hau_x_preferred":[
+        "Ljubljana"
+    ],
     "name:hbs_x_preferred":[
         "Ljubljana"
     ],
@@ -230,6 +251,9 @@
     "name:hyw_x_preferred":[
         "\u053c\u0575\u0578\u0582\u057a\u056c\u0575\u0561\u0576\u0561"
     ],
+    "name:hyw_x_variant":[
+        "\u053c\u056b\u0582\u057a\u056c\u056b\u0561\u0576\u0561"
+    ],
     "name:ido_x_preferred":[
         "Ljubljana"
     ],
@@ -237,6 +261,9 @@
         "Ljubljana"
     ],
     "name:ilo_x_preferred":[
+        "Ljubljana"
+    ],
+    "name:ina_x_preferred":[
         "Ljubljana"
     ],
     "name:ind_x_preferred":[
@@ -257,6 +284,9 @@
     "name:kaa_x_preferred":[
         "Lyublyana"
     ],
+    "name:kab_x_preferred":[
+        "Lyubyana"
+    ],
     "name:kan_x_preferred":[
         "\u0cb2\u0cc1\u0cac\u0ccd\u0cb2\u0cbf\u0caf\u0cbe\u0ca8\u0cbe"
     ],
@@ -274,6 +304,9 @@
     ],
     "name:lat_x_preferred":[
         "Aemona"
+    ],
+    "name:lat_x_variant":[
+        "Labacum"
     ],
     "name:lav_x_preferred":[
         "\u013bub\u013cana"
@@ -302,6 +335,9 @@
     "name:mar_x_preferred":[
         "\u0932\u093f\u092f\u0941\u092c\u094d\u0932\u093f\u092f\u093e\u0928\u093e"
     ],
+    "name:mdf_x_preferred":[
+        "\u041b\u044e\u0431\u043b\u044f\u043d\u0430"
+    ],
     "name:mkd_x_preferred":[
         "\u0409\u0443\u0431\u0459\u0430\u043d\u0430"
     ],
@@ -322,6 +358,9 @@
     ],
     "name:myv_x_preferred":[
         "\u041b\u044e\u0431\u043b\u044f\u043d\u0430 \u043e\u0448"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0644\u06cc\u0648\u0628\u0644\u06cc\u0627\u0646\u0627"
     ],
     "name:nah_x_preferred":[
         "Liubliana"
@@ -404,13 +443,31 @@
     "name:sin_x_preferred":[
         "\u0dbd\u0dd4\u0db6\u0dca\u0dbd\u0dd2\u0dba\u0dcf\u0db1\u0dcf"
     ],
+    "name:sje_x_preferred":[
+        "Ljubljana"
+    ],
+    "name:sju_x_preferred":[
+        "Ljubljana"
+    ],
     "name:slk_x_preferred":[
         "\u013dub\u013eana"
     ],
     "name:slv_x_preferred":[
         "Ljubljana"
     ],
+    "name:sma_x_preferred":[
+        "Ljubljana"
+    ],
     "name:sme_x_preferred":[
+        "Ljubljana"
+    ],
+    "name:smj_x_preferred":[
+        "Ljubljana"
+    ],
+    "name:smn_x_preferred":[
+        "Ljubljana"
+    ],
+    "name:sms_x_preferred":[
         "Ljubljana"
     ],
     "name:sna_x_preferred":[
@@ -509,6 +566,9 @@
     "name:vie_x_preferred":[
         "Ljubljana"
     ],
+    "name:vls_x_preferred":[
+        "Ljubljana"
+    ],
     "name:vol_x_preferred":[
         "Ljubljana"
     ],
@@ -529,6 +589,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10da\u10d8\u10e3\u10d1\u10da\u10d8\u10d0\u10dc\u10d0"
+    ],
+    "name:yid_x_preferred":[
+        "\u05dc\u05d9\u05d5\u05d1\u05dc\u05d9\u05d0\u05e0\u05d0"
     ],
     "name:yor_x_preferred":[
         "Ljubljana"
@@ -702,7 +765,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1636502667,
+    "wof:lastmodified":1690863725,
     "wof:megacity":0,
     "wof:name":"Ljubljana",
     "wof:parent_id":1108959501,

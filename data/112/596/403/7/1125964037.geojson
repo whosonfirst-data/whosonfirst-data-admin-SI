@@ -31,10 +31,16 @@
     "name:ceb_x_preferred":[
         "Rogoza"
     ],
+    "name:che_x_preferred":[
+        "\u0420\u043e\u0433\u043e\u0437\u0430"
+    ],
     "name:eng_x_preferred":[
         "Rogoza"
     ],
     "name:fra_x_preferred":[
+        "Rogoza"
+    ],
+    "name:hrv_x_preferred":[
         "Rogoza"
     ],
     "name:nld_x_preferred":[
@@ -48,6 +54,9 @@
     ],
     "name:slv_x_preferred":[
         "Rogoza"
+    ],
+    "name:tat_x_preferred":[
+        "\u0420\u043e\u0433\u043e\u0437\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0433\u043e\u0437\u0430"
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":1125964037,
-    "wof:lastmodified":1566645063,
+    "wof:lastmodified":1690863821,
     "wof:name":"Rogoza",
     "wof:parent_id":1108959749,
     "wof:placetype":"locality",

@@ -27,6 +27,9 @@
     "name:ceb_x_preferred":[
         "Grad"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u0440\u0443\u043f\u043b\u0438\u0432\u043d\u0438\u043a"
+    ],
     "name:eng_x_preferred":[
         "Kruplivnik"
     ],
@@ -48,6 +51,9 @@
     "name:hun_x_preferred":[
         "Vaskorp\u00e1d"
     ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0440\u0443\u043f\u043b\u0438\u0432\u043d\u0438\u043a"
+    ],
     "name:nld_x_preferred":[
         "Kruplivnik"
     ],
@@ -59,6 +65,9 @@
     ],
     "name:slv_x_preferred":[
         "Kruplivnik"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0440\u0443\u043f\u043b\u0438\u0432\u043d\u0438\u043a"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0443\u043f\u043b\u0438\u0432\u043d\u0438\u043a"
@@ -114,7 +123,7 @@
         }
     ],
     "wof:id":101858989,
-    "wof:lastmodified":1636502676,
+    "wof:lastmodified":1690863762,
     "wof:name":"Grad",
     "wof:parent_id":1108959663,
     "wof:placetype":"locality",

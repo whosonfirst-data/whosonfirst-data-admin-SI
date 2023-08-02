@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0633\u0644\u064a\u0646\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u064a\u0633\u0644\u064a\u0646\u064a\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09bf\u09b8\u09b2\u09bf\u099e\u09cd\u099c\u09be"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:ceb_x_preferred":[
         "Mislinja"
+    ],
+    "name:che_x_preferred":[
+        "\u041c\u0438\u0441\u043b\u0438\u043d\u044f"
     ],
     "name:dan_x_preferred":[
         "Mislinja"
@@ -134,11 +140,17 @@
     "name:tam_x_preferred":[
         "\u0bae\u0bbf\u0bb8\u0bcd\u0bb2\u0bbf\u0b9e\u0bcd\u0b9a\u0bbe"
     ],
+    "name:tat_x_preferred":[
+        "\u041c\u0438\u0441\u043b\u0438\u043d\u044f"
+    ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c3f\u0c38\u0c4d\u0c32\u0c3f\u0c02\u0c1c\u0c3e"
     ],
     "name:tha_x_preferred":[
         "\u0e21\u0e34\u0e2a\u0e25\u0e34\u0e19\u0e08\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e21\u0e34\u0e2a\u0e25\u0e35\u0e19\u0e34\u0e22\u0e32"
     ],
     "name:tur_x_preferred":[
         "Mislinja"
@@ -151,6 +163,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0633\u0644\u06cc\u0646\u062c\u0627"
+    ],
+    "name:vec_x_preferred":[
+        "Mislinja"
     ],
     "name:vie_x_preferred":[
         "Mislinja"
@@ -204,7 +219,7 @@
         }
     ],
     "wof:id":101791175,
-    "wof:lastmodified":1636502669,
+    "wof:lastmodified":1690863729,
     "wof:name":"Mislinja",
     "wof:parent_id":1108959467,
     "wof:placetype":"locality",

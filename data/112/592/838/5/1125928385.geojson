@@ -28,10 +28,16 @@
     "name:ceb_x_preferred":[
         "Bilje"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u0438\u043b\u0435"
+    ],
     "name:eng_x_preferred":[
         "Bilje"
     ],
     "name:fra_x_preferred":[
+        "Bilje"
+    ],
+    "name:hrv_x_preferred":[
         "Bilje"
     ],
     "name:ita_x_preferred":[
@@ -51,6 +57,9 @@
     ],
     "name:slv_x_preferred":[
         "Bilje"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0438\u043b\u0435"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0456\u043b\u0454"
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":1125928385,
-    "wof:lastmodified":1566645037,
+    "wof:lastmodified":1690863790,
     "wof:name":"Bilje",
     "wof:parent_id":1108959481,
     "wof:placetype":"locality",

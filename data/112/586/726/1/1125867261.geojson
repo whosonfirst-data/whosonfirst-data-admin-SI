@@ -26,6 +26,9 @@
     "name:arg_x_preferred":[
         "Sol\u010dava"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0648\u0644\u062a\u0634\u0627\u0641\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09cb\u09b2\u09be\u09ad\u09be"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:ceb_x_preferred":[
         "Sol\u010dava"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u043e\u043b\u0447\u0430\u0432\u0430"
     ],
     "name:dan_x_preferred":[
         "Solcava"
@@ -134,11 +140,17 @@
     "name:tam_x_preferred":[
         "\u0b9a\u0bca\u0bb2\u0bcd\u0b95\u0bb5"
     ],
+    "name:tat_x_preferred":[
+        "\u0421\u043e\u043b\u0447\u0430\u0432\u0430"
+    ],
     "name:tel_x_preferred":[
         "\u0c38\u0c4b\u0c32\u0c4d\u0c15\u0c47\u0c35\u0c3e"
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e27\u0e25\u0e04\u0e32\u0e27\u0e48\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e0b\u0e47\u0e2d\u0e25\u0e0a\u0e32\u0e27\u0e32"
     ],
     "name:tur_x_preferred":[
         "Sol\u010dava"
@@ -148,6 +160,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u0648\u0644\u06a9\u0627\u0648\u0627"
+    ],
+    "name:vec_x_preferred":[
+        "Sol\u010dava"
     ],
     "name:vie_x_preferred":[
         "Sol\u010dava"
@@ -203,7 +218,7 @@
         }
     ],
     "wof:id":1125867261,
-    "wof:lastmodified":1566645046,
+    "wof:lastmodified":1690863800,
     "wof:name":"Sol\u010dava",
     "wof:parent_id":1108959639,
     "wof:placetype":"locality",

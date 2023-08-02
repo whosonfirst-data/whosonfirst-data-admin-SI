@@ -26,6 +26,9 @@
     "name:ceb_x_preferred":[
         "Bobovo pri \u0160marju"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u043e\u0431\u043e\u0432\u043e-\u043f\u0440\u0438-\u0428\u043c\u0430\u0440\u044e"
+    ],
     "name:eng_x_preferred":[
         "Bobovo pri \u0160marju"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:slv_x_preferred":[
         "Bobovo pri \u0160marju"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u043e\u0431\u043e\u0432\u043e-\u043f\u0440\u0438-\u0428\u043c\u0430\u0440\u044e"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0431\u043e\u0432\u043e-\u043f\u0440\u0438-\u0428\u043c\u0430\u0440\u044e"
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":1126013087,
-    "wof:lastmodified":1566645067,
+    "wof:lastmodified":1690863825,
     "wof:name":"Bobovo Pri Smarju",
     "wof:parent_id":1108959607,
     "wof:placetype":"locality",

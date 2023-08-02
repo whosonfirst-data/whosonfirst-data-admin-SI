@@ -25,10 +25,16 @@
     "name:bos_x_preferred":[
         "Smre\u010dno"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u043c\u0440\u0435\u0447\u043d\u043e"
+    ],
     "name:eng_x_preferred":[
         "Smre\u010dno"
     ],
     "name:fra_x_preferred":[
+        "Smre\u010dno"
+    ],
+    "name:hrv_x_preferred":[
         "Smre\u010dno"
     ],
     "name:nld_x_preferred":[
@@ -42,6 +48,9 @@
     ],
     "name:slv_x_preferred":[
         "Smre\u010dno"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u043c\u0440\u0435\u0447\u043d\u043e"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u043c\u0440\u0435\u0447\u043d\u043e"
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":1125955693,
-    "wof:lastmodified":1566645037,
+    "wof:lastmodified":1690863791,
     "wof:name":"Smre\u010dno",
     "wof:parent_id":1108959641,
     "wof:placetype":"locality",

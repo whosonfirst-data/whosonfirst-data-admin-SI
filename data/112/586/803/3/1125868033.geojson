@@ -28,10 +28,16 @@
     "name:ceb_x_preferred":[
         "Podvolovljek"
     ],
+    "name:che_x_preferred":[
+        "\u041f\u043e\u0434\u0432\u043e\u043b\u043e\u0432\u043b\u0435\u043a"
+    ],
     "name:eng_x_preferred":[
         "Podvolovljek"
     ],
     "name:fra_x_preferred":[
+        "Podvolovljek"
+    ],
+    "name:hrv_x_preferred":[
         "Podvolovljek"
     ],
     "name:nld_x_preferred":[
@@ -45,6 +51,9 @@
     ],
     "name:slv_x_preferred":[
         "Podvolovljek"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u043e\u0434\u0432\u043e\u043b\u043e\u0432\u043b\u0435\u043a"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0434\u0432\u043e\u043b\u043e\u0432\u043b\u0454\u043a"
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":1125868033,
-    "wof:lastmodified":1566645046,
+    "wof:lastmodified":1690863800,
     "wof:name":"Podvolovljek",
     "wof:parent_id":1108959505,
     "wof:placetype":"locality",

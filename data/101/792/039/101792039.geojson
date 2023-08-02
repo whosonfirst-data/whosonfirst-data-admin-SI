@@ -26,6 +26,9 @@
     "name:ceb_x_preferred":[
         "Mozirje"
     ],
+    "name:che_x_preferred":[
+        "\u041c\u043e\u0437\u0438\u0440\u0435"
+    ],
     "name:eng_x_preferred":[
         "Mozirje"
     ],
@@ -68,11 +71,20 @@
     "name:swe_x_preferred":[
         "Mozirje"
     ],
+    "name:tat_x_preferred":[
+        "\u041c\u043e\u0437\u0438\u0440\u0435"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e2d\u0e0b\u0e35\u0e23\u0e34\u0e41\u0e22"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0437\u0438\u0440\u0454"
     ],
     "name:und_x_variant":[
         "Prassberg"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u6fdf\u5217"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -124,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1636502679,
+    "wof:lastmodified":1690863775,
     "wof:name":"Mozirje",
     "wof:parent_id":1108959485,
     "wof:placetype":"locality",

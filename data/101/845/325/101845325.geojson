@@ -29,6 +29,12 @@
     "name:ces_x_preferred":[
         "Ob\u010dina Kozje"
     ],
+    "name:ces_x_variant":[
+        "Kozje"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u043e\u0437\u0435"
+    ],
     "name:deu_x_preferred":[
         "Kozje"
     ],
@@ -95,6 +101,12 @@
     "name:srp_x_variant":[
         "\u041a\u043e\u0437\u0458\u0435"
     ],
+    "name:tat_x_preferred":[
+        "\u041a\u043e\u0437\u0435"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e04\u0e0b\u0e34\u0e41\u0e22"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0437\u0454"
     ],
@@ -103,6 +115,9 @@
     ],
     "name:zho_x_preferred":[
         "\u79d1\u8332\u8036"
+    ],
+    "name:zho_x_variant":[
+        "\u79d1\u6fdf\u8036"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -146,7 +161,7 @@
         }
     ],
     "wof:id":101845325,
-    "wof:lastmodified":1636502671,
+    "wof:lastmodified":1690863739,
     "wof:name":"Kozje",
     "wof:parent_id":1108959581,
     "wof:placetype":"locality",

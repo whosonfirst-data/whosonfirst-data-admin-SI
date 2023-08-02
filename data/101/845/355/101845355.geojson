@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000039,
     "geom:area_square_m":329186.169115,
-    "geom:bbox":"15.0310000914,46.3264558138,15.0392765329,46.3337029223",
+    "geom:bbox":"15.031,46.326456,15.039277,46.333703",
     "geom:latitude":46.330249,
     "geom:longitude":15.035284,
     "gn:population":642,
@@ -32,6 +32,12 @@
     "name:ces_x_preferred":[
         "Ob\u010dina \u0160martno ob Paki"
     ],
+    "name:che_x_preferred":[
+        "\u0428\u043c\u0430\u0440\u0442\u043d\u043e-\u043e\u0431-\u041f\u0430\u043a\u0438"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref \u0160martno ob Paki"
+    ],
     "name:dan_x_preferred":[
         "\u0160martno ob Paki Municipality"
     ],
@@ -43,6 +49,9 @@
     ],
     "name:eng_x_preferred":[
         "\u0160martno ob Paki Municipality"
+    ],
+    "name:eng_x_variant":[
+        "Municipality of \u0160martno ob Paki"
     ],
     "name:epo_x_preferred":[
         "Ob\u010dina \u0160martno ob Paki"
@@ -61,6 +70,9 @@
     ],
     "name:hrv_x_preferred":[
         "Op\u0107ina \u0160martno ob Paki"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u0574\u0561\u0580\u057f\u0576\u0578 \u0585\u0562 \u054a\u0561\u056f\u056b \u0570\u0561\u0574\u0561\u0575\u0576\u0584"
     ],
     "name:ind_x_preferred":[
         "Kotamadya \u0160martno ob Paki"
@@ -88,6 +100,9 @@
     ],
     "name:msa_x_preferred":[
         "Smartno ob Paki Municipality"
+    ],
+    "name:nan_x_preferred":[
+        "\u0160martno ob Paki Kong-si\u0101"
     ],
     "name:nld_x_preferred":[
         "\u0160martno ob Paki"
@@ -122,11 +137,20 @@
     "name:swe_x_preferred":[
         "Smartno ob Paki Kommun"
     ],
+    "name:tam_x_preferred":[
+        "\u0bb8\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0ba9\u0bb0\u0bcb \u0b92\u0baa\u0bcd \u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tat_x_preferred":[
+        "\u0428\u043c\u0430\u0440\u0442\u043d\u043e-\u043e\u0431-\u041f\u0430\u043a\u0438"
+    ],
     "name:tel_x_preferred":[
         "\u0c38\u0c4d\u0c2e\u0c3e\u0c30\u0c4d\u0c1f\u0c4d\u0c28\u0c4b \u0c13\u0c2c\u0c4d \u0c2a\u0c3e\u0c15\u0c3f \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e2a\u0e21\u0e32\u0e23\u0e4c\u0e17\u0e42\u0e19 \u0e2d\u0e2d\u0e1a \u0e1e\u0e32\u0e04\u0e34"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e0a\u0e21\u0e32\u0e23\u0e4c\u0e15\u0e19\u0e2d\u0e2d\u0e47\u0e2d\u0e1b\u0e1b\u0e32\u0e01\u0e35"
     ],
     "name:tur_x_preferred":[
         "Smartno ob Paki Belediyesi"
@@ -139,6 +163,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u0645\u0627\u0631\u062a\u0646\u0648 \u0627\u0648\u0628 \u067e\u06a9\u06cc \u0645\u06cc\u0648\u0646\u0633\u067e\u0644\u0679\u06cc"
+    ],
+    "name:vec_x_preferred":[
+        "\u0160martno ob Paki"
     ],
     "name:vie_x_preferred":[
         "\u0160martno ob Paki"
@@ -177,7 +204,7 @@
         "wk:page":"\u0160martno ob Paki"
     },
     "wof:country":"SI",
-    "wof:geomhash":"fbefe48004a6232a2517fa0d79818284",
+    "wof:geomhash":"be23b9dd24466eb62a54ee4f167de721",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,7 +215,7 @@
         }
     ],
     "wof:id":101845355,
-    "wof:lastmodified":1566644976,
+    "wof:lastmodified":1690863735,
     "wof:name":"\u0160martno ob Paki",
     "wof:parent_id":1108959729,
     "wof:placetype":"locality",
@@ -200,10 +227,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.03100009135164,
-    46.32645581375039,
-    15.03927653293186,
-    46.33370292225175
+    15.031,
+    46.326456,
+    15.039277,
+    46.333703
 ],
-  "geometry": {"coordinates":[[[15.03927653293186,46.33351992639581],[15.03910742670189,46.33172340317742],[15.03781248600643,46.33178441508852],[15.03755891880451,46.32908962241555],[15.03885379483847,46.32902861404904],[15.03868472524812,46.32723208509589],[15.03609505672068,46.3273540814497],[15.0360105705206,46.32645581375039],[15.03471575381025,46.32651678726586],[15.03480021845974,46.32741505614592],[15.03350537753528,46.32747601518821],[15.03358982429347,46.32837428467525],[15.03100009135164,46.32849615815826],[15.03133774255213,46.33208923981431],[15.03392764792676,46.33196735689012],[15.03401211298603,46.33286562351066],[15.03530708323387,46.33280465738483],[15.03539157351122,46.33370292225175],[15.03927653293186,46.33351992639581]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[15.039277,46.33352],[15.039107,46.331723],[15.037812,46.331784],[15.037559,46.32909],[15.038854,46.329029],[15.038685,46.327232],[15.036095,46.327354],[15.036011,46.326456],[15.034716,46.326517],[15.0348,46.327415],[15.033505,46.327476],[15.03359,46.328374],[15.031,46.328496],[15.031338,46.332089],[15.033928,46.331967],[15.034012,46.332866],[15.035307,46.332805],[15.035392,46.333703],[15.039277,46.33352]]],"type":"Polygon"}
 }

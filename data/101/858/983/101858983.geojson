@@ -27,6 +27,9 @@
     "name:ces_x_preferred":[
         "Ob\u010dina Zavr\u010d"
     ],
+    "name:che_x_preferred":[
+        "\u0417\u0430\u0432\u0440\u0447"
+    ],
     "name:deu_x_preferred":[
         "Zavr\u010d"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:hrv_x_preferred":[
         "Op\u0107ina Zavr\u010d"
+    ],
+    "name:hrv_x_variant":[
+        "Zavr\u010d"
     ],
     "name:ita_x_preferred":[
         "Zavr\u010d"
@@ -69,8 +75,17 @@
     "name:srp_x_preferred":[
         "\u0417\u0430\u0432\u0440\u0447"
     ],
+    "name:tat_x_preferred":[
+        "\u0417\u0430\u0432\u0440\u0447"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e40\u0e27\u0e34\u0e23\u0e4c\u0e0a"
+    ],
     "name:ukr_x_preferred":[
         "\u0417\u0430\u0432\u0440\u0447"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u5f17\u723e\u5947"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -119,7 +134,7 @@
         }
     ],
     "wof:id":101858983,
-    "wof:lastmodified":1582358302,
+    "wof:lastmodified":1690863759,
     "wof:name":"Zavr\u010d",
     "wof:parent_id":1108959619,
     "wof:placetype":"locality",

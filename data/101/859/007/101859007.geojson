@@ -24,11 +24,23 @@
     "name:bos_x_preferred":[
         "Lu\u010de"
     ],
+    "name:cat_x_preferred":[
+        "Lu\u010de"
+    ],
     "name:ceb_x_preferred":[
+        "Lu\u010de"
+    ],
+    "name:che_x_preferred":[
+        "\u041b\u0443\u0447\u0435"
+    ],
+    "name:dan_x_preferred":[
         "Lu\u010de"
     ],
     "name:deu_x_preferred":[
         "Leutsch"
+    ],
+    "name:deu_x_variant":[
+        "Lu\u010de"
     ],
     "name:eng_x_preferred":[
         "Lu\u010de"
@@ -36,7 +48,13 @@
     "name:fra_x_preferred":[
         "Lu\u010de"
     ],
+    "name:gle_x_preferred":[
+        "Lu\u010de"
+    ],
     "name:hbs_x_preferred":[
+        "Lu\u010de"
+    ],
+    "name:hrv_x_preferred":[
         "Lu\u010de"
     ],
     "name:nld_x_preferred":[
@@ -53,6 +71,12 @@
     ],
     "name:srp_x_preferred":[
         "\u041b\u0443\u0447\u0435"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u0443\u0447\u0435"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e25\u0e39\u0e41\u0e0a"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0443\u0447\u0435"
@@ -108,7 +132,7 @@
         }
     ],
     "wof:id":101859007,
-    "wof:lastmodified":1582358300,
+    "wof:lastmodified":1690863749,
     "wof:name":"Lu\u010de",
     "wof:parent_id":1108959505,
     "wof:placetype":"locality",
