@@ -35,10 +35,16 @@
     "name:ceb_x_preferred":[
         "Trnovo"
     ],
+    "name:che_x_preferred":[
+        "\u0422\u0440\u043d\u043e\u0432\u043e"
+    ],
     "name:eng_x_preferred":[
         "Trnovo"
     ],
     "name:fra_x_preferred":[
+        "Trnovo"
+    ],
+    "name:hrv_x_preferred":[
         "Trnovo"
     ],
     "name:hun_x_preferred":[
@@ -46,6 +52,9 @@
     ],
     "name:ita_x_preferred":[
         "Tarnova"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0422\u0440\u043d\u043e\u0432\u043e"
     ],
     "name:nld_x_preferred":[
         "Trnovo"
@@ -58,6 +67,9 @@
     ],
     "name:slv_x_preferred":[
         "Trnovo"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0440\u043d\u043e\u0432\u043e"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0440\u043d\u043e\u0432\u043e"
@@ -132,7 +144,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582358282,
+    "wof:lastmodified":1690863719,
     "wof:name":"Trnovo",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",

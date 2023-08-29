@@ -27,6 +27,9 @@
     "name:ceb_x_preferred":[
         "Trnovska Vas"
     ],
+    "name:che_x_preferred":[
+        "\u0422\u0440\u043d\u043e\u0432\u0441\u044c\u043a\u0430 \u0412\u0430\u0441"
+    ],
     "name:deu_x_preferred":[
         "Sankt Wolfgang in Windischb\u00fcheln"
     ],
@@ -48,6 +51,9 @@
     "name:heb_x_preferred":[
         "\u05d8\u05e8\u05e0\u05d5\u05d1\u05e1\u05e7\u05d4 \u05d5\u05d5\u05d0\u05e1"
     ],
+    "name:hrv_x_preferred":[
+        "Trnovska vas"
+    ],
     "name:hun_x_preferred":[
         "Trnovska vas"
     ],
@@ -65,6 +71,12 @@
     ],
     "name:srp_x_preferred":[
         "\u0422\u0440\u043d\u043e\u0432\u0441\u043a\u0430 \u0412\u0430\u0441"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0440\u043d\u043e\u0432\u0441\u044c\u043a\u0430 \u0412\u0430\u0441"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e15\u0e2d\u0e23\u0e4c\u0e19\u0e2d\u0e27\u0e4c\u0e2a\u0e01\u0e32\u0e27\u0e32\u0e2a"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0440\u043d\u043e\u0432\u0441\u044c\u043a\u0430 \u0412\u0430\u0441"
@@ -128,7 +140,7 @@
         }
     ],
     "wof:id":101858999,
-    "wof:lastmodified":1636502675,
+    "wof:lastmodified":1690863758,
     "wof:name":"Trnovska vas",
     "wof:parent_id":1108959717,
     "wof:placetype":"locality",

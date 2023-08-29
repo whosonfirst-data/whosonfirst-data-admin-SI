@@ -25,10 +25,16 @@
     "name:bos_x_preferred":[
         "Lukanja"
     ],
+    "name:che_x_preferred":[
+        "\u041b\u0443\u043a\u0430\u043d\u044f"
+    ],
     "name:eng_x_preferred":[
         "Lukanja"
     ],
     "name:fra_x_preferred":[
+        "Lukanja"
+    ],
+    "name:hrv_x_preferred":[
         "Lukanja"
     ],
     "name:nld_x_preferred":[
@@ -42,6 +48,9 @@
     ],
     "name:slv_x_preferred":[
         "Lukanja"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u0443\u043a\u0430\u043d\u044f"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0443\u043a\u0430\u043d\u044f"
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":1125795713,
-    "wof:lastmodified":1566645073,
+    "wof:lastmodified":1690863834,
     "wof:name":"Lukanja",
     "wof:parent_id":1108959641,
     "wof:placetype":"locality",

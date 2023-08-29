@@ -32,6 +32,9 @@
     "name:arg_x_preferred":[
         "Celje"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0633\u0644\u064a\u0647"
+    ],
     "name:ast_x_preferred":[
         "Celje"
     ],
@@ -64,6 +67,9 @@
     ],
     "name:ces_x_preferred":[
         "Celje"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062a\u0633\u06ce\u0644\u06cc\u06d5"
     ],
     "name:cos_x_preferred":[
         "Celje"
@@ -179,11 +185,17 @@
     "name:lav_x_preferred":[
         "Celje"
     ],
+    "name:lav_x_variant":[
+        "Ce\u013ce"
+    ],
     "name:lit_x_preferred":[
         "Cel\u0117"
     ],
     "name:ltz_x_preferred":[
         "Celje"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0426\u044d\u043b\u0435"
     ],
     "name:min_x_preferred":[
         "Celje"
@@ -215,6 +227,9 @@
     "name:oci_x_preferred":[
         "Celje"
     ],
+    "name:oss_x_preferred":[
+        "\u0426\u0435\u043b\u0435"
+    ],
     "name:pnb_x_preferred":[
         "\u0633\u06cc\u0644\u06cc\u06d2"
     ],
@@ -245,6 +260,15 @@
     "name:slv_x_preferred":[
         "Celje"
     ],
+    "name:sme_x_preferred":[
+        "Celje"
+    ],
+    "name:smn_x_preferred":[
+        "Celje"
+    ],
+    "name:sms_x_preferred":[
+        "Celje"
+    ],
     "name:sot_x_preferred":[
         "Celje"
     ],
@@ -263,6 +287,9 @@
     "name:swe_x_preferred":[
         "Celje"
     ],
+    "name:szl_x_preferred":[
+        "Celje"
+    ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bc6\u0bb2\u0bcd\u0b9c\u0bcd"
     ],
@@ -278,11 +305,17 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e0b\u0e40\u0e25\u0e35\u0e22"
     ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e0b\u0e25\u0e34\u0e41\u0e22"
+    ],
     "name:tur_x_preferred":[
         "Celje"
     ],
     "name:ukr_x_preferred":[
         "\u0426\u0435\u043b\u044c\u0454"
+    ],
+    "name:ukr_x_variant":[
+        "\u0426\u0435\u043b\u0454"
     ],
     "name:und_x_variant":[
         "Cilli",
@@ -301,6 +334,9 @@
         "Celje"
     ],
     "name:vol_x_preferred":[
+        "Celje"
+    ],
+    "name:war_x_preferred":[
         "Celje"
     ],
     "name:wln_x_preferred":[
@@ -364,7 +400,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1636502679,
+    "wof:lastmodified":1690863773,
     "wof:name":"Celje",
     "wof:parent_id":1108959693,
     "wof:placetype":"locality",

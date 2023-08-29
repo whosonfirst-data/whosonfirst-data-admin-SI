@@ -25,6 +25,9 @@
     "name:bos_x_preferred":[
         "Gornji Suhor pri Metliki"
     ],
+    "name:che_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0438\u0439 \u0421\u0443\u0445\u043e\u0440-\u043f\u0440\u0438-\u041c\u0435\u0442\u043b\u0438\u043a\u0438"
+    ],
     "name:eng_x_preferred":[
         "Gornji Suhor pri Metliki"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:slv_x_preferred":[
         "Gornji Suhor pri Metliki"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0438\u0439 \u0421\u0443\u0445\u043e\u0440-\u043f\u0440\u0438-\u041c\u0435\u0442\u043b\u0438\u043a\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0440\u043d\u0456\u0439 \u0421\u0443\u0445\u043e\u0440-\u043f\u0440\u0438-\u041c\u0435\u0442\u043b\u0438\u043a\u0456"
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":1126004929,
-    "wof:lastmodified":1566645070,
+    "wof:lastmodified":1690863830,
     "wof:name":"Gornji Suhor Pri Metliki",
     "wof:parent_id":1108959909,
     "wof:placetype":"locality",

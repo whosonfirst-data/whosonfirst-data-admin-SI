@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Sromlje"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u0440\u043e\u043c\u043b\u0435"
+    ],
     "name:eng_x_preferred":[
         "Sromlje"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:hrv_x_preferred":[
         "Sromlje"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0440\u043e\u043c\u0459\u0435"
     ],
     "name:nld_x_preferred":[
         "Sromlje"
@@ -48,6 +54,9 @@
     ],
     "name:slv_x_preferred":[
         "Sromlje"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0440\u043e\u043c\u043b\u0435"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0440\u043e\u043c\u043b\u0454"
@@ -108,7 +117,7 @@
         }
     ],
     "wof:id":1125955875,
-    "wof:lastmodified":1566645039,
+    "wof:lastmodified":1690863793,
     "wof:name":"Sromlje",
     "wof:parent_id":1108959585,
     "wof:placetype":"locality",

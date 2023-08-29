@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Solkan"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u043e\u043b\u043a\u0430\u043d"
+    ],
     "name:cym_x_preferred":[
         "Solkan"
     ],
@@ -40,6 +43,9 @@
     "name:fra_x_preferred":[
         "Solkan"
     ],
+    "name:hrv_x_preferred":[
+        "Solkan"
+    ],
     "name:hun_x_preferred":[
         "Solkan"
     ],
@@ -49,7 +55,16 @@
     "name:ita_x_preferred":[
         "Salcano"
     ],
+    "name:mkd_x_preferred":[
+        "\u0421\u043e\u043b\u043a\u0430\u043d"
+    ],
     "name:nld_x_preferred":[
+        "Solkan"
+    ],
+    "name:nno_x_preferred":[
+        "Solkan"
+    ],
+    "name:nob_x_preferred":[
         "Solkan"
     ],
     "name:pol_x_preferred":[
@@ -63,6 +78,12 @@
     ],
     "name:spa_x_preferred":[
         "Solkan"
+    ],
+    "name:swe_x_preferred":[
+        "Solkan"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u043e\u043b\u043a\u0430\u043d"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u043e\u043b\u043a\u0430\u043d"
@@ -120,7 +141,7 @@
         }
     ],
     "wof:id":1126010201,
-    "wof:lastmodified":1566645067,
+    "wof:lastmodified":1690863826,
     "wof:name":"Solkan",
     "wof:parent_id":1108959487,
     "wof:placetype":"locality",

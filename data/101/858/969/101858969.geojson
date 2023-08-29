@@ -27,6 +27,9 @@
     "name:ceb_x_preferred":[
         "Maj\u0161perk"
     ],
+    "name:che_x_preferred":[
+        "\u041c\u0430\u0439\u0448\u043f\u0435\u0440\u043a"
+    ],
     "name:eng_x_preferred":[
         "Maj\u0161perk"
     ],
@@ -34,6 +37,9 @@
         "Maj\u0161perk"
     ],
     "name:hbs_x_preferred":[
+        "Maj\u0161perk"
+    ],
+    "name:hrv_x_preferred":[
         "Maj\u0161perk"
     ],
     "name:ita_x_preferred":[
@@ -63,11 +69,20 @@
     "name:swe_x_preferred":[
         "Majsperk"
     ],
+    "name:tat_x_preferred":[
+        "\u041c\u0430\u0439\u0448\u043f\u0435\u0440\u043a"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e32\u0e22\u0e0a\u0e41\u0e1b\u0e23\u0e4c\u0e01"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0439\u0448\u043f\u0435\u0440\u043a"
     ],
     "name:vie_x_preferred":[
         "Maj\u0161perk"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u4f0a\u4ec0\u4f69\u514b"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -116,7 +131,7 @@
         }
     ],
     "wof:id":101858969,
-    "wof:lastmodified":1582358302,
+    "wof:lastmodified":1690863761,
     "wof:name":"Maj\u0161perk",
     "wof:parent_id":1108959491,
     "wof:placetype":"locality",

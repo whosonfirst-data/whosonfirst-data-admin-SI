@@ -33,6 +33,9 @@
     "name:ces_x_variant":[
         "Ob\u010dina Cirkulane"
     ],
+    "name:che_x_preferred":[
+        "\u0426\u0438\u0440\u043a\u0443\u043b\u0430\u043d\u0435"
+    ],
     "name:deu_x_preferred":[
         "Cirkulane"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:hrv_x_preferred":[
         "Op\u0107ina Cirkulane"
+    ],
+    "name:hrv_x_variant":[
+        "Cirkulane"
     ],
     "name:hun_x_preferred":[
         "Cirkulane"
@@ -78,11 +84,23 @@
     "name:slv_x_variant":[
         "Ob\u010dina Cirkulane"
     ],
+    "name:srp_x_preferred":[
+        "\u0426\u0438\u0440\u043a\u0443\u043b\u0430\u043d\u0435"
+    ],
+    "name:tat_x_preferred":[
+        "\u0426\u0438\u0440\u043a\u0443\u043b\u0430\u043d\u0435"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e35\u0e23\u0e4c\u0e01\u0e39\u0e25\u0e32\u0e41\u0e19"
+    ],
     "name:ukr_x_preferred":[
         "\u0426\u0438\u0440\u043a\u0443\u043b\u0430\u043d\u0435"
     ],
     "name:urd_x_preferred":[
         "\u062a\u0633\u06cc\u0631\u06a9\u0648\u0644\u0627\u0646\u06d2"
+    ],
+    "name:vec_x_preferred":[
+        "Cirkulane"
     ],
     "name:vie_x_preferred":[
         "Cirkulane"
@@ -136,7 +154,7 @@
         }
     ],
     "wof:id":101859015,
-    "wof:lastmodified":1582358300,
+    "wof:lastmodified":1690863748,
     "wof:name":"Cirkulane",
     "wof:parent_id":1108959743,
     "wof:placetype":"locality",

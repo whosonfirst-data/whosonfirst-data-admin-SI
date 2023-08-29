@@ -25,6 +25,9 @@
     "name:bos_x_preferred":[
         "Kamni\u0161ka Bistrica"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u0430\u043c\u043d\u0438\u0448\u043a\u0430 \u0411\u0438\u0441\u0442\u0440\u0438\u0446\u044f"
+    ],
     "name:eng_x_preferred":[
         "Kamni\u0161ka Bistrica"
     ],
@@ -32,6 +35,9 @@
         "Kamni\u0161ka Bistrica"
     ],
     "name:fra_x_preferred":[
+        "Kamni\u0161ka Bistrica"
+    ],
+    "name:hrv_x_preferred":[
         "Kamni\u0161ka Bistrica"
     ],
     "name:nld_x_preferred":[
@@ -45,6 +51,9 @@
     ],
     "name:slv_x_preferred":[
         "Kamni\u0161ka Bistrica"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0430\u043c\u043d\u0438\u0448\u043a\u0430 \u0411\u0438\u0441\u0442\u0440\u0438\u0446\u044f"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043c\u043d\u0438\u0448\u043a\u0430 \u0411\u0438\u0441\u0442\u0440\u0438\u0446\u044f"
@@ -105,7 +114,7 @@
         }
     ],
     "wof:id":1126009927,
-    "wof:lastmodified":1566645070,
+    "wof:lastmodified":1690863829,
     "wof:name":"Kamni\u00b5ka Bistrica",
     "wof:parent_id":1108959941,
     "wof:placetype":"locality",

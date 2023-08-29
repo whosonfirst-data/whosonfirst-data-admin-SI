@@ -31,6 +31,9 @@
     "name:ceb_x_preferred":[
         "Krog"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u0440\u043e\u0433"
+    ],
     "name:eng_x_preferred":[
         "Krog"
     ],
@@ -49,6 +52,9 @@
     "name:ita_x_preferred":[
         "Krog"
     ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0440\u043e\u0433"
+    ],
     "name:nld_x_preferred":[
         "Krog"
     ],
@@ -60,6 +66,9 @@
     ],
     "name:slv_x_preferred":[
         "Krog"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0440\u043e\u0433"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0440\u043e\u0433"
@@ -113,7 +122,7 @@
         }
     ],
     "wof:id":1125905821,
-    "wof:lastmodified":1566645060,
+    "wof:lastmodified":1690863818,
     "wof:name":"Krog",
     "wof:parent_id":1108959483,
     "wof:placetype":"locality",

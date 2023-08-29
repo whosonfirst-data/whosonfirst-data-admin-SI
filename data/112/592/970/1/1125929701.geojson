@@ -28,10 +28,16 @@
     "name:ceb_x_preferred":[
         "Log pod Mangartom"
     ],
+    "name:che_x_preferred":[
+        "\u041b\u043e\u0433-\u043f\u043e\u0434-\u041c\u0430\u043d\u0433\u0430\u0440\u0442\u043e\u043c"
+    ],
     "name:eng_x_preferred":[
         "Log pod Mangartom"
     ],
     "name:fra_x_preferred":[
+        "Log pod Mangartom"
+    ],
+    "name:hrv_x_preferred":[
         "Log pod Mangartom"
     ],
     "name:hun_x_preferred":[
@@ -49,6 +55,9 @@
     "name:pol_x_preferred":[
         "Log pod Mangartom"
     ],
+    "name:por_x_preferred":[
+        "Log pod Mangartom"
+    ],
     "name:ron_x_preferred":[
         "Log pod Mangartom"
     ],
@@ -58,11 +67,17 @@
     "name:slv_x_preferred":[
         "Log pod Mangartom"
     ],
+    "name:tat_x_preferred":[
+        "\u041b\u043e\u0433-\u043f\u043e\u0434-\u041c\u0430\u043d\u0433\u0430\u0440\u0442\u043e\u043c"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u043e\u0433 \u043f\u043e\u0434 \u041c\u0430\u043d\u0433\u0430\u0440\u0442\u043e\u043c"
     ],
     "name:und_x_variant":[
         "Bretto di Sotto"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f57\u683c\u5761\u66fc\u6208\u5510"
     ],
     "qs_pg:aaroncc":"SI",
     "qs_pg:gn_country":"SI",
@@ -117,7 +132,7 @@
         }
     ],
     "wof:id":1125929701,
-    "wof:lastmodified":1566645036,
+    "wof:lastmodified":1690863789,
     "wof:name":"Log Pod Mangartom",
     "wof:parent_id":1108959541,
     "wof:placetype":"locality",

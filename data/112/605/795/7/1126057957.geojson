@@ -25,8 +25,14 @@
     "name:bos_x_preferred":[
         "Sveti Duh na Ostrem vrhu"
     ],
+    "name:bos_x_variant":[
+        "Sv. Duh na Ostrem vrhu"
+    ],
     "name:ceb_x_preferred":[
         "Sv. Duh na Ostrem Vrhu"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0438\u0439 \u0414\u0443\u0445-\u043d\u0430-\u041e\u0441\u0442\u0440\u0435\u043c \u0412\u0440\u0445\u0443"
     ],
     "name:deu_x_preferred":[
         "Kirche zum Heiligen Geist am Osterberg"
@@ -34,8 +40,14 @@
     "name:eng_x_preferred":[
         "Sveti Duh na Ostrem Vrhu"
     ],
+    "name:eng_x_variant":[
+        "Sv. Duh na Ostrem vrhu"
+    ],
     "name:fra_x_preferred":[
         "Sv. Duh na Ostrem Vrhu"
+    ],
+    "name:hrv_x_preferred":[
+        "Sv. Duh na Ostrem vrhu"
     ],
     "name:nld_x_preferred":[
         "Sv. Duh na Ostrem Vrhu"
@@ -48,6 +60,12 @@
     ],
     "name:slv_x_preferred":[
         "Sv. Duh na Ostrem Vrhu"
+    ],
+    "name:slv_x_variant":[
+        "Sv. Duh na Ostrem vrhu"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0438\u0439 \u0414\u0443\u0445-\u043d\u0430-\u041e\u0441\u0442\u0440\u0435\u043c \u0412\u0440\u0445\u0443"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0432\u0435\u0442\u0438\u0439 \u0414\u0443\u0445-\u043d\u0430-\u041e\u0441\u0442\u0440\u0435\u043c \u0412\u0440\u0445\u0443"
@@ -103,7 +121,7 @@
         }
     ],
     "wof:id":1126057957,
-    "wof:lastmodified":1566645043,
+    "wof:lastmodified":1690863797,
     "wof:name":"Sv. Duh Na Ostrem Vrhu",
     "wof:parent_id":1108959661,
     "wof:placetype":"locality",

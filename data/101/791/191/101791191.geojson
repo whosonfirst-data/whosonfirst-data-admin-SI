@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0643\u0648\u0646\u0633\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0643\u0648\u0646\u0633\u0649"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09c1\u0995\u099e\u09cd\u099a\u09bf"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:ceb_x_preferred":[
         "Puconci"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u0443\u0446\u043e\u043d\u0446\u0438"
     ],
     "name:dan_x_preferred":[
         "Puconci"
@@ -92,6 +98,9 @@
     "name:mar_x_preferred":[
         "\u092a\u094b\u0915\u094b\u0902\u091a\u0940"
     ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0443\u0446\u043e\u043d\u0446\u0438"
+    ],
     "name:msa_x_preferred":[
         "Puconci"
     ],
@@ -134,11 +143,17 @@
     "name:tam_x_preferred":[
         "\u0baa\u0bc1\u0b95\u0bbe\u0ba9\u0bcd\u0b95\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u041f\u0443\u0446\u043e\u043d\u0446\u0438"
+    ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c41\u0c15\u0c4a\u0c28\u0c4d\u0c38\u0c40"
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e39\u0e04\u0e31\u0e27\u0e0b\u0e35"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1b\u0e39\u0e15\u0e0b\u0e47\u0e2d\u0e19\u0e15\u0e4c\u0e0b\u0e35"
     ],
     "name:tur_x_preferred":[
         "PUconci"
@@ -151,6 +166,9 @@
     ],
     "name:urd_x_variant":[
         "\u067e\u0648\u06a9\u0648\u0646\u06a9\u06cc"
+    ],
+    "name:vec_x_preferred":[
+        "Puconci"
     ],
     "name:vie_x_preferred":[
         "Puconci"
@@ -206,7 +224,7 @@
         }
     ],
     "wof:id":101791191,
-    "wof:lastmodified":1636502669,
+    "wof:lastmodified":1690863730,
     "wof:name":"Puconci",
     "wof:parent_id":1108959935,
     "wof:placetype":"locality",

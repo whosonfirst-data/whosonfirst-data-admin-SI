@@ -29,6 +29,9 @@
     "name:ceb_x_preferred":[
         "Prebold"
     ],
+    "name:che_x_preferred":[
+        "\u041f\u0440\u0435\u0431\u043e\u043b\u0434"
+    ],
     "name:deu_x_preferred":[
         "Prebold"
     ],
@@ -77,11 +80,20 @@
     "name:srp_x_preferred":[
         "\u041f\u0440\u0435\u0431\u043e\u043b\u0434"
     ],
+    "name:tat_x_preferred":[
+        "\u041f\u0440\u0435\u0431\u043e\u043b\u0434"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e1b\u0e23\u0e1a\u0e47\u0e2d\u0e25\u0e15\u0e4c"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0435\u0431\u043e\u043b\u0434"
     ],
     "name:vie_x_preferred":[
         "Prebold"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u96f7\u535a\u723e\u5fb7"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -130,7 +142,7 @@
         }
     ],
     "wof:id":101845293,
-    "wof:lastmodified":1636502670,
+    "wof:lastmodified":1690863738,
     "wof:name":"Prebold",
     "wof:parent_id":1108959713,
     "wof:placetype":"locality",

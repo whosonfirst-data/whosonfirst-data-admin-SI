@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Koro\u0161ka Bela"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u043e\u0440\u043e\u0448\u043a\u0430 \u0411\u0435\u043b\u0430"
+    ],
     "name:eng_x_preferred":[
         "Koro\u0161ka Bela"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:slv_x_preferred":[
         "Koro\u0161ka Bela"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u043e\u0440\u043e\u0448\u043a\u0430 \u0411\u0435\u043b\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0440\u043e\u0448\u043a\u0430 \u0411\u0435\u043b\u0430"
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1126040991,
-    "wof:lastmodified":1566645043,
+    "wof:lastmodified":1690863798,
     "wof:name":"Koroska Bela",
     "wof:parent_id":1108959875,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:ceb_x_preferred":[
         "Begunje na Gorenjskem"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u0435\u0433\u0443\u043d\u0435-\u043d\u0430-\u0413\u043e\u0440\u0435\u043d\u0441\u044c\u043a\u0435\u043c"
+    ],
     "name:deu_x_preferred":[
         "Begunje"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:swe_x_preferred":[
         "Begunje"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0435\u0433\u0443\u043d\u0435-\u043d\u0430-\u0413\u043e\u0440\u0435\u043d\u0441\u044c\u043a\u0435\u043c"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0433\u0443\u043d\u0454 \u043d\u0430 \u0413\u043e\u0440\u0435\u043d\u044c\u0441\u044c\u043a\u0435\u043c"
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":1126051413,
-    "wof:lastmodified":1566645043,
+    "wof:lastmodified":1690863798,
     "wof:name":"Begunje Na Gorenjskem",
     "wof:parent_id":1108959825,
     "wof:placetype":"locality",

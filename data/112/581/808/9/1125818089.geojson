@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"14.26113,46.1711245,14.26113,46.1711245",
+    "geom:bbox":"14.26113,46.171124,14.26113,46.171124",
     "geom:latitude":46.171124,
     "geom:longitude":14.26113,
     "gn:country":null,
@@ -22,6 +22,9 @@
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Krivo Brdo"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0440\u0438\u0432\u043e \u0411\u0440\u0434\u043e"
     ],
     "name:eng_x_preferred":[
         "Krivo Brdo"
@@ -43,6 +46,9 @@
     ],
     "name:slv_x_preferred":[
         "Krivo Brdo"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0440\u0438\u0432\u043e \u0411\u0440\u0434\u043e"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0438\u0432\u043e \u0411\u0440\u0434\u043e"
@@ -84,7 +90,7 @@
     },
     "wof:country":"SI",
     "wof:created":1497291928,
-    "wof:geomhash":"3daf9a2559396834fb4db8db722a5895",
+    "wof:geomhash":"dd1888405332d33acba70a2e5619a850",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1125818089,
-    "wof:lastmodified":1566645046,
+    "wof:lastmodified":1690863801,
     "wof:name":"Krivo Brdo",
     "wof:parent_id":1108959821,
     "wof:placetype":"locality",
@@ -106,9 +112,9 @@
 },
   "bbox": [
     14.26113,
-    46.1711245,
+    46.171124,
     14.26113,
-    46.1711245
+    46.171124
 ],
-  "geometry": {"coordinates":[14.26113,46.1711245],"type":"Point"}
+  "geometry": {"coordinates":[14.26113,46.171124],"type":"Point"}
 }

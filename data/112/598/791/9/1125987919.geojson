@@ -25,6 +25,9 @@
     "name:bos_x_preferred":[
         "Dolenja Brezovica"
     ],
+    "name:che_x_preferred":[
+        "\u0414\u043e\u043b\u0435\u043d\u044f \u0411\u0440\u0435\u0437\u043e\u0432\u0438\u0446\u044f"
+    ],
     "name:eng_x_preferred":[
         "Dolenja Brezovica"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:slv_x_preferred":[
         "Dolenja Brezovica"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u043e\u043b\u0435\u043d\u044f \u0411\u0440\u0435\u0437\u043e\u0432\u0438\u0446\u044f"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043b\u0435\u043d\u044f \u0411\u0440\u0435\u0437\u043e\u0432\u0438\u0446\u044f"
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1125987919,
-    "wof:lastmodified":1566645065,
+    "wof:lastmodified":1690863823,
     "wof:name":"Dolenja Brestovica",
     "wof:parent_id":1108959895,
     "wof:placetype":"locality",

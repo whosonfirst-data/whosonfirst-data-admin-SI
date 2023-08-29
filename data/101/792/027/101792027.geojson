@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0633\u0644\u0648\u0641\u0646\u064a\u0633\u0643\u0647 \u0643\u0648\u0646\u062c\u064a\u062a\u0633\u0647"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0644\u0648\u0641\u0646\u064a\u0633\u0643\u0647 \u0643\u0648\u0646\u062c\u064a\u062a\u0633\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Slovenske Konjice"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09b2\u09cb\u09ad\u09c7\u09a8\u09b8\u09cd\u0995\u09c7 \u0995\u09cb\u099e\u09cd\u099c\u09bf\u099a\u09c7"
     ],
@@ -41,6 +47,12 @@
     "name:ceb_x_preferred":[
         "Slovenske Konjice"
     ],
+    "name:ces_x_preferred":[
+        "Slovenske Konjice"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u043b\u043e\u0432\u0435\u043d\u0441\u044c\u043a\u0435 \u041a\u043e\u043d\u0438\u0446\u0435"
+    ],
     "name:dan_x_preferred":[
         "Slovenske Konjice"
     ],
@@ -51,6 +63,9 @@
         "\u03a3\u03bb\u03bf\u03b2\u03ad\u03bd\u03c3\u03ba\u03b5 \u039a\u03bf\u03bd\u03c4\u03b6\u03af\u03ba\u03b5"
     ],
     "name:eng_x_preferred":[
+        "Slovenske Konjice"
+    ],
+    "name:epo_x_preferred":[
         "Slovenske Konjice"
     ],
     "name:fas_x_preferred":[
@@ -106,6 +121,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0938\u094d\u0932\u094b\u0935\u094d\u0939\u0947\u0928\u094d\u0938\u094d\u0915 \u0915\u094b\u0928\u091c\u093f\u0938"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0421\u043b\u043e\u0432\u044d\u043d\u0441\u043a\u044d \u041a\u043e\u043d\u0438\u0446\u044d"
     ],
     "name:msa_x_preferred":[
         "Slovenske Konjice"
@@ -167,6 +185,9 @@
     "name:tha_x_preferred":[
         "\u0e2a\u0e42\u0e25\u0e40\u0e27\u0e19\u0e2a\u0e40\u0e01\u0e04\u0e2d\u0e19\u0e08\u0e35\u0e0b"
     ],
+    "name:tha_x_variant":[
+        "\u0e2a\u0e25\u0e2d\u0e40\u0e27\u0e19\u0e2a\u0e41\u0e01\u0e04\u0e2d\u0e19\u0e34\u0e22\u0e35\u0e15\u0e41\u0e0b"
+    ],
     "name:tur_x_preferred":[
         "Slovenske Konjice"
     ],
@@ -180,6 +201,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u0644\u0648\u0648\u06cc\u0646\u0633\u06a9\u06cc \u06a9\u0648\u0646\u062c\u06cc\u06a9\u06cc"
+    ],
+    "name:vec_x_preferred":[
+        "Slovenske Konjice"
     ],
     "name:vie_x_preferred":[
         "Slovenske Konjice"
@@ -241,7 +265,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1636502680,
+    "wof:lastmodified":1690863778,
     "wof:name":"Slovenske Konjice",
     "wof:parent_id":1108959753,
     "wof:placetype":"locality",

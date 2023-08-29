@@ -26,6 +26,9 @@
     "name:ceb_x_preferred":[
         "Dolenjske Toplice"
     ],
+    "name:che_x_preferred":[
+        "\u0414\u043e\u043b\u0435\u043d\u044c\u0441\u044c\u043a\u0435 \u0422\u043e\u043f\u043b\u0438\u0446\u0435"
+    ],
     "name:eng_x_preferred":[
         "Dolenjske Toplice"
     ],
@@ -58,6 +61,12 @@
     ],
     "name:srp_x_preferred":[
         "\u0414\u043e\u043b\u0435\u045a\u0441\u043a\u0435 \u0422\u043e\u043f\u043b\u0438\u0446\u0435"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u043e\u043b\u0435\u043d\u044c\u0441\u044c\u043a\u0435 \u0422\u043e\u043f\u043b\u0438\u0446\u0435"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e14\u0e2d\u0e40\u0e25\u0e19\u0e2a\u0e41\u0e01\u0e15\u0e2d\u0e1b\u0e25\u0e35\u0e15\u0e41\u0e0b"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043b\u0435\u043d\u044c\u0441\u044c\u043a\u0435 \u0422\u043e\u043f\u043b\u0438\u0446\u0435"
@@ -110,7 +119,7 @@
         }
     ],
     "wof:id":101793005,
-    "wof:lastmodified":1636502677,
+    "wof:lastmodified":1690863765,
     "wof:name":"Dolenjske Toplice",
     "wof:parent_id":1108959675,
     "wof:placetype":"locality",

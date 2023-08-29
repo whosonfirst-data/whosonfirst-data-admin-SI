@@ -25,6 +25,15 @@
     "name:ara_x_preferred":[
         "\u0634\u0643\u0648\u0641\u062c\u0627 \u0644\u0648\u0643\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0634\u0643\u0648\u0641\u062c\u0627 \u0644\u0648\u0643\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "\u0160kofja Loka"
+    ],
+    "name:aze_x_preferred":[
+        "\u015ekofya-Loka"
+    ],
     "name:bel_x_preferred":[
         "\u0428\u043a\u043e\u0444\u2019\u044f-\u041b\u043e\u043a\u0430"
     ],
@@ -42,6 +51,9 @@
     ],
     "name:ces_x_preferred":[
         "\u0160kofja Loka"
+    ],
+    "name:che_x_preferred":[
+        "\u0428\u043a\u043e\u0444\u044c\u044f-\u041b\u043e\u043a\u0430"
     ],
     "name:dan_x_preferred":[
         "\u0160kofja Loka"
@@ -61,6 +73,9 @@
     "name:fas_x_preferred":[
         "\u0634\u06a9\u0641\u06cc\u0627 \u0644\u06a9\u0627"
     ],
+    "name:fin_x_preferred":[
+        "\u0160kofja Loka"
+    ],
     "name:fra_x_preferred":[
         "\u0160kofja Loka"
     ],
@@ -76,6 +91,9 @@
     "name:hun_x_preferred":[
         "\u0160kofja Loka"
     ],
+    "name:hye_x_preferred":[
+        "\u0547\u056f\u0578\u0586\u0575\u0561 \u053c\u0578\u056f\u0561"
+    ],
     "name:ind_x_preferred":[
         "\u0160kofja Loka"
     ],
@@ -90,6 +108,12 @@
     ],
     "name:kor_x_preferred":[
         "\uc288\ucf54\ud344\ub85c\uce74"
+    ],
+    "name:lat_x_preferred":[
+        "Loca episcopi"
+    ],
+    "name:lav_x_preferred":[
+        "\u0160kofja Loka"
     ],
     "name:lit_x_preferred":[
         "\u0160kofja Loka"
@@ -148,14 +172,23 @@
     "name:tat_x_preferred":[
         "\u0428\u043a\u043e\u0444\u044c\u044f-\u041b\u043e\u043a\u0430"
     ],
+    "name:tha_x_preferred":[
+        "\u0e0a\u0e42\u0e01\u0e1f\u0e34\u0e22\u0e32\u0e42\u0e25\u0e01\u0e32"
+    ],
     "name:tur_x_preferred":[
         "\u0160kofja Loka"
     ],
     "name:ukr_x_preferred":[
         "\u0428\u043a\u043e\u0444\u044f \u041b\u043e\u043a\u0430"
     ],
+    "name:ukr_x_variant":[
+        "\u0428\u043a\u043e\u0444'\u044f-\u041b\u043e\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "Bischoflack"
+    ],
+    "name:vec_x_preferred":[
+        "\u0160kofja Loka"
     ],
     "name:vie_x_preferred":[
         "\u0160kofja Loka"
@@ -216,7 +249,7 @@
         }
     ],
     "wof:id":1125993765,
-    "wof:lastmodified":1566645057,
+    "wof:lastmodified":1690863814,
     "wof:name":"\u00c5 Kofja Loka",
     "wof:parent_id":1108959821,
     "wof:placetype":"locality",

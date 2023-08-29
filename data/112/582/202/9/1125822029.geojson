@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"13.992011,45.6665075,13.992011,45.6665075",
+    "geom:bbox":"13.992011,45.666508,13.992011,45.666508",
     "geom:latitude":45.666508,
     "geom:longitude":13.992011,
     "gn:country":null,
@@ -23,11 +23,23 @@
     "name:bos_x_preferred":[
         "Betanja"
     ],
+    "name:cat_x_preferred":[
+        "Betanja"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0435\u0442\u0430\u043d\u044f"
+    ],
     "name:eng_x_preferred":[
         "Betanja"
     ],
     "name:fra_x_preferred":[
         "Betanja"
+    ],
+    "name:hrv_x_preferred":[
+        "Betanja"
+    ],
+    "name:ita_x_preferred":[
+        "Bettania"
     ],
     "name:nld_x_preferred":[
         "Betanja"
@@ -40,6 +52,9 @@
     ],
     "name:slv_x_preferred":[
         "Betanja"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0435\u0442\u0430\u043d\u044f"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0442\u0430\u043d\u044f"
@@ -81,7 +96,7 @@
     },
     "wof:country":"SI",
     "wof:created":1497292111,
-    "wof:geomhash":"69f5b739949ebe470d32f83b27404dde",
+    "wof:geomhash":"d4358aca10aa54c3c3468a10f55ef170",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,7 +107,7 @@
         }
     ],
     "wof:id":1125822029,
-    "wof:lastmodified":1566645071,
+    "wof:lastmodified":1690863831,
     "wof:name":"Betanja",
     "wof:parent_id":1108959845,
     "wof:placetype":"locality",
@@ -103,9 +118,9 @@
 },
   "bbox": [
     13.992011,
-    45.6665075,
+    45.666508,
     13.992011,
-    45.6665075
+    45.666508
 ],
-  "geometry": {"coordinates":[13.992011,45.6665075],"type":"Point"}
+  "geometry": {"coordinates":[13.992011,45.666508],"type":"Point"}
 }

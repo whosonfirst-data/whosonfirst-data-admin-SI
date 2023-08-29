@@ -29,6 +29,9 @@
     "name:ceb_x_preferred":[
         "Moravske Toplice"
     ],
+    "name:che_x_preferred":[
+        "\u041c\u043e\u0440\u0430\u0432\u0441\u044c\u043a\u0435 \u0422\u043e\u043f\u043b\u0438\u0446\u0435"
+    ],
     "name:deu_x_preferred":[
         "Moravske Toplice"
     ],
@@ -65,6 +68,12 @@
     "name:kor_x_preferred":[
         "\ubaa8\ub77c\ube0c\uc2a4\ucf00\ud1a0\ud50c\ub9ac\uccb4"
     ],
+    "name:kor_x_variant":[
+        "\ubaa8\ub77c\uc6b0\uc2a4\ucf00\ud1a0\ud50c\ub9ac\uccb4"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u043e\u0440\u0430\u0432\u0441\u043a\u0435 \u0422\u043e\u043f\u043b\u0438\u0446\u0435"
+    ],
     "name:nld_x_preferred":[
         "Moravske Toplice"
     ],
@@ -83,11 +92,20 @@
     "name:slv_x_variant":[
         "Moravske-Toplice"
     ],
+    "name:spa_x_preferred":[
+        "Moravske Toplice"
+    ],
     "name:srp_x_preferred":[
         "\u041c\u043e\u0440\u0430\u0432\u0441\u043a\u0435 \u0422\u043e\u043f\u043b\u0438\u0446\u0435"
     ],
     "name:swe_x_preferred":[
         "Moravske Toplice"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u043e\u0440\u0430\u0432\u0441\u044c\u043a\u0435 \u0422\u043e\u043f\u043b\u0438\u0446\u0435"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e2d\u0e23\u0e32\u0e27\u0e2a\u0e41\u0e01\u0e15\u0e2d\u0e1b\u0e25\u0e35\u0e15\u0e41\u0e0b"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0440\u0430\u0432\u0441\u044c\u043a\u0435 \u0422\u043e\u043f\u043b\u0438\u0446\u0435"
@@ -97,6 +115,9 @@
     ],
     "name:vie_x_preferred":[
         "Moravske Toplice"
+    ],
+    "name:zho_x_preferred":[
+        "\u6469\u62c9\u74e6\u6258\u666e\u5229\u91c7"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -160,7 +181,7 @@
         }
     ],
     "wof:id":101791991,
-    "wof:lastmodified":1636502668,
+    "wof:lastmodified":1690863726,
     "wof:name":"Moravske Toplice",
     "wof:parent_id":1108959925,
     "wof:placetype":"locality",

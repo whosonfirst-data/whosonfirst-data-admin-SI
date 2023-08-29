@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Begunje pri Cerknici"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u0435\u0433\u0443\u043d\u0435-\u043f\u0440\u0438-\u0426\u0435\u0440\u043a\u043d\u0438\u0446\u0438"
+    ],
     "name:eng_x_preferred":[
         "Begunje pri Cerknici"
     ],
@@ -40,6 +43,12 @@
     "name:ita_x_preferred":[
         "Begunje pri Cerknici"
     ],
+    "name:ita_x_variant":[
+        "Begungne"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0435\u0433\u0443\u045a\u0435 \u043a\u0430\u0458 \u0426\u0435\u0440\u043a\u043d\u0438\u0446\u0430"
+    ],
     "name:nld_x_preferred":[
         "Begunje pri Cerknici"
     ],
@@ -51,6 +60,12 @@
     ],
     "name:slv_x_preferred":[
         "Begunje pri Cerknici"
+    ],
+    "name:spa_x_preferred":[
+        "Begunje pri Cerknici"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0435\u0433\u0443\u043d\u0435-\u043f\u0440\u0438-\u0426\u0435\u0440\u043a\u043d\u0438\u0446\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0433\u0443\u043d\u0454-\u043f\u0440\u0438-\u0426\u0435\u0440\u043a\u043d\u0438\u0446\u0456"
@@ -114,7 +129,7 @@
         }
     ],
     "wof:id":1125891453,
-    "wof:lastmodified":1566645049,
+    "wof:lastmodified":1690863803,
     "wof:name":"Begunje Pri Cerknici",
     "wof:parent_id":1108959905,
     "wof:placetype":"locality",

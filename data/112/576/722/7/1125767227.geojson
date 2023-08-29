@@ -28,10 +28,16 @@
     "name:ceb_x_preferred":[
         "Dol pri Vogljah"
     ],
+    "name:che_x_preferred":[
+        "\u0414\u043e\u043b-\u043f\u0440\u0438-\u0412\u043e\u0433\u043b\u044f\u0445"
+    ],
     "name:eng_x_preferred":[
         "Dol pri Vogljah"
     ],
     "name:fra_x_preferred":[
+        "Dol pri Vogljah"
+    ],
+    "name:hrv_x_preferred":[
         "Dol pri Vogljah"
     ],
     "name:ita_x_preferred":[
@@ -48,6 +54,9 @@
     ],
     "name:slv_x_preferred":[
         "Dol pri Vogljah"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u043e\u043b-\u043f\u0440\u0438-\u0412\u043e\u0433\u043b\u044f\u0445"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043b \u043f\u0440\u0438 \u0412\u043e\u0433\u043b\u044f\u0445"
@@ -105,7 +114,7 @@
         }
     ],
     "wof:id":1125767227,
-    "wof:lastmodified":1566645072,
+    "wof:lastmodified":1690863833,
     "wof:name":"Dol Pri Vogljah",
     "wof:parent_id":1108959789,
     "wof:placetype":"locality",

@@ -20,11 +20,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Naklo"
+    ],
     "name:bos_x_preferred":[
+        "Naklo"
+    ],
+    "name:cat_x_preferred":[
         "Naklo"
     ],
     "name:ceb_x_preferred":[
         "Naklo"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u0430\u043a\u043b\u043e"
     ],
     "name:deu_x_preferred":[
         "Naklo"
@@ -62,6 +71,9 @@
     "name:lit_x_preferred":[
         "Naklas"
     ],
+    "name:mkd_x_preferred":[
+        "\u041d\u0430\u043a\u043b\u043e"
+    ],
     "name:nld_x_preferred":[
         "Naklo"
     ],
@@ -85,6 +97,12 @@
     ],
     "name:swe_x_preferred":[
         "Naklo"
+    ],
+    "name:tat_x_preferred":[
+        "\u041d\u0430\u043a\u043b\u043e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e19\u0e32\u0e01\u0e25\u0e2d"
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0430\u043a\u043b\u043e"
@@ -141,7 +159,7 @@
         }
     ],
     "wof:id":101792057,
-    "wof:lastmodified":1636502681,
+    "wof:lastmodified":1690863781,
     "wof:name":"Naklo",
     "wof:parent_id":1108959497,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062a\u0644\u064a\u0643\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Metlika"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09c7\u099f\u09b2\u09bf\u0995\u09be"
     ],
@@ -34,6 +37,12 @@
     ],
     "name:ceb_x_preferred":[
         "Metlika"
+    ],
+    "name:ces_x_preferred":[
+        "Metlika"
+    ],
+    "name:che_x_preferred":[
+        "\u041c\u0435\u0442\u043b\u0438\u043a\u0430"
     ],
     "name:dan_x_preferred":[
         "Metlika"
@@ -88,6 +97,9 @@
     ],
     "name:kor_x_preferred":[
         "\uba54\ud2c0\ub9ac\uce74"
+    ],
+    "name:lat_x_preferred":[
+        "Metulum"
     ],
     "name:lav_x_preferred":[
         "Metlika"
@@ -161,6 +173,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e15\u0e25\u0e34\u0e01\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e21\u0e15\u0e25\u0e35\u0e01\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Metlika"
     ],
@@ -176,6 +191,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u06cc\u062a\u0644\u06cc\u06a9\u0627"
+    ],
+    "name:vec_x_preferred":[
+        "Metlika"
     ],
     "name:vie_x_preferred":[
         "Metlika"
@@ -236,7 +254,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1636502670,
+    "wof:lastmodified":1690863737,
     "wof:name":"Metlika",
     "wof:parent_id":1108959909,
     "wof:placetype":"locality",

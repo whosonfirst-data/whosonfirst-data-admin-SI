@@ -31,6 +31,9 @@
     "name:ceb_x_preferred":[
         "Kropa"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u0440\u043e\u043f\u0430"
+    ],
     "name:deu_x_preferred":[
         "Kropa"
     ],
@@ -38,6 +41,9 @@
         "Kropa"
     ],
     "name:fra_x_preferred":[
+        "Kropa"
+    ],
+    "name:gle_x_preferred":[
         "Kropa"
     ],
     "name:hrv_x_preferred":[
@@ -60,6 +66,12 @@
     ],
     "name:spa_x_preferred":[
         "Kropa"
+    ],
+    "name:swe_x_preferred":[
+        "Kropa"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0440\u043e\u043f\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0440\u043e\u043f\u0430"
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":1125955319,
-    "wof:lastmodified":1566645039,
+    "wof:lastmodified":1690863793,
     "wof:name":"Kropa",
     "wof:parent_id":1108959825,
     "wof:placetype":"locality",

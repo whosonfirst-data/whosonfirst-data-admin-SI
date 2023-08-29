@@ -28,10 +28,16 @@
     "name:ceb_x_preferred":[
         "Legen"
     ],
+    "name:che_x_preferred":[
+        "\u041b\u0435\u0433\u0435\u043d"
+    ],
     "name:eng_x_preferred":[
         "Legen"
     ],
     "name:fra_x_preferred":[
+        "Legen"
+    ],
+    "name:hrv_x_preferred":[
         "Legen"
     ],
     "name:ita_x_preferred":[
@@ -48,6 +54,9 @@
     ],
     "name:slv_x_preferred":[
         "Legen"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u0435\u0433\u0435\u043d"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0435\u0433\u0435\u043d"
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":1125855033,
-    "wof:lastmodified":1566645072,
+    "wof:lastmodified":1690863833,
     "wof:name":"Legen",
     "wof:parent_id":1108959645,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0631\u0632\u064a\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0631\u0632\u064a\u0646"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09cd\u09b0\u09bf\u09a8"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:ceb_x_preferred":[
         "Trzin"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u0440\u0437\u0438\u043d"
     ],
     "name:dan_x_preferred":[
         "Trzin"
@@ -64,6 +70,9 @@
     ],
     "name:hrv_x_preferred":[
         "Op\u0107ina Trzin"
+    ],
+    "name:hrv_x_variant":[
+        "Trzin"
     ],
     "name:hun_x_preferred":[
         "Trzin"
@@ -131,11 +140,17 @@
     "name:tam_x_preferred":[
         "\u0b9f\u0bbf\u0bb0\u0b9c\u0bbf\u0ba9\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0422\u0440\u0437\u0438\u043d"
+    ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c4d\u0c30\u0c3f\u0c1c\u0c3f\u0c28\u0c4d"
     ],
     "name:tha_x_preferred":[
         "\u0e17\u0e23\u0e0b\u0e34\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e15\u0e2d\u0e23\u0e4c\u0e0b\u0e34\u0e19"
     ],
     "name:tur_x_preferred":[
         "Trzin"
@@ -145,6 +160,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0637\u0631\u0632\u06cc\u06ba"
+    ],
+    "name:vec_x_preferred":[
+        "Trzin"
     ],
     "name:vie_x_preferred":[
         "Trzin"
@@ -198,7 +216,7 @@
         }
     ],
     "wof:id":101845299,
-    "wof:lastmodified":1636502673,
+    "wof:lastmodified":1690863746,
     "wof:name":"Trzin",
     "wof:parent_id":1108959509,
     "wof:placetype":"locality",

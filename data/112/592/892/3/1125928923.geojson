@@ -28,10 +28,16 @@
     "name:ceb_x_preferred":[
         "Kotlje"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u043e\u0442\u043b\u0435"
+    ],
     "name:eng_x_preferred":[
         "Kotlje"
     ],
     "name:fra_x_preferred":[
+        "Kotlje"
+    ],
+    "name:hrv_x_preferred":[
         "Kotlje"
     ],
     "name:nld_x_preferred":[
@@ -48,6 +54,9 @@
     ],
     "name:srp_x_preferred":[
         "2394 kotlje"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u043e\u0442\u043b\u0435"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0442\u043b\u0454"
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":1125928923,
-    "wof:lastmodified":1566645036,
+    "wof:lastmodified":1690863789,
     "wof:name":"Kotlje",
     "wof:parent_id":1108959643,
     "wof:placetype":"locality",

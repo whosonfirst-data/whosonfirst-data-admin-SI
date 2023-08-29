@@ -32,6 +32,9 @@
     "name:ceb_x_preferred":[
         "Tabor"
     ],
+    "name:che_x_preferred":[
+        "\u0422\u0430\u0431\u043e\u0440"
+    ],
     "name:deu_x_preferred":[
         "T\u00e1bor"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:hin_x_preferred":[
         "\u091f\u0948\u092c\u094b\u0930 "
+    ],
+    "name:hrv_x_preferred":[
+        "Tabor"
     ],
     "name:hun_x_preferred":[
         "Tabor"
@@ -94,6 +100,12 @@
     ],
     "name:swe_x_preferred":[
         "Tabor"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0430\u0431\u043e\u0440"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e15\u0e32\u0e1a\u0e2d\u0e23\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Tabor"
@@ -161,7 +173,7 @@
         }
     ],
     "wof:id":101792005,
-    "wof:lastmodified":1636502681,
+    "wof:lastmodified":1690863781,
     "wof:name":"Tabor",
     "wof:parent_id":1108959715,
     "wof:placetype":"locality",

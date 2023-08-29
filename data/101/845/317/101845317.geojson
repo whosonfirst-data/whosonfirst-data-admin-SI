@@ -27,6 +27,9 @@
     "name:ceb_x_preferred":[
         "Dol pri Ljubljani"
     ],
+    "name:che_x_preferred":[
+        "\u0414\u043e\u043b-\u043f\u0440\u0438-\u041b\u044e\u0431\u043b\u044f\u043d\u0438"
+    ],
     "name:deu_x_preferred":[
         "Lusttal"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d3\u05d5\u05dc \u05e4\u05e8\u05d9 \u05dc\u05d5\u05d1\u05dc\u05d9\u05d0\u05e0\u05d9"
+    ],
+    "name:hrv_x_preferred":[
+        "Dol pri Ljubljani"
     ],
     "name:hun_x_preferred":[
         "Dol pri Ljubljani"
@@ -75,11 +81,20 @@
     "name:swe_x_preferred":[
         "Dol pri Ljubljani"
     ],
+    "name:tat_x_preferred":[
+        "\u0414\u043e\u043b-\u043f\u0440\u0438-\u041b\u044e\u0431\u043b\u044f\u043d\u0438"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e14\u0e25\u0e1b\u0e23\u0e35\u0e25\u0e34\u0e22\u0e39\u0e1a\u0e25\u0e34\u0e22\u0e32\u0e19\u0e35"
+    ],
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043b-\u043f\u0440\u0438-\u041b\u044e\u0431\u043b\u044f\u043d\u0456"
     ],
     "name:und_x_variant":[
         "Dol"
+    ],
+    "name:zho_x_preferred":[
+        "\u76e7\u5e03\u723e\u96c5\u90a3\u9644\u8fd1\u591a\u723e"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -143,7 +158,7 @@
         }
     ],
     "wof:id":101845317,
-    "wof:lastmodified":1636502673,
+    "wof:lastmodified":1690863747,
     "wof:name":"Dol pri Ljubljani",
     "wof:parent_id":1108959861,
     "wof:placetype":"locality",

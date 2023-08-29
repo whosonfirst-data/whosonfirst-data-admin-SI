@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"15.735683,46.5046245,15.735683,46.5046245",
+    "geom:bbox":"15.735683,46.504624,15.735683,46.504624",
     "geom:latitude":46.504624,
     "geom:longitude":15.735683,
     "gn:country":null,
@@ -26,10 +26,16 @@
     "name:ceb_x_preferred":[
         "Spodnji Duplek"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u043f\u043e\u0434\u043d\u0438\u0439 \u0414\u0443\u043f\u043b\u0435\u043a"
+    ],
     "name:eng_x_preferred":[
         "Spodnji Duplek"
     ],
     "name:fra_x_preferred":[
+        "Spodnji Duplek"
+    ],
+    "name:hrv_x_preferred":[
         "Spodnji Duplek"
     ],
     "name:nld_x_preferred":[
@@ -44,8 +50,17 @@
     "name:slv_x_preferred":[
         "Spodnji Duplek"
     ],
+    "name:tat_x_preferred":[
+        "\u0421\u043f\u043e\u0434\u043d\u0438\u0439 \u0414\u0443\u043f\u043b\u0435\u043a"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2a\u0e42\u0e1b\u0e14\u0e19\u0e34\u0e22\u0e35\u0e14\u0e39\u0e41\u0e1b\u0e25\u0e47\u0e01"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u043f\u043e\u0434\u043d\u0456\u0439 \u0414\u0443\u043f\u043b\u0435\u043a"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u675c\u666e\u840a\u514b"
     ],
     "qs_pg:aaroncc":"SI",
     "qs_pg:gn_country":null,
@@ -84,7 +99,7 @@
     },
     "wof:country":"SI",
     "wof:created":1497297973,
-    "wof:geomhash":"c55742ac1f37288d577f584a2be7cc47",
+    "wof:geomhash":"5d4a072826d65aded918804a052987c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,7 +110,7 @@
         }
     ],
     "wof:id":1125965841,
-    "wof:lastmodified":1566645063,
+    "wof:lastmodified":1690863821,
     "wof:name":"Spodnji Duplek",
     "wof:parent_id":1108959529,
     "wof:placetype":"locality",
@@ -106,9 +121,9 @@
 },
   "bbox": [
     15.735683,
-    46.5046245,
+    46.504624,
     15.735683,
-    46.5046245
+    46.504624
 ],
-  "geometry": {"coordinates":[15.735683,46.5046245],"type":"Point"}
+  "geometry": {"coordinates":[15.735683,46.504624],"type":"Point"}
 }

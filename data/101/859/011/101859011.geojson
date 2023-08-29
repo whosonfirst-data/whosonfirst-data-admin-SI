@@ -30,6 +30,9 @@
     "name:ces_x_preferred":[
         "Hodo\u0161"
     ],
+    "name:che_x_preferred":[
+        "\u0425\u043e\u0434\u043e\u0448"
+    ],
     "name:deu_x_preferred":[
         "Hodo\u0161"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:fra_x_preferred":[
         "Hodos"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d5\u05d3\u05d5\u05e9"
     ],
     "name:hrv_x_preferred":[
         "Hodo\u0161"
@@ -63,6 +69,9 @@
     "name:lit_x_preferred":[
         "Hodo\u0161as"
     ],
+    "name:mkd_x_preferred":[
+        "\u0425\u043e\u0434\u043e\u0448"
+    ],
     "name:nld_x_preferred":[
         "Hodo\u0161"
     ],
@@ -75,6 +84,9 @@
     "name:ron_x_preferred":[
         "Hodo\u0161"
     ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0434\u043e\u0448"
+    ],
     "name:slv_x_preferred":[
         "Ob\u010dina Hodo\u0161"
     ],
@@ -86,6 +98,12 @@
     ],
     "name:srp_x_preferred":[
         "\u0425\u043e\u0434\u043e\u0448"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u043e\u0434\u043e\u0448"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e04\u0e14\u0e47\u0e2d\u0e0a"
     ],
     "name:ukr_x_preferred":[
         "\u0425\u043e\u0434\u043e\u0448"
@@ -147,7 +165,7 @@
         }
     ],
     "wof:id":101859011,
-    "wof:lastmodified":1582358300,
+    "wof:lastmodified":1690863749,
     "wof:name":"Hodo\u0161",
     "wof:parent_id":1108959637,
     "wof:placetype":"locality",

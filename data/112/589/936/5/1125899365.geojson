@@ -28,10 +28,16 @@
     "name:ceb_x_preferred":[
         "Temnica"
     ],
+    "name:che_x_preferred":[
+        "\u0422\u0435\u043c\u043d\u0438\u0446\u044f"
+    ],
     "name:eng_x_preferred":[
         "Temnica"
     ],
     "name:fra_x_preferred":[
+        "Temnica"
+    ],
+    "name:hrv_x_preferred":[
         "Temnica"
     ],
     "name:ita_x_preferred":[
@@ -48,6 +54,9 @@
     ],
     "name:slv_x_preferred":[
         "Temnica"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0435\u043c\u043d\u0438\u0446\u044f"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0435\u043c\u043d\u0456\u0446\u0430"
@@ -105,7 +114,7 @@
         }
     ],
     "wof:id":1125899365,
-    "wof:lastmodified":1566645048,
+    "wof:lastmodified":1690863802,
     "wof:name":"Temnica",
     "wof:parent_id":1108959481,
     "wof:placetype":"locality",

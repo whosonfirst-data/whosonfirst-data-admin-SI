@@ -31,10 +31,16 @@
     "name:ceb_x_preferred":[
         "Bertoki"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u0435\u0440\u0442\u043e\u043a\u0438"
+    ],
     "name:eng_x_preferred":[
         "Bertoki"
     ],
     "name:fra_x_preferred":[
+        "Bertoki"
+    ],
+    "name:hrv_x_preferred":[
         "Bertoki"
     ],
     "name:ita_x_preferred":[
@@ -54,6 +60,12 @@
     ],
     "name:srp_x_preferred":[
         "\u0411\u0435\u0440\u0442\u043e\u043a\u0438"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0435\u0440\u0442\u043e\u043a\u0438"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0411\u0435\u0440\u0442\u0443\u043a\u04e3"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0440\u0442\u043e\u043a\u0456"
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":1125944331,
-    "wof:lastmodified":1566645033,
+    "wof:lastmodified":1690863785,
     "wof:name":"Bertoki",
     "wof:parent_id":1108959527,
     "wof:placetype":"locality",

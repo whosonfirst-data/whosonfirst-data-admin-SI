@@ -25,17 +25,32 @@
     "name:bos_x_preferred":[
         "Tomaj"
     ],
+    "name:cat_x_preferred":[
+        "Tomaj"
+    ],
     "name:ceb_x_preferred":[
         "Tomaj"
     ],
     "name:ces_x_preferred":[
         "Tomaj"
     ],
+    "name:che_x_preferred":[
+        "\u0422\u043e\u043c\u0430\u0439"
+    ],
     "name:eng_x_preferred":[
         "Tomaj"
     ],
     "name:fra_x_preferred":[
         "Tomaj"
+    ],
+    "name:hrv_x_preferred":[
+        "Tomaj"
+    ],
+    "name:hun_x_preferred":[
+        "Tomaj"
+    ],
+    "name:hye_x_preferred":[
+        "\u0539\u0578\u0574\u0561\u0575"
     ],
     "name:ita_x_preferred":[
         "Tomadio"
@@ -57,6 +72,12 @@
     ],
     "name:slv_x_preferred":[
         "Tomaj"
+    ],
+    "name:spa_x_preferred":[
+        "Tomaj"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u043e\u043c\u0430\u0439"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u043e\u043c\u0430\u0439"
@@ -117,7 +138,7 @@
         }
     ],
     "wof:id":1125955731,
-    "wof:lastmodified":1566645039,
+    "wof:lastmodified":1690863793,
     "wof:name":"Tomaj",
     "wof:parent_id":1108959789,
     "wof:placetype":"locality",

@@ -31,6 +31,15 @@
     "name:arg_x_preferred":[
         "Piran"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u0631\u0627\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Piran"
+    ],
+    "name:aze_x_preferred":[
+        "Piran"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0456\u0440\u0430\u043d"
     ],
@@ -50,6 +59,12 @@
         "Piran"
     ],
     "name:ces_x_preferred":[
+        "Piran"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u0438\u0440\u0430\u043d"
+    ],
+    "name:cym_x_preferred":[
         "Piran"
     ],
     "name:dan_x_preferred":[
@@ -136,11 +151,20 @@
     "name:lit_x_preferred":[
         "Piranas"
     ],
+    "name:lmo_x_preferred":[
+        "Piran"
+    ],
+    "name:ltz_x_preferred":[
+        "Piran"
+    ],
     "name:mar_x_preferred":[
         "\u092a\u093f\u0930\u093e\u0928"
     ],
     "name:mkd_x_preferred":[
         "\u041f\u0438\u0440\u0430\u043d"
+    ],
+    "name:mlt_x_preferred":[
+        "Piran"
     ],
     "name:msa_x_preferred":[
         "Piran"
@@ -199,17 +223,26 @@
     "name:tam_x_preferred":[
         "\u0baa\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u041f\u0438\u0440\u0430\u043d"
+    ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c3f\u0c30\u0c3e\u0c28\u0c4d"
     ],
     "name:tha_x_preferred":[
         "\u0e44\u0e1e\u0e23\u0e32\u0e19"
     ],
+    "name:tha_x_variant":[
+        "\u0e1b\u0e34\u0e23\u0e32\u0e19"
+    ],
     "name:tur_x_preferred":[
         "Piran"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0440\u0430\u043d"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0438\u0440\u0430\u043d"
     ],
     "name:und_x_variant":[
         "Grad Piran"
@@ -279,7 +312,7 @@
         }
     ],
     "wof:id":1125998701,
-    "wof:lastmodified":1566645058,
+    "wof:lastmodified":1690863815,
     "wof:name":"Piran",
     "wof:parent_id":1108959613,
     "wof:placetype":"locality",

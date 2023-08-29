@@ -28,10 +28,16 @@
     "name:ceb_x_preferred":[
         "Kisovec"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u0438\u0441\u043e\u0432\u0435\u0446\u044c"
+    ],
     "name:eng_x_preferred":[
         "Kisovec"
     ],
     "name:fra_x_preferred":[
+        "Kisovec"
+    ],
+    "name:hrv_x_preferred":[
         "Kisovec"
     ],
     "name:mkd_x_preferred":[
@@ -52,8 +58,14 @@
     "name:slv_x_preferred":[
         "Kisovec"
     ],
+    "name:tat_x_preferred":[
+        "\u041a\u0438\u0441\u043e\u0432\u0435\u0446\u044c"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u0456\u0441\u043e\u0432\u0435\u0446\u044c"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0438\u0441\u043e\u0432\u0435\u0446\u044c"
     ],
     "qs_pg:aaroncc":"SI",
     "qs_pg:gn_country":"SI",
@@ -106,7 +118,7 @@
         }
     ],
     "wof:id":1125925325,
-    "wof:lastmodified":1566645036,
+    "wof:lastmodified":1690863789,
     "wof:name":"Kisovec",
     "wof:parent_id":1108959683,
     "wof:placetype":"locality",

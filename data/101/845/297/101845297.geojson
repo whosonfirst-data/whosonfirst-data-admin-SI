@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u062f\u0631\u0627\u0648\u063a\u0631\u0627\u062f"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u0631\u0627\u0648\u062c\u0631\u0627\u062f"
+    ],
+    "name:ast_x_preferred":[
+        "Dravograd"
+    ],
     "name:bos_x_preferred":[
         "Dravograd"
     ],
@@ -37,6 +43,9 @@
     ],
     "name:ces_x_preferred":[
         "Dravograd"
+    ],
+    "name:che_x_preferred":[
+        "\u0414\u0440\u0430\u0432\u043e\u0433\u0440\u0430\u0434"
     ],
     "name:dan_x_preferred":[
         "Dravograd"
@@ -80,6 +89,9 @@
     "name:kor_x_preferred":[
         "\ub4dc\ub77c\ubcf4\uadf8\ub77c\ub4dc"
     ],
+    "name:lat_x_preferred":[
+        "Dravoburgum"
+    ],
     "name:lit_x_preferred":[
         "Dravogradas"
     ],
@@ -91,6 +103,9 @@
     ],
     "name:pol_x_preferred":[
         "Gmina Dravograd"
+    ],
+    "name:pol_x_variant":[
+        "Dravograd"
     ],
     "name:por_x_preferred":[
         "Dravograd"
@@ -119,8 +134,14 @@
     "name:srp_x_preferred":[
         "\u0414\u0440\u0430\u0432\u043e\u0433\u0440\u0430\u0434"
     ],
+    "name:swe_x_preferred":[
+        "Dravograd"
+    ],
     "name:tat_x_preferred":[
         "\u0414\u0440\u0430\u0432\u043e\u0433\u0440\u0430\u0434"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e14\u0e23\u0e32\u0e27\u0e2d\u0e01\u0e23\u0e31\u0e15"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0440\u0430\u0432\u043e\u0433\u0440\u0430\u0434"
@@ -188,7 +209,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1636502672,
+    "wof:lastmodified":1690863745,
     "wof:name":"Dravograd",
     "wof:parent_id":1108959495,
     "wof:placetype":"locality",

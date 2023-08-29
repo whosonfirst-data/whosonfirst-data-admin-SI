@@ -28,10 +28,16 @@
     "name:ceb_x_preferred":[
         "Pame\u010de"
     ],
+    "name:che_x_preferred":[
+        "\u041f\u0430\u043c\u0435\u0447\u0435"
+    ],
     "name:eng_x_preferred":[
         "Pame\u010de"
     ],
     "name:fra_x_preferred":[
+        "Pame\u010de"
+    ],
+    "name:hrv_x_preferred":[
         "Pame\u010de"
     ],
     "name:ita_x_preferred":[
@@ -48,6 +54,9 @@
     ],
     "name:slv_x_preferred":[
         "Pame\u010de"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0430\u043c\u0435\u0447\u0435"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0430\u043c\u0435\u0447\u0435"
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":1125974607,
-    "wof:lastmodified":1566645061,
+    "wof:lastmodified":1690863819,
     "wof:name":"Pame\u010de",
     "wof:parent_id":1108959645,
     "wof:placetype":"locality",

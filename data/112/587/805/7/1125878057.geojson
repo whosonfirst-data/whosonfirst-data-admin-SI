@@ -25,6 +25,9 @@
     "name:bos_x_preferred":[
         "Otok"
     ],
+    "name:che_x_preferred":[
+        "\u041e\u0442\u043e\u043a"
+    ],
     "name:eng_x_preferred":[
         "Otok"
     ],
@@ -33,6 +36,12 @@
     ],
     "name:hrv_x_preferred":[
         "Otok"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30c8\u30af"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041e\u0442\u043e\u043a"
     ],
     "name:nld_x_preferred":[
         "Otok"
@@ -45,6 +54,9 @@
     ],
     "name:slv_x_preferred":[
         "Otok"
+    ],
+    "name:tat_x_preferred":[
+        "\u041e\u0442\u043e\u043a"
     ],
     "name:ukr_x_preferred":[
         "\u041e\u0442\u043e\u043a"
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":1125878057,
-    "wof:lastmodified":1566645055,
+    "wof:lastmodified":1690863812,
     "wof:name":"Otok",
     "wof:parent_id":1108959905,
     "wof:placetype":"locality",

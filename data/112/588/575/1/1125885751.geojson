@@ -25,10 +25,16 @@
     "name:bos_x_preferred":[
         "Plu\u017ena"
     ],
+    "name:che_x_preferred":[
+        "\u041f\u043b\u0443\u0436\u043d\u0430"
+    ],
     "name:eng_x_preferred":[
         "Plu\u017ena"
     ],
     "name:fra_x_preferred":[
+        "Plu\u017ena"
+    ],
+    "name:hrv_x_preferred":[
         "Plu\u017ena"
     ],
     "name:hun_x_preferred":[
@@ -40,11 +46,17 @@
     "name:pol_x_preferred":[
         "Plu\u017ena"
     ],
+    "name:por_x_preferred":[
+        "Plu\u017ena"
+    ],
     "name:ron_x_preferred":[
         "Plu\u017ena"
     ],
     "name:slv_x_preferred":[
         "Plu\u017ena"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u043b\u0443\u0436\u043d\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u043b\u0443\u0436\u043d\u0430"
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":1125885751,
-    "wof:lastmodified":1566645047,
+    "wof:lastmodified":1690863802,
     "wof:name":"Plu\u017ena",
     "wof:parent_id":1108959541,
     "wof:placetype":"locality",

@@ -30,6 +30,9 @@
     "name:ces_x_preferred":[
         "Ob\u010dina \u017detale"
     ],
+    "name:che_x_preferred":[
+        "\u0416\u0435\u0442\u0430\u043b\u0435"
+    ],
     "name:deu_x_preferred":[
         "\u017detale"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:hrv_x_preferred":[
         "Op\u0107ina \u017detale"
+    ],
+    "name:hrv_x_variant":[
+        "\u017detale"
     ],
     "name:ita_x_preferred":[
         "\u017detale"
@@ -81,8 +87,17 @@
     "name:swe_x_preferred":[
         "Zetale"
     ],
+    "name:tat_x_preferred":[
+        "\u0416\u0435\u0442\u0430\u043b\u0435"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e0c\u0e15\u0e32\u0e41\u0e25"
+    ],
     "name:ukr_x_preferred":[
         "\u0416\u0435\u0442\u0430\u043b\u0435"
+    ],
+    "name:zho_x_preferred":[
+        "\u71b1\u5854\u96f7"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -131,7 +146,7 @@
         }
     ],
     "wof:id":101857901,
-    "wof:lastmodified":1582358301,
+    "wof:lastmodified":1690863750,
     "wof:name":"\u017detale",
     "wof:parent_id":1108959767,
     "wof:placetype":"locality",

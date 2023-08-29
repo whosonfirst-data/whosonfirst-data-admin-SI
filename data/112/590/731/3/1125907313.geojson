@@ -31,6 +31,9 @@
     "name:ceb_x_preferred":[
         "Miklav\u017e pri Ormo\u017eu"
     ],
+    "name:che_x_preferred":[
+        "\u041c\u0438\u043a\u043b\u0430\u0432\u0436-\u043f\u0440\u0438-\u041e\u0440\u043c\u043e\u0436\u0443"
+    ],
     "name:deu_x_preferred":[
         "Miklav\u017e pri Ormo\u017eu"
     ],
@@ -40,7 +43,13 @@
     "name:fra_x_preferred":[
         "Miklav\u017e pri Ormo\u017eu"
     ],
+    "name:hrv_x_preferred":[
+        "Miklav\u017e pri Ormo\u017eu"
+    ],
     "name:hun_x_preferred":[
+        "Miklav\u017e pri Ormo\u017eu"
+    ],
+    "name:ita_x_preferred":[
         "Miklav\u017e pri Ormo\u017eu"
     ],
     "name:nld_x_preferred":[
@@ -54,6 +63,12 @@
     ],
     "name:slv_x_preferred":[
         "Miklav\u017e pri Ormo\u017eu"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u043a\u043b\u0430\u0432\u0436 \u043f\u0440\u0438 \u041e\u0440\u043c\u043e\u0436\u0443"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0438\u043a\u043b\u0430\u0432\u0436-\u043f\u0440\u0438-\u041e\u0440\u043c\u043e\u0436\u0443"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0438\u043a\u043b\u0430\u0432\u0436-\u043f\u0440\u0438-\u041e\u0440\u043c\u043e\u0436\u0443"
@@ -114,7 +129,7 @@
         }
     ],
     "wof:id":1125907313,
-    "wof:lastmodified":1566645059,
+    "wof:lastmodified":1690863816,
     "wof:name":"Miklav\u017e Pri Ormo\u017eu",
     "wof:parent_id":1108959765,
     "wof:placetype":"locality",

@@ -27,10 +27,16 @@
     "name:ceb_x_preferred":[
         "Spodnja Idrija"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u043f\u043e\u0434\u043d\u044f \u0418\u0434\u0440\u0438\u044f"
+    ],
     "name:eng_x_preferred":[
         "Spodnja Idrija"
     ],
     "name:fra_x_preferred":[
+        "Spodnja Idrija"
+    ],
+    "name:hrv_x_preferred":[
         "Spodnja Idrija"
     ],
     "name:ita_x_preferred":[
@@ -47,6 +53,9 @@
     ],
     "name:slv_x_preferred":[
         "Spodnja Idrija"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u043f\u043e\u0434\u043d\u044f \u0418\u0434\u0440\u0438\u044f"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u043f\u043e\u0434\u043d\u044f \u0406\u0434\u0440\u0456\u044f"
@@ -109,7 +118,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582358301,
+    "wof:lastmodified":1690863751,
     "wof:name":"Spodnja Idrija",
     "wof:parent_id":1108959535,
     "wof:placetype":"locality",

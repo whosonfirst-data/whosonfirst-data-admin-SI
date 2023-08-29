@@ -28,10 +28,16 @@
     "name:ceb_x_preferred":[
         "Radomlje"
     ],
+    "name:che_x_preferred":[
+        "\u0420\u0430\u0434\u043e\u043c\u043b\u0435"
+    ],
     "name:eng_x_preferred":[
         "Radomlje"
     ],
     "name:fra_x_preferred":[
+        "Radomlje"
+    ],
+    "name:hrv_x_preferred":[
         "Radomlje"
     ],
     "name:jpn_x_preferred":[
@@ -51,6 +57,9 @@
     ],
     "name:slv_x_preferred":[
         "Radomlje"
+    ],
+    "name:tat_x_preferred":[
+        "\u0420\u0430\u0434\u043e\u043c\u043b\u0435"
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0434\u043e\u043c\u043b\u0454"
@@ -111,7 +120,7 @@
         }
     ],
     "wof:id":1125934853,
-    "wof:lastmodified":1566645034,
+    "wof:lastmodified":1690863786,
     "wof:name":"Radomlje",
     "wof:parent_id":1108959799,
     "wof:placetype":"locality",

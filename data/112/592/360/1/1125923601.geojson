@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"13.6099145,46.095138,13.6099145,46.095138",
+    "geom:bbox":"13.609915,46.095138,13.609915,46.095138",
     "geom:latitude":46.095138,
     "geom:longitude":13.609915,
     "gn:country":null,
@@ -26,10 +26,16 @@
     "name:ceb_x_preferred":[
         "Lig"
     ],
+    "name:che_x_preferred":[
+        "\u041b\u0438\u0433"
+    ],
     "name:eng_x_preferred":[
         "Lig"
     ],
     "name:fra_x_preferred":[
+        "Lig"
+    ],
+    "name:hrv_x_preferred":[
         "Lig"
     ],
     "name:ita_x_preferred":[
@@ -50,8 +56,14 @@
     "name:slv_x_preferred":[
         "Lig"
     ],
+    "name:tat_x_preferred":[
+        "\u041b\u0438\u0433"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u0456\u0491"
+    ],
+    "name:ukr_x_variant":[
+        "\u041b\u0438\u0433"
     ],
     "qs_pg:aaroncc":"SI",
     "qs_pg:gn_country":null,
@@ -90,7 +102,7 @@
     },
     "wof:country":"SI",
     "wof:created":1497296566,
-    "wof:geomhash":"ed7a9b63f4c3440230b3148b7ad4806f",
+    "wof:geomhash":"1b1952cbe9674ee06f0b2bcf3a19306d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +113,7 @@
         }
     ],
     "wof:id":1125923601,
-    "wof:lastmodified":1566645037,
+    "wof:lastmodified":1690863790,
     "wof:name":"Lig",
     "wof:parent_id":1108959537,
     "wof:placetype":"locality",
@@ -111,10 +123,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.6099145,
+    13.609915,
     46.095138,
-    13.6099145,
+    13.609915,
     46.095138
 ],
-  "geometry": {"coordinates":[13.6099145,46.095138],"type":"Point"}
+  "geometry": {"coordinates":[13.609915,46.095138],"type":"Point"}
 }

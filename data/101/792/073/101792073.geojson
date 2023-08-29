@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0647\u0631\u0627\u0633\u062a\u0646\u064a\u0643"
     ],
+    "name:arz_x_preferred":[
+        "\u0647\u0631\u0627\u0633\u062a\u0646\u064a\u0643"
+    ],
+    "name:ast_x_preferred":[
+        "Hrastnik"
+    ],
     "name:bos_x_preferred":[
         "Hrastnik"
     ],
@@ -31,6 +37,12 @@
     ],
     "name:ceb_x_preferred":[
         "Hrastnik"
+    ],
+    "name:ces_x_preferred":[
+        "Hrastnik"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u0440\u0430\u0441\u0442\u043d\u0438\u043a"
     ],
     "name:deu_x_preferred":[
         "Hrastnik"
@@ -67,6 +79,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud750\ub77c\uc2a4\ud2b8\ub2c8\ud06c"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0425\u0440\u0430\u0441\u0442\u043d\u0438\u043a"
     ],
     "name:nld_x_preferred":[
         "Hrastnik"
@@ -109,6 +124,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0425\u0440\u0430\u0441\u0442\u043d\u0438\u043a"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e04\u0e23\u0e32\u0e2a\u0e15\u0e4c\u0e19\u0e34\u0e01"
     ],
     "name:ukr_x_preferred":[
         "\u0425\u0440\u0430\u0441\u0442\u043d\u0438\u043a"
@@ -172,7 +190,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1636502680,
+    "wof:lastmodified":1690863777,
     "wof:name":"Hrastnik",
     "wof:parent_id":1108959571,
     "wof:placetype":"locality",

@@ -31,6 +31,12 @@
     "name:ceb_x_preferred":[
         "Podkoren"
     ],
+    "name:che_x_preferred":[
+        "\u041f\u043e\u0434\u043a\u043e\u0440\u0435\u043d"
+    ],
+    "name:deu_x_preferred":[
+        "Podkoren"
+    ],
     "name:eng_x_preferred":[
         "Podkoren"
     ],
@@ -42,6 +48,9 @@
     ],
     "name:ita_x_preferred":[
         "Podkoren"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u043e\u0434\u043a\u043e\u0440\u0435\u043d"
     ],
     "name:nld_x_preferred":[
         "Podkoren"
@@ -57,6 +66,9 @@
     ],
     "name:spa_x_preferred":[
         "Podkoren"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u043e\u0434\u043a\u043e\u0440\u0435\u043d"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0434\u043a\u043e\u0440\u0435\u043d"
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":1125915347,
-    "wof:lastmodified":1566645063,
+    "wof:lastmodified":1690863821,
     "wof:name":"Podkoren",
     "wof:parent_id":1108959843,
     "wof:placetype":"locality",
