@@ -25,6 +25,9 @@
     "itu:country_code":[
         "386"
     ],
+    "label:eng_x_preferred_placetype":[
+        "country"
+    ],
     "lbl:latitude":46.068735,
     "lbl:longitude":14.932759,
     "lbl:max_zoom":8,
@@ -1238,7 +1241,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "whosonfirst-interior"
     ],
-    "wof:geomhash":"9a4492a483931593c98ff630254f2fe2",
+    "wof:geomhash":"97b67c130536ff24546787137831286f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1252,7 +1255,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1690863720,
+    "wof:lastmodified":1694492261,
     "wof:name":"Slovenia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
