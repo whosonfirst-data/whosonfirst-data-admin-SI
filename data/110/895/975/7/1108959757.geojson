@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Podlehnik"
     ],
@@ -130,8 +133,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_172",
-        "eurostat:nuts_2021_id":"172"
+        "eurostat:nuts_2021_id":"172",
+        "svn-sma:id":"172"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417101,
     "wof:geomhash":"c00ffa839538d472f12952d46b3a4376",
@@ -150,7 +155,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354776,
+    "wof:lastmodified":1695879570,
     "wof:name":"Podlehnik",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",

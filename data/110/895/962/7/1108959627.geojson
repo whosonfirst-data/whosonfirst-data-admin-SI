@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Sveti Andra\u017e v Slovenskih goricah"
     ],
@@ -64,8 +67,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_182",
-        "eurostat:nuts_2021_id":"182"
+        "eurostat:nuts_2021_id":"182",
+        "svn-sma:id":"182"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417083,
     "wof:geomhash":"2d7aa96bf2298d336c75b51b99ec6887",
@@ -84,7 +89,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354770,
+    "wof:lastmodified":1695879566,
     "wof:name":"Sveti Andra\u017e v Slov. goricah",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",

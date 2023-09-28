@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Ru\u0161e"
     ],
@@ -130,8 +133,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_108",
-        "eurostat:nuts_2021_id":"108"
+        "eurostat:nuts_2021_id":"108",
+        "svn-sma:id":"108"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417081,
     "wof:geomhash":"f513ae9b1d469afe8ecf04a1652ac80b",
@@ -150,7 +155,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354769,
+    "wof:lastmodified":1695879565,
     "wof:name":"Ru\u0161e",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",

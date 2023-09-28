@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Vuzenica"
     ],
@@ -133,8 +136,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_141",
-        "eurostat:nuts_2021_id":"141"
+        "eurostat:nuts_2021_id":"141",
+        "svn-sma:id":"141"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417091,
     "wof:geomhash":"9b81ef375b4aedc1c0fa37759da88861",
@@ -153,7 +158,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354772,
+    "wof:lastmodified":1695879568,
     "wof:name":"Vuzenica",
     "wof:parent_id":1108959955,
     "wof:placetype":"localadmin",

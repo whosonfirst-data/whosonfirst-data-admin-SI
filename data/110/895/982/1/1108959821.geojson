@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina \u0160kofja Loka"
     ],
@@ -181,8 +184,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_122",
-        "eurostat:nuts_2021_id":"122"
+        "eurostat:nuts_2021_id":"122",
+        "svn-sma:id":"122"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417110,
     "wof:geomhash":"356fa89c4d53271b06b1b6b4bf1e91cc",
@@ -201,7 +206,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354779,
+    "wof:lastmodified":1695879572,
     "wof:name":"\u0160kofja Loka",
     "wof:parent_id":1108959967,
     "wof:placetype":"localadmin",

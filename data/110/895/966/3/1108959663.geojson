@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Grad"
     ],
@@ -151,8 +154,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_158",
-        "eurostat:nuts_2021_id":"158"
+        "eurostat:nuts_2021_id":"158",
+        "svn-sma:id":"158"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417089,
     "wof:geomhash":"f8cb614d491587bf652bfc4c340ef322",
@@ -171,7 +176,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354771,
+    "wof:lastmodified":1695879567,
     "wof:name":"Grad",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",

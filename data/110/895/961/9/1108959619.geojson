@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Zavr\u010d"
     ],
@@ -82,8 +85,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_143",
-        "eurostat:nuts_2021_id":"143"
+        "eurostat:nuts_2021_id":"143",
+        "svn-sma:id":"143"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417082,
     "wof:geomhash":"5d99999cfdf0a89c14b7fa66c1bc75f8",
@@ -102,7 +107,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354769,
+    "wof:lastmodified":1695879566,
     "wof:name":"Zavr\u010d",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",

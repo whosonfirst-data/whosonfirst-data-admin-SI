@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Re\u010dica ob Savinji"
     ],
@@ -112,8 +115,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_209",
-        "eurostat:nuts_2021_id":"209"
+        "eurostat:nuts_2021_id":"209",
+        "svn-sma:id":"209"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417109,
     "wof:geomhash":"3381779f6ec5040e12a2a30fe728e6db",
@@ -132,7 +137,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354779,
+    "wof:lastmodified":1695879572,
     "wof:name":"Re\u010dica ob Savinji",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",

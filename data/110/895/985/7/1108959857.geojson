@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Ankaran"
     ],
@@ -121,8 +124,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_213",
-        "eurostat:nuts_2021_id":"213"
+        "eurostat:nuts_2021_id":"213",
+        "svn-sma:id":"213"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417116,
     "wof:geomhash":"2bca83fb4811c317c9b572f0d193acc1",
@@ -141,7 +146,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354781,
+    "wof:lastmodified":1695879573,
     "wof:name":"Ankaran",
     "wof:parent_id":1108959951,
     "wof:placetype":"localadmin",

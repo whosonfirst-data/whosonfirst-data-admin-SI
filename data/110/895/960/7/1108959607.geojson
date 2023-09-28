@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina \u0160marje pri Jel\u0161ah"
     ],
@@ -121,8 +124,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_124",
-        "eurostat:nuts_2021_id":"124"
+        "eurostat:nuts_2021_id":"124",
+        "svn-sma:id":"124"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417081,
     "wof:geomhash":"0b50e85b8152d11dd5e419fa9723561c",
@@ -141,7 +146,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354769,
+    "wof:lastmodified":1695879565,
     "wof:name":"\u0160marje pri Jel\u0161ah",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",

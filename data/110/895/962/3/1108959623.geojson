@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Vipava"
     ],
@@ -85,8 +88,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_136",
-        "eurostat:nuts_2021_id":"136"
+        "eurostat:nuts_2021_id":"136",
+        "svn-sma:id":"136"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417083,
     "wof:geomhash":"695b7258cfa0183e8030e02d8a61fd9f",
@@ -105,7 +110,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354770,
+    "wof:lastmodified":1695879566,
     "wof:name":"Vipava",
     "wof:parent_id":1108959947,
     "wof:placetype":"localadmin",

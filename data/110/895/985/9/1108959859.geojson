@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Velike La\u0161\u010de"
     ],
@@ -115,8 +118,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_134",
-        "eurostat:nuts_2021_id":"134"
+        "eurostat:nuts_2021_id":"134",
+        "svn-sma:id":"134"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417117,
     "wof:geomhash":"62a984b765ab94a414a80dbc0a2e7dbd",
@@ -135,7 +140,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354781,
+    "wof:lastmodified":1695879574,
     "wof:name":"Velike La\u0161\u010de",
     "wof:parent_id":1108959949,
     "wof:placetype":"localadmin",

@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Diva\u010da"
     ],
@@ -109,8 +112,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_019",
-        "eurostat:nuts_2021_id":"019"
+        "eurostat:nuts_2021_id":"019",
+        "svn-sma:id":"019"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417114,
     "wof:geomhash":"93502d0225e400381b607348c9acc211",
@@ -129,7 +134,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354780,
+    "wof:lastmodified":1695879573,
     "wof:name":"Diva\u010da",
     "wof:parent_id":1108959951,
     "wof:placetype":"localadmin",

@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Lenart"
     ],
@@ -85,8 +88,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_058",
-        "eurostat:nuts_2021_id":"058"
+        "eurostat:nuts_2021_id":"058",
+        "svn-sma:id":"058"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417056,
     "wof:geomhash":"7955d32036c7e10e8906f49dcd3a56ad",
@@ -105,7 +110,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354760,
+    "wof:lastmodified":1695879560,
     "wof:name":"Lenart",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",

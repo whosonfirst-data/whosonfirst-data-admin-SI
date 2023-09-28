@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Sveta Ana"
     ],
@@ -100,8 +103,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_181",
-        "eurostat:nuts_2021_id":"181"
+        "eurostat:nuts_2021_id":"181",
+        "svn-sma:id":"181"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417095,
     "wof:geomhash":"1c17497a117f5c3de261fb234eade994",
@@ -120,7 +125,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354774,
+    "wof:lastmodified":1695879569,
     "wof:name":"Sveta Ana",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",

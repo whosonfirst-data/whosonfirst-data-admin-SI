@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Kanal ob So\u010di"
     ],
@@ -151,8 +154,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_044",
-        "eurostat:nuts_2021_id":"044"
+        "eurostat:nuts_2021_id":"044",
+        "svn-sma:id":"044"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417065,
     "wof:geomhash":"004d6e5c2525944d19b99508b845082d",
@@ -171,7 +176,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354763,
+    "wof:lastmodified":1695879562,
     "wof:name":"Kanal",
     "wof:parent_id":1108959947,
     "wof:placetype":"localadmin",

@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Gorenja vas - Poljane"
     ],
@@ -73,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_027",
-        "eurostat:nuts_2021_id":"027"
+        "eurostat:nuts_2021_id":"027",
+        "svn-sma:id":"027"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417122,
     "wof:geomhash":"d49b67b6079c533c9ea588d68e2a94ef",
@@ -93,7 +98,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354783,
+    "wof:lastmodified":1695879575,
     "wof:name":"Gorenja vas-Poljane",
     "wof:parent_id":1108959967,
     "wof:placetype":"localadmin",

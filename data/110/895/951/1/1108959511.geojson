@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Kuzma"
     ],
@@ -97,8 +100,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_056",
-        "eurostat:nuts_2021_id":"056"
+        "eurostat:nuts_2021_id":"056",
+        "svn-sma:id":"056"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417062,
     "wof:geomhash":"bd17f5c8d9e28d8e399635257f6b82ee",
@@ -117,7 +122,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354762,
+    "wof:lastmodified":1695879561,
     "wof:name":"Kuzma",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",

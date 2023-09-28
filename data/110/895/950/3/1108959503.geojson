@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Ljubno"
     ],
@@ -70,8 +73,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_062",
-        "eurostat:nuts_2021_id":"062"
+        "eurostat:nuts_2021_id":"062",
+        "svn-sma:id":"062"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417061,
     "wof:geomhash":"13db80e0ddb25707a65434a6d6995e68",
@@ -90,7 +95,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354762,
+    "wof:lastmodified":1695879561,
     "wof:name":"Ljubno",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",

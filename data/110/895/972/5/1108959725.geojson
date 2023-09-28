@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Sredi\u0161\u010de ob Dravi"
     ],
@@ -118,8 +121,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_202",
-        "eurostat:nuts_2021_id":"202"
+        "eurostat:nuts_2021_id":"202",
+        "svn-sma:id":"202"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417096,
     "wof:geomhash":"076bc7f8e4c0ee3c4067a310a5e7eaf9",
@@ -138,7 +143,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354774,
+    "wof:lastmodified":1695879569,
     "wof:name":"Sredi\u0161\u010de ob Dravi",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",

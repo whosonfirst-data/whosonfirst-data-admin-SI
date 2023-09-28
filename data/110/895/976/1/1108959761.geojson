@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Dornava"
     ],
@@ -97,8 +100,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_024",
-        "eurostat:nuts_2021_id":"024"
+        "eurostat:nuts_2021_id":"024",
+        "svn-sma:id":"024"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417101,
     "wof:geomhash":"c15c28bd985ad4ecbd5dbee1fe34b2df",
@@ -117,7 +122,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354776,
+    "wof:lastmodified":1695879570,
     "wof:name":"Dornava",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",

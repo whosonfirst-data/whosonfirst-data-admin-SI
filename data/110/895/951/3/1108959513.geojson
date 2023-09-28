@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Lo\u0161ki Potok"
     ],
@@ -64,8 +67,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_066",
-        "eurostat:nuts_2021_id":"066"
+        "eurostat:nuts_2021_id":"066",
+        "svn-sma:id":"066"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417062,
     "wof:geomhash":"ae6649bb9067b8d275b5f44e2b2d7b1d",
@@ -84,7 +89,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354762,
+    "wof:lastmodified":1695879561,
     "wof:name":"Lo\u0161ki Potok",
     "wof:parent_id":1108959943,
     "wof:placetype":"localadmin",

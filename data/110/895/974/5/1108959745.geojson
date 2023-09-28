@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina \u0160martno pri Litiji"
     ],
@@ -112,8 +115,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_194",
-        "eurostat:nuts_2021_id":"194"
+        "eurostat:nuts_2021_id":"194",
+        "svn-sma:id":"194"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417098,
     "wof:geomhash":"9145bfe9f07b220a538db145a33cf008",
@@ -132,7 +137,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354775,
+    "wof:lastmodified":1695879570,
     "wof:name":"\u0160martno pri Litiji",
     "wof:parent_id":1108959949,
     "wof:placetype":"localadmin",

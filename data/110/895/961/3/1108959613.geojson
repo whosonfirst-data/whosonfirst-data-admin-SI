@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Piran"
     ],
@@ -214,8 +217,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_090",
-        "eurostat:nuts_2021_id":"090"
+        "eurostat:nuts_2021_id":"090",
+        "svn-sma:id":"090"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417082,
     "wof:geomhash":"acdad4ccf46135ed82c26e35dc3a6d5f",
@@ -234,7 +239,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354769,
+    "wof:lastmodified":1695879565,
     "wof:name":"Piran",
     "wof:parent_id":1108959951,
     "wof:placetype":"localadmin",

@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Selnica ob Dravi"
     ],
@@ -130,8 +133,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_178",
-        "eurostat:nuts_2021_id":"178"
+        "eurostat:nuts_2021_id":"178",
+        "svn-sma:id":"178"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417088,
     "wof:geomhash":"1059282c899a4f9fecf2f9aaa9e31121",
@@ -150,7 +155,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354771,
+    "wof:lastmodified":1695879567,
     "wof:name":"Selnica ob Dravi",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",

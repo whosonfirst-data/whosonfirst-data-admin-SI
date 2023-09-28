@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Metlika"
     ],
@@ -139,8 +142,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_073",
-        "eurostat:nuts_2021_id":"073"
+        "eurostat:nuts_2021_id":"073",
+        "svn-sma:id":"073"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417124,
     "wof:geomhash":"707281fe13f479ae37281ccb83cdf8b8",
@@ -159,7 +164,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354784,
+    "wof:lastmodified":1695879576,
     "wof:name":"Metlika",
     "wof:parent_id":1108959943,
     "wof:placetype":"localadmin",

@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Radlje ob Dravi"
     ],
@@ -97,8 +100,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_101",
-        "eurostat:nuts_2021_id":"101"
+        "eurostat:nuts_2021_id":"101",
+        "svn-sma:id":"101"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417068,
     "wof:geomhash":"5a1e94534ea1d783673404f70ade70d3",
@@ -117,7 +122,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354765,
+    "wof:lastmodified":1695879563,
     "wof:name":"Radlje ob Dravi",
     "wof:parent_id":1108959955,
     "wof:placetype":"localadmin",

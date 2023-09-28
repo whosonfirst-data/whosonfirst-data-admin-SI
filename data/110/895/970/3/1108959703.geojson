@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Cerkvenjak"
     ],
@@ -121,8 +124,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_153",
-        "eurostat:nuts_2021_id":"153"
+        "eurostat:nuts_2021_id":"153",
+        "svn-sma:id":"153"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417094,
     "wof:geomhash":"5f468159cecf5589d292e07bc49bc7c3",
@@ -141,7 +146,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354773,
+    "wof:lastmodified":1695879568,
     "wof:name":"Cerkvenjak",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",

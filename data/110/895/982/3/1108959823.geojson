@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina \u010cren\u0161ovci"
     ],
@@ -100,8 +103,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_015",
-        "eurostat:nuts_2021_id":"015"
+        "eurostat:nuts_2021_id":"015",
+        "svn-sma:id":"015"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417110,
     "wof:geomhash":"60ec33ab0cf6a80cd25a89d74582a6ed",
@@ -120,7 +125,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354779,
+    "wof:lastmodified":1695879572,
     "wof:name":"\u010cren\u0161ovci",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",

@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Dobrovnik"
     ],
@@ -146,8 +149,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_156",
-        "eurostat:nuts_2021_id":"156"
+        "eurostat:nuts_2021_id":"156",
+        "svn-sma:id":"156"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417092,
     "wof:geomhash":"7567200e2536f403f4701d036beff538",
@@ -166,7 +171,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354773,
+    "wof:lastmodified":1695879568,
     "wof:name":"Dobrovnik",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",

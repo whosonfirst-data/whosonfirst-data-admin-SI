@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Grosuplje"
     ],
@@ -136,8 +139,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_032",
-        "eurostat:nuts_2021_id":"032"
+        "eurostat:nuts_2021_id":"032",
+        "svn-sma:id":"032"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417064,
     "wof:geomhash":"f1c4b4187702a3ef8cef2065268a06a4",
@@ -156,7 +161,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354763,
+    "wof:lastmodified":1695879562,
     "wof:name":"Grosuplje",
     "wof:parent_id":1108959949,
     "wof:placetype":"localadmin",

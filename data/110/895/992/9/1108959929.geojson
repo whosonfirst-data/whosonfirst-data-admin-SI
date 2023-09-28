@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina \u017dalec"
     ],
@@ -139,8 +142,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_190",
-        "eurostat:nuts_2021_id":"190"
+        "eurostat:nuts_2021_id":"190",
+        "svn-sma:id":"190"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417128,
     "wof:geomhash":"5adc88de05df2e97c805d6d921c38664",
@@ -159,7 +164,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354785,
+    "wof:lastmodified":1695879577,
     "wof:name":"\u017dalec",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",

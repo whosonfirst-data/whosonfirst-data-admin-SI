@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Sveti Toma\u017e"
     ],
@@ -70,8 +73,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_205",
-        "eurostat:nuts_2021_id":"205"
+        "eurostat:nuts_2021_id":"205",
+        "svn-sma:id":"205"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417128,
     "wof:geomhash":"255fe2cce06098f15ee779f5832109e5",
@@ -90,7 +95,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354785,
+    "wof:lastmodified":1695879577,
     "wof:name":"Sveti Toma\u017e",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",

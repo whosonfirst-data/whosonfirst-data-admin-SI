@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Ribnica na Pohorju"
     ],
@@ -130,8 +133,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_177",
-        "eurostat:nuts_2021_id":"177"
+        "eurostat:nuts_2021_id":"177",
+        "svn-sma:id":"177"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417102,
     "wof:geomhash":"fb040c7e7d23bd457e8dfacc0bf6e6af",
@@ -150,7 +155,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354776,
+    "wof:lastmodified":1695879570,
     "wof:name":"Ribnica na Pohorju",
     "wof:parent_id":1108959955,
     "wof:placetype":"localadmin",

@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Mokronog - Trebelno"
     ],
@@ -64,8 +67,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_199",
-        "eurostat:nuts_2021_id":"199"
+        "eurostat:nuts_2021_id":"199",
+        "svn-sma:id":"199"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417124,
     "wof:geomhash":"3beb241d41954942e5c79839f9d98ff4",
@@ -84,7 +89,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354784,
+    "wof:lastmodified":1695879576,
     "wof:name":"Mokronog-Trebelno",
     "wof:parent_id":1108959943,
     "wof:placetype":"localadmin",

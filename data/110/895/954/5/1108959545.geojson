@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Ajdov\u0161\u010dina"
     ],
@@ -121,8 +124,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_001",
-        "eurostat:nuts_2021_id":"001"
+        "eurostat:nuts_2021_id":"001",
+        "svn-sma:id":"001"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417066,
     "wof:geomhash":"b775ec79adec109a70b73bc34067bb5f",
@@ -141,7 +146,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354764,
+    "wof:lastmodified":1695879562,
     "wof:name":"Ajdov\u0161\u010dina",
     "wof:parent_id":1108959947,
     "wof:placetype":"localadmin",

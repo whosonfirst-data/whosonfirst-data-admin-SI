@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Hodo\u0161"
     ],
@@ -124,8 +127,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_161",
-        "eurostat:nuts_2021_id":"161"
+        "eurostat:nuts_2021_id":"161",
+        "svn-sma:id":"161"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417085,
     "wof:geomhash":"39775632bf529f95c1484f0f578be137",
@@ -144,7 +149,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354770,
+    "wof:lastmodified":1695879566,
     "wof:name":"Hodo\u0161",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",

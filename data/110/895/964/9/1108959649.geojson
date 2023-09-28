@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Pod\u010detrtek"
     ],
@@ -124,8 +127,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_092",
-        "eurostat:nuts_2021_id":"092"
+        "eurostat:nuts_2021_id":"092",
+        "svn-sma:id":"092"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417087,
     "wof:geomhash":"0ae907fda8d0bfdeb2035f588d766986",
@@ -144,7 +149,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354771,
+    "wof:lastmodified":1695879567,
     "wof:name":"Pod\u010detrtek",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",

@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Oplotnica"
     ],
@@ -127,8 +130,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_171",
-        "eurostat:nuts_2021_id":"171"
+        "eurostat:nuts_2021_id":"171",
+        "svn-sma:id":"171"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417097,
     "wof:geomhash":"547f0e66080e779344df9f8e4a03228f",
@@ -147,7 +152,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354775,
+    "wof:lastmodified":1695879569,
     "wof:name":"Oplotnica",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",

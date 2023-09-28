@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Slovenska Bistrica"
     ],
@@ -157,8 +160,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_113",
-        "eurostat:nuts_2021_id":"113"
+        "eurostat:nuts_2021_id":"113",
+        "svn-sma:id":"113"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417086,
     "wof:geomhash":"f9190664eab3970d63ccf20b6b376bb5",
@@ -177,7 +182,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354770,
+    "wof:lastmodified":1695879566,
     "wof:name":"Slovenska Bistrica",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",

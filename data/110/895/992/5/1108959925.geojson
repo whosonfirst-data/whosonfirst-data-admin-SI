@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Moravske Toplice"
     ],
@@ -121,8 +124,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_078",
-        "eurostat:nuts_2021_id":"078"
+        "eurostat:nuts_2021_id":"078",
+        "svn-sma:id":"078"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417126,
     "wof:geomhash":"6d0b6d1ded4fb54aad600210a958d33d",
@@ -141,7 +146,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354785,
+    "wof:lastmodified":1695879577,
     "wof:name":"Moravske Toplice",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",

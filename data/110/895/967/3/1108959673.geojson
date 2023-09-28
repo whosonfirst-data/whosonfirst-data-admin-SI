@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina \u017diri"
     ],
@@ -94,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_147",
-        "eurostat:nuts_2021_id":"147"
+        "eurostat:nuts_2021_id":"147",
+        "svn-sma:id":"147"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417090,
     "wof:geomhash":"64db25ded093290d9fecd05d308a7304",
@@ -114,7 +119,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354772,
+    "wof:lastmodified":1695879567,
     "wof:name":"\u017diri",
     "wof:parent_id":1108959967,
     "wof:placetype":"localadmin",

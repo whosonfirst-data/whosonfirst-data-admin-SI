@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Puconci"
     ],
@@ -142,8 +145,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_097",
-        "eurostat:nuts_2021_id":"097"
+        "eurostat:nuts_2021_id":"097",
+        "svn-sma:id":"097"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417128,
     "wof:geomhash":"549afcf9af1b871cf7922769aa2c99fd",
@@ -162,7 +167,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354785,
+    "wof:lastmodified":1695879577,
     "wof:name":"Puconci",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",

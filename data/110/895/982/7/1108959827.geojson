@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Vransko"
     ],
@@ -112,8 +115,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_189",
-        "eurostat:nuts_2021_id":"189"
+        "eurostat:nuts_2021_id":"189",
+        "svn-sma:id":"189"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417112,
     "wof:geomhash":"c60dd74ad324d79289389cc031db844f",
@@ -132,7 +137,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354780,
+    "wof:lastmodified":1695879573,
     "wof:name":"Vransko",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",

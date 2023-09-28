@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Horjul"
     ],
@@ -67,8 +70,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_162",
-        "eurostat:nuts_2021_id":"162"
+        "eurostat:nuts_2021_id":"162",
+        "svn-sma:id":"162"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417117,
     "wof:geomhash":"346d14a3fd7df20fd9f904efc7162d4a",
@@ -87,7 +92,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354782,
+    "wof:lastmodified":1695879574,
     "wof:name":"Horjul",
     "wof:parent_id":1108959949,
     "wof:placetype":"localadmin",

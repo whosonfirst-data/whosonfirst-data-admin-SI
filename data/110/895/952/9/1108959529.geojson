@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Duplek"
     ],
@@ -67,8 +70,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_026",
-        "eurostat:nuts_2021_id":"026"
+        "eurostat:nuts_2021_id":"026",
+        "svn-sma:id":"026"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417064,
     "wof:geomhash":"30d694e4cc04eabe28cd24e413520e2f",
@@ -87,7 +92,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354763,
+    "wof:lastmodified":1695879562,
     "wof:name":"Duplek",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",

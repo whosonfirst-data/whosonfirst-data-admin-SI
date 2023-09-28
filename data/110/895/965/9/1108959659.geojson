@@ -26,7 +26,10 @@
         "City Municipality of Ptuj"
     ],
     "label:eng_x_preferred_placetype":[
-        "city municipality"
+        "urban municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
     ],
     "label:slv_x_preferred_longname":[
         "Mestna ob\u010dina Ptuj"
@@ -217,8 +220,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_096",
-        "eurostat:nuts_2021_id":"096"
+        "eurostat:nuts_2021_id":"096",
+        "svn-sma:id":"096"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417088,
     "wof:geomhash":"30b5ca5cb711244558cf3e021b1d178a",
@@ -237,7 +242,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354771,
+    "wof:lastmodified":1695879567,
     "wof:name":"Ptuj",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",

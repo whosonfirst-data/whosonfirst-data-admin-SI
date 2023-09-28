@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Gornji Petrovci"
     ],
@@ -121,8 +124,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_031",
-        "eurostat:nuts_2021_id":"031"
+        "eurostat:nuts_2021_id":"031",
+        "svn-sma:id":"031"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417064,
     "wof:geomhash":"5777c13e4233bc4ad66179f1f4ab02b6",
@@ -141,7 +146,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354763,
+    "wof:lastmodified":1695879562,
     "wof:name":"Gornji Petrovci",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",

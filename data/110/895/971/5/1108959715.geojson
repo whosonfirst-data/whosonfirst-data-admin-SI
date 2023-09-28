@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Tabor"
     ],
@@ -157,8 +160,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_184",
-        "eurostat:nuts_2021_id":"184"
+        "eurostat:nuts_2021_id":"184",
+        "svn-sma:id":"184"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417095,
     "wof:geomhash":"e2d2708c47ce419d69bd3dfdbf4d2218",
@@ -177,7 +182,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354774,
+    "wof:lastmodified":1695879569,
     "wof:name":"Tabor",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",

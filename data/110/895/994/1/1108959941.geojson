@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Kamnik"
     ],
@@ -181,8 +184,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_043",
-        "eurostat:nuts_2021_id":"043"
+        "eurostat:nuts_2021_id":"043",
+        "svn-sma:id":"043"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417129,
     "wof:geomhash":"19f187b87cd8c3a35a05644cc2a0548f",
@@ -201,7 +206,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354786,
+    "wof:lastmodified":1695879577,
     "wof:name":"Kamnik",
     "wof:parent_id":1108959949,
     "wof:placetype":"localadmin",

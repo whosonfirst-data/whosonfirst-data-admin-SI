@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Dobje"
     ],
@@ -85,8 +88,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_154",
-        "eurostat:nuts_2021_id":"154"
+        "eurostat:nuts_2021_id":"154",
+        "svn-sma:id":"154"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417092,
     "wof:geomhash":"18b07380a6b975349953805f0b55ba5a",
@@ -105,7 +110,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354773,
+    "wof:lastmodified":1695879568,
     "wof:name":"Dobje",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",

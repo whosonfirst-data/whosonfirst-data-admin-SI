@@ -26,7 +26,10 @@
         "City Municipality of Celje"
     ],
     "label:eng_x_preferred_placetype":[
-        "city municipality"
+        "urban municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
     ],
     "label:slv_x_preferred_longname":[
         "Mestna ob\u010dina Celje"
@@ -238,8 +241,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_011",
-        "eurostat:nuts_2021_id":"011"
+        "eurostat:nuts_2021_id":"011",
+        "svn-sma:id":"011"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417092,
     "wof:geomhash":"ba4166d722742a0cabea265a1d375f42",
@@ -258,7 +263,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354773,
+    "wof:lastmodified":1695879568,
     "wof:name":"Celje",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",

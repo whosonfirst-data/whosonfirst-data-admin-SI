@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Mirna"
     ],
@@ -100,8 +103,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_212",
-        "eurostat:nuts_2021_id":"212"
+        "eurostat:nuts_2021_id":"212",
+        "svn-sma:id":"212"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417118,
     "wof:geomhash":"87c143cab97151dc53a38298f0b72d1d",
@@ -120,7 +125,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354782,
+    "wof:lastmodified":1695879574,
     "wof:name":"Mirna",
     "wof:parent_id":1108959943,
     "wof:placetype":"localadmin",

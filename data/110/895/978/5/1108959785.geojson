@@ -26,7 +26,10 @@
         "City Municipality of Maribor"
     ],
     "label:eng_x_preferred_placetype":[
-        "city municipality"
+        "urban municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
     ],
     "label:slv_x_preferred_longname":[
         "Mestna ob\u010dina Maribor"
@@ -283,8 +286,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_070",
-        "eurostat:nuts_2021_id":"070"
+        "eurostat:nuts_2021_id":"070",
+        "svn-sma:id":"070"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417103,
     "wof:geomhash":"47f0c695457febfcb6853ae5a80d062f",
@@ -303,7 +308,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354777,
+    "wof:lastmodified":1695879571,
     "wof:name":"Maribor",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",

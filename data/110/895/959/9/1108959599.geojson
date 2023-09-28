@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Ribnica"
     ],
@@ -118,8 +121,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_104",
-        "eurostat:nuts_2021_id":"104"
+        "eurostat:nuts_2021_id":"104",
+        "svn-sma:id":"104"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417080,
     "wof:geomhash":"74c7df60f34a31279a2a3f6e066934e2",
@@ -138,7 +143,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354768,
+    "wof:lastmodified":1695879565,
     "wof:name":"Ribnica",
     "wof:parent_id":1108959943,
     "wof:placetype":"localadmin",

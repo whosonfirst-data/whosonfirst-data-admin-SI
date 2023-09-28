@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina \u0160kocjan"
     ],
@@ -91,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_121",
-        "eurostat:nuts_2021_id":"121"
+        "eurostat:nuts_2021_id":"121",
+        "svn-sma:id":"121"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417081,
     "wof:geomhash":"66cc7c3928bea90029df272dd261e5f4",
@@ -111,7 +116,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354769,
+    "wof:lastmodified":1695879565,
     "wof:name":"\u0160kocjan",
     "wof:parent_id":1108959943,
     "wof:placetype":"localadmin",

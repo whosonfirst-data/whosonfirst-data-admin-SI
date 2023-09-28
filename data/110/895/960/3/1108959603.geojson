@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Turni\u0161\u010de"
     ],
@@ -100,8 +103,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_132",
-        "eurostat:nuts_2021_id":"132"
+        "eurostat:nuts_2021_id":"132",
+        "svn-sma:id":"132"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417080,
     "wof:geomhash":"4f84eb4570b023d320ec55594e225443",
@@ -120,7 +125,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354769,
+    "wof:lastmodified":1695879565,
     "wof:name":"Turni\u0161\u010de",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",

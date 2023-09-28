@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Velika Polana"
     ],
@@ -127,8 +130,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_187",
-        "eurostat:nuts_2021_id":"187"
+        "eurostat:nuts_2021_id":"187",
+        "svn-sma:id":"187"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417093,
     "wof:geomhash":"88bb22ecf80c5d178805b95c9e758b28",
@@ -147,7 +152,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354773,
+    "wof:lastmodified":1695879568,
     "wof:name":"Velika Polana",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",

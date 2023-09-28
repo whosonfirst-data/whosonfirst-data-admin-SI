@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Postojna"
     ],
@@ -175,8 +178,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_094",
-        "eurostat:nuts_2021_id":"094"
+        "eurostat:nuts_2021_id":"094",
+        "svn-sma:id":"094"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417068,
     "wof:geomhash":"fea8618d7a87a8f6904910671236e182",
@@ -195,7 +200,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354766,
+    "wof:lastmodified":1695879563,
     "wof:name":"Postojna",
     "wof:parent_id":1108959953,
     "wof:placetype":"localadmin",

@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Ilirska Bistrica"
     ],
@@ -151,8 +154,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_038",
-        "eurostat:nuts_2021_id":"038"
+        "eurostat:nuts_2021_id":"038",
+        "svn-sma:id":"038"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417118,
     "wof:geomhash":"73d499a6f83d1f6334a96b51701dcf6d",
@@ -171,7 +176,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354782,
+    "wof:lastmodified":1695879574,
     "wof:name":"Ilirska Bistrica",
     "wof:parent_id":1108959953,
     "wof:placetype":"localadmin",

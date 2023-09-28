@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Star\u0161e"
     ],
@@ -121,8 +124,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_115",
-        "eurostat:nuts_2021_id":"115"
+        "eurostat:nuts_2021_id":"115",
+        "svn-sma:id":"115"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417103,
     "wof:geomhash":"159223ec6a7af1373b322c718ebd1715",
@@ -141,7 +146,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354777,
+    "wof:lastmodified":1695879571,
     "wof:name":"Star\u0161e",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",

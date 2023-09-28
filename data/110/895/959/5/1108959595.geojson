@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Odranci"
     ],
@@ -136,8 +139,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_086",
-        "eurostat:nuts_2021_id":"086"
+        "eurostat:nuts_2021_id":"086",
+        "svn-sma:id":"086"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417080,
     "wof:geomhash":"d62fd80d1c9cbaf1b3d7d02b878af174",
@@ -156,7 +161,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354768,
+    "wof:lastmodified":1695879565,
     "wof:name":"Odranci",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",

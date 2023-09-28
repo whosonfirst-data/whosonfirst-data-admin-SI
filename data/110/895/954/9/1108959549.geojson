@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Hrpelje - Kozina"
     ],
@@ -73,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_035",
-        "eurostat:nuts_2021_id":"035"
+        "eurostat:nuts_2021_id":"035",
+        "svn-sma:id":"035"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417067,
     "wof:geomhash":"7319c23f56f6fcd09af156a012cc518b",
@@ -93,7 +98,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354764,
+    "wof:lastmodified":1695879562,
     "wof:name":"Hrpelje-Kozina",
     "wof:parent_id":1108959951,
     "wof:placetype":"localadmin",

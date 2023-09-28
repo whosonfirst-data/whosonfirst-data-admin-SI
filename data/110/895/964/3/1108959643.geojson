@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Ravne na Koro\u0161kem"
     ],
@@ -148,8 +151,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_103",
-        "eurostat:nuts_2021_id":"103"
+        "eurostat:nuts_2021_id":"103",
+        "svn-sma:id":"103"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417086,
     "wof:geomhash":"df3be03214192090f98d0d50c58e6464",
@@ -168,7 +173,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354770,
+    "wof:lastmodified":1695879566,
     "wof:name":"Ravne na Koro\u0161kem",
     "wof:parent_id":1108959955,
     "wof:placetype":"localadmin",

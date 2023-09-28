@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Kostel"
     ],
@@ -100,8 +103,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_165",
-        "eurostat:nuts_2021_id":"165"
+        "eurostat:nuts_2021_id":"165",
+        "svn-sma:id":"165"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417095,
     "wof:geomhash":"9bc7c58b1fedd565c0b80be459aece19",
@@ -120,7 +125,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354774,
+    "wof:lastmodified":1695879569,
     "wof:name":"Kostel",
     "wof:parent_id":1108959943,
     "wof:placetype":"localadmin",

@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Preddvor"
     ],
@@ -103,8 +106,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_095",
-        "eurostat:nuts_2021_id":"095"
+        "eurostat:nuts_2021_id":"095",
+        "svn-sma:id":"095"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417088,
     "wof:geomhash":"f027d26957a8826896b43848c08e7b08",
@@ -123,7 +128,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354771,
+    "wof:lastmodified":1695879567,
     "wof:name":"Preddvor",
     "wof:parent_id":1108959967,
     "wof:placetype":"localadmin",

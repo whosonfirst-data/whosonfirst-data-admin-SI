@@ -26,7 +26,10 @@
         "City Municipality of Novo Mesto"
     ],
     "label:eng_x_preferred_placetype":[
-        "city municipality"
+        "urban municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
     ],
     "label:slv_x_preferred_longname":[
         "Mestna ob\u010dina Novo mesto"
@@ -64,8 +67,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_085",
-        "eurostat:nuts_2021_id":"085"
+        "eurostat:nuts_2021_id":"085",
+        "svn-sma:id":"085"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417054,
     "wof:geomhash":"5aa40fcd1c2a8b13f4e95776a89a6ea3",
@@ -84,7 +89,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354760,
+    "wof:lastmodified":1695879559,
     "wof:name":"Novo mesto",
     "wof:parent_id":1108959943,
     "wof:placetype":"localadmin",

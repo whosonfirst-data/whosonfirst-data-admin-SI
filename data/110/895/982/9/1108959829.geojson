@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Benedikt"
     ],
@@ -100,8 +103,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_148",
-        "eurostat:nuts_2021_id":"148"
+        "eurostat:nuts_2021_id":"148",
+        "svn-sma:id":"148"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417113,
     "wof:geomhash":"23d277bbcd9096ea46f2985a63b7e0a4",
@@ -120,7 +125,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354780,
+    "wof:lastmodified":1695879573,
     "wof:name":"Benedikt",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",

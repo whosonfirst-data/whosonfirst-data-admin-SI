@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Ljutomer"
     ],
@@ -121,8 +124,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_063",
-        "eurostat:nuts_2021_id":"063"
+        "eurostat:nuts_2021_id":"063",
+        "svn-sma:id":"063"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417059,
     "wof:geomhash":"683049e5cba587a37dc31870956ac95c",
@@ -141,7 +146,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354761,
+    "wof:lastmodified":1695879560,
     "wof:name":"Ljutomer",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",

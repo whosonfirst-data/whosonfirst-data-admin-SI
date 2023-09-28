@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Bistrica ob Sotli"
     ],
@@ -124,8 +127,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_149",
-        "eurostat:nuts_2021_id":"149"
+        "eurostat:nuts_2021_id":"149",
+        "svn-sma:id":"149"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417124,
     "wof:geomhash":"e4b74e49193cc13785815cba2ca7853f",
@@ -144,7 +149,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354784,
+    "wof:lastmodified":1695879576,
     "wof:name":"Bistrica ob Sotli",
     "wof:parent_id":1108959965,
     "wof:placetype":"localadmin",

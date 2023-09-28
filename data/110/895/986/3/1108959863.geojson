@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Lo\u0161ka dolina"
     ],
@@ -64,8 +67,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_065",
-        "eurostat:nuts_2021_id":"065"
+        "eurostat:nuts_2021_id":"065",
+        "svn-sma:id":"065"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417117,
     "wof:geomhash":"1be5b083e9514345524544ec45bc053f",
@@ -84,7 +89,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354781,
+    "wof:lastmodified":1695879574,
     "wof:name":"Lo\u0161ka dolina",
     "wof:parent_id":1108959953,
     "wof:placetype":"localadmin",

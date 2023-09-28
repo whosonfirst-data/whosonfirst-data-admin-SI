@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Stra\u017ea"
     ],
@@ -103,8 +106,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_203",
-        "eurostat:nuts_2021_id":"203"
+        "eurostat:nuts_2021_id":"203",
+        "svn-sma:id":"203"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417105,
     "wof:geomhash":"4ae3668fd7d6ec602d0f34c723a358a5",
@@ -123,7 +128,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354778,
+    "wof:lastmodified":1695879571,
     "wof:name":"Stra\u017ea",
     "wof:parent_id":1108959943,
     "wof:placetype":"localadmin",
