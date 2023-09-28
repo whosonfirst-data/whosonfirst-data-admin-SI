@@ -90,8 +90,14 @@
     "wof:concordances":{
         "eurostat:nuts_2021_id":"SI041",
         "hasc:id":"SI.LJ",
-        "iso:id":"8"
+        "iso:code_historic":"SI-08",
+        "iso:id":"8",
+        "svn-sma:id":"08"
     },
+    "wof:concordances_official":"svn-sma:id",
+    "wof:concordances_official_alt":[
+        "iso:code_historic"
+    ],
     "wof:country":"SI",
     "wof:created":1493419740,
     "wof:geomhash":"49b34d91dbbd0cf0b0d64bd8959b25ee",
@@ -109,7 +115,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684351674,
+    "wof:lastmodified":1695885318,
     "wof:name":"Osrednjeslovenska",
     "wof:parent_id":85633779,
     "wof:placetype":"region",

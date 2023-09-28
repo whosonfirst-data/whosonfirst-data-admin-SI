@@ -90,8 +90,14 @@
     "wof:concordances":{
         "eurostat:nuts_2021_id":"SI037",
         "hasc:id":"SI.DO",
-        "iso:id":"7"
+        "iso:code_historic":"SI-07",
+        "iso:id":"7",
+        "svn-sma:id":"07"
     },
+    "wof:concordances_official":"svn-sma:id",
+    "wof:concordances_official_alt":[
+        "iso:code_historic"
+    ],
     "wof:country":"SI",
     "wof:created":1493419738,
     "wof:geomhash":"9b57a3af810cbbc557ccb9ea7260dee5",
@@ -109,7 +115,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684351673,
+    "wof:lastmodified":1695885317,
     "wof:name":"Jugovzhodna Slovenija",
     "wof:parent_id":85633779,
     "wof:placetype":"region",

@@ -114,8 +114,14 @@
     "wof:concordances":{
         "eurostat:nuts_2021_id":"SI043",
         "hasc:id":"SI.SP",
-        "iso:id":"11"
+        "iso:code_historic":"SI-11",
+        "iso:id":"11",
+        "svn-sma:id":"11"
     },
+    "wof:concordances_official":"svn-sma:id",
+    "wof:concordances_official_alt":[
+        "iso:code_historic"
+    ],
     "wof:country":"SI",
     "wof:created":1493419739,
     "wof:geomhash":"952bb94eec0c1153b55becb557110e02",
@@ -133,7 +139,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684351674,
+    "wof:lastmodified":1695885318,
     "wof:name":"Gori\u0161ka",
     "wof:parent_id":85633779,
     "wof:placetype":"region",

@@ -90,8 +90,14 @@
     "wof:concordances":{
         "eurostat:nuts_2021_id":"SI031",
         "hasc:id":"SI.PM",
-        "iso:id":"1"
+        "iso:code_historic":"SI-01",
+        "iso:id":"1",
+        "svn-sma:id":"01"
     },
+    "wof:concordances_official":"svn-sma:id",
+    "wof:concordances_official_alt":[
+        "iso:code_historic"
+    ],
     "wof:country":"SI",
     "wof:created":1493419739,
     "wof:geomhash":"e514e9f70fe8d4f27a59cc8217ae2d36",
@@ -109,7 +115,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684351673,
+    "wof:lastmodified":1695885317,
     "wof:name":"Pomurska",
     "wof:parent_id":85633779,
     "wof:placetype":"region",

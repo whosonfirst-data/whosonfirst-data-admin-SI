@@ -90,8 +90,14 @@
     "wof:concordances":{
         "eurostat:nuts_2021_id":"SI036",
         "hasc:id":"SI.PS",
-        "iso:id":"6"
+        "iso:code_historic":"SI-06",
+        "iso:id":"6",
+        "svn-sma:id":"06"
     },
+    "wof:concordances_official":"svn-sma:id",
+    "wof:concordances_official_alt":[
+        "iso:code_historic"
+    ],
     "wof:country":"SI",
     "wof:created":1493419744,
     "wof:geomhash":"e6b72bb28f216de1d8e68f2b2d788a61",
@@ -109,7 +115,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684351676,
+    "wof:lastmodified":1695885320,
     "wof:name":"Posavska",
     "wof:parent_id":85633779,
     "wof:placetype":"region",
