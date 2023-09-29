@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina \u0160o\u0161tanj"
     ],
@@ -100,8 +103,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_126",
-        "eurostat:nuts_2021_id":"126"
+        "eurostat:nuts_2021_id":"126",
+        "svn-sma:id":"126"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417097,
     "wof:geomhash":"539eb7670ebc0b0990c897c78194c0bd",
@@ -120,7 +125,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354774,
+    "wof:lastmodified":1695879569,
     "wof:name":"\u0160o\u0161tanj",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",

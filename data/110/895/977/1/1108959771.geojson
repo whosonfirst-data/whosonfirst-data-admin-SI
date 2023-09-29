@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Ver\u017eej"
     ],
@@ -97,8 +100,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_188",
-        "eurostat:nuts_2021_id":"188"
+        "eurostat:nuts_2021_id":"188",
+        "svn-sma:id":"188"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417102,
     "wof:geomhash":"154d34d5a738d563656278972a7b1a52",
@@ -117,7 +122,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354776,
+    "wof:lastmodified":1695879570,
     "wof:name":"Ver\u017eej",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",

@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Kungota"
     ],
@@ -70,8 +73,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_055",
-        "eurostat:nuts_2021_id":"055"
+        "eurostat:nuts_2021_id":"055",
+        "svn-sma:id":"055"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417055,
     "wof:geomhash":"0e8590fe694e2704506b302ab1730b55",
@@ -90,7 +95,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354760,
+    "wof:lastmodified":1695879559,
     "wof:name":"Kungota",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",

@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Prebold"
     ],
@@ -103,8 +106,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_174",
-        "eurostat:nuts_2021_id":"174"
+        "eurostat:nuts_2021_id":"174",
+        "svn-sma:id":"174"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417095,
     "wof:geomhash":"5d20d79b097a94d812b9d7f568af605b",
@@ -123,7 +128,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354774,
+    "wof:lastmodified":1695879569,
     "wof:name":"Prebold",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",

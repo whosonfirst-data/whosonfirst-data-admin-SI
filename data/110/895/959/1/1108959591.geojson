@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Sveti Jurij ob \u0160\u010davnici"
     ],
@@ -115,8 +118,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_116",
-        "eurostat:nuts_2021_id":"116"
+        "eurostat:nuts_2021_id":"116",
+        "svn-sma:id":"116"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417079,
     "wof:geomhash":"03ff4226dadda735a4f2dedebe5d4c1f",
@@ -135,7 +140,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354768,
+    "wof:lastmodified":1695879564,
     "wof:name":"Sveti Jurij ob \u0160\u010davnici",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",

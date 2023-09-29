@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Apa\u010de"
     ],
@@ -127,8 +130,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_195",
-        "eurostat:nuts_2021_id":"195"
+        "eurostat:nuts_2021_id":"195",
+        "svn-sma:id":"195"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417090,
     "wof:geomhash":"6f49f6b2e60dfe95c928a23602e3604f",
@@ -147,7 +152,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354772,
+    "wof:lastmodified":1695879567,
     "wof:name":"Apa\u010de",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",

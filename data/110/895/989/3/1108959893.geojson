@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Bloke"
     ],
@@ -67,8 +70,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_150",
-        "eurostat:nuts_2021_id":"150"
+        "eurostat:nuts_2021_id":"150",
+        "svn-sma:id":"150"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417122,
     "wof:geomhash":"cdbc7ad2734e4d0483876b97618acd7b",
@@ -87,7 +92,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354783,
+    "wof:lastmodified":1695879575,
     "wof:name":"Bloke",
     "wof:parent_id":1108959953,
     "wof:placetype":"localadmin",

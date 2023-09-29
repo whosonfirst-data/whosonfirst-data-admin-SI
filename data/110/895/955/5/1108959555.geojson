@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Podvelka"
     ],
@@ -130,8 +133,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_093",
-        "eurostat:nuts_2021_id":"093"
+        "eurostat:nuts_2021_id":"093",
+        "svn-sma:id":"093"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417068,
     "wof:geomhash":"2f0ef5fd618f76118517a72e62d0784f",
@@ -150,7 +155,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354765,
+    "wof:lastmodified":1695879563,
     "wof:name":"Podvelka",
     "wof:parent_id":1108959955,
     "wof:placetype":"localadmin",

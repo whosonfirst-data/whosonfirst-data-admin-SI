@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina \u0160tore"
     ],
@@ -124,8 +127,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_127",
-        "eurostat:nuts_2021_id":"127"
+        "eurostat:nuts_2021_id":"127",
+        "svn-sma:id":"127"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417085,
     "wof:geomhash":"7beedc8ac48e071be00a3ffd34b81c4b",
@@ -144,7 +149,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354770,
+    "wof:lastmodified":1695879566,
     "wof:name":"\u0160tore",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",

@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Trzin"
     ],
@@ -133,8 +136,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_131",
-        "eurostat:nuts_2021_id":"131"
+        "eurostat:nuts_2021_id":"131",
+        "svn-sma:id":"131"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417125,
     "wof:geomhash":"29d47cfb1d6ee87a7380ef1adee5410a",
@@ -153,7 +158,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354784,
+    "wof:lastmodified":1695879576,
     "wof:name":"Tr\u017ei\u010d",
     "wof:parent_id":1108959967,
     "wof:placetype":"localadmin",

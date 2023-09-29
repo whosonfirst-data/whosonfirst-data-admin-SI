@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Jesenice"
     ],
@@ -169,8 +172,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_041",
-        "eurostat:nuts_2021_id":"041"
+        "eurostat:nuts_2021_id":"041",
+        "svn-sma:id":"041"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417119,
     "wof:geomhash":"970e798eedf538f0a37e233a9908c168",
@@ -189,7 +194,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354782,
+    "wof:lastmodified":1695879574,
     "wof:name":"Jesenice",
     "wof:parent_id":1108959967,
     "wof:placetype":"localadmin",

@@ -81,8 +81,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "eurostat:nuts_2021_id":"SI033"
+        "eurostat:nuts_2021_id":"SI033",
+        "iso:code_historic":"SI-03",
+        "svn-sma:id":"03"
     },
+    "wof:concordances_official":"svn-sma:id",
+    "wof:concordances_official_alt":[
+        "iso:code_historic"
+    ],
     "wof:country":"SI",
     "wof:created":1493419742,
     "wof:geomhash":"07eb4269910a512511494897785d1e82",
@@ -100,7 +106,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684351675,
+    "wof:lastmodified":1695885319,
     "wof:name":"Koro\u0161ka",
     "wof:parent_id":85633779,
     "wof:placetype":"region",

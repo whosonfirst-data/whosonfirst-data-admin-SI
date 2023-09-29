@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Lukovica"
     ],
@@ -70,8 +73,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_068",
-        "eurostat:nuts_2021_id":"068"
+        "eurostat:nuts_2021_id":"068",
+        "svn-sma:id":"068"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417108,
     "wof:geomhash":"bfe60fb44da62ef0df77f6c07b295605",
@@ -90,7 +95,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354778,
+    "wof:lastmodified":1695879572,
     "wof:name":"Lukovica",
     "wof:parent_id":1108959949,
     "wof:placetype":"localadmin",

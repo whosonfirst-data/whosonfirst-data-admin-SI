@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Izola"
     ],
@@ -181,8 +184,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_040",
-        "eurostat:nuts_2021_id":"040"
+        "eurostat:nuts_2021_id":"040",
+        "svn-sma:id":"040"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417067,
     "wof:geomhash":"d2bd0492d23ac8e936f922f70f83124b",
@@ -201,7 +206,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354764,
+    "wof:lastmodified":1695879563,
     "wof:name":"Izola",
     "wof:parent_id":1108959951,
     "wof:placetype":"localadmin",

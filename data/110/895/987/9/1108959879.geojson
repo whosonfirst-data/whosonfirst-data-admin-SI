@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina La\u0161ko"
     ],
@@ -109,8 +112,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_057",
-        "eurostat:nuts_2021_id":"057"
+        "eurostat:nuts_2021_id":"057",
+        "svn-sma:id":"057"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417120,
     "wof:geomhash":"db2d10b11e8f2d3b39476acf8a48b34f",
@@ -129,7 +134,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354782,
+    "wof:lastmodified":1695879574,
     "wof:name":"La\u0161ko",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",

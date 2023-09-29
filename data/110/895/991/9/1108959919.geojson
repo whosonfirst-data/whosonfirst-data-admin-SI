@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Ko\u010devje"
     ],
@@ -115,8 +118,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_048",
-        "eurostat:nuts_2021_id":"048"
+        "eurostat:nuts_2021_id":"048",
+        "svn-sma:id":"048"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417125,
     "wof:geomhash":"2b59a745578e4fb87596822df0d6635b",
@@ -135,7 +140,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354785,
+    "wof:lastmodified":1695879576,
     "wof:name":"Ko\u010devje",
     "wof:parent_id":1108959943,
     "wof:placetype":"localadmin",

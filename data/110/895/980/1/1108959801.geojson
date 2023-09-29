@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Sveta Trojica v Slovenskih goricah"
     ],
@@ -64,8 +67,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_204",
-        "eurostat:nuts_2021_id":"204"
+        "eurostat:nuts_2021_id":"204",
+        "svn-sma:id":"204"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417108,
     "wof:geomhash":"7a86cb0cde2404b59eb7bddaa3dcad05",
@@ -84,7 +89,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354778,
+    "wof:lastmodified":1695879572,
     "wof:name":"Sveta Trojica v Slovenskih goricah",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",

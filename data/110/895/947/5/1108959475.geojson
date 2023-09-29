@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Lendava"
     ],
@@ -166,8 +169,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_059",
-        "eurostat:nuts_2021_id":"059"
+        "eurostat:nuts_2021_id":"059",
+        "svn-sma:id":"059"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417056,
     "wof:geomhash":"a505655ffbc492111d4c6f04d9b542b6",
@@ -186,7 +191,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354760,
+    "wof:lastmodified":1695879560,
     "wof:name":"Lendava",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",

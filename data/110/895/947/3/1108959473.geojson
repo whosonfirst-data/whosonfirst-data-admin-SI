@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Kr\u0161ko"
     ],
@@ -175,8 +178,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_054",
-        "eurostat:nuts_2021_id":"054"
+        "eurostat:nuts_2021_id":"054",
+        "svn-sma:id":"054"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417056,
     "wof:geomhash":"8b7ec2ec1df58fe91f5496428dff9e38",
@@ -195,7 +200,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354760,
+    "wof:lastmodified":1695879559,
     "wof:name":"Kr\u0161ko",
     "wof:parent_id":1108959965,
     "wof:placetype":"localadmin",

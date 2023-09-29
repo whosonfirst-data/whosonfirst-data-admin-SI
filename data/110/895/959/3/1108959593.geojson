@@ -26,7 +26,10 @@
         "City Municipality of Velenje"
     ],
     "label:eng_x_preferred_placetype":[
-        "city municipality"
+        "urban municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
     ],
     "label:slv_x_preferred_longname":[
         "Mestna ob\u010dina Velenje"
@@ -202,8 +205,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_133",
-        "eurostat:nuts_2021_id":"133"
+        "eurostat:nuts_2021_id":"133",
+        "svn-sma:id":"133"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417079,
     "wof:geomhash":"12061625aecb6c452f45ec6bbe02697a",
@@ -222,7 +227,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354768,
+    "wof:lastmodified":1695879564,
     "wof:name":"Velenje",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",

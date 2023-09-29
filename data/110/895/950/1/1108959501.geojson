@@ -26,7 +26,10 @@
         "City Municipality of Ljubljana"
     ],
     "label:eng_x_preferred_placetype":[
-        "city municipality"
+        "urban municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
     ],
     "label:slv_x_preferred_longname":[
         "Mestna ob\u010dina Ljubljana"
@@ -505,8 +508,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_061",
-        "eurostat:nuts_2021_id":"061"
+        "eurostat:nuts_2021_id":"061",
+        "svn-sma:id":"061"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417059,
     "wof:geomhash":"6ad3756bbf754408e5a8cd297cd3d4be",
@@ -525,7 +530,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354762,
+    "wof:lastmodified":1695879561,
     "wof:name":"Ljubljana",
     "wof:parent_id":1108959949,
     "wof:placetype":"localadmin",

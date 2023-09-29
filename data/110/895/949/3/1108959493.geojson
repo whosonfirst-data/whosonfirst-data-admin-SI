@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Cerklje na Gorenjskem"
     ],
@@ -100,8 +103,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_012",
-        "eurostat:nuts_2021_id":"012"
+        "eurostat:nuts_2021_id":"012",
+        "svn-sma:id":"012"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417058,
     "wof:geomhash":"194fb539940246e32271da0fad98ac3d",
@@ -120,7 +125,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354761,
+    "wof:lastmodified":1695879560,
     "wof:name":"Cerklje na Gorenjskem",
     "wof:parent_id":1108959967,
     "wof:placetype":"localadmin",

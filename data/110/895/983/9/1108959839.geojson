@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Trebnje"
     ],
@@ -127,8 +130,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_130",
-        "eurostat:nuts_2021_id":"130"
+        "eurostat:nuts_2021_id":"130",
+        "svn-sma:id":"130"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417114,
     "wof:geomhash":"4d1f08ab0d64d4a679481f7359699727",
@@ -147,7 +152,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354780,
+    "wof:lastmodified":1695879573,
     "wof:name":"Trebnje",
     "wof:parent_id":1108959943,
     "wof:placetype":"localadmin",

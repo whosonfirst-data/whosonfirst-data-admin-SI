@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina \u0160entjernej"
     ],
@@ -124,8 +127,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_119",
-        "eurostat:nuts_2021_id":"119"
+        "eurostat:nuts_2021_id":"119",
+        "svn-sma:id":"119"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417129,
     "wof:geomhash":"f2badf481621b949170fb2ac81317d15",
@@ -144,7 +149,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354786,
+    "wof:lastmodified":1695879577,
     "wof:name":"\u0160entjernej",
     "wof:parent_id":1108959943,
     "wof:placetype":"localadmin",

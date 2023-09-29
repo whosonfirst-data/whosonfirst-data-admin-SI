@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina \u0160entilj"
     ],
@@ -64,8 +67,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_118",
-        "eurostat:nuts_2021_id":"118"
+        "eurostat:nuts_2021_id":"118",
+        "svn-sma:id":"118"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417069,
     "wof:geomhash":"59a7ee5c54907c9e311696af5585d112",
@@ -84,7 +89,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354766,
+    "wof:lastmodified":1695879563,
     "wof:name":"\u0160entilj",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",

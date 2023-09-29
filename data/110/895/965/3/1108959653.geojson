@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Vojnik"
     ],
@@ -91,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_139",
-        "eurostat:nuts_2021_id":"139"
+        "eurostat:nuts_2021_id":"139",
+        "svn-sma:id":"139"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417087,
     "wof:geomhash":"2c6aef423434588f620838e0dc66881d",
@@ -111,7 +116,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354771,
+    "wof:lastmodified":1695879567,
     "wof:name":"Vojnik",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",

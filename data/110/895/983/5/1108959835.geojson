@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Kostanjevica na Krki"
     ],
@@ -124,8 +127,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_197",
-        "eurostat:nuts_2021_id":"197"
+        "eurostat:nuts_2021_id":"197",
+        "svn-sma:id":"197"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417113,
     "wof:geomhash":"b93136c328381822877cb01352340a06",
@@ -144,7 +149,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354780,
+    "wof:lastmodified":1695879573,
     "wof:name":"Kostanjevica na Krki",
     "wof:parent_id":1108959965,
     "wof:placetype":"localadmin",

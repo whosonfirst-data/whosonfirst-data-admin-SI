@@ -135,8 +135,14 @@
     "wof:concordances":{
         "eurostat:nuts_2021_id":"SI035",
         "hasc:id":"SI.ZS",
-        "iso:id":"5"
+        "iso:code_historic":"SI-05",
+        "iso:id":"5",
+        "svn-sma:id":"05"
     },
+    "wof:concordances_official":"svn-sma:id",
+    "wof:concordances_official_alt":[
+        "iso:code_historic"
+    ],
     "wof:country":"SI",
     "wof:created":1493419744,
     "wof:geomhash":"5a185416cd3e92b4d4a7069f80181a65",
@@ -154,7 +160,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684351676,
+    "wof:lastmodified":1695885320,
     "wof:name":"Zasavska",
     "wof:parent_id":85633779,
     "wof:placetype":"region",

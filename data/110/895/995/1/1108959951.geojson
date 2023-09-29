@@ -90,8 +90,14 @@
     "wof:concordances":{
         "eurostat:nuts_2021_id":"SI044",
         "hasc:id":"SI.JP",
-        "iso:id":"12"
+        "iso:code_historic":"SI-12",
+        "iso:id":"12",
+        "svn-sma:id":"12"
     },
+    "wof:concordances_official":"svn-sma:id",
+    "wof:concordances_official_alt":[
+        "iso:code_historic"
+    ],
     "wof:country":"SI",
     "wof:created":1493419741,
     "wof:geomhash":"0480e3f8dd9da6b0470dc9b7aeeb6323",
@@ -109,7 +115,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684351674,
+    "wof:lastmodified":1695885318,
     "wof:name":"Obalno-kra\u0161ka",
     "wof:parent_id":85633779,
     "wof:placetype":"region",

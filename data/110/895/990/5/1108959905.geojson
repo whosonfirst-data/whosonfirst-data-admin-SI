@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Cerknica"
     ],
@@ -154,8 +157,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_013",
-        "eurostat:nuts_2021_id":"013"
+        "eurostat:nuts_2021_id":"013",
+        "svn-sma:id":"013"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417123,
     "wof:geomhash":"5eca9754e27a314a32c36255f2b86215",
@@ -174,7 +179,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354784,
+    "wof:lastmodified":1695879575,
     "wof:name":"Cerknica",
     "wof:parent_id":1108959953,
     "wof:placetype":"localadmin",

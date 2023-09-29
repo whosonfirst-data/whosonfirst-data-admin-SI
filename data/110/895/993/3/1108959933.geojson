@@ -26,7 +26,10 @@
         "City Municipality of Kranj"
     ],
     "label:eng_x_preferred_placetype":[
-        "city municipality"
+        "urban municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
     ],
     "label:slv_x_preferred_longname":[
         "Mestna ob\u010dina Kranj"
@@ -232,8 +235,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_052",
-        "eurostat:nuts_2021_id":"052"
+        "eurostat:nuts_2021_id":"052",
+        "svn-sma:id":"052"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417128,
     "wof:geomhash":"1667d5e8bc9261aeaa0a2c98bdfb0fb4",
@@ -252,7 +257,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354785,
+    "wof:lastmodified":1695879577,
     "wof:name":"Kranj",
     "wof:parent_id":1108959967,
     "wof:placetype":"localadmin",

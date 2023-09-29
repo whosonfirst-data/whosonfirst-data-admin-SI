@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Nazarje"
     ],
@@ -100,8 +103,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_083",
-        "eurostat:nuts_2021_id":"083"
+        "eurostat:nuts_2021_id":"083",
+        "svn-sma:id":"083"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417123,
     "wof:geomhash":"b244fef2dc0e103651d18c1cb5c39e6c",
@@ -120,7 +125,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354783,
+    "wof:lastmodified":1695879575,
     "wof:name":"Nazarje",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",

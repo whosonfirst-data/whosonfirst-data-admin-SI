@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Slovenske Konjice"
     ],
@@ -151,8 +154,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_114",
-        "eurostat:nuts_2021_id":"114"
+        "eurostat:nuts_2021_id":"114",
+        "svn-sma:id":"114"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417100,
     "wof:geomhash":"71f7fe8f6e1afd5f1fb438dafebc0d0d",
@@ -171,7 +176,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354775,
+    "wof:lastmodified":1695879570,
     "wof:name":"Slovenske Konjice",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",

@@ -90,8 +90,14 @@
     "wof:concordances":{
         "eurostat:nuts_2021_id":"SI034",
         "hasc:id":"SI.SA",
-        "iso:id":"4"
+        "iso:code_historic":"SI-04",
+        "iso:id":"4",
+        "svn-sma:id":"04"
     },
+    "wof:concordances_official":"svn-sma:id",
+    "wof:concordances_official_alt":[
+        "iso:code_historic"
+    ],
     "wof:country":"SI",
     "wof:created":1493419742,
     "wof:geomhash":"b1ed1dccb9d87d591511ff1a1eb00a4a",
@@ -109,7 +115,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684351675,
+    "wof:lastmodified":1695885319,
     "wof:name":"Savinjska",
     "wof:parent_id":85633779,
     "wof:placetype":"region",

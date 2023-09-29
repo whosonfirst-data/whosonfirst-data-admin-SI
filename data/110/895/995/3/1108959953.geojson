@@ -90,8 +90,14 @@
     "wof:concordances":{
         "eurostat:nuts_2021_id":"SI038",
         "hasc:id":"SI.NO",
-        "iso:id":"10"
+        "iso:code_historic":"SI-10",
+        "iso:id":"10",
+        "svn-sma:id":"10"
     },
+    "wof:concordances_official":"svn-sma:id",
+    "wof:concordances_official_alt":[
+        "iso:code_historic"
+    ],
     "wof:country":"SI",
     "wof:created":1493419741,
     "wof:geomhash":"6b5538c6d5d3ed96c56b2a8faf93f4e3",
@@ -109,7 +115,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684351675,
+    "wof:lastmodified":1695885319,
     "wof:name":"Primorsko-notranjska",
     "wof:parent_id":85633779,
     "wof:placetype":"region",

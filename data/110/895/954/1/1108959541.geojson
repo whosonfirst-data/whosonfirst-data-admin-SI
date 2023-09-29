@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Bovec"
     ],
@@ -160,8 +163,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_006",
-        "eurostat:nuts_2021_id":"006"
+        "eurostat:nuts_2021_id":"006",
+        "svn-sma:id":"006"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417066,
     "wof:geomhash":"06a2bd4affa9c1278f96ee175750a717",
@@ -180,7 +185,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354764,
+    "wof:lastmodified":1695879562,
     "wof:name":"Bovec",
     "wof:parent_id":1108959947,
     "wof:placetype":"localadmin",

@@ -26,7 +26,10 @@
         "City Municipality of Slovenj Gradec"
     ],
     "label:eng_x_preferred_placetype":[
-        "city municipality"
+        "urban municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
     ],
     "label:slv_x_preferred_longname":[
         "Mestna ob\u010dina Slovenj Gradec"
@@ -194,8 +197,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_112",
-        "eurostat:nuts_2021_id":"112"
+        "eurostat:nuts_2021_id":"112",
+        "svn-sma:id":"112"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417086,
     "wof:geomhash":"a9b5a6e36b02da5444630b28d11702ac",
@@ -214,7 +219,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354770,
+    "wof:lastmodified":1695879566,
     "wof:name":"Slovenj Gradec",
     "wof:parent_id":1108959955,
     "wof:placetype":"localadmin",

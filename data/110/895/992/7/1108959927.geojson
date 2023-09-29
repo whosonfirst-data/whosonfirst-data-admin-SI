@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Sevnica"
     ],
@@ -145,8 +148,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_110",
-        "eurostat:nuts_2021_id":"110"
+        "eurostat:nuts_2021_id":"110",
+        "svn-sma:id":"110"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417127,
     "wof:geomhash":"8879facb8ea2acd4176aa41ef9bd32de",
@@ -165,7 +170,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354785,
+    "wof:lastmodified":1695879577,
     "wof:name":"Sevnica",
     "wof:parent_id":1108959965,
     "wof:placetype":"localadmin",

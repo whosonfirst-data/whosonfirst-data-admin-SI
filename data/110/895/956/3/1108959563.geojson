@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Osilnica"
     ],
@@ -88,8 +91,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_088",
-        "eurostat:nuts_2021_id":"088"
+        "eurostat:nuts_2021_id":"088",
+        "svn-sma:id":"088"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417068,
     "wof:geomhash":"bb5aef47d37e9e7d8431338357d7b4fd",
@@ -108,7 +113,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354766,
+    "wof:lastmodified":1695879563,
     "wof:name":"Osilnica",
     "wof:parent_id":1108959943,
     "wof:placetype":"localadmin",

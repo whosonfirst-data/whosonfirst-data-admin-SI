@@ -90,8 +90,14 @@
     "wof:concordances":{
         "eurostat:nuts_2021_id":"SI032",
         "hasc:id":"SI.PD",
-        "iso:id":"2"
+        "iso:code_historic":"SI-02",
+        "iso:id":"2",
+        "svn-sma:id":"02"
     },
+    "wof:concordances_official":"svn-sma:id",
+    "wof:concordances_official_alt":[
+        "iso:code_historic"
+    ],
     "wof:country":"SI",
     "wof:created":1493419743,
     "wof:geomhash":"16d80179b102778507f9ae1fe16e7585",
@@ -109,7 +115,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684351675,
+    "wof:lastmodified":1695885320,
     "wof:name":"Podravska",
     "wof:parent_id":85633779,
     "wof:placetype":"region",

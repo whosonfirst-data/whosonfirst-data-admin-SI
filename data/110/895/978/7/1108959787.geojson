@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina \u017du\u017eemberk"
     ],
@@ -133,8 +136,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_193",
-        "eurostat:nuts_2021_id":"193"
+        "eurostat:nuts_2021_id":"193",
+        "svn-sma:id":"193"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417104,
     "wof:geomhash":"17e9b7de92690cbc435b35cc5039b2dc",
@@ -153,7 +158,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354777,
+    "wof:lastmodified":1695879571,
     "wof:name":"\u017du\u017eemberk",
     "wof:parent_id":1108959943,
     "wof:placetype":"localadmin",

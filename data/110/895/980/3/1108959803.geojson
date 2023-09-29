@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Roga\u0161ka Slatina"
     ],
@@ -118,8 +121,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_106",
-        "eurostat:nuts_2021_id":"106"
+        "eurostat:nuts_2021_id":"106",
+        "svn-sma:id":"106"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417108,
     "wof:geomhash":"f8b4931e7b6ced38e127ca6fb8ae36a3",
@@ -138,7 +143,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354778,
+    "wof:lastmodified":1695879572,
     "wof:name":"Roga\u0161ka Slatina",
     "wof:parent_id":1108959959,
     "wof:placetype":"localadmin",

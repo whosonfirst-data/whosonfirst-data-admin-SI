@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Kri\u017eevci"
     ],
@@ -106,8 +109,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_166",
-        "eurostat:nuts_2021_id":"166"
+        "eurostat:nuts_2021_id":"166",
+        "svn-sma:id":"166"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417102,
     "wof:geomhash":"7f86ce4c94a8b55b5067d80db2de969a",
@@ -126,7 +131,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354776,
+    "wof:lastmodified":1695879571,
     "wof:name":"Kri\u017eevci",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",

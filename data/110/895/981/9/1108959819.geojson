@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Bohinj"
     ],
@@ -97,8 +100,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_004",
-        "eurostat:nuts_2021_id":"004"
+        "eurostat:nuts_2021_id":"004",
+        "svn-sma:id":"004"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417110,
     "wof:geomhash":"15f40e30fafcc65dd5550b425e85bcd3",
@@ -117,7 +122,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354779,
+    "wof:lastmodified":1695879572,
     "wof:name":"Bohinj",
     "wof:parent_id":1108959967,
     "wof:placetype":"localadmin",

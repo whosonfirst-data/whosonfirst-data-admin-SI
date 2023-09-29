@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Bre\u017eice"
     ],
@@ -160,8 +163,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_009",
-        "eurostat:nuts_2021_id":"009"
+        "eurostat:nuts_2021_id":"009",
+        "svn-sma:id":"009"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417077,
     "wof:geomhash":"fa30b6352a0628463b44bfeb3134e477",
@@ -180,7 +185,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354767,
+    "wof:lastmodified":1695879564,
     "wof:name":"Bre\u017eice",
     "wof:parent_id":1108959965,
     "wof:placetype":"localadmin",

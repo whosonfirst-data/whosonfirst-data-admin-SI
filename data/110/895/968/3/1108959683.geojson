@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Zagorje ob Savi"
     ],
@@ -151,8 +154,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_142",
-        "eurostat:nuts_2021_id":"142"
+        "eurostat:nuts_2021_id":"142",
+        "svn-sma:id":"142"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417091,
     "wof:geomhash":"d07a3dde1d3ff17bd5bdde8002c9e992",
@@ -171,7 +176,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354772,
+    "wof:lastmodified":1695879568,
     "wof:name":"Zagorje ob Savi",
     "wof:parent_id":1108959963,
     "wof:placetype":"localadmin",

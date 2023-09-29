@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Hrastnik"
     ],
@@ -142,8 +145,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_034",
-        "eurostat:nuts_2021_id":"034"
+        "eurostat:nuts_2021_id":"034",
+        "svn-sma:id":"034"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417069,
     "wof:geomhash":"3867e04d53e829a2ffba2606df079cbd",
@@ -162,7 +167,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354767,
+    "wof:lastmodified":1695879563,
     "wof:name":"Hrastnik",
     "wof:parent_id":1108959963,
     "wof:placetype":"localadmin",

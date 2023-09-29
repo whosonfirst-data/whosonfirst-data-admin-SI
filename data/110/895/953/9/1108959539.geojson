@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Komen"
     ],
@@ -151,8 +154,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_049",
-        "eurostat:nuts_2021_id":"049"
+        "eurostat:nuts_2021_id":"049",
+        "svn-sma:id":"049"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417066,
     "wof:geomhash":"a475a45af1f78cf660029c0f9798a5ad",
@@ -171,7 +176,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354764,
+    "wof:lastmodified":1695879562,
     "wof:name":"Komen",
     "wof:parent_id":1108959951,
     "wof:placetype":"localadmin",

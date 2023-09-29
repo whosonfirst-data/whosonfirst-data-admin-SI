@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Makole"
     ],
@@ -118,8 +121,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_198",
-        "eurostat:nuts_2021_id":"198"
+        "eurostat:nuts_2021_id":"198",
+        "svn-sma:id":"198"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417102,
     "wof:geomhash":"af4bb60bd768a04ebbaf3448d8cd1ce9",
@@ -138,7 +143,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354776,
+    "wof:lastmodified":1695879571,
     "wof:name":"Makole",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",

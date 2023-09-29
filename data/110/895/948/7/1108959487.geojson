@@ -26,7 +26,10 @@
         "City Municipality of Nova Gorica"
     ],
     "label:eng_x_preferred_placetype":[
-        "city municipality"
+        "urban municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
     ],
     "label:slv_x_preferred_longname":[
         "Mestna ob\u010dina Nova Gorica"
@@ -211,8 +214,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_084",
-        "eurostat:nuts_2021_id":"084"
+        "eurostat:nuts_2021_id":"084",
+        "svn-sma:id":"084"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417058,
     "wof:geomhash":"74130997ce392a5801db6a3f92604a98",
@@ -231,7 +236,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354761,
+    "wof:lastmodified":1695879560,
     "wof:name":"Nova Gorica",
     "wof:parent_id":1108959947,
     "wof:placetype":"localadmin",

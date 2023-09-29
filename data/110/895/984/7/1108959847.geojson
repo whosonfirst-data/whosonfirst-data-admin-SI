@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Dobrova - Polhov Gradec"
     ],
@@ -73,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_021",
-        "eurostat:nuts_2021_id":"021"
+        "eurostat:nuts_2021_id":"021",
+        "svn-sma:id":"021"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417115,
     "wof:geomhash":"80bf6901520baf6feefba6b4c96b67c9",
@@ -93,7 +98,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354781,
+    "wof:lastmodified":1695879573,
     "wof:name":"Dobrova-Polhov Gradec",
     "wof:parent_id":1108959949,
     "wof:placetype":"localadmin",

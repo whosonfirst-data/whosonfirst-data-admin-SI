@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Brda"
     ],
@@ -112,8 +115,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_007",
-        "eurostat:nuts_2021_id":"007"
+        "eurostat:nuts_2021_id":"007",
+        "svn-sma:id":"007"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417109,
     "wof:geomhash":"b625e1fb29e8c2ddca21f76c3da61e8d",
@@ -132,7 +137,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354779,
+    "wof:lastmodified":1695879572,
     "wof:name":"Brda",
     "wof:parent_id":1108959947,
     "wof:placetype":"localadmin",

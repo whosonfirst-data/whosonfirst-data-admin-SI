@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina \u0160kofljica"
     ],
@@ -88,8 +91,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_123",
-        "eurostat:nuts_2021_id":"123"
+        "eurostat:nuts_2021_id":"123",
+        "svn-sma:id":"123"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417121,
     "wof:geomhash":"bd21497c290fa9d8911b23bf445114c3",
@@ -108,7 +113,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354783,
+    "wof:lastmodified":1695879575,
     "wof:name":"\u0160kofljica",
     "wof:parent_id":1108959949,
     "wof:placetype":"localadmin",

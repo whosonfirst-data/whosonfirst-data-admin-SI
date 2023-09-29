@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Ivan\u010dna Gorica"
     ],
@@ -124,8 +127,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_039",
-        "eurostat:nuts_2021_id":"039"
+        "eurostat:nuts_2021_id":"039",
+        "svn-sma:id":"039"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417076,
     "wof:geomhash":"aa4e38e5dfd411a3f3419819074da8c3",
@@ -144,7 +149,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354767,
+    "wof:lastmodified":1695879564,
     "wof:name":"Ivan\u010dna Gorica",
     "wof:parent_id":1108959949,
     "wof:placetype":"localadmin",

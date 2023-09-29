@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina \u017dirovnica"
     ],
@@ -82,8 +85,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_192",
-        "eurostat:nuts_2021_id":"192"
+        "eurostat:nuts_2021_id":"192",
+        "svn-sma:id":"192"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417123,
     "wof:geomhash":"175136187ed40247fba9745da3b2bee8",
@@ -102,7 +107,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354783,
+    "wof:lastmodified":1695879575,
     "wof:name":"\u017dirovnica",
     "wof:parent_id":1108959967,
     "wof:placetype":"localadmin",

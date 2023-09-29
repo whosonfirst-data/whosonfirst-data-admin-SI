@@ -26,7 +26,10 @@
         "City Municipality of Murska Sobota"
     ],
     "label:eng_x_preferred_placetype":[
-        "city municipality"
+        "urban municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
     ],
     "label:slv_x_preferred_longname":[
         "Mestna ob\u010dina Murska Sobota"
@@ -202,8 +205,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_080",
-        "eurostat:nuts_2021_id":"080"
+        "eurostat:nuts_2021_id":"080",
+        "svn-sma:id":"080"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417057,
     "wof:geomhash":"7b403cf57f4c854ce7695dd9ea92e716",
@@ -222,7 +227,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354761,
+    "wof:lastmodified":1695879560,
     "wof:name":"Murska Sobota",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",

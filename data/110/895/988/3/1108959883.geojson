@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Rade\u010de"
     ],
@@ -136,8 +139,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_099",
-        "eurostat:nuts_2021_id":"099"
+        "eurostat:nuts_2021_id":"099",
+        "svn-sma:id":"099"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417121,
     "wof:geomhash":"0f1ad74808307aa9deebf8c593deb304",
@@ -156,7 +161,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354783,
+    "wof:lastmodified":1695879574,
     "wof:name":"Rade\u010de",
     "wof:parent_id":1108959965,
     "wof:placetype":"localadmin",

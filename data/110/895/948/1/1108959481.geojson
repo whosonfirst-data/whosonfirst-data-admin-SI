@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Miren - Kostanjevica"
     ],
@@ -73,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_075",
-        "eurostat:nuts_2021_id":"075"
+        "eurostat:nuts_2021_id":"075",
+        "svn-sma:id":"075"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417057,
     "wof:geomhash":"c3a56f62356d0c25ebb5eb0e7bfa8eff",
@@ -93,7 +98,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354761,
+    "wof:lastmodified":1695879560,
     "wof:name":"Miren-Kostanjevica",
     "wof:parent_id":1108959947,
     "wof:placetype":"localadmin",

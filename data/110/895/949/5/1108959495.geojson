@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Dravograd"
     ],
@@ -148,8 +151,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_025",
-        "eurostat:nuts_2021_id":"025"
+        "eurostat:nuts_2021_id":"025",
+        "svn-sma:id":"025"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417059,
     "wof:geomhash":"faa6d04661e7be0d07580940760a910e",
@@ -168,7 +173,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354761,
+    "wof:lastmodified":1695879560,
     "wof:name":"Dravograd",
     "wof:parent_id":1108959955,
     "wof:placetype":"localadmin",

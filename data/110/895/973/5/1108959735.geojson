@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Gorje"
     ],
@@ -64,8 +67,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_207",
-        "eurostat:nuts_2021_id":"207"
+        "eurostat:nuts_2021_id":"207",
+        "svn-sma:id":"207"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417097,
     "wof:geomhash":"ff6522b8af96a9e9c0b5b0c91091f287",
@@ -84,7 +89,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354775,
+    "wof:lastmodified":1695879569,
     "wof:name":"Gorje",
     "wof:parent_id":1108959967,
     "wof:placetype":"localadmin",

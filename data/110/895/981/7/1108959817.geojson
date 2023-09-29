@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Gornja Radgona"
     ],
@@ -151,8 +154,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_029",
-        "eurostat:nuts_2021_id":"029"
+        "eurostat:nuts_2021_id":"029",
+        "svn-sma:id":"029"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417109,
     "wof:geomhash":"ab69085c778c433312a496be3271d1fc",
@@ -171,7 +176,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354779,
+    "wof:lastmodified":1695879572,
     "wof:name":"Gornja Radgona",
     "wof:parent_id":1108959945,
     "wof:placetype":"localadmin",

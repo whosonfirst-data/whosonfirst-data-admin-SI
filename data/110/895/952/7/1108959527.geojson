@@ -26,7 +26,10 @@
         "City Municipality of Koper"
     ],
     "label:eng_x_preferred_placetype":[
-        "city municipality"
+        "urban municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
     ],
     "label:slv_x_preferred_longname":[
         "Mestna ob\u010dina Koper"
@@ -241,8 +244,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_050",
-        "eurostat:nuts_2021_id":"050"
+        "eurostat:nuts_2021_id":"050",
+        "svn-sma:id":"050"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417064,
     "wof:geomhash":"f1edbf060ade70a72f3b71dc27d2d45e",
@@ -261,7 +266,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354763,
+    "wof:lastmodified":1695879561,
     "wof:name":"Koper",
     "wof:parent_id":1108959951,
     "wof:placetype":"localadmin",

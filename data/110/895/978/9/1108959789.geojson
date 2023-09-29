@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Se\u017eana"
     ],
@@ -154,8 +157,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_111",
-        "eurostat:nuts_2021_id":"111"
+        "eurostat:nuts_2021_id":"111",
+        "svn-sma:id":"111"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417104,
     "wof:geomhash":"5f7ceb99e2320ddd79d2afd832c4f012",
@@ -174,7 +179,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354777,
+    "wof:lastmodified":1695879571,
     "wof:name":"Se\u017eana",
     "wof:parent_id":1108959951,
     "wof:placetype":"localadmin",

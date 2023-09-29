@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Muta"
     ],
@@ -91,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_081",
-        "eurostat:nuts_2021_id":"081"
+        "eurostat:nuts_2021_id":"081",
+        "svn-sma:id":"081"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417096,
     "wof:geomhash":"51570962867b157b58463c3620205280",
@@ -111,7 +116,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354774,
+    "wof:lastmodified":1695879569,
     "wof:name":"Muta",
     "wof:parent_id":1108959955,
     "wof:placetype":"localadmin",

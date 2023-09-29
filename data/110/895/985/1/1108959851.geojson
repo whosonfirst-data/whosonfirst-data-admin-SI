@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Vrhnika"
     ],
@@ -142,8 +145,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_140",
-        "eurostat:nuts_2021_id":"140"
+        "eurostat:nuts_2021_id":"140",
+        "svn-sma:id":"140"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417115,
     "wof:geomhash":"db40dea7b9173e10d955d89370a9243e",
@@ -162,7 +167,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354781,
+    "wof:lastmodified":1695879573,
     "wof:name":"Vrhnika",
     "wof:parent_id":1108959949,
     "wof:placetype":"localadmin",

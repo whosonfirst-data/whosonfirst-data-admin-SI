@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Idrija"
     ],
@@ -181,8 +184,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_036",
-        "eurostat:nuts_2021_id":"036"
+        "eurostat:nuts_2021_id":"036",
+        "svn-sma:id":"036"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417065,
     "wof:geomhash":"08b7d400bd6db0934bef072e84deeae9",
@@ -201,7 +206,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354763,
+    "wof:lastmodified":1695879562,
     "wof:name":"Idrija",
     "wof:parent_id":1108959947,
     "wof:placetype":"localadmin",

@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Dom\u017eale"
     ],
@@ -166,8 +169,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_023",
-        "eurostat:nuts_2021_id":"023"
+        "eurostat:nuts_2021_id":"023",
+        "svn-sma:id":"023"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417106,
     "wof:geomhash":"164e72c6d4646e70425c4569c8623767",
@@ -186,7 +191,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354778,
+    "wof:lastmodified":1695879571,
     "wof:name":"Dom\u017eale",
     "wof:parent_id":1108959949,
     "wof:placetype":"localadmin",

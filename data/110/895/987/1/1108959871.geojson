@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Borovnica"
     ],
@@ -91,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_005",
-        "eurostat:nuts_2021_id":"005"
+        "eurostat:nuts_2021_id":"005",
+        "svn-sma:id":"005"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417118,
     "wof:geomhash":"85f311ac159ed8aa38262ddddc298d2c",
@@ -111,7 +116,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354782,
+    "wof:lastmodified":1695879574,
     "wof:name":"Borovnica",
     "wof:parent_id":1108959949,
     "wof:placetype":"localadmin",

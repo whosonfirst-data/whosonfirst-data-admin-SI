@@ -28,6 +28,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "label:slv_x_preferred_longname":[
         "Ob\u010dina Jur\u0161inci"
     ],
@@ -124,8 +127,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"SI_042",
-        "eurostat:nuts_2021_id":"042"
+        "eurostat:nuts_2021_id":"042",
+        "svn-sma:id":"042"
     },
+    "wof:concordances_official":"svn-sma:id",
     "wof:country":"SI",
     "wof:created":1493417103,
     "wof:geomhash":"7da6714d2c4510000f19c8c34b3e8bae",
@@ -144,7 +149,7 @@
     "wof:lang_x_spoken":[
         "slv"
     ],
-    "wof:lastmodified":1684354777,
+    "wof:lastmodified":1695879571,
     "wof:name":"Jur\u0161inci",
     "wof:parent_id":1108959961,
     "wof:placetype":"localadmin",
