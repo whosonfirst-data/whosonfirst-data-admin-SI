@@ -11,6 +11,7 @@
     "geom:longitude":14.419241,
     "gn:population":3152,
     "iso:country":"SI",
+    "lbl:bbox":"14.399197,46.218674,14.439197,46.258674",
     "lbl:latitude":46.242763,
     "lbl:longitude":14.416543,
     "lbl:max_zoom":15.0,
@@ -20,6 +21,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "\u0160en\u010dur"
     ],
@@ -83,12 +85,31 @@
     "qs:pop":0,
     "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
+    "qs_pg:name":"\u0160en\u010dur",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Kranj",
+    "qs_pg:photos":54,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":54,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":343359,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":531489,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Kranj",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
         1108959647,
@@ -103,7 +124,15 @@
         "wd:id":"Q1810670"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1043933
+        "gp:id":[
+            531489
+        ],
+        "qs_pg:id":[
+            343359
+        ],
+        "wd:id":[
+            "Q1810670"
+        ]
     },
     "wof:country":"SI",
     "wof:geom_alt":[
@@ -120,7 +149,7 @@
         }
     ],
     "wof:id":101792069,
-    "wof:lastmodified":1690863781,
+    "wof:lastmodified":1706240661,
     "wof:name":"\u0160en\u010dur",
     "wof:parent_id":1108959647,
     "wof:placetype":"locality",
@@ -128,7 +157,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125832279
+    ],
     "wof:tags":[]
 },
   "bbox": [

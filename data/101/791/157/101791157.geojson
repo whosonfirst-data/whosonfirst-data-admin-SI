@@ -11,6 +11,7 @@
     "geom:longitude":15.79964,
     "gn:population":1253,
     "iso:country":"SI",
+    "lbl:bbox":"15.778689,46.382725,15.818689,46.422725",
     "lbl:latitude":46.404253,
     "lbl:longitude":15.796229,
     "lbl:max_zoom":16.0,
@@ -20,6 +21,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Strni\u0161\u010de"
     ],
@@ -59,11 +61,20 @@
     "name:tat_x_preferred":[
         "\u0421\u0442\u0440\u043d\u0438\u0449\u0435"
     ],
+    "name:tha_x_preferred":[
+        "\u0e04\u0e35\u0e14\u0e23\u0e34\u0e41\u0e0a\u0e27\u0e2d"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0440\u043d\u0438\u0449\u0435"
     ],
     "name:ukr_x_variant":[
         "\u041a\u0438\u0434\u0440\u0438\u0447\u0435\u0432\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "Kidri\u010devo"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u5fb7\u91cc\u5207\u6c83"
     ],
     "qs:a0":"Slovenija",
     "qs:a1":"*",
@@ -77,6 +88,21 @@
     "qs:pop":0,
     "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
+    "qs_pg:name":"Kidri\u010devo",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Ptuj",
+    "qs_pg:photos":31,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":31,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1075923,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":530396,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -84,6 +110,10 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":73,
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Ptuj",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
         1108959739,
@@ -99,7 +129,15 @@
         "wk:page":"Strni\u0161\u010de, Kidri\u010devo"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1075923
+        "gp:id":[
+            530396
+        ],
+        "qs_pg:id":[
+            1075923
+        ],
+        "wd:id":[
+            "Q3503676"
+        ]
     },
     "wof:country":"SI",
     "wof:geom_alt":[
@@ -116,7 +154,7 @@
         }
     ],
     "wof:id":101791157,
-    "wof:lastmodified":1690863725,
+    "wof:lastmodified":1706240661,
     "wof:name":"Kidri\u010devo",
     "wof:parent_id":1108959739,
     "wof:placetype":"locality",
@@ -124,7 +162,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125768189
+    ],
     "wof:tags":[]
 },
   "bbox": [

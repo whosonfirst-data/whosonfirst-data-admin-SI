@@ -11,6 +11,7 @@
     "geom:longitude":14.194156,
     "gn:population":2088,
     "iso:country":"SI",
+    "lbl:bbox":"14.177382,45.662522,14.217382,45.702522",
     "lbl:latitude":45.681718,
     "lbl:longitude":14.196179,
     "lbl:max_zoom":15.0,
@@ -20,6 +21,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Pivka"
     ],
@@ -123,12 +125,31 @@
     "qs:pop":0,
     "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
+    "qs_pg:name":"Pivka",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Postojna",
+    "qs_pg:photos":46,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":46,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1075991,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":531045,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Postojna",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
         1108959587,
@@ -144,7 +165,15 @@
         "wk:page":"Pivka"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1075991
+        "gp:id":[
+            531045
+        ],
+        "qs_pg:id":[
+            1075991
+        ],
+        "wd:id":[
+            "Q3501699"
+        ]
     },
     "wof:country":"SI",
     "wof:geom_alt":[
@@ -161,7 +190,7 @@
         }
     ],
     "wof:id":101794121,
-    "wof:lastmodified":1690863767,
+    "wof:lastmodified":1706240662,
     "wof:name":"Pivka",
     "wof:parent_id":1108959587,
     "wof:placetype":"locality",
@@ -169,7 +198,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125768479
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -11,6 +11,7 @@
     "geom:longitude":14.112603,
     "gn:population":5181,
     "iso:country":"SI",
+    "lbl:bbox":"14.081123,46.347542,14.121123,46.387542",
     "lbl:latitude":46.368673,
     "lbl:longitude":14.11181,
     "lbl:max_zoom":15.0,
@@ -20,6 +21,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u0644\u064a\u062f"
     ],
@@ -206,6 +208,21 @@
     "qs:pop":0,
     "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
+    "qs_pg:name":"Bled",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Radovljica",
+    "qs_pg:photos":4997,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":22,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":4997,
+    "qs_pg:photos_sr":24,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":343331,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":529562,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -215,6 +232,10 @@
     "wd:latitude":46.366667,
     "wd:longitude":14.116667,
     "wd:wordcount":1324,
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Radovljica",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
         1108959797,
@@ -228,6 +249,17 @@
         "qs_pg:id":1044075,
         "wd:id":"Q202852",
         "wk:page":"Bled"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            529562
+        ],
+        "qs_pg:id":[
+            343331
+        ],
+        "wd:id":[
+            "Q202852"
+        ]
     },
     "wof:country":"SI",
     "wof:geom_alt":[
@@ -244,7 +276,7 @@
         }
     ],
     "wof:id":101792085,
-    "wof:lastmodified":1690863772,
+    "wof:lastmodified":1706240661,
     "wof:name":"Bled",
     "wof:parent_id":1108959797,
     "wof:placetype":"locality",
@@ -252,7 +284,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125832049
+    ],
     "wof:tags":[]
 },
   "bbox": [
