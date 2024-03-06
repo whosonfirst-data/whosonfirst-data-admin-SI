@@ -9,8 +9,21 @@
     "geom:bbox":"13.998727,46.404359,14.104157,46.452798",
     "geom:latitude":46.432759,
     "geom:longitude":14.059868,
+    "gn:admin1_code":"H4",
+    "gn:asciiname":"Jesenice",
+    "gn:country_code":"SI",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":3198647,
+    "gn:latitude":46.43056,
+    "gn:longitude":14.06694,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Jesenice",
     "gn:population":13440,
+    "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"14.04694,46.41056,14.08694,46.45056",
     "lbl:latitude":46.434197,
     "lbl:longitude":14.060491,
     "lbl:max_zoom":15.0,
@@ -224,7 +237,15 @@
         "wk:page":"Jesenice, Jesenice"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1301684
+        "gn:id":[
+            3198647
+        ],
+        "qs_pg:id":[
+            1301684
+        ],
+        "wk:page":[
+            "Jesenice%2C_Jesenice"
+        ]
     },
     "wof:country":"SI",
     "wof:geom_alt":[
@@ -244,7 +265,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1690863780,
+    "wof:lastmodified":1706240661,
     "wof:name":"Jesenice",
     "wof:parent_id":1108959875,
     "wof:placetype":"locality",
@@ -252,7 +273,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226579507
+    ],
     "wof:tags":[]
 },
   "bbox": [

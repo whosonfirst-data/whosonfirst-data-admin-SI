@@ -10,6 +10,7 @@
     "geom:latitude":46.387791,
     "geom:longitude":14.086377,
     "iso:country":"SI",
+    "lbl:bbox":"14.063786,46.369835,14.103786,46.409835",
     "lbl:latitude":46.38768,
     "lbl:longitude":14.086382,
     "lbl:max_zoom":18.0,
@@ -19,6 +20,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0412\u0438\u043d\u0442\u0433\u0430\u0440"
     ],
@@ -100,10 +102,29 @@
     "qs:pop":0,
     "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural hamlet many local_admin match geoplanet",
+    "qs_pg:name":"Vintgar",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Radovljica",
+    "qs_pg:photos":427,
+    "qs_pg:photos_1k":87,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":427,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1135597,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":55849261,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":602,
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Radovljica",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
         1108959735,
@@ -115,6 +136,14 @@
         "gp:id":55849261,
         "qs_pg:id":1135597,
         "wd:id":"Q671860"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            55849261
+        ],
+        "qs_pg:id":[
+            1135597
+        ]
     },
     "wof:country":"SI",
     "wof:geomhash":"e67d1bedd51f2a43cd67bcffd8a11e5e",
@@ -128,13 +157,15 @@
         }
     ],
     "wof:id":101912451,
-    "wof:lastmodified":1690863762,
+    "wof:lastmodified":1706240663,
     "wof:name":"Vintgar",
     "wof:parent_id":1108959735,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125921585
+    ],
     "wof:tags":[]
 },
   "bbox": [

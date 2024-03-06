@@ -50,6 +50,9 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0440\u0448\u0442"
     ],
+    "name:und_x_variant":[
+        "Bor\u0161t"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -63,6 +66,11 @@
         "gn:id":3218108,
         "wk:page":"Bor%C5%A1t%2C_Metlika"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3203663
+        ]
+    },
     "wof:country":"SI",
     "wof:geomhash":"1882825fb2aaf31406baf09ecf5666d8",
     "wof:hierarchy":[
@@ -75,7 +83,7 @@
         }
     ],
     "wof:id":1276695797,
-    "wof:lastmodified":1566644593,
+    "wof:lastmodified":1706240663,
     "wof:name":"Borst",
     "wof:parent_id":1108959909,
     "wof:placetype":"locality",
@@ -83,7 +91,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344193611
+    ],
     "wof:tags":[]
 },
   "bbox": [

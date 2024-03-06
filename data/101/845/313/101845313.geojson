@@ -11,6 +11,7 @@
     "geom:longitude":13.551455,
     "gn:population":1631,
     "iso:country":"SI",
+    "lbl:bbox":"13.531635,46.316439,13.571635,46.356439",
     "lbl:latitude":46.338245,
     "lbl:longitude":13.551455,
     "lbl:max_zoom":16.0,
@@ -20,6 +21,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u0648\u0648\u064a\u062a\u0634"
     ],
@@ -170,6 +172,21 @@
     "qs:pop":0,
     "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-near-poly",
+    "qs_pg:name":"Bovec",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Tolmin",
+    "qs_pg:photos":1091,
+    "qs_pg:photos_1k":221,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1091,
+    "qs_pg:photos_sr":11,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1060360,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":529599,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -179,6 +196,10 @@
     "wd:latitude":46.333333,
     "wd:longitude":13.55,
     "wd:wordcount":1302,
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Tolmin",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
         1108959541,
@@ -194,7 +215,15 @@
         "wk:page":"Bovec"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1060360
+        "gp:id":[
+            529599
+        ],
+        "qs_pg:id":[
+            1060360
+        ],
+        "wd:id":[
+            "Q15855"
+        ]
     },
     "wof:country":"SI",
     "wof:geom_alt":[
@@ -211,7 +240,7 @@
         }
     ],
     "wof:id":101845313,
-    "wof:lastmodified":1690863739,
+    "wof:lastmodified":1706240662,
     "wof:name":"Bovec",
     "wof:parent_id":1108959541,
     "wof:placetype":"locality",
@@ -219,7 +248,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126051393
+    ],
     "wof:tags":[]
 },
   "bbox": [

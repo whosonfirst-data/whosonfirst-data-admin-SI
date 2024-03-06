@@ -9,8 +9,21 @@
     "geom:bbox":"13.73857,45.812979,13.753789,45.81883",
     "geom:latitude":45.816147,
     "geom:longitude":13.745943,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Komen",
+    "gn:country_code":"SI",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":3197842,
+    "gn:latitude":45.81528,
+    "gn:longitude":13.74833,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"Komen",
     "gn:population":650,
+    "gn:timezone":"Europe/Ljubljana",
     "iso:country":"SI",
+    "lbl:bbox":"13.72833,45.79528,13.76833,45.83528",
     "lbl:latitude":45.815751,
     "lbl:longitude":13.749229,
     "lbl:max_zoom":17.0,
@@ -176,6 +189,14 @@
         "wd:id":"Q556210",
         "wk:page":"Komen"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3197842
+        ],
+        "wk:page":[
+            "Komen"
+        ]
+    },
     "wof:country":"SI",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -191,7 +212,7 @@
         }
     ],
     "wof:id":101793023,
-    "wof:lastmodified":1690863763,
+    "wof:lastmodified":1706240662,
     "wof:name":"Komen",
     "wof:parent_id":1108959539,
     "wof:placetype":"locality",
@@ -199,7 +220,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293717873
+    ],
     "wof:tags":[]
 },
   "bbox": [

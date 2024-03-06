@@ -50,7 +50,12 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u0447\u043d\u043e \u0421\u0435\u043b\u043e"
     ],
+    "name:und_x_variant":[
+        "De\u010dna Sela",
+        "De\u010dno Selo"
+    ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         1108959585,
@@ -61,6 +66,11 @@
     "wof:concordances":{
         "gn:id":3217982,
         "wk:page":"De%C4%8Dno_Selo"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3202127
+        ]
     },
     "wof:country":"SI",
     "wof:geomhash":"3c4f3fe01899b69f3ce651a1f442f114",
@@ -74,13 +84,17 @@
         }
     ],
     "wof:id":1293509575,
-    "wof:lastmodified":1566644522,
+    "wof:lastmodified":1706240663,
     "wof:name":"Decno Selo",
     "wof:parent_id":1108959585,
     "wof:placetype":"locality",
+    "wof:population":304,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344147679
+    ],
     "wof:tags":[]
 },
   "bbox": [

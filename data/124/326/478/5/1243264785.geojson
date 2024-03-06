@@ -10,10 +10,12 @@
     "geom:latitude":45.4675,
     "geom:longitude":13.57389,
     "gn:admin1_code":"04",
+    "gn:admin2_code":"11129767.0",
     "gn:asciiname":"Valica",
     "gn:cc2":"SI",
     "gn:country_code":"SI",
     "gn:dem":86,
+    "gn:elevation":"0.0",
     "gn:feature_class":"P",
     "gn:feature_code":"PPL",
     "gn:geonameid":3188405,
@@ -70,6 +72,11 @@
     "wof:concordances":{
         "gn:id":3188405
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11071350
+        ]
+    },
     "wof:country":"SI",
     "wof:geomhash":"c26eaf9707e737ca56a2ab6ade91b678",
     "wof:hierarchy":[
@@ -81,13 +88,15 @@
         }
     ],
     "wof:id":1243264785,
-    "wof:lastmodified":1566645164,
+    "wof:lastmodified":1706240663,
     "wof:name":"Valica",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-si",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309912085
+    ],
     "wof:tags":[]
 },
   "bbox": [
